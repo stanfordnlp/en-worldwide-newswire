@@ -145,9 +145,9 @@ to	O
 come	O
 down	O
 on	O
-Friday	B-Money
+Friday	B-Misc
 or	O
-Saturday	B-Money
+Saturday	B-Misc
 night	O
 when	O
 everyone	O
@@ -164,6 +164,7 @@ on	O
 the	O
 road	O
 .	O
+
 I	O
 have	O
 been	O
@@ -289,6 +290,7 @@ is	O
 not	O
 enough	O
 .	O
+
 In	O
 11th	B-Location
 Avenue	I-Location
@@ -367,6 +369,7 @@ Drive	I-Location
 were	O
 made	O
 .	O
+
 However	O
 ,	O
 the	O
@@ -426,6 +429,7 @@ of	O
 pedestrian	O
 safety	O
 .	O
+
 He	O
 said	O
 a	O

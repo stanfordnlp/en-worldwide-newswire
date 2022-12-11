@@ -431,9 +431,9 @@ around	O
 60	O
 mm	O
 between	O
-Tuesday	B-Location
+Tuesday	B-Misc
 and	O
-Thursday	B-Location
+Thursday	B-Misc
 and	O
 some	O
 parts	O

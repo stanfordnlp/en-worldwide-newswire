@@ -23,6 +23,7 @@ nation	O
 of	O
 poets	O
 .	O
+
 An	O
 inhabited	O
 island	O
@@ -58,6 +59,7 @@ almost	O
 meters	O
 tall	O
 .	O
+
 It	O
 ’	O
 s	O
@@ -130,6 +132,7 @@ erupted	O
 in	O
 2010	B-Misc
 .	O
+
 A	O
 handful	O
 of	O
@@ -185,6 +188,7 @@ s	O
 still	O
 underway	O
 .	O
+
 The	O
 country	O
 was	O
@@ -307,6 +311,7 @@ and	O
 beach	O
 clothes	O
 .	O
+
 But	O
 signs	O
 of	O
@@ -338,6 +343,7 @@ Rigoberto	B-Person
 Lopez	I-Person
 Perez	I-Person
 .	O
+
 In	O
 1956	B-Misc
 ,	O
@@ -408,6 +414,7 @@ counterpoint	O
 of	O
 Leon	B-Location
 .	O
+
 Home	O
 to	O
 the	O

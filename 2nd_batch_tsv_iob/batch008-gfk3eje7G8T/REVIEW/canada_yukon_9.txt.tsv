@@ -153,6 +153,7 @@ students	O
 educational	O
 outcomes	O
 .	O
+
 It	O
 will	O
 be	O
@@ -261,6 +262,7 @@ Education	I-Organization
 CCOE	B-Organization
 )	O
 .	O
+
 Schools	O
 under	O
 the	O
@@ -434,6 +436,7 @@ in	O
 the	O
 territory	O
 .	O
+
 While	O
 school	O
 councils	O
@@ -519,6 +522,7 @@ through	O
 the	O
 department	O
 .	O
+
 Trustees	O
 will	O
 also	O
@@ -589,6 +593,7 @@ C	I-Location
 s	O
 curriculum	O
 .	O
+
 Bennett	B-Person
 says	O
 schools	O
@@ -1087,7 +1092,7 @@ on	O
 Jan	B-Misc
 .	I-Misc
 31	I-Misc
-.	I-Misc
+.	O
 
 The	O
 next	O
