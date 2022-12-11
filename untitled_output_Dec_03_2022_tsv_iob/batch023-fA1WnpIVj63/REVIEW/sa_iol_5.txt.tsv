@@ -13,10 +13,10 @@ Cyril	B-Person
 Ramaphosa	I-Person
 to	O
 suspend	O
-Western	B-Location	B-Facility
-Cape	I-Location	I-Facility
-High	O	I-Facility
-Court	O	I-Facility
+Western	B-Location	B-Organization
+Cape	I-Location	I-Organization
+High	O	I-Organization
+Court	O	I-Organization
 Judge	O
 President	O
 John	B-Person
@@ -33,10 +33,10 @@ to	O
 nothing	O
 should	O
 the	O
-Supreme	B-Facility
-Court	I-Facility
-of	I-Facility
-Appeal	I-Facility
+Supreme	B-Organization
+Court	I-Organization
+of	I-Organization
+Appeal	I-Organization
 set	O
 aside	O
 the	O
@@ -790,10 +790,10 @@ report	O
 
 “	O
 The	O
-Western	B-Location	B-Facility
-Cape	I-Location	I-Facility
-High	O	I-Facility
-Court	O	I-Facility
+Western	B-Location	B-Organization
+Cape	I-Location	I-Organization
+High	O	I-Organization
+Court	O	I-Organization
 will	O
 be	O
 the	O

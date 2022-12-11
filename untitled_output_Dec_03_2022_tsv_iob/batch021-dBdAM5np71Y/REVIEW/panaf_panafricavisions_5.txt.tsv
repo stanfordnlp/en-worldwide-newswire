@@ -21,16 +21,16 @@ the	O
 construction	O
 of	O
 the	O
-first	B-Facility
-Inland	I-Facility
-marine	I-Facility
-port	I-Facility
-in	I-Facility
-the	I-Facility
-northern	I-Facility
-parts	I-Facility
-of	I-Facility
-Ghana	I-Facility	B-Location
+first	O
+Inland	O
+marine	O
+port	O
+in	O
+the	O
+northern	O
+parts	O
+of	O
+Ghana	B-Location
 and	O
 an	O
 accompanying	O
@@ -214,10 +214,9 @@ trade	O
 and	O
 preservation	O
 of	O
-Ghana	B-Location	B-Facility
-’	O	I-Facility
-s	O	I-Facility
-roads	O	I-Facility
+Ghana	B-Location
+’s	O
+roads	O
 .	O
 
 “	O
@@ -323,6 +322,7 @@ the	O
 sub	O
 region	O
 .	O
+
 All	O
 services	O
 such	O
@@ -341,10 +341,10 @@ any	O
 international	O
 port	O
 .	O
+
 Saving	B-Misc
 Ghana	I-Misc	B-Location
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 Roads	I-Misc
 ”	O
 ,	O
@@ -572,8 +572,8 @@ barge	O
 trip	O
 from	O
 the	O
-inland	B-Facility
-port	I-Facility
+inland	O
+port	O
 ,	O
 will	O
 take	O

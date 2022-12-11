@@ -2432,8 +2432,8 @@ tel	O
 .	O
 
 The	O
-Rock	B-Facility
-Café	I-Facility
+Rock	B-Location
+Café	I-Location
 also	O
 houses	O
 the	O
@@ -2648,8 +2648,8 @@ the	O
 lodge	O
 .	O
 
-Le	B-Facility
-Meridien	I-Facility
+Le	B-Location
+Meridien	I-Location
 is	O
 among	O
 the	O

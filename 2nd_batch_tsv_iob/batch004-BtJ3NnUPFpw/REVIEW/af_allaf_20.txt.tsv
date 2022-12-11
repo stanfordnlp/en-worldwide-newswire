@@ -242,8 +242,8 @@ roundabout	I-Facility	I-Location
 -	O	I-Location
 Abusuakuruwa	O	I-Location
 ,	O
-Western	B-Facility
-Bypass	I-Facility
+Western	O
+Bypass	O
 2	O
 km	O
 Suame	B-Location	B-Facility
@@ -267,8 +267,8 @@ Roundabout	O	I-Facility
 -	O
 Kejetia	B-Location
 ,	O
-Eastern	B-Facility
-Bypass	I-Facility
+Eastern	O
+Bypass	O
 1.4	O
 km	O
 Suame	B-Location	B-Facility

@@ -731,9 +731,9 @@ the	O
 territory	O
 ’	O
 s	O
-Department	B-Facility
-of	I-Facility
-Finance	I-Facility
+Department	B-Organization
+of	I-Organization
+Finance	I-Organization
 ,	O
 says	O
 that	O

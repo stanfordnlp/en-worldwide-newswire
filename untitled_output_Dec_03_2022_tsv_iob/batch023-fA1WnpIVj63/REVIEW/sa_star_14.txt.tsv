@@ -517,10 +517,10 @@ of	O
 land	O
 near	O
 the	O
-Johannesburg	B-Location	B-Facility
-Magistrate	O	I-Facility
-'s	O	I-Facility
-Court	O	I-Facility
+Johannesburg	B-Location	B-Organization
+Magistrate	O	I-Organization
+'s	O	I-Organization
+Court	O	I-Organization
 (	O
 Westgate	B-Location
 )	O

@@ -125,13 +125,13 @@ extended	O
 from	O
 the	O
 current	O
-Moroccan	B-NORP	B-Facility
-border	O	I-Facility
+Moroccan	B-NORP
+border	O
 to	O
 the	O
 current	O
-Libyan	B-NORP	B-Facility
-border	O	I-Facility
+Libyan	B-NORP
+border	O
 ,	O
 "	O
 explains	O
@@ -230,15 +230,15 @@ Kebailia	I-Person
 Director	O
 of	O
 the	O
-National	B-Facility
-Public	I-Facility
-Museum	I-Facility
-of	I-Facility
-Arts	I-Facility
-and	I-Facility
-Traditional	I-Facility
-Cultural	I-Facility
-Expression	I-Facility
+National	B-Organization
+Public	I-Organization
+Museum	I-Organization
+of	I-Organization
+Arts	I-Organization
+and	I-Organization
+Traditional	I-Organization
+Cultural	I-Organization
+Expression	I-Organization
 .	O
 
 A	O
@@ -264,7 +264,7 @@ colonialism	O
 
 "	O
 The	O
-Palace	B-Facility
+Palace	O
 was	O
 built	O
 in	O
@@ -320,15 +320,15 @@ Kebailia	I-Person
 Director	O
 of	O
 the	O
-National	B-Facility
-Public	I-Facility
-Museum	I-Facility
-of	I-Facility
-Arts	I-Facility
-and	I-Facility
-Traditional	I-Facility
-Cultural	I-Facility
-Expression	I-Facility
+National	B-Organization
+Public	I-Organization
+Museum	I-Organization
+of	I-Organization
+Arts	I-Organization
+and	I-Organization
+Traditional	I-Organization
+Cultural	I-Organization
+Expression	I-Organization
 .	O
 
 Visitors	O

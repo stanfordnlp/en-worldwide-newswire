@@ -48,10 +48,10 @@ unit	O
 classroom	O
 block	O
 for	O
-Tunga	B-Location	B-Facility
-Islamic	O	I-Facility	B-NORP
-Community	O	I-Facility
-School	O	I-Facility
+Tunga	B-Location	B-Organization
+Islamic	O	B-NORP  I-Organization
+Community	O	I-Organization
+School	O	I-Organization
 at	O
 Dansoman	B-Location
 in	O
@@ -363,9 +363,9 @@ the	O
 comprehensive	O
 rehabilitation	O
 of	O
-Ansarudeen	B-NORP	B-Facility
-Islamic	O	I-Facility	B-NORP
-School	O	I-Facility
+Ansarudeen	B-NORP	B-Organization
+Islamic	O	B-NORP	B-Organization
+School	O	I-Organization
 founded	O
 by	O
 His	O

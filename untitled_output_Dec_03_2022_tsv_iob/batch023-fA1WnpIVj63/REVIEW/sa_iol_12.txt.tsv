@@ -14,11 +14,11 @@ set	O
 to	O
 appear	O
 before	O
-Joburg	B-Location	B-Facility
-Magistrate	O	I-Facility
-’	O	I-Facility
-s	O	I-Facility
-Court	O	I-Facility
+Joburg	B-Location	B-Organization
+Magistrate	O	I-Organization
+’	O	I-Organization
+s	O	I-Organization
+Court	O	I-Organization
 after	O
 he	O
 was	O
@@ -233,10 +233,10 @@ community	O
 ”	O
 .	O
 
-Joburg	B-Location	B-Facility
-Central	O	I-Facility
-police	O	I-Facility
-station	O	I-Facility
+Joburg	B-Location	B-Organization
+Central	O	I-Organization
+police	O	I-Organization
+station	O	I-Organization
 ’	O
 s	O
 commander	O
@@ -280,11 +280,11 @@ Last	O
 week	O
 ,	O
 the	O
-Booysens	B-Location	B-Facility
-Magistrate	O	I-Facility
-’	O	I-Facility
-s	O	I-Facility
-Court	O	I-Facility
+Booysens	B-Location	B-Organization
+Magistrate	O	I-Organization
+’	O	I-Organization
+s	O	I-Organization
+Court	O	I-Organization
 sentenced	O
 30	O
 -	O
@@ -342,11 +342,11 @@ life	O
 imprisonment	O
 in	O
 the	O
-Booysens	B-Location	B-Facility
-Magistrate	O	I-Facility
-’	O	I-Facility
-s	O	I-Facility
-Court	O	I-Facility
+Booysens	B-Location	B-Organization
+Magistrate	O	I-Organization
+’	O	I-Organization
+s	O	I-Organization
+Court	O	I-Organization
 on	O
 (	O
 Wednesday	B-Misc

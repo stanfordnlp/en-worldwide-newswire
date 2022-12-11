@@ -21,11 +21,11 @@ she	O
 appeared	O
 in	O
 the	O
-Johannesburg	B-Location	B-Facility
-Magistrate	O	I-Facility
-’	O	I-Facility
-s	O	I-Facility
-Court	O	I-Facility
+Johannesburg	B-Location	B-Organization
+Magistrate	O	I-Organization
+’	O	I-Organization
+s	O	I-Organization
+Court	O	I-Organization
 on	O
 charges	O
 of	O
@@ -222,11 +222,11 @@ to	O
 appear	O
 in	O
 the	O
-Johannesburg	B-Location	B-Facility
-Magistrate	O	I-Facility
-’	O	I-Facility
-s	O	I-Facility
-Court	O	I-Facility
+Johannesburg	B-Location	B-Organization
+Magistrate	O	I-Organization
+’	O	I-Organization
+s	O	I-Organization
+Court	O	I-Organization
 .	O
 
 At	O

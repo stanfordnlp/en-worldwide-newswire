@@ -308,11 +308,11 @@ ownership	O
 information	O
 to	O
 the	O
-Registrar	B-Facility
-General	I-Facility
-’	I-Facility
-s	I-Facility
-Department	I-Facility
+Registrar	B-Organization
+General	I-Organization
+’	I-Organization
+s	I-Organization
+Department	I-Organization
 during	O
 incorporation	O
 ,	O

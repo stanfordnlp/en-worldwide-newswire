@@ -1124,10 +1124,10 @@ school	O
 at	O
 the	O
 "	O
-Remdoogo	B-Facility
-"	I-Facility
-Opera	I-Facility
-village	I-Facility
+Remdoogo	B-Location
+"	I-Location
+Opera	I-Location
+village	I-Location
 ,	O
 Mr	O
 Kèrè's	B-Person
@@ -1260,8 +1260,8 @@ a	O
 milestone	O
 for	O
 the	O
-Opera	B-Facility
-village	I-Facility
+Opera	B-Location
+village	I-Location
 ,	O
 which	O
 now	O

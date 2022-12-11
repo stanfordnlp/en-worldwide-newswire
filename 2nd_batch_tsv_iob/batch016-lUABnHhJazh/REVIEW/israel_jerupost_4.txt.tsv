@@ -374,11 +374,11 @@ several	O
 years	O
 by	O
 the	O
-Rishon	B-Location	B-Facility
-Lezion	I-Location	I-Facility
-Magistrate	O	I-Facility
-'s	O	I-Facility
-Court	O	I-Facility
+Rishon	B-Location	B-Organization
+Lezion	I-Location	I-Organization
+Magistrate	O	I-Organization
+'s	O	I-Organization
+Court	O	I-Organization
 .	O
 
 "	O

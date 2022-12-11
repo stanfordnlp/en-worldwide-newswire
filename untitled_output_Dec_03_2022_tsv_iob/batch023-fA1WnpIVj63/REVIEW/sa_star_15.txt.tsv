@@ -202,10 +202,10 @@ still	O
 pending	O
 at	O
 the	O
-Supreme	B-Facility
-Court	I-Facility
-of	I-Facility
-Appeal	I-Facility
+Supreme	B-Organization
+Court	I-Organization
+of	I-Organization
+Appeal	I-Organization
 .	O
 
 The	O
@@ -264,10 +264,10 @@ as	O
 far	O
 as	O
 the	O
-Western	B-Location	B-Facility
-Cape	I-Location	I-Facility
-High	O	I-Facility
-Court	O	I-Facility
+Western	B-Location	B-Organization
+Cape	I-Location	I-Organization
+High	O	I-Organization
+Court	O	I-Organization
 is	O
 concerned	O
 .	O
@@ -277,10 +277,10 @@ cases	O
 pending	O
 in	O
 the	O
-Western	B-Location	B-Facility
-Cape	I-Location	I-Facility
-High	O	I-Facility
-Court	O	I-Facility
+Western	B-Location	B-Organization
+Cape	I-Location	I-Organization
+High	O	I-Organization
+Court	O	I-Organization
 ,	O
 including	O
 the	O

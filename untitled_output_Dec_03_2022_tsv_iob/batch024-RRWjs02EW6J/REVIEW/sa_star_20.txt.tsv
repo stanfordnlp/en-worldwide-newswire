@@ -447,10 +447,10 @@ to	O
 appear	O
 in	O
 the	O
-East	B-Location	B-Facility
-London	I-Location	I-Facility
-Magistrate	O	I-Facility
-Court	O	I-Facility
+East	B-Location	B-Organization
+London	I-Location	I-Organization
+Magistrate	O	I-Organization
+Court	O	I-Organization
 on	O
 Monday	B-Misc
 the	I-Misc

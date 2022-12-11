@@ -52,11 +52,11 @@ who	O
 is	O
 warded	O
 at	O
-Linkou	B-Facility
-Chang	I-Facility
-Gung	I-Facility
-Memorial	I-Facility
-Hospital	I-Facility
+Linkou	B-Organization
+Chang	I-Organization
+Gung	I-Organization
+Memorial	I-Organization
+Hospital	I-Organization
 in	O
 Taiwan	B-Location
 's	I-Location

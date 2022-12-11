@@ -127,9 +127,9 @@ the	O
 government	O
 in	O
 the	O
-Delhi	B-Location	B-Facility
-High	O	I-Facility
-court	O	I-Facility
+Delhi	B-Location	B-Organization
+High	O	I-Organization
+court	O	I-Organization
 against	O
 the	O
 sacked	O
