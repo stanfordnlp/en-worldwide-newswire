@@ -49,7 +49,7 @@ classroom	O
 block	O
 for	O
 Tunga	B-Location	B-Organization
-Islamic	O	B-NORP  I-Organization
+Islamic	O	B-NORP	I-Organization
 Community	O	I-Organization
 School	O	I-Organization
 at	O
