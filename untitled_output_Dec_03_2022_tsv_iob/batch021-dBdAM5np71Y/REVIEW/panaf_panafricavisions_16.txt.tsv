@@ -433,23 +433,23 @@ horses	O
 .	O
 .	O
 
-Finchatton	B-Misc
+Finchatton	B-Opening
 33/10	O
 
 Lily	B-Person
 Blue	I-Person
 4/1	O
 
-Holly	B-Organization
-Land	I-Organization
+Holly	B-Person
+Land	I-Person
 5/1	O
 
-Mr	B-Misc
-Greenlight	I-Misc
+Mr	B-Person
+Greenlight	I-Person
 20/1	O
 
-Only	B-Misc
-Him	I-Misc
+Only	B-Person
+Him	I-Person
 3/1	O
 
 Wantage	B-Location

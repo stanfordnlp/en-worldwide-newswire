@@ -70,8 +70,8 @@ White	I-Location
 City	I-Location
 in	O
 “	O
-Paris	B-Location	B-Product
-Match	O	I-Product
+Paris	B-Location	B-Organization
+Match	O	I-Organization
 ”	O
 (	O
 a	O

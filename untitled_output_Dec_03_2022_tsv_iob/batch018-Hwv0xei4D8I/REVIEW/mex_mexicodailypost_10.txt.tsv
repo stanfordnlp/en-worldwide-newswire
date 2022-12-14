@@ -6,8 +6,8 @@ Friday	B-Misc
 July	I-Misc
 22nd	I-Misc
 ,	O
-Google	B-Organization	B-Product
-Cloud	O	I-Product
+Google	B-Product   B-Organization	
+Cloud	I-Product   I-Organization
 announced	O
 plans	O
 for	O
@@ -172,8 +172,8 @@ s	O
 worth	O
 noting	O
 that	O
-Microsoft	B-Organization	B-Product
-Azure	O	I-Product
+Microsoft	B-Product   B-Organization
+Azure	I-Product   I-Organization
 also	O
 announced	O
 plans	O

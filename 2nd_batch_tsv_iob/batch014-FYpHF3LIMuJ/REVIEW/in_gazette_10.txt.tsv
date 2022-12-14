@@ -217,11 +217,11 @@ controversial	O
 book	O
 ,	O
 ‘	O
-We	B-Product
-or	I-Product
-Our	I-Product
-Nationhood	I-Product
-Defined	I-Product
+We	B-Misc
+or	I-Misc
+Our	I-Misc
+Nationhood	I-Misc
+Defined	I-Misc
 ’	O
 ,	O
 which	O
@@ -1281,8 +1281,8 @@ author	O
 -	O
 journalist	O
 in	O
-Jansatta	B-Product
-newspaper	O
+Jansatta	B-Organization
+newspaper	I-Organization
 on	O
 28	B-Misc
 June	I-Misc

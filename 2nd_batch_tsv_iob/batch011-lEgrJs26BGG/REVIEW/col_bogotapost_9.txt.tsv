@@ -237,7 +237,7 @@ and	O
 other	O
 countries	O
 in	O
-LatAm	B-Organization
+LatAm	B-Location
 )	O
 by	O
 training	O
@@ -367,7 +367,7 @@ and	O
 agriculture	O
 world	O
 in	O
-LatAm	B-Organization
+LatAm	B-Location
 is	O
 Colombian	B-NORP
 -	O
@@ -1224,7 +1224,7 @@ the	O
 middle	O
 class	O
 in	O
-LatAm	B-Organization
+LatAm	B-Location
 .	O
 
 Polymath	B-Organization
@@ -1529,7 +1529,7 @@ the	O
 food	O
 industry	O
 in	O
-LatAm	B-Organization
+LatAm	B-Location
 ,	O
 or	O
 just	O
@@ -1571,7 +1571,7 @@ digital	O
 shopping	O
 experience	O
 in	O
-LatAm	B-Organization
+LatAm	B-Location
 through	O
 technology	O
 .	O
@@ -1730,7 +1730,7 @@ loan	O
 .	O
 
 With	O
-LatAm	B-Organization
+LatAm	B-Location
 clocking	O
 in	O
 as	O
@@ -1775,7 +1775,7 @@ watch	O
 Addi	B-Product
 .	O
 
-Addi	B-Product
+Addi	B-Organization
 founders	O
 :	O
 Santiago	B-Person
@@ -2785,7 +2785,7 @@ the	O
 first	O
 company	O
 in	O
-LatAm	B-Organization
+LatAm	B-Location
 dedicated	O
 to	O
 solving	O
@@ -2811,7 +2811,7 @@ particular	O
 needs	O
 of	O
 the	O
-LatAm	B-Organization
+LatAm	B-Location
 industry	O
 ,	O
 the	O
@@ -2923,12 +2923,12 @@ shift	O
 occurring	O
 in	O
 the	O
-LatAm	B-Organization
+LatAm	B-Location
 shipping	O
 industry	O
 .	O
 
-Liftit	O
+Liftit	B-Organization
 CPO	O
 Angel	B-Person
 Celis	I-Person
@@ -2937,9 +2937,9 @@ and	O
 Andrés	B-Person
 Coronado	I-Person
 ,	O
-Head	B-Organization
-Of	I-Organization
-Sales	I-Organization
-for	I-Organization
-Colombia	I-Organization	B-Location
+Head	O
+Of	O
+Sales	O
+for	O
+Colombia    B-Location
 

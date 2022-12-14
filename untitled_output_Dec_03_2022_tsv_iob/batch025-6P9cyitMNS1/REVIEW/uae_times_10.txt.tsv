@@ -265,8 +265,8 @@ operating	O
 self	O
 -	O
 driving	O
-Cruise	B-Organization
-Origin	B-Product
+Cruise	B-Product
+Origin	I-Product
 vehicles	O
 ,	O
 which	O

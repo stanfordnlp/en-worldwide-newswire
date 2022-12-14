@@ -1204,8 +1204,8 @@ already	O
 armed	O
 Azerbaijan	B-Location
 with	O
-Bayraktar	B-Organization	B-Product
-drones	O	I-Product
+Bayraktar	B-Organization	
+drones	O	
 and	O
 has	O
 sold	O

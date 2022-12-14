@@ -947,7 +947,7 @@ hit	O
 .	O
 Diantao	B-Product
 ,	O
-Taobao	B-Misc
+Taobao	B-Organization
 ’	O
 s	O
 dedicated	O
@@ -961,10 +961,10 @@ behind	O
 ByteDance	B-Organization
 ’	O
 s	O
-Douyin	B-Misc
-and	I-Misc
-Kuaishou	I-Misc
-Technology	I-Misc
+Douyin	B-Product
+and	O
+Kuaishou	B-Organization
+Technology	I-Organization
 in	O
 terms	O
 of	O
@@ -996,7 +996,7 @@ firm	O
 No	O
 influencer	O
 from	O
-Taobao	B-Misc
+Taobao	B-Organization
 made	O
 it	O
 into	O
@@ -1013,7 +1013,7 @@ sales	O
 and	O
 Kuaishou	B-Product
 host	O
-Dandan	B-Misc
+Dandan	B-Person
 topped	O
 the	O
 chart	O
@@ -1044,7 +1044,7 @@ June	B-Misc
 event	O
 ,	O
 when	O
-Taobao	B-Misc
+Taobao	B-Organization
 ’	O
 s	O
 live	O
@@ -1230,7 +1230,7 @@ company	O
 but	O
 switched	O
 to	O
-TikTok	B-Organization
+TikTok	B-Product
 [	O
 after	O
 he	O

@@ -860,8 +860,8 @@ the	O
 navy	O
 of	O
 the	O
-Tokugawa	B-Location
-shogunate	I-Location
+Tokugawa	B-Organization
+shogunate	I-Organization
 ,	O
 the	O
 warship	O
@@ -2093,14 +2093,14 @@ documented	O
 images	O
 of	O
 an	O
-Imperial	O
-Japanese	B-NORP	B-Product
-Navy	O	I-Product
-Kairyu	O	I-Product
--	O
-class	O
-midget	O
-submarine	O
+Imperial	B-Organization
+Japanese	B-NORP	I-Organization
+Navy	O	I-Organization
+Kairyu	B-Product
+-	I-Product
+class	I-Product
+midget	I-Product
+submarine	I-Product
 off	O
 the	O
 coast	O

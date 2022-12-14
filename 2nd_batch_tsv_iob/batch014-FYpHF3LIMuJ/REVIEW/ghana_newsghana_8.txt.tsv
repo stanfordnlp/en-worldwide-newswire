@@ -601,7 +601,7 @@ world	O
 s	O
 first	O
 official	B-Product
-Afrobeats	I-Product	B-Misc
+Afrobeats	B-Misc  I-Product	
 Chart	I-Product
 with	O
 the	O
@@ -617,8 +617,8 @@ followed	O
 by	O
 the	O
 Billboard	B-Organization	B-Product
-US	O	I-Product	B-Location
-Afrobeats	O	I-Product	B-Misc
+US	O	B-Location  I-Product
+Afrobeats	O	B-Misc  I-Product	
 Songs	O	I-Product
 chart	O	I-Product
 earlier	O
@@ -687,7 +687,7 @@ used	O
 at	O
 Afro	B-Misc	B-Organization
 Nation	I-Misc	I-Organization
-Portugal	I-Misc	I-Organization	B-Location
+Portugal	I-Misc	B-Location  I-Organization	
 2022	B-Misc
 and	O
 it	O
@@ -700,7 +700,7 @@ Accra	B-Location
 for	O
 Afro	B-Misc
 Nation	I-Misc
-Ghana	I-Misc	B-Location
+Ghana	B-Location  I-Misc	
 2022	B-Misc
 .	O
 We	O
@@ -832,7 +832,7 @@ rise	O
 .	O
 Afro	B-Organization
 Nation	I-Organization
-Ghana	I-Organization	B-Location
+Ghana	B-Location  I-Organization	
 takes	O
 place	O
 29th	B-Misc
