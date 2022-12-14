@@ -197,8 +197,8 @@ Cho	B-Person
 .	O
 
 "	O
-Dona	B-Product
-Cash	I-Product
+Dona	B-Organization
+Cash	I-Organization
 "	O
 is	O
 the	O
@@ -214,8 +214,8 @@ company	O
 Cho	B-Person
 said	O
 that	O
-Dona	B-Product
-Cash	I-Product
+Dona	B-Organization
+Cash	I-Organization
 will	O
 be	O
 available	O
@@ -278,7 +278,7 @@ Province	I-Location
 The	O
 Sanskrit	B-NORP
 word	O
-Vajra	B-Product
+Vajra	O
 means	O
 lightning	O
 .	O

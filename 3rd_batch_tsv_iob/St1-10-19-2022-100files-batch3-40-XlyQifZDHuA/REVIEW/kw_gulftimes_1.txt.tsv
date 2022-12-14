@@ -25,16 +25,16 @@ and	O
 third	O
 positions	O
 for	O
-Toyota	B-Organization	B-Product	B-Misc
-Gazoo	O	I-Product	I-Misc
-Racing	O	O	I-Misc
+Toyota	B-Organization	B-Product	B-Organization
+Gazoo	O	I-Product	I-Organization
+Racing	O	O	I-Organization
 and	O
-Overdrive	B-Misc
-Racing	I-Misc
+Overdrive	B-Organization
+Racing	I-Organization
 at	O
-Baja	B-Misc
-Spain	I-Misc	B-Location
-Aragón	I-Misc	I-Location
+Baja	B-Location  B-Misc  
+Spain	B-Location  I-Misc	
+Aragón	I-Location  I-Misc	
 ,	O
 round	O
 four	O
@@ -536,7 +536,7 @@ new	O
 T	B-Product
 1	I-Product
 +	I-Product
-Toyota	I-Product	B-Organization
+Toyota	B-Organization  I-Product	
 after	O
 winning	O
 the	O
@@ -640,7 +640,7 @@ Overdrive	B-Misc
 Racing	I-Misc
 -	I-Misc
 run	I-Misc
-Toyotas	I-Misc	B-Product
+Toyotas	B-Product   I-Misc	
 .	O
 
 Crews	O
@@ -1239,7 +1239,7 @@ Peinado	I-Person
 ESP	B-Location
 )	O
 Mini	B-Product
-JCW	I-Product	B-Organization
+JCW	B-Organization  I-Product	
 Rally	I-Product
 7	O
 hr	O
@@ -1344,7 +1344,7 @@ Marques	I-Person
 PRT	B-Location
 )	O
 Mini	B-Product
-JCW	I-Product	B-Organization
+JCW	    B-Organization  I-Product	
 Rally	I-Product
 7	O
 hr	O

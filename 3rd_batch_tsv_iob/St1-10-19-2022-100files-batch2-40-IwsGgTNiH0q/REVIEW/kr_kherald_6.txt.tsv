@@ -31,9 +31,9 @@ of	O
 the	O
 firm	O
 's	O
-Luna	B-Product
+Luna	B-Money
 and	O
-TerraUSD	B-Product
+TerraUSD	B-Money
 cryptocurrencies	O
 ,	O
 sources	O
@@ -134,9 +134,9 @@ evasion	O
 after	O
 investors	O
 in	O
-TerraUSD	B-Product
+TerraUSD	B-Money
 and	O
-Luna	B-Product
+Luna	B-Money
 filed	O
 complaints	O
 against	O

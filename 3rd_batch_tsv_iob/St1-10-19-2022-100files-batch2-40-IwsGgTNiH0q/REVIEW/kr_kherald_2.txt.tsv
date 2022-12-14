@@ -107,8 +107,8 @@ making	O
 project	O
 called	O
 “	O
-Missing	B-Product
-Map	I-Product
+Missing	B-Misc
+Map	I-Misc
 ”	O
 on	O
 Dunamu	B-Organization
@@ -125,9 +125,9 @@ to	O
 officials	O
 ,	O
 the	O
-Missing	B-Product
-Map	I-Product
-project	O
+Missing	B-Misc
+Map	I-Misc
+project	I-Misc
 aims	O
 to	O
 create	O

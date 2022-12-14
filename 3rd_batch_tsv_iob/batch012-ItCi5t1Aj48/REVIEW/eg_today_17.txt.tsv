@@ -284,13 +284,13 @@ owner	O
 of	O
 brands	O
 like	O
-Sensodyne	B-Organization
+Sensodyne	B-Product
 ,	O
-Unilever	B-Organization
+Unilever	B-Product
 (	O
 Lipton	B-Product
 and	O
-Dove	B-Product	B-Organization
+Dove	B-Organization  B-Product	
 )	O
 ,	O
 and	O

@@ -3,9 +3,9 @@ https://www.observerbd.com/news.php?id=376746	O
 The	O
 helper	O
 of	O
-Bikash	B-Organization	B-Product
-Paribahan	I-Organization	I-Product
-bus	O	I-Product
+Bikash	B-Organization	
+Paribahan	I-Organization	
+bus	O	
 has	O
 been	O
 arrested	O
@@ -64,10 +64,10 @@ the	O
 victim	O
 boarded	O
 a	O
-bus	B-Product
-of	I-Product
-Bikash	I-Product	B-Organization
-paribahan	I-Product	I-Organization
+bus	O
+of	O
+Bikash	B-Organization
+paribahan	I-Organization
 to	O
 reach	O
 Azimpur	B-Location
