@@ -55,7 +55,7 @@ Namibia	I-Organization	B-Location
 landed	O
 the	O
 Equiano	B-Product
-Google	B-Organization I-Product
+Google	B-Organization	I-Product
 subsea	O	I-Product
 internet	O	I-Product
 cable	O	I-Product
