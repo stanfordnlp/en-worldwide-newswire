@@ -1,0 +1,63 @@
+https://www.abc.net.au/news/2022-08-02/nt-aboriginal-language-jingulu-inspires-ai-system-jswarm/101266306
+
+An Aboriginal language only spoken by a handful of people in the Northern Territory has become the inspiration for a new artificial intelligence system, potentially helping people better communicate with machines. 
+
+Jingulu is considered an endangered language that's traditionally spoken in the Northern Territory's Barkly region.
+
+A study, recently published in academic journal Frontiers in Physics, suggests it has special characteristics that can easily be translated into commands for artificial Intelligence (AI) swarm systems. 
+
+"Maybe one of the most powerful things with Jingulu [is] that it gives us the simplicity and flexibility which we can apply in lots of different applications," lead researcher at University of New South Wales Canberra, Hussein Abbass, said. 
+
+AI swarm systems are used in machines to help them to collaborate with humans and undertake complex tasks than humans command them to do.
+
+Dr Abbass said he stumbled on the Jingulu language by accident, while developing a new communication system. 
+
+"When I started looking at the abstract, it didn't take much time to click in my mind about how suitable it is, for the work I do on artificial intelligence and human AI teaming," he said. 
+
+Language easily translatable into AI commands
+
+Dr Abbass said it was normal for AI researchers to draw on different forms of communication for their work, including other human languages, body language and even music.
+
+However, he said the Jingulu language was especially well-suited to AI because it had only three verbs — 'go', come' and 'do' — which meant it could be easily translated into commands.
+
+"The specific AI model that we are working on relies on the very simple concepts of attraction and repulsion, in physics .... and this very simple concept fits underneath the mathematics of our AI," he said.
+
+"We can apply the 'go' and 'come' to the attraction and repulsion concepts, in the mathematical model that we have, and the 'do', to when there's no movement in a space.
+
+"The structure of Jingulu matches extremely nicely to the mathematics, and that's what made it really fascinating, for what we do."
+
+"I have not encountered another language that has all of these advantages simultaneously, and in alignment with AI."
+
+'Unique' elements of language beneficial for AI 
+
+Study co-author and University of Canberra professor in linguistics Eleni Petraki said Jingulu's flexible sentence structure was also an advantage.
+
+"[In most languages] words appear in a specific order .... in Jingulu however you can split those elements," she said.
+
+With only several, elderly fluent speakers remaining, Jingulu is considered an endangered language, according to Rachel Nordlinger, a linguistics professor at the University of Melbourne and director of the Research Unit for Indigenous Language. 
+
+She said while there were related Aboriginal languages with similar features, Jingulu had some unique characteristics. 
+
+"What's different about Jingulu is that other languages might have small numbers of verbs, but there might be 20 of them or 30 of them, whereas Jingulu has only three," she said.
+
+"The structure's similar, but it's different in having such a small number of verbs, that combine with other words."
+
+The new artificial intelligence system created with Jingulu in mind, JSwarm, was initially developed to help farmers herd sheep, as a language which would allow an app used by farmers to communicate with unmanned aerial vehicles performing the task.
+
+It has not yet been implemented, with its developers still working to secure funding. 
+
+However Dr Abbass said the system could potentially be used beyond agriculture in future, including in areas such as medicine to defence. 
+
+"[There are] almost an infinite number of applications," he said.
+
+Dr Abbass said the AI system was the first instance he was aware of in which an Australian Indigenous language had been used "at the interface of human and AI communication".
+
+"You never know where good ideas will come from, and without keeping our minds open, we won't be able to innovate," he said.
+
+Dr Nordlinger said researchers' use of Jingulu to develop the system was an example of the growing level of interest in Indigenous languages in Australia, both from Indigenous communities themselves and the wider Australian public.
+
+"People are becoming more aware of how fascinating these languages are, but also how endangered they are, and therefore how precious they are," she said.
+
+"I think [this study] is a sign of the growing interest for sure, and it can be a real positive.
+
+"It can only be a good thing to have more attention and more appreciation of these languages."

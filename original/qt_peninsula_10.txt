@@ -1,0 +1,23 @@
+https://thepeninsulaqatar.com/article/19/07/2022/qatar-at-forefront-of-efforts-to-prevent-spread-of-cyber-attacks
+
+The State of Qatar has been at the forefront of efforts to prevent the spread of cyber-attacks and create a safe environment.
+
+The Government Communications Office (GCO) yesterday highlighted these efforts in a tweet further highlighting the Qatari platform ‘Warning’ that uses advanced technology to detect cyber security threats to infrastructure systems and corporations.
+
+The platform was created as part of the State of Qatar’s efforts to prevent the spread of cyber-attacks, the GCO said. The platform exemplifies the future of cyber-security as it uses AI technologies; identifies phishing domains and aims to block them; detects malware software; and identifies malicious enterprise network traffic.
+
+According to an earlier report of May this year, scientists at Hamad Bin Khalifa University’s Qatar Computing Research Institute (QCRI), in partnership with Qatari stakeholders and Turkish partners, successfully built a cyber-security defence platform named ‘Warning’ for predicting and detecting security threats against enterprises and critical infrastructures.
+
+The new platform is an outcome of a three-year project between QCRI, Qatar’s Ministry of Interior, the Supreme Committee for Delivery and Legacy, and Turkey’s TOBB University of Economics and Technology, Kadir Has University, and Interprobe, a cyber intelligence and cyber defense company.
+
+It was jointly funded by a $1.65m grant from Qatar National Research Fund (QNRF) and the Scientific and Technological Research Council of Turkey (TUBITAK).
+
+In a recent interview with The Peninsula Dr. Abdullatif Shikfa, Assistant Professor at the University of Doha for Science and Technology (UDST), said that cyber-security awareness and skill enhancement should be a more prominent focus of policymakers in the region.
+
+“Qatar is taking cyber-security very seriously and has put cyber-security and privacy at the top of the FIFA World Cup 2022 event agenda by developing a cyber-security framework,” he said.
+
+He added that Qatar developed a National Cyber Security Strategy in 2013 and established the Qatar Computer Emergency Response Team as early as 2006.
+
+‘Warning’ is user-friendly and produces high-quality intelligence about existing and novel cyber-security threats. The platform is powered by novel artificial intelligence (AI) technologies developed by the team and includes technology that can detect phishing domains as early as possible. Phishing domains are one of the main methods used by attackers to distribute malicious content to users to steal their credentials, data, and assets.
+
+‘Warning’ is also able to detect malware, which is the key means for attackers to compromise user accounts and hijack their systems, and also has the technology for the detection of malicious enterprise network traffic. This technology helps to accurately identify insider attackers by carefully profiling normal versus abnormal traffic patterns.

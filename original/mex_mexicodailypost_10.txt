@@ -1,0 +1,10 @@
+https://mexicodailypost.com/2022/07/23/google-cloud-announced-plans-for-its-first-cloud-region-in-mexico/
+
+On Friday, July 22nd, Google Cloud announced plans for its first cloud region in Mexico, its third in Latin America after Santiago, Chile, and São Paulo, Brazil.
+
+The new region, which will be Google’s 35th, will allow it to better serve its local users with lower-latency access to its cloud services, but — and these days, this may be even more important — offer these users data residency and compliance options.
+
+“The cloud region in Mexico will unlock new possibilities for the use of cloud technologies by public sector organizations in the country,” said Juan Carlos Sarmiento Tovilla, the director general of Information Systems at Mexico’s Federal Court of Administrative Justice. “Different public entities would benefit from interoperating in an efficient and secure way, facilitating access to computing power and information technologies.”
+
+In this context, it’s worth noting that Microsoft Azure also announced plans to open a region in Mexico (though that was in 2020 and it’s not open yet) and AWS also announced plans for a region in the country last year, as well as a local zone in Queretaro.
+
