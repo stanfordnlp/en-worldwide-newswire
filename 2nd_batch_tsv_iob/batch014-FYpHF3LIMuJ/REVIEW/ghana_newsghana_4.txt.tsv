@@ -364,7 +364,7 @@ comprehensive	O
 rehabilitation	O
 of	O
 Ansarudeen	B-NORP	B-Organization
-Islamic	O	B-NORP	B-Organization
+Islamic	B-NORP	B-Organization
 School	O	I-Organization
 founded	O
 by	O
