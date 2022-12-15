@@ -34,8 +34,7 @@ week	O
 Tizya	B-Person
 -	I-Person
 Tramm	I-Person
-’	O
-s	O
+’s	O
 community	O
 of	O
 Old	B-Location
@@ -95,8 +94,7 @@ ice	O
 
 “	O
 We	O
-’	O
-ve	O
+’ve	O
 never	O
 seen	O
 anything	O
@@ -152,8 +150,7 @@ future	O
 ”	O
 
 On	O
-Feb	B-Misc
-.	I-Misc
+Feb.	B-Misc
 25	I-Misc
 a	O
 convoy	O
@@ -163,9 +160,9 @@ trucks	O
 left	O
 Eagle	B-Location
 Plains	I-Location
-in	I-Location
-northern	I-Location
-Yukon	I-Location
+in	O
+northern	O
+Yukon	B-Location
 for	O
 Old	B-Location
 Crow	I-Location
@@ -217,8 +214,7 @@ the	O
 -	O
 art	O
 elder	O
-’	O
-s	O
+’s	O
 complex	O
 and	O
 health	O
@@ -237,9 +233,8 @@ an	O
 ice	O
 road	O
 and	O
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 had	O
 one	O
 built	O
@@ -400,8 +395,7 @@ the	O
 water	O
 because	O
 it	O
-’	O
-s	O
+’s	O
 very	O
 dangerous	O
 in	O
@@ -420,8 +414,7 @@ in	O
 overflow	O
 ,	O
 you	O
-’	O
-re	O
+’re	O
 putting	O
 your	O
 life	O
@@ -478,8 +471,7 @@ Eventually	O
 ,	O
 the	O
 truck	O
-’	O
-s	O
+’s	O
 crew	O
 and	O
 community	O
@@ -659,8 +651,7 @@ Canada	B-Location
 says	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 going	O
 to	O
 be	O
@@ -685,16 +676,14 @@ territory	O
 and	O
 if	O
 that	O
-’	O
-s	O
+’s	O
 not	O
 an	O
 emergency	O
 ,	O
 I	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 know	O
 what	O
 is	O
@@ -770,8 +759,7 @@ of	O
 snow	O
 and	O
 it	O
-’	O
-s	O
+’s	O
 been	O
 -	O
 40	O
@@ -839,8 +827,7 @@ Arctic	B-Location
 Circle	I-Location
 ,	O
 I	O
-’	O
-m	O
+’m	O
 able	O
 to	O
 relay	O
@@ -958,9 +945,8 @@ snowfall	O
 Derksen	B-Person
 says	O
 he	O
-hasn	O
-’	O
-t	O
+has	O
+n’t	O
 heard	O
 of	O
 other	O
@@ -1018,8 +1004,7 @@ roads	O
 ,	O
 so	O
 we	O
-’	O
-re	O
+’re	O
 quite	O
 concerned	O
 about	O
@@ -1054,8 +1039,7 @@ Tizya	B-Person
 Tramm	I-Person
 says	O
 it	O
-’	O
-s	O
+’s	O
 now	O
 more	O
 important	O
@@ -1070,8 +1054,7 @@ pay	O
 attention	O
 to	O
 what	O
-’	O
-s	O
+’s	O
 happening	O
 in	O
 the	O
@@ -1081,8 +1064,7 @@ North	O
 “	O
 If	O
 we	O
-’	O
-re	O
+’re	O
 seeing	O
 this	O
 in	O

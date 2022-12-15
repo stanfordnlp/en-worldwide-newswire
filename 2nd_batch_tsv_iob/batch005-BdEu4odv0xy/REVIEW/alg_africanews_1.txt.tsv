@@ -1,9 +1,9 @@
 https://www.africanews.com/2022/07/18/algerias-ancient-treasures-from-constantine-to-the-roman-ruins-of-timgad/	O
 
 Constantine	B-Location
-in	I-Location
-eastern	I-Location
-Algeria	I-Location
+in	O
+eastern	O
+Algeria	B-Location
 is	O
 one	O
 of	O
@@ -32,7 +32,8 @@ emperor	O
 '	O
 Constantine	B-Person
 the	I-Person
-Great'	I-Person
+Great	I-Person
+'	O
 said	O
 that	O
 it	O

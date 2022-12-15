@@ -265,11 +265,11 @@ the	O
 settlement	O
 of	O
 Wybalenna	B-Location
-on	I-Location
-Flinders	I-Location
+on	O
+Flinders	B-Location
 Island	I-Location
-in	I-Location
-Bass	I-Location
+in	O
+Bass	B-Location
 Strait	I-Location
 in	O
 1831	B-Misc

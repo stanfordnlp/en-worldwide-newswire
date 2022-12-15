@@ -319,11 +319,11 @@ such	O
 as	O
 Mueller	B-Location
 Hut	I-Location
-(	I-Location
-in	I-Location
-Aoraki	I-Location
-/	O
-Mt	B-Location
+(	O
+in	O
+Aoraki	B-Location
+/	I-Location
+Mt	I-Location
 Cook	I-Location
 National	I-Location
 park	I-Location

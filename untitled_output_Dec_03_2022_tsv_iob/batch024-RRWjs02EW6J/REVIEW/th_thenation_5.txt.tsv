@@ -108,8 +108,8 @@ Chit	I-Location
 to	O
 Khu	B-Location
 Khot	I-Location
-in	I-Location
-Pathum	I-Location
+in	O
+Pathum	B-Location
 Thani	I-Location
 (	O
 19	O

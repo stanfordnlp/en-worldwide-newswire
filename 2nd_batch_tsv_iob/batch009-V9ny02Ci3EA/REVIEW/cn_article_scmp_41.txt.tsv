@@ -430,10 +430,10 @@ calls	O
 the	O
 Nansha	B-Location
 Islands	I-Location
-,	I-Location
-in	I-Location
-the	I-Location
-South	I-Location
+,	O
+in	O
+the	O
+South	B-Location
 China	I-Location
 Sea	I-Location
 .	O

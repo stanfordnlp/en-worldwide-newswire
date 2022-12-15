@@ -134,10 +134,10 @@ a	O
 project	O
 in	O
 Jingdezhen	B-Location
-,	I-Location
-in	I-Location
-southern	I-Location
-Jiangxi	I-Location
+,	O
+in	O
+southern	O
+Jiangxi	B-Location
 province	I-Location
 ,	O
 he	O

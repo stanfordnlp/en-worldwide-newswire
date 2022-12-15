@@ -423,8 +423,8 @@ ambassador	O
 of	O
 El	B-Location
 Salvador	I-Location
-in	I-Location
-Peru	I-Location
+in	O
+Peru	B-Location
 recently	O
 met	O
 with	O

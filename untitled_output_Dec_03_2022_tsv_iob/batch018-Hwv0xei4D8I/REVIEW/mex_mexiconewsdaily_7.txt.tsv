@@ -52,8 +52,7 @@ thus	O
 roam	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 tropical	O
 and	O
 subtropical	O
@@ -85,8 +84,7 @@ particularly	O
 fond	O
 of	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 Yucatán	B-Location
 Peninsula	I-Location
 ,	O
@@ -443,8 +441,7 @@ headlight	O
 on	O
 my	O
 wife	O
-’	O
-s	O
+’s	O
 car	O
 —	O
 the	O
@@ -489,9 +486,8 @@ even	O
 knowing	O
 that	O
 sharks	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 have	O
 eyelashes	O
 —	O
@@ -548,13 +544,14 @@ some	O
 kilometers	O
 off	O
 Cancún	B-Location
-in	I-Location
-the	I-Location
-state	I-Location
-of	I-Location
-Quintana	I-Location
+in	O
+the	O
+state	O
+of	O
+Quintana	B-Location
 Roo	I-Location
 .	O
+
 Here	O
 ,	O
 and	O
@@ -587,8 +584,7 @@ waters	O
 
 The	O
 world	O
-’	O
-s	O
+’s	O
 largest	O
 known	O
 aggregation	O
@@ -634,9 +630,8 @@ gentle	O
 giants	O
 ,	O
 I	O
-couldn	O
-’	O
-t	O
+could	O
+n’t	O
 help	O
 but	O
 imagine	O
@@ -673,8 +668,7 @@ that	O
 nourishes	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 largest	O
 fish	O
 .	O
@@ -890,9 +884,8 @@ here	O
 ,	O
 but	O
 we	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 know	O
 exactly	O
 where	O
@@ -926,17 +919,17 @@ paradise	O
 the	O
 Yucatán	B-Location
 Peninsula	I-Location
-in	I-Location
-the	I-Location
-Caribbean	I-Location
+in	O
+the	O
+Caribbean	B-Location
 .	O
+
 In	O
 the	O
 Pacific	B-Location
 ,	O
 it	O
-’	O
-s	O
+’s	O
 the	O
 Gulf	B-Location
 of	I-Location
@@ -968,8 +961,7 @@ Yucatán	I-Location
 one	O
 of	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 most	O
 important	O
 nongovernmental	O
@@ -1103,8 +1095,7 @@ me	O
 the	O
 whale	O
 shark	O
-’	O
-s	O
+’s	O
 colossal	O
 body	O
 ,	O
@@ -1117,8 +1108,7 @@ slowly	O
 vanished	O
 into	O
 Mexico	B-Location
-’	O
-s	O
+’s	O
 blue	O
 sea	O
 ,	O

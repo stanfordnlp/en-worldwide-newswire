@@ -99,9 +99,8 @@ Nation	O	I-Organization
 said	O
 the	O
 document	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 consider	O
 their	O
 position	O
@@ -114,9 +113,8 @@ that	O
 the	O
 decision	O
 bodies	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 fulfill	O
 their	O
 obligations	O
@@ -197,9 +195,9 @@ south	O
 of	O
 Ross	B-Location
 River	I-Location
-in	I-Location
-southeast	I-Location
-Yukon	I-Location
+in	O
+southeast	O
+Yukon	B-Location
 .	O
 
 The	O
@@ -209,6 +207,7 @@ disappointing	O
 for	O
 BMC	B-Organization
 .	O
+
 Allan	B-Person
 Nixon	I-Person
 ,	O
@@ -217,8 +216,7 @@ vice	O
 president	O
 of	O
 BMC	B-Organization
-’	O
-s	O
+’s	O
 external	O
 affairs	O
 ,	O
@@ -229,9 +227,8 @@ is	O
 disheartened	O
 the	O
 Kaska	B-NORP
-don	O
-’	O
-t	O
+do	O
+n’t	O
 feel	O
 adequately	O
 consulted	O
@@ -269,8 +266,7 @@ the	O
 effort	O
 that	O
 BMC	B-Organization
-’	O
-s	O
+’s	O
 put	O
 in	O
 the	O
@@ -794,8 +790,7 @@ June	B-Misc
 Letter	O
 emphasized	O
 Kaska	B-NORP
-’	O
-s	O
+’s	O
 strong	O
 opposition	O
 to	O
@@ -990,9 +985,8 @@ them	O
 
 “	O
 It	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 change	O
 our	O
 commitment	O
@@ -1008,9 +1002,8 @@ their	O
 communities	O
 ,	O
 and	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 change	O
 our	O
 commitment	O
@@ -1018,8 +1011,7 @@ to	O
 ensuring	O
 that	O
 they	O
-’	O
-re	O
+’re	O
 full	O
 partners	O
 in	O
@@ -1071,8 +1063,7 @@ consultation	O
 “	O
 (	O
 We	O
-’	O
-re	O
+’re	O
 hoping	O
 to	O
 see	O

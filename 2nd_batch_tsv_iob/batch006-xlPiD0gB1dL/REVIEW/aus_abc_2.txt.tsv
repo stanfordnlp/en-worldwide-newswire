@@ -1018,11 +1018,11 @@ heart	O
 Based	O
 in	O
 Maningrida	B-Location
-in	I-Location
-north	I-Location
--	I-Location
-east	I-Location
-Arnhem	I-Location
+in	O
+north	O
+-	O
+east	O
+Arnhem	B-Location
 Land	I-Location
 ,	O
 Rostron	B-Person
@@ -1087,7 +1087,8 @@ song	O
 Took	B-Misc
 the	I-Misc
 Children	I-Misc
-Away'	I-Misc
+Away	I-Misc
+'	O
 ,	O
 brought	O
 with	O

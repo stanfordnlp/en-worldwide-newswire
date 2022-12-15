@@ -199,8 +199,8 @@ Macron	B-Person
 at	O
 the	O
 Élysée	B-Location
-in	I-Location
-Paris	I-Location
+in	O
+Paris	B-Location
 ,	O
 where	O
 they	O

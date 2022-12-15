@@ -40,10 +40,10 @@ Asif	I-Person
 drowned	O
 in	O
 nallah	B-Location
-in	I-Location
-Mandi	I-Location
--	O
-loran	B-Location
+in	O
+Mandi	B-Location
+-	I-Location
+loran	I-Location
 near	O
 bus	O
 stand	O
@@ -75,6 +75,7 @@ got	O
 washed	O
 away	O
 .	O
+
 The	O
 searches	O
 for	O

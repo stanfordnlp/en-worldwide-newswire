@@ -361,6 +361,7 @@ proper	O
 water	O
 system	O
 .	O
+
 Santa	B-Location
 Marta	I-Location
 has	O
@@ -377,6 +378,7 @@ water	O
 supply	O
 recently	O
 .	O
+
 Another	O
 departmental	O
 capital	O
@@ -389,6 +391,7 @@ is	O
 issuing	O
 alerts	O
 .	O
+
 Poor	O
 infrastructure	O
 means	O
@@ -400,9 +403,8 @@ people	O
 in	O
 Colombia	B-Location
 still	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 have	O
 safe	O
 ,	O
@@ -437,6 +439,7 @@ to	O
 drinkable	O
 water	O
 .	O
+
 The	O
 number	O
 of	O
@@ -463,9 +466,8 @@ reckoned	O
 5	O
 million	O
 people	O
-didn	O
-’	O
-t	O
+did	O
+n’t	O
 have	O
 regular	O
 access	O
@@ -475,6 +477,7 @@ water	O
 last	O
 year	O
 .	O
+
 In	O
 Chocó	B-Location
 ,	O

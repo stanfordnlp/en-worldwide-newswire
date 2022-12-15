@@ -120,8 +120,8 @@ be	O
 hosted	O
 by	O
 Egypt	B-Location
-in	I-Location
-Sharm	I-Location
+in	O
+Sharm	B-Location
 El	I-Location
 Sheikh	I-Location
 on	O

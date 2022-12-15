@@ -71,11 +71,12 @@ and	O
 San	B-Location
 Carlos	I-Location
 Streams	I-Location
-in	I-Location
-La	I-Location
+in	O
+La	B-Location
 Libertad	I-Location
 region	O
 .	O
+
 Its	O
 objective	O
 is	O

@@ -7,8 +7,7 @@ one	O
 of	O
 Latin	B-Location
 America	I-Location
-’	O
-s	O
+’s	O
 most	O
 important	O
 artists	O
@@ -55,10 +54,11 @@ Arts	I-Location
 y	I-Location
 les	I-Location
 Ciències	I-Location
-’	I-Location
-in	I-Location
-València	I-Location
+’	O
+in	O
+València	B-Location
 .	O
+
 The	O
 organizers	O
 of	O
@@ -68,8 +68,7 @@ say	O
 that	O
 Karol	B-Person
 G	I-Person
-’	O
-s	O
+’s	O
 career	O
 is	O
 representative	O
@@ -86,8 +85,7 @@ event	O
 
 Karol	B-Person
 G	I-Person
-’	O
-s	O
+’s	O
 participation	O
 in	O
 the	O
@@ -301,8 +299,7 @@ addition	O
 to	O
 Karol	B-Person
 G	I-Person
-’	O
-s	O
+’s	O
 exclusive	O
 show	O
 in	O

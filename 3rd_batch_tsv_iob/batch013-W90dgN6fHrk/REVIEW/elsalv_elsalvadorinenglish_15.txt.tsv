@@ -17,10 +17,10 @@ Cocoa	B-Location
 and	I-Location
 Chocolate	I-Location
 Hall	I-Location
-in	I-Location
-Lima	I-Location
-,	O
-Peru	B-Location
+in	O
+Lima	B-Location
+,	I-Location
+Peru	I-Location
 ,	O
 is	O
 the	O

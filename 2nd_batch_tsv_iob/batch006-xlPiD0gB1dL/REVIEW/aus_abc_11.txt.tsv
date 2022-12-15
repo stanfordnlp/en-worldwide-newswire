@@ -178,10 +178,10 @@ moving	O
 to	O
 Wagga	B-Location
 Wagga	I-Location
-,	I-Location
-in	I-Location
-southern	I-Location
-New	I-Location
+,	O
+in	O
+southern	O
+New	B-Location
 South	I-Location
 Wales	I-Location
 .	O
@@ -225,6 +225,7 @@ Wagga	B-Location
 Wagga	I-Location
 ]	O
 .	O
+
 I	O
 met	O
 a	O

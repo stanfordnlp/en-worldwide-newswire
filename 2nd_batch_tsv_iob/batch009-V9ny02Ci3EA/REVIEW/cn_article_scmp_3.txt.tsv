@@ -20,10 +20,10 @@ newly	O
 opened	O
 contemporary	O
 Straits	B-Location
-restaurant	I-Location
-Pangium	B-Location
-in	I-Location
-Singapore	I-Location
+restaurant	O
+Pangium	B-Facility
+in	O
+Singapore	B-Location
 ,	O
 brings	O
 about	O

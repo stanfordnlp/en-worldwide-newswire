@@ -38,10 +38,9 @@ bus	O
 in	O
 rural	O
 Solapur	B-Location
-in	I-Location
-India	I-Location
-’	O
-s	O
+in	O
+India	B-Location
+’s	O
 western	B-Location
 Maharashtra	I-Location
 state	O
@@ -151,8 +150,7 @@ Once	O
 home	O
 ,	O
 Divya	B-Person
-’	O
-s	O
+’s	O
 husband	O
 asked	O
 her	O
@@ -270,6 +268,7 @@ is	O
 not	O
 unique	O
 .	O
+
 Crimes	O
 of	O
 a	O
@@ -283,8 +282,7 @@ and	O
 girls	O
 from	O
 India	B-Location
-’	O
-s	O
+’s	O
 less	O
 privleged	O
 castes	O
@@ -309,8 +307,7 @@ the	O
 bottom	O
 of	O
 India	B-Location
-’	O
-s	O
+’s	O
 complex	O
 caste	O
 hierarchy	O
@@ -345,8 +342,7 @@ National	B-Organization
 Crime	I-Organization
 Records	I-Organization
 Bureau	I-Organization
-’	O
-s	O
+’s	O
 latest	O
 data	O
 ,	O
@@ -444,8 +440,7 @@ percent	O
 .	O
 For	O
 comparison	O
-’	O
-s	O
+’s	O
 sake	O
 ,	O
 the	O
@@ -585,8 +580,7 @@ on	O
 caste	O
 ;	O
 they	O
-’	O
-re	O
+’re	O
 also	O
 based	O
 on	O
@@ -595,12 +589,10 @@ and	O
 gender	O
 .	O
 It	O
-’	O
-s	O
+’s	O
 Dalit	B-NORP
 women	O
-’	O
-s	O
+’s	O
 bodies	O
 that	O
 become	O
@@ -608,6 +600,7 @@ targets	O
 of	O
 violence	O
 .	O
+
 For	O
 the	O
 majority	O
@@ -759,8 +752,7 @@ pressure	O
 
 In	O
 Pawar	B-Person
-’	O
-s	O
+’s	O
 case	O
 ,	O
 her	O
@@ -863,8 +855,7 @@ these	O
 cases	O
 ,	O
 there	O
-’	O
-s	O
+’s	O
 a	O
 lot	O
 of	O
@@ -1024,8 +1015,7 @@ it	O
 was	O
 the	O
 victim	O
-’	O
-s	O
+’s	O
 fault	O
 .	O
 ”	O
@@ -1086,9 +1076,8 @@ registered	O
 these	O
 examinations	O
 often	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 provide	O
 adequate	O
 evidence	O
@@ -1106,9 +1095,8 @@ Moreover	O
 ,	O
 the	O
 FIRs	B-Misc
-don	O
-’	O
-t	O
+do	O
+n’t	O
 guarantee	O
 justice	O
 .	O
@@ -1116,9 +1104,8 @@ justice	O
 “	O
 The	O
 police	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 listen	O
 to	O
 the	O
@@ -1137,9 +1124,8 @@ Manuski	B-Organization
 .	O
 “	O
 They	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 write	O
 the	O
 story	O
@@ -1151,9 +1137,8 @@ the	O
 survivor	O
 and	O
 they	O
-don	O
-’	O
-t	O
+do	O
+n’t	O
 fill	O
 in	O
 the	O
@@ -1259,8 +1244,7 @@ a	O
 spokeswoman	O
 for	O
 India	B-Location
-’	O
-s	O
+’s	O
 governing	O
 Bharatiya	B-Organization
 Janata	I-Organization
@@ -1385,8 +1369,7 @@ camera	O
 .	O
 “	O
 It	O
-’	O
-s	O
+’s	O
 a	O
 bit	O
 expensive	O
@@ -1434,8 +1417,7 @@ of	O
 the	O
 health	O
 ministry	O
-’	O
-s	O
+’s	O
 Medico	B-Misc
 -	I-Misc
 Legal	I-Misc
@@ -1467,9 +1449,8 @@ medical	O
 examinations	O
 ]	O
 confidentiality	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 exist	O
 ,	O
 ”	O
@@ -1525,11 +1506,10 @@ It	O
 was	O
 banned	O
 by	O
-India	B-Location	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Supreme	O	I-Organization
-Court	O	I-Organization
+India	B-Location
+’s	O
+Supreme	B-Organization
+Court	I-Organization
 in	O
 2013	B-Misc
 .	O
@@ -1640,9 +1620,8 @@ courts	O
 ,	O
 but	O
 it	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 happen	O
 like	O
 that	O
@@ -1657,8 +1636,7 @@ is	O
 a	O
 trial	O
 that	O
-’	O
-s	O
+’s	O
 been	O
 going	O
 on	O
@@ -1669,9 +1647,7 @@ last	O
 years	O
 in	O
 Gujarat	B-Location
-[	O
 in	O
-]	O
 a	O
 village	O
 called	O
@@ -1691,13 +1667,12 @@ accused	O
 ,	O
 who	O
 had	O
-[	O
 gang	O
 -	O
 raped	O
-]	O
 her	O
 .	O
+
 Some	O
 of	O
 them	O

@@ -304,11 +304,11 @@ Islamic	B-Location
 Republic	I-Location
 of	I-Location
 Iran	I-Location
-in	I-Location
-the	I-Location
-Persian	I-Location
+in	O
+the	O
+Persian	B-Location
 Gulf	I-Location
-region	I-Location
+region	O
 and	O
 enjoys	O
 a	O

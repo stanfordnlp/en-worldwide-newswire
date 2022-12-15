@@ -13,9 +13,9 @@ motorcycle	O
 at	O
 Sadar	B-Location
 upazila	I-Location
-in	I-Location
-Bogura	I-Location
-district	O
+in	O
+Bogura	B-Location
+district	I-Location
 on	O
 Thursday	B-Misc
 .	O

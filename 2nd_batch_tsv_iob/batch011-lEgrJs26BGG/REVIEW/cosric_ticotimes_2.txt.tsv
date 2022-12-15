@@ -179,15 +179,16 @@ a	O
 representative	O
 to	O
 the	O
-Cádiz	B-Location
-Cortes	I-Location
-in	I-Location
-Spain	I-Location
+Cádiz	B-Organization
+Cortes	I-Organization
+in	O
+Spain	B-Location
 .	O
+
 They	O
 chose	O
-Costa	B-Location
-Rican	I-Location
+Costa	B-NORP
+Rican	I-NORP
 politician	O
 and	O
 Presbyterian	B-NORP
