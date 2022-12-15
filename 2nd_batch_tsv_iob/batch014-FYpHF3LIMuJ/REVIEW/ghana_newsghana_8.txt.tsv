@@ -5,9 +5,9 @@ the	O
 huge	O
 success	O
 of	O
-Afro	B-Misc
-Nation	I-Misc
-Portugal	I-Misc	B-Location
+Afro	O	B-Misc
+Nation	O	I-Misc
+Portugal	B-Location	I-Misc
 this	O
 July	B-Misc
 ,	O
@@ -46,9 +46,9 @@ of	O
 Black	B-NORP
 joy	O
 ,	O
-Afro	B-Misc
-Nation	I-Misc
-Ghana	I-Misc	B-Location
+Afro	O	B-Misc
+Nation	O	I-Misc
+Ghana	B-Location	I-Misc
 comes	O
 home	O
 to	O
@@ -218,18 +218,18 @@ region	O
 
 As	O
 with	O
-Afro	B-Organization
-Nation	I-Organization
-Portugal	I-Organization	B-Location
+Afro	O	B-Organization
+Nation	O	I-Organization
+Portugal	B-Location	I-Organization
 and	O
-Afro	B-Organization
-Nation	I-Organization
-Puerto	I-Organization	B-Location
-Rico	I-Organization	I-Location
+Afro	O	B-Organization
+Nation	O	I-Organization
+Puerto	B-Location	I-Organization
+Rico	I-Location	I-Organization
 ,	O
-Afro	B-Organization
-Nation	I-Organization
-Ghana	I-Organization	B-Location
+Afro	O	B-Organization
+Nation	O	I-Organization
+Ghana	B-Location	I-Organization
 will	O
 work	O
 alongside	O
@@ -385,10 +385,9 @@ the	O
 First	O
 President	O
 and	O
-BBC	B-Organization
-Africa	I-Organization	B-Location
-’	O
-s	O
+BBC	O	B-Organization
+Africa	B-Location	I-Organization
+’s	O
 Man	O
 of	O
 the	O
@@ -441,9 +440,9 @@ and	O
 family	O
 .	O
 
-Afro	B-Organization
-Nation	I-Organization
-Ghana	I-Organization	B-Location
+Afro	O	B-Organization
+Nation	O	I-Organization
+Ghana	B-Location	I-Organization
 looks	O
 to	O
 foster	O
@@ -482,11 +481,7 @@ scale	O
 [	O
 PHOTO	O
 ]	O
-http://cdn.modernghana.com/images/content/727202255410-vaqdtgfssn-afro-nation-beach-1024	O
-×	O
-683	O
-.	O
-jpg	O
+http://cdn.modernghana.com/images/content/727202255410-vaqdtgfssn-afro-nation-beach-1024×683.jpg	O
 [	O
 /	O
 PHOTO	O
@@ -600,9 +595,9 @@ world	O
 ’	O
 s	O
 first	O
-official	B-Product
+official	O	B-Product
 Afrobeats	B-Misc	I-Product
-Chart	I-Product
+Chart	O	I-Product
 with	O
 the	O
 Official	B-Organization
@@ -616,9 +611,9 @@ Kingdom	I-Location
 followed	O
 by	O
 the	O
-Billboard	O	B-Organization	B-Product
-US	O	B-Location	I-Product
-Afrobeats	O	B-Misc	I-Product
+Billboard	B-Organization	B-Product
+US	B-Location	I-Product
+Afrobeats	B-Misc	I-Product
 Songs	O	I-Product
 chart	O	I-Product
 earlier	O
@@ -633,11 +628,7 @@ States	I-Location
 [	O
 PHOTO	O
 ]	O
-http://cdn.modernghana.com/images/content/727202255411-1h830o4aau-afro-nation-artiste-1024	O
-×	O
-683	O
-.	O
-jpg	O
+http://cdn.modernghana.com/images/content/727202255411-1h830o4aau-afro-nation-artiste-1024×683.jpg	O
 [	O
 /	O
 PHOTO	O
@@ -685,9 +676,9 @@ main	O
 stage	O
 used	O
 at	O
-Afro	B-Misc	B-Organization
-Nation	I-Misc	I-Organization
-Portugal	I-Misc	B-Location	I-Organization
+Afro	O	B-Misc
+Nation	O	I-Misc
+Portugal	B-Location	I-Misc
 2022	B-Misc
 and	O
 it	O
@@ -698,11 +689,12 @@ shipped	O
 to	O
 Accra	B-Location
 for	O
-Afro	B-Misc
-Nation	I-Misc
+Afro	O	B-Misc
+Nation	O	I-Misc
 Ghana	B-Location	I-Misc
 2022	B-Misc
 .	O
+
 We	O
 have	O
 initiated	O
@@ -801,11 +793,7 @@ support	O
 [	O
 PHOTO	O
 ]	O
-http://cdn.modernghana.com/images/content/727202255412-8dt2wjivuq-afro-nation-wizkid-1024	O
-×	O
-683	O
-.	O
-jpg	O
+http://cdn.modernghana.com/images/content/727202255412-8dt2wjivuq-afro-nation-wizkid-1024×683.jpg	O
 [	O
 /	O
 PHOTO	O
@@ -830,8 +818,9 @@ on	O
 the	O
 rise	O
 .	O
-Afro	B-Organization
-Nation	I-Organization
+
+Afro	O	B-Organization
+Nation	O	I-Organization
 Ghana	B-Location	I-Organization
 takes	O
 place	O
