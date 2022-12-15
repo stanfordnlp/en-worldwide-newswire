@@ -18,12 +18,12 @@ the	O
 Climate	B-Misc
 Resilience	I-Misc
 Program	I-Misc
-for	O
-Coffee	B-Location
-Forests	I-Location
-in	I-Location
-El	I-Location	B-Location
-Salvador	I-Location	I-Location
+for	I-Misc
+Coffee	I-Misc
+Forests	I-Misc
+in	O
+El	B-Location
+Salvador	I-Location
 ,	O
 recently	O
 inaugurated	O

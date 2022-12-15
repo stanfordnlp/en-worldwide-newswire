@@ -854,8 +854,8 @@ the	O
 University	B-Organization
 of	I-Organization
 Wroclaw	I-Organization	B-Location
-in	O	I-Location
-Poland	O	I-Location
+in	O
+Poland	B-Location
 ,	O
 said	O
 interviews	O

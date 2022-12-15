@@ -51,8 +51,8 @@ of	O
 remote	O
 Behermunda	B-Location
 Hamlet	I-Location
-in	I-Location
-Sambalpur	I-Location
+in	O
+Sambalpur	B-Location
 district	O
 in	O
 the	O

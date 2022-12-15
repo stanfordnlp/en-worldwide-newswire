@@ -185,8 +185,8 @@ in	I-Location
 Liaoning	I-Location
 province	I-Location
 ,	O
-northeastern	B-Location
-China	I-Location
+northeastern	O
+China	B-Location
 ,	O
 where	O
 Wang	B-Person

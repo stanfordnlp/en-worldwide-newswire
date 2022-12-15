@@ -66,10 +66,10 @@ Jawan	I-Facility
 Jyoti	I-Facility
 at	O
 the	O
-India	B-Location
-Gate	I-Location
-in	I-Location
-Delhi	I-Location	B-Location
+India	B-Facility
+Gate	I-Facility
+in	O
+Delhi	B-Location
 every	O
 year	O
 ,	O

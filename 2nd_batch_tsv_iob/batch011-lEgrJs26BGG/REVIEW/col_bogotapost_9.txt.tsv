@@ -31,8 +31,7 @@ increased	O
 Holding	O
 Latin	B-Location
 America	I-Location
-’	O
-s	O
+’s	O
 fourth	O
 -	O
 largest	O
@@ -143,8 +142,7 @@ in	O
 2022	B-Misc
 .	O
 Let	O
-’	O
-s	O
+’s	O
 take	O
 a	O
 look	O
@@ -152,8 +150,7 @@ at	O
 The	O
 Bogotá	B-Location	B-Organization
 Post	O	I-Organization
-’	O
-s	O
+’s	O
 top	O
 15	O
 places	O
@@ -291,8 +288,7 @@ one	O
 of	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 most	O
 popular	O
 language	O
@@ -460,8 +456,7 @@ its	O
 ingredients	O
 ,	O
 it	O
-’	O
-s	O
+’s	O
 no	O
 wonder	O
 that	O
@@ -1193,8 +1188,7 @@ Colombia	B-Location
 ,	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 efforts	O
 are	O
 focused	O
@@ -1334,8 +1328,7 @@ companies	O
 for	O
 Latin	B-Location
 America	I-Location
-’	O
-s	O
+’s	O
 middle	O
 class	O
 .	O
@@ -1467,8 +1460,7 @@ buy	O
 at	O
 the	O
 manufacturer	O
-’	O
-s	O
+’s	O
 price	O
 to	O
 earn	O
@@ -1702,11 +1694,11 @@ installment	O
 payment	O
 plan	O
 doesn	O
-’	O
-t	O
+’t	O
 charge	O
 interest	O
 .	O
+
 There	O
 are	O
 some	O
@@ -2105,8 +2097,7 @@ designed	O
 to	O
 improve	O
 people	O
-’	O
-s	O
+’s	O
 performance	O
 ,	O
 they	O
@@ -2329,8 +2320,7 @@ routes	O
 to	O
 an	O
 individual	O
-’	O
-s	O
+’s	O
 training	O
 plan	O
 thanks	O
@@ -2672,8 +2662,7 @@ results	O
 of	O
 each	O
 business	O
-’	O
-s	O
+’s	O
 reconciliation	O
 .	O
 
@@ -2759,8 +2748,7 @@ Liftit	B-Organization
 is	O
 Latin	B-Location
 America	I-Location
-’	O
-s	O
+’s	O
 premier	O
 technology	O
 platform	O
@@ -2794,11 +2782,11 @@ problems	O
 within	O
 the	O
 region	O
-’	O
-s	O
+’s	O
 shipping	O
 infrastructure	O
 .	O
+
 Liftit	B-Organization
 provides	O
 the	O
@@ -2859,6 +2847,7 @@ operators	O
 in	O
 Colombia	B-Location
 .	O
+
 With	O
 more	O
 than	O
@@ -2869,8 +2858,7 @@ employed	O
 ,	O
 the	O
 company	O
-’	O
-s	O
+’s	O
 growth	O
 keeps	O
 its	O
@@ -2896,6 +2884,7 @@ flexibility	O
 Liftit	O
 provides	O
 .	O
+
 What	O
 is	O
 more	O
@@ -2941,5 +2930,5 @@ Head	O
 Of	O
 Sales	O
 for	O
-Colombia    B-Location
+Colombia	B-Location
 

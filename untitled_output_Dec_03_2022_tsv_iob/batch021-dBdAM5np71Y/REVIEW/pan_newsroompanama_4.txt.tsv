@@ -49,8 +49,8 @@ food	O
 to	O
 Panama	B-Location
 City	I-Location
-in	I-Location
-Viguí	I-Location
+in	O
+Viguí	B-Location
 ,	O
 district	O
 of	O
@@ -107,10 +107,8 @@ to	O
 the	O
 Attorney	B-Facility
 General	I-Facility
-’	I-Facility
-s	I-Facility
-0	I-Facility
-ffice	I-Facility
+’s	I-Facility
+0ffice	I-Facility
 in	O
 Panama	B-Location
 City	I-Location

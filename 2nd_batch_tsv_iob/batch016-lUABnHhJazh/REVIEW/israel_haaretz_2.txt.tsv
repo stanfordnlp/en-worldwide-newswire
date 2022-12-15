@@ -604,8 +604,8 @@ the	O
 camera	O
 ,	O
 in	O
-“	B-Misc
-Living	I-Misc
+“	O
+Living	B-Misc
 in	I-Misc
 the	I-Misc
 Shadow	I-Misc
@@ -2096,9 +2096,9 @@ resident	O
 of	O
 the	O
 Khalisa	B-Location
-neighborhood	I-Location
-in	I-Location
-Haifa	I-Location
+neighborhood	O
+in	O
+Haifa	B-Location
 ,	O
 who	O
 in	O

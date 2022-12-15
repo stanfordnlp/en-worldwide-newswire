@@ -366,13 +366,13 @@ the	O
 head	O
 of	O
 the	O
-Czech	B-Location
-Economic	I-Location
-and	I-Location
-Cultural	I-Location
-Office	I-Location
-in	I-Location
-Taipei	I-Location
+Czech	B-Organization
+Economic	I-Organization
+and	I-Organization
+Cultural	I-Organization
+Office	I-Organization
+in	O
+Taipei	B-Location
 ,	O
 and	O
 expressed	O
@@ -380,7 +380,7 @@ his	O
 gratitude	O
 to	O
 the	O
-Czech	B-Location
+Czech	B-NORP
 representative	O
 for	O
 his	O
@@ -391,8 +391,8 @@ the	O
 trip	O
 to	O
 the	O
-Czech	B-Location	B-Location
-Republic	O	I-Location
+Czech	B-Location
+Republic	I-Location
 .	O
 
 During	O

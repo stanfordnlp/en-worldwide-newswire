@@ -19,8 +19,8 @@ culture	O
 at	O
 Wat	B-Location
 Benchamabophit	I-Location
-in	I-Location
-Bangkok	I-Location
+in	O
+Bangkok	B-Location
 's	O
 Dusit	B-Organization
 district	O

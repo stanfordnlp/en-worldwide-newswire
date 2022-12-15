@@ -406,12 +406,12 @@ Jaffa	B-Location
 to	O
 Rosh	B-Location
 Pina	I-Location
-[	I-Location
-in	I-Location
-the	I-Location
-Upper	I-Location
+[	O
+in	O
+the	O
+Upper	B-Location
 Galilee	I-Location
-]	I-Location
+]	O
 ;	O
 the	O
 first	O

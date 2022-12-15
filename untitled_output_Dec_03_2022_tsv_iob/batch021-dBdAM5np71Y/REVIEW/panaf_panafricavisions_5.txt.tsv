@@ -36,12 +36,12 @@ an	O
 accompanying	O
 Industrial	B-Facility
 Park	I-Facility
-at	I-Facility
-Debre	I-Facility	B-Location
-in	O	I-Location
-the	O	I-Location
-Savannah	O	I-Location
-Region	O	I-Location
+at	O
+Debre	B-Location
+in	O
+the	O
+Savannah	B-Location
+Region	I-Location
 .	O
 
 The	O

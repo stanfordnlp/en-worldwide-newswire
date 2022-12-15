@@ -1,0 +1,25 @@
+https://ticotimes.net/2022/07/21/costa-rica-disables-servers-due-to-cyber-attack-threat
+
+It’s estimated that around eighty-five thousand employees cannot access the institution’s databases.
+
+Therefore, the IT Management Department activated the established protocol, which includes the preventive disabling of the institutional servers.
+
+“We worked in inter-institutional coordination with MICITT during the early morning hours, and to date, we have not been able to determine any breach to our systems,” the institution indicated through a Facebook post.
+
+Due to the disconnection, the MEP offices were left without consultation systems, so until further notice, it will not be possible to serve users or carry out administrative procedures.
+
+“Currently, we are following up with the MEP’s technology team. There are no signs that a cyber-attack has materialized,” said Paula Brenes Ramírez, director of Digital Governance.
+
+In addition, Otto Vargas, MEP’s press director, said that the IT Department is working on enabling the systems as soon as possible.
+
+“Today, it will not be possible to provide assistance to users or to carry out any procedures until it is determined that it is safe to restore the servers,” MEP authorities added.
+
+Furthermore, they assured that the containment actions were implemented. MEP authorities analyzed the incident, and the reinforcement of cybersecurity will continue according to the related protocols.
+
+Unfortunately, Costa Rica has been the target of cyber-attacks. At least 27 public entities have been affected by these criminal acts since April.
+
+The most recent attack was suffered by the Costa Rican Social Security Fund (Caja Costarricense del Seguro Social). Today, the institution continues to be affected by this serious incident.
+
+Currently, authorities from the Ministry of Publication Education are investigating the incident. It is expected that in the next few days, they will be able to provide a detailed report.
+
+President Chaves mentioned that his administration would focus on implementing cybersecurity strategies. He also explained that, in general, public institutions lacked cybersecurity plans and were therefore vulnerable to these attacks.

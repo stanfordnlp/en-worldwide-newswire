@@ -32,9 +32,9 @@ and	O
 Overdrive	B-Organization
 Racing	I-Organization
 at	O
-Baja	B-Location  B-Misc  
-Spain	B-Location  I-Misc	
-Aragón	I-Location  I-Misc	
+Baja	O	B-Misc
+Spain	B-Location	I-Misc
+Aragón	I-Location	I-Misc
 ,	O
 round	O
 four	O
@@ -533,15 +533,12 @@ in	O
 a	O
 brand	O
 new	O
-T	B-Product
-1	I-Product
-+	I-Product
-Toyota	B-Organization  I-Product	
+T1+	O	B-Product
+Toyota	B-Organization	I-Product
 after	O
 winning	O
 the	O
-T	O
-3	O
+T3	O
 category	O
 at	O
 the	O
@@ -636,11 +633,11 @@ the	O
 fifth	O
 of	O
 the	O
-Overdrive	B-Misc
-Racing	I-Misc
--	I-Misc
-run	I-Misc
-Toyotas	B-Product   I-Misc	
+Overdrive	O	B-Misc
+Racing	O	I-Misc
+-	O	I-Misc
+run	O	I-Misc
+Toyotas	B-Product	I-Misc
 .	O
 
 Crews	O
@@ -1238,9 +1235,9 @@ Peinado	I-Person
 (	O
 ESP	B-Location
 )	O
-Mini	B-Product
-JCW	B-Organization  I-Product	
-Rally	I-Product
+Mini	O	B-Product
+JCW	B-Organization	I-Product
+Rally	O	I-Product
 7	O
 hr	O
 49	O
@@ -1343,9 +1340,9 @@ Marques	I-Person
 (	O
 PRT	B-Location
 )	O
-Mini	B-Product
-JCW	    B-Organization  I-Product	
-Rally	I-Product
+Mini	O	B-Product
+JCW	B-Organization	I-Product
+Rally	O	I-Product
 7	O
 hr	O
 58	O

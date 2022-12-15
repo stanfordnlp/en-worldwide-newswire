@@ -51,8 +51,8 @@ Mia	I-Person
 of	O
 Rampurdasha	B-Location
 village	I-Location
-in	I-Location
-Barhatta	I-Location
+in	O
+Barhatta	B-Location
 upazila	I-Location
 of	I-Location
 Netrakona	I-Location

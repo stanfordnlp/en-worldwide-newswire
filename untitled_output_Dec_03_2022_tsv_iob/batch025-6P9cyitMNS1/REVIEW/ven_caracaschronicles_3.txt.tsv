@@ -667,8 +667,8 @@ Street	I-Location
 and	O
 Fifth	B-Location
 Avenue	I-Location
-in	I-Location
-Manhattan	I-Location
+in	O
+Manhattan	B-Location
 .	O
 
 A	O

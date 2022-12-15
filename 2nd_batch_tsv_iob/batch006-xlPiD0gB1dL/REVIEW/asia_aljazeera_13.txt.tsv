@@ -220,8 +220,8 @@ travelled	O
 from	O
 Dairang	B-Location
 village	I-Location
-in	I-Location
-Assam	I-Location
+in	O
+Assam	B-Location
 for	O
 the	O
 celebrations	O

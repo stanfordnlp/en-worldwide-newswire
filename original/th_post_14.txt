@@ -1,0 +1,28 @@
+https://www.bangkokpost.com/thailand/general/2349308/thai-police-deny-using-pegasus-spyware-on-activists
+
+The Royal Thai Police (RTP) have never used spyware in any security operations to surveil people or violate their rights, Pol Col Kissana Phathanacharoen, a deputy spokesman for the national police, said on Tuesday.
+
+He was responding to media reports that at least 30 political activists in Thailand have been hacked using the Israeli surveillance spyware Pegasus.
+
+Security operations involving suspected criminal activities occurring overseas are always conducted in cooperation with the RTP’s international counterparts and other international security agencies, he said.
+
+“The Royal Thai Police have never used any spyware to violate anyone’s rights as suggested in those news reports and rumours spread on social media. The RTP strictly follow laws and regulations,” Pol Col Kissana said.
+
+Pegasus belongs to Israel-based NSO Group, which has been blacklisted from deals with US companies after a wave of revelations claiming its spyware was used against peaceful dissidents and their associates around the world, according to media reports.
+
+Now it is suspected of having been used in Thailand to target government opponents, following a revelation by some human rights and cyber monitoring groups.
+
+Thai human rights group iLaw, Southeast Asian internet watchdog Digital Reach and Toronto-based Citizen Lab have previously revealed findings from their probe conducted after a mass alert from Apple in November informing thousands of iPhone users, including in Thailand, that they were targets of a spyware attack.
+
+Piyabutr Saengkanokkul, secretary-general of the Progressive Movement, said he was among the victims of the Pegasus spyware attack. He said he experienced up to eight attempts to hack his iPhone using this particular spyware.
+
+When he received an e-mail from Apple in November alerting him to the risk that he may be a target of state-sponsored attackers, he thought it was just junk mail.
+
+But later when he spoke with fellow political activists, they informed him they had all received similar warning emails, he said.
+
+“Someone told me Citizen Lab had already warned that many international iPhone users were targets of the spyware attack, most of whom were activists, academics, journalists, politicians and other opponents of governments,” Mr Piyabutr said.
+
+As such, he asked iLaw to coordinate an inspection by Citizen Lab of his iPhone and those of other activists in Thailand to look for traces of the Pegasus spyware attack. This revealed his phone had been attacked on eight occasions between Dec 3, 2020 and July 4, 2021.
+
+“I heard about the Trojan horse Pegasus from my politician and activist friends when visiting France," he said. "But I never thought this would one day happen to me."
+

@@ -322,11 +322,11 @@ took	O
 it	O
 to	O
 the	O
-Fox	B-Location
-Trap	I-Location
-Roadhouse	I-Location
-in	I-Location
-Cooladdi	I-Location
+Fox	B-Facility
+Trap	I-Facility
+Roadhouse	I-Facility
+in	O
+Cooladdi	B-Location
 ,	O
 the	O
 only	O
@@ -578,8 +578,8 @@ a	O
 station	O
 near	O
 Coonabarabran	B-Location
-in	I-Location
-New	I-Location
+in	O
+New	B-Location
 South	I-Location
 Wales	I-Location
 and	O

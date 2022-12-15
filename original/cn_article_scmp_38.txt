@@ -1,0 +1,45 @@
+https://www.scmp.com/news/china/science/article/3185980/chinese-scientists-plan-disposable-nuclear-reactor-long-range?module=In-house&pgtype=homepage
+
+A Beijing research team says it has completed the conceptual design for a small, low-cost nuclear reactor that would be able to drive a swarm of torpedoes across the Pacific Ocean in about a week.
+The Chinese researchers are proposing a mini version of the Russian Poseidon unmanned submarine – the world’s first known underwater drone powered by nuclear energy.
+Unlike the Poseidon, which cannot be mass-produced because it is too big, expensive and destructive, the mini version could be fitted into a standard torpedo tube and launched in large numbers from almost any submarine or warship, the scientists said.
+Each torpedo would use a disposable nuclear reactor to reach and maintain a cruising speed of over 30 knots (56km/h or 35mph) for 200 hours before dumping the reactor to the seabed and drawing power from a battery to launch an attack with conventional weapons.
+
+Lead scientist Guo Jian from the China Institute of Atomic Energy said there is a fundamental difference between the design and Poseidon, in a paper published this month by the peer-reviewed Journal of Unmanned Undersea Systems, a publication run by the China Shipbuilding Industry Corporation, the country’s biggest naval contractor.
+“Thanks to its high flexibility and low cost, this unmanned underwater vehicle equipped with the nuclear power system can be used as a conventional force like an attack nuclear submarine, rather than as a nuclear missile,” he said.
+According to Russian media reports, the Poseidon’s two-megaton nuclear warhead – 100 times more powerful than the Hiroshima bomb – could destroy a coastal city or wider area.
+But the Chinese researchers said the use of such a weapon could trigger a world-ending nuclear war, making it unlikely that many more will be built. Instead, the Poseidon mainly serves as a strategic weapon, they said.
+Guo said there is a growing demand in China for “small, high-speed, long-range unmanned underwater vehicles that can be used in reconnaissance, tracking, attack and strategic strike”.
+
+A team of researchers in China has published details of a conceptual design for a low cost, smaller version of Russia’s Poseidon nuclear-powered underwater drone. Photo: Twitter
+A team of researchers in China has published details of a conceptual design for a low cost, smaller version of Russia’s Poseidon nuclear-powered underwater drone. Photo: Twitter
+A Beijing research team says it has completed the conceptual design for a small, low-cost nuclear reactor that would be able to drive a swarm of torpedoes across the Pacific Ocean in about a week.
+The Chinese researchers are proposing a mini version of the Russian Poseidon unmanned submarine – the world’s first known underwater drone powered by nuclear energy.
+Unlike the Poseidon, which cannot be mass-produced because it is too big, expensive and destructive, the mini version could be fitted into a standard torpedo tube and launched in large numbers from almost any submarine or warship, the scientists said.
+Each torpedo would use a disposable nuclear reactor to reach and maintain a cruising speed of over 30 knots (56km/h or 35mph) for 200 hours before dumping the reactor to the seabed and drawing power from a battery to launch an attack with conventional weapons.
+
+Lead scientist Guo Jian from the China Institute of Atomic Energy said there is a fundamental difference between the design and Poseidon, in a paper published this month by the peer-reviewed Journal of Unmanned Undersea Systems, a publication run by the China Shipbuilding Industry Corporation, the country’s biggest naval contractor.
+“Thanks to its high flexibility and low cost, this unmanned underwater vehicle equipped with the nuclear power system can be used as a conventional force like an attack nuclear submarine, rather than as a nuclear missile,” he said.
+According to Russian media reports, the Poseidon’s two-megaton nuclear warhead – 100 times more powerful than the Hiroshima bomb – could destroy a coastal city or wider area.
+But the Chinese researchers said the use of such a weapon could trigger a world-ending nuclear war, making it unlikely that many more will be built. Instead, the Poseidon mainly serves as a strategic weapon, they said.
+Guo said there is a growing demand in China for “small, high-speed, long-range unmanned underwater vehicles that can be used in reconnaissance, tracking, attack and strategic strike”.
+China is boosting its rocket launch system ‘from the coast to the Himalayas’
+Nuclear power can provide an enormous amount of energy to support these missions, but most reactors come with a sophisticated structure and high cost.
+To build a new nuclear power system with “mature and simple technology that is easy to use and maintain, inexpensive and suitable for mass production, we need to think out of the box,” Guo said.
+For their design the project team stripped most shielding materials from their reactor, protecting only some critical components from radiation. They also replaced expensive coatings made with rare earth elements inside the reactor core with cheap materials such as graphite.
+To further cut costs, the scientists propose using some commercially available components on the international market instead of military-grade products.
+The reactor, as heavy as two average Chinese adult males, would generate more than 1.4 megawatts of heat with less than 4kg (8.8lbs) of low-concentration uranium fuel.
+According to Guo’s calculations, only about six per cent of the generated heat would be converted to electricity to propel the torpedo because of the low efficiency of the cheap components, but the energy would be more than enough for a one-way trip.
+
+“When the manufacturing cost is low enough, even if the nuclear powered device can only be used once, the overall cost will be low. This in turn stimulates us to make the system simpler and smaller,” the researchers said.
+Because the mini reactor would produce no radioactivity, service personnel could handle it as a “clean asset” without the need for protective gear, they said.
+A chain reaction would start as soon as the torpedo left the launching platform and take about half an hour – 20 times faster than a typical reactor on a nuclear submarine – to reach a working temperature of 300 degrees Celsius (572 Fahrenheit) and accelerate the torpedo to a cruising speed of around 60km/h (37mph).
+The researchers estimate the reactor would be able to operate for up to 400 hours, cruising over 10,000km (6,200 miles) – about the distance from Shanghai to San Francisco.
+It would then separate from the torpedo and fall to the bottom of the deep sea, activating a safety mechanism to kill the remaining chain reaction, they said.
+
+“Even if the hull is broken, the interior is filled with water, and the whole body falls into the wet sand on the seabed, the reactor will not have a critical accident. Safety is ensured.”
+Ma Liang, a researcher studying submarine launch technology with the Navy Submarine Academy in Qingdao, Shandong province, said “smart torpedoes” acting in packs would play an important role in future sea battles.
+AI technology, such as machine learning ,would enable the torpedoes to select and attack targets with little or no human intervention, she said in a separate paper published in the same journal on July 13.
+Smart torpedoes would be able to set up an ambush on the other side of the ocean and “strike submarines as they leave a port in home waters that is difficult to reach by manned platforms”, Ma said.
+The torpedo swarm could take orders from humans or an unmanned underwater command vehicle to carry out a wide range of missions such as reconnaissance and following a high value target, she said. “This is the most dynamic research technology field at present.”
+

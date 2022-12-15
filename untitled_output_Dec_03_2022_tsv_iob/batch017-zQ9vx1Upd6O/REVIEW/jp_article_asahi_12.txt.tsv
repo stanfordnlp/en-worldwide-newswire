@@ -2093,7 +2093,7 @@ documented	O
 images	O
 of	O
 an	O
-Imperial	B-Organization
+Imperial	O	B-Organization
 Japanese	B-NORP	I-Organization
 Navy	O	I-Organization
 Kairyu	B-Product

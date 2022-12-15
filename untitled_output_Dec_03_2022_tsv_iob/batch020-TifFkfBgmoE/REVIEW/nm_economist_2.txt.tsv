@@ -54,11 +54,11 @@ Namibia	I-Organization	B-Location
 ,	O
 landed	O
 the	O
-Equiano	B-Product
-Google	B-Organization I-Product
-subsea	O   I-Product
-internet	O   I-Product
-cable	O   I-Product
+Equiano	O	B-Product
+Google	B-Organization	I-Product
+subsea	O	I-Product
+internet	O	I-Product
+cable	O	I-Product
 on	O
 dry	O
 land	O

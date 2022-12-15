@@ -27,8 +27,8 @@ at	O
 the	O
 Presidential	B-Location
 Palace	I-Location
-in	I-Location
-Cairo	I-Location	B-Location
+in	O
+Cairo	B-Location
 .	O
 
 Sisi	B-Person

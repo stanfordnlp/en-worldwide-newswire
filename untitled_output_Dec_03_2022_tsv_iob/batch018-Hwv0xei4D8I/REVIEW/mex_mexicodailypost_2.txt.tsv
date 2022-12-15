@@ -33,8 +33,8 @@ Carmen	I-Location
 ,	O
 and	O
 Guadalupe	B-Location
-in	I-Location
-San	I-Location
+in	O
+San	B-Location
 Cristóbal	I-Location
 de	I-Location
 Las	I-Location

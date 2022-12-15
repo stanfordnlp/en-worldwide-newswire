@@ -1,0 +1,20 @@
+https://www.scmp.com/tech/big-tech/article/3186101/tencent-shut-down-chinese-nft-platform-huanhe-year-after-launch
+
+Chinese social media giant Tencent Holdings plans to shut down its non-fungible token (NFT) platform, which launched just one year ago, as Beijing’s strict ban on secondary markets for digital collectibles has largely killed its business potential, according to a report by Chinese media outlet Jiemian on Wednesday.
+The report, which quoted unidentified sources from Tencent, said that Huanhe, the unit that mints and distributes blockchain-based digital collectibles, will close as soon as this week.
+Tencent did not immediately respond to requests for comment.
+
+If the platform is shut down, it would mark a major retreat by Tencent from the NFT market, which has been under tight scrutiny from Beijing since growing fervour last year ignited a race to develop new trading platforms.
+On the Huanhe app, all NFTs currently show “sold out”, but users can still visit augmented reality art exhibitions. A report from state-owned media Yicai Global, also citing an unnamed source at Tencent, said trading halted at the beginning of the month in anticipation of a crackdown.
+Technology giants including Tencent and Alibaba Group Holding, owner of the South China Morning Post, have tread carefully with their NFT platforms in mainland China. Most domestic platforms eschew the NFT label altogether, favouring “digital collectibles” because it is not associated with cryptocurrency.
+The central government strictly banned the trading of cryptocurrencies in China last year, following years of crackdowns. It has also been wary of speculation that could lead to asset bubbles in the crypto market. As a result, digital collectibles must be purchased with yuan, and reselling for a profit is banned.
+This has not stopped other companies and organisations from jumping into the market. Baidu, JD.com, and even state-backed Xinhua News Agency and the Communist Youth League have all offered their own NFTs.
+
+“There was a spree of big companies flocking to issue digital collectibles. But the business itself is unsustainable, because the fact that they made everything an NFT and offered a huge number of copies doesn’t make the product rare any more,” said Gao Chengshi, a Web3 analyst and investor who is a founding partner of blockchain developer Shanghai Hashvalue Information Technology.
+New batches of digital collectibles have typically been offered in large numbers. Xinhua News Agency, for example, granted 110,001 copies of select news photos in an NFT drop last Christmas Eve.
+But Gao is still bullish about the future of NFTs, both in China and abroad. Both fungible and non-fungible blockchain-based tokens, he said, will become the “fundamental elements in digital society”.
+Tencent’s Huanhe was incubated by its Platform and Content Group (PCG), officially launching early last August. PCG was one of the hardest-hit Tencent units during lay-offs earlier this year.
+
+More recently, Huanhe has faced lagging sales, with many of its limited releases remaining unsold, according to a June article on Huoxun Finance, a blockchain-focused blog.
+Last month, Tencent’s ubiquitous social media app WeChat announced that it would ban public accounts offering secondary trading services or guidance.
+A couple of weeks later, the Tencent News app stopped selling digital collectibles and the section for the feature was revamped into a “digital orders”, where users can only see previous purchase records.

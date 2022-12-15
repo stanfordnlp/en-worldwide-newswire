@@ -1,8 +1,4 @@
-https://www.scmp.com/news/people-culture/trending-china/article/3185801/chinese-boy-goes-viral-after-he-storms-out?module=topics_int	O
-&	O
-pgtype	O
-=	O
-homepage	O
+https://www.scmp.com/news/people-culture/trending-china/article/3185801/chinese-boy-goes-viral-after-he-storms-out?module=topics_int&pgtype=homepage	O
 
 A	O
 Chinese	B-NORP
@@ -26,10 +22,9 @@ educational	O
 video	O
 about	O
 China	B-Location
-’	O
-s	O
+’s	O
 Long	B-Product
-March	B-Misc  I-Product	
+March	I-Product
 rockets	I-Product
 in	O
 a	O
@@ -88,7 +83,7 @@ as	O
 confusing	O
 the	O
 Long	B-Product
-March	B-Misc  I-Product	
+March	I-Product
 3	I-Product
 rocket	I-Product
 with	O
@@ -118,6 +113,7 @@ in	O
 the	O
 video	O
 .	O
+
 “	O
 How	O
 can	O
@@ -126,13 +122,14 @@ caption	O
 this	O
 as	O
 Long	B-Product
-March	B-Misc  I-Product	
+March	I-Product
 5	I-Product
 ?	O
+
 This	O
 is	O
 Long	B-Product
-March	B-Misc  I-Product	
+March	I-Product
 3	I-Product
 !	O
 ”	O
@@ -144,12 +141,12 @@ went	O
 viral	O
 on	O
 China	B-Location
-’	O
-s	O
+’s	O
 social	O
 media	O
 platforms	O
 .	O
+
 Many	O
 who	O
 saw	O
@@ -162,8 +159,7 @@ his	O
 knowledge	O
 of	O
 China	B-Location
-’	O
-s	O
+’s	O
 space	O
 industry	O
 and	O
@@ -196,8 +192,7 @@ adults	O
 and	O
 they	O
 didn	O
-’	O
-t	O
+’t	O
 expect	O
 children	O
 to	O
@@ -237,6 +232,7 @@ soon	O
 as	O
 possible	O
 .	O
+
 They	O
 added	O
 that	O
@@ -246,8 +242,7 @@ grateful	O
 for	O
 the	O
 boy	O
-’	O
-s	O
+’s	O
 corrections	O
 .	O
 
@@ -303,6 +298,7 @@ the	O
 father	O
 said	O
 .	O
+
 “	O
 So	O
 we	O
@@ -364,6 +360,7 @@ the	O
 rocket	O
 launch	O
 .	O
+
 And	O
 because	O
 of	O
@@ -401,8 +398,7 @@ programming	O
 
 “	O
 It	O
-’	O
-s	O
+’s	O
 a	O
 strength	O
 of	O
@@ -450,8 +446,7 @@ astounded	O
 by	O
 the	O
 boy	O
-’	O
-s	O
+’s	O
 display	O
 of	O
 self	O
@@ -480,6 +475,7 @@ said	O
 one	O
 person	O
 .	O
+
 “	O
 This	O
 is	O
@@ -491,8 +487,7 @@ star	O
 to	O
 help	O
 China	B-Location
-’	O
-s	O
+’s	O
 space	O
 industry	O
 .	O
@@ -503,8 +498,7 @@ wrote	O
 :	O
 “	O
 Children	O
-’	O
-s	O
+’s	O
 excellence	O
 is	O
 closely	O
@@ -526,8 +520,7 @@ attempts	O
 ,	O
 the	O
 child	O
-’	O
-s	O
+’s	O
 talents	O
 might	O
 not	O

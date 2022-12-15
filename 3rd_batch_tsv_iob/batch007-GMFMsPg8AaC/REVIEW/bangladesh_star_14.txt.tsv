@@ -24,8 +24,8 @@ old	O
 child	O
 at	O
 Ashulia	B-Location
-in	I-Location
-Dhaka	I-Location
+in	O
+Dhaka	B-Location
 .	O
 
 The	O

@@ -1,0 +1,17 @@
+https://en.mercopress.com/2022/05/13/google-s-translating-tool-adds-guarani-aymara-and-quechua-to-its-menu
+
+Google CEO Sundar Pichai has announced the company will add 24 new languages to its widespread translating tool, including Guarani, Aymara and Quechua, which are spoken by native communities in South America.
+
+For the time being there will be no sound option available, as work is still ongoing, the company pointed out.
+
+The tool will thus have 133 languages, including Mizo, used by around 800,000 people in northeast India, and Lingala, used by more than 45 million people in Central Africa, among the 24 languages that “are not represented in most technologies,” according to the company.
+
+“These are the first languages we added using Zero-Shot machine translation, where a machine learning model only sees monolingual text, meaning it learns to translate into another language without seeing an example,” said Isaac Caswell, a Google Translate researcher.
+
+In the case of Aymara, Google highlighted that it is used by about two million people in Bolivia, Chile and Peru, while Quechua is spoken by about 10 million people in Peru, Bolivia, and Ecuador.
+
+”More than 300 million people speak these newly added languages, such as Mizo, used by around 800,000 people in the far northeast of India, and Lingala, used by more than 45 million people in Central Africa. As part of this update, the indigenous languages of the Americas (Quechua, Guarani and Aymara) and a dialect of English (Krio from Sierra Leone) have also been added to Translator for the first time,“ the company said in a statement.
+
+”We are grateful to the many native speakers, teachers and linguists who worked with us on this latest update and kept us inspired with their passion and enthusiasm,” the company also said.
+
+Google also encouraged users to test the tool by contributing evaluations or translations through the Contribute to Google Translator section.

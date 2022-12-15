@@ -1,0 +1,21 @@
+https://english.lematinal.media/vpm-dookun-luchoomun-launches-the-thin-client-project/
+
+The Vice-Prime Minister (VPM), Minister of Education, Tertiaty Education, Science and Technology, Mrs Leela Devi Dookun-Luchoomun, launched, on Wednesday, in the computer lab of Quartier Militaire State Secondary School (SSS), the Thin Client Project. This pilot project is sponsored by Hewlett Packard, while the thin client computer lab has been sponsored by HP.
+
+The Vice-President and Managing Director of HP Africa, Mr Bradley Michael Pulford, the Rector of Quartier Militaire SSS, Mrs Nandini Choony-Ruchchan, and other personalities were also present at the launching ceremony.
+
+In her address, VPM Dookun-Luchoomun highlighted that this project is yet another milestone in the advancement and promotion of Information and Communication Technology (ICT) in schools. She expressed her appreciation for the support extended by HP and Leal Communications and Informatics Ltd for the implementation of this project.
+
+Government, pointed out the VPM, will continue to forge public-private partnerships, which according to her are of paramount importance, so as to further provide opportunities and facilities to students and ensure their development. She recalled that, in order to avoid the problem of digital divide, Government started the Early Digital Learning Programme, with the use of tablets, and set up the Student Support Portal. All these initiatives, she observed, contributed to ensure that students are not disconnected from their studies following the outbreak of the COVID-19 pandemic.
+
+She also commended HP for ensuring the training of educators and students in using this new technology. Another computer laboratory equipped with Thin Client technology will also be set up at Rivière des Anguilles SSS.
+
+As for Mr Pulford, he underlined those initiatives such as the Thin Client Project are essential so as to enable students to have wider access to technology in schools and be computer literate. This will enable them to progress and have a better future, as well as contribute to the country’s socio-economic development at a later stage. He indicated that HP looks forward to collaborate with Mauritius so as to implement other initiatives such as the thin client project, and dwelt on several other programmes already launched by HP.
+
+A Thin Client (or lean client) is a virtual desktop computing model that runs on the resources stored on a central server instead of a computer’s resources. The term can also describe software applications that use the client-server model in which the server performs all the processing.
+
+Businesses employees, IT personnel and public environments like libraries or government offices may use thin clients because of their level of security, scalability and manageability.
+
+Thin Clients work through connecting to a server-based computing environment. The server will normally store data like applications and memory. Thin Clients are managed server-side with a virtual desktop infrastructure and rely on a constant network connection to a central server for full computing.
+
+The benefits of Thin Client include, amongst others: less vulnerability to malware attacks; longer lifecycles; less power use; less expensive to purchase than deploying regular Personal Computers; and better centralised manageability.

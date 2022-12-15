@@ -1,0 +1,20 @@
+https://www.scmp.com/news/china/science/article/3186095/chinese-scientists-unveil-high-powered-laser-can-write-air?module=more_top_stories_int&pgtype=homepage
+
+Chinese scientists have shown off a laser that can create ghostly Chinese characters out of thin air.
+Lasers have already been used to create a range of optical illusions, but previously they needed dust or clouds as a medium.
+
+But the researchers behind the new device say it can draw patterns anywhere by using ultra-short laser pulses to strip the electrons off air molecules and turn them into light, creating a ghostly image floating in mid air.
+In one demonstration earlier this week at the Hongtuo Joint Laboratory of Ultra-Fast Laser in Wuhan’s optics valley, researchers created characters that were visible from any angle and which researchers could “touch” with their hands.
+“With the brand new device, we can draw in the air without using paper and ink”, Cao Xiangdong, lead scientist at the laboratory, told Science and Technology Daily in an interview published on Tuesday.
+The device works by focusing high-intensity laser pulses in the air to create plasma, or ionised gas, which emits energy in light form.
+The team said they had used a 3D scanner to arrange the pixel dots and form the characters precisely in the air, but did not explain how this works.
+The short pulses last just femtoseconds – a time unit equivalent to one quadrillionth, or one millionth of one billionth, of a second.
+
+Due to the extremely short duration of the pulses, the power peaks of Cao’s laser pen can reach a million megawatts, not far off the total utility-scale electricity generating capacity of the United States.
+However, the average input power of the device is only a few tens of watts, which means it could be safely used in everyday settings.
+“The display is an accumulation of our research over more than a decade”, said Cao in the report.
+To “light” the air, lasers need to reach an energy density of 100 terawatts (a trillion watt) per square centimetre.
+
+This presents a challenge to many other laser emitters of the same type but the researchers believe the technology has room for improvement, and more precise control of distribution of the laser pulse will allow them to create brighter, larger full-colour images in the air.
+Cao’s team hopes that the technology will one day have a practical use in fields such as high-precision manufacturing, brain imaging, medical instruments and quantum computing.
+Last year, another femtosecond laser based device produced by the lab, a disinfection machine, was validated by Wuhan University’s National Laboratory of Viruses for use in killing viruses and bacteria, including the coronavirus.

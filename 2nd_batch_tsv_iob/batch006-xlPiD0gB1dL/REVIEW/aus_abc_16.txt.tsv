@@ -48,8 +48,8 @@ collected	O
 from	O
 Recherche	B-Location
 Bay	I-Location
-in	I-Location
-Tasmania	I-Location
+in	O
+Tasmania	B-Location
 's	O
 far	O
 south	O
