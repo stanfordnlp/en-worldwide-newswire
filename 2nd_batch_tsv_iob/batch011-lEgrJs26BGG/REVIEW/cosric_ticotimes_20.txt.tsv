@@ -204,8 +204,8 @@ to	O
 data	O
 from	O
 the	O
-Costa	B-Location	B-Organization
-Rican	I-Location	I-Organization
+Costa	B-NORP	B-Organization
+Rican	I-NORP	I-Organization
 Tourism	O	I-Organization
 Institute	O	I-Organization
 ,	O
