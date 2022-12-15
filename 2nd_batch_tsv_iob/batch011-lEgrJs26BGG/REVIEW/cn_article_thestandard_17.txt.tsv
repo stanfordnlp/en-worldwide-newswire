@@ -299,7 +299,7 @@ the	O
 University	B-Organization
 of	I-Organization
 Dublin	I-Organization	B-Location
-in	O	I-Location
-Ireland	O	I-Location
+in	O
+Ireland	B-Location
 .	O
 

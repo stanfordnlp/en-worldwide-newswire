@@ -169,11 +169,11 @@ University	B-Organization
 of	I-Organization
 the	I-Organization
 Witwatersrand	I-Organization	B-Location
-in	O	I-Location
-Johannesburg	O	I-Location
-,	O	I-Location
-South	O	I-Location
-Africa	O	I-Location
+in	O
+Johannesburg	B-Location
+,	I-Location
+South	I-Location
+Africa	I-Location
 ,	O
 said	O
 “	O
