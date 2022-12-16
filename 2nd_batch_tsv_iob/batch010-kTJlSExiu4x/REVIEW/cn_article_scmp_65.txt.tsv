@@ -206,8 +206,7 @@ said	O
 
 “	O
 China	B-Location
-’	O
-s	O
+’s	O
 RISC	B-Product
 -	I-Product
 X	I-Product
@@ -234,9 +233,8 @@ today	O
 ,	O
 but	O
 this	O
-doesn	O
-’	O
-t	O
+does	O
+n’t	O
 affect	O
 the	O
 sales	O
@@ -301,8 +299,7 @@ US	B-Location
 sanctions	O
 on	O
 China	B-Location
-’	O
-s	O
+’s	O
 semiconductor	O
 industry	O
 have	O
@@ -331,8 +328,7 @@ possible	O
 alternative	O
 to	O
 Intel	B-Organization
-’	O
-s	O
+’s	O
 proprietary	O
 x	O
 86	O
@@ -404,8 +400,8 @@ at	O
 University	B-Organization
 of	I-Organization
 California	I-Organization	B-Location
-,	O	I-Location
-Berkeley	O	I-Location
+,	I-Organization	I-Location
+Berkeley	I-Organization	I-Location
 by	O
 professor	O
 David	B-Person
@@ -420,8 +416,7 @@ source	O
 in	O
 the	O
 technology	O
-’	O
-s	O
+’s	O
 fifth	O
 generation	O
 in	O
@@ -455,8 +450,7 @@ International	O	I-Organization
 Of	O
 the	O
 organisation	O
-’	O
-s	O
+’s	O
 20	O
 “	O
 premier	O
@@ -581,8 +575,7 @@ In	O
 particular	O
 ,	O
 China	B-Location
-’	O
-s	O
+’s	O
 weakness	O
 in	O
 electronic	B-Product
@@ -679,8 +672,7 @@ Technologies	I-Organization
 .	O
 “	O
 That	O
-’	O
-s	O
+’s	O
 not	O
 all	O
 in	O
@@ -696,8 +688,7 @@ and	O
 quality	O
 within	O
 China	B-Location
-’	O
-s	O
+’s	O
 domestic	O
 supply	O
 chain	O
@@ -705,8 +696,7 @@ chain	O
 ”	O
 
 Huawei	B-Organization
-’	O
-s	O
+’s	O
 chip	O
 design	O
 unit	O
@@ -715,14 +705,14 @@ illustrates	O
 this	O
 challenge	O
 .	O
+
 It	O
 still	O
 has	O
 access	O
 to	O
 Arm	B-Organization
-’	O
-s	O
+’s	O
 V	B-Product
 8	I-Product
 architecture	O
@@ -756,8 +746,7 @@ TSMC	B-Organization
 ,	O
 the	O
 world	O
-’	O
-s	O
+’s	O
 largest	O
 contract	O
 chip	O
