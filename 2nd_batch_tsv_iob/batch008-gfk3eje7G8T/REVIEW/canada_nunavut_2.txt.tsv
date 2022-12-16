@@ -320,8 +320,8 @@ charter	O
 flights	O
 to	O
 their	O
-Mary	B-Person	B-Location
-River	O	I-Location
+Mary	B-Location	B-Person
+River	I-Location
 site	O
 from	O
 Iqaluit	B-Location
@@ -1091,8 +1091,8 @@ schools	O
 ,	O
 and	O
 the	O
-Catholic	B-NORP	B-Facility
-Church	O	I-Facility
+Catholic	B-Facility	B-NORP
+Church	I-Facility
 ran	O
 60	O
 per	O

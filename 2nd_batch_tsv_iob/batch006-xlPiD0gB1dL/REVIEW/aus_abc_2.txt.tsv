@@ -71,9 +71,9 @@ and	O
 loved	O
 ones	O
 at	O
-Warrnambool	B-Location	B-Facility
-Base	O	I-Facility
-Hospital	O	I-Facility
+Warrnambool	B-Facility	B-Location
+Base	I-Facility
+Hospital	I-Facility
 in	O
 Victoria	B-Location
 .	O

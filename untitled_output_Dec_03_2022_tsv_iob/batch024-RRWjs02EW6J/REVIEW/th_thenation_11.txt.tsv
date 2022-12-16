@@ -373,8 +373,8 @@ if	O
 any	O
 customer	O
 has	O
-Thai	B-NORP	B-Money
-baht	O	I-Money	B-Money
+Thai	B-Money	B-NORP
+baht	I-Money	B-Money
 at	O
 Zipmex	B-Organization
 ,	O

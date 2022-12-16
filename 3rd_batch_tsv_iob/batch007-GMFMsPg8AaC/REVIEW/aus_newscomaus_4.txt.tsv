@@ -191,9 +191,9 @@ and	O
 will	O
 face	O
 the	O
-Adelaide	B-Location	B-Organization
-Magistrates	O	I-Organization
-Court	O	I-Organization
+Adelaide	B-Organization	B-Location
+Magistrates	I-Organization
+Court	I-Organization
 .	O
 
 It	O

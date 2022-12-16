@@ -199,9 +199,9 @@ as	O
 we	O
 call	O
 it	O
-Honduras	B-Location	B-Misc
-Semana	O	I-Misc
-Santa	O	I-Misc
+Honduras	B-Misc	B-Location
+Semana	I-Misc
+Santa	I-Misc
 )	O
 ;	O
 just	O

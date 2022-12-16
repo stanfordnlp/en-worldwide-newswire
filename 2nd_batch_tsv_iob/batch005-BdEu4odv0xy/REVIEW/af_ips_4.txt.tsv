@@ -146,9 +146,9 @@ Proteen	I-Organization
 Hub	I-Organization
 in	O
 Kangulumira	B-Location	B-Location
-sub	O	I-Location
--	O	I-Location
-county	O	I-Location
+sub	I-Location
+-	I-Location
+county	I-Location
 .	O
 
 About	O
@@ -1246,10 +1246,10 @@ been	O
 limited	O
 uptake	O
 in	O
-Sub	B-NORP	B-Location
--	I-NORP	I-Location
-Saharan	I-NORP	I-Location
-Africa	O	I-Location
+Sub	B-Location	B-NORP
+-	I-Location	I-NORP
+Saharan	I-Location	I-NORP
+Africa	I-Location
 due	O
 to	O
 poor	O

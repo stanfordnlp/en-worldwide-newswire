@@ -250,9 +250,9 @@ accounts	O
 of	O
 dozens	O
 of	O
-LGBT	B-NORP	B-Misc
-student	O	I-Misc
-organisations	O	I-Misc
+LGBT	B-Misc	B-NORP
+student	I-Misc
+organisations	I-Misc
 were	O
 shut	O
 down	O
@@ -465,9 +465,9 @@ said	O
 The	O
 Tsinghua	B-Organization	B-Organization
 University	I-Organization	I-Organization
-student	O	I-Organization
-affairs	O	I-Organization
-office	O	I-Organization
+student	I-Organization
+affairs	I-Organization
+office	I-Organization
 could	O
 not	O
 be	O
@@ -931,8 +931,8 @@ pledging	O
 allegiance	O
 to	O
 the	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
+Communist	B-Organization	B-NORP
+Party	I-Organization
 and	O
 espousing	O
 patriotism	O

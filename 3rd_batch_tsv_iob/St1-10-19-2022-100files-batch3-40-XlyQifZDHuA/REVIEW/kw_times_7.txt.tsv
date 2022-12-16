@@ -231,9 +231,9 @@ a	O
 strike	O
 in	O
 the	O
-National	B-Organization	B-Facility
-Assembly	I-Organization	I-Facility
-building	O	I-Facility
+National	B-Facility	B-Organization
+Assembly	I-Facility	I-Organization
+building	I-Facility
 for	O
 the	O
 past	O

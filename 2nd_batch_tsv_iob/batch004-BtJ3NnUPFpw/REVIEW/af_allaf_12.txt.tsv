@@ -28,9 +28,9 @@ communities	O
 to	O
 mark	O
 International	O
-Nelson	B-Person	B-Misc
-Mandela	I-Person	I-Misc
-Day	O	I-Misc
+Nelson	B-Misc	B-Person
+Mandela	I-Misc	I-Person
+Day	I-Misc
 .	O
 
 The	O
@@ -81,8 +81,8 @@ and	O
 freedom	O
 ,	O
 UN	B-Organization	B-Organization
-News	O	I-Organization
-Service	O	I-Organization
+News	I-Organization
+Service	I-Organization
 wrote	O
 .	O
 
@@ -93,8 +93,8 @@ president	O
 of	O
 the	O
 UN	B-Organization	B-Organization
-General	O	I-Organization
-Assembly	O	I-Organization
+General	I-Organization
+Assembly	I-Organization
 ,	O
 recalled	O
 that	O

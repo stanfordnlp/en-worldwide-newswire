@@ -20,11 +20,11 @@ Executive	O
 Director	O
 of	O
 the	O
-Pan	B-NORP	B-Organization
-African	I-NORP	I-Organization
-Climate	O	I-Organization
-Justice	O	I-Organization
-Alliance	O	I-Organization
+Pan	B-Organization	B-NORP
+African	I-Organization	I-NORP
+Climate	I-Organization
+Justice	I-Organization
+Alliance	I-Organization
 (	O
 PACJA	B-Organization
 )	O
@@ -80,8 +80,8 @@ committed	O
 to	O
 reaching	O
 the	O
-Paris	B-Location	B-Misc
-Agreement	O	I-Misc
+Paris	B-Misc	B-Location
+Agreement	I-Misc
 ’	O
 s	O
 climate	O
@@ -107,9 +107,9 @@ recovery	O
 .	O
 
 The	O
-UN	B-Organization	B-Misc
-Environment	O	I-Misc
-Programme	O	I-Misc
+UN	B-Misc	B-Organization
+Environment	I-Misc
+Programme	I-Misc
 (	O
 UNEP	B-Misc
 )	O
@@ -270,10 +270,10 @@ official	O
 report	O
 by	O
 the	O
-United	B-Organization	B-Misc
-Nations	I-Organization	I-Misc
-Environment	O	I-Misc
-Programme	O	I-Misc
+United	B-Misc	B-Organization
+Nations	I-Misc	I-Organization
+Environment	I-Misc
+Programme	I-Misc
 (	O
 UNEP	B-Misc
 )	O
@@ -388,10 +388,10 @@ south	O
 ,	O
 especially	O
 in	O
-Sub	B-NORP	B-Location
--	I-NORP	I-Location
-Saharan	I-NORP	I-Location
-Africa	O	I-Location
+Sub	B-Location	B-NORP
+-	I-Location	I-NORP
+Saharan	I-Location	I-NORP
+Africa	I-Location
 .	O
 
 While	O
@@ -475,10 +475,10 @@ in	O
 most	O
 countries	O
 in	O
-Sub	B-NORP	B-Location
--	I-NORP	I-Location
-Saharan	I-NORP	I-Location
-Africa	O	I-Location
+Sub	B-Location	B-NORP
+-	I-Location	I-NORP
+Saharan	I-Location	I-NORP
+Africa	I-Location
 .	O
 
 Creating	O
@@ -560,8 +560,8 @@ to	O
 align	O
 with	O
 the	O
-Paris	B-Location	B-Misc
-Agreement	O	I-Misc
+Paris	B-Misc	B-Location
+Agreement	I-Misc
 possible	O
 for	O
 South	B-Location
@@ -720,9 +720,9 @@ fifth	O
 session	O
 of	O
 the	O
-UN	B-Organization	B-Misc
-Environment	O	I-Misc
-Assembly	O	I-Misc
+UN	B-Misc	B-Organization
+Environment	I-Misc
+Assembly	I-Misc
 ,	O
 which	O
 took	O
@@ -851,9 +851,9 @@ online	O
 participants	O
 from	O
 175	O
-UN	B-Organization	B-Misc
-Member	O	I-Misc
-States	O	I-Misc
+UN	B-Misc	B-Organization
+Member	I-Misc
+States	I-Misc
 ,	O
 including	O
 79	O
@@ -1077,11 +1077,11 @@ the	O
 Executive	O
 Secretary	O
 of	O
-Rwanda	B-Location	B-Organization
-Climate	O	I-Organization
-and	O	I-Organization
-Development	O	I-Organization
-Network	O	I-Organization
+Rwanda	B-Organization	B-Location
+Climate	I-Organization
+and	I-Organization
+Development	I-Organization
+Network	I-Organization
 (	O
 RCDN	B-Organization
 )	O

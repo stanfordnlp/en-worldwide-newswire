@@ -60,16 +60,16 @@ Huaxia	B-Organization
 Life	I-Organization
 Insurance	I-Organization
 ,	O
-Tian	B-Misc	B-Organization
-’	O	I-Organization
-an	O	I-Organization
-Property	O	I-Organization
-Insurance	O	I-Organization
+Tian	B-Organization	B-Misc
+’	I-Organization
+an	I-Organization
+Property	I-Organization
+Insurance	I-Organization
 ,	O
-Tian	B-Misc	B-Organization
-’	O	I-Organization
-an	O	I-Organization
-Life	O	I-Organization
+Tian	B-Organization	B-Misc
+’	I-Organization
+an	I-Organization
+Life	I-Organization
 ,	O
 Yi	B-Organization
 ’	I-Organization
@@ -81,9 +81,9 @@ New	B-Organization
 Times	I-Organization
 Trust	I-Organization
 and	O
-New	B-Location	B-Organization
-China	I-Location	I-Organization
-Trust	O	I-Organization
+New	B-Organization	B-Location
+China	I-Organization	I-Location
+Trust	I-Organization
 were	O
 placed	O
 under	O
@@ -109,11 +109,11 @@ interest	O
 ,	O
 ”	O
 the	O
-China	B-Location	B-Organization
-Banking	O	I-Organization
-and	O	I-Organization
-Regulatory	O	I-Organization
-Commission	O	I-Organization
+China	B-Organization	B-Location
+Banking	I-Organization
+and	I-Organization
+Regulatory	I-Organization
+Commission	I-Organization
 (	O
 CBIRC	B-Organization
 )	O
@@ -146,10 +146,10 @@ a	O
 year	O
 ,	O
 the	O
-China	B-Location	B-Organization
-Securities	O	I-Organization
-Regulatory	O	I-Organization
-Commission	O	I-Organization
+China	B-Organization	B-Location
+Securities	I-Organization
+Regulatory	I-Organization
+Commission	I-Organization
 (	O
 CSRC	B-Organization
 )	O
@@ -263,10 +263,10 @@ Tsui	I-Person
 chairman	O
 of	O
 the	O
-Hong	B-Location	B-Organization
-Kong	I-Location	I-Organization
-Securities	O	I-Organization
-Association	O	I-Organization
+Hong	B-Organization	B-Location
+Kong	I-Organization	I-Location
+Securities	I-Organization
+Association	I-Organization
 .	O
 “	O
 It	O
@@ -598,21 +598,21 @@ the	O
 custodian	O
 group	O
 :	O
-China	B-Location	B-Organization
-Pacific	O	I-Organization
-Property	O	I-Organization
-Insurance	O	I-Organization
+China	B-Organization	B-Location
+Pacific	I-Organization
+Property	I-Organization
+Insurance	I-Organization
 ,	O
 a	O
 unit	O
 of	O
-China	B-Location	B-Organization
-Life	O	I-Organization
+China	B-Organization	B-Location
+Life	I-Organization
 ,	O
-New	B-Location	B-Organization
-China	I-Location	I-Organization
-Life	O	I-Organization
-Insurance	O	I-Organization
+New	B-Organization	B-Location
+China	I-Organization	I-Location
+Life	I-Organization
+Insurance	I-Organization
 ,	O
 PICC	B-Organization
 Property	I-Organization
@@ -682,10 +682,10 @@ with	O
 billion	I-Money
 yuan	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-26.12	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+26.12	I-Money
+billion	I-Money
 )	O
 of	O
 insurance	O
@@ -835,9 +835,9 @@ s	O
 website	O
 .	O
 
-New	B-Location	B-Organization
-China	I-Location	I-Organization
-Trust	O	I-Organization
+New	B-Organization	B-Location
+China	I-Organization	I-Location
+Trust	I-Organization
 ,	O
 based	O
 in	O
@@ -938,9 +938,9 @@ by	O
 Avic	B-Organization
 Securities	I-Organization
 ,	O
-China	B-Location	B-Organization
-Merchant	O	I-Organization
-Securities	O	I-Organization
+China	B-Organization	B-Location
+Merchant	I-Organization
+Securities	I-Organization
 ,	O
 CSC	B-Organization
 Financial	I-Organization
@@ -1059,8 +1059,8 @@ Hong	B-Location
 Kong	I-Location
 -	O
 listed	O
-Harbin	B-Location	B-Organization
-Bank	O	I-Organization
+Harbin	B-Organization	B-Location
+Bank	I-Organization
 ,	O
 where	O
 Tomorrow	B-Organization
@@ -1140,8 +1140,8 @@ spree	O
 –	O
 including	O
 the	O
-Waldorf	B-Person	B-Organization
-Astoria	O	I-Organization
+Waldorf	B-Organization	B-Person
+Astoria	I-Organization
 in	O
 New	B-Location
 York	I-Location

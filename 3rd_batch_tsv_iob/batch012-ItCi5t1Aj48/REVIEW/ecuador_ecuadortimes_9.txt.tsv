@@ -188,15 +188,15 @@ National	O
 Authorizing	O
 Officer	O
 of	O
-European	B-NORP	B-Organization
-Funds	O	I-Organization
-for	O	I-Organization
-the	O	I-Organization
-development	O	I-Organization
-of	O	I-Organization
-the	O	I-Organization
-Dominican	O	I-Organization	B-Location
-Republic	O	I-Organization	I-Location
+European	B-Organization	B-NORP
+Funds	I-Organization
+for	I-Organization
+the	I-Organization
+development	I-Organization
+of	I-Organization
+the	I-Organization
+Dominican	I-Organization	B-Location
+Republic	I-Organization	I-Location
 ,	O
 Olaya	B-Person
 Ondina	I-Person

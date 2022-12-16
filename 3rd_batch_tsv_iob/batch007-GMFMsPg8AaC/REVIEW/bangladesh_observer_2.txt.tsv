@@ -44,9 +44,9 @@ ex	O
 -	O
 OC	O
 of	O
-Lohagara	B-Location	B-Facility
-police	O	I-Facility
-station	O	I-Facility
+Lohagara	B-Facility	B-Location
+police	I-Facility
+station	I-Facility
 ,	O
 and	O
 his	O
@@ -149,9 +149,9 @@ was	O
 the	O
 OC	O
 of	O
-Lohagara	B-Location	B-Facility
-police	O	I-Facility
-station	O	I-Facility
+Lohagara	B-Facility	B-Location
+police	I-Facility
+station	I-Facility
 .	O
 
 In	O

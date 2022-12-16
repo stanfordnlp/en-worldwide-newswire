@@ -70,10 +70,10 @@ the	O
 seven	O
 -	O
 day	O
-Hong	B-Location	B-Misc
-Kong	I-Location	I-Misc
-Book	O	I-Misc
-Fair	O	I-Misc
+Hong	B-Misc	B-Location
+Kong	I-Misc	I-Location
+Book	I-Misc
+Fair	I-Misc
 the	O
 following	O
 morning	O
@@ -751,12 +751,12 @@ to	I-Misc
 ,	O
 alongside	O
 the	O
-Hong	B-Location	B-Misc
-Kong	I-Location	I-Misc
-Sports	O	I-Misc
-and	O	I-Misc
-Leisure	O	I-Misc
-Expo	O	I-Misc
+Hong	B-Misc	B-Location
+Kong	I-Misc	I-Location
+Sports	I-Misc
+and	I-Misc
+Leisure	I-Misc
+Expo	I-Misc
 and	O
 the	O
 World	B-Misc

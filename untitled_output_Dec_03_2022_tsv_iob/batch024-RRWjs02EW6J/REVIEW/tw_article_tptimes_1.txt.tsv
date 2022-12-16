@@ -168,10 +168,10 @@ farmers	O
 transplant	O
 seedlings	O
 ,	O
-Yuxi	B-Location	B-Organization
-Farmers	O	I-Organization
-’	O	I-Organization
-Association	O	I-Organization
+Yuxi	B-Organization	B-Location
+Farmers	I-Organization
+’	I-Organization
+Association	I-Organization
 head	O
 Tsai	B-Person
 Tsung	I-Person
@@ -251,9 +251,9 @@ county	O
 government	O
 ,	O
 the	O
-Hualien	B-Location	B-Organization
-Management	O	I-Organization
-Office	O	I-Organization
+Hualien	B-Organization	B-Location
+Management	I-Organization
+Office	I-Organization
 ,	O
 Taiwan	B-Organization
 Water	I-Organization
@@ -263,9 +263,9 @@ Corp	I-Organization
 )	O
 ,	O
 the	O
-Jian	B-Location	B-Organization
-Township	I-Location	I-Organization
-Office	O	I-Organization
+Jian	B-Organization	B-Location
+Township	I-Organization	I-Location
+Office	I-Organization
 and	O
 the	O
 farmers	O
@@ -287,9 +287,9 @@ agencies	O
 said	O
 that	O
 the	O
-Hualien	B-Location	B-Organization
-Management	O	I-Organization
-Office	O	I-Organization
+Hualien	B-Organization	B-Location
+Management	I-Organization
+Office	I-Organization
 should	O
 quickly	O
 clean	O

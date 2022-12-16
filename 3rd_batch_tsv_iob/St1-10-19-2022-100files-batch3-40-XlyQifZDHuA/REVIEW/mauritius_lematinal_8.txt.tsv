@@ -264,9 +264,9 @@ court	O
 called	O
 Radio	B-Organization	B-Organization
 Plus	I-Organization	I-Organization
-Court	O	I-Organization
-of	O	I-Organization
-Justice	O	I-Organization
+Court	I-Organization
+of	I-Organization
+Justice	I-Organization
 and	O
 a	O
 new	O

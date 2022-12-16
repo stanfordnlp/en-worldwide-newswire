@@ -55,11 +55,11 @@ miles	O
 )	O
 from	O
 the	O
-southeastern	B-Facility	B-Location
-port	I-Facility	I-Location
-city	O	I-Location
-of	O	I-Location
-Chittagong	O	I-Location
+southeastern	B-Location	B-Facility
+port	I-Location	I-Facility
+city	I-Location
+of	I-Location
+Chittagong	I-Location
 ,	O
 on	O
 Wednesday	B-Misc

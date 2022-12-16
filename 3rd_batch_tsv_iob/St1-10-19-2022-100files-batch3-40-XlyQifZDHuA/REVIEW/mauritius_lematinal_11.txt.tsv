@@ -248,8 +248,8 @@ for	O
 funding	O
 under	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 ’	O
 s	O
 initiative	O

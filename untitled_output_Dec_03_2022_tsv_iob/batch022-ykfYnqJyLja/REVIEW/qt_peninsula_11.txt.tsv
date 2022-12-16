@@ -256,10 +256,10 @@ unlike	O
 anything	O
 else	O
 in	O
-Qatar	B-Location	B-Misc
-Real	O	I-Misc
-Estate	O	I-Misc
-Industry	O	I-Misc
+Qatar	B-Misc	B-Location
+Real	I-Misc
+Estate	I-Misc
+Industry	I-Misc
 ,	O
 and	O
 I	O

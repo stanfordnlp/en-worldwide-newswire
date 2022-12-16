@@ -1,8 +1,8 @@
 https://economist.com.na/71448/human-resources/lelly-usiku-appointed-as-new-acting-namdia-boss/	O
 
-Namib	B-Location	B-Organization
-Desert	I-Location	I-Organization
-Diamonds	O	I-Organization
+Namib	B-Organization	B-Location
+Desert	I-Organization	I-Location
+Diamonds	I-Organization
 (	O
 NAMDIA	B-Organization
 )	O
@@ -71,9 +71,9 @@ and	O
 staff	O
 members	O
 of	O
-Namib	B-Location	B-Organization
-Desert	I-Location	I-Organization
-Diamonds	O	I-Organization
+Namib	B-Organization	B-Location
+Desert	I-Organization	I-Location
+Diamonds	I-Organization
 (	O
 NAMDIA	B-Organization
 )	O

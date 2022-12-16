@@ -18,9 +18,9 @@ Monday	B-Misc
 that	O
 leaders	O
 of	O
-Pakistan	B-Location	B-Organization
-Democratic	O	I-Organization
-Movement	O	I-Organization
+Pakistan	B-Organization	B-Location
+Democratic	I-Organization
+Movement	I-Organization
 (	O
 PDM	B-Organization
 )	O
@@ -43,9 +43,9 @@ polls	O
 results	O
 and	O
 reaffirmed	O
-Pakistan	B-Location	B-Organization
-Peoples	O	I-Organization
-Party	O	I-Organization
+Pakistan	B-Organization	B-Location
+Peoples	I-Organization
+Party	I-Organization
 ’	O
 s	O
 (	O
@@ -73,8 +73,8 @@ a	O
 press	O
 conference	O
 at	O
-Gilani	B-Person	B-Location
-House	O	I-Location
+Gilani	B-Location	B-Person
+House	I-Location
 ,	O
 veteran	O
 PPP	B-Organization
@@ -108,8 +108,8 @@ was	O
 held	O
 at	O
 Bilalwal	B-Location	B-Location
-House	O	I-Location
-Karachi	O	I-Location	B-Location
+House	I-Location
+Karachi	I-Location	B-Location
 on	O
 Monday	B-Misc
 evening	O

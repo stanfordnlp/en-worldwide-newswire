@@ -11,9 +11,9 @@ on	O
 Thursday	B-Misc
 affirmed	O
 that	O
-Cayetano	B-Person	B-Facility
-Heredia	I-Person	I-Facility
-Hospital	O	I-Facility
+Cayetano	B-Facility	B-Person
+Heredia	I-Facility	I-Person
+Hospital	I-Facility
 is	O
 the	O
 first	O
@@ -73,9 +73,9 @@ that	O
 Lima	B-Location
 -	O
 based	O
-Cayetano	B-Person	B-Facility
-Heredia	I-Person	I-Facility
-Hospital	O	I-Facility
+Cayetano	B-Facility	B-Person
+Heredia	I-Facility	I-Person
+Hospital	I-Facility
 will	O
 provide	O
 comprehensive	O
@@ -267,9 +267,9 @@ the	O
 staff	O
 demands	O
 at	O
-Cayetano	B-Person	B-Facility
-Heredia	I-Person	I-Facility
-Hospital	O	I-Facility
+Cayetano	B-Facility	B-Person
+Heredia	I-Facility	I-Person
+Hospital	I-Facility
 ,	O
 the	O
 President	O

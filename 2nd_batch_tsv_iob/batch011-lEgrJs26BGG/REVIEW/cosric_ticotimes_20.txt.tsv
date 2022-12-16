@@ -33,9 +33,9 @@ first	O
 flight	O
 departed	O
 from	O
-Juan	B-Person	B-Facility
-Santamaria	I-Person	I-Facility
-Airport	O	I-Facility
+Juan	B-Facility	B-Person
+Santamaria	I-Facility	I-Person
+Airport	I-Facility
 with	O
 more	O
 than	O
@@ -55,10 +55,10 @@ non	O
 -	O
 stop	O
 to	O
-Washington	B-Location	B-Facility
-Dulles	O	I-Facility	B-Person
-International	O	I-Facility
-Airport	O	I-Facility
+Washington	B-Facility	B-Location
+Dulles	I-Facility	B-Person
+International	I-Facility
+Airport	I-Facility
 .	O
 
 The	O
@@ -204,10 +204,10 @@ to	O
 data	O
 from	O
 the	O
-Costa	B-NORP	B-Organization
-Rican	I-NORP	I-Organization
-Tourism	O	I-Organization
-Institute	O	I-Organization
+Costa	B-Organization	B-NORP
+Rican	I-Organization	I-NORP
+Tourism	I-Organization
+Institute	I-Organization
 ,	O
 during	O
 the	O

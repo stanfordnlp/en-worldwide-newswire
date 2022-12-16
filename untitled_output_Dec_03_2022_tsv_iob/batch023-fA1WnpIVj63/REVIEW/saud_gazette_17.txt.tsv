@@ -30,10 +30,10 @@ Saudi	B-Location
 Arabia	I-Location
 through	O
 the	O
-Saudi	B-NORP	B-Organization
-Fund	O	I-Organization
-for	O	I-Organization
-Development	O	I-Organization
+Saudi	B-Organization	B-NORP
+Fund	I-Organization
+for	I-Organization
+Development	I-Organization
 (	O
 SFD	B-Organization
 )	O
@@ -43,10 +43,10 @@ the	O
 renovation	O
 project	O
 of	O
-Ibn	B-Person	B-Organization
-Al	I-Person	I-Organization
-Khatib	I-Person	I-Organization
-Hospital	O	I-Organization
+Ibn	B-Organization	B-Person
+Al	I-Organization	I-Person
+Khatib	I-Organization	I-Person
+Hospital	I-Organization
 in	O
 Baghdad	B-Location
 ,	O
@@ -299,14 +299,14 @@ years	O
 and	O
 during	O
 the	O
-Kuwait	B-Location	B-Misc
-International	O	I-Misc
-Conference	O	I-Misc
-for	O	I-Misc
-the	O	I-Misc
-Reconstruction	O	I-Misc
-of	O	I-Misc
-Iraq	O	I-Misc	B-Location
+Kuwait	B-Misc	B-Location
+International	I-Misc
+Conference	I-Misc
+for	I-Misc
+the	I-Misc
+Reconstruction	I-Misc
+of	I-Misc
+Iraq	I-Misc	B-Location
 ,	O
 the	O
 Kingdom	O

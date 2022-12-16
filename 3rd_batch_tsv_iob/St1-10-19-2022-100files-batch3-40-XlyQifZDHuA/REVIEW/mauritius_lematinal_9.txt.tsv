@@ -15,8 +15,8 @@ launched	O
 on	O
 Thursday	B-Misc
 in	O
-Curepipe	B-Location	B-Organization
-College	O	I-Organization
+Curepipe	B-Organization	B-Location
+College	I-Organization
 ,	O
 in	O
 the	O
@@ -90,8 +90,8 @@ Manager	O
 and	O
 Rector	O
 of	O
-Curepipe	B-Location	B-Organization
-College	O	I-Organization
+Curepipe	B-Organization	B-Location
+College	I-Organization
 ,	O
 Mr	O
 Neetesh	B-Person
@@ -139,8 +139,8 @@ extended	O
 her	O
 congratulations	O
 to	O
-Curepipe	B-Location	B-Organization
-College	O	I-Organization
+Curepipe	B-Organization	B-Location
+College	I-Organization
 on	O
 its	O
 60th	O
@@ -346,8 +346,8 @@ Manager	O
 and	O
 Rector	O
 of	O
-Curepipe	B-Location	B-Organization
-College	O	I-Organization
+Curepipe	B-Organization	B-Location
+College	I-Organization
 ,	O
 Mr	O
 Neetesh	B-Person
@@ -410,8 +410,8 @@ in	O
 education	O
 and	O
 transform	O
-Curepipe	B-Location	B-Organization
-College	O	I-Organization
+Curepipe	B-Organization	B-Location
+College	I-Organization
 into	O
 a	O
 secondary	O
@@ -559,14 +559,14 @@ also	O
 launched	O
 .	O
 
-Curepipe	B-Location	B-Organization
-College	O	I-Organization
+Curepipe	B-Organization	B-Location
+College	I-Organization
 
 The	O
 history	O
 of	O
-Curepipe	B-Location	B-Organization
-College	O	I-Organization
+Curepipe	B-Organization	B-Location
+College	I-Organization
 stretches	O
 back	O
 to	O
@@ -634,8 +634,8 @@ The	O
 main	O
 aim	O
 of	O
-Curepipe	B-Location	B-Organization
-College	O	I-Organization
+Curepipe	B-Organization	B-Location
+College	I-Organization
 is	O
 to	O
 provide	O
@@ -652,8 +652,8 @@ year	O
 –	O
 2021	B-Misc
 ,	O
-Curepipe	B-Location	B-Organization
-College	O	I-Organization
+Curepipe	B-Organization	B-Location
+College	I-Organization
 has	O
 achieved	O
 a	O

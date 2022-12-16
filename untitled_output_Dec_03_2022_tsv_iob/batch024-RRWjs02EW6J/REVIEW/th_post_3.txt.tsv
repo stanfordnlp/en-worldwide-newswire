@@ -37,10 +37,10 @@ Wangananont	I-Person
 president	O
 of	O
 the	O
-Thai	B-NORP	B-Organization
-Travel	O	I-Organization
-Agents	O	I-Organization
-Association	O	I-Organization
+Thai	B-Organization	B-NORP
+Travel	I-Organization
+Agents	I-Organization
+Association	I-Organization
 (	O
 TTAA	B-Organization
 )	O

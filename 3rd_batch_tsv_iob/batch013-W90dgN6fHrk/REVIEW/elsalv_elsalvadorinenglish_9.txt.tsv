@@ -105,12 +105,12 @@ developed	O
 at	O
 the	O
 «	O
-Benjamín	B-Person	B-Organization
-Estrada	I-Person	I-Organization
-Valiente	I-Person	I-Organization
-»	O	I-Organization
-School	O	I-Organization
-Center	O	I-Organization
+Benjamín	B-Organization	B-Person
+Estrada	I-Organization	I-Person
+Valiente	I-Organization	I-Person
+»	I-Organization
+School	I-Organization
+Center	I-Organization
 ,	O
 located	O
 in	O
@@ -223,8 +223,8 @@ reference	O
 to	O
 the	O
 2030	B-Misc	B-Misc
-Digital	O	I-Misc
-Agenda	O	I-Misc
+Digital	I-Misc
+Agenda	I-Misc
 ,	O
 a	O
 public	O

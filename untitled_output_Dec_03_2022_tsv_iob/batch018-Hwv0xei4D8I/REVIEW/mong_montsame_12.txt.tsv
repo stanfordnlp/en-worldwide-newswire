@@ -22,8 +22,8 @@ invitation	O
 of	O
 the	O
 ‘	O
-Mars	B-Location	B-Misc
-V	O	I-Misc
+Mars	B-Misc	B-Location
+V	I-Misc
 ’	O
 project	O
 team	O
@@ -37,8 +37,8 @@ model	O
 city	O
 in	O
 the	O
-Mongolian	B-NORP	B-Location
-Gobi	O	I-Location
+Mongolian	B-Location	B-NORP
+Gobi	I-Location
 with	O
 an	O
 international	B-Organization
@@ -219,9 +219,9 @@ construction	O
 work	O
 to	O
 build	O
-Mars	B-Location	B-Facility
-Research	O	I-Facility
-Station	O	I-Facility
+Mars	B-Facility	B-Location
+Research	I-Facility
+Station	I-Facility
 next	O
 year	O
 .	O
@@ -290,8 +290,8 @@ Amarsaikhan	I-Person
 congratulated	O
 the	O
 ‘	O
-Mars	B-Location	B-Misc
-V	O	I-Misc
+Mars	B-Misc	B-Location
+V	I-Misc
 ’	O
 team	O
 and	O

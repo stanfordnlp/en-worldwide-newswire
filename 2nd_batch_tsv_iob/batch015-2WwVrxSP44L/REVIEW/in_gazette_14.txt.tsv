@@ -203,23 +203,23 @@ program	O
 coordinator	O
 of	O
 the	O
-Jammu	B-Location	B-Organization
-and	I-Location	I-Organization
-Kashmir	I-Location	I-Organization
-Coalition	O	I-Organization
-of	O	I-Organization
-Civil	O	I-Organization
-Society	O	I-Organization
+Jammu	B-Organization	B-Location
+and	I-Organization	I-Location
+Kashmir	I-Organization	I-Location
+Coalition	I-Organization
+of	I-Organization
+Civil	I-Organization
+Society	I-Organization
 and	O
 the	O
 chair	O
 of	O
 the	O
-Asian	B-NORP	B-Organization
-Federation	O	I-Organization
-Against	O	I-Organization
-Involuntary	O	I-Organization
-Disappearances	O	I-Organization
+Asian	B-Organization	B-NORP
+Federation	I-Organization
+Against	I-Organization
+Involuntary	I-Organization
+Disappearances	I-Organization
 .	O
 He	O
 has	O
@@ -1268,8 +1268,8 @@ United	B-Location
 States	I-Location
 ,	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 ,	O
 the	O
 United	B-Location

@@ -109,11 +109,11 @@ termination	O
 point	O
 of	O
 the	O
-Tema	B-Location	B-Facility
--	O	I-Facility
-Mpakadan	O	I-Facility	B-Location
-railway	O	I-Facility
-line	O	I-Facility
+Tema	B-Facility	B-Location
+-	I-Facility
+Mpakadan	I-Facility	B-Location
+railway	I-Facility
+line	I-Facility
 ,	O
 will	O
 facilitate	O
@@ -129,9 +129,9 @@ and	O
 Debre	B-Location
 .	O
 The	O
-Debre	B-Location	B-Facility
-Inland	O	I-Facility
-Port	O	I-Facility
+Debre	B-Facility	B-Location
+Inland	I-Facility
+Port	I-Facility
 is	O
 expected	O
 to	O
@@ -259,8 +259,8 @@ to	O
 and	O
 from	O
 the	O
-Tema	B-Location	B-Facility
-Port	O	I-Facility
+Tema	B-Facility	B-Location
+Port	I-Facility
 .	O
 These	O
 containers	O
@@ -351,19 +351,19 @@ Roads	I-Misc
 
 “	O
 This	O
-$	B-Money	B-Facility
-200	I-Money	I-Facility
-million	I-Money	I-Facility
-inland	O	I-Facility
-marine	O	I-Facility
-port	O	I-Facility
+$	B-Facility	B-Money
+200	I-Facility	I-Money
+million	I-Facility	I-Money
+inland	I-Facility
+marine	I-Facility
+port	I-Facility
 and	O
 the	O
-$	B-Money	B-Facility
-250	I-Money	I-Facility
-million	I-Money	I-Facility
-Industrial	O	I-Facility
-Park	O	I-Facility
+$	B-Facility	B-Money
+250	I-Facility	I-Money
+million	I-Facility	I-Money
+Industrial	I-Facility
+Park	I-Facility
 will	O
 address	O
 a	O
@@ -502,8 +502,8 @@ transport	O
 of	O
 goods	O
 from	O
-theTema	B-Location	B-Facility
-port	O	I-Facility
+theTema	B-Facility	B-Location
+port	I-Facility
 to	O
 Ghana	B-Location
 ’	O
@@ -714,10 +714,10 @@ by	O
 LMI	B-Organization
 and	O
 the	O
-Tema	B-Location	B-NORP
-Free	O	I-NORP
-Zones	O	I-NORP
-Enclave	O	I-NORP
+Tema	B-NORP	B-Location
+Free	I-NORP
+Zones	I-NORP
+Enclave	I-NORP
 are	O
 a	O
 testament	O
@@ -731,8 +731,8 @@ As	O
 witnessed	O
 with	O
 the	O
-Tema	B-Location	B-Facility
-Port	O	I-Facility
+Tema	B-Facility	B-Location
+Port	I-Facility
 and	O
 the	O
 attendant	O

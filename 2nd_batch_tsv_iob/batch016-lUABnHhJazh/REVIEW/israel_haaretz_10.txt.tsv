@@ -299,10 +299,10 @@ source	O
 in	O
 the	O
 breakthrough	O
-New	B-Location	B-NORP
-York	I-Location	I-NORP
-Jewish	O	I-NORP	B-NORP
-Week	O	I-NORP
+New	B-NORP	B-Location
+York	I-NORP	I-Location
+Jewish	I-NORP	B-NORP
+Week	I-NORP
 exposé	O
 about	O
 him	O
@@ -1665,8 +1665,8 @@ good	O
 reason	O
 .	O
 The	O
-Israeli	B-NORP	B-Organization
-government	O	I-Organization
+Israeli	B-Organization	B-NORP
+government	I-Organization
 only	O
 decides	O
 someone	O

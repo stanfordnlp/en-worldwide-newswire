@@ -148,8 +148,8 @@ a	O
 look	O
 at	O
 The	O
-Bogotá	B-Location	B-Organization
-Post	O	I-Organization
+Bogotá	B-Organization	B-Location
+Post	I-Organization
 ’s	O
 top	O
 15	O

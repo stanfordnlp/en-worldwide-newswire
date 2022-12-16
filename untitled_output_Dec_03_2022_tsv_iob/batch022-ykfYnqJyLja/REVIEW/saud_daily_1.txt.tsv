@@ -1,8 +1,8 @@
 http://www.alriyadhdaily.com/article/bc0b1505906a437984e2875be1dcb05d	O
 
 Riyadh	B-Location	B-Location
-Region	O	I-Location
-Municipality	O	I-Location
+Region	I-Location
+Municipality	I-Location
 Launches	O
 its	O
 Development	O
@@ -56,8 +56,8 @@ arm	O
 of	O
 the	O
 Riyadh	B-Location	B-Location
-Region	O	I-Location
-Municipality	O	I-Location
+Region	I-Location
+Municipality	I-Location
 ,	O
 which	O
 will	O
@@ -188,7 +188,7 @@ Ayyaf	I-Person
 Mayor	O
 of	O
 Riyadh	B-Location	B-Location
-Region	O	I-Location
+Region	I-Location
 and	O
 Chairman	O
 of	O
@@ -220,7 +220,7 @@ projects	O
 of	O
 the	O
 Riyadh	B-Location	B-Location
-Region	O	I-Location
+Region	I-Location
 ,	O
 and	O
 improving	O
@@ -464,7 +464,7 @@ life	O
 enabling	O
 the	O
 Riyadh	B-Location	B-Location
-Region	O	I-Location
+Region	I-Location
 Municipality	O
 ’	O
 s	O
@@ -559,7 +559,7 @@ visitors	O
 of	O
 the	O
 Riyadh	B-Location	B-Location
-Region	O	I-Location
+Region	I-Location
 .	O
 ”	O
 
@@ -585,7 +585,7 @@ development	O
 in	O
 the	O
 Riyadh	B-Location	B-Location
-Region	O	I-Location
+Region	I-Location
 and	O
 improving	O
 the	O
@@ -645,7 +645,7 @@ community	O
 in	O
 the	O
 Riyadh	B-Location	B-Location
-Region	O	I-Location
+Region	I-Location
 ,	O
 in	O
 addition	O

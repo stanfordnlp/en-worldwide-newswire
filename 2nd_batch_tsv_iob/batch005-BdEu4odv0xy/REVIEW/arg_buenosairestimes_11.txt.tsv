@@ -353,8 +353,8 @@ January	B-Misc
 invasion	O
 of	O
 the	O
-US	B-Location	B-Facility
-Capitol	O	I-Facility
+US	B-Facility	B-Location
+Capitol	I-Facility
 by	O
 supporters	O
 of	O

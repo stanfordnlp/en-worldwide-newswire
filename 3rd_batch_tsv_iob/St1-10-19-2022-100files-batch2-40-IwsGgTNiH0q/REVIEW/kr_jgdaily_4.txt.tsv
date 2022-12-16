@@ -170,10 +170,10 @@ singles	O
 at	O
 the	O
 2010	B-Misc
-Vancouver	B-Location	B-Misc
-Winter	O	I-Misc
-Olympic	O	I-Misc
-Games	O	I-Misc
+Vancouver	B-Misc	B-Location
+Winter	I-Misc
+Olympic	I-Misc
+Games	I-Misc
 and	O
 the	O
 silver	O
@@ -185,10 +185,10 @@ singles	O
 at	O
 the	O
 2014	B-Misc
-Sochi	B-Location	B-Misc
-Winter	O	I-Misc
-Olympic	O	I-Misc
-Games	O	I-Misc
+Sochi	B-Misc	B-Location
+Winter	I-Misc
+Olympic	I-Misc
+Games	I-Misc
 ,	O
 among	O
 many	O
@@ -241,14 +241,14 @@ is	O
 a	O
 graduate	O
 of	O
-Seoul	B-Location	B-Organization
-National	O	I-Organization
-University	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-College	O	I-Organization
-of	O	I-Organization
-Music	O	I-Organization
+Seoul	B-Organization	B-Location
+National	I-Organization
+University	I-Organization
+’	I-Organization
+s	I-Organization
+College	I-Organization
+of	I-Organization
+Music	I-Organization
 .	O
 
 The	O

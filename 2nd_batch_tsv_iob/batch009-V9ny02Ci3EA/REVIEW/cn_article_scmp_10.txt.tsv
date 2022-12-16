@@ -156,8 +156,8 @@ title	O
 at	O
 the	O
 2014	B-Misc	B-Misc
-Sochi	O	I-Misc	B-Location
-Games	O	I-Misc
+Sochi	I-Misc	B-Location
+Games	I-Misc
 and	O
 then	O
 became	O
@@ -195,8 +195,8 @@ February	B-Misc
 ’	O
 s	O
 2022	B-Misc	B-Misc
-Beijing	O	I-Misc	B-Location
-Games	O	I-Misc
+Beijing	I-Misc	B-Location
+Games	I-Misc
 ,	O
 where	O
 he	O
@@ -418,8 +418,8 @@ to	O
 miss	O
 the	O
 2021	B-Misc	B-Misc
-Grand	O	I-Misc
-Prix	O	I-Misc
+Grand	I-Misc
+Prix	I-Misc
 season	O
 ,	O
 but	O
@@ -466,8 +466,8 @@ secret	O
 weapon	O
 at	O
 the	O
-Beijing	B-Location	B-Misc
-Games	O	I-Misc
+Beijing	B-Misc	B-Location
+Games	I-Misc
 .	O
 
 But	O

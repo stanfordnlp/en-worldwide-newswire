@@ -75,9 +75,9 @@ of	O
 the	O
 Board	O
 ,	O
-Egyptian	B-NORP	B-Organization
-Mercantile	O	I-Organization
-Exchange	O	I-Organization
+Egyptian	B-Organization	B-NORP
+Mercantile	I-Organization
+Exchange	I-Organization
 who	O
 gave	O
 the	O
@@ -415,9 +415,9 @@ of	I-Organization
 Egypt	I-Organization	B-Location
 ,	O
 the	O
-Egyptian	B-Location	B-Organization
-Banks	O	I-Organization
-Company	O	I-Organization
+Egyptian	B-Organization	B-Location
+Banks	I-Organization
+Company	I-Organization
 ,	O
 and	O
 ValU	B-Organization

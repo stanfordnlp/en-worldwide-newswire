@@ -8,15 +8,15 @@ enduring	O
 the	O
 stench	O
 from	O
-Bromley	B-Location	B-Facility
-'s	O	I-Facility
-wastewater	O	I-Facility
-plant	O	I-Facility
+Bromley	B-Facility	B-Location
+'s	I-Facility
+wastewater	I-Facility
+plant	I-Facility
 want	O
 the	O
-Christchurch	B-Location	B-Organization
-City	O	I-Organization
-Council	O	I-Organization
+Christchurch	B-Organization	B-Location
+City	I-Organization
+Council	I-Organization
 to	O
 pay	O
 for	O

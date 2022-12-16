@@ -34,8 +34,8 @@ DipAcc	B-Misc
 )	O
 ,	O
 from	O
-Rhodes	B-Person	B-Organization
-University	O	I-Organization
+Rhodes	B-Organization	B-Person
+University	I-Organization
 .	O
 
 She	O

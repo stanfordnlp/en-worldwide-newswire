@@ -251,8 +251,8 @@ on	O
 the	O
 official	O
 FIFA	B-Organization	B-Organization
-Resale	O	I-Organization
-Platform	O	I-Organization
+Resale	I-Organization
+Platform	I-Organization
 .	O
 
 Regarding	O

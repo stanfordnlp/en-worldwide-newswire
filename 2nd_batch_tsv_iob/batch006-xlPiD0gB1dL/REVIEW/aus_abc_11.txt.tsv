@@ -156,11 +156,11 @@ Nukunu	B-Location
 country	O
 ,	O
 near	O
-Port	B-Facility	B-Location
-Augusta	I-Facility	I-Location
-in	O	I-Location
-South	O	I-Location
-Australia	O	I-Location
+Port	B-Location	B-Facility
+Augusta	I-Location	I-Facility
+in	I-Location
+South	I-Location
+Australia	I-Location
 .	O
 
 Ms	O
@@ -558,13 +558,13 @@ grandmother	O
 was	O
 in	O
 the	O
-Cootamundra	B-Location	B-Facility
-Domestic	O	I-Facility
-Training	O	I-Facility
-Home	O	I-Facility
-for	O	I-Facility
-Aboriginal	O	I-Facility	B-NORP
-Girls	O	I-Facility
+Cootamundra	B-Facility	B-Location
+Domestic	I-Facility
+Training	I-Facility
+Home	I-Facility
+for	I-Facility
+Aboriginal	I-Facility	B-NORP
+Girls	I-Facility
 ,	O
 in	O
 southern	B-Location

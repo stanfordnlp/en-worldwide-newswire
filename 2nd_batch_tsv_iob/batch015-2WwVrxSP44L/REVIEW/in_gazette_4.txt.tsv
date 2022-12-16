@@ -538,8 +538,8 @@ the	O
 first	O
 time	O
 the	O
-Catholic	B-NORP	B-Organization
-Church	O	I-Organization
+Catholic	B-Organization	B-NORP
+Church	I-Organization
 in	O
 Kerala	B-Location
 had	O
@@ -918,10 +918,10 @@ which	O
 went	O
 to	O
 the	O
-Indian	B-NORP	B-Organization
-Union	O	I-Organization
-Muslim	O	I-Organization	B-NORP
-League	O	I-Organization
+Indian	B-Organization	B-NORP
+Union	I-Organization
+Muslim	I-Organization	B-NORP
+League	I-Organization
 ,	O
 a	O
 partner	O
@@ -944,9 +944,9 @@ Vijayan	I-Person
 went	O
 to	O
 the	O
-Thamarassery	B-Location	B-Facility
-Bishop	O	I-Facility
-House	O	I-Facility
+Thamarassery	B-Facility	B-Location
+Bishop	I-Facility
+House	I-Facility
 and	O
 apparently	O
 regretted	O
@@ -1015,8 +1015,8 @@ the	O
 state	O
 while	O
 the	O
-Muslim	B-NORP	B-Organization
-League	O	I-Organization
+Muslim	B-Organization	B-NORP
+League	I-Organization
 is	O
 part	O
 of	O
@@ -1044,8 +1044,8 @@ by	O
 suggesting	O
 that	O
 the	O
-Muslim	B-NORP	B-Organization
-League	O	I-Organization
+Muslim	B-Organization	B-NORP
+League	I-Organization
 was	O
 on	O
 the	O

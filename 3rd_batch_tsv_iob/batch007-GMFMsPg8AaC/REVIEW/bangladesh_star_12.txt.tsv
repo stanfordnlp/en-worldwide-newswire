@@ -150,15 +150,15 @@ operations	O
 .	O
 
 The	O
-Bangladesh	B-Location	B-Organization
-Bridge	O	I-Organization
-Authority	O	I-Organization
+Bangladesh	B-Organization	B-Location
+Bridge	I-Organization
+Authority	I-Organization
 earlier	O
 banned	O
 bikes	O
 on	O
-Padma	B-Location	B-Facility
-Bridge	O	I-Facility
+Padma	B-Facility	B-Location
+Bridge	I-Facility
 .	O
 
 Moreover	O
@@ -281,10 +281,10 @@ have	O
 been	O
 registered	O
 with	O
-Bangladesh	B-Location	B-Organization
-Road	O	I-Organization
-Transport	O	I-Organization
-Authority	O	I-Organization
+Bangladesh	B-Organization	B-Location
+Road	I-Organization
+Transport	I-Organization
+Authority	I-Organization
 so	O
 far	O
 .	O
@@ -330,12 +330,12 @@ Khan	I-Person
 ,	O
 president	O
 of	O
-Bangladesh	B-Location	B-Organization
-Road	O	I-Organization
-Transport	O	I-Organization
-Workers	O	I-Organization
-'	O	I-Organization
-Federation	O	I-Organization
+Bangladesh	B-Organization	B-Location
+Road	I-Organization
+Transport	I-Organization
+Workers	I-Organization
+'	I-Organization
+Federation	I-Organization
 ,	O
 said	O
 motorcycles	O
@@ -400,12 +400,12 @@ Ranga	B-Person
 ,	O
 president	O
 of	O
-Bangladesh	B-Location	B-Organization
-Road	O	I-Organization
-Transport	O	I-Organization
-Owners	O	I-Organization
-'	O	I-Organization
-Association	O	I-Organization
+Bangladesh	B-Organization	B-Location
+Road	I-Organization
+Transport	I-Organization
+Owners	I-Organization
+'	I-Organization
+Association	I-Organization
 and	O
 also	O
 a	O

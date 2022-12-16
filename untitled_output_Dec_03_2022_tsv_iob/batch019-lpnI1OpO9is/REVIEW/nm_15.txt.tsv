@@ -36,10 +36,10 @@ court	O
 appearance	O
 in	O
 the	O
-Rundu	B-Location	B-Organization
-Magistrate	O	I-Organization
-'s	O	I-Organization
-Court	O	I-Organization
+Rundu	B-Organization	B-Location
+Magistrate	I-Organization
+'s	I-Organization
+Court	I-Organization
 on	O
 Tuesday	B-Misc
 .	O
@@ -202,10 +202,10 @@ to	O
 appear	O
 in	O
 the	O
-Rundu	B-Location	B-Organization
-Magistrate	O	I-Organization
-'s	O	I-Organization
-Court	O	I-Organization
+Rundu	B-Organization	B-Location
+Magistrate	I-Organization
+'s	I-Organization
+Court	I-Organization
 or	O
 the	O
 Nakundu	B-Location

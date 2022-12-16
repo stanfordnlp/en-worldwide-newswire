@@ -43,16 +43,16 @@ Judge	O
 President	O
 of	O
 the	O
-Western	B-Location	B-Organization
-Cape	I-Location	I-Organization
-Division	O	I-Organization
-of	O	I-Organization
-the	O	I-Organization
-High	O	I-Organization
-Court	O	I-Organization
-of	O	I-Organization
-South	O	I-Organization	B-Location
-Africa	O	I-Organization	I-Location
+Western	B-Organization	B-Location
+Cape	I-Organization	I-Location
+Division	I-Organization
+of	I-Organization
+the	I-Organization
+High	I-Organization
+Court	I-Organization
+of	I-Organization
+South	I-Organization	B-Location
+Africa	I-Organization	I-Location
 ,	O
 John	O
 Hlophe	B-Person
@@ -141,11 +141,11 @@ section	O
 )	O
 of	O
 the	O
-JSC	B-Organization	B-Misc
-Act	O	I-Misc
-9	O	I-Misc
-of	O	I-Misc
-1994	O	I-Misc	B-Misc
+JSC	B-Misc	B-Organization
+Act	I-Misc
+9	I-Misc
+of	I-Misc
+1994	I-Misc	B-Misc
 that	O
 (	O
 Judge	O
@@ -264,10 +264,10 @@ as	O
 far	O
 as	O
 the	O
-Western	B-Location	B-Organization
-Cape	I-Location	I-Organization
-High	O	I-Organization
-Court	O	I-Organization
+Western	B-Organization	B-Location
+Cape	I-Organization	I-Location
+High	I-Organization
+Court	I-Organization
 is	O
 concerned	O
 .	O
@@ -277,10 +277,10 @@ cases	O
 pending	O
 in	O
 the	O
-Western	B-Location	B-Organization
-Cape	I-Location	I-Organization
-High	O	I-Organization
-Court	O	I-Organization
+Western	B-Organization	B-Location
+Cape	I-Organization	I-Location
+High	I-Organization
+Court	I-Organization
 ,	O
 including	O
 the	O

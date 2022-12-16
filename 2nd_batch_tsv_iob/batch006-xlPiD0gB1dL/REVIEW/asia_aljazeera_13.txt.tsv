@@ -49,8 +49,8 @@ ancient	O
 tradition	O
 known	O
 as	O
-Baikho	B-Location	B-Misc
-festival	O	I-Misc
+Baikho	B-Misc	B-Location
+festival	I-Misc
 that	O
 is	O
 predominantly	O

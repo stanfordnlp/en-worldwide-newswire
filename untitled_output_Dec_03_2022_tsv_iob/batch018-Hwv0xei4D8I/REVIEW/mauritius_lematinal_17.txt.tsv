@@ -9,10 +9,10 @@ Agriculture	I-Misc
 project	I-Misc
 ,	O
 the	O
-Mauritius	B-Location	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Agriculture	O	I-Organization
+Mauritius	B-Organization	B-Location
+Chamber	I-Organization
+of	I-Organization
+Agriculture	I-Organization
 organized	O
 a	O
 half	O
@@ -102,11 +102,11 @@ Executive	O
 Director	O
 of	O
 the	O
-Mauritius	B-Location	B-Organization
-Research	O	I-Organization
-and	O	I-Organization
-Innovation	O	I-Organization
-Council	O	I-Organization
+Mauritius	B-Organization	B-Location
+Research	I-Organization
+and	I-Organization
+Innovation	I-Organization
+Council	I-Organization
 (	O
 MRIC	B-Organization
 )	O
@@ -137,10 +137,10 @@ Secretary	O
 General	O
 of	O
 the	O
-Mauritius	B-Location	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Agriculture	O	I-Organization
+Mauritius	B-Organization	B-Location
+Chamber	I-Organization
+of	I-Organization
+Agriculture	I-Organization
 ,	O
 Mrs	O
 .	O
@@ -383,10 +383,10 @@ July	B-Misc
 exercise	O
 ,	O
 the	O
-Mauritius	B-Location	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Agriculture	O	I-Organization
+Mauritius	B-Organization	B-Location
+Chamber	I-Organization
+of	I-Organization
+Agriculture	I-Organization
 is	O
 focusing	O
 on	O

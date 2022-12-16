@@ -58,9 +58,9 @@ South	I-Location
 Jeolla	I-Location
 .	O
 
-Gwangju	B-Location	B-Organization
-Elementary	O	I-Organization
-School	O	I-Organization
+Gwangju	B-Organization	B-Location
+Elementary	I-Organization
+School	I-Organization
 reported	O
 Cho	B-Person
 missing	O

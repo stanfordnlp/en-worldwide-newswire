@@ -170,8 +170,8 @@ applications	O
 enforcement	O
 officers	O
 from	O
-Sabah	B-Location	B-Organization
-NRD	O	I-Organization
+Sabah	B-Organization	B-Location
+NRD	I-Organization
 detained	O
 the	O
 women	O

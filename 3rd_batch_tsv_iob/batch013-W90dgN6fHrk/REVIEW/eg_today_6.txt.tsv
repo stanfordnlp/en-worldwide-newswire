@@ -7,8 +7,8 @@ July	I-Misc
 2022	I-Misc
 :	O
 The	O
-Egyptian	B-NORP	B-Organization
-Cabinet	O	I-Organization
+Egyptian	B-Organization	B-NORP
+Cabinet	I-Organization
 's	O
 Information	B-Organization
 and	I-Organization

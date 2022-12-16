@@ -395,8 +395,8 @@ pegged	O
 in	O
 the	O
 local	O
-Zimbabwean	B-NORP	B-Money
-dollar	O	I-Money
+Zimbabwean	B-Money	B-NORP
+dollar	I-Money
 are	O
 forced	O
 to	O
@@ -442,8 +442,8 @@ greener	O
 pastures	O
 .	O
 The	O
-UK	B-Location	B-Organization
-government	O	I-Organization
+UK	B-Organization	B-Location
+government	I-Organization
 in	O
 its	O
 recent	O
@@ -515,10 +515,10 @@ in	O
 Zimbabwe	B-Location
 backed	O
 the	O
-UK	B-Location	B-Misc
-Skills	O	I-Misc
-Crisis	O	I-Misc
-report	O	I-Misc
+UK	B-Misc	B-Location
+Skills	I-Misc
+Crisis	I-Misc
+report	I-Misc
 data	O
 saying	O
 they	O
@@ -729,9 +729,9 @@ pay	O
 a	O
 shortfall	O
 of	O
-US	B-Location	B-Money
-$	O	I-Money
-5	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+5	I-Money
 +	O
 for	O
 consultation	O

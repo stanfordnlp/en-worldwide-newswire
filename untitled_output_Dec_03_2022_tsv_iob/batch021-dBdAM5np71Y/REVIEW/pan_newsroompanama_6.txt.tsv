@@ -1,15 +1,15 @@
 https://www.newsroompanama.com/business/business-chamber-wants-cortizo-to-participate-in-dialogues	O
 
-Panama	B-Location	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Commerce	O	I-Organization
-,	O	I-Organization
-Industries	O	I-Organization
-and	O	I-Organization
-Agriculture	O	I-Organization
+Panama	B-Organization	B-Location
+’	I-Organization
+s	I-Organization
+Chamber	I-Organization
+of	I-Organization
+Commerce	I-Organization
+,	I-Organization
+Industries	I-Organization
+and	I-Organization
+Agriculture	I-Organization
 (	O
 Cciap	B-Organization
 )	O

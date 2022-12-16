@@ -728,8 +728,8 @@ Ebola	B-Misc
 stems	O
 from	O
 the	O
-Ebola	B-Misc	B-Location
-River	O	I-Location
+Ebola	B-Location	B-Misc
+River	I-Location
 in	O
 Congo	B-Location
 Kinshasa	I-Location

@@ -35,11 +35,11 @@ questioning	O
 .	O
 
 The	O
-Taoyuan	B-Location	B-Organization
-District	I-Location	I-Organization
-Prosecutors	O	I-Organization
-’	O	I-Organization
-Office	O	I-Organization
+Taoyuan	B-Organization	B-Location
+District	I-Organization	I-Location
+Prosecutors	I-Organization
+’	I-Organization
+Office	I-Organization
 had	O
 initially	O
 declined	O
@@ -49,11 +49,11 @@ charges	O
 ,	O
 but	O
 the	O
-Taiwan	B-Location	B-Organization
-High	O	I-Organization
-Prosecutors	O	I-Organization
-’	O	I-Organization
-Office	O	I-Organization
+Taiwan	B-Organization	B-Location
+High	I-Organization
+Prosecutors	I-Organization
+’	I-Organization
+Office	I-Organization
 ordered	O
 local	O
 authorities	O
@@ -381,9 +381,9 @@ official	O
 .	O
 
 The	O
-Taoyuan	B-Location	B-Organization
-Police	O	I-Organization
-Department	O	I-Organization
+Taoyuan	B-Organization	B-Location
+Police	I-Organization
+Department	I-Organization
 ’	O
 s	O
 Jhongli	B-Location

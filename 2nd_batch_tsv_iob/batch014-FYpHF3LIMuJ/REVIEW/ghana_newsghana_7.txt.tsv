@@ -117,9 +117,9 @@ II	O
 Paramount	O
 Chief	O
 of	O
-Takla	B-Location	B-Misc
-Traditional	O	I-Misc
-Area	O	I-Misc
+Takla	B-Misc	B-Location
+Traditional	I-Misc
+Area	I-Misc
 and	O
 Chairman	O
 of	O
@@ -291,9 +291,9 @@ the	O
 forecourt	O
 of	O
 the	O
-Asogli	B-Location	B-Facility
-State	I-Location	I-Facility
-Palace	O	I-Facility
+Asogli	B-Facility	B-Location
+State	I-Facility	I-Location
+Palace	I-Facility
 to	O
 receive	O
 special	O

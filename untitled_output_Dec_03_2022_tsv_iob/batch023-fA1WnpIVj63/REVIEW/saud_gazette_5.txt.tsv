@@ -306,8 +306,8 @@ this	O
 year	O
 ,	O
 the	O
-Saudi	B-NORP	B-Organization
-Cabinet	O	I-Organization
+Saudi	B-Organization	B-NORP
+Cabinet	I-Organization
 endorsed	O
 the	O
 establishment	O

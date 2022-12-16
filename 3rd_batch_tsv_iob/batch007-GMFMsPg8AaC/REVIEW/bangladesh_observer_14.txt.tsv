@@ -18,8 +18,8 @@ the	O
 river	O
 from	O
 the	O
-Padma	B-Location	B-Facility
-Bridge	O	I-Facility
+Padma	B-Facility	B-Location
+Bridge	I-Facility
 was	O
 a	O
 political	O
@@ -146,8 +146,8 @@ Zia	I-Person
 (	O
 from	O
 the	O
-Padma	B-Location	B-Facility
-Bridge	O	I-Facility
+Padma	B-Facility	B-Location
+Bridge	I-Facility
 )	O
 .	O
 They	O
@@ -373,8 +373,8 @@ had	O
 said	O
 that	O
 the	O
-Padma	B-Location	B-Facility
-Bridge	O	I-Facility
+Padma	B-Facility	B-Location
+Bridge	I-Facility
 was	O
 being	O
 constructed	O
@@ -402,8 +402,8 @@ said	O
 none	O
 can	O
 cross	O
-Padma	B-Location	B-Facility
-Bridge	O	I-Facility
+Padma	B-Facility	B-Location
+Bridge	I-Facility
 as	O
 the	O
 bridge	O
@@ -448,8 +448,8 @@ be	O
 taken	O
 to	O
 the	O
-Padma	B-Location	B-Facility
-Bridge	O	I-Facility
+Padma	B-Facility	B-Location
+Bridge	I-Facility
 and	O
 dropped	O
 in	O

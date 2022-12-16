@@ -271,9 +271,9 @@ Kiru	I-Misc
 and	O
 48	O
 MW	O
-Lower	B-Location	B-Misc
-Kalnai	I-Location	I-Misc
-projects	O	I-Misc
+Lower	B-Misc	B-Location
+Kalnai	I-Misc	I-Location
+projects	I-Misc
 which	O
 ,	O
 it	O
@@ -382,8 +382,8 @@ Authority	I-Organization
 Meteorological	B-Organization
 Department	I-Organization
 ,	O
-Punjab	B-Location	B-Organization
-Irrigation	O	I-Organization
+Punjab	B-Organization	B-Location
+Irrigation	I-Organization
 ,	O
 Federal	B-Organization
 Flood	I-Organization

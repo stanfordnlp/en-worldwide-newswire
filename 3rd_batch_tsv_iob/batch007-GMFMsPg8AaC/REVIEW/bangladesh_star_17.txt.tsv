@@ -5,9 +5,9 @@ dumping	O
 of	O
 garbage	O
 by	O
-Mymensingh	B-Location	B-Organization
-municipal	O	I-Organization
-authorities	O	I-Organization
+Mymensingh	B-Organization	B-Location
+municipal	I-Organization
+authorities	I-Organization
 into	O
 the	O
 Old	B-Location
@@ -267,8 +267,8 @@ other	O
 side	O
 of	O
 the	O
-Brahmaputra	B-Location	B-Facility
-Bridge	O	I-Facility
+Brahmaputra	B-Facility	B-Location
+Bridge	I-Facility
 lies	O
 the	O
 dedicated	O
@@ -360,12 +360,12 @@ Liton	I-Organization
 ,	O
 secretary	O
 of	O
-Mymensingh	B-Location	B-Organization
-Poribesh	O	I-Organization
-Rokhha	O	I-Organization
-O	O	I-Organization
-Unnayan	O	I-Organization
-Andolon	O	I-Organization
+Mymensingh	B-Organization	B-Location
+Poribesh	I-Organization
+Rokhha	I-Organization
+O	I-Organization
+Unnayan	I-Organization
+Andolon	I-Organization
 .	O
 
 Contacted	O

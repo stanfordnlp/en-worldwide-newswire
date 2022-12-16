@@ -1,14 +1,14 @@
 https://ticotimes.net/2022/07/19/costa-rican-womens-national-soccer-team-loses-1-0-to-jamaica	O
 
 The	O
-Costa	B-NORP	B-Organization
-Rican	I-NORP	I-Organization
-Women	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-National	O	I-Organization
-Soccer	O	I-Organization
-Team	O	I-Organization
+Costa	B-Organization	B-NORP
+Rican	I-Organization	I-NORP
+Women	I-Organization
+’	I-Organization
+s	I-Organization
+National	I-Organization
+Soccer	I-Organization
+Team	I-Organization
 lost	O
 1-0	O
 against	O
@@ -35,8 +35,8 @@ qualify	O
 for	O
 the	O
 2023	B-Misc	B-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+World	I-Misc
+Cup	I-Misc
 .	O
 However	O
 ,	O
@@ -54,17 +54,17 @@ a	O
 spot	O
 in	O
 the	O
-Paris	B-Location	B-Misc
-2024	O	I-Misc	B-Misc
-Olympic	O	I-Misc
-Games	O	I-Misc
+Paris	B-Misc	B-Location
+2024	I-Misc	B-Misc
+Olympic	I-Misc
+Games	I-Misc
 .	O
 
 The	O
-Costa	B-NORP	B-Organization
-Rican	I-NORP	I-Organization
-National	O	I-Organization
-Team	O	I-Organization
+Costa	B-Organization	B-NORP
+Rican	I-Organization	I-NORP
+National	I-Organization
+Team	I-Organization
 started	O
 the	O
 match	O

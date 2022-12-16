@@ -57,9 +57,9 @@ the	O
 hub	O
 of	O
 the	O
-Taiwan	B-Location	B-Organization
-Railways	O	I-Organization
-Administration	O	I-Organization
+Taiwan	B-Organization	B-Location
+Railways	I-Organization
+Administration	I-Organization
 ’	O
 s	O
 (	O

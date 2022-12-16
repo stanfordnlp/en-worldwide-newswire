@@ -9,8 +9,8 @@ quick	O
 to	O
 cast	O
 the	O
-Russian	B-NORP	B-Organization
-government	O	I-Organization
+Russian	B-Organization	B-NORP
+government	I-Organization
 ’	O
 s	O
 decision	O
@@ -21,8 +21,8 @@ the	O
 operations	O
 of	O
 the	O
-Jewish	B-NORP	B-Organization
-Agency	O	I-Organization
+Jewish	B-Organization	B-NORP
+Agency	I-Organization
 in	O
 its	O
 territory	O
@@ -121,8 +121,8 @@ Besides	O
 that	O
 ,	O
 the	O
-Jewish	B-NORP	B-Organization
-Agency	O	I-Organization
+Jewish	B-Organization	B-NORP
+Agency	I-Organization
 ’	O
 s	O
 problems	O
@@ -992,8 +992,8 @@ to	O
 start	O
 examining	O
 the	O
-Jewish	B-NORP	B-Organization
-Agency	O	I-Organization
+Jewish	B-Organization	B-NORP
+Agency	I-Organization
 ’	O
 s	O
 role	O

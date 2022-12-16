@@ -227,10 +227,10 @@ trauma	O
 centre	O
 at	O
 Karwar	B-Location	B-Location
-Medical	O	I-Location
-College	O	I-Location
-and	O	I-Location
-Hospital	O	I-Location
+Medical	I-Location
+College	I-Location
+and	I-Location
+Hospital	I-Location
 ,	O
 "	O
 Health	O

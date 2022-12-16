@@ -610,18 +610,18 @@ to	O
 reach	O
 a	O
 record	O
-US	B-Location	B-Money
-$	O	I-Money
-41	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+41	I-Money
+billion	I-Money
 in	O
 2022	B-Misc
 ,	O
 some	O
-US	B-Location	B-Money
-$	O	I-Money
-3	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+3	I-Money
+billion	I-Money
 more	O
 than	O
 in	O

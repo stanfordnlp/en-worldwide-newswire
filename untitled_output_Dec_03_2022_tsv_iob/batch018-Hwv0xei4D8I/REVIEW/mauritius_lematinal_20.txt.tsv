@@ -235,7 +235,7 @@ Eid	B-Misc	B-Misc
 ul	I-Misc	I-Misc
 -	I-Misc	I-Misc
 Adha	I-Misc	I-Misc
-festival	O	I-Misc
+festival	I-Misc
 instead	O
 of	O
 the	O
@@ -285,9 +285,9 @@ Callichurn	I-Person
 explained	O
 that	O
 the	O
-Mauritius	B-Location	B-Organization
-Meat	O	I-Organization
-Authority	O	I-Organization
+Mauritius	B-Organization	B-Location
+Meat	I-Organization
+Authority	I-Organization
 is	O
 there	O
 to	O

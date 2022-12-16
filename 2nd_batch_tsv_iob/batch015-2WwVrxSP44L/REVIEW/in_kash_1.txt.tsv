@@ -39,8 +39,8 @@ soldiers	O
 of	O
 the	O
 1999	B-Misc
-Kargil	B-Location	B-Misc
-War	O	I-Misc
+Kargil	B-Misc	B-Location
+War	I-Misc
 .	O
 
 The	O
@@ -48,16 +48,16 @@ bikers	O
 rally	O
 to	O
 the	O
-Kargil	B-Location	B-Misc
-War	O	I-Misc
-Memorial	O	I-Misc
+Kargil	B-Misc	B-Location
+War	I-Misc
+Memorial	I-Misc
 in	O
 Drass	B-Location
 area	O
 of	O
 the	O
-Ladakh	B-Location	B-Organization
-Union	O	I-Organization
+Ladakh	B-Organization	B-Location
+Union	I-Organization
 territory	O
 was	O
 flagged	O
@@ -225,9 +225,9 @@ leaders	O
 raised	O
 slogans	O
 of	O
-Azad	B-Person	B-Misc
-Hindustan	O	I-Misc
-Zindabad	O	I-Misc
+Azad	B-Misc	B-Person
+Hindustan	I-Misc
+Zindabad	I-Misc
 ’	O
 ,	O
 Akhand	B-Misc
@@ -301,8 +301,8 @@ their	O
 lives	O
 in	O
 the	O
-Kargil	B-Location	B-Misc
-War	O	I-Misc
+Kargil	B-Misc	B-Location
+War	I-Misc
 .	O
 
 A	O
@@ -337,9 +337,9 @@ will	O
 culminate	O
 at	O
 the	O
-Kargil	B-Location	B-Facility
-War	O	I-Facility
-Memorial	O	I-Facility
+Kargil	B-Facility	B-Location
+War	I-Facility
+Memorial	I-Facility
 on	O
 Tuesday	B-Misc
 ,	O
@@ -754,8 +754,8 @@ fallen	O
 soldiers	O
 of	O
 the	O
-Kargil	B-Location	B-Misc
-War	O	I-Misc
+Kargil	B-Misc	B-Location
+War	I-Misc
 .	O
 
 These	O

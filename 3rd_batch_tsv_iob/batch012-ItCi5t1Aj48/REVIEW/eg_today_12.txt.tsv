@@ -63,9 +63,9 @@ the	O
 budget	O
 of	O
 the	O
-Egyptian	B-NORP	B-Organization
-Awqaf	O	I-Organization
-Authority	O	I-Organization
+Egyptian	B-Organization	B-NORP
+Awqaf	I-Organization
+Authority	I-Organization
 with	O
 the	O
 fiscal	O
@@ -122,11 +122,11 @@ the	O
 budget	O
 of	O
 the	O
-Egyptian	B-NORP	B-Organization
-Authority	O	I-Organization
-for	O	I-Organization
-Unified	O	I-Organization
-Procurement	O	I-Organization
+Egyptian	B-Organization	B-NORP
+Authority	I-Organization
+for	I-Organization
+Unified	I-Organization
+Procurement	I-Organization
 ,	O
 Medical	B-Organization
 Supply	I-Organization

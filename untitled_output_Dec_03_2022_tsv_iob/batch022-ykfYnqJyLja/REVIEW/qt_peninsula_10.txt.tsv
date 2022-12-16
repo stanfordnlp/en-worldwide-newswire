@@ -139,16 +139,16 @@ year	O
 ,	O
 scientists	O
 at	O
-Hamad	B-Person	B-Organization
-Bin	I-Person	I-Organization
-Khalifa	I-Person	I-Organization
-University	O	I-Organization
+Hamad	B-Organization	B-Person
+Bin	I-Organization	I-Person
+Khalifa	I-Organization	I-Person
+University	I-Organization
 ’	O
 s	O
-Qatar	B-Location	B-Organization
-Computing	O	I-Organization
-Research	O	I-Organization
-Institute	O	I-Organization
+Qatar	B-Organization	B-Location
+Computing	I-Organization
+Research	I-Organization
+Institute	I-Organization
 (	O
 QCRI	B-Organization
 )	O
@@ -228,9 +228,9 @@ Economics	I-Organization
 and	I-Organization
 Technology	I-Organization
 ,	O
-Kadir	B-Person	B-Organization
-Has	I-Person	I-Organization
-University	O	I-Organization
+Kadir	B-Organization	B-Person
+Has	I-Organization	I-Person
+University	I-Organization
 ,	O
 and	O
 Interprobe	B-Organization
@@ -255,10 +255,10 @@ $	B-Money
 m	I-Money
 grant	O
 from	O
-Qatar	B-Location	B-Organization
-National	O	I-Organization
-Research	O	I-Organization
-Fund	O	I-Organization
+Qatar	B-Organization	B-Location
+National	I-Organization
+Research	I-Organization
+Fund	I-Organization
 (	O
 QNRF	B-Location
 )	O
@@ -347,10 +347,10 @@ the	O
 top	O
 of	O
 the	O
-FIFA	B-Organization	B-Misc
-World	O	I-Misc
-Cup	O	I-Misc
-2022	O	I-Misc	B-Misc
+FIFA	B-Misc	B-Organization
+World	I-Misc
+Cup	I-Misc
+2022	I-Misc	B-Misc
 event	O
 agenda	O
 by	O
@@ -381,11 +381,11 @@ in	O
 and	O
 established	O
 the	O
-Qatar	B-Location	B-Organization
-Computer	O	I-Organization
-Emergency	O	I-Organization
-Response	O	I-Organization
-Team	O	I-Organization
+Qatar	B-Organization	B-Location
+Computer	I-Organization
+Emergency	I-Organization
+Response	I-Organization
+Team	I-Organization
 as	O
 early	O
 as	O

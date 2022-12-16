@@ -42,9 +42,9 @@ and	I-Organization
 Patrols	I-Organization
 directorate	I-Organization
 at	O
-Abu	B-Location	B-Organization
-Dhabi	I-Location	I-Organization
-Police	O	I-Organization
+Abu	B-Organization	B-Location
+Dhabi	I-Organization	I-Location
+Police	I-Organization
 said	O
 the	O
 drivers	O
@@ -319,9 +319,9 @@ the	O
 roads	O
 .	O
 
-Abu	B-Location	B-Organization
-Dhabi	I-Location	I-Organization
-Police	O	I-Organization
+Abu	B-Organization	B-Location
+Dhabi	I-Organization	I-Location
+Police	I-Organization
 had	O
 earlier	O
 announced	O

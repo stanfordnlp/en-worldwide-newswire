@@ -16,8 +16,8 @@ to	O
 students	O
 of	O
 the	O
-Catholic	B-NORP	B-Organization
-School	O	I-Organization
+Catholic	B-Organization	B-NORP
+School	I-Organization
 Center	O
 ‹‹	O
 Corazón	B-Misc

@@ -6,10 +6,10 @@ and	O
 jewelry	O
 designer	O
 from	O
-Ross	B-Location	B-Organization
-River	I-Location	I-Organization
-Dena	O	I-Organization	B-NORP
-Council	O	I-Organization
+Ross	B-Organization	B-Location
+River	I-Organization	I-Location
+Dena	I-Organization	B-NORP
+Council	I-Organization
 in	O
 the	O
 Yukon	B-Location
@@ -45,10 +45,10 @@ present	O
 her	O
 designs	O
 at	O
-New	B-Location	B-Misc
-York	I-Location	I-Misc
-Fashion	O	I-Misc
-Week	O	I-Misc
+New	B-Misc	B-Location
+York	I-Misc	I-Location
+Fashion	I-Misc
+Week	I-Misc
 in	O
 September	B-Misc
 .	O
@@ -277,10 +277,10 @@ she	O
 says	O
 .	O
 
-New	B-Location	B-Misc
-York	I-Location	I-Misc
-Fashion	O	I-Misc
-Week	O	I-Misc
+New	B-Misc	B-Location
+York	I-Misc	I-Location
+Fashion	I-Misc
+Week	I-Misc
 is	O
 a	O
 semi	O

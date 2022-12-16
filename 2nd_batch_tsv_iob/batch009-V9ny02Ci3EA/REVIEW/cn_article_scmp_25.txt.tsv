@@ -229,8 +229,8 @@ line	O
 with	O
 the	O
 ruling	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
+Communist	B-Organization	B-NORP
+Party	I-Organization
 ’	O
 s	O
 goals	O
@@ -508,13 +508,13 @@ survey	O
 conducted	O
 by	O
 the	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
+Communist	B-Organization	B-NORP
+Party	I-Organization
 ’	O
 s	O
-China	B-Location	B-Misc
-Youth	O	I-Misc
-Daily	O	I-Misc
+China	B-Misc	B-Location
+Youth	I-Misc
+Daily	I-Misc
 in	O
 March	B-Misc
 of	O
@@ -1158,11 +1158,11 @@ the	O
 University	B-Organization	B-Organization
 of	I-Organization	I-Organization
 Chicago	I-Organization	I-Organization	B-Location
-’	O	I-Organization
-s	O	I-Organization
-Energy	O	I-Organization
-Policy	O	I-Organization
-Institute	O	I-Organization
+’	I-Organization
+s	I-Organization
+Energy	I-Organization
+Policy	I-Organization
+Institute	I-Organization
 this	O
 month	O
 .	O

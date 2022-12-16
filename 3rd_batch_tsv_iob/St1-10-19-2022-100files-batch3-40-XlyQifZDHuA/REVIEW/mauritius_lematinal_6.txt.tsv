@@ -91,8 +91,8 @@ the	O
 former	O
 CEO	O
 of	O
-Mauritius	B-Location	B-Organization
-Telecom	O	I-Organization
+Mauritius	B-Organization	B-Location
+Telecom	I-Organization
 ,	O
 Sherry	B-Person
 Singh	I-Person

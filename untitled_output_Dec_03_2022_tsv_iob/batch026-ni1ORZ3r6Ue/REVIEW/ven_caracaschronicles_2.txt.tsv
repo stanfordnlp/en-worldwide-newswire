@@ -32,7 +32,7 @@ anti	O
 corruption	O
 nonprofit	O
 Transparency	B-Organization	B-Organization
-International	O	I-Organization
+International	I-Organization
 —	O
 with	O
 estimates	O
@@ -87,7 +87,7 @@ De	I-Person
 Freitas	I-Person
 ,	O
 Transparencia	B-Organization	B-Organization
-Venezuela	O	I-Organization	B-Location
+Venezuela	I-Organization	B-Location
 ’	O
 s	O
 executive	O
@@ -775,8 +775,8 @@ United	B-Location
 States	I-Location
 ,	O
 the	O
-Caribbean	B-NORP	B-Location
-islands	O	I-Location
+Caribbean	B-Location	B-NORP
+islands	I-Location
 ,	O
 Central	B-Location
 America	I-Location
@@ -907,11 +907,11 @@ of	I-Organization
 the	I-Organization
 Republic	I-Organization
 (	O
-Colombia	B-Location	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-central	O	I-Organization
-bank	O	I-Organization
+Colombia	B-Organization	B-Location
+’	I-Organization
+s	I-Organization
+central	I-Organization
+bank	I-Organization
 )	O
 and	O
 adapted	O
@@ -1193,8 +1193,8 @@ Mafiosa	I-Misc
 Since	O
 the	O
 Orinoco	B-Location	B-Location
-Mining	O	I-Location
-Arc	O	I-Location
+Mining	I-Location
+Arc	I-Location
 was	O
 created	O
 in	O
@@ -1276,13 +1276,13 @@ billion	I-Money
 according	O
 to	O
 the	O
-U	B-Location	B-Organization
-.	I-Location	I-Organization
-S	I-Location	I-Organization
-.	I-Location	I-Organization
-Energy	O	I-Organization
-Information	O	I-Organization
-Administration	O	I-Organization
+U	B-Organization	B-Location
+.	I-Organization	I-Location
+S	I-Organization	I-Location
+.	I-Organization	I-Location
+Energy	I-Organization
+Information	I-Organization
+Administration	I-Organization
 )	O
 .	O
 
@@ -1438,8 +1438,8 @@ Guyana	B-Location
 Brazil	B-Location
 and	O
 the	O
-Caribbean	B-NORP	B-Location
-islands	O	I-Location
+Caribbean	B-Location	B-NORP
+islands	I-Location
 .	O
 
 In	O
@@ -1978,8 +1978,8 @@ Hotel	I-Organization
 ,	O
 previously	O
 the	O
-Caracas	B-Location	B-Organization
-Hilton	O	I-Organization
+Caracas	B-Organization	B-Location
+Hilton	I-Organization
 expropriated	O
 by	O
 Hugo	B-Person

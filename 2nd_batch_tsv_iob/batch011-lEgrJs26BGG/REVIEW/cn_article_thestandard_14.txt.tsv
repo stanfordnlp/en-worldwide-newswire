@@ -49,11 +49,11 @@ audit	O
 committee	O
 of	O
 the	O
-West	B-Location	B-Organization
-Kowloon	I-Location	I-Organization
-Cultural	I-Location	I-Organization
-District	I-Location	I-Organization
-Authority	O	I-Organization
+West	B-Organization	B-Location
+Kowloon	I-Organization	I-Location
+Cultural	I-Organization	I-Location
+District	I-Organization	I-Location
+Authority	I-Organization
 and	O
 Non	O
 -	O
@@ -66,11 +66,11 @@ and	I-Organization
 Futures	I-Organization
 Commission	I-Organization
 and	O
-Hong	B-Location	B-Organization
-Kong	I-Location	I-Organization
-Mortgage	O	I-Organization
-Corporation	O	I-Organization
-Limited	O	I-Organization
+Hong	B-Organization	B-Location
+Kong	I-Organization	I-Location
+Mortgage	I-Organization
+Corporation	I-Organization
+Limited	I-Organization
 .	O
 He	O
 is	O
@@ -95,13 +95,13 @@ Audit	O
 Committee	O
 of	O
 the	O
-Hong	B-Location	B-Organization
-Kong	I-Location	I-Organization
-Institute	O	I-Organization
-of	O	I-Organization
-Certified	O	I-Organization
-Public	O	I-Organization
-Accountants	O	I-Organization
+Hong	B-Organization	B-Location
+Kong	I-Organization	I-Location
+Institute	I-Organization
+of	I-Organization
+Certified	I-Organization
+Public	I-Organization
+Accountants	I-Organization
 ,	O
 a	O
 member	O
@@ -128,13 +128,13 @@ the	O
 President	O
 of	O
 the	O
-Hong	B-Location	B-Organization
-Kong	I-Location	I-Organization
-Institute	O	I-Organization
-of	O	I-Organization
-Certified	O	I-Organization
-Public	O	I-Organization
-Accountants	O	I-Organization
+Hong	B-Organization	B-Location
+Kong	I-Organization	I-Location
+Institute	I-Organization
+of	I-Organization
+Certified	I-Organization
+Public	I-Organization
+Accountants	I-Organization
 in	O
 2014	B-Misc
 .	O

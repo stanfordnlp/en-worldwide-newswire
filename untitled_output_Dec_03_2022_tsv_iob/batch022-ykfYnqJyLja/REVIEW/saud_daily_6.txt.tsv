@@ -22,9 +22,9 @@ the	O
 Governor	O
 of	O
 the	O
-Saudi	B-NORP	B-Organization
-Central	O	I-Organization
-Bank	O	I-Organization
+Saudi	B-Organization	B-NORP
+Central	I-Organization
+Bank	I-Organization
 (	O
 SAMA	B-Organization
 )	O
@@ -242,9 +242,9 @@ FSDP	B-Misc
 one	O
 of	O
 the	O
-Saudi	B-NORP	B-Misc
-Vision	O	I-Misc
-2030	O	I-Misc	B-Misc
+Saudi	B-Misc	B-NORP
+Vision	I-Misc
+2030	I-Misc	B-Misc
 programs	O
 .	O
 Such	O
@@ -297,9 +297,9 @@ in	O
 line	O
 with	O
 the	O
-Saudi	B-NORP	B-Misc
-Vision	O	I-Misc
-2030	O	I-Misc	B-Misc
+Saudi	B-Misc	B-NORP
+Vision	I-Misc
+2030	I-Misc	B-Misc
 that	O
 aims	O
 for	O
@@ -390,9 +390,9 @@ that	O
 because	O
 of	O
 the	O
-Saudi	B-Misc	B-Organization
-Central	O	I-Organization
-Bank	O	I-Organization
+Saudi	B-Organization	B-Misc
+Central	I-Organization
+Bank	I-Organization
 and	O
 the	O
 Capital	B-Organization
@@ -482,10 +482,10 @@ During	O
 the	O
 ceremony	O
 ,	O
-Saudi	B-NORP	B-Organization
-Aramco	O	I-Organization	B-Organization
-Entrepreneurship	O	I-Organization
-Center	O	I-Organization
+Saudi	B-Organization	B-NORP
+Aramco	I-Organization	B-Organization
+Entrepreneurship	I-Organization
+Center	I-Organization
 (	O
 Wa'ed	B-Organization
 )	O
@@ -760,9 +760,9 @@ was	O
 started	O
 by	O
 the	O
-Saudi	B-NORP	B-Organization
-Central	O	I-Organization
-Bank	O	I-Organization
+Saudi	B-Organization	B-NORP
+Central	I-Organization
+Bank	I-Organization
 in	O
 April	B-Misc
 2018	I-Misc

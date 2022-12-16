@@ -31,11 +31,11 @@ the	O
 importance	O
 of	O
 the	O
-Jeddah	B-Location	B-Misc
-Security	O	I-Misc
-and	O	I-Misc
-Development	O	I-Misc
-Summit	O	I-Misc
+Jeddah	B-Misc	B-Location
+Security	I-Misc
+and	I-Misc
+Development	I-Misc
+Summit	I-Misc
 ,	O
 which	O
 starts	O
@@ -64,10 +64,10 @@ of	I-Location
 Jordan	I-Location
 ,	O
 the	O
-Arab	B-NORP	B-Location
-Republic	O	I-Location
-of	O	I-Location
-Egypt	O	I-Location
+Arab	B-Location	B-NORP
+Republic	I-Location
+of	I-Location
+Egypt	I-Location
 ,	O
 the	O
 Republic	B-Location
@@ -203,11 +203,11 @@ expressed	O
 aspiration	O
 that	O
 the	O
-Jeddah	B-Location	B-Misc
-Security	O	I-Misc
-and	O	I-Misc
-Development	O	I-Misc
-Summit	O	I-Misc
+Jeddah	B-Misc	B-Location
+Security	I-Misc
+and	I-Misc
+Development	I-Misc
+Summit	I-Misc
 would	O
 represent	O
 the	O

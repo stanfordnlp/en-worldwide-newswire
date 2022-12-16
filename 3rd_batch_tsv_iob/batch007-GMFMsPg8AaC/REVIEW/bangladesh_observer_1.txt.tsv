@@ -232,8 +232,8 @@ Muhammad	B-Person
 Yunus	I-Person
 ,	O
 a	O
-Nobel	B-Person	B-NORP
-laureate	O	I-NORP
+Nobel	B-NORP	B-Person
+laureate	I-NORP
 ,	O
 will	O
 be	O

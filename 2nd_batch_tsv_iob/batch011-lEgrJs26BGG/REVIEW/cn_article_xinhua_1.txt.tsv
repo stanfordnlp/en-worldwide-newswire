@@ -40,10 +40,10 @@ in	O
 the	O
 day	O
 ,	O
-Sri	B-Location	B-Organization
-Lanka	I-Location	I-Organization
-'s	O	I-Organization
-Parliament	O	I-Organization
+Sri	B-Organization	B-Location
+Lanka	I-Organization	I-Location
+'s	I-Organization
+Parliament	I-Organization
 Speaker	O
 Mahinda	B-Person
 Yapa	I-Person

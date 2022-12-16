@@ -49,11 +49,11 @@ investigation	O
 team	O
 of	O
 the	O
-Seoul	B-Location	B-Organization
-Southern	I-Location	I-Organization
-District	I-Location	I-Organization
-Prosecutors	O	I-Organization
-Office	O	I-Organization
+Seoul	B-Organization	B-Location
+Southern	I-Organization	I-Location
+District	I-Organization	I-Location
+Prosecutors	I-Organization
+Office	I-Organization
 conducted	O
 the	O
 search	O

@@ -3,10 +3,10 @@ https://thepeninsulaqatar.com/article/27/07/2022/qatari-forum-for-authors-discus
 Doha	B-Location
 :	O
 The	O
-Qatari	B-NORP	B-Organization
-Forum	O	I-Organization
-for	O	I-Organization
-Authors	O	I-Organization
+Qatari	B-Organization	B-NORP
+Forum	I-Organization
+for	I-Organization
+Authors	I-Organization
 highlighted	O
 the	O
 importance	O
@@ -349,10 +349,10 @@ of	O
 Programs	O
 at	O
 the	O
-Qatari	B-NORP	B-Organization
-Forum	O	I-Organization
-for	O	I-Organization
-Authors	O	I-Organization
+Qatari	B-Organization	B-NORP
+Forum	I-Organization
+for	I-Organization
+Authors	I-Organization
 Saleh	B-Person
 Gharib	I-Person
 stressed	O

@@ -42,9 +42,9 @@ Roatán	B-Location
 .	O
 
 The	O
-Honduran	B-NORP	B-Organization
-Tourism	O	I-Organization
-Institute	O	I-Organization
+Honduran	B-Organization	B-NORP
+Tourism	I-Organization
+Institute	I-Organization
 announced	O
 this	O
 week	O
@@ -143,10 +143,10 @@ afternoon	O
 According	O
 to	O
 the	O
-Honduran	B-NORP	B-Organization
-National	O	I-Organization
-Migration	O	I-Organization
-Institute	O	I-Organization
+Honduran	B-Organization	B-NORP
+National	I-Organization
+Migration	I-Organization
+Institute	I-Organization
 ,	O
 in	O
 order	O

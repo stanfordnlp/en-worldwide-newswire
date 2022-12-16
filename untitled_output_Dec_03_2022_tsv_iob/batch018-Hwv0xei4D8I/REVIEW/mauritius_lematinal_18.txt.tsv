@@ -31,10 +31,10 @@ press	O
 release	O
 from	O
 the	O
-Mauritius	B-Location	B-Organization
-Tourism	O	I-Organization
-Promotion	O	I-Organization
-Authority	O	I-Organization
+Mauritius	B-Organization	B-Location
+Tourism	I-Organization
+Promotion	I-Organization
+Authority	I-Organization
 (	O
 MTPA	B-Organization
 )	O

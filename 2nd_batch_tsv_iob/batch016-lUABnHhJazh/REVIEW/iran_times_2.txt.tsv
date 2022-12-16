@@ -49,9 +49,9 @@ Division	I-Organization
 Hajizadeh	B-Person
 said	O
 the	O
-Qaem	B-Location	B-Facility
-satellite	O	I-Facility
-carrier	O	I-Facility
+Qaem	B-Facility	B-Location
+satellite	I-Facility
+carrier	I-Facility
 will	O
 be	O
 used	O
@@ -364,8 +364,8 @@ first	O
 time	O
 since	O
 the	O
-Korean	B-NORP	B-Misc
-War	O	I-Misc
+Korean	B-Misc	B-NORP
+War	I-Misc
 .	O
 
 “	O

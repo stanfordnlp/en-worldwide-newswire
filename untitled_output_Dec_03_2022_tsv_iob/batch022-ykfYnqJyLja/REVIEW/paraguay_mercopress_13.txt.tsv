@@ -3,8 +3,8 @@ https://en.mercopress.com/2022/04/28/paraguayan-left-picks-presidential-candidat
 As	O
 the	O
 ruling	O
-Colorado	B-Location	B-Organization
-Party	O	I-Organization
+Colorado	B-Organization	B-Location
+Party	I-Organization
 still	O
 needs	O
 to	O
@@ -89,9 +89,9 @@ holds	O
 a	O
 seat	O
 on	O
-Paraguay	B-Location	B-Organization
-'s	O	I-Organization
-Senate	O	I-Organization
+Paraguay	B-Organization	B-Location
+'s	I-Organization
+Senate	I-Organization
 since	O
 2013	B-Misc
 after	O
@@ -152,8 +152,8 @@ for	O
 control	O
 of	O
 the	O
-Colorado	B-Location	B-Organization
-Party	O	I-Organization
+Colorado	B-Organization	B-Location
+Party	I-Organization
 .	O
 
 The	O
@@ -205,8 +205,8 @@ Añetete	I-Organization
 
 Given	O
 the	O
-Colorado	B-Location	B-Organization
-Party	O	I-Organization
+Colorado	B-Organization	B-Location
+Party	I-Organization
 's	O
 overwhelming	O
 financial	O

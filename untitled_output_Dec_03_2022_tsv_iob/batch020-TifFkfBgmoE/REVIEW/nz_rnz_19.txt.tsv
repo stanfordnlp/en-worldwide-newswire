@@ -77,11 +77,11 @@ Women	I-Misc
 Premiership	I-Misc
 and	O
 the	O
-M	B-NORP	B-Organization
-ā	I-NORP	I-Organization
-ori	I-NORP	I-Organization
-All	O	I-Organization
-Stars	O	I-Organization
+M	B-Organization	B-NORP
+ā	I-Organization	I-NORP
+ori	I-Organization	I-NORP
+All	I-Organization
+Stars	I-Organization
 .	O
 
 The	O
@@ -139,13 +139,13 @@ Wheke	I-Location
 .	O
 
 Former	O
-New	B-Location	B-Misc
-Zealand	I-Location	I-Misc
-M	O	I-Misc	B-NORP
-ā	O	I-Misc	I-NORP
-ori	O	I-Misc	I-NORP
-Rugby	O	I-Misc
-League	O	I-Misc
+New	B-Misc	B-Location
+Zealand	I-Misc	I-Location
+M	I-Misc	B-NORP
+ā	I-Misc	I-NORP
+ori	I-Misc	I-NORP
+Rugby	I-Misc
+League	I-Misc
 player	O
 now	O
 T	B-Location

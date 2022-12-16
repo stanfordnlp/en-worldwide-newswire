@@ -375,8 +375,8 @@ percent	O
 .	O
 
 The	O
-Maa	B-NORP	B-Location
-rift	O	I-Location
+Maa	B-Location	B-NORP
+rift	I-Location
 has	O
 been	O
 portrayed	O
@@ -475,8 +475,8 @@ Further	O
 intense	O
 campaign	O
 by	O
-Kenya	B-Location	B-Organization
-Kwanza	O	I-Organization
+Kenya	B-Organization	B-Location
+Kwanza	I-Organization
 coupled	O
 by	O
 the	O

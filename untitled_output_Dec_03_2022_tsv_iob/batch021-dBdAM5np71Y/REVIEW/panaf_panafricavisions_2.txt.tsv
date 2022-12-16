@@ -332,14 +332,14 @@ recent	O
 establishment	O
 of	O
 the	O
-Margaret	B-Person	B-Organization
-Kenyatta	I-Person	I-Organization
-Institute	O	I-Organization
-for	O	I-Organization
-Gender	O	I-Organization
-and	O	I-Organization
-Social	O	I-Organization
-Development	O	I-Organization
+Margaret	B-Organization	B-Person
+Kenyatta	I-Organization	I-Person
+Institute	I-Organization
+for	I-Organization
+Gender	I-Organization
+and	I-Organization
+Social	I-Organization
+Development	I-Organization
 ,	O
 said	O
 her	O
@@ -509,11 +509,11 @@ and	O
 sustainability	O
 of	O
 the	O
-Linda	B-Person	B-Misc
-Mama	I-Person	I-Misc
-maternal	O	I-Misc
-health	O	I-Misc
-programme	O	I-Misc
+Linda	B-Misc	B-Person
+Mama	I-Misc	I-Person
+maternal	I-Misc
+health	I-Misc
+programme	I-Misc
 as	O
 well	O
 as	O
@@ -575,14 +575,14 @@ the	O
 patron	O
 of	O
 the	O
-Margaret	B-Person	B-Organization
-Kenyatta	I-Person	I-Organization
-Institute	O	I-Organization
-for	O	I-Organization
-Gender	O	I-Organization
-and	O	I-Organization
-Social	O	I-Organization
-Development	O	I-Organization
+Margaret	B-Organization	B-Person
+Kenyatta	I-Organization	I-Person
+Institute	I-Organization
+for	I-Organization
+Gender	I-Organization
+and	I-Organization
+Social	I-Organization
+Development	I-Organization
 .	O
 
 “	O
@@ -964,9 +964,9 @@ country	O
 s	O
 winning	O
 of	O
-African	B-NORP	B-Misc
-Gender	O	I-Misc
-Award	O	I-Misc
+African	B-Misc	B-NORP
+Gender	I-Misc
+Award	I-Misc
 as	O
 a	O
 demonstration	O
@@ -1023,14 +1023,14 @@ the	O
 creation	O
 of	O
 the	O
-Margaret	B-Person	B-Organization
-Kenyatta	I-Person	I-Organization
-Institute	O	I-Organization
-for	O	I-Organization
-Gender	O	I-Organization
-and	O	I-Organization
-Social	O	I-Organization
-Development	O	I-Organization
+Margaret	B-Organization	B-Person
+Kenyatta	I-Organization	I-Person
+Institute	I-Organization
+for	I-Organization
+Gender	I-Organization
+and	I-Organization
+Social	I-Organization
+Development	I-Organization
 saying	O
 the	O
 institution	O

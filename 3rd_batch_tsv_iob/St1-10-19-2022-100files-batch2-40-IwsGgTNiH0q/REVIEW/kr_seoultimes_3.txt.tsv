@@ -406,10 +406,10 @@ billion	I-Money
 ,	O
 as	O
 his	O
-Taiwan	B-Location	B-Organization
-Semiconductor	O	I-Organization
-Manufacturing	O	I-Organization
-Company	O	I-Organization
+Taiwan	B-Organization	B-Location
+Semiconductor	I-Organization
+Manufacturing	I-Organization
+Company	I-Organization
 ,	O
 Apple	B-Organization
 ’	O
@@ -539,8 +539,8 @@ Wu	I-Person
 of	O
 USI	B-Organization
 and	O
-Asia	B-Location	B-Organization
-Polymer	O	I-Organization
+Asia	B-Organization	B-Location
+Polymer	I-Organization
 ,	O
 which	O
 make	O
@@ -1127,11 +1127,11 @@ information	O
 ,	O
 visit	O
 the	O
-Forbes	B-Organization	B-Product
-News	O	I-Product
-Hub	O	I-Product
+Forbes	B-Product	B-Organization
+News	I-Product
+Hub	I-Product
 or	O
-Forbes	B-Organization	B-Product
-Connect	O	I-Product
+Forbes	B-Product	B-Organization
+Connect	I-Product
 .	O
 

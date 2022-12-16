@@ -41,9 +41,9 @@ military	O
 clout	O
 in	O
 the	O
-Indo	B-NORP	B-Location
--	O	I-Location
-Pacific	O	I-Location
+Indo	B-Location	B-NORP
+-	I-Location
+Pacific	I-Location
 .	O
 
 Prime	O
@@ -288,9 +288,9 @@ the	O
 security	O
 of	O
 the	O
-Indo	B-NORP	B-Location
--	O	I-Location
-Pacific	O	I-Location
+Indo	B-Location	B-NORP
+-	I-Location
+Pacific	I-Location
 and	O
 Europe	B-Location
 is	O
@@ -319,8 +319,8 @@ world	O
 Japan	B-Location
 and	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 member	O
 also	O
 pledged	O

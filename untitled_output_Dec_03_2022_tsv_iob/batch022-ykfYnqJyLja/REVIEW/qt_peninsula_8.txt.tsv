@@ -18,10 +18,10 @@ on	O
 scholarship	O
 from	O
 the	O
-Qatar	B-Location	B-Organization
-Red	O	I-Organization
-Crescent	O	I-Organization
-Society	O	I-Organization
+Qatar	B-Organization	B-Location
+Red	I-Organization
+Crescent	I-Organization
+Society	I-Organization
 (	O
 QRCS	B-Organization
 )	O
@@ -80,10 +80,10 @@ International	O
 Cooperation	O
 at	O
 the	O
-Palestinian	B-NORP	B-Organization
-Ministry	O	I-Organization
-of	O	I-Organization
-Health	O	I-Organization
+Palestinian	B-Organization	B-NORP
+Ministry	I-Organization
+of	I-Organization
+Health	I-Organization
 in	O
 the	O
 Gaza	B-Location

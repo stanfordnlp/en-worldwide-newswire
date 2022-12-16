@@ -72,9 +72,9 @@ pointed	O
 out	O
 that	O
 the	O
-Saudi	B-NORP	B-Organization
-Grains	O	I-Organization
-Organization	O	I-Organization
+Saudi	B-Organization	B-NORP
+Grains	I-Organization
+Organization	I-Organization
 (	O
 SAGO	B-Organization
 )	O

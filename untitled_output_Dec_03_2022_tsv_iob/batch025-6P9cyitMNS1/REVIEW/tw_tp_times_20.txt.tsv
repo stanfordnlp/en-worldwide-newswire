@@ -11,9 +11,9 @@ police	O
 station	O
 of	O
 the	O
-Tainan	B-Location	B-Organization
-Police	O	I-Organization
-Department	O	I-Organization
+Tainan	B-Organization	B-Location
+Police	I-Organization
+Department	I-Organization
 ’	O
 s	O
 4th	O
@@ -371,9 +371,9 @@ instance	O
 when	O
 then	O
 -	O
-Chinese	B-NORP	B-Organization
-Nationalist	O	I-Organization
-Party	O	I-Organization
+Chinese	B-Organization	B-NORP
+Nationalist	I-Organization
+Party	I-Organization
 (	O
 KMT	B-Organization
 )	O
@@ -451,10 +451,10 @@ audits	O
 .	O
 
 The	O
-Tainan	B-Location	B-Organization
-City	I-Location	I-Organization
-Police	O	I-Organization
-Department	O	I-Organization
+Tainan	B-Organization	B-Location
+City	I-Organization	I-Location
+Police	I-Organization
+Department	I-Organization
 on	O
 Sunday	B-Misc
 said	O

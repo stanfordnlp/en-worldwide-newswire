@@ -2,8 +2,8 @@ https://www.batimes.com.ar/news/economy/argentinas-black-market-peso-hits-record
 
 The	O
 unofficial	O
-Argentine	B-NORP	B-Money
-peso	O	I-Money
+Argentine	B-Money	B-NORP
+peso	I-Money
 dropped	O
 to	O
 a	O
@@ -340,9 +340,9 @@ fastest	O
 pace	O
 of	O
 the	O
-Alberto	B-Person	B-Organization
-Fernández	I-Person	I-Organization
-administration	O	I-Organization
+Alberto	B-Organization	B-Person
+Fernández	I-Organization	I-Person
+administration	I-Organization
 but	O
 continued	O
 to	O

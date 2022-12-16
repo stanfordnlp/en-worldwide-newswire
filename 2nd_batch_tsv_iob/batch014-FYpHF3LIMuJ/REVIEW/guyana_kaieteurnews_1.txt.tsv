@@ -947,17 +947,17 @@ behalf	O
 of	O
 itself	O
 and	O
-China	B-Location	B-Organization
-National	O	I-Organization
-Offshore	O	I-Organization
-Oil	O	I-Organization
-Corporation	O	I-Organization
-(	O	I-Organization
-CNOOC	O	I-Organization
-)	O	I-Organization
-Petroleum	O	I-Organization
-Guyana	O	I-Organization	B-Location
-Limited	O	I-Organization
+China	B-Organization	B-Location
+National	I-Organization
+Offshore	I-Organization
+Oil	I-Organization
+Corporation	I-Organization
+(	I-Organization
+CNOOC	I-Organization
+)	I-Organization
+Petroleum	I-Organization
+Guyana	I-Organization	B-Location
+Limited	I-Organization
 ,	O
 and	O
 Hess	B-Organization

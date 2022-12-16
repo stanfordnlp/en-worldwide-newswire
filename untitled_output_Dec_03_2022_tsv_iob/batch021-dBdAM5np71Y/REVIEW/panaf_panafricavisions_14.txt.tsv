@@ -314,9 +314,9 @@ to	O
 register	O
 into	O
 the	O
-OK	B-Organization	B-Misc
-Grand	O	I-Misc
-Challenge	O	I-Misc
+OK	B-Misc	B-Organization
+Grand	I-Misc
+Challenge	I-Misc
 ,	O
 earn	O
 points	O
@@ -340,8 +340,8 @@ which	O
 is	O
 the	O
 Toyota	B-Organization
-Ford	B-Organization	B-Product
-Ranger	O	I-Product
+Ford	B-Product	B-Organization
+Ranger	I-Product
 .	O
 
 Race	O

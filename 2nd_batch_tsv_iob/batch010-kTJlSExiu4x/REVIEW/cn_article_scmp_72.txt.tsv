@@ -809,11 +809,11 @@ was	O
 admitted	O
 into	O
 the	O
-China	B-Location	B-Organization
-Coal	O	I-Organization
-Mine	O	I-Organization
-Art	O	I-Organization
-Troupe	O	I-Organization
+China	B-Organization	B-Location
+Coal	I-Organization
+Mine	I-Organization
+Art	I-Organization
+Troupe	I-Organization
 .	O
 
 This	O

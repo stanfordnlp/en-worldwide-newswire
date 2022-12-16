@@ -143,9 +143,9 @@ of	O
 prejudice	O
 ,	O
 "	O
-Charleville	B-Location	B-Facility
-Historic	O	I-Facility
-House	O	I-Facility
+Charleville	B-Facility	B-Location
+Historic	I-Facility
+House	I-Facility
 's	O
 Gabrielle	B-Person
 Wheeler	I-Person
@@ -752,10 +752,10 @@ pauper	O
 's	O
 grave	O
 in	O
-Brisbane	B-Location	B-Facility
-'s	I-Location	I-Facility
-Toowong	I-Location	I-Facility
-Cemetery	O	I-Facility
+Brisbane	B-Facility	B-Location
+'s	I-Facility	I-Location
+Toowong	I-Facility	I-Location
+Cemetery	I-Facility
 in	O
 1940	B-Misc
 .	O
@@ -771,8 +771,8 @@ was	O
 buried	O
 in	O
 the	O
-Charleville	B-Location	B-Facility
-Cemetery	O	I-Facility
+Charleville	B-Facility	B-Location
+Cemetery	I-Facility
 ,	O
 an	O
 hour	O
@@ -838,9 +838,9 @@ original	O
 headstone	O
 to	O
 the	O
-Charleville	B-Location	B-Facility
-Historic	O	I-Facility
-House	O	I-Facility
+Charleville	B-Facility	B-Location
+Historic	I-Facility
+House	I-Facility
 .	O
 
 "	O

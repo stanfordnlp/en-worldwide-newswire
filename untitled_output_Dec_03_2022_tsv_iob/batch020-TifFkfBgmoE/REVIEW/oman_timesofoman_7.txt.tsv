@@ -19,12 +19,12 @@ of	O
 members	O
 from	O
 the	O
-Oman	B-Location	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Commerce	O	I-Organization
-and	O	I-Organization
-Industry	O	I-Organization
+Oman	B-Organization	B-Location
+Chamber	I-Organization
+of	I-Organization
+Commerce	I-Organization
+and	I-Organization
+Industry	I-Organization
 (	O
 OCCI	B-Organization
 )	O
@@ -148,12 +148,12 @@ AlHajri	I-Person
 Deputy	O
 Chairman	O
 of	O
-Oman	B-Location	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Commerce	O	I-Organization
-and	O	I-Organization
-Industry	O	I-Organization
+Oman	B-Organization	B-Location
+Chamber	I-Organization
+of	I-Organization
+Commerce	I-Organization
+and	I-Organization
+Industry	I-Organization
 and	O
 Chairman	O
 of	O

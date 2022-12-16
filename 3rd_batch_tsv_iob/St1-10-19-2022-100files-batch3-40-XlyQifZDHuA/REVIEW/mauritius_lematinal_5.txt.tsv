@@ -66,9 +66,9 @@ police	O
 officers	O
 from	O
 the	O
-Piton	B-Location	B-Facility
-police	O	I-Facility
-station	O	I-Facility
+Piton	B-Facility	B-Location
+police	I-Facility
+station	I-Facility
 went	O
 to	O
 the	O
@@ -215,12 +215,12 @@ of	O
 the	O
 Dr	O
 .	O
-A	B-Person	B-Facility
-.	I-Person	I-Facility
-G	I-Person	I-Facility
-.	I-Person	I-Facility
-Jeetoo	I-Person	I-Facility
-Hospital	O	I-Facility
+A	B-Facility	B-Person
+.	I-Facility	I-Person
+G	I-Facility	I-Person
+.	I-Facility	I-Person
+Jeetoo	I-Facility	I-Person
+Hospital	I-Facility
 in	O
 Port	B-Location
 -	I-Location

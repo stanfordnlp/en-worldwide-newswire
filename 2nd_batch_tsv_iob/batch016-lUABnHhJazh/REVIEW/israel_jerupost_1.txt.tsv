@@ -89,10 +89,10 @@ to	O
 Israel	B-Location
 .	O
 The	O
-IDF	B-Organization	B-Facility
-Spokesperson	O	I-Facility
-'s	O	I-Facility
-Unit	O	I-Facility
+IDF	B-Facility	B-Organization
+Spokesperson	I-Facility
+'s	I-Facility
+Unit	I-Facility
 announced	O
 later	O
 in	O
@@ -121,8 +121,8 @@ the	O
 injured	O
 ,	O
 but	O
-Egyptian	B-NORP	B-Organization
-authorities	O	I-Organization
+Egyptian	B-Organization	B-NORP
+authorities	I-Organization
 refused	O
 to	O
 allow	O

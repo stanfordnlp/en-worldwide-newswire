@@ -5,10 +5,10 @@ first	O
 tournament	O
 of	O
 the	O
-Kuwait	B-Location	B-Misc
-International	O	I-Misc
-Boxing	O	I-Misc
-Championship	O	I-Misc
+Kuwait	B-Misc	B-Location
+International	I-Misc
+Boxing	I-Misc
+Championship	I-Misc
 for	O
 men	O
 concluded	O
@@ -428,9 +428,9 @@ of	O
 Directors	O
 of	O
 the	O
-Kuwait	B-Location	B-Organization
-Boxing	O	I-Organization
-Federation	O	I-Organization
+Kuwait	B-Organization	B-Location
+Boxing	I-Organization
+Federation	I-Organization
 ,	O
 Muhammad	B-Person
 Al	I-Person

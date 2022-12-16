@@ -256,9 +256,9 @@ Nunbhakdi	I-Person
 president	O
 of	O
 the	O
-Thai	B-NORP	B-Organization
-Hotels	O	I-Organization
-Association	O	I-Organization
+Thai	B-Organization	B-NORP
+Hotels	I-Organization
+Association	I-Organization
 (	O
 THA	B-Organization
 )	O

@@ -618,9 +618,9 @@ all	O
 reasons	O
 why	O
 the	O
-African	B-NORP	B-Organization
-Energy	O	I-Organization
-Chamber	O	I-Organization
+African	B-Organization	B-NORP
+Energy	I-Organization
+Chamber	I-Organization
 ,	O
 in	O
 our	O

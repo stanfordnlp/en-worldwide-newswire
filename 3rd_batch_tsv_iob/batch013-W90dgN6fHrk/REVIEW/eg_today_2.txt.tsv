@@ -7,8 +7,8 @@ July	I-Misc
 2022	I-Misc
 :	O
 The	O
-Egyptian	B-NORP	B-Organization
-Embassy	O	I-Organization
+Egyptian	B-Organization	B-NORP
+Embassy	I-Organization
 in	O
 Sudan	B-Location
 announced	O
@@ -97,10 +97,10 @@ with	O
 Member	O
 of	O
 the	O
-Sudan	B-Location	B-Organization
-Transitional	O	I-Organization
-Sovereign	O	I-Organization
-Council	O	I-Organization
+Sudan	B-Organization	B-Location
+Transitional	I-Organization
+Sovereign	I-Organization
+Council	I-Organization
 Abou	B-Person
 al	I-Person
 -	I-Person
@@ -344,12 +344,12 @@ the	O
 development	O
 of	O
 the	O
-Nile	B-Location	B-Organization
-Valley	I-Location	I-Organization
-Authority	O	I-Organization
-for	O	I-Organization
-River	O	I-Organization
-Navigation	O	I-Organization
+Nile	B-Organization	B-Location
+Valley	I-Organization	I-Location
+Authority	I-Organization
+for	I-Organization
+River	I-Organization
+Navigation	I-Organization
 and	O
 raising	O
 the	O

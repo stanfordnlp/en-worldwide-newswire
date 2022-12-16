@@ -50,11 +50,11 @@ exports	O
 ,	O
 says	O
 the	O
-Thai	B-NORP	B-Organization
-National	O	I-Organization
-Shippers	O	I-Organization
-'	O	I-Organization
-Council	O	I-Organization
+Thai	B-Organization	B-NORP
+National	I-Organization
+Shippers	I-Organization
+'	I-Organization
+Council	I-Organization
 (	O
 TNSC	B-Organization
 )	O
@@ -84,10 +84,10 @@ Thailand	B-Location
 total	O
 exports	O
 or	O
-US	B-Location	B-Money
-$	O	I-Money
-4.3	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+4.3	I-Money
+billion	I-Money
 last	O
 year	O
 ,	O
@@ -262,8 +262,8 @@ on	O
 loan	O
 repayment	O
 in	O
-US	B-Location	B-Money
-dollar	O	I-Money
+US	B-Money	B-Location
+dollar	I-Money
 terms	O
 ,	O
 noting	O
@@ -285,8 +285,8 @@ to	O
 be	O
 settled	O
 in	O
-US	B-Location	B-Money
-dollars	O	I-Money
+US	B-Money	B-Location
+dollars	I-Money
 .	O
 
 "	O
@@ -414,10 +414,10 @@ Angubolkul	I-Person
 chairman	O
 of	O
 the	O
-Thai	B-NORP	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Commerce	O	I-Organization
+Thai	B-Organization	B-NORP
+Chamber	I-Organization
+of	I-Organization
+Commerce	I-Organization
 ,	O
 warned	O
 that	O

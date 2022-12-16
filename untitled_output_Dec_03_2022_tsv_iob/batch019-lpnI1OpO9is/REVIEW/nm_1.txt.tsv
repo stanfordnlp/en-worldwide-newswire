@@ -26,9 +26,9 @@ late	O
 chief	O
 of	O
 the	O
-Namibian	B-NORP	B-Organization
-Defence	O	I-Organization
-Force	O	I-Organization
+Namibian	B-Organization	B-NORP
+Defence	I-Organization
+Force	I-Organization
 (	O
 NDF	B-Organization
 )	O

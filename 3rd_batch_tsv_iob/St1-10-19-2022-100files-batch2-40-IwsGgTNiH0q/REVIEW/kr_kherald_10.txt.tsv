@@ -205,10 +205,10 @@ object	O
 
 After	O
 the	O
-Ulsan	B-Location	B-Facility
-Ulju	I-Location	I-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Ulsan	B-Facility	B-Location
+Ulju	I-Facility	I-Location
+Police	I-Facility
+Station	I-Facility
 sought	O
 an	O
 approval	O

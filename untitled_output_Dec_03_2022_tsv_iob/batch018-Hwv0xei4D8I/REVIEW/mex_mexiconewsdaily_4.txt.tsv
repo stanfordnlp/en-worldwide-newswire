@@ -5,8 +5,8 @@ eldest	O
 son	O
 of	O
 a	O
-Sinaloa	B-Location	B-Organization
-Cartel	O	I-Organization
+Sinaloa	B-Organization	B-Location
+Cartel	I-Organization
 drug	O
 lord	O
 was	O
@@ -55,8 +55,8 @@ the	O
 leaders	O
 of	O
 the	O
-Sinaloa	B-Location	B-Organization
-Cartel	O	I-Organization
+Sinaloa	B-Organization	B-Location
+Cartel	I-Organization
 .	O
 
 Zambada	B-Person

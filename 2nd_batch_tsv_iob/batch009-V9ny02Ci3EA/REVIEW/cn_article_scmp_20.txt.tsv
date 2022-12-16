@@ -5,9 +5,9 @@ pgtype	O
 homepage	O
 
 The	O
-Shanghai	B-Location	B-Misc
-Stock	O	I-Misc
-Exchange	O	I-Misc
+Shanghai	B-Misc	B-Location
+Stock	I-Misc
+Exchange	I-Misc
 is	O
 set	O
 to	O
@@ -422,9 +422,9 @@ the	O
 loss	O
 in	O
 the	O
-Shanghai	B-Location	B-Misc
-Composite	O	I-Misc
-Index	O	I-Misc
+Shanghai	B-Misc	B-Location
+Composite	I-Misc
+Index	I-Misc
 .	O
 Still	O
 ,	O
@@ -458,9 +458,9 @@ months	O
 .	O
 
 The	O
-Shanghai	B-Location	B-Misc
-Stock	O	I-Misc
-Exchange	O	I-Misc
+Shanghai	B-Misc	B-Location
+Stock	I-Misc
+Exchange	I-Misc
 will	O
 approve	O
 the	O
@@ -606,8 +606,8 @@ to	O
 the	O
 data	O
 by	O
-Shanghai	B-Location	B-Organization
-DZH	O	I-Organization
+Shanghai	B-Organization	B-Location
+DZH	I-Organization
 .	O
 
 “	O

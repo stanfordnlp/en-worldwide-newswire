@@ -45,9 +45,9 @@ Natural	B-Organization
 Resources	I-Organization
 Canada	I-Organization	B-Location
 and	O
-Yukon	B-Location	B-Organization
-territorial	O	I-Organization
-government	O	I-Organization
+Yukon	B-Organization	B-Location
+territorial	I-Organization
+government	I-Organization
 ,	O
 decision	O
 -	O
@@ -71,10 +71,10 @@ stage	O
 .	O
 
 But	O
-Ross	B-Location	B-Organization
-River	I-Location	I-Organization
-Dena	O	I-Organization
-Council	O	I-Organization
+Ross	B-Organization	B-Location
+River	I-Organization	I-Location
+Dena	I-Organization
+Council	I-Organization
 (	O
 RRDC	B-Organization
 )	O
@@ -93,8 +93,8 @@ on	O
 behalf	O
 of	O
 the	O
-Kaska	B-NORP	B-Organization
-Nation	O	I-Organization
+Kaska	B-Organization	B-NORP
+Nation	I-Organization
 ,	O
 said	O
 the	O
@@ -127,8 +127,8 @@ to	O
 meaningfully	O
 consult	O
 the	O
-Kaska	B-NORP	B-Location
-Nation	O	I-Location
+Kaska	B-Location	B-NORP
+Nation	I-Location
 ,	O
 ”	O
 he	O
@@ -295,8 +295,8 @@ said	O
 .	O
 
 The	O
-Yukon	B-Location	B-Organization
-government	O	I-Organization
+Yukon	B-Organization	B-Location
+government	I-Organization
 declined	O
 to	O
 comment	O
@@ -383,14 +383,14 @@ added	O
 
 While	O
 the	O
-Yukon	B-Location	B-Organization
-Environmental	O	I-Organization
-and	O	I-Organization
-Socio	O	I-Organization
--	O	I-Organization
-economic	O	I-Organization
-Assessment	O	I-Organization
-Board	O	I-Organization
+Yukon	B-Organization	B-Location
+Environmental	I-Organization
+and	I-Organization
+Socio	I-Organization
+-	I-Organization
+economic	I-Organization
+Assessment	I-Organization
+Board	I-Organization
 (	O
 YESAB	B-Organization
 )	O

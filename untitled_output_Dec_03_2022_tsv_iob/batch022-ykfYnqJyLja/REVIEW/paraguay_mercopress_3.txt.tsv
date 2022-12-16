@@ -23,10 +23,10 @@ a	O
 report	O
 by	O
 the	O
-Latin	B-NORP	B-Organization
-American	I-NORP	I-Organization
-Energy	O	I-Organization
-Organization	O	I-Organization
+Latin	B-Organization	B-NORP
+American	I-Organization	I-NORP
+Energy	I-Organization
+Organization	I-Organization
 (	O
 Olade	B-Organization
 )	O
@@ -163,9 +163,9 @@ Cuá	I-Location
 arm	I-Location
 ,	O
 under	O
-Yacyretá's	B-Facility	B-Organization
-Binational	O	I-Organization
-Entity	O	I-Organization
+Yacyretá's	B-Organization	B-Facility
+Binational	I-Organization
+Entity	I-Organization
 (	O
 EBY	B-Organization
 )	O
@@ -196,8 +196,8 @@ building	O
 and	O
 equipping	O
 the	O
-Yguazú	B-Location	B-Facility
-substation	O	I-Facility
+Yguazú	B-Facility	B-Location
+substation	I-Facility
 ,	O
 which	O
 will	O

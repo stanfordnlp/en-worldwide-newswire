@@ -20,8 +20,8 @@ Montana	B-Location
 and	O
 residents	O
 around	O
-Airport	B-Facility	B-Location
-Industria	O	I-Location
+Airport	B-Location	B-Facility
+Industria	I-Location
 of	O
 robberies	O
 that	O
@@ -96,8 +96,8 @@ Quarry	I-Location
 Road	I-Location
 at	O
 the	O
-Airport	B-Facility	B-Location
-Industrial	O	I-Location
+Airport	B-Location	B-Facility
+Industrial	I-Location
 .	O
 
 CPF	B-Misc

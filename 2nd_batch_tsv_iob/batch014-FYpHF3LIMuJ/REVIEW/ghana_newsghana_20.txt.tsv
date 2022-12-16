@@ -123,9 +123,9 @@ royal	O
 Asona	B-NORP
 section	O
 of	O
-Gomoa	B-Location	B-Misc
-State	O	I-Misc
-Kingdom	O	I-Misc
+Gomoa	B-Misc	B-Location
+State	I-Misc
+Kingdom	I-Misc
 as	O
 part	O
 of	O
@@ -140,9 +140,9 @@ to	O
 the	O
 state	O
 of	O
-Gomoa	B-Location	B-Misc
-State	O	I-Misc
-Kingdom	O	I-Misc
+Gomoa	B-Misc	B-Location
+State	I-Misc
+Kingdom	I-Misc
 have	O
 with	O
 all	O
@@ -307,9 +307,9 @@ and	O
 status	O
 in	O
 the	O
-Gomoa	B-Location	B-Misc
-State	O	I-Misc
-Kingdom	O	I-Misc
+Gomoa	B-Misc	B-Location
+State	I-Misc
+Kingdom	I-Misc
 with	O
 the	O
 Royal	O
@@ -339,9 +339,9 @@ on	O
 behalf	O
 of	O
 the	O
-Gomoa	B-Location	B-Misc
-State	O	I-Misc
-Kingdom	O	I-Misc
+Gomoa	B-Misc	B-Location
+State	I-Misc
+Kingdom	I-Misc
 and	O
 none	O
 other	O
@@ -369,8 +369,8 @@ action	O
 BRIEF	O
 HISTORY	O
 OF	O
-GOMOA	B-Location	B-Misc
-STATE	O	I-Misc
+GOMOA	B-Misc	B-Location
+STATE	I-Misc
 ,	O
 KING	O
 KUSAE	B-Person
@@ -404,15 +404,15 @@ I	O
 King	O
 Kusae	B-Person
 Edu	I-Person
-Asona	B-NORP	B-Misc
-Royal	O	I-Misc
-Stool	O	I-Misc
+Asona	B-Misc	B-NORP
+Royal	I-Misc
+Stool	I-Misc
 {	O
 GOMOAHENE	O
 }	O
 of	O
 Gomoa	B-Location	B-Location
-Ogwan	O	I-Location
+Ogwan	I-Location
 has	O
 been	O
 inactive	O
@@ -487,9 +487,9 @@ black	O
 stool	O
 )	O
 for	O
-Gomoa	B-Location	B-Misc
-State	O	I-Misc
-Kingdom	O	I-Misc
+Gomoa	B-Misc	B-Location
+State	I-Misc
+Kingdom	I-Misc
 (	O
 Akunwa	O
 kese	O
@@ -540,8 +540,8 @@ Openisir	B-NORP
 ,	O
 Antsisadzi	B-NORP
 ,	O
-Gomoa	B-Location	B-NORP
-Manmu	O	I-NORP
+Gomoa	B-NORP	B-Location
+Manmu	I-NORP
 ,	O
 Andamba	B-NORP
 ,	O
@@ -644,8 +644,8 @@ Pantsir	B-Location
 Dabon	I-Location
 .	O
 The	O
-Adonten	B-Location	B-Misc
-Division	O	I-Misc
+Adonten	B-Misc	B-Location
+Division	I-Misc
 -	O
 Town	O
 -	O
@@ -666,14 +666,14 @@ Division	O
 .	O
 Assan	B-Person
 at	O
-Assin	B-Location	B-Misc
-–	I-Location	I-Misc
-Gyaase	I-Location	I-Misc
-Division	O	I-Misc
+Assin	B-Misc	B-Location
+–	I-Misc	I-Location
+Gyaase	I-Misc	I-Location
+Division	I-Misc
 -	O
 Gomoa	B-Location	B-Location
-Assin	O	I-Location
-Mampong	O	I-Location
+Assin	I-Location
+Mampong	I-Location
 .	O
 
 4	O
@@ -695,13 +695,13 @@ Edwumako	I-Location
 .	O
 Tekyi	B-Person
 at	O
-Atekyi	B-Location	B-Misc
-(	I-Location	I-Misc
-Akropong	I-Location	I-Misc
-)	I-Location	I-Misc
--	I-Location	I-Misc
-Benkum	I-Location	I-Misc
-Division	O	I-Misc
+Atekyi	B-Misc	B-Location
+(	I-Misc	I-Location
+Akropong	I-Misc	I-Location
+)	I-Misc	I-Location
+-	I-Misc	I-Location
+Benkum	I-Misc	I-Location
+Division	I-Misc
 .	O
 
 6	O
@@ -729,8 +729,8 @@ Wassa	I-Location
 
 8	O
 .	O
-Twafo	B-Location	B-Misc
-Division	O	I-Misc
+Twafo	B-Misc	B-Location
+Division	I-Misc
 Abor	B-NORP
 Awusi	I-NORP
 Gomoa	B-Location
@@ -786,17 +786,17 @@ etc	O
 .	O
 
 THE	O
-GOMOA	B-Location	B-Organization
-STATE	O	I-Organization
-ARMY	O	I-Organization
+GOMOA	B-Organization	B-Location
+STATE	I-Organization
+ARMY	I-Organization
 FOR	O
 SASABRO	B-Misc
 WAR	I-Misc
 
 The	O
-Gomoa	B-Location	B-Organization
-State	O	I-Organization
-Army	O	I-Organization
+Gomoa	B-Organization	B-Location
+State	I-Organization
+Army	I-Organization
 for	O
 Sasabro	B-Misc
 war	I-Misc
@@ -839,8 +839,8 @@ as	O
 Gomoa	B-Location
 Hene	O
 for	O
-Gomoa	B-Location	B-Misc
-State	O	I-Misc
+Gomoa	B-Misc	B-Location
+State	I-Misc
 .	O
 
 From	O
@@ -869,8 +869,8 @@ years	O
 .	O
 They	O
 ruled	O
-Gomoa	B-Location	B-Misc
-State	O	I-Misc
+Gomoa	B-Misc	B-Location
+State	I-Misc
 from	O
 1619	B-Misc
 to	O
@@ -888,8 +888,8 @@ then	O
 Government	O
 and	O
 the	O
-Gomoa	B-Location	B-Misc
-State	O	I-Misc
+Gomoa	B-Misc	B-Location
+State	I-Misc
 which	O
 necessitated	O
 the	O
@@ -932,22 +932,22 @@ protracted	O
 dispute	O
 between	O
 the	O
-Kaw	B-Person	B-Misc
-Ahunaku	I-Person	I-Misc
-Stool	O	I-Misc
+Kaw	B-Misc	B-Person
+Ahunaku	I-Misc	I-Person
+Stool	I-Misc
 and	O
-King	B-Person	B-Misc
-Kusae	I-Person	I-Misc
-Edu	I-Person	I-Misc
-Stool	O	I-Misc
+King	B-Misc	B-Person
+Kusae	I-Misc	I-Person
+Edu	I-Misc	I-Person
+Stool	I-Misc
 .	O
 
 The	O
 Crowther	B-Person
 report	O
 on	O
-Gomoa	B-Location	B-Misc
-State	O	I-Misc
+Gomoa	B-Misc	B-Location
+State	I-Misc
 on	O
 5th	B-Misc
 October	I-Misc
@@ -963,9 +963,9 @@ differentiates	O
 the	O
 two	O
 stools	O
-Kwa	B-Person	B-Misc
-Ahunaku	I-Person	I-Misc
-Stool	O	I-Misc
+Kwa	B-Misc	B-Person
+Ahunaku	I-Misc	I-Person
+Stool	I-Misc
 and	O
 King	B-Misc
 Kusae	I-Misc	B-Person
@@ -979,9 +979,9 @@ COMMISSION	O
 OF	O
 INQUIRY	O
 
-Gomoa	B-Location	B-Misc
-Assin	I-Location	I-Misc
-State	O	I-Misc
+Gomoa	B-Misc	B-Location
+Assin	I-Misc	I-Location
+State	I-Misc
 Affairs	O
 
 It	O
@@ -1024,9 +1024,9 @@ constitutional	O
 nature	O
 in	O
 the	O
-Gomoa	B-Location	B-Misc
-Assin	I-Location	I-Misc
-State	O	I-Misc
+Gomoa	B-Misc	B-Location
+Assin	I-Misc	I-Location
+State	I-Misc
 arising	O
 from	O
 a	O
@@ -1192,9 +1192,9 @@ in	O
 technology	O
 fields	O
 
-GOMOA	B-Location	B-Misc
-STATE	O	I-Misc
-KINGDOM	O	I-Misc
+GOMOA	B-Misc	B-Location
+STATE	I-Misc
+KINGDOM	I-Misc
 
 Refer	O
 to	O
@@ -1203,11 +1203,11 @@ and	O
 the	O
 History	O
 of	O
-GOMOA	B-Location	B-Misc
-STATE	O	I-Misc
+GOMOA	B-Misc	B-Location
+STATE	I-Misc
 by	O
-Crowther	B-Person	B-Misc
-Commission	O	I-Misc
+Crowther	B-Misc	B-Person
+Commission	I-Misc
 in	O
 1922	B-Misc
 from	O
@@ -1333,9 +1333,9 @@ Kusae	B-Person
 Edu	I-Person
 XV	O
 ,	O
-Asona	B-NORP	B-Misc
-Royal	O	I-Misc
-Stool	O	I-Misc
+Asona	B-Misc	B-NORP
+Royal	I-Misc
+Stool	I-Misc
 faced	O
 with	O
 a	O
@@ -1501,9 +1501,9 @@ King	O
 Kusae	B-Person
 Edu	I-Person
 -	O
-Asona	B-NORP	B-Misc
-Royal	O	I-Misc
-Stool	O	I-Misc
+Asona	B-Misc	B-NORP
+Royal	I-Misc
+Stool	I-Misc
 of	O
 Gomoa	B-Location
 Oguan	I-Location
@@ -1624,9 +1624,9 @@ and	O
 traditions	O
 of	O
 the	O
-Asona	B-NORP	B-Misc
-Royal	O	I-Misc
-Stool	O	I-Misc
+Asona	B-Misc	B-NORP
+Royal	I-Misc
+Stool	I-Misc
 ;	O
 
 Protect	O
@@ -1666,9 +1666,9 @@ etc	O
 .	O
 
 Restore	O
-Asona	B-NORP	B-Misc
-Royal	O	I-Misc
-Stool	O	I-Misc
+Asona	B-Misc	B-NORP
+Royal	I-Misc
+Stool	I-Misc
 to	O
 its	O
 former	O
@@ -1697,9 +1697,9 @@ lands	O
 pay	O
 Homage	O
 to	O
-Asona	B-Location	B-Misc
-Royal	O	I-Misc
-Stool	O	I-Misc
+Asona	B-Misc	B-Location
+Royal	I-Misc
+Stool	I-Misc
 .	O
 
 Restructure	O
@@ -1990,9 +1990,9 @@ respective	O
 KING	O
 KUSAE	B-Person
 EDU	I-Person
-ASONA	B-NORP	B-Misc
-ROYAL	O	I-Misc
-STOOL	O	I-Misc
+ASONA	B-Misc	B-NORP
+ROYAL	I-Misc
+STOOL	I-Misc
 {	O
 HEADS	O
 CABINET	O
@@ -2034,9 +2034,9 @@ OF	O
 KING	O
 KUSAE	B-Person
 EDU	I-Person
-ASONA	B-NORP	B-Misc
-ROYAL	O	I-Misc
-STOOL	O	I-Misc
+ASONA	B-Misc	B-NORP
+ROYAL	I-Misc
+STOOL	I-Misc
 ,	O
 KING	O
 MAKERS	O
@@ -2082,9 +2082,9 @@ Assopiah	I-Person
 King	B-Person
 kusae	I-Person
 Edu	I-Person
-Asona	B-NORP	B-Misc
-Royal	O	I-Misc
-Stool	O	I-Misc
+Asona	B-Misc	B-NORP
+Royal	I-Misc
+Stool	I-Misc
 Over	O
 All	O
 {	O
@@ -2102,9 +2102,9 @@ Benyi	I-Person
 King	O
 Kusae	B-Person
 Edu	I-Person
-Asona	B-NORP	B-Misc
-Royal	O	I-Misc
-Stool	O	I-Misc
+Asona	B-Misc	B-NORP
+Royal	I-Misc
+Stool	I-Misc
 over	O
 all	O
 (	O
@@ -2123,9 +2123,9 @@ ESUROGYAN	I-Person
 King	O
 Kusae	B-Person
 Edu	I-Person
-Asona	B-NORP	B-Misc
-Royal	O	I-Misc
-stool	O	I-Misc
+Asona	B-Misc	B-NORP
+Royal	I-Misc
+stool	I-Misc
 Over	O
 all	O
 {	O

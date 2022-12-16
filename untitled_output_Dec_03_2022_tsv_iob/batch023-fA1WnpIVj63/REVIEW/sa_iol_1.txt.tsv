@@ -172,11 +172,11 @@ organisations	O
 ,	O
 including	O
 the	O
-South	B-NORP	B-Organization
-African	I-NORP	I-Organization
-Wind	O	I-Organization
-Energy	O	I-Organization
-Association	O	I-Organization
+South	B-Organization	B-NORP
+African	I-Organization	I-NORP
+Wind	I-Organization
+Energy	I-Organization
+Association	I-Organization
 (	O
 Sawea	B-Organization
 )	O

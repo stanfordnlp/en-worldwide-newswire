@@ -121,9 +121,9 @@ waste	O
 according	O
 to	O
 the	O
-Thailand	B-Location	B-Organization
-Environment	O	I-Organization
-Institute	O	I-Organization
+Thailand	B-Organization	B-Location
+Environment	I-Organization
+Institute	I-Organization
 .	O
 
 Varawut	B-Person

@@ -486,23 +486,23 @@ to	O
 be	O
 called	O
 the	O
-Aboriginal	B-NORP	B-Organization
-and	O	I-Organization
-Torres	O	I-Organization	B-NORP
-Strait	O	I-Organization	I-NORP
-Islander	O	I-Organization	I-NORP
-Voice	O	I-Organization
+Aboriginal	B-Organization	B-NORP
+and	I-Organization
+Torres	I-Organization	B-NORP
+Strait	I-Organization	I-NORP
+Islander	I-Organization	I-NORP
+Voice	I-Organization
 .	O
 
 2	O
 .	O
 The	O
-Aboriginal	B-NORP	B-Organization
-and	O	I-Organization
-Torres	O	I-Organization	B-NORP
-Strait	O	I-Organization	I-NORP
-Islander	O	I-Organization	I-NORP
-Voice	O	I-Organization
+Aboriginal	B-Organization	B-NORP
+and	I-Organization
+Torres	I-Organization	B-NORP
+Strait	I-Organization	I-NORP
+Islander	I-Organization	I-NORP
+Voice	I-Organization
 may	O
 make	O
 representations	O
@@ -517,11 +517,11 @@ matters	O
 relating	O
 to	O
 Aboriginal	B-NORP	B-NORP
-and	O	I-NORP
-Torres	O	I-NORP
-Strait	O	I-NORP
-Islander	O	I-NORP
-Peoples	O	I-NORP
+and	I-NORP
+Torres	I-NORP
+Strait	I-NORP
+Islander	I-NORP
+Peoples	I-NORP
 .	O
 
 3	O
@@ -553,12 +553,12 @@ and	O
 procedures	O
 of	O
 the	O
-Aboriginal	B-NORP	B-Organization
-and	O	I-Organization
-Torres	O	I-Organization	B-NORP
-Strait	O	I-Organization	I-NORP
-Islander	O	I-Organization	I-NORP
-Voice	O	I-Organization
+Aboriginal	B-Organization	B-NORP
+and	I-Organization
+Torres	I-Organization	B-NORP
+Strait	I-Organization	I-NORP
+Islander	I-Organization	I-NORP
+Voice	I-Organization
 .	O
 
 Simple	O
@@ -594,12 +594,12 @@ Constitution	O
 that	O
 establishes	O
 an	O
-Aboriginal	B-NORP	B-Organization
-and	O	I-Organization
-Torres	O	I-Organization	B-NORP
-Strait	O	I-Organization	I-NORP
-Islander	O	I-Organization	I-NORP
-Voice	O	I-Organization
+Aboriginal	B-Organization	B-NORP
+and	I-Organization
+Torres	I-Organization	B-NORP
+Strait	I-Organization	I-NORP
+Islander	I-Organization	I-NORP
+Voice	I-Organization
 ?	O
 "	O
 
@@ -642,8 +642,8 @@ division	O
 Supporters	O
 of	O
 the	O
-Uluru	B-Location	B-Misc
-Statement	O	I-Misc
+Uluru	B-Misc	B-Location
+Statement	I-Misc
 have	O
 been	O
 agitating	O
@@ -686,9 +686,9 @@ concern	O
 that	O
 perhaps	O
 the	O
-Peter	B-Person	B-Misc
-Dutton	I-Person	I-Misc
-Opposition	O	I-Misc
+Peter	B-Misc	B-Person
+Dutton	I-Misc	I-Person
+Opposition	I-Misc
 may	O
 not	O
 deliver	O

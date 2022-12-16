@@ -168,9 +168,9 @@ Nickerson	B-Person
 .	O
 
 The	O
-Esgenoôpetitj	B-Organization	B-Facility
-immersion	O	I-Facility
-camp	O	I-Facility
+Esgenoôpetitj	B-Facility	B-Organization
+immersion	I-Facility
+camp	I-Facility
 is	O
 for	O
 children	O

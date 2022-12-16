@@ -127,9 +127,9 @@ the	O
 government	O
 in	O
 the	O
-Delhi	B-Location	B-Organization
-High	O	I-Organization
-court	O	I-Organization
+Delhi	B-Organization	B-Location
+High	I-Organization
+court	I-Organization
 against	O
 the	O
 sacked	O
@@ -176,13 +176,13 @@ Anganwadi	B-NORP
 workers	O
 ,	O
 ”	O
-Delhi	B-Location	B-Organization
-State	O	I-Organization
-Anganwadi	O	I-Organization	B-NORP
-Workers	O	I-Organization
-and	O	I-Organization
-Helpers	O	I-Organization
-Union	O	I-Organization
+Delhi	B-Organization	B-Location
+State	I-Organization
+Anganwadi	I-Organization	B-NORP
+Workers	I-Organization
+and	I-Organization
+Helpers	I-Organization
+Union	I-Organization
 (	O
 DSAWHU	B-Organization
 )	O

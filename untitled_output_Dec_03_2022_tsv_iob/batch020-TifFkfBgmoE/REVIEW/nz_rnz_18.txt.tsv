@@ -203,9 +203,9 @@ novel	O
 won	O
 the	O
 1984	B-Misc
-New	B-Location	B-Misc
-Zealand	I-Location	I-Misc
-Book	O	I-Misc
+New	B-Misc	B-Location
+Zealand	I-Misc	I-Location
+Book	I-Misc
 award	O
 for	O
 fiction	O

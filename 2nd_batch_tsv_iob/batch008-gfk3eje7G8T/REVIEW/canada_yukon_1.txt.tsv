@@ -148,11 +148,11 @@ of	O
 mammalogy	O
 at	O
 the	O
-American	B-NORP	B-Organization
-University	O	I-Organization
-of	O	I-Organization
-Natural	O	I-Organization
-History	O	I-Organization
+American	B-Organization	B-NORP
+University	I-Organization
+of	I-Organization
+Natural	I-Organization
+History	I-Organization
 in	O
 New	B-Location
 York	I-Location
@@ -310,9 +310,9 @@ said	O
 Geologists	O
 with	O
 the	O
-Yukon	B-Location	B-Organization
-Geological	O	I-Organization
-Survey	O	I-Organization
+Yukon	B-Organization	B-Location
+Geological	I-Organization
+Survey	I-Organization
 estimate	O
 Nun	B-Misc
 cho	I-Misc
@@ -799,8 +799,8 @@ the	O
 First	B-NORP
 Nation	I-NORP
 ,	O
-Yukon	B-Location	B-Organization
-government	O	I-Organization
+Yukon	B-Organization	B-Location
+government	I-Organization
 and	O
 other	O
 partners	O

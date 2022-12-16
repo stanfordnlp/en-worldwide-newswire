@@ -176,12 +176,12 @@ the	O
 establishment	O
 of	O
 the	O
-Saudi	B-NORP	B-Organization
--	O	I-Organization
-Greek	O	I-Organization	B-NORP
-Strategic	O	I-Organization
-Partnership	O	I-Organization
-Council	O	I-Organization
+Saudi	B-Organization	B-NORP
+-	I-Organization
+Greek	I-Organization	B-NORP
+Strategic	I-Organization
+Partnership	I-Organization
+Council	I-Organization
 ,	O
 which	O
 will	O
@@ -230,15 +230,15 @@ Vision	O
 2030	B-Misc
 and	O
 the	O
-Greek	B-NORP	B-Misc
-National	O	I-Misc
-Recovery	O	I-Misc
-and	O	I-Misc
-Resilience	O	I-Misc
-Plan	O	I-Misc
+Greek	B-Misc	B-NORP
+National	I-Misc
+Recovery	I-Misc
+and	I-Misc
+Resilience	I-Misc
+Plan	I-Misc
 (	O
-Greece	B-Location	B-Misc
-2.0	O	I-Misc
+Greece	B-Misc	B-Location
+2.0	I-Misc
 )	O
 .	O
 
@@ -574,8 +574,8 @@ Climate	I-Misc
 Change	I-Misc
 and	O
 the	O
-Paris	B-Location	B-Misc
-Agreement	O	I-Misc
+Paris	B-Misc	B-Location
+Agreement	I-Misc
 ,	O
 and	O
 the	O

@@ -185,19 +185,19 @@ and	O
 seen	O
 by	O
 the	O
-South	B-Location	B-Organization
-China	I-Location	I-Organization	B-Location
-Morning	O	I-Organization
-Post	O	I-Organization
+South	B-Organization	B-Location
+China	I-Organization	I-Location	B-Location
+Morning	I-Organization
+Post	I-Organization
 .	O
 
 The	O
 closely	O
 guarded	O
-UN	B-Organization	B-Location	B-Organization
-Human	O	O	I-Organization
-Rights	O	O	I-Organization
-Council	O	O	I-Organization
+UN	B-Organization	B-Organization	B-Location
+Human	I-Organization
+Rights	I-Organization
+Council	I-Organization
 ’	O
 s	O
 report	O
@@ -542,9 +542,9 @@ document	O
 and	O
 report	O
 ,	O
-Chinese	B-NORP	B-Organization
-foreign	O	I-Organization
-ministry	O	I-Organization
+Chinese	B-Organization	B-NORP
+foreign	I-Organization
+ministry	I-Organization
 spokesman	O
 Wang	B-Person
 Wenbin	I-Person
@@ -588,9 +588,9 @@ disinformation	O
 
 A	O
 UN	B-Organization	B-Organization
-Human	O	I-Organization
-Rights	O	I-Organization
-Council	O	I-Organization
+Human	I-Organization
+Rights	I-Organization
+Council	I-Organization
 spokesman	O
 ,	O
 Jeremy	B-Person
@@ -854,11 +854,11 @@ was	O
 conducted	O
 by	O
 the	O
-United	B-Location	B-Organization
-States	I-Location	I-Organization
-Fashion	O	I-Organization
-Industry	O	I-Organization
-Association	O	I-Organization
+United	B-Organization	B-Location
+States	I-Organization	I-Location
+Fashion	I-Organization
+Industry	I-Organization
+Association	I-Organization
 and	O
 Dr	O
 Sheng	B-Person
@@ -975,9 +975,9 @@ name	O
 ,	O
 the	O
 Xinjiang	B-Location	B-Location
-Uygur	O	I-Location	B-NORP
-autonomous	O	I-Location
-region	O	I-Location
+Uygur	I-Location	B-NORP
+autonomous	I-Location
+region	I-Location
 .	O
 
 In	O

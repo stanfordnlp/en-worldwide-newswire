@@ -211,8 +211,8 @@ wealth	O
 in	O
 buying	O
 two	O
-Apple	B-Organization	B-Product
-Watch	O	I-Product
+Apple	B-Product	B-Organization
+Watch	I-Product
 ’	O
 s	O
 for	O
@@ -392,8 +392,8 @@ he	O
 was	O
 sent	O
 to	O
-Winchester	B-Location	B-Organization
-College	O	I-Organization
+Winchester	B-Organization	B-Location
+College	I-Organization
 ,	O
 a	O
 600	O
@@ -466,8 +466,8 @@ to	O
 challenge	O
 the	O
 ruling	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
+Communist	B-Organization	B-NORP
+Party	I-Organization
 line	O
 .	O
 “	O
@@ -668,9 +668,9 @@ the	O
 authorities	O
 to	O
 investigate	O
-Shijiazhuang	B-Location	B-Organization
-Yiling	O	I-Organization
-Pharmaceutical	O	I-Organization
+Shijiazhuang	B-Organization	B-Location
+Yiling	I-Organization
+Pharmaceutical	I-Organization
 ,	O
 the	O
 maker	O

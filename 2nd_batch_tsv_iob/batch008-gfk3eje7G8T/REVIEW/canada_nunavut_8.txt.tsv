@@ -225,11 +225,11 @@ public	O
 policy	O
 for	O
 the	O
-Canadian	B-NORP	B-Organization
-Co	O	I-Organization
--	O	I-Organization
-operative	O	I-Organization
-Association	O	I-Organization
+Canadian	B-Organization	B-NORP
+Co	I-Organization
+-	I-Organization
+operative	I-Organization
+Association	I-Organization
 .	O
 
 “	O
@@ -464,10 +464,10 @@ and	O
 withdrawing	O
 funds	O
 .	O
-Arctic	B-Location	B-Organization
-Co	O	I-Organization
--	O	I-Organization
-operative	O	I-Organization
+Arctic	B-Organization	B-Location
+Co	I-Organization
+-	I-Organization
+operative	I-Organization
 ’	O
 s	O
 recently	O
@@ -803,9 +803,9 @@ to	O
 open	O
 a	O
 new	O
-FNBC	B-Organization	B-Facility
-banking	O	I-Facility
-centre	O	I-Facility
+FNBC	B-Facility	B-Organization
+banking	I-Facility
+centre	I-Facility
 in	O
 Taloyoak	O
 are	O

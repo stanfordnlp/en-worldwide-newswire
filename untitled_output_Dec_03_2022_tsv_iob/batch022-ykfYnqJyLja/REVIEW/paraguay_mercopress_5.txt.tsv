@@ -254,11 +254,11 @@ was	O
 approved	O
 by	O
 the	O
-Rio	B-Location	B-Facility	B-Organization
-Grande	I-Location	I-Facility	I-Organization
-port	O	I-Facility	I-Organization
-Authority	O	O	I-Organization
-Council	O	O	I-Organization
+Rio	B-Organization	B-Facility	B-Location
+Grande	I-Organization	I-Facility	I-Location
+port	I-Organization	I-Facility
+Authority	I-Organization
+Council	I-Organization
 ,	O
 CAP	B-Organization
 

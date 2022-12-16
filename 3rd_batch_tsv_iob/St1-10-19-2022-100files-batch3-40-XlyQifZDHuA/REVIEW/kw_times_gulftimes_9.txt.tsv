@@ -69,9 +69,9 @@ media	O
 and	O
 the	O
 2022	B-Misc
-FIFA	B-Organization	B-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+FIFA	B-Misc	B-Organization
+World	I-Misc
+Cup	I-Misc
 Qatar	B-Location
 ,	O
 and	O

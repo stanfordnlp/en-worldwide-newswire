@@ -224,9 +224,9 @@ World	B-Misc
 Championships	I-Misc
 and	O
 the	O
-Pan	B-NORP	B-Misc
-American	I-NORP	I-Misc
-Games	O	I-Misc
+Pan	B-Misc	B-NORP
+American	I-Misc	I-NORP
+Games	I-Misc
 next	O
 year	O
 ,	O

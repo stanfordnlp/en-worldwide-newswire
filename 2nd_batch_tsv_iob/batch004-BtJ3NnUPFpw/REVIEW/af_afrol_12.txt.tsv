@@ -261,10 +261,10 @@ who	O
 was	O
 caught	O
 with	O
-US	B-Location	B-Money
-$	O	I-Money
-2.7	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+2.7	I-Money
+million	I-Money
 .	O
 Another	O
 is	O
@@ -371,10 +371,10 @@ being	O
 accused	O
 of	O
 accumulating	O
-US	B-Location	B-Money
-$	O	I-Money
-300	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+300	I-Money
+million	I-Money
 and	O
 1.7	B-Money
 million	I-Money
@@ -921,9 +921,9 @@ poorest	O
 country	O
 in	O
 the	O
-Southern	B-NORP	B-Location
-African	I-NORP	I-Location
-region	O	I-Location
+Southern	B-Location	B-NORP
+African	I-Location	I-NORP
+region	I-Location
 .	O
 
 "	O

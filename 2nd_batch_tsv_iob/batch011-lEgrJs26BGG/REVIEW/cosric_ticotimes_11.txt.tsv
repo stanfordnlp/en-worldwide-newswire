@@ -50,15 +50,15 @@ Senior	O
 Fellow	O
 in	O
 the	O
-Edward	B-Person	B-Organization
-R	I-Person	I-Organization
-.	I-Person	I-Organization
-Murrow	I-Person	I-Organization
-Center	O	I-Organization
-for	O	I-Organization
-a	O	I-Organization
-Digital	O	I-Organization
-World	O	I-Organization
+Edward	B-Organization	B-Person
+R	I-Organization	I-Person
+.	I-Organization	I-Person
+Murrow	I-Organization	I-Person
+Center	I-Organization
+for	I-Organization
+a	I-Organization
+Digital	I-Organization
+World	I-Organization
 ,	O
 ”	O
 officially	O
@@ -122,8 +122,8 @@ professor	O
 at	O
 the	O
 prestigious	O
-Fletcher	B-Person	B-Organization
-School	O	I-Organization
+Fletcher	B-Organization	B-Person
+School	I-Organization
 at	O
 Tufts	B-Organization
 University	I-Organization
@@ -206,8 +206,8 @@ degree	O
 in	O
 design	O
 at	O
-Harvard	B-Person	B-Organization
-University	O	I-Organization
+Harvard	B-Organization	B-Person
+University	I-Organization
 .	O
 The	O
 former	O
@@ -218,8 +218,8 @@ selected	O
 for	O
 a	O
 “	O
-Loeb	B-Person	B-Misc
-Fellowship	O	I-Misc
+Loeb	B-Misc	B-Person
+Fellowship	I-Misc
 .	O
 ”	O
 
@@ -390,8 +390,8 @@ the	O
 School	B-Organization
 and	O
 its	O
-Murrow	B-Person	B-Misc
-Center	O	I-Misc
+Murrow	B-Misc	B-Person
+Center	I-Misc
 can	O
 serve	O
 President	O

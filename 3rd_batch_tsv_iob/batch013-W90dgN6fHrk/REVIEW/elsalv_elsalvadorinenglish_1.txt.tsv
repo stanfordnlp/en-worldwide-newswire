@@ -495,9 +495,9 @@ it	O
 ends	O
 ,	O
 the	O
-Salvadoran	B-NORP	B-Organization
-Coffee	O	I-Organization
-Council	O	I-Organization
+Salvadoran	B-Organization	B-NORP
+Coffee	I-Organization
+Council	I-Organization
 (	O
 CSC	B-Organization
 )	O

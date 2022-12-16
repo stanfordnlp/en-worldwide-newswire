@@ -43,10 +43,10 @@ Wednesday	B-Misc
 midnight	O
 ,	O
 the	O
-Nigerian	B-NORP	B-Organization
-Civil	O	I-Organization
-Aviation	O	I-Organization
-Authority	O	I-Organization
+Nigerian	B-Organization	B-NORP
+Civil	I-Organization
+Aviation	I-Organization
+Authority	I-Organization
 (	O
 NCAA	B-Organization
 )	O
@@ -177,10 +177,10 @@ emergency	O
 landing	O
 at	O
 the	O
-Nnamdi	B-Person	B-Facility
-Azikiwe	I-Person	I-Facility
-International	O	I-Facility
-Airport	O	I-Facility
+Nnamdi	B-Facility	B-Person
+Azikiwe	I-Facility	I-Person
+International	I-Facility
+Airport	I-Facility
 in	O
 Abuja	B-Location
 ,	O
@@ -260,8 +260,8 @@ aircraft	O
 safely	O
 at	O
 the	O
-Abuja	B-Location	B-Facility
-airport	O	I-Facility
+Abuja	B-Facility	B-Location
+airport	I-Facility
 .	O
 Enditem	O
 

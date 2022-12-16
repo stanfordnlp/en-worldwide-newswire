@@ -32,8 +32,8 @@ on	O
 Saturday	B-Misc
 by	O
 the	O
-Algerian	B-NORP	B-Organization
-Federation	O	I-Organization
+Algerian	B-Organization	B-NORP
+Federation	I-Organization
 .	O
 
 After	O
@@ -80,8 +80,8 @@ March	B-Misc
 31st	I-Misc
 ,	O
 the	O
-Algerian	B-NORP	B-Organization
-Federation	O	I-Organization
+Algerian	B-Organization	B-NORP
+Federation	I-Organization
 announced	O
 an	O
 appeal	O

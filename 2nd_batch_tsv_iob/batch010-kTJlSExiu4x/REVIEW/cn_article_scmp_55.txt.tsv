@@ -389,9 +389,9 @@ about	O
 million	I-Money
 yen	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-720,000	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+720,000	I-Money
 )	O
 in	O
 total	O
@@ -485,9 +485,9 @@ least	O
 600,000	B-Money
 yen	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-4,353	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+4,353	I-Money
 )	O
 in	O
 debts	O

@@ -571,10 +571,10 @@ census	O
 Managed	O
 by	O
 the	O
-Honduran	B-NORP	B-Organization
-Coral	O	I-Organization
-Reef	O	I-Organization
-Foundation	O	I-Organization
+Honduran	B-Organization	B-NORP
+Coral	I-Organization
+Reef	I-Organization
+Foundation	I-Organization
 ,	O
 the	O
 entire	O
@@ -602,11 +602,11 @@ subsequently	O
 known	O
 as	O
 the	O
-Meso	B-NORP	B-Location
--	I-NORP	I-Location
-American	I-NORP	I-Location
-Barrier	O	I-Location
-Reef	O	I-Location
+Meso	B-Location	B-NORP
+-	I-Location	I-NORP
+American	I-Location	I-NORP
+Barrier	I-Location
+Reef	I-Location
 .	O
 A	O
 scientific	O
@@ -1084,8 +1084,8 @@ to	O
 flee	O
 to	O
 neighboring	O
-British	B-NORP	B-Location
-Honduras	O	I-Location
+British	B-Location	B-NORP
+Honduras	I-Location
 –	O
 now	O
 Belize	B-Location
@@ -1359,11 +1359,11 @@ La	B-Location
 Ceiba	I-Location
 from	O
 the	O
-San	B-Location	B-Facility
-Pedro	I-Location	I-Facility
-Sula	I-Location	I-Facility
-international	O	I-Facility
-airport	O	I-Facility
+San	B-Facility	B-Location
+Pedro	I-Facility	I-Location
+Sula	I-Facility	I-Location
+international	I-Facility
+airport	I-Facility
 with	O
 safe	O
 ,	O

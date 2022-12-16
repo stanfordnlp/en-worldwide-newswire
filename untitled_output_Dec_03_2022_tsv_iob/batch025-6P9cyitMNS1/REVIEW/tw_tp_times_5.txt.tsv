@@ -1,8 +1,8 @@
 https://www.taipeitimes.com/News/taiwan/archives/2022/07/19/2003782019	O
 
-Democratic	B-NORP	B-Organization
-Progressive	O	I-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Progressive	I-Organization
+Party	I-Organization
 Taipei	B-Location
 mayoral	O
 candidate	O
@@ -262,9 +262,9 @@ last	O
 week	O
 ,	O
 the	O
-Taipei	B-Location	B-Organization
-City	O	I-Organization
-Government	O	I-Organization
+Taipei	B-Organization	B-Location
+City	I-Organization
+Government	I-Organization
 announced	O
 that	O
 it	O
@@ -366,9 +366,9 @@ last	O
 year	O
 ,	O
 the	O
-Taipei	B-Location	B-Organization
-City	O	I-Organization
-Council	O	I-Organization
+Taipei	B-Organization	B-Location
+City	I-Organization
+Council	I-Organization
 passed	O
 an	O
 ordinance	O
@@ -398,9 +398,9 @@ this	O
 year	O
 ,	O
 the	O
-Taipei	B-Location	B-Organization
-City	O	I-Organization
-Government	O	I-Organization
+Taipei	B-Organization	B-Location
+City	I-Organization
+Government	I-Organization
 notified	O
 the	O
 Executive	B-Organization
@@ -443,9 +443,9 @@ laws	O
 and	O
 asked	O
 the	O
-Taipei	B-Location	B-Organization
-City	O	I-Organization
-Government	O	I-Organization
+Taipei	B-Organization	B-Location
+City	I-Organization
+Government	I-Organization
 to	O
 set	O
 aside	O

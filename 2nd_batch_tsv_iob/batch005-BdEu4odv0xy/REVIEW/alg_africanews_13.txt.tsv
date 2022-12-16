@@ -31,10 +31,10 @@ campaign	O
 for	O
 the	O
 2023	B-Misc	B-Misc
-Africa	O	I-Misc
-Cup	O	I-Misc
-of	O	I-Misc
-Nations	O	I-Misc
+Africa	I-Misc
+Cup	I-Misc
+of	I-Misc
+Nations	I-Misc
 (	O
 AFCON	B-Misc
 )	O
@@ -61,7 +61,7 @@ defence	O
 of	O
 their	O
 2019	B-Misc	B-Misc
-AFCON	O	I-Misc
+AFCON	I-Misc
 title	O
 .	O
 
@@ -143,10 +143,10 @@ this	O
 during	O
 the	O
 recent	O
-Africa	B-Location	B-Misc
-Cup	O	I-Misc
-of	O	I-Misc
-Nations	O	I-Misc
+Africa	B-Misc	B-Location
+Cup	I-Misc
+of	I-Misc
+Nations	I-Misc
 .	O
 We	O
 saw	O
@@ -254,9 +254,9 @@ qualify	O
 for	O
 the	O
 2022	B-Misc	B-Misc
-FIFA	O	I-Misc	B-Organization
-World	O	I-Misc
-Cup	O	I-Misc
+FIFA	I-Misc	B-Organization
+World	I-Misc
+Cup	I-Misc
 in	O
 Qatar	B-Location
 after	O
@@ -379,9 +379,9 @@ put	O
 pressure	O
 on	O
 the	O
-Algerian	B-NORP	B-Organization
-Football	O	I-Organization
-Federation	O	I-Organization
+Algerian	B-Organization	B-NORP
+Football	I-Organization
+Federation	I-Organization
 led	O
 to	O
 a	O

@@ -1,9 +1,9 @@
 https://www.gulf-times.com/story/721662/HBKU-begins-new-academic-year-with-student-orienta	O
 
-Hamad	B-Person	B-Organization
-Bin	I-Person	I-Organization
-Khalifa	I-Person	I-Organization
-University	O	I-Organization
+Hamad	B-Organization	B-Person
+Bin	I-Organization	I-Person
+Khalifa	I-Organization	I-Person
+University	I-Organization
 (	O
 HBKU	B-Organization
 )	O
@@ -163,8 +163,8 @@ on	O
 campus	O
 and	O
 across	O
-Qatar	B-Location	B-Organization
-Foundation	O	I-Organization
+Qatar	B-Organization	B-Location
+Foundation	I-Organization
 ,	O
 and	O
 connect	O

@@ -13,10 +13,10 @@ on	O
 government	O
 ’	O
 s	O
-e	B-Misc	B-Product
--	I-Misc	I-Product
-Shram	I-Misc	I-Product
-portal	O	I-Product
+e	B-Product	B-Misc
+-	I-Product	I-Misc
+Shram	I-Product	I-Misc
+portal	I-Product
 as	O
 of	O
 January	B-Misc
@@ -66,10 +66,10 @@ said	O
 “	O
 As	O
 per	O
-e	B-Misc	B-Product
--	I-Misc	I-Product
-Shram	I-Misc	I-Product
-portal	O	I-Product
+e	B-Product	B-Misc
+-	I-Product	I-Misc
+Shram	I-Product	I-Misc
+portal	I-Product
 ,	O
 the	O
 number	O
@@ -250,10 +250,10 @@ July	B-Misc
 2022	I-Misc
 ,	O
 the	O
-e	B-Misc	B-Product
--	I-Misc	I-Product
-Shram	I-Misc	I-Product
-portal	O	I-Product
+e	B-Product	B-Misc
+-	I-Product	I-Misc
+Shram	I-Product	I-Misc
+portal	I-Product
 has	O
 27.99	O
 crore	O

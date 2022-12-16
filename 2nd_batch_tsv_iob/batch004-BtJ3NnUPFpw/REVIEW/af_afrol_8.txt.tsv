@@ -779,8 +779,8 @@ Rwanda	B-Location
 ©	O
 Orinfor	B-Organization
 /	O
-Rwanda	B-Location	B-Organization
-govt	O	I-Organization
+Rwanda	B-Organization	B-Location
+govt	I-Organization
 /	O
 afrol	B-Organization
 News	I-Organization
@@ -888,8 +888,8 @@ lead	O
 on	O
 the	O
 entire	O
-African	B-NORP	B-Location
-continent	O	I-Location
+African	B-Location	B-NORP
+continent	I-Location
 ,	O
 where	O
 only	O
@@ -1115,9 +1115,9 @@ account	O
 and	O
 in	O
 the	O
-Central	B-NORP	B-Location
-African	I-NORP	I-Location
-Republic	O	I-Location
+Central	B-Location	B-NORP
+African	I-Location	I-NORP
+Republic	I-Location
 ,	O
 Congo	B-Location
 Kinshasa	I-Location

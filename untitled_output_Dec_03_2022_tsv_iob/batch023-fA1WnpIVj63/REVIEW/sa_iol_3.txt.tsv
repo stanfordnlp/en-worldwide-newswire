@@ -110,9 +110,9 @@ la	I-Person
 Grange	I-Person
 ,	O
 the	O
-Melkbosstrand	B-Location	B-Organization
-Residents	O	I-Organization
-Association	O	I-Organization
+Melkbosstrand	B-Organization	B-Location
+Residents	I-Organization
+Association	I-Organization
 chairperson	O
 ,	O
 said	O

@@ -37,8 +37,8 @@ the	O
 new	O
 party	O
 ,	O
-Zionist	B-NORP	B-Organization
-Spirit	O	I-Organization
+Zionist	B-Organization	B-NORP
+Spirit	I-Organization
 ,	O
 from	O
 different	O
@@ -823,8 +823,8 @@ to	O
 avoid	O
 voting	O
 for	O
-Zionist	B-NORP	B-Organization
-Spirit	O	I-Organization
+Zionist	B-Organization	B-NORP
+Spirit	I-Organization
 .	O
 Anti	O
 -	O

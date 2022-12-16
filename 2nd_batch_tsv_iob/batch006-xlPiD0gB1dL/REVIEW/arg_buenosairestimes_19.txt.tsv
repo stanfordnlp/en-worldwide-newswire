@@ -98,9 +98,9 @@ of	O
 his	O
 studies	O
 at	O
-La	B-Location	B-Organization
-Plata	I-Location	I-Organization
-University	O	I-Organization
+La	B-Organization	B-Location
+Plata	I-Organization	I-Location
+University	I-Organization
 and	O
 the	O
 Escuela	B-Organization
@@ -143,9 +143,9 @@ new	O
 exhibition	O
 at	O
 the	O
-Lucy	B-Person	B-Facility
-Mattos	I-Person	I-Facility
-Museum	O	I-Facility
+Lucy	B-Facility	B-Person
+Mattos	I-Facility	I-Person
+Museum	I-Facility
 in	O
 the	O
 Greater	B-Location

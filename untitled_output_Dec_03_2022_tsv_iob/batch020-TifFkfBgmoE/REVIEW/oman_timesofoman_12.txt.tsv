@@ -3,8 +3,8 @@ https://timesofoman.com/article/119402-date-honey-exhibition-inaugurated-in-dhof
 Salalah	B-Location
 :	O
 The	O
-Omani	B-NORP	B-Misc
-Rutab	O	I-Misc
+Omani	B-Misc	B-NORP
+Rutab	I-Misc
 (	O
 date	O
 )	O

@@ -12,10 +12,10 @@ exercise	O
 "	O
 at	O
 the	O
-Abu	B-Location	B-Facility
-Dhabi	I-Location	I-Facility
-International	O	I-Facility
-Airport	O	I-Facility
+Abu	B-Facility	B-Location
+Dhabi	I-Facility	I-Location
+International	I-Facility
+Airport	I-Facility
 tomorrow	O
 ,	O
 Wednesday	B-Misc
@@ -80,9 +80,9 @@ till	O
 7pm.	O
 
 The	O
-Abu	B-Location	B-Organization
-Dhabi	I-Location	I-Organization
-Police	O	I-Organization
+Abu	B-Organization	B-Location
+Dhabi	I-Organization	I-Location
+Police	I-Organization
 and	O
 their	O
 strategic	O

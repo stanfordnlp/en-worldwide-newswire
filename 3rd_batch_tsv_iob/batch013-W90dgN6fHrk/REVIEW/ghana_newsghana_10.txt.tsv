@@ -547,14 +547,14 @@ UnicornHunters	B-Misc
 .	I-Misc
 com	I-Misc
 ,	O
-LinkedIn	B-Organization	B-Misc
-Broadcast	O	I-Misc
+LinkedIn	B-Misc	B-Organization
+Broadcast	I-Misc
 ,	O
-Binge	B-Organization	B-Misc
-Networks	O	I-Misc
+Binge	B-Misc	B-Organization
+Networks	I-Misc
 ,	O
-Facebook	B-Organization	B-Misc
-Video	O	I-Misc
+Facebook	B-Misc	B-Organization
+Video	I-Misc
 ,	O
 YouTube	B-Organization
 ,	O

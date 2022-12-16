@@ -42,10 +42,10 @@ near	O
 term	O
 .	O
 
-US	B-Location	B-Organization
-Department	O	I-Organization
-of	O	I-Organization
-Defence	O	I-Organization
+US	B-Organization	B-Location
+Department	I-Organization
+of	I-Organization
+Defence	I-Organization
 senior	O
 analyst	O
 Joshua	B-Person
@@ -523,9 +523,9 @@ who	O
 now	O
 lectures	O
 at	O
-George	B-Person	B-Organization
-Washington	I-Person	I-Organization
-University	O	I-Organization
+George	B-Organization	B-Person
+Washington	I-Organization	I-Person
+University	I-Organization
 ,	O
 said	O
 he	O

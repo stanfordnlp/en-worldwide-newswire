@@ -1589,8 +1589,8 @@ people	O
 followed	O
 to	O
 the	O
-Methodist	B-NORP	B-Facility
-cemetery	O	I-Facility
+Methodist	B-Facility	B-NORP
+cemetery	I-Facility
 when	O
 she	O
 died	O
@@ -1839,8 +1839,8 @@ In	O
 1995	B-Misc
 ,	O
 the	O
-Tasmanian	B-NORP	B-Organization
-Government	O	I-Organization
+Tasmanian	B-Organization	B-NORP
+Government	I-Organization
 officially	O
 returned	O
 this	O

@@ -26,8 +26,8 @@ on	O
 Japanese	B-NORP
 anime	O
 studio	O
-Kyoto	B-Location	B-Facility
-Animation	O	I-Facility
+Kyoto	B-Facility	B-Location
+Animation	I-Facility
 three	O
 years	O
 ago	O
@@ -233,8 +233,8 @@ including	O
 bereaved	O
 families	O
 and	O
-Kyoto	B-Location	B-Organization
-Animation	O	I-Organization
+Kyoto	B-Organization	B-Location
+Animation	I-Organization
 President	O
 Hideaki	B-Person
 Hatta	I-Person

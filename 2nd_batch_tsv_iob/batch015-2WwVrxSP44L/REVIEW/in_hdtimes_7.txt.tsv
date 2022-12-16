@@ -60,11 +60,11 @@ misappropriation	O
 of	O
 funds	O
 in	O
-Jammu	B-Location	B-Organization
-and	I-Location	I-Organization
-Kashmir	I-Location	I-Organization
-Cricket	O	I-Organization
-Association	O	I-Organization
+Jammu	B-Organization	B-Location
+and	I-Organization	I-Location
+Kashmir	I-Organization	I-Location
+Cricket	I-Organization
+Association	I-Organization
 (	O
 J	B-Organization
 &	I-Organization
@@ -250,11 +250,11 @@ crore	I-Money
 linked	O
 to	O
 the	O
-Jammu	B-Location	B-Organization
-and	I-Location	I-Organization
-Kashmir	I-Location	I-Organization
-Cricket	O	I-Organization
-Association	O	I-Organization
+Jammu	B-Organization	B-Location
+and	I-Organization	I-Location
+Kashmir	I-Organization	I-Location
+Cricket	I-Organization
+Association	I-Organization
 (	O
 JKCA	B-Organization
 )	O

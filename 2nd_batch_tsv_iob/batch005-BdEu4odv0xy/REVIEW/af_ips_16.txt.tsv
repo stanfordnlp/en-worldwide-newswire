@@ -170,8 +170,8 @@ chairperson	O
 Anousheh	B-Person
 Karver	I-Person
 and	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 Commissioner	O
 Jutta	B-Person
 Urpilainen	I-Person
@@ -1031,7 +1031,7 @@ childhood	O
 .	O
 
 IPS	B-Organization	B-Organization
-UN	O	I-Organization	B-Organization
-Bureau	O	I-Organization
+UN	I-Organization	B-Organization
+Bureau	I-Organization
 Report	O
 

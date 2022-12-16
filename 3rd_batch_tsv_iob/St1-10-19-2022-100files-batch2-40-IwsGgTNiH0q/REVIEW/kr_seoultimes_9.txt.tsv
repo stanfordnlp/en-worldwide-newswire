@@ -178,15 +178,15 @@ five	O
 years	O
 of	O
 the	O
-U	B-Location	B-Misc
-.	I-Location	I-Misc
-S	I-Location	I-Misc
-.	O	I-Misc
--	O	I-Misc
-Korea	O	I-Misc	B-Location
-Free	O	I-Misc
-Trade	O	I-Misc
-Agreement	O	I-Misc
+U	B-Misc	B-Location
+.	I-Misc	I-Location
+S	I-Misc	I-Location
+.	I-Misc
+-	I-Misc
+Korea	I-Misc	B-Location
+Free	I-Misc
+Trade	I-Misc
+Agreement	I-Misc
 (	O
 KORUS	B-Misc
 )	O

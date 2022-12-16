@@ -1,14 +1,14 @@
 https://panafricanvisions.com/2022/07/south-african-airways-and-kenya-airways-sign-codeshare-agreement-that-will-see-customers-enjoy-seamless-connections-in-africa/	O
 
-Kenya	B-Location	B-Organization
-Airways	O	I-Organization
+Kenya	B-Organization	B-Location
+Airways	I-Organization
 (	O
 KQ	B-Organization
 )	O
 and	O
-South	B-NORP	B-Organization
-African	I-NORP	I-Organization
-Airways	O	I-Organization
+South	B-Organization	B-NORP
+African	I-Organization	I-NORP
+Airways	I-Organization
 (	O
 SAA	B-Organization
 )	O
@@ -49,12 +49,12 @@ by	O
 each	O
 other	O
 ;	O
-South	B-NORP	B-Organization
-African	I-NORP	I-Organization
-Airways	O	I-Organization
+South	B-Organization	B-NORP
+African	I-Organization	I-NORP
+Airways	I-Organization
 or	O
-Kenya	B-Location	B-Organization
-Airways	O	I-Organization
+Kenya	B-Organization	B-Location
+Airways	I-Organization
 .	O
 
 This	O
@@ -282,8 +282,8 @@ said	O
 Allan	B-Person
 Kilavuka	I-Person
 ,	O
-Kenya	B-Location	B-Organization
-Airways	O	I-Organization
+Kenya	B-Organization	B-Location
+Airways	I-Organization
 CEO	O
 and	O
 Group	O
@@ -299,9 +299,9 @@ the	O
 interim	O
 CEO	O
 of	O
-South	B-NORP	B-Organization
-African	I-NORP	I-Organization
-Airways	O	I-Organization
+South	B-Organization	B-NORP
+African	I-Organization	I-NORP
+Airways	I-Organization
 ,	O
 said	O
 ,	O
@@ -311,12 +311,12 @@ the	O
 codeshare	O
 agreement	O
 with	O
-Kenya	B-Location	B-Organization
-Airways	O	I-Organization
+Kenya	B-Organization	B-Location
+Airways	I-Organization
 ,	O
-South	B-NORP	B-Organization
-African	I-NORP	I-Organization
-Airways	O	I-Organization
+South	B-Organization	B-NORP
+African	I-Organization	I-NORP
+Airways	I-Organization
 ’	O
 valued	O
 clientele	O
@@ -354,8 +354,8 @@ look	O
 forward	O
 to	O
 introducing	O
-Kenya	B-Location	B-Organization
-Airways	O	I-Organization
+Kenya	B-Organization	B-Location
+Airways	I-Organization
 customers	O
 to	O
 our	O
@@ -367,8 +367,8 @@ and	O
 working	O
 closely	O
 with	O
-Kenya	B-Location	B-Organization
-Airways	O	I-Organization
+Kenya	B-Organization	B-Location
+Airways	I-Organization
 as	O
 our	O
 partnership	O
@@ -457,12 +457,12 @@ this	O
 year	O
 .	O
 
-Kenya	B-Location	B-Organization
-Airways	O	I-Organization
+Kenya	B-Organization	B-Location
+Airways	I-Organization
 and	O
-South	B-NORP	B-Organization
-African	I-NORP	I-Organization
-Airways	O	I-Organization
+South	B-Organization	B-NORP
+African	I-Organization	I-NORP
+Airways	I-Organization
 are	O
 also	O
 exploring	O

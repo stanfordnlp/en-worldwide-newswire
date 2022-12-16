@@ -611,9 +611,9 @@ a	O
 guide	O
 for	O
 the	O
-Lushan	B-Location	B-Facility
-national	O	I-Facility
-park	O	I-Facility
+Lushan	B-Facility	B-Location
+national	I-Facility
+park	I-Facility
 in	O
 eastern	B-Location
 China	I-Location

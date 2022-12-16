@@ -132,9 +132,9 @@ bronze	O
 at	O
 the	O
 2017	B-Misc	B-Misc
-Africa	O	I-Misc	B-Location
-Boxing	O	I-Misc
-Championships	O	I-Misc
+Africa	I-Misc	B-Location
+Boxing	I-Misc
+Championships	I-Misc
 ,	O
 will	O
 fight	O

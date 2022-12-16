@@ -312,9 +312,9 @@ that	O
 section	O
 30	O
 of	O
-BoG	B-Organization	B-Misc
-Act	O	I-Misc
-612	O	I-Misc
+BoG	B-Misc	B-Organization
+Act	I-Misc
+612	I-Misc
 as	O
 amended	O
 states	O

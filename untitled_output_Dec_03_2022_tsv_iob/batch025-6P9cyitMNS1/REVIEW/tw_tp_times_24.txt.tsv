@@ -16,9 +16,9 @@ Falcon	B-Misc
 Award	I-Misc
 from	O
 the	O
-Maltese	B-NORP	B-Organization
-Falcon	O	I-Organization
-Society	O	I-Organization
+Maltese	B-Organization	B-NORP
+Falcon	I-Organization
+Society	I-Organization
 in	O
 Japan	B-Location
 for	O
@@ -93,9 +93,9 @@ Twitter	B-Organization
 .	O
 
 The	O
-Maltese	B-NORP	B-Organization
-Falcon	O	I-Organization
-Society	O	I-Organization
+Maltese	B-Organization	B-NORP
+Falcon	I-Organization
+Society	I-Organization
 was	O
 founded	O
 in	O
@@ -250,21 +250,21 @@ year	O
 ,	O
 including	O
 the	O
-China	B-Location	B-Misc
-Times	O	I-Misc
-Open	O	I-Misc
-Book	O	I-Misc
-Award	O	I-Misc
+China	B-Misc	B-Location
+Times	I-Misc
+Open	I-Misc
+Book	I-Misc
+Award	I-Misc
 and	O
-Asia	B-Location	B-Misc
-Weekly	O	I-Misc
-Top	O	I-Misc
-10	O	I-Misc
-Chinese	O	I-Misc	B-NORP
-Novel	O	I-Misc
-of	O	I-Misc
-the	O	I-Misc
-Year	O	I-Misc
+Asia	B-Misc	B-Location
+Weekly	I-Misc
+Top	I-Misc
+10	I-Misc
+Chinese	I-Misc	B-NORP
+Novel	I-Misc
+of	I-Misc
+the	I-Misc
+Year	I-Misc
 .	O
 
 It	O

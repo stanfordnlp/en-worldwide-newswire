@@ -1,8 +1,8 @@
 https://economist.com.na/72229/extra/german-embassy-to-resume-local-schengen-visa-applications/	O
 
 The	O
-German	B-NORP	B-Organization
-Embassy	O	I-Organization
+German	B-Organization	B-NORP
+Embassy	I-Organization
 in	O
 Windhoek	B-Location
 this	O

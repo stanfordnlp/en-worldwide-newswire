@@ -31,9 +31,9 @@ discharge	O
 more	O
 water	O
 from	O
-Chao	B-Location	B-Facility
-Phraya	I-Location	I-Facility
-dam	O	I-Facility
+Chao	B-Facility	B-Location
+Phraya	I-Facility	I-Location
+dam	I-Facility
 in	O
 Chai	B-Location
 Nat	I-Location
@@ -173,9 +173,9 @@ water	O
 flowing	O
 from	O
 the	O
-Chao	B-Location	B-Facility
-Phraya	I-Location	I-Facility
-dam	O	I-Facility
+Chao	B-Facility	B-Location
+Phraya	I-Facility	I-Location
+dam	I-Facility
 will	O
 exceed	O
 1,000	O

@@ -19,9 +19,9 @@ place	O
 in	O
 the	O
 2022	B-Misc
-European	B-NORP	B-Misc
-Jetski	O	I-Misc
-Championship	O	I-Misc
+European	B-Misc	B-NORP
+Jetski	I-Misc
+Championship	I-Misc
 ’	O
 s	O
 Pro	O

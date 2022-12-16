@@ -16,11 +16,11 @@ official	O
 language	O
 ,	O
 the	O
-M	B-NORP	B-Organization
-ā	I-NORP	I-Organization
-ori	I-NORP	I-Organization
-Language	O	I-Organization
-Commission	O	I-Organization
+M	B-Organization	B-NORP
+ā	I-Organization	I-NORP
+ori	I-Organization	I-NORP
+Language	I-Organization
+Commission	I-Organization
 is	O
 warning	O
 more	O

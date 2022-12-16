@@ -76,9 +76,9 @@ support	O
 Lebanon	B-Location
 ,	O
 the	O
-Jordan	B-Location	B-Organization
-News	O	I-Organization
-Agency	O	I-Organization
+Jordan	B-Organization	B-Location
+News	I-Organization
+Agency	I-Organization
 ,	O
 Petra	B-Organization
 ,	O
@@ -424,12 +424,12 @@ minister	O
 said	O
 that	O
 the	O
-Jordan	B-Location	B-Organization
-Armed	O	I-Organization
-Forces	O	I-Organization
+Jordan	B-Organization	B-Location
+Armed	I-Organization
+Forces	I-Organization
 -	O
-Arab	B-NORP	B-Organization
-Army	O	I-Organization
+Arab	B-Organization	B-NORP
+Army	I-Organization
 and	O
 security	O
 and	O

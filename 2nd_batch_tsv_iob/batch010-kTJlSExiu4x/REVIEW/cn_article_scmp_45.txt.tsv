@@ -10,10 +10,10 @@ of	O
 Indonesia	B-Location
 ’	O
 s	O
-US	B-Location	B-Money
-$	O	I-Money
-34	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+34	I-Money
+billion	I-Money
 new	O
 capital	O
 is	O
@@ -265,8 +265,8 @@ prime	O
 minister	O
 of	O
 the	O
-Majapahit	B-Location	B-Organization
-empire	O	I-Organization
+Majapahit	B-Organization	B-Location
+empire	I-Organization
 during	O
 the	O
 14th	O
@@ -522,10 +522,10 @@ and	O
 culture	O
 in	O
 the	O
-Indo	B-NORP	B-Location
--	O	I-Location
-Malaysian	O	I-Location	B-NORP
-archipelago	O	I-Location
+Indo	B-Location	B-NORP
+-	I-Location
+Malaysian	I-Location	B-NORP
+archipelago	I-Location
 before	O
 the	O
 16th	O
@@ -1117,10 +1117,10 @@ parliament	O
 ,	O
 only	O
 the	O
-Islamist	B-NORP	B-Organization
-Prosperous	O	I-Organization
-Justice	O	I-Organization
-Party	O	I-Organization
+Islamist	B-Organization	B-NORP
+Prosperous	I-Organization
+Justice	I-Organization
+Party	I-Organization
 (	O
 PKS	B-Organization
 )	O
@@ -1277,10 +1277,10 @@ has	O
 debt	O
 of	O
 [	O
-US	B-Location	B-Money
-$	O	I-Money
-418.4	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+418.4	I-Money
+billion	I-Money
 ]	O
 ,	O
 but	O

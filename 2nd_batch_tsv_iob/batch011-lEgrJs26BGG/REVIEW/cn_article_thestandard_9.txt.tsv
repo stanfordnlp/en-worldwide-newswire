@@ -17,8 +17,8 @@ China	B-Location
 s	O
 draconian	O
 Covid	B-Misc	B-Misc
--	O	I-Misc
-zero	O	I-Misc
+-	I-Misc
+zero	I-Misc
 policy	O
 has	O
 left	O
@@ -136,10 +136,10 @@ residents	O
 seeking	O
 to	O
 pull	O
-US	B-Location	B-Money
-$	O	I-Money
-48	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+48	I-Money
+billion	I-Money
 from	O
 China	B-Location
 this	O
@@ -276,8 +276,8 @@ Chinese	B-NORP
 and	O
 the	O
 ruling	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
+Communist	B-Organization	B-NORP
+Party	I-Organization
 ,	O
 which	O
 was	O
@@ -497,10 +497,10 @@ for	O
 million	I-Money
 yuan	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-3	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+3	I-Money
+million	I-Money
 )	O
 and	O
 has	O

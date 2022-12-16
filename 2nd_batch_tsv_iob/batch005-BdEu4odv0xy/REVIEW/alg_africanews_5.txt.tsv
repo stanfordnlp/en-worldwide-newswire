@@ -127,8 +127,8 @@ s	O
 attempts	O
 to	O
 keep	O
-Western	B-NORP	B-Location
-Sahara	O	I-Location
+Western	B-Location	B-NORP
+Sahara	I-Location
 under	O
 its	O
 rule	O
@@ -178,8 +178,8 @@ its	O
 mission	O
 at	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 issued	O
 a	O
 statement	O
@@ -203,9 +203,9 @@ however	O
 ,	O
 and	O
 the	O
-Algerian	B-NORP	B-Organization
-Foreign	O	I-Organization
-Ministry	O	I-Organization
+Algerian	B-Organization	B-NORP
+Foreign	I-Organization
+Ministry	I-Organization
 on	O
 Saturday	B-Misc
 called	O
@@ -421,8 +421,8 @@ the	O
 colonial	O
 power	O
 in	O
-Western	B-NORP	B-Location
-Sahara	O	I-Location
+Western	B-Location	B-NORP
+Sahara	I-Location
 until	O
 it	O
 was	O

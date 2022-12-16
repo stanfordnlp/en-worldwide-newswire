@@ -48,10 +48,10 @@ unit	O
 classroom	O
 block	O
 for	O
-Tunga	B-Location	B-Organization
-Islamic	B-NORP	I-Organization
-Community	O	I-Organization
-School	O	I-Organization
+Tunga	B-Organization	B-Location
+Islamic	I-Organization	B-NORP
+Community	I-Organization
+School	I-Organization
 at	O
 Dansoman	B-Location
 in	O
@@ -124,9 +124,9 @@ was	O
 funded	O
 by	O
 the	O
-Zongo	B-NORP	B-Organization
-Development	O	I-Organization
-Fund	O	I-Organization
+Zongo	B-Organization	B-NORP
+Development	I-Organization
+Fund	I-Organization
 ,	O
 which	O
 is	O
@@ -136,10 +136,10 @@ agency	O
 for	O
 developing	O
 the	O
-Zongo	B-NORP	B-Misc
-and	O	I-Misc
-Inner	O	I-Misc
-cities	O	I-Misc
+Zongo	B-Misc	B-NORP
+and	I-Misc
+Inner	I-Misc
+cities	I-Misc
 .	O
 
 Currently	O
@@ -364,8 +364,8 @@ comprehensive	O
 rehabilitation	O
 of	O
 Ansarudeen	B-NORP	B-Organization
-Islamic	B-NORP	B-Organization
-School	O	I-Organization
+Islamic	B-Organization	B-NORP
+School	I-Organization
 founded	O
 by	O
 His	O
@@ -398,9 +398,9 @@ government	O
 ,	O
 through	O
 the	O
-Zongo	B-NORP	B-Organization
-Development	O	I-Organization
-Fund	O	I-Organization
+Zongo	B-Organization	B-NORP
+Development	I-Organization
+Fund	I-Organization
 has	O
 provided	O
 teaching	O
@@ -409,9 +409,9 @@ learning	O
 materials	O
 to	O
 the	O
-Islamic	B-NORP	B-Organization
-Education	O	I-Organization
-Unit	O	I-Organization
+Islamic	B-Organization	B-NORP
+Education	I-Organization
+Unit	I-Organization
 of	O
 the	O
 Ghana	B-Organization
@@ -564,9 +564,9 @@ Julius	I-Person
 Aforlah	I-Person
 ,	O
 the	O
-Ablekuma	B-Location	B-Misc
-West	I-Location	I-Misc
-Municipal	O	I-Misc
+Ablekuma	B-Misc	B-Location
+West	I-Misc	I-Location
+Municipal	I-Misc
 Director	O
 of	O
 Education	O
@@ -628,9 +628,9 @@ Executive	O
 Officer	O
 of	O
 the	O
-Zongo	B-NORP	B-Organization
-Development	O	I-Organization
-Fund	O	I-Organization
+Zongo	B-Organization	B-NORP
+Development	I-Organization
+Fund	I-Organization
 ,	O
 expressed	O
 the	O

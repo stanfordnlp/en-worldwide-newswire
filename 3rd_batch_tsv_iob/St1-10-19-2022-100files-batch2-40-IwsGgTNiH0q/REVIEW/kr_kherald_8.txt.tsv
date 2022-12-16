@@ -368,11 +368,11 @@ workers	O
 .	O
 
 The	O
-Korean	B-NORP	B-Organization
-Confederation	O	I-Organization
-of	O	I-Organization
-Trade	O	I-Organization
-Unions	O	I-Organization
+Korean	B-Organization	B-NORP
+Confederation	I-Organization
+of	I-Organization
+Trade	I-Organization
+Unions	I-Organization
 ,	O
 a	O
 major	O

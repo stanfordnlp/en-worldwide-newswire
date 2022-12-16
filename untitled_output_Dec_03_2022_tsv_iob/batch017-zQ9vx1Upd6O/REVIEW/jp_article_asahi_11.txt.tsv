@@ -233,10 +233,10 @@ joint	O
 statement	O
 released	O
 by	O
-Japan	B-Location	B-Organization
-'s	O	I-Organization
-Foreign	O	I-Organization
-Ministry	O	I-Organization
+Japan	B-Organization	B-Location
+'s	I-Organization
+Foreign	I-Organization
+Ministry	I-Organization
 .	O
 
 “	O
@@ -251,9 +251,9 @@ the	O
 challenges	O
 facing	O
 our	O
-Indo	B-NORP	B-Location
--	O	I-Location
-Pacific	O	I-Location
+Indo	B-Location	B-NORP
+-	I-Location
+Pacific	I-Location
 region	O
 are	O
 closely	O
@@ -281,9 +281,9 @@ inclusive	O
 stable	O
 and	O
 prosperous	O
-Indo	B-NORP	B-Location
--	O	I-Location
-Pacific	O	I-Location
+Indo	B-Location	B-NORP
+-	I-Location
+Pacific	I-Location
 underpinned	O
 by	O
 the	O

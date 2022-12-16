@@ -238,10 +238,10 @@ out	O
 that	O
 of	O
 the	O
-Nicaraguan	B-NORP	B-Organization
-Academy	O	I-Organization
-of	O	I-Organization
-Language	O	I-Organization
+Nicaraguan	B-Organization	B-NORP
+Academy	I-Organization
+of	I-Organization
+Language	I-Organization
 ,	O
 founded	O
 almost	O

@@ -453,8 +453,8 @@ content	O
 ”	O
 wrote	O
 the	O
-Beijing	B-Location	B-Organization
-Daily	O	I-Organization
+Beijing	B-Organization	B-Location
+Daily	I-Organization
 in	O
 an	O
 editorial	O

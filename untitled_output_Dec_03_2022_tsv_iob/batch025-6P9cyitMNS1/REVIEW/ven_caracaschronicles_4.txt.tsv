@@ -1369,8 +1369,8 @@ of	O
 political	O
 science	O
 at	O
-Columbia	B-Location	B-Organization
-University	O	I-Organization
+Columbia	B-Organization	B-Location
+University	I-Organization
 ,	O
 wrote	O
 in	O

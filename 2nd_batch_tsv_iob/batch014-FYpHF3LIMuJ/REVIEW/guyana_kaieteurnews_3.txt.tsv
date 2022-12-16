@@ -36,8 +36,8 @@ yesterday	O
 Batting	O
 first	O
 at	O
-Gilbert	B-Person	B-Location
-Park	O	I-Location
+Gilbert	B-Location	B-Person
+Park	I-Location
 ,	O
 Trinidad	B-Location
 and	I-Location

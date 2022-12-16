@@ -41,10 +41,10 @@ grade	B-Misc
 )	O
 student	O
 attended	O
-Hang	B-Location	B-Organization
-Chat	I-Location	I-Organization
-Witthaya	O	I-Organization
-School	O	I-Organization
+Hang	B-Organization	B-Location
+Chat	I-Organization	I-Location
+Witthaya	I-Organization
+School	I-Organization
 in	O
 Hang	B-Location
 Chat	I-Location
@@ -304,9 +304,9 @@ Ms	O
 Chanthana	B-Person
 said	O
 .	O
-Hang	B-Location	B-Organization
-Chat	I-Location	I-Organization
-School	O	I-Organization
+Hang	B-Organization	B-Location
+Chat	I-Organization	I-Location
+School	I-Organization
 decided	O
 not	O
 to	O
@@ -394,10 +394,10 @@ investigation	O
 would	O
 reveal	O
 whether	O
-Hang	B-Location	B-Organization
-Chat	I-Location	I-Organization
-Witthaya	O	I-Organization
-School	O	I-Organization
+Hang	B-Organization	B-Location
+Chat	I-Organization	I-Location
+Witthaya	I-Organization
+School	I-Organization
 executives	O
 acted	O
 negligently	O

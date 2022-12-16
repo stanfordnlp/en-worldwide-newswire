@@ -302,11 +302,11 @@ there	O
 ’	O
 s	O
 a	O
-Venezuelan	B-NORP	B-Organization
-Federation	O	I-Organization
-of	O	I-Organization
-Electronic	O	I-Organization
-Sports	O	I-Organization
+Venezuelan	B-Organization	B-NORP
+Federation	I-Organization
+of	I-Organization
+Electronic	I-Organization
+Sports	I-Organization
 ,	O
 one	O
 of	O
@@ -567,8 +567,8 @@ of	O
 Lobos	B-Misc
 UCAB	I-Misc	B-Organization
 (	O
-UCAB	B-Organization	B-Misc
-Wolves	O	I-Misc
+UCAB	B-Misc	B-Organization
+Wolves	I-Misc
 )	O
 and	O
 a	O
@@ -728,8 +728,8 @@ of	O
 Lobos	B-Misc
 UCAB	I-Misc	B-Organization
 (	O
-UCAB	B-Organization	B-Misc
-Wolves	O	I-Misc
+UCAB	B-Misc	B-Organization
+Wolves	I-Misc
 )	O
 and	O
 a	O

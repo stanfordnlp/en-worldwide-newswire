@@ -46,15 +46,15 @@ Mudhaf	B-Person
 s	O
 statement	O
 to	O
-Kuwait	B-Location	B-Organization
-News	O	I-Organization
-Agency	O	I-Organization
+Kuwait	B-Organization	B-Location
+News	I-Organization
+Agency	I-Organization
 (	O
 KUNA	B-Organization
 )	O
 and	O
-Kuwait	B-Location	B-Organization
-TV	O	I-Organization
+Kuwait	B-Organization	B-Location
+TV	I-Organization
 on	O
 the	O
 sidelines	O
@@ -101,9 +101,9 @@ start	O
 of	O
 the	O
 scheduled	O
-UN	B-Organization	B-Misc
-General	O	I-Misc
-Assembly	O	I-Misc
+UN	B-Misc	B-Organization
+General	I-Misc
+Assembly	I-Misc
 ,	O
 to	O
 be	O

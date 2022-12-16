@@ -132,8 +132,8 @@ Egypt	B-Location
 he	O
 told	O
 the	O
-Cairo	B-Location	B-Organization
-Times	O	I-Organization
+Cairo	B-Organization	B-Location
+Times	I-Organization
 .	O
 He	O
 says	O
@@ -173,16 +173,16 @@ peace	O
 agreement	O
 between	O
 the	O
-Sudanese	B-NORP	B-Organization
-government	O	I-Organization
+Sudanese	B-Organization	B-NORP
+government	I-Organization
 and	O
 the	O
-Sudanese	B-NORP	B-Organization
-People	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Liberation	O	I-Organization
-Army	O	I-Organization
+Sudanese	B-Organization	B-NORP
+People	I-Organization
+’	I-Organization
+s	I-Organization
+Liberation	I-Organization
+Army	I-Organization
 (	O
 SPLA	B-Organization
 )	O
@@ -836,8 +836,8 @@ Egypt	B-Location
 .	O
 
 The	O
-Sudanese	B-NORP	B-Organization
-government	O	I-Organization
+Sudanese	B-Organization	B-NORP
+government	I-Organization
 and	O
 the	O
 SPLA	B-Organization

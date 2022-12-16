@@ -41,11 +41,11 @@ reports	O
 said	O
 citing	O
 the	O
-Taliban	B-NORP	B-Organization
-'s	O	I-Organization
-Ministry	O	I-Organization
-of	O	I-Organization
-Finance	O	I-Organization
+Taliban	B-Organization	B-NORP
+'s	I-Organization
+Ministry	I-Organization
+of	I-Organization
+Finance	I-Organization
 .	O
 
 The	O
@@ -114,17 +114,17 @@ Affairs	I-Organization
 Central	B-Organization
 Bank	I-Organization
 ,	O
-Afghanistan	B-Location	B-Organization
-Oil	O	I-Organization
-and	O	I-Organization
-Gas	O	I-Organization
-Corporation	O	I-Organization
+Afghanistan	B-Organization	B-Location
+Oil	I-Organization
+and	I-Organization
+Gas	I-Organization
+Corporation	I-Organization
 ,	O
 and	O
-Afghanistan	B-Location	B-Organization
-National	O	I-Organization
-Standard	O	I-Organization
-Authority	O	I-Organization
+Afghanistan	B-Organization	B-Location
+National	I-Organization
+Standard	I-Organization
+Authority	I-Organization
 .	O
 
 In	O

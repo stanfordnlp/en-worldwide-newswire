@@ -90,11 +90,11 @@ expelled	O
 from	O
 the	O
 ruling	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
-and	O	I-Organization
-public	O	I-Organization
-office	O	I-Organization
+Communist	B-Organization	B-NORP
+Party	I-Organization
+and	I-Organization
+public	I-Organization
+office	I-Organization
 for	O
 “	O
 serious	O

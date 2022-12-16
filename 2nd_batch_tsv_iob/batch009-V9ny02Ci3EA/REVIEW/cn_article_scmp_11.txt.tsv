@@ -82,10 +82,10 @@ new	O
 album	O
 ,	O
 “	O
-Jack	B-Person	B-Misc
-in	O	I-Misc
-the	O	I-Misc
-Box	O	I-Misc
+Jack	B-Misc	B-Person
+in	I-Misc
+the	I-Misc
+Box	I-Misc
 ”	O
 ,	O
 BTS	B-Organization
@@ -129,10 +129,10 @@ by	O
 the	O
 myth	O
 of	O
-Pandora	B-Person	B-Misc
-’	O	I-Misc
-s	O	I-Misc
-box	O	I-Misc
+Pandora	B-Misc	B-Person
+’	I-Misc
+s	I-Misc
+box	I-Misc
 ,	O
 Jung	B-Person
 Hoseok	I-Person
@@ -159,10 +159,10 @@ Friday	B-Misc
 .	O
 
 “	O
-Jack	B-Person	B-Misc
-in	O	I-Misc
-the	O	I-Misc
-Box	O	I-Misc
+Jack	B-Misc	B-Person
+in	I-Misc
+the	I-Misc
+Box	I-Misc
 ”	O
 is	O
 the	O
@@ -192,8 +192,8 @@ own	O
 2018	B-Misc
 release	O
 “	O
-Hope	B-Person	B-Misc
-World	O	I-Misc
+Hope	B-Misc	B-Person
+World	I-Misc
 ”	O
 ,	O
 released	O
@@ -202,8 +202,8 @@ digitally	O
 .	O
 
 While	O
-Hope	B-Person	B-Misc
-World	O	I-Misc
+Hope	B-Misc	B-Person
+World	I-Misc
 and	O
 other	O
 solo	O
@@ -319,10 +319,10 @@ overflowing	O
 throughout	O
 ,	O
 “	O
-Jack	B-Person	B-Misc
-in	O	I-Misc
-the	O	I-Misc
-Box	O	I-Misc
+Jack	B-Misc	B-Person
+in	I-Misc
+the	I-Misc
+Box	I-Misc
 ”	O
 is	O
 said	O
@@ -348,10 +348,10 @@ statement	O
 .	O
 
 “	O
-Jack	B-Person	B-Misc
-in	O	I-Misc
-the	O	I-Misc
-Box	O	I-Misc
+Jack	B-Misc	B-Person
+in	I-Misc
+the	I-Misc
+Box	I-Misc
 ”	O
 is	O
 the	O

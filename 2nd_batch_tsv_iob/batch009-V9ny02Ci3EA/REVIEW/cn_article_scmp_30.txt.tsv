@@ -48,8 +48,8 @@ was	O
 elected	O
 by	O
 the	O
-Indian	B-NORP	B-Organization
-Parliament	O	I-Organization
+Indian	B-Organization	B-NORP
+Parliament	I-Organization
 and	O
 state	O
 legislatures	O

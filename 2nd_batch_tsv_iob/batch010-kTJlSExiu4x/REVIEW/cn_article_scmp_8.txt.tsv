@@ -355,8 +355,8 @@ because	O
 of	O
 the	O
 strengthened	O
-Singapore	B-Location	B-Money
-dollar	O	I-Money
+Singapore	B-Money	B-Location
+dollar	I-Money
 ,	O
 which	O
 grew	O

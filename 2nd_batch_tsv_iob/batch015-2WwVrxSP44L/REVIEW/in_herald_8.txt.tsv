@@ -200,11 +200,11 @@ protest	O
 Experts	O
 from	O
 the	O
-Karnataka	B-Location	B-Organization
-State	O	I-Organization
-Disaster	O	I-Organization
-Management	O	I-Organization
-Authority	O	I-Organization
+Karnataka	B-Organization	B-Location
+State	I-Organization
+Disaster	I-Organization
+Management	I-Organization
+Authority	I-Organization
 have	O
 already	O
 given	O

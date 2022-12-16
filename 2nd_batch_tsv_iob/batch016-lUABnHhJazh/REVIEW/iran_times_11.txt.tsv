@@ -327,8 +327,8 @@ summit	O
 
 Underlining	O
 the	O
-Raisi	B-Person	B-Organization
-administration	O	I-Organization
+Raisi	B-Organization	B-Person
+administration	I-Organization
 ’	O
 s	O
 foreign	O
@@ -585,9 +585,9 @@ a	O
 statement	O
 by	O
 the	O
-Iranian	B-NORP	B-Organization
-foreign	O	I-Organization
-ministry	O	I-Organization
+Iranian	B-Organization	B-NORP
+foreign	I-Organization
+ministry	I-Organization
 .	O
 
 The	O

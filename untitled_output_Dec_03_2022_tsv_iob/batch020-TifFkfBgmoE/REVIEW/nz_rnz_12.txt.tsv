@@ -15,9 +15,9 @@ making	O
 powers	O
 on	O
 the	O
-Canterbury	B-Location	B-Organization
-regional	O	I-Organization
-council	O	I-Organization
+Canterbury	B-Organization	B-Location
+regional	I-Organization
+council	I-Organization
 .	O
 
 A	O
@@ -90,9 +90,9 @@ celebrate	O
 .	O
 
 The	O
-Canterbury	B-Location	B-Organization
-Regional	O	I-Organization
-Council	O	I-Organization
+Canterbury	B-Organization	B-Location
+Regional	I-Organization
+Council	I-Organization
 (	O
 Ng	B-NORP
 ā	I-NORP

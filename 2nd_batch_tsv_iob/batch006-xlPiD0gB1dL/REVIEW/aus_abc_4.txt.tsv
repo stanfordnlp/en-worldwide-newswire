@@ -33,11 +33,11 @@ existent	O
 .	O
 
 The	O
-Bundjalung	B-NORP	B-Misc
-Nation	O	I-Misc
-Flood	O	I-Misc
-Response	O	I-Misc
-Report	O	I-Misc
+Bundjalung	B-Misc	B-NORP
+Nation	I-Misc
+Flood	I-Misc
+Response	I-Misc
+Report	I-Misc
 was	O
 released	O
 to	O

@@ -17,9 +17,9 @@ Assistant	O
 Administrator	O
 for	O
 the	O
-Middle	B-Location	B-Organization
-East	I-Location	I-Organization
-Bureau	O	I-Organization
+Middle	B-Organization	B-Location
+East	I-Organization	I-Location
+Bureau	I-Organization
 Andrew	B-Person
 Plitt	I-Person
 on	O

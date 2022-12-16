@@ -143,10 +143,10 @@ nine	O
 reactors	O
 are	O
 at	O
-Kansai	B-Location	B-Organization
-Electric	O	I-Organization
-Power	O	I-Organization
-Co	O	I-Organization
+Kansai	B-Organization	B-Location
+Electric	I-Organization
+Power	I-Organization
+Co	I-Organization
 .	O
 ’	O
 s	O
@@ -217,9 +217,9 @@ No	O
 reactor	O
 at	O
 the	O
-Genkai	B-Location	B-Facility
-nuclear	O	I-Facility
-plant	O	I-Facility
+Genkai	B-Facility	B-Location
+nuclear	I-Facility
+plant	I-Facility
 in	O
 Saga	B-Location
 Prefecture	I-Location
@@ -252,10 +252,10 @@ No	O
 3	O
 reactor	O
 at	O
-Shikoku	B-Location	B-Organization
-Electric	O	I-Organization
-Power	O	I-Organization
-Co	O	I-Organization
+Shikoku	B-Organization	B-Location
+Electric	I-Organization
+Power	I-Organization
+Co	I-Organization
 .	O
 ’	O
 s	O

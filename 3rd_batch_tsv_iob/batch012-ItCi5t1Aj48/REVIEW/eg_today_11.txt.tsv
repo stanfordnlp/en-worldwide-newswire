@@ -17,8 +17,8 @@ the	O
 performance	O
 of	O
 the	O
-Egyptian	B-NORP	B-Organization
-Exchange	O	I-Organization
+Egyptian	B-Organization	B-NORP
+Exchange	I-Organization
 (	O
 EGX	B-Organization
 )	O

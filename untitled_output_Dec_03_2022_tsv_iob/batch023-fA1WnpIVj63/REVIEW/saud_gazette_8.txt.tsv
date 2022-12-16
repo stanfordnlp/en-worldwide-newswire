@@ -56,9 +56,9 @@ other	O
 senior	O
 officials	O
 at	O
-Athens	B-Location	B-Facility
-International	O	I-Facility
-Airport	O	I-Facility
+Athens	B-Facility	B-Location
+International	I-Facility
+Airport	I-Facility
 .	O
 
 Prince	O
@@ -207,12 +207,12 @@ agreement	O
 to	O
 establish	O
 the	O
-Saudi	B-NORP	B-Organization
--	O	I-Organization
-Greek	O	I-Organization	B-NORP
-Strategic	O	I-Organization
-Partnership	O	I-Organization
-Council	O	I-Organization
+Saudi	B-Organization	B-NORP
+-	I-Organization
+Greek	I-Organization	B-NORP
+Strategic	I-Organization
+Partnership	I-Organization
+Council	I-Organization
 .	O
 Also	O
 ,	O

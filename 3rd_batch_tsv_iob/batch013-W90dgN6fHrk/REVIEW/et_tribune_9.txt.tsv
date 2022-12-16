@@ -19,8 +19,8 @@ immigrant	O
 mentioned	O
 in	O
 the	O
-Ethiopic	B-NORP	B-Misc
-Synaxarium	O	I-Misc
+Ethiopic	B-Misc	B-NORP
+Synaxarium	I-Misc
 ,	O
 or	O
 Book	B-Misc
@@ -1425,8 +1425,8 @@ also	O
 known	O
 as	O
 ‘	O
-Arab	B-NORP	B-Person
-Faqih	O	I-Person
+Arab	B-Person	B-NORP
+Faqih	I-Person
 .	O
 His	O
 chronicle	O

@@ -126,12 +126,12 @@ Biosphere	I-Facility
 Reserve	I-Facility
 in	O
 the	O
-UNESCO	B-Organization	B-NORP
-World	O	I-NORP
-Network	O	I-NORP
-of	O	I-NORP
-Biosphere	O	I-NORP
-Reserves	O	I-NORP
+UNESCO	B-NORP	B-Organization
+World	I-NORP
+Network	I-NORP
+of	I-NORP
+Biosphere	I-NORP
+Reserves	I-NORP
 over	O
 to	O
 the	O

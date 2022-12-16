@@ -243,8 +243,8 @@ Uganda	I-Location
 since	O
 2018	B-Misc
 .	O
-UK	B-Location	B-Organization
-Aid	O	I-Organization
+UK	B-Organization	B-Location
+Aid	I-Organization
 has	O
 funded	O
 DIG	B-Misc
@@ -479,9 +479,9 @@ his	O
 pigs	O
 died	O
 of	O
-African	B-NORP	B-Misc
-Swine	O	I-Misc
-Fever	O	I-Misc
+African	B-Misc	B-NORP
+Swine	I-Misc
+Fever	I-Misc
 last	O
 year	O
 .	O
@@ -569,9 +569,9 @@ Oyam	B-Location
 ’	O
 s	O
 Kamdini	B-Location	B-Location
-sub	O	I-Location
--	O	I-Location
-county	O	I-Location
+sub	I-Location
+-	I-Location
+county	I-Location
 to	O
 record	O
 their	O
@@ -1416,7 +1416,7 @@ Technical	O
 Specialist	O
 with	O
 BRAC	B-Organization	B-Organization
-Uganda	O	I-Organization	B-Location
+Uganda	I-Organization	B-Location
 ,	O
 told	O
 IPS	B-Organization

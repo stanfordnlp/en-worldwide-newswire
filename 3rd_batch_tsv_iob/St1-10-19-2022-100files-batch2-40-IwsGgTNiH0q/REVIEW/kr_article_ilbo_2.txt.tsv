@@ -12,10 +12,10 @@ first	O
 match	O
 of	O
 the	O
-East	B-NORP	B-Organization
-Asian	I-NORP	I-Organization
-Football	O	I-Organization
-Federation	O	I-Organization
+East	B-Organization	B-NORP
+Asian	I-Organization	I-NORP
+Football	I-Organization
+Federation	I-Organization
 (	O
 EAFF	B-Organization
 )	O
@@ -25,9 +25,9 @@ E	B-Misc
 Football	I-Misc
 Championship	I-Misc
 in	O
-Toyota	B-Organization	B-Location
-,	O	I-Location
-Japan	O	I-Location
+Toyota	B-Location	B-Organization
+,	I-Location
+Japan	I-Location
 .	O
 
 Forward	O
@@ -179,9 +179,9 @@ roster	O
 for	O
 the	O
 2022	B-Misc	B-Misc
-FIFA	O	I-Misc	B-Organization
-World	O	I-Misc
-Cup	O	I-Misc
+FIFA	I-Misc	B-Organization
+World	I-Misc
+Cup	I-Misc
 in	O
 Qatar	B-Location
 in	O

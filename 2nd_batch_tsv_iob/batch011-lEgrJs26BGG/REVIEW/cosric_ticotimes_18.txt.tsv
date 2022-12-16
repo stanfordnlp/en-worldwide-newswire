@@ -161,10 +161,10 @@ half	O
 time	O
 at	O
 the	O
-Ahmad	B-Person	B-Facility
-bin	I-Person	I-Facility
-Ali	I-Person	I-Facility
-Stadium	O	I-Facility
+Ahmad	B-Facility	B-Person
+bin	I-Facility	I-Person
+Ali	I-Facility	I-Person
+Stadium	I-Facility
 due	O
 to	O
 a	O

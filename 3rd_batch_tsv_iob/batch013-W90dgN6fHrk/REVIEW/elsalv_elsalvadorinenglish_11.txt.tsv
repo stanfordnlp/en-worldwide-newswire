@@ -1,8 +1,8 @@
 https://elsalvadorinenglish.com/2022/07/19/social-security-will-be-granted-to-temporary-and-probationary-employees-in-el-salvador/	O
 
 The	O
-Salvadoran	B-NORP	B-Organization
-Congress	O	I-Organization
+Salvadoran	B-Organization	B-NORP
+Congress	I-Organization
 approved	O
 this	O
 morning	O
@@ -24,10 +24,10 @@ be	O
 registered	O
 with	O
 the	O
-Salvadoran	B-NORP	B-Organization
-Social	O	I-Organization
-Security	O	I-Organization
-Institute	O	I-Organization
+Salvadoran	B-Organization	B-NORP
+Social	I-Organization
+Security	I-Organization
+Institute	I-Organization
 (	O
 ISSS	B-Organization
 )	O

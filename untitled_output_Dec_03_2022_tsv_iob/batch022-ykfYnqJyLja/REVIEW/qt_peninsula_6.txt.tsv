@@ -2,12 +2,12 @@ https://thepeninsulaqatar.com/article/23/07/2022/qucc-holds-summer-bootcamp	O
 
 Doha	B-Location
 :	O
-Qatar	B-Location	B-Organization
-University	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Computing	O	I-Organization
-Club	O	I-Organization
+Qatar	B-Organization	B-Location
+University	I-Organization
+’	I-Organization
+s	I-Organization
+Computing	I-Organization
+Club	I-Organization
 (	O
 QUCC	B-Organization
 )	O

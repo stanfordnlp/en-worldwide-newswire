@@ -12,11 +12,11 @@ of	O
 Research	O
 at	O
 the	O
-African	B-NORP	B-Organization
-Export	O	I-Organization
--	O	I-Organization
-Import	O	I-Organization
-Bank	O	I-Organization
+African	B-Organization	B-NORP
+Export	I-Organization
+-	I-Organization
+Import	I-Organization
+Bank	I-Organization
 (	O
 Afreximbank	B-Organization
 )	O
@@ -810,9 +810,9 @@ tears	O
 
 Consider	O
 the	O
-European	B-NORP	B-Organization
-Central	O	I-Organization
-Bank	O	I-Organization
+European	B-Organization	B-NORP
+Central	I-Organization
+Bank	I-Organization
 ,	O
 which	O
 recently	O
@@ -953,9 +953,9 @@ financing	O
 conditions	O
 by	O
 the	O
-US	B-Location	B-Organization
-Federal	O	I-Organization
-Reserve	O	I-Organization
+US	B-Organization	B-Location
+Federal	I-Organization
+Reserve	I-Organization
 and	O
 other	O
 major	O

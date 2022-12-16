@@ -273,8 +273,8 @@ the	O
 sidelines	O
 of	O
 the	O
-Paris	B-Location	B-Misc
-Summit	O	I-Misc
+Paris	B-Misc	B-Location
+Summit	I-Misc
 on	O
 Libya	B-Location
 .	O

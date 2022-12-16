@@ -832,8 +832,8 @@ wise	O
 men	O
 of	O
 the	O
-Umayyad	B-NORP	B-Organization
-Dynasty	O	I-Organization
+Umayyad	B-Organization	B-NORP
+Dynasty	I-Organization
 said	O
 about	O
 the	O

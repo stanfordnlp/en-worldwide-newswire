@@ -90,8 +90,8 @@ Shammari	I-Person
 explained	O
 that	O
 the	O
-Ethiopian	B-NORP	B-Organization
-embassy	O	I-Organization
+Ethiopian	B-Organization	B-NORP
+embassy	I-Organization
 in	O
 the	O
 country	O

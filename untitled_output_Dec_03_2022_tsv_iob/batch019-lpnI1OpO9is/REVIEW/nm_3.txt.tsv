@@ -76,10 +76,10 @@ team	O
 and	O
 accused	O
 the	O
-Namibia	B-Location	B-Organization
-National	O	I-Organization
-Olympic	O	I-Organization
-Committee	O	I-Organization
+Namibia	B-Organization	B-Location
+National	I-Organization
+Olympic	I-Organization
+Committee	I-Organization
 of	O
 becoming	O
 a	O
@@ -176,9 +176,9 @@ de	O
 mission	O
 at	O
 the	O
-Rio	B-Location	B-Misc
-Olympic	O	I-Misc
-Games	O	I-Misc
+Rio	B-Misc	B-Location
+Olympic	I-Misc
+Games	I-Misc
 while	O
 he	O
 was	O
@@ -200,9 +200,9 @@ Coast	I-Location
 Now	O
 for	O
 the	O
-Birmingham	B-Location	B-Misc
-Commonwealth	O	I-Misc
-Games	O	I-Misc
+Birmingham	B-Misc	B-Location
+Commonwealth	I-Misc
+Games	I-Misc
 I	O
 'm	O
 a	O
@@ -432,8 +432,8 @@ make	O
 up	O
 of	O
 the	O
-Namibian	B-NORP	B-Misc
-Paralympics	O	I-Misc	B-Misc
+Namibian	B-Misc	B-NORP
+Paralympics	I-Misc	B-Misc
 delegation	O
 to	O
 Birmingham	B-Location
@@ -456,9 +456,9 @@ the	O
 of	I-Misc
 June	I-Misc
 the	O
-Namibia	B-Location	B-Organization
-Paralympic	O	I-Organization
-Committee	O	I-Organization
+Namibia	B-Organization	B-Location
+Paralympic	I-Organization
+Committee	I-Organization
 published	O
 a	O
 letter	O
@@ -657,9 +657,9 @@ his	O
 accreditation	O
 to	O
 the	O
-London	B-Location	B-Misc
-Olympic	O	I-Misc
-Games	O	I-Misc
+London	B-Misc	B-Location
+Olympic	I-Misc
+Games	I-Misc
 in	O
 2012	B-Misc
 was	O

@@ -1,17 +1,17 @@
 https://www.jpost.com/israel-news/article-713351	O
 
-Tel	B-Location	B-Facility
-Aviv	I-Location	I-Facility
-’	O	I-Facility
-s	O	I-Facility
-Ichilov	O	I-Facility
-Hospital	O	I-Facility
+Tel	B-Facility	B-Location
+Aviv	I-Facility	I-Location
+’	I-Facility
+s	I-Facility
+Ichilov	I-Facility
+Hospital	I-Facility
 inaugurated	O
 the	O
-Sylvan	B-Person	B-Facility
-Adams	I-Person	I-Facility
-Emergency	O	I-Facility
-Hospital	O	I-Facility
+Sylvan	B-Facility	B-Person
+Adams	I-Facility	I-Person
+Emergency	I-Facility
+Hospital	I-Facility
 on	O
 Thursday	B-Misc
 with	O

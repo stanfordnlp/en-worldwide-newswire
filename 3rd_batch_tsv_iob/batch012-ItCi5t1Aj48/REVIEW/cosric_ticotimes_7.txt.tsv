@@ -160,9 +160,9 @@ sold	O
 a	O
 work	O
 at	O
-Christie	B-Person	B-Organization
-’	O	I-Organization
-s	O	I-Organization
+Christie	B-Organization	B-Person
+’	I-Organization
+s	I-Organization
 titled	O
 “	O
 Edmond	B-Misc
@@ -771,10 +771,10 @@ of	O
 Paris	B-Location
 ’	O
 s	O
-Pompidou	B-Person	B-Location
-Centre	O	I-Location
-—	O	I-Location
-Europe	O	I-Location
+Pompidou	B-Location	B-Person
+Centre	I-Location
+—	I-Location
+Europe	I-Location
 ’	O
 s	O
 largest	O

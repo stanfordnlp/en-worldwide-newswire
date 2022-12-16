@@ -12,9 +12,9 @@ is	O
 nominated	O
 for	O
 a	O
-Canadian	B-NORP	B-Misc
-Screen	O	I-Misc
-Award	O	I-Misc
+Canadian	B-Misc	B-NORP
+Screen	I-Misc
+Award	I-Misc
 for	O
 best	O
 animated	O
@@ -320,15 +320,15 @@ Short	I-Misc
 Film	I-Misc
 at	O
 the	O
-Toronto	B-Location	B-Misc
-International	O	I-Misc
-Film	O	I-Misc
-Festival	O	I-Misc
+Toronto	B-Misc	B-Location
+International	I-Misc
+Film	I-Misc
+Festival	I-Misc
 .	O
 The	O
-Canadian	B-NORP	B-Misc
-Screen	O	I-Misc
-Awards	O	I-Misc
+Canadian	B-Misc	B-NORP
+Screen	I-Misc
+Awards	I-Misc
 will	O
 be	O
 announced	O

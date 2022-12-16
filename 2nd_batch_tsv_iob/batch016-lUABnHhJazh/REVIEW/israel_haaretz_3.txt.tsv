@@ -1369,8 +1369,8 @@ city	O
 s	O
 Bnei	B-Location	B-Location
 Zion	I-Location	I-Location
-Medical	O	I-Location
-Center	O	I-Location
+Medical	I-Location
+Center	I-Location
 .	O
 
 Wilbushevitz	B-Person

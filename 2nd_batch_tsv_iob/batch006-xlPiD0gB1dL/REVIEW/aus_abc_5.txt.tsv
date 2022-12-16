@@ -584,9 +584,9 @@ the	O
 site	O
 ,	O
 where	O
-Redfern	B-Location	B-Organization
-Public	O	I-Organization
-School	O	I-Organization
+Redfern	B-Organization	B-Location
+Public	I-Organization
+School	I-Organization
 had	O
 operated	O
 for	O

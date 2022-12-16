@@ -260,14 +260,14 @@ by	O
 criminals	O
 at	O
 the	O
-Be'er	B-Location	B-Facility
-Yaakov	I-Location	I-Facility
--	O	I-Facility
-Nes	O	I-Facility
-Tziona	O	I-Facility
-Mental	O	I-Facility
-Health	O	I-Facility
-Center	O	I-Facility
+Be'er	B-Facility	B-Location
+Yaakov	I-Facility	I-Location
+-	I-Facility
+Nes	I-Facility
+Tziona	I-Facility
+Mental	I-Facility
+Health	I-Facility
+Center	I-Facility
 .	O
 
 The	O
@@ -397,12 +397,12 @@ then	O
 director	O
 of	O
 the	O
-Be	B-Location	B-Facility
-’	I-Location	I-Facility
-er	I-Location	I-Facility
-Yaakov	I-Location	I-Facility
-psychiatric	O	I-Facility
-hospital	O	I-Facility
+Be	B-Facility	B-Location
+’	I-Facility	I-Location
+er	I-Facility	I-Location
+Yaakov	I-Facility	I-Location
+psychiatric	I-Facility
+hospital	I-Facility
 ,	O
 Prof	O
 .	O

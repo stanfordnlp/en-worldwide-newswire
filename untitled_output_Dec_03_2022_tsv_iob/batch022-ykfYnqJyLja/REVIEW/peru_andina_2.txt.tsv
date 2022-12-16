@@ -110,8 +110,8 @@ the	O
 willingness	O
 of	O
 the	O
-Peruvian	B-NORP	B-Organization
-Government	O	I-Organization
+Peruvian	B-Organization	B-NORP
+Government	I-Organization
 to	O
 receive	O
 the	O
@@ -143,10 +143,10 @@ the	O
 opening	O
 ceremony	O
 of	O
-Lima	B-Location	B-Misc
-International	O	I-Misc
-Book	O	I-Misc
-Fair	O	I-Misc
+Lima	B-Misc	B-Location
+International	I-Misc
+Book	I-Misc
+Fair	I-Misc
 ,	O
 where	O
 his	O
@@ -180,8 +180,8 @@ can	O
 comply	O
 with	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 rules	O
 regarding	O
 the	O

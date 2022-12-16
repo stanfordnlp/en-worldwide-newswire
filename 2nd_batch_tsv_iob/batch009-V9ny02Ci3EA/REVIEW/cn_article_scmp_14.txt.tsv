@@ -454,10 +454,10 @@ are	O
 spread	O
 across	O
 the	O
-Zhengzhou	B-Facility	B-Location
-Airport	I-Facility	I-Location
-Economy	O	I-Location
-Zone	O	I-Location
+Zhengzhou	B-Location	B-Facility
+Airport	I-Location	I-Facility
+Economy	I-Location
+Zone	I-Location
 ,	O
 Zhengzhou	B-Location
 Economic	I-Location
@@ -501,10 +501,10 @@ s	O
 plant	O
 inside	O
 the	O
-Zhengzhou	B-Facility	B-Location
-Airport	I-Facility	I-Location
-Economy	O	I-Location
-Zone	O	I-Location
+Zhengzhou	B-Location	B-Facility
+Airport	I-Location	I-Facility
+Economy	I-Location
+Zone	I-Location
 usually	O
 produces	O
 60	O

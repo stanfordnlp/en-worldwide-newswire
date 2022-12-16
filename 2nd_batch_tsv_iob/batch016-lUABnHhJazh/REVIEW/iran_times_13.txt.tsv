@@ -35,8 +35,8 @@ create	O
 a	O
 rapprochement	O
 between	O
-Arab	B-NORP	B-Location
-states	O	I-Location
+Arab	B-Location	B-NORP
+states	I-Location
 and	O
 Israel	B-Location
 will	O
@@ -66,8 +66,8 @@ in	O
 its	O
 occupation	O
 of	O
-Palestinian	B-NORP	B-Location
-lands	O	I-Location
+Palestinian	B-Location	B-NORP
+lands	I-Location
 .	O
 
 “	O
@@ -100,8 +100,8 @@ Qandil	I-Person
 Abbas	I-Person
 tells	O
 the	O
-Tehran	B-Location	B-Organization
-Times	O	I-Organization
+Tehran	B-Organization	B-Location
+Times	I-Organization
 .	O
 
 Professor	O
@@ -906,8 +906,8 @@ then	O
 a	O
 situation	O
 like	O
-Arab	B-NORP	B-Misc
-Spring	O	I-Misc
+Arab	B-Misc	B-NORP
+Spring	I-Misc
 can	O
 re	O
 -	O

@@ -16,17 +16,17 @@ liner	O
 route	O
 linking	O
 Taicang	B-Location	B-Location
-in	O	I-Location
-east	O	I-Location
-China	O	I-Location	B-Location	B-Location
-'s	O	I-Location	O	I-Location
-Jiangsu	O	I-Location	O	I-Location
-Province	O	I-Location	O	I-Location
+in	I-Location
+east	I-Location
+China	I-Location	B-Location	B-Location
+'s	I-Location	I-Location
+Jiangsu	I-Location	I-Location
+Province	I-Location	I-Location
 and	O
 Rotterdam	B-Location	B-Location
-in	O	I-Location
-the	O	I-Location
-Netherlands	O	I-Location	B-Location
+in	I-Location
+the	I-Location
+Netherlands	I-Location	B-Location
 was	O
 launched	O
 on	O
@@ -35,10 +35,10 @@ Sunday	B-Misc
 according	O
 to	O
 the	O
-Yangtze	B-Location	B-Organization
-River	I-Location	I-Organization
-Pilotage	O	I-Organization
-Center	O	I-Organization
+Yangtze	B-Organization	B-Location
+River	I-Organization	I-Location
+Pilotage	I-Organization
+Center	I-Organization
 .	O
 
 The	O
@@ -135,10 +135,10 @@ is	O
 a	O
 subsidiary	O
 of	O
-German	B-NORP	B-Organization
-supermarket	O	I-Organization
-chain	O	I-Organization
-Lidl	O	I-Organization
+German	B-Organization	B-NORP
+supermarket	I-Organization
+chain	I-Organization
+Lidl	I-Organization
 .	O
 In	O
 order	O

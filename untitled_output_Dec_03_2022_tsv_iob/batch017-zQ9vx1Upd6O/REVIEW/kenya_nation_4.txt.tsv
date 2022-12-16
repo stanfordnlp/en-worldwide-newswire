@@ -356,9 +356,9 @@ will	O
 partner	O
 with	O
 the	O
-Kenya	B-Location	B-Organization
-Rugby	O	I-Organization
-Union	O	I-Organization
+Kenya	B-Organization	B-Location
+Rugby	I-Organization
+Union	I-Organization
 (	O
 KRU	B-Organization
 )	O

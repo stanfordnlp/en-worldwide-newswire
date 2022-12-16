@@ -60,9 +60,9 @@ the	O
 entrance	O
 to	O
 the	O
-Sydney	B-Location	B-Facility
-Harbour	O	I-Facility
-Bridge	O	I-Facility
+Sydney	B-Facility	B-Location
+Harbour	I-Facility
+Bridge	I-Facility
 tunnel	O
 and	O
 locked	O
@@ -116,9 +116,9 @@ charged	O
 with	O
 entering	O
 the	O
-Sydney	B-Location	B-Facility
-Harbour	O	I-Facility
-Bridge	O	I-Facility
+Sydney	B-Facility	B-Location
+Harbour	I-Facility
+Bridge	I-Facility
 and	O
 disrupting	O
 vehicles	O
@@ -132,10 +132,10 @@ path	O
 On	O
 Tuesday	B-Misc
 ,	O
-Sydney	B-Location	B-Organization
-Downing	O	I-Organization
-Centre	O	I-Organization
-Court	O	I-Organization
+Sydney	B-Organization	B-Location
+Downing	I-Organization
+Centre	I-Organization
+Court	I-Organization
 was	O
 told	O
 the	O

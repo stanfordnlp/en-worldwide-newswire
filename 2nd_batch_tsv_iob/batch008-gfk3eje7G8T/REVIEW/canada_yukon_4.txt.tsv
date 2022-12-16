@@ -367,9 +367,9 @@ Isaac	B-Person
 is	O
 from	O
 the	O
-Okanagan	B-NORP	B-Organization
-Indian	O	I-Organization	B-NORP
-Band	O	I-Organization
+Okanagan	B-Organization	B-NORP
+Indian	I-Organization	B-NORP
+Band	I-Organization
 .	O
 Her	O
 mother	O
@@ -579,13 +579,13 @@ a	O
 tourism	O
 officer	O
 for	O
-Yukon	B-Location	B-Organization
-First	O	I-Organization
-Nations	O	I-Organization
-Culture	O	I-Organization
-and	O	I-Organization
-Tourism	O	I-Organization
-Association	O	I-Organization
+Yukon	B-Organization	B-Location
+First	I-Organization
+Nations	I-Organization
+Culture	I-Organization
+and	I-Organization
+Tourism	I-Organization
+Association	I-Organization
 ,	O
 said	O
 she	O

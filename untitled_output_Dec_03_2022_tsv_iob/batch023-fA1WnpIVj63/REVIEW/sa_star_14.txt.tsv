@@ -166,9 +166,9 @@ you	O
 go	O
 to	O
 the	O
-Johannesburg	B-Location	B-Misc
-Stock	O	I-Misc
-Exchange	O	I-Misc
+Johannesburg	B-Misc	B-Location
+Stock	I-Misc
+Exchange	I-Misc
 ,	O
 they	O
 are	O
@@ -517,10 +517,10 @@ of	O
 land	O
 near	O
 the	O
-Johannesburg	B-Location	B-Organization
-Magistrate	O	I-Organization
-'s	O	I-Organization
-Court	O	I-Organization
+Johannesburg	B-Organization	B-Location
+Magistrate	I-Organization
+'s	I-Organization
+Court	I-Organization
 (	O
 Westgate	B-Location
 )	O

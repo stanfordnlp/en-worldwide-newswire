@@ -109,9 +109,9 @@ an	O
 interview	O
 with	O
 the	O
-Ghana	B-Location	B-Organization
-News	O	I-Organization
-Agency	O	I-Organization
+Ghana	B-Organization	B-Location
+News	I-Organization
+Agency	I-Organization
 in	O
 Tema	B-Location
 .	O

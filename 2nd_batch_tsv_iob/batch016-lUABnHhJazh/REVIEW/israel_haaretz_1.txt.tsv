@@ -471,9 +471,9 @@ the	O
 head	O
 of	O
 the	O
-Turkish	B-NORP	B-Organization
-intelligence	O	I-Organization
-agency	O	I-Organization
+Turkish	B-Organization	B-NORP
+intelligence	I-Organization
+agency	I-Organization
 who	O
 was	O
 working	O
@@ -1119,11 +1119,11 @@ with	O
 members	O
 of	O
 the	O
-U	B-Location	B-Organization
-.	I-Location	I-Organization
-S	I-Location	I-Organization
-.	I-Location	I-Organization
-Congress	O	I-Organization
+U	B-Organization	B-Location
+.	I-Organization	I-Location
+S	I-Organization	I-Location
+.	I-Organization	I-Location
+Congress	I-Organization
 without	O
 informing	O
 him	O
@@ -1416,11 +1416,11 @@ anything	O
 he	O
 wants	O
 with	O
-U	B-Location	B-NORP
-.	I-Location	I-NORP
-S	I-Location	I-NORP
-.	I-Location	I-NORP
-Congress	O	I-NORP
+U	B-NORP	B-Location
+.	I-NORP	I-Location
+S	I-NORP	I-Location
+.	I-NORP	I-Location
+Congress	I-NORP
 members	O
 .	O
 Bennett	B-Person
@@ -1724,11 +1724,11 @@ Israel	B-Location
 
 Prime	O
 Minister	O
-Yair	B-Person	B-Organization
-Lapid	I-Person	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-bureau	O	I-Organization
+Yair	B-Organization	B-Person
+Lapid	I-Organization	I-Person
+’	I-Organization
+s	I-Organization
+bureau	I-Organization
 responded	O
 :	O
 “	O

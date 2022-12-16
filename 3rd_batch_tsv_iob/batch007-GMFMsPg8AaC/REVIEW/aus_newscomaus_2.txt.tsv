@@ -1,7 +1,7 @@
 https://www.news.com.au/national/politics/adam-bandt-will-use-national-press-club-address-to-make-bold-statement-about-greens-labor/news-story/2e09c8dcfd4172a89662b2f4c55047ac	O
 
-Australian	B-NORP	B-Organization
-Greens	O	I-Organization
+Australian	B-Organization	B-NORP
+Greens	I-Organization
 leader	O
 Adam	B-Person
 Bandt	I-Person
@@ -296,8 +296,8 @@ to	O
 offer	O
 solutions	O
 the	O
-Albanese	B-Person	B-Organization
-government	O	I-Organization
+Albanese	B-Organization	B-Person
+government	I-Organization
 could	O
 take	O
 on	O

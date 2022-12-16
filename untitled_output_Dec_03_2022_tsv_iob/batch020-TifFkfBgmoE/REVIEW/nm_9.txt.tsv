@@ -328,11 +328,11 @@ the	O
 negotiations	O
 on	O
 the	O
-African	B-NORP	B-Organization
-Continental	O	I-Organization
-Free	O	I-Organization
-Trade	O	I-Organization
-Area	O	I-Organization
+African	B-Organization	B-NORP
+Continental	I-Organization
+Free	I-Organization
+Trade	I-Organization
+Area	I-Organization
 (	O
 AfCFTA	B-Organization
 )	O
@@ -872,10 +872,10 @@ secretary	O
 general	O
 of	O
 the	O
-Namibia	B-Location	B-Organization
-Employers	O	I-Organization
-'	O	I-Organization
-Federation	O	I-Organization
+Namibia	B-Organization	B-Location
+Employers	I-Organization
+'	I-Organization
+Federation	I-Organization
 (	O
 NEF	B-Organization
 )	O

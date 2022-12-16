@@ -1,9 +1,9 @@
 https://en.mercopress.com/2022/06/17/chilavert-launches-bid-for-president-of-paraguay	O
 
 Former	O
-Paraguay	B-Location	B-Organization
-national	O	I-Organization
-team	O	I-Organization
+Paraguay	B-Organization	B-Location
+national	I-Organization
+team	I-Organization
 captain	O
 José	B-Person
 Luis	I-Person
@@ -301,10 +301,10 @@ acts	O
 of	O
 defamation	O
 against	O
-South	B-NORP	B-Organization
-American	I-NORP	I-Organization
-Football	O	I-Organization
-Confederation	O	I-Organization
+South	B-Organization	B-NORP
+American	I-Organization	I-NORP
+Football	I-Organization
+Confederation	I-Organization
 (	O
 Conmebol	B-Organization
 )	O

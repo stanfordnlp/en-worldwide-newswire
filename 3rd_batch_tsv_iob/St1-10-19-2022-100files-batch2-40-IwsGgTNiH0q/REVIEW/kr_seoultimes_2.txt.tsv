@@ -91,8 +91,8 @@ recent	O
 interview	O
 with	O
 The	O
-Seoul	B-Location	B-Organization
-Times	O	I-Organization
+Seoul	B-Organization	B-Location
+Times	I-Organization
 at	O
 his	O
 office	O
@@ -480,12 +480,12 @@ serves	O
 as	O
 president	O
 the	O
-Korea	B-Location	B-Organization
-Kumdo	O	I-Organization
-(	O	I-Organization
-Swordsmanship	O	I-Organization
-)	O	I-Organization
-Association	O	I-Organization
+Korea	B-Organization	B-Location
+Kumdo	I-Organization
+(	I-Organization
+Swordsmanship	I-Organization
+)	I-Organization
+Association	I-Organization
 ,	O
 contributing	O
 to	O

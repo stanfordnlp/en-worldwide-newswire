@@ -426,10 +426,10 @@ which	O
 each	O
 year	O
 managed	O
-US	B-Location	B-Money
-$	O	I-Money
-25.5	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+25.5	I-Money
+million	I-Money
 dollars	O
 to	O
 benefit	O

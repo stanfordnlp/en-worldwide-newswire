@@ -93,9 +93,9 @@ a	O
 press	O
 statement	O
 ,	O
-Doha	B-Location	B-Organization
-Fire	O	I-Organization
-Station	O	I-Organization
+Doha	B-Organization	B-Location
+Fire	I-Organization
+Station	I-Organization
 director	O
 Khalifa	B-Person
 al	I-Person

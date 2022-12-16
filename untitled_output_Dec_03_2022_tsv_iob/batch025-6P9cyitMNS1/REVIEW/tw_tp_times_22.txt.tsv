@@ -101,8 +101,8 @@ a	O
 report	O
 by	O
 the	O
-European	B-NORP	B-Organization
-Parliament	O	I-Organization
+European	B-Organization	B-NORP
+Parliament	I-Organization
 on	O
 Wednesday	B-Misc
 that	O
@@ -196,9 +196,9 @@ has	O
 changed	O
 ,	O
 the	O
-Democratic	B-NORP	B-Organization
-Progressive	O	I-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Progressive	I-Organization
+Party	I-Organization
 should	O
 also	O
 re	O
@@ -250,10 +250,10 @@ nation	O
 and	O
 asked	O
 how	O
-Taiwan	B-Location	B-Organization
-Semiconductor	O	I-Organization
-Manufacturing	O	I-Organization
-Co	O	I-Organization
+Taiwan	B-Organization	B-Location
+Semiconductor	I-Organization
+Manufacturing	I-Organization
+Co	I-Organization
 would	O
 be	O
 able	O
@@ -405,9 +405,9 @@ she	O
 said	O
 .	O
 
-Taiwan	B-Location	B-Organization
-Power	O	I-Organization
-Co	O	I-Organization
+Taiwan	B-Organization	B-Location
+Power	I-Organization
+Co	I-Organization
 in	O
 its	O
 modified	O

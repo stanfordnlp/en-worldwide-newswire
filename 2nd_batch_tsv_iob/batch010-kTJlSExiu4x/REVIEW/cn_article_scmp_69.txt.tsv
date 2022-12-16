@@ -555,13 +555,13 @@ the	O
 Ruijin	B-Organization
 Hospital	I-Organization
 ,	O
-Shanghai	B-Location	B-Organization
-Jiao	O	I-Organization
-Tong	O	I-Organization
-University	O	I-Organization
-School	O	I-Organization
-of	O	I-Organization
-Medicine	O	I-Organization
+Shanghai	B-Organization	B-Location
+Jiao	I-Organization
+Tong	I-Organization
+University	I-Organization
+School	I-Organization
+of	I-Organization
+Medicine	I-Organization
 ,	O
 said	O
 it	O

@@ -43,10 +43,10 @@ of	O
 according	O
 to	O
 the	O
-Jordan	B-Location	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Industry	O	I-Organization
+Jordan	B-Organization	B-Location
+Chamber	I-Organization
+of	I-Organization
+Industry	I-Organization
 (	O
 JCI	B-Organization
 )	O
@@ -61,9 +61,9 @@ statement	O
 cited	O
 by	O
 the	O
-Jordan	B-Location	B-Organization
-News	O	I-Organization
-Agency	O	I-Organization
+Jordan	B-Organization	B-Location
+News	I-Organization
+Agency	I-Organization
 ,	O
 Petra	B-Location
 ,	O

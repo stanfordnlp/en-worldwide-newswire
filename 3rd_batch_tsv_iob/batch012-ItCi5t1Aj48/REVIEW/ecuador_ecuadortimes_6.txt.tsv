@@ -173,12 +173,12 @@ years	O
 studies	O
 by	O
 the	O
-Latin	B-NORP	B-Organization
-American	I-NORP	I-Organization
-and	O	I-Organization
-Caribbean	O	I-Organization	B-NORP
-Demographic	O	I-Organization
-Center	O	I-Organization
+Latin	B-Organization	B-NORP
+American	I-Organization	I-NORP
+and	I-Organization
+Caribbean	I-Organization	B-NORP
+Demographic	I-Organization
+Center	I-Organization
 (	O
 Celade	B-Facility
 )	O

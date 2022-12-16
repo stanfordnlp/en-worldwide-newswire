@@ -575,9 +575,9 @@ first	O
 Chair	O
 of	O
 the	O
-Inuvialuit	B-NORP	B-Organization
-Regional	O	I-Organization
-Corporation	O	I-Organization
+Inuvialuit	B-Organization	B-NORP
+Regional	I-Organization
+Corporation	I-Organization
 .	O
 
 Pokiak	B-Person

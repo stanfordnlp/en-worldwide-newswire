@@ -405,8 +405,8 @@ difficult	O
 climate	O
 for	O
 the	O
-Algerian	B-NORP	B-Organization
-press	O	I-Organization
+Algerian	B-Organization	B-NORP
+press	I-Organization
 ,	O
 with	O
 a	O

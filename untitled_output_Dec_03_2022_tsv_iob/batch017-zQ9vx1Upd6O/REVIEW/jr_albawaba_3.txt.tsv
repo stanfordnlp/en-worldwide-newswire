@@ -66,10 +66,10 @@ of	O
 the	O
 United	B-Organization	B-Organization
 Nation	I-Organization	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-General	O	I-Organization
-Assembly	O	I-Organization
+’	I-Organization
+s	I-Organization
+General	I-Organization
+Assembly	I-Organization
 meetings	O
 in	O
 September	B-Misc
@@ -106,9 +106,9 @@ meeting	O
 ,	O
 held	O
 at	O
-Al	B-Person	B-Location
-Husseiniya	I-Person	I-Location
-Palace	O	I-Location
+Al	B-Location	B-Person
+Husseiniya	I-Location	I-Person
+Palace	I-Location
 and	O
 attended	O
 by	O
@@ -285,9 +285,9 @@ keenness	O
 on	O
 including	O
 the	O
-Palestinian	B-NORP	B-Organization
-National	O	I-Organization
-Authority	O	I-Organization
+Palestinian	B-Organization	B-NORP
+National	I-Organization
+Authority	I-Organization
 in	O
 regional	O
 projects	O
@@ -345,9 +345,9 @@ Secretary	O
 General	O
 of	O
 the	O
-Palestine	B-Location	B-Organization
-Liberation	O	I-Organization
-Organisation	O	I-Organization
+Palestine	B-Organization	B-Location
+Liberation	I-Organization
+Organisation	I-Organization
 ’	O
 s	O
 Executive	O

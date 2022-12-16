@@ -36,11 +36,11 @@ Africa	I-Location
 Division	O
 of	O
 the	O
-Indian	B-NORP	B-Organization
-Ministry	O	I-Organization
-of	O	I-Organization
-External	O	I-Organization
-Affairs	O	I-Organization
+Indian	B-Organization	B-NORP
+Ministry	I-Organization
+of	I-Organization
+External	I-Organization
+Affairs	I-Organization
 ,	O
 Sunil	B-Person
 Kumar	I-Person

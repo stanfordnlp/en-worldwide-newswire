@@ -377,8 +377,8 @@ be	O
 honored	O
 by	O
 the	O
-Catholic	B-NORP	B-Organization
-Church	O	I-Organization
+Catholic	B-Organization	B-NORP
+Church	I-Organization
 ,	O
 of	O
 which	O
@@ -410,11 +410,11 @@ one	O
 staunch	O
 member	O
 of	O
-St	B-Person	B-Organization
-.	I-Person	I-Organization
-KIZITO	I-Person	I-Organization
-Catholic	O	I-Organization	B-NORP
-Church	O	I-Organization
+St	B-Organization	B-Person
+.	I-Organization	I-Person
+KIZITO	I-Organization	I-Person
+Catholic	I-Organization	B-NORP
+Church	I-Organization
 ,	O
 where	O
 Mrs	O

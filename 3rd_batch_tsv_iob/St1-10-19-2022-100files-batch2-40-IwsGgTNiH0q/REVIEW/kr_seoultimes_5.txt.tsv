@@ -262,10 +262,10 @@ arts	O
 He	O
 graduated	O
 from	O
-Korea	B-Location	B-Organization
-National	O	I-Organization
-Sport	O	I-Organization
-University	O	I-Organization
+Korea	B-Organization	B-Location
+National	I-Organization
+Sport	I-Organization
+University	I-Organization
 in	O
 Seoul	B-Location
 .	O
@@ -310,8 +310,8 @@ anybody	O
 .	O
 
 The	O
-Seoul	B-Location	B-Organization
-Times	O	I-Organization
+Seoul	B-Organization	B-Location
+Times	I-Organization
 recently	O
 met	O
 Chairman	O
@@ -350,8 +350,8 @@ he	O
 had	O
 with	O
 The	O
-Seoul	B-Location	B-Organization
-Times	O	I-Organization
+Seoul	B-Organization	B-Location
+Times	I-Organization
 .	O
 
 Q	O
@@ -588,9 +588,9 @@ luxury	O
 townhouse	O
 dubbed	O
 "	O
-Jukjeon	B-Location	B-Facility
-Terrace	O	I-Facility
-House	O	I-Facility
+Jukjeon	B-Facility	B-Location
+Terrace	I-Facility
+House	I-Facility
 "	O
 located	O
 in	O
@@ -610,10 +610,10 @@ its	O
 land	O
 through	O
 the	O
-Korea	B-Location	B-Organization
-Deposit	O	I-Organization
-Insurance	O	I-Organization
-Corporation	O	I-Organization
+Korea	B-Organization	B-Location
+Deposit	I-Organization
+Insurance	I-Organization
+Corporation	I-Organization
 (	O
 KDIC	B-Organization
 )	O

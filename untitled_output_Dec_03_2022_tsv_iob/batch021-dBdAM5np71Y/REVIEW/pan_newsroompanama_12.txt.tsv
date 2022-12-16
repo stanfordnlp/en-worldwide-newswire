@@ -230,11 +230,11 @@ Fernández	I-Person
 ,	O
 from	O
 the	O
-Panamanian	B-NORP	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Solar	O	I-Organization
-Energy	O	I-Organization
+Panamanian	B-Organization	B-NORP
+Chamber	I-Organization
+of	I-Organization
+Solar	I-Organization
+Energy	I-Organization
 ,	O
 confirmed	O
 that	O

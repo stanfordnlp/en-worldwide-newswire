@@ -55,9 +55,9 @@ University	I-Organization
 NASA	B-Organization
 ‘	O
 s	O
-Johnson	B-Person	B-Location
-Space	O	I-Location
-Center	O	I-Location
+Johnson	B-Location	B-Person
+Space	I-Location
+Center	I-Location
 and	O
 UNESCO	B-Organization
 .	O

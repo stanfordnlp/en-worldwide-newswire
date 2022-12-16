@@ -52,9 +52,9 @@ for	O
 defamation	O
 in	O
 the	O
-NSW	B-Location	B-Organization
-Federal	O	I-Organization
-Court	O	I-Organization
+NSW	B-Organization	B-Location
+Federal	I-Organization
+Court	I-Organization
 over	O
 a	O
 series	O
@@ -749,8 +749,8 @@ James	B-Person
 Bond	I-Person
 film	O
 and	O
-Nazi	B-NORP	B-Organization
-Germany	O	I-Organization	B-Location
+Nazi	B-Organization	B-NORP
+Germany	I-Organization	B-Location
 .	O
 
 “	O
@@ -822,8 +822,8 @@ about	O
 what	O
 happened	O
 in	O
-Nazi	B-NORP	B-Organization
-Germany	O	I-Organization	B-Location
+Nazi	B-Organization	B-NORP
+Germany	I-Organization	B-Location
 and	O
 how	O
 that	O
@@ -1263,8 +1263,8 @@ China	B-Location
 North	B-Location
 Korea	I-Location
 and	O
-Nazi	B-NORP	B-Organization
-Germany	O	I-Organization	B-Location
+Nazi	B-Organization	B-NORP
+Germany	I-Organization	B-Location
 .	O
 
 “	O

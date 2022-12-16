@@ -13,11 +13,11 @@ Kong	I-Location
 -	O
 in	O
 -	O
-East	B-NORP	B-Misc
--	I-NORP	I-Misc
-Asian	I-NORP	I-Misc
--	O	I-Misc
-Championship	O	I-Misc
+East	B-Misc	B-NORP
+-	I-Misc	I-NORP
+Asian	I-Misc	I-NORP
+-	I-Misc
+Championship	I-Misc
 -	O
 opener	O
 
@@ -35,9 +35,9 @@ opening	O
 game	O
 of	O
 the	O
-East	B-NORP	B-Misc
-Asian	I-NORP	I-Misc
-Championship	O	I-Misc
+East	B-Misc	B-NORP
+Asian	I-Misc	I-NORP
+Championship	I-Misc
 on	O
 Tuesday	B-Misc
 despite	O
@@ -48,10 +48,10 @@ made	O
 up	O
 entirely	O
 of	O
-J	B-Organization	B-NORP
--	I-Organization	I-NORP
-League	I-Organization	I-NORP
-players	O	I-NORP
+J	B-NORP	B-Organization
+-	I-NORP	I-Organization
+League	I-NORP	I-Organization
+players	I-NORP
 .	O
 
 Yuki	B-Person
@@ -319,9 +319,9 @@ Rica	I-Location
 .	O
 
 The	O
-East	B-NORP	B-Misc
-Asian	I-NORP	I-Misc
-Championship	O	I-Misc
+East	B-Misc	B-NORP
+Asian	I-Misc	I-NORP
+Championship	I-Misc
 will	O
 continue	O
 on	O

@@ -144,8 +144,8 @@ the	O
 head	O
 of	O
 the	O
-European	B-NORP	B-Organization
-commission	O	I-Organization
+European	B-Organization	B-NORP
+commission	I-Organization
 in	O
 Ethiopia	B-Location
 ,	O

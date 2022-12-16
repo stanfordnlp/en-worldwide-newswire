@@ -23,10 +23,10 @@ report	O
 issued	O
 by	O
 the	O
-Egyptian	B-NORP	B-Organization
-Association	O	I-Organization
-against	O	I-Organization
-Torture	O	I-Organization
+Egyptian	B-Organization	B-NORP
+Association	I-Organization
+against	I-Organization
+Torture	I-Organization
 (	O
 EAAT	B-Organization
 )	O
@@ -520,11 +520,11 @@ organizations	O
 to	O
 form	O
 the	O
-Egyptian	B-NORP	B-Organization
-Human	O	I-Organization
-Rights	O	I-Organization
-Organizations	O	I-Organization
-Collective	O	I-Organization
+Egyptian	B-Organization	B-NORP
+Human	I-Organization
+Rights	I-Organization
+Organizations	I-Organization
+Collective	I-Organization
 .	O
 Representatives	O
 hope	O

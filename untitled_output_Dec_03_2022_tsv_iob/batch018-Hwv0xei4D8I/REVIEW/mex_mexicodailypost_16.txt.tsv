@@ -15,9 +15,9 @@ indeed	O
 resign	O
 from	O
 the	O
-Mexican	B-NORP	B-Organization
-national	O	I-Organization
-team	O	I-Organization
+Mexican	B-Organization	B-NORP
+national	I-Organization
+team	I-Organization
 ,	O
 criticized	O
 and	O
@@ -98,16 +98,16 @@ current	O
 coach	O
 of	O
 the	O
-Argentine	B-NORP	B-Organization
-national	O	I-Organization
-team	O	I-Organization
+Argentine	B-Organization	B-NORP
+national	I-Organization
+team	I-Organization
 .	O
 
 More	O
 on	O
-Mexican	B-NORP	B-Organization
-national	O	I-Organization
-team	O	I-Organization
+Mexican	B-Organization	B-NORP
+national	I-Organization
+team	I-Organization
 :	O
 
 He	O

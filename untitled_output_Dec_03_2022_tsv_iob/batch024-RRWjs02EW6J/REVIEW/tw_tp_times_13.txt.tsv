@@ -40,12 +40,12 @@ Hsieh	I-Person
 謝長廷	O
 )	O
 visited	O
-Kasama	B-Location	B-Organization
-Municipal	O	I-Organization
-Inada	O	I-Organization
-Junior	O	I-Organization
-High	O	I-Organization
-School	O	I-Organization
+Kasama	B-Organization	B-Location
+Municipal	I-Organization
+Inada	I-Organization
+Junior	I-Organization
+High	I-Organization
+School	I-Organization
 ,	O
 which	O
 is	O
@@ -204,9 +204,9 @@ agency	O
 cooperated	O
 with	O
 the	O
-Taiwan	B-Location	B-Organization
-Representative	O	I-Organization
-Office	O	I-Organization
+Taiwan	B-Organization	B-Location
+Representative	I-Organization
+Office	I-Organization
 of	O
 Kasama	B-Location
 City	I-Location

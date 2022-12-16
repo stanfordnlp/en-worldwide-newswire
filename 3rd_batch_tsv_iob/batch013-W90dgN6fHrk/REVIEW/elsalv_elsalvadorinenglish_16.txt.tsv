@@ -9,12 +9,12 @@ El	I-Organization	B-Location
 Salvador	I-Organization	I-Location
 and	O
 the	O
-Central	B-NORP	B-Organization
-American	I-NORP	I-Organization
-Bank	O	I-Organization
-for	O	I-Organization
-Economic	O	I-Organization
-Integration	O	I-Organization
+Central	B-Organization	B-NORP
+American	I-Organization	I-NORP
+Bank	I-Organization
+for	I-Organization
+Economic	I-Organization
+Integration	I-Organization
 (	O
 CABEI	B-Organization
 )	O
@@ -25,8 +25,8 @@ with	O
 a	O
 delegation	O
 from	O
-Korea	B-Location	B-Organization
-Eximbank	O	I-Organization
+Korea	B-Organization	B-Location
+Eximbank	I-Organization
 intending	O
 to	O
 discuss	O
@@ -187,8 +187,8 @@ Herrera	I-Person
 ,	O
 to	O
 the	O
-Korea	B-Location	B-Organization
-Eximbank	O	I-Organization
+Korea	B-Organization	B-Location
+Eximbank	I-Organization
 delegation	O
 .	O
 
@@ -328,8 +328,8 @@ Salvador	I-Organization	I-Person
 .	O
 
 «	O
-Korea	B-Location	B-Organization
-Eximbank	O	I-Organization
+Korea	B-Organization	B-Location
+Eximbank	I-Organization
 has	O
 held	O
 talks	O
@@ -378,8 +378,8 @@ commented	O
 We	O
 hope	O
 that	O
-Korea	B-Location	B-Organization
-Eximbank	O	I-Organization
+Korea	B-Organization	B-Location
+Eximbank	I-Organization
 and	O
 Korea	B-Location
 will	O

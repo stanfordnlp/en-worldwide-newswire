@@ -16,10 +16,10 @@ ATO	B-Organization
 )	O
 and	O
 the	O
-SA	B-Location	B-Misc
-Informal	O	I-Misc
-Traders	O	I-Misc
-Forum	O	I-Misc
+SA	B-Misc	B-Location
+Informal	I-Misc
+Traders	I-Misc
+Forum	I-Misc
 (	O
 SAITF	B-Misc
 )	O
@@ -41,9 +41,9 @@ from	O
 their	O
 stalls	O
 on	O
-De	B-Person	B-Location
-Villiers	I-Person	I-Location
-Street	O	I-Location
+De	B-Location	B-Person
+Villiers	I-Location	I-Person
+Street	I-Location
 in	O
 town	O
 .	O
@@ -98,9 +98,9 @@ permits	O
 for	O
 trading	O
 along	O
-De	B-Person	B-Location
-Villiers	I-Person	I-Location
-Street	O	I-Location
+De	B-Location	B-Person
+Villiers	I-Location	I-Person
+Street	I-Location
 and	O
 has	O
 called	O
@@ -209,9 +209,9 @@ have	O
 been	O
 working	O
 on	O
-De	B-Person	B-Location
-Villiers	I-Person	I-Location
-Street	O	I-Location
+De	B-Location	B-Person
+Villiers	I-Location	I-Person
+Street	I-Location
 since	O
 2012	B-Misc
 and	O

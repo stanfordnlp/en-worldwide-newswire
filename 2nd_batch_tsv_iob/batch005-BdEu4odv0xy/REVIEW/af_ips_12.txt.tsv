@@ -152,11 +152,11 @@ the	O
 President	O
 of	O
 the	O
-Kawral	B-NORP	B-Organization
-Women	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Group	O	I-Organization
+Kawral	B-Organization	B-NORP
+Women	I-Organization
+’	I-Organization
+s	I-Organization
+Group	I-Organization
 of	O
 Gourel	B-Location
 Baydi	I-Location
@@ -842,16 +842,16 @@ rice	O
 varieties	O
 .	O
 The	O
-Senegalese	B-NORP	B-Organization
-research	O	I-Organization
-organization	O	I-Organization
+Senegalese	B-Organization	B-NORP
+research	I-Organization
+organization	I-Organization
 ,	O
 ISRA	B-Organization
 and	O
 the	O
-Africa	B-Location	B-Organization
-Rice	O	I-Organization
-Centre	O	I-Organization
+Africa	B-Organization	B-Location
+Rice	I-Organization
+Centre	I-Organization
 developed	O
 the	O
 rice	O

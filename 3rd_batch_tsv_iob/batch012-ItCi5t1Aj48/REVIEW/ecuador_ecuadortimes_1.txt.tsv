@@ -1017,8 +1017,8 @@ Madison	B-Organization
 s	O
 accounts	O
 at	O
-Deutsche	B-NORP	B-Organization
-Bank	O	I-Organization
+Deutsche	B-Organization	B-NORP
+Bank	I-Organization
 of	O
 New	B-Location
 York	I-Location
@@ -1161,9 +1161,9 @@ has	O
 appeared	O
 before	O
 the	O
-South	B-Location	B-Organization
-Florida	I-Location	I-Organization
-Court	O	I-Organization
+South	B-Organization	B-Location
+Florida	I-Organization	I-Location
+Court	I-Organization
 .	O
 He	O
 was	O

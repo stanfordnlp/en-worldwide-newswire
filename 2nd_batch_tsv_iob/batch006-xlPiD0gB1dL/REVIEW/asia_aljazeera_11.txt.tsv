@@ -61,9 +61,9 @@ opening	O
 of	O
 a	O
 new	O
-Iranian	B-NORP	B-Facility
-drone	O	I-Facility
-factory	O	I-Facility
+Iranian	B-Facility	B-NORP
+drone	I-Facility
+factory	I-Facility
 in	O
 the	O
 Tajik	B-Location
@@ -368,8 +368,8 @@ efforts	O
 at	O
 isolating	O
 the	O
-Islamic	B-NORP	B-Organization
-Republic	O	I-Organization
+Islamic	B-Organization	B-NORP
+Republic	I-Organization
 ,	O
 ”	O
 Edward	B-Person
@@ -384,9 +384,9 @@ and	O
 politics	O
 at	O
 the	O
-British	B-NORP	B-Organization
-Open	O	I-Organization
-University	O	I-Organization
+British	B-Organization	B-NORP
+Open	I-Organization
+University	I-Organization
 ,	O
 told	O
 Al	B-Organization
@@ -505,11 +505,11 @@ sees	O
 Iran	B-Location
 ’	O
 s	O
-Chabahar	B-Location	B-Facility
-and	O	I-Facility
-Bandar	O	I-Facility	B-Location
-Abbas	O	I-Facility	I-Location
-ports	O	I-Facility
+Chabahar	B-Facility	B-Location
+and	I-Facility
+Bandar	I-Facility	B-Location
+Abbas	I-Facility	I-Location
+ports	I-Facility
 as	O
 critical	O
 to	O
@@ -521,8 +521,8 @@ the	O
 Gulf	B-Location
 and	O
 the	O
-Arabian	B-NORP	B-Location
-Sea	O	I-Location
+Arabian	B-Location	B-NORP
+Sea	I-Location
 .	O
 
 The	O
@@ -916,8 +916,8 @@ policy	O
 adviser	O
 in	O
 the	O
-European	B-NORP	B-Organization
-Parliament	O	I-Organization
+European	B-Organization	B-NORP
+Parliament	I-Organization
 ,	O
 who	O
 spoke	O
@@ -1204,8 +1204,8 @@ already	O
 armed	O
 Azerbaijan	B-Location
 with	O
-Bayraktar	B-Organization	
-drones	O	
+Bayraktar	B-Organization
+drones	O
 and	O
 has	O
 sold	O
@@ -1311,8 +1311,8 @@ also	O
 interested	O
 in	O
 acquiring	O
-Turkish	B-NORP	B-Product
-drones	O	I-Product
+Turkish	B-Product	B-NORP
+drones	I-Product
 .	O
 However	O
 ,	O

@@ -37,9 +37,9 @@ a	O
 meeting	O
 between	O
 the	O
-Bangkok	B-Location	B-Organization
-Metropolitan	O	I-Organization
-Administration	O	I-Organization
+Bangkok	B-Organization	B-Location
+Metropolitan	I-Organization
+Administration	I-Organization
 (	O
 BMA	B-Organization
 )	O
@@ -313,9 +313,9 @@ limit	O
 proposed	O
 by	O
 the	O
-Thailand	B-Location	B-Organization
-Consumers	O	I-Organization
-Council	O	I-Organization
+Thailand	B-Organization	B-Location
+Consumers	I-Organization
+Council	I-Organization
 would	O
 only	O
 create	O

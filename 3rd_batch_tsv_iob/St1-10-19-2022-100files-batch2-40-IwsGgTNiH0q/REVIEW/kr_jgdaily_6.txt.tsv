@@ -116,12 +116,12 @@ satellite	O
 images	O
 of	O
 its	O
-Punggye	B-Location	B-Facility
--	I-Location	I-Facility
-ri	I-Location	I-Facility
-nuclear	O	I-Facility
-testing	O	I-Facility
-site	O	I-Facility
+Punggye	B-Facility	B-Location
+-	I-Facility	I-Location
+ri	I-Facility	I-Location
+nuclear	I-Facility
+testing	I-Facility
+site	I-Facility
 ,	O
 the	O
 site	O
@@ -220,9 +220,9 @@ several	O
 times	O
 during	O
 the	O
-Barack	B-Person	B-Organization
-Obama	I-Person	I-Organization
-administration	O	I-Organization
+Barack	B-Organization	B-Person
+Obama	I-Organization	I-Person
+administration	I-Organization
 when	O
 Burns	B-Person
 was	O

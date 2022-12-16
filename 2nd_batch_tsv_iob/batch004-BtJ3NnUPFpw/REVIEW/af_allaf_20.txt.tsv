@@ -16,8 +16,8 @@ has	O
 announced	O
 that	O
 the	O
-Suame	B-Location	B-Facility
-Interchange	O	I-Facility
+Suame	B-Facility	B-Location
+Interchange	I-Facility
 will	O
 be	O
 constructed	O
@@ -81,8 +81,8 @@ the	O
 construction	O
 of	O
 the	O
-Suame	B-Location	B-Facility
-Interchange	O	I-Facility
+Suame	B-Facility	B-Location
+Interchange	I-Facility
 Project	O
 and	O
 improvements	O
@@ -114,8 +114,8 @@ current	O
 state	O
 of	O
 the	O
-Suame	B-Location	B-Facility
-intersection	O	I-Facility
+Suame	B-Facility	B-Location
+intersection	I-Facility
 was	O
 characterized	O
 by	O
@@ -161,8 +161,8 @@ decision	O
 to	O
 convert	O
 the	O
-Suame	B-Location	B-Facility
-Roundabout	O	I-Facility
+Suame	B-Facility	B-Location
+Roundabout	I-Facility
 to	O
 an	O
 interchange	O
@@ -229,41 +229,41 @@ be	O
 developed	O
 include	O
 the	O
-Offinso	B-Location	B-Facility
-Road	O	I-Facility
-(	O	I-Facility
-N	O	I-Facility
-10	O	I-Facility
-)	O	I-Facility
+Offinso	B-Facility	B-Location
+Road	I-Facility
+(	I-Facility
+N	I-Facility
+10	I-Facility
+)	I-Facility
 3	O
 km	O
-Suame	B-Facility	B-Location
-roundabout	I-Facility	I-Location
--	O	I-Location
-Abusuakuruwa	O	I-Location
+Suame	B-Location	B-Facility
+roundabout	I-Location	I-Facility
+-	I-Location
+Abusuakuruwa	I-Location
 ,	O
 Western	O
 Bypass	O
 2	O
 km	O
-Suame	B-Location	B-Facility
-Roundabout	O	I-Facility
+Suame	B-Facility	B-Location
+Roundabout	I-Facility
 -	O
-Sofoline	B-Location	B-Facility
--	O	I-Facility
-Interchange	O	I-Facility
+Sofoline	B-Facility	B-Location
+-	I-Facility
+Interchange	I-Facility
 ,	O
-Mampong	B-Location	B-Facility
-Road	O	I-Facility
-South	O	I-Facility
-(	O	I-Facility
-N	O	I-Facility
-10	O	I-Facility
-)	O	I-Facility
+Mampong	B-Facility	B-Location
+Road	I-Facility
+South	I-Facility
+(	I-Facility
+N	I-Facility
+10	I-Facility
+)	I-Facility
 1.2	O
 KM	O
-Suame	B-Location	B-Facility
-Roundabout	O	I-Facility
+Suame	B-Facility	B-Location
+Roundabout	I-Facility
 -	O
 Kejetia	B-Location
 ,	O
@@ -271,27 +271,27 @@ Eastern	O
 Bypass	O
 1.4	O
 km	O
-Suame	B-Location	B-Facility
-Roundabout	O	I-Facility
+Suame	B-Facility	B-Location
+Roundabout	I-Facility
 -	O
-New	B-Location	B-Facility
-Tafo	I-Location	I-Facility
-Road	O	I-Facility
+New	B-Facility	B-Location
+Tafo	I-Facility	I-Location
+Road	I-Facility
 and	O
-Mampong	B-Location	B-Facility
-Road	O	I-Facility
-North	O	I-Facility
-(	O	I-Facility
-IR	O	I-Facility
-4	O	I-Facility
-)	O	I-Facility
+Mampong	B-Facility	B-Location
+Road	I-Facility
+North	I-Facility
+(	I-Facility
+IR	I-Facility
+4	I-Facility
+)	I-Facility
 1.9	O
 KM	O
 Suame	B-Facility
 Roundabout	I-Facility
 -	O
-Magazine	B-Location	B-Facility
-New	O	I-Facility
-Road	O	I-Facility
+Magazine	B-Facility	B-Location
+New	I-Facility
+Road	I-Facility
 .	O
 

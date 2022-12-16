@@ -244,9 +244,9 @@ protesters	O
 had	O
 gathered	O
 at	O
-Ikeja	B-Location	B-Facility
-"	O	I-Facility
-underbridge	O	I-Facility
+Ikeja	B-Facility	B-Location
+"	I-Facility
+underbridge	I-Facility
 "	O
 in	O
 Lagos	B-Location
@@ -292,8 +292,8 @@ Ikeja	B-Location
 Ojota	B-Location
 ,	O
 and	O
-Ikorodu	B-Location	B-Facility
-Road	O	I-Facility
+Ikorodu	B-Facility	B-Location
+Road	I-Facility
 ,	O
 among	O
 other	O

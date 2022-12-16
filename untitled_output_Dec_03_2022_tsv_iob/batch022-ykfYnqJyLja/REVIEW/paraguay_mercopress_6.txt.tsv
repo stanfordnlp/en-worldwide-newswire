@@ -362,11 +362,11 @@ source	O
 .	O
 
 The	O
-Mar	B-Location	B-Organization
-del	I-Location	I-Organization
-Plata	I-Location	I-Organization
-City	O	I-Organization
-Council	O	I-Organization
+Mar	B-Organization	B-Location
+del	I-Organization	I-Location
+Plata	I-Organization	I-Location
+City	I-Organization
+Council	I-Organization
 had	O
 appointed	O
 her	O

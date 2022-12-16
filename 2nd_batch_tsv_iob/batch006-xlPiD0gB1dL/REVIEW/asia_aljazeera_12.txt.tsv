@@ -481,20 +481,20 @@ recent	O
 report	O
 by	O
 the	O
-Dalit	B-NORP	B-Organization
-Human	O	I-Organization
-Rights	O	I-Organization
-Defenders	O	I-Organization
-Network	O	I-Organization
+Dalit	B-Organization	B-NORP
+Human	I-Organization
+Rights	I-Organization
+Defenders	I-Organization
+Network	I-Organization
 (	O
 DHRDN	B-Organization
 )	O
 ,	O
-Tata	B-Person	B-Organization
-Institute	O	I-Organization
-of	O	I-Organization
-Social	O	I-Organization
-Sciences	O	I-Organization
+Tata	B-Organization	B-Person
+Institute	I-Organization
+of	I-Organization
+Social	I-Organization
+Sciences	I-Organization
 ,	O
 and	O
 the	O
@@ -1723,9 +1723,9 @@ co	O
 -	O
 founder	O
 of	O
-Dalit	B-NORP	B-Organization
-Women	O	I-Organization
-Fight	O	I-Organization
+Dalit	B-Organization	B-NORP
+Women	I-Organization
+Fight	I-Organization
 ,	O
 an	O
 organisation	O

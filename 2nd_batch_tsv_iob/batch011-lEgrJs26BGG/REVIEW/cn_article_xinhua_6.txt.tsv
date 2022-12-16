@@ -47,9 +47,9 @@ Jun	I-Person
 ,	O
 president	O
 of	O
-Chinese	B-NORP	B-Organization
-Badminton	O	I-Organization
-Association	O	I-Organization
+Chinese	B-Organization	B-NORP
+Badminton	I-Organization
+Association	I-Organization
 and	O
 KhunyingPatama	B-Person
 Leeswadtrakul	B-Person
@@ -101,8 +101,8 @@ the	O
 Olympic	B-Misc
 Games	I-Misc
 and	O
-Asian	B-NORP	B-Misc
-Games	O	I-Misc
+Asian	B-Misc	B-NORP
+Games	I-Misc
 .	O
 He	O
 also	O
@@ -110,9 +110,9 @@ expressed	O
 appreciation	O
 to	O
 the	O
-Thai	B-NORP	B-Organization
-Badminton	O	I-Organization
-Association	O	I-Organization
+Thai	B-Organization	B-NORP
+Badminton	I-Organization
+Association	I-Organization
 for	O
 helping	O
 the	O
@@ -190,11 +190,11 @@ a	O
 "	O
 splendid	O
 "	O
-Beijing	B-Location	B-Misc
-Winter	O	I-Misc
-Olympics	O	I-Misc
-and	O	I-Misc
-Paralympics	O	I-Misc
+Beijing	B-Misc	B-Location
+Winter	I-Misc
+Olympics	I-Misc
+and	I-Misc
+Paralympics	I-Misc
 that	O
 China	B-Location
 has	O

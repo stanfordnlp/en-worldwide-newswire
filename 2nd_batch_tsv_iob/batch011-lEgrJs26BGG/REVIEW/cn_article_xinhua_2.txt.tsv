@@ -11,9 +11,9 @@ Xinhua	B-Organization
 -	O
 East	B-Location	B-Location
 China	I-Location	I-Location
-'s	O	I-Location
-Anhui	O	I-Location	B-Location
-Province	O	I-Location	I-Location
+'s	I-Location
+Anhui	I-Location	B-Location
+Province	I-Location	I-Location
 is	O
 taking	O
 a	O
@@ -78,9 +78,9 @@ found	O
 in	O
 Huaiyuan	B-Location	B-Location
 County	I-Location	I-Location
-of	O	I-Location
-Bengbu	O	I-Location	B-Location
-City	O	I-Location	I-Location
+of	I-Location
+Bengbu	I-Location	B-Location
+City	I-Location	I-Location
 ,	O
 according	O
 to	O

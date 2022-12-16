@@ -80,12 +80,12 @@ September	B-Misc	B-Misc
 11	I-Misc	I-Misc
 ,	I-Misc	I-Misc
 1973	I-Misc	I-Misc
-:	O	I-Misc
-The	O	I-Misc
-Day	O	I-Misc
-Salvador	O	I-Misc	B-Person
-Allende	O	I-Misc	I-Person
-Died	O	I-Misc
+:	I-Misc
+The	I-Misc
+Day	I-Misc
+Salvador	I-Misc	B-Person
+Allende	I-Misc	I-Person
+Died	I-Misc
 .	O
 ”	O
 
@@ -118,9 +118,9 @@ term	O
 coming	O
 from	O
 the	O
-Edinburgh	B-Location	B-Misc
-Festival	O	I-Misc
-Fringe	O	I-Misc
+Edinburgh	B-Misc	B-Location
+Festival	I-Misc
+Fringe	I-Misc
 )	O
 where	O
 theater	O
@@ -486,12 +486,12 @@ September	B-Misc	B-Misc
 11	I-Misc	I-Misc
 ,	I-Misc	I-Misc
 1973	I-Misc	I-Misc
-:	O	I-Misc
-The	O	I-Misc
-Day	O	I-Misc
-Salvador	O	I-Misc	B-Person
-Allende	O	I-Misc	I-Person
-Died	O	I-Misc
+:	I-Misc
+The	I-Misc
+Day	I-Misc
+Salvador	I-Misc	B-Person
+Allende	I-Misc	I-Person
+Died	I-Misc
 ,	O
 ”	O
 is	O
@@ -532,11 +532,11 @@ Executive	O
 Director	O
 of	O
 the	O
-Hispanic	B-NORP	B-Organization
-Organization	O	I-Organization
-of	O	I-Organization
-Latin	O	I-Organization	B-NORP
-Actors	O	I-Organization
+Hispanic	B-Organization	B-NORP
+Organization	I-Organization
+of	I-Organization
+Latin	I-Organization	B-NORP
+Actors	I-Organization
 ,	O
 Founder	O
 of	O
@@ -597,10 +597,10 @@ in	I-Misc
 Development	I-Misc
 at	O
 the	O
-London	B-Location	B-Organization
-School	O	I-Organization
-of	O	I-Organization
-Economics	O	I-Organization	B-Misc
+London	B-Organization	B-Location
+School	I-Organization
+of	I-Organization
+Economics	I-Organization	B-Misc
 .	O
 He	O
 is	O
@@ -682,12 +682,12 @@ which	O
 won	O
 the	O
 2016	B-Misc	B-Misc
-Capital	O	I-Misc
-Fringe	O	I-Misc
-Festival	O	I-Misc
-Best	O	I-Misc
-Drama	O	I-Misc
-Award	O	I-Misc
+Capital	I-Misc
+Fringe	I-Misc
+Festival	I-Misc
+Best	I-Misc
+Drama	I-Misc
+Award	I-Misc
 and	O
 was	O
 performed	O

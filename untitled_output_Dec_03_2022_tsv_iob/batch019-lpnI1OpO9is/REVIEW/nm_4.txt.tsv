@@ -4,12 +4,12 @@ LUKAS	B-Person
 Steven	I-Person
 won	O
 the	O
-DSTV	B-Organization	B-Misc
-Greenkeeper	O	I-Misc
-'s	O	I-Misc
-Revenge	O	I-Misc
-club	O	I-Misc
-competition	O	I-Misc
+DSTV	B-Misc	B-Organization
+Greenkeeper	I-Misc
+'s	I-Misc
+Revenge	I-Misc
+club	I-Misc
+competition	I-Misc
 at	O
 the	O
 Windhoek	B-Location

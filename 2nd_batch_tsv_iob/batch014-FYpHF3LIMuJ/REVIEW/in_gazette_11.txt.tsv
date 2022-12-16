@@ -500,8 +500,8 @@ by	O
 Syria	B-Organization
 and	O
 the	O
-Arab	B-NORP	B-Organization
-League	O	I-Organization
+Arab	B-Organization	B-NORP
+League	I-Organization
 ,	O
 Israel	B-Person
 ’	O

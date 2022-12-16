@@ -1,7 +1,7 @@
 https://www.haaretz.com/middle-east-news/2022-07-28/ty-article/.premium/iran-says-they-have-arrested-members-of-suspected-spy-network-affiliated-to-israel/00000182-43d8-d494-a9d7-ffdd61970000	O
 
-Iranian	B-NORP	B-Organization
-police	O	I-Organization
+Iranian	B-Organization	B-NORP
+police	I-Organization
 have	O
 arrested	O
 the	O
@@ -104,8 +104,8 @@ spreading	O
 rumors	O
 against	O
 the	O
-Iranian	B-NORP	B-Organization
-regime	O	I-Organization
+Iranian	B-Organization	B-NORP
+regime	I-Organization
 .	O
 
 "	O
@@ -283,10 +283,10 @@ reported	O
 The	O
 announcement	O
 by	O
-Iran	B-Location	B-Organization
-'s	O	I-Organization
-Intelligence	O	I-Organization
-Ministry	O	I-Organization
+Iran	B-Organization	B-Location
+'s	I-Organization
+Intelligence	I-Organization
+Ministry	I-Organization
 came	O
 amid	O
 heightening	O

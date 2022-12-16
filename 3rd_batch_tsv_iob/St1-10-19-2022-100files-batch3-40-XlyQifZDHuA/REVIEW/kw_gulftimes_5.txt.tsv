@@ -128,9 +128,9 @@ the	O
 head	O
 .	O
 The	O
-Palestinian	B-NORP	B-Organization
-Red	O	I-Organization
-Crescent	O	I-Organization
+Palestinian	B-Organization	B-NORP
+Red	I-Organization
+Crescent	I-Organization
 reported	O
 treating	O
 19	O
@@ -337,8 +337,8 @@ Akleh	I-Person
 ,	O
 a	O
 Palestinian	B-NORP	B-NORP
--	O	I-NORP
-American	O	I-NORP	B-NORP
+-	I-NORP
+American	I-NORP	B-NORP
 dual	O
 national	O
 ,	O

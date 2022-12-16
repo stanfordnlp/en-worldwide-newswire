@@ -27,9 +27,9 @@ County	I-Location
 returning	O
 home	O
 to	O
-Beigang	B-Location	B-Organization
-Chaotian	O	I-Organization
-Temple	O	I-Organization
+Beigang	B-Organization	B-Location
+Chaotian	I-Organization
+Temple	I-Organization
 for	O
 the	O
 first	O
@@ -264,9 +264,9 @@ Australia	B-Location
 and	O
 Malaysia	B-Location
 ,	O
-Beigang	B-Location	B-Organization
-Chaotian	O	I-Organization
-Temple	O	I-Organization
+Beigang	B-Organization	B-Location
+Chaotian	I-Organization
+Temple	I-Organization
 said	O
 .	O
 

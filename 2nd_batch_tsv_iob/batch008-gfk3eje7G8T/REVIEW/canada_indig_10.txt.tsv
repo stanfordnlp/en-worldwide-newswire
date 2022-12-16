@@ -662,9 +662,9 @@ for	O
 their	O
 cult	O
 classic	O
-Mi'kmaw	B-NORP	B-Misc
-Chicken	O	I-Misc
-Run	O	I-Misc
+Mi'kmaw	B-Misc	B-NORP
+Chicken	I-Misc
+Run	I-Misc
 and	O
 their	O
 translation	O
@@ -792,9 +792,9 @@ October	B-Misc
 to	O
 coincide	O
 with	O
-Mi'kmaw	B-NORP	B-Misc
-History	O	I-Misc
-Month	O	I-Misc
+Mi'kmaw	B-Misc	B-NORP
+History	I-Misc
+Month	I-Misc
 .	O
 The	O
 Gaelic	B-NORP

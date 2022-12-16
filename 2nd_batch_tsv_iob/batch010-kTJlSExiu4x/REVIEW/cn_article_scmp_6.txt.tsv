@@ -330,18 +330,18 @@ the	O
 launch	O
 of	O
 the	O
-Venezuelan	B-NORP	B-Product
-Remote	O	I-Product
-Sensing	O	I-Product
-Satellite	O	I-Product
--	O	I-Product
-2	O	I-Product
+Venezuelan	B-Product	B-NORP
+Remote	I-Product
+Sensing	I-Product
+Satellite	I-Product
+-	I-Product
+2	I-Product
 at	O
 the	O
-Jiuquan	B-Location	B-Facility
-satellite	O	I-Facility
-launch	O	I-Facility
-centre	O	I-Facility
+Jiuquan	B-Facility	B-Location
+satellite	I-Facility
+launch	I-Facility
+centre	I-Facility
 .	O
 ”	O
 

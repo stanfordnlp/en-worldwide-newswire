@@ -84,9 +84,9 @@ aircraft	O
 ,	O
 developed	O
 by	O
-Korea	B-Location	B-Organization
-Aerospace	O	I-Organization
-Industries	O	I-Organization
+Korea	B-Organization	B-Location
+Aerospace	I-Organization
+Industries	I-Organization
 ,	O
 will	O
 require	O
@@ -163,10 +163,10 @@ s	I-Product
 .	O
 
 The	O
-US	B-Location	B-Money
-$	O	I-Money
-6.7	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+6.7	I-Money
+billion	I-Money
 KF	B-Product
 -	I-Product
 21	I-Product

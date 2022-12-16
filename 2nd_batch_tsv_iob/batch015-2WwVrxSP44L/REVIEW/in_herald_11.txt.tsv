@@ -13,9 +13,9 @@ BBMP	B-Organization
 along	O
 with	O
 the	O
-Bangalore	B-Location	B-Organization
-Traffic	O	I-Organization
-Police	O	I-Organization
+Bangalore	B-Organization	B-Location
+Traffic	I-Organization
+Police	I-Organization
 has	O
 taken	O
 several	O

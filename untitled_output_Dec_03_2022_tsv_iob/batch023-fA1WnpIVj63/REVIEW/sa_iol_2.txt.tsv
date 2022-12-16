@@ -78,9 +78,9 @@ qualified	O
 audits	O
 ,	O
 while	O
-Prince	B-Person	B-Location
-Albert	I-Person	I-Location
-Municipality	O	I-Location
+Prince	B-Location	B-Person
+Albert	I-Location	I-Person
+Municipality	I-Location
 regressed	O
 from	O
 an	O

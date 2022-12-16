@@ -92,12 +92,12 @@ issues	O
 to	O
 promote	O
 the	O
-Nestlé	B-Organization	B-Misc
-Cremora	O	I-Misc
-Joy	O	I-Misc
-of	O	I-Misc
-Inclusion	O	I-Misc
-campaign	O	I-Misc
+Nestlé	B-Misc	B-Organization
+Cremora	I-Misc
+Joy	I-Misc
+of	I-Misc
+Inclusion	I-Misc
+campaign	I-Misc
 
 Asked	O
 about	O

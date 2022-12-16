@@ -183,10 +183,10 @@ new	O
 data	O
 from	O
 the	O
-Australian	B-NORP	B-Organization
-Bureau	O	I-Organization
-of	O	I-Organization
-Statistics	O	I-Organization
+Australian	B-Organization	B-NORP
+Bureau	I-Organization
+of	I-Organization
+Statistics	I-Organization
 reveals	O
 the	O
 value	O
@@ -495,9 +495,9 @@ South	I-Location
 Australia	I-Location
 and	O
 the	O
-Australian	B-NORP	B-Location
-Capital	O	I-Location
-Territory	O	I-Location
+Australian	B-Location	B-NORP
+Capital	I-Location
+Territory	I-Location
 also	O
 experienced	O
 dips	O

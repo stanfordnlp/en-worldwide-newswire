@@ -85,10 +85,10 @@ on	O
 Tuesday	B-Misc
 .	O
 
-Tianjin	B-Location	B-Organization
-Port	O	I-Organization
-Co	O	I-Organization
-Ltd	O	I-Organization
+Tianjin	B-Organization	B-Location
+Port	I-Organization
+Co	I-Organization
+Ltd	I-Organization
 ,	O
 which	O
 manages	O

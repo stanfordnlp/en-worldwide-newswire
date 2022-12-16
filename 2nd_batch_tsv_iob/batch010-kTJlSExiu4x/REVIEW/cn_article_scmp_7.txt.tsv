@@ -18,20 +18,20 @@ Hong	B-Location
 Kong	I-Location
 ’	O
 s	O
-A	B-Organization	B-Misc
-1	I-Organization	I-Misc
-Division	I-Organization	I-Misc
-Championship	I-Organization	I-Misc
-basketball	I-Organization	I-Misc
-league	O	I-Misc
+A	B-Misc	B-Organization
+1	I-Misc	I-Organization
+Division	I-Misc	I-Organization
+Championship	I-Misc	I-Organization
+basketball	I-Misc	I-Organization
+league	I-Misc
 on	O
 Tuesday	B-Misc
 ,	O
 with	O
 a	O
 roaring	O
-Southorn	B-Person	B-Facility
-Stadium	O	I-Facility
+Southorn	B-Facility	B-Person
+Stadium	I-Facility
 eager	O
 to	O
 see	O

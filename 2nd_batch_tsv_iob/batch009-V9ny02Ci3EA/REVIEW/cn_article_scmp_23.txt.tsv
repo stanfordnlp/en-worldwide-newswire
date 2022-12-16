@@ -316,10 +316,10 @@ behind	O
 Harry	B-Person
 Styles	I-Person
 ’	O
-Harry	B-Person	B-Misc
-’	O	I-Misc
-s	O	I-Misc
-House	O	I-Misc
+Harry	B-Misc	B-Person
+’	I-Misc
+s	I-Misc
+House	I-Misc
 ;	O
 Stray	B-Misc
 Kids	I-Misc
@@ -467,10 +467,10 @@ No	O
 3	O
 on	O
 the	O
-US	B-Location	B-Misc
-Billboard	O	I-Misc
-200	O	I-Misc
-chart	O	I-Misc
+US	B-Misc	B-Location
+Billboard	I-Misc
+200	I-Misc
+chart	I-Misc
 ,	O
 making	O
 the	O

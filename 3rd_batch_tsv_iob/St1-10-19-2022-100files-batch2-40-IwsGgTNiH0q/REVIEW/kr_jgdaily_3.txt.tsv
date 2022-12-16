@@ -308,10 +308,10 @@ as	O
 chief	O
 of	O
 the	O
-Ulsan	B-Location	B-Facility
-Jungbu	I-Location	I-Facility
-Police	O	I-Facility
-Precinct	O	I-Facility
+Ulsan	B-Facility	B-Location
+Jungbu	I-Facility	I-Location
+Police	I-Facility
+Precinct	I-Facility
 as	O
 a	O
 result	O

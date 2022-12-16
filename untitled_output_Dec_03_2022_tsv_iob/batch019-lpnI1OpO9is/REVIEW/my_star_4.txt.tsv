@@ -23,9 +23,9 @@ to	O
 m	O
 at	O
 the	O
-Paris	B-Location	B-Misc
-2024	O	I-Misc	B-Misc
-Games	O	I-Misc
+Paris	B-Misc	B-Location
+2024	I-Misc	B-Misc
+Games	I-Misc
 ,	O
 the	O
 global	O

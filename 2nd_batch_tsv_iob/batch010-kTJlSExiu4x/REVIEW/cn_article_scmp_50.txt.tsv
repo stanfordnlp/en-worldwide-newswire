@@ -218,10 +218,10 @@ Holding	I-Organization
 owner	O
 of	O
 the	O
-South	B-Location	B-Organization
-China	I-Location	I-Organization
-Morning	O	I-Organization
-Post	O	I-Organization
+South	B-Organization	B-Location
+China	I-Organization	I-Location
+Morning	I-Organization
+Post	I-Organization
 ,	O
 have	O
 tread	O
@@ -345,9 +345,9 @@ News	I-Organization
 Agency	I-Organization
 and	O
 the	O
-Communist	B-NORP	B-Organization
-Youth	O	I-Organization
-League	O	I-Organization
+Communist	B-Organization	B-NORP
+Youth	I-Organization
+League	I-Organization
 have	O
 all	O
 offered	O
@@ -422,10 +422,10 @@ partner	O
 of	O
 blockchain	O
 developer	O
-Shanghai	B-Location	B-Organization
-Hashvalue	O	I-Organization
-Information	O	I-Organization
-Technology	O	I-Organization
+Shanghai	B-Organization	B-Location
+Hashvalue	I-Organization
+Information	I-Organization
+Technology	I-Organization
 .	O
 
 New	O
@@ -615,8 +615,8 @@ weeks	O
 later	O
 ,	O
 the	O
-Tencent	B-Organization	B-Product
-News	O	I-Product
+Tencent	B-Product	B-Organization
+News	I-Product
 app	O
 stopped	O
 selling	O

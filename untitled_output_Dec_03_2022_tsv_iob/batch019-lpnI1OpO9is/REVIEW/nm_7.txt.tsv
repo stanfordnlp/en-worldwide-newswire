@@ -277,17 +277,17 @@ bargaining	O
 unions	O
 ,	O
 the	O
-Namibia	B-Location	B-Organization
-National	O	I-Organization
-Teachers	O	I-Organization
-'	O	I-Organization
-Union	O	I-Organization
+Namibia	B-Organization	B-Location
+National	I-Organization
+Teachers	I-Organization
+'	I-Organization
+Union	I-Organization
 and	O
-Namibia	B-Location	B-Organization
-Public	O	I-Organization
-Workers	O	I-Organization
-'	O	I-Organization
-Union	O	I-Organization
+Namibia	B-Organization	B-Location
+Public	I-Organization
+Workers	I-Organization
+'	I-Organization
+Union	I-Organization
 agreed	O
 on	O
 the	O

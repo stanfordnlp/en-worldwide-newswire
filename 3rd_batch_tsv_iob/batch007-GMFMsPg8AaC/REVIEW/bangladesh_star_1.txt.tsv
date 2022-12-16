@@ -112,9 +112,9 @@ Branch	I-Organization
 DB	B-Organization
 )	O
 of	O
-Dhaka	B-Location	B-Organization
-Metropolitan	O	I-Organization
-Police	O	I-Organization
+Dhaka	B-Organization	B-Location
+Metropolitan	I-Organization
+Police	I-Organization
 (	O
 DMP	B-Organization
 )	O
@@ -460,9 +460,9 @@ alone	O
 the	O
 cast	O
 of	O
-Coke	B-Organization	B-Misc
-Studio	I-Organization	I-Misc
-Bangla	O	I-Misc	B-NORP
+Coke	B-Misc	B-Organization
+Studio	I-Misc	I-Organization
+Bangla	I-Misc	B-NORP
 ,	O
 as	O
 many	O

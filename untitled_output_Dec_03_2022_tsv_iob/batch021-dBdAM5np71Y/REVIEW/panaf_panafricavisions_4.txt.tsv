@@ -1,11 +1,11 @@
 https://panafricanvisions.com/2022/07/afreximbank-becomes-official-partner-of-african-energy-week-2022/	O
 
 The	O
-African	B-NORP	B-Organization
-Export	O	I-Organization
--	O	I-Organization
-Import	O	I-Organization
-Bank	O	I-Organization
+African	B-Organization	B-NORP
+Export	I-Organization
+-	I-Organization
+Import	I-Organization
+Bank	I-Organization
 (	O
 Afreximbank	B-Organization
 )	O
@@ -21,13 +21,13 @@ premier	O
 energy	O
 event	O
 ,	O
-African	B-NORP	B-Misc	B-Misc
-Energy	O	I-Misc	I-Misc
-Week	O	I-Misc	I-Misc
-(	O	O	I-Misc
-AEW	O	O	I-Misc	B-Misc
-)	O	O	I-Misc
-2022	O	O	I-Misc	B-Misc
+African	B-Misc	B-Misc	B-NORP
+Energy	I-Misc	I-Misc
+Week	I-Misc	I-Misc
+(	I-Misc
+AEW	I-Misc	B-Misc
+)	I-Misc
+2022	I-Misc	B-Misc
 –	O
 which	O
 takes	O
@@ -187,10 +187,10 @@ agreement	O
 signed	O
 with	O
 the	O
-Egyptian	B-NORP	B-Organization
-General	O	I-Organization
-Petroleum	O	I-Organization
-Company	O	I-Organization
+Egyptian	B-Organization	B-NORP
+General	I-Organization
+Petroleum	I-Organization
+Company	I-Organization
 to	O
 enhance	O
 the	O
@@ -391,7 +391,7 @@ emerged	O
 and	O
 during	O
 AEW	B-Misc	B-Misc
-2022	O	I-Misc	B-Misc
+2022	I-Misc	B-Misc
 ,	O
 the	O
 bank	O
@@ -587,12 +587,12 @@ three	O
 months	O
 while	O
 the	O
-Nigerian	B-NORP	B-Organization
-Content	O	I-Organization
-Development	O	I-Organization
-and	O	I-Organization
-Monitoring	O	I-Organization
-Board	O	I-Organization
+Nigerian	B-Organization	B-NORP
+Content	I-Organization
+Development	I-Organization
+and	I-Organization
+Monitoring	I-Organization
+Board	I-Organization
 announced	O
 that	O
 the	O
@@ -634,7 +634,7 @@ development	O
 drive	O
 ,	O
 AEW	B-Misc	B-Misc
-2022	O	I-Misc	B-Misc
+2022	I-Misc	B-Misc
 offers	O
 a	O
 platform	O
@@ -652,9 +652,9 @@ partnership	O
 is	O
 what	O
 the	O
-African	B-NORP	B-Misc
-energy	O	I-Misc
-sector	O	I-Misc
+African	B-Misc	B-NORP
+energy	I-Misc
+sector	I-Misc
 needs	O
 at	O
 this	O
@@ -685,9 +685,9 @@ the	O
 future	O
 of	O
 the	O
-African	B-NORP	B-Misc
-energy	O	I-Misc
-sector	O	I-Misc
+African	B-Misc	B-NORP
+energy	I-Misc
+sector	I-Misc
 will	O
 be	O
 largely	O
@@ -718,7 +718,7 @@ its	O
 partnership	O
 with	O
 AEW	B-Misc	B-Misc
-2022	O	I-Misc	B-Misc
+2022	I-Misc	B-Misc
 ,	O
 a	O
 wave	O
@@ -746,9 +746,9 @@ Executive	O
 Chairman	O
 of	O
 the	O
-African	B-NORP	B-Organization
-Energy	O	I-Organization
-Chamber	O	I-Organization
+African	B-Organization	B-NORP
+Energy	I-Organization
+Chamber	I-Organization
 (	O
 AEC	B-Organization
 )	O

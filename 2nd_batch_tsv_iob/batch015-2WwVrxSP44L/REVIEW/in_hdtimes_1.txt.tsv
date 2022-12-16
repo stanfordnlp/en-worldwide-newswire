@@ -70,7 +70,7 @@ by	O
 suicide	O
 in	O
 Tiruvallur	B-Location	B-Location
-district	O	I-Location
+district	I-Location
 in	O
 her	O
 hostel	O
@@ -91,9 +91,9 @@ girl	O
 in	O
 Tamil	B-Location	B-Location
 Nadu	I-Location	I-Location
-’	O	I-Location
-s	O	I-Location
-Cuddalore	O	I-Location	B-Location
+’	I-Location
+s	I-Location
+Cuddalore	I-Location	B-Location
 was	O
 found	O
 dead	O
@@ -131,7 +131,7 @@ Virudhachalam	B-Location
 in	O
 the	O
 Cuddalore	B-Location	B-Location
-district	O	I-Location
+district	I-Location
 .	O
 
 A	O
@@ -222,7 +222,7 @@ by	O
 suicide	O
 in	O
 Tiruvallur	B-Location	B-Location
-district	O	I-Location
+district	I-Location
 in	O
 her	O
 hostel	O
@@ -339,9 +339,9 @@ body	O
 for	O
 autopsy	O
 to	O
-Virudhachalam	B-Location	B-Facility
-Government	O	I-Facility
-Hospital	O	I-Facility
+Virudhachalam	B-Facility	B-Location
+Government	I-Facility
+Hospital	I-Facility
 .	O
 
 Meanwhile	O
@@ -419,7 +419,7 @@ incident	O
 in	O
 the	O
 Tiruvallur	B-Location	B-Location
-district	O	I-Location
+district	I-Location
 ,	O
 the	O
 girl	O
@@ -431,11 +431,11 @@ taken	O
 to	O
 the	O
 Tiruvallur	B-Location	B-Location
-government	O	I-Location
-medical	O	I-Location
-college	O	I-Location
-and	O	I-Location
-hospital	O	I-Location
+government	I-Location
+medical	I-Location
+college	I-Location
+and	I-Location
+hospital	I-Location
 for	O
 postmortem	O
 .	O

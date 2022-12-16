@@ -1,8 +1,8 @@
 https://www.observerbd.com/news.php?id=376380	O
 
-Chinese	B-NORP	B-Organization
-Foreign	O	I-Organization
-Affairs	O	I-Organization
+Chinese	B-Organization	B-NORP
+Foreign	I-Organization
+Affairs	I-Organization
 Minister	O
 Wang	B-Person
 Yi	I-Person

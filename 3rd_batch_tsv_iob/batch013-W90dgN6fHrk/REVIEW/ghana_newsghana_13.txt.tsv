@@ -25,10 +25,10 @@ Bibiani	B-Location
 Municipal	I-Location
 and	O
 the	O
-Sefwi	B-Location	B-Organization
-Wiawso	I-Location	I-Organization
-Government	O	I-Organization
-Hospitals	O	I-Organization
+Sefwi	B-Organization	B-Location
+Wiawso	I-Organization	I-Location
+Government	I-Organization
+Hospitals	I-Organization
 .	O
 
 The	O
@@ -200,10 +200,10 @@ Mines	I-Organization
 ,	O
 and	O
 the	O
-Ghana	B-Location	B-Organization
-Geological	O	I-Organization
-Survey	O	I-Organization
-Authority	O	I-Organization
+Ghana	B-Organization	B-Location
+Geological	I-Organization
+Survey	I-Organization
+Authority	I-Organization
 ,	O
 
 Dr	O

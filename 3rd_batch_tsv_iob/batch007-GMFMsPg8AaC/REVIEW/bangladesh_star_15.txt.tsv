@@ -34,11 +34,11 @@ case	O
 was	O
 filed	O
 at	O
-Sylhet	B-Location	B-Facility
-'s	I-Location	I-Facility
-Jalalabad	I-Location	I-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Sylhet	B-Facility	B-Location
+'s	I-Facility	I-Location
+Jalalabad	I-Facility	I-Location
+Police	I-Facility
+Station	I-Facility
 around	O
 midnight	O
 by	O
@@ -60,9 +60,9 @@ Commissioner	O
 Media	O
 )	O
 of	O
-Sylhet	B-Location	B-Organization
-Metropolitan	O	I-Organization
-Police	O	I-Organization
+Sylhet	B-Organization	B-Location
+Metropolitan	I-Organization
+Police	I-Organization
 ,	O
 BM	B-Person
 Ashraf	I-Person
@@ -144,12 +144,12 @@ Bulbul	B-Person
 was	O
 taken	O
 to	O
-Sylhet	B-Location	B-Facility
-MAG	O	I-Facility
-Osmani	O	I-Facility
-Medical	O	I-Facility
-College	O	I-Facility
-Hospital	O	I-Facility
+Sylhet	B-Facility	B-Location
+MAG	I-Facility
+Osmani	I-Facility
+Medical	I-Facility
+College	I-Facility
+Hospital	I-Facility
 with	O
 severe	O
 injuries	O

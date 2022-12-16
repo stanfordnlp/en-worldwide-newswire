@@ -12,10 +12,10 @@ the	O
 Government	B-Organization
 of	I-Organization
 the	I-Organization
-Arab	I-Organization	B-NORP	B-Location
-Republic	I-Organization	O	I-Location
-of	I-Organization	O	I-Location
-Egypt	I-Organization	O	I-Location	B-Location
+Arab	I-Organization	B-Location	B-NORP
+Republic	I-Organization	I-Location
+of	I-Organization	I-Location
+Egypt	I-Organization	I-Location	B-Location
 ,	O
 this	O
 afternoon	O
@@ -53,10 +53,10 @@ the	O
 Ambassador	O
 of	O
 the	O
-Arab	B-NORP	B-Location
-Republic	O	I-Location
-of	O	I-Location
-Egypt	O	I-Location	B-Location
+Arab	B-Location	B-NORP
+Republic	I-Location
+of	I-Location
+Egypt	I-Location	B-Location
 to	O
 Mauritius	B-Location
 ,	O

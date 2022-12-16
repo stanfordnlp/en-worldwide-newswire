@@ -161,9 +161,9 @@ former	O
 instructor	O
 at	O
 the	O
-Taiwanese	B-NORP	B-Organization
-Naval	O	I-Organization
-Academy	O	I-Organization
+Taiwanese	B-Organization	B-NORP
+Naval	I-Organization
+Academy	I-Organization
 ,	O
 the	O
 radar	O
@@ -558,8 +558,8 @@ in	O
 size	O
 to	O
 the	O
-US	B-Location	B-Organization
-Navy	O	I-Organization
+US	B-Organization	B-Location
+Navy	I-Organization
 ’	O
 s	O
 retired	O
@@ -731,8 +731,8 @@ was	O
 acquired	O
 by	O
 the	O
-US	B-Location	B-Organization
-Navy	O	I-Organization
+US	B-Organization	B-Location
+Navy	I-Organization
 in	O
 May	B-Misc
 2017	I-Misc

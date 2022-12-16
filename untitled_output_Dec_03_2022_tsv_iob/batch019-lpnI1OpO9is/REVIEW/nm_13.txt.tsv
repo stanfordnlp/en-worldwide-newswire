@@ -114,10 +114,10 @@ the	O
 following	O
 day	O
 at	O
-Swakopmund	B-Location	B-Facility
-'s	O	I-Facility
-Cottage	O	I-Facility
-Mediclinic	O	I-Facility
+Swakopmund	B-Facility	B-Location
+'s	I-Facility
+Cottage	I-Facility
+Mediclinic	I-Facility
 .	O
 
 Carol	B-Person
@@ -202,9 +202,9 @@ aggravating	O
 circumstances	O
 in	O
 the	O
-Windhoek	B-Location	B-Organization
-High	O	I-Organization
-Court	O	I-Organization
+Windhoek	B-Organization	B-Location
+High	I-Organization
+Court	I-Organization
 .	O
 
 They	O
@@ -261,8 +261,8 @@ our	O
 company	O
 ,	O
 the	O
-Namibia	B-Location	B-Organization
-Dolphin	O	I-Organization
+Namibia	B-Organization	B-Location
+Dolphin	I-Organization
 and	O
 Seal	B-Organization
 Catamaran	I-Organization

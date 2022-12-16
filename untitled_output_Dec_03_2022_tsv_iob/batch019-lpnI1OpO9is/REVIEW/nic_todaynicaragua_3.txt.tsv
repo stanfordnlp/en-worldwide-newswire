@@ -154,8 +154,8 @@ was	O
 labeled	O
 the	O
 Nicaraguan	B-NORP
-Catholic	B-NORP	B-Organization
-Church	O	I-Organization
+Catholic	B-Organization	B-NORP
+Church	I-Organization
 as	O
 an	O
 “	O
@@ -330,11 +330,11 @@ country	O
 denounced	O
 the	O
 independent	O
-Nicaraguan	B-NORP	B-Organization
-Center	O	I-Organization
-for	O	I-Organization
-Human	O	I-Organization
-Rights	O	I-Organization
+Nicaraguan	B-Organization	B-NORP
+Center	I-Organization
+for	I-Organization
+Human	I-Organization
+Rights	I-Organization
 (	O
 Cenidh	B-Organization
 )	O
@@ -500,11 +500,11 @@ to	O
 the	O
 Inter	O
 -	O
-American	B-NORP	B-Organization
-Commission	O	I-Organization
-on	O	I-Organization
-Human	O	I-Organization
-Rights	O	I-Organization
+American	B-Organization	B-NORP
+Commission	I-Organization
+on	I-Organization
+Human	I-Organization
+Rights	I-Organization
 (	O
 IACHR	B-Organization
 )	O

@@ -57,9 +57,9 @@ transitional	O
 president	O
 of	O
 the	O
-Central	B-NORP	B-Location
-African	I-NORP	I-Location
-Republic	O	I-Location
+Central	B-Location	B-NORP
+African	I-Location	I-NORP
+Republic	I-Location
 on	O
 25	B-Misc
 March	I-Misc
@@ -569,8 +569,8 @@ the	O
 South	B-NORP
 African	I-NORP
 '	O
-Sunday	B-Misc	B-Organization
-Times	O	I-Organization
+Sunday	B-Organization	B-Misc
+Times	I-Organization
 '	O
 .	O
 
@@ -602,9 +602,9 @@ escaping	O
 abuses	O
 in	O
 the	O
-Central	B-NORP	B-Location
-African	I-NORP	I-Location
-Republic	O	I-Location
+Central	B-Location	B-NORP
+African	I-Location	I-NORP
+Republic	I-Location
 .	O
 At	O
 least	O
@@ -867,9 +867,9 @@ order	O
 "	O
 in	O
 the	O
-Central	B-NORP	B-Location
-African	I-NORP	I-Location
-Republic	O	I-Location
+Central	B-Location	B-NORP
+African	I-Location	I-NORP
+Republic	I-Location
 ,	O
 Mr	O
 Feltman	B-Person
@@ -950,9 +950,9 @@ the	O
 situation	O
 in	O
 the	O
-Central	B-NORP	B-Location
-African	I-NORP	I-Location
-Republic	O	I-Location
+Central	B-Location	B-NORP
+African	I-Location	I-NORP
+Republic	I-Location
 was	O
 "	O
 under	O

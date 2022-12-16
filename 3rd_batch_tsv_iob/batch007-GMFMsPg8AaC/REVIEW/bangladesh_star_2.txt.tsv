@@ -77,10 +77,10 @@ Responsibility	I-Misc
 "	O
 organised	O
 by	O
-Bangladesh	B-Location	B-Organization
-Puja	O	I-Organization
-Udjapan	O	I-Organization
-Parishad	O	I-Organization
+Bangladesh	B-Organization	B-Location
+Puja	I-Organization
+Udjapan	I-Organization
+Parishad	I-Organization
 today	O
 (	O
 July	B-Misc
@@ -89,8 +89,8 @@ July	B-Misc
 2022	I-Misc
 )	O
 at	O
-Cirdap	B-Organization	B-Facility
-Auditorium	O	I-Facility
+Cirdap	B-Facility	B-Organization
+Auditorium	I-Facility
 in	O
 the	O
 capital	O
@@ -239,8 +239,8 @@ Professor	O
 Sadeka	B-Person
 Halim	I-Person
 of	O
-Dhaka	B-Location	B-Organization
-University	O	I-Organization
+Dhaka	B-Organization	B-Location
+University	I-Organization
 .	O
 
 "	O
@@ -262,8 +262,8 @@ Prof	O
 Robayet	B-Person
 Ferdous	I-Person
 of	O
-Dhaka	B-Location	B-Organization
-University	O	I-Organization
+Dhaka	B-Organization	B-Location
+University	I-Organization
 .	O
 
 Fauzia	B-Person
@@ -271,9 +271,9 @@ Moslem	I-Person
 ,	O
 president	O
 of	O
-Bangladesh	B-Location	B-Organization
-Mahila	O	I-Organization
-Parishad	O	I-Organization
+Bangladesh	B-Organization	B-Location
+Mahila	I-Organization
+Parishad	I-Organization
 ,	O
 said	O
 ,	O
@@ -303,10 +303,10 @@ Podder	I-Person
 general	O
 secretary	O
 of	O
-Bangladesh	B-Location	B-Organization
-Puja	O	I-Organization
-Udjapan	O	I-Organization
-Parishad	O	I-Organization
+Bangladesh	B-Organization	B-Location
+Puja	I-Organization
+Udjapan	I-Organization
+Parishad	I-Organization
 ,	O
 said	O
 "	O
@@ -385,9 +385,9 @@ Hossain	I-Person
 General	O
 Secretary	O
 of	O
-Bangladesh	B-Location	B-Organization
-Adivasi	O	I-Organization
-Forum	O	I-Organization
+Bangladesh	B-Organization	B-Location
+Adivasi	I-Organization
+Forum	I-Organization
 Sanjib	B-Person
 Drong	I-Person
 ,	O

@@ -44,9 +44,9 @@ Chinese	B-NORP
 authorities	O
 .	O
 
-Baidu	B-Organization	B-Misc
-World	O	I-Misc
-2022	O	I-Misc	B-Misc
+Baidu	B-Misc	B-Organization
+World	I-Misc
+2022	I-Misc	B-Misc
 ,	O
 which	O
 started	O
@@ -101,8 +101,8 @@ streaming	O
 ”	O
 programmes	O
 on	O
-WeChat	B-Product	B-Misc
-Channel	O	I-Misc
+WeChat	B-Misc	B-Product
+Channel	I-Misc
 require	O
 preregistration	O
 with	O
@@ -116,8 +116,8 @@ said	O
 He	O
 added	O
 that	O
-Baidu	B-Organization	B-Misc
-World	O	I-Misc
+Baidu	B-Misc	B-Organization
+World	I-Misc
 ’	O
 s	O
 live	O
@@ -154,8 +154,8 @@ its	O
 own	O
 service	O
 ,	O
-Baidu	B-Organization	B-Product
-Live	O	I-Product
+Baidu	B-Product	B-Organization
+Live	I-Product
 ,	O
 and	O
 various	O
@@ -167,9 +167,9 @@ state	O
 -	O
 owned	O
 broadcaster	O
-China	B-Location	B-Organization
-Central	O	I-Organization
-Television	O	I-Organization
+China	B-Organization	B-Location
+Central	I-Organization
+Television	I-Organization
 .	O
 
 The	O
@@ -234,8 +234,8 @@ growth	O
 ”	O
 ,	O
 the	O
-Baidu	B-Organization	B-Misc
-conference	O	I-Misc
+Baidu	B-Misc	B-Organization
+conference	I-Misc
 revealed	O
 the	O
 company	O

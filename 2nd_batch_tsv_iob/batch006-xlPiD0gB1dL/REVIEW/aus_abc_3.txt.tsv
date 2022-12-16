@@ -150,8 +150,8 @@ blooming	O
 
 "	O
 The	O
-Uluru	B-Organization	B-Misc
-Statement	O	I-Misc
+Uluru	B-Misc	B-Organization
+Statement	I-Misc
 talks	O
 about	O
 three	O
@@ -244,8 +244,8 @@ embrace	O
 and	O
 implement	O
 the	O
-Uluru	B-Organization	B-Misc
-Statement	O	I-Misc
+Uluru	B-Misc	B-Organization
+Statement	I-Misc
 in	O
 full	O
 ,	O

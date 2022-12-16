@@ -80,9 +80,9 @@ Sakuma	I-Person
 leader	O
 of	O
 the	O
-Hiroshima	B-Location	B-Organization
-Prefectural	I-Location	I-Organization
-Confederation	O	I-Organization
+Hiroshima	B-Organization	B-Location
+Prefectural	I-Organization	I-Location
+Confederation	I-Organization
 of	O
 A	B-Organization
 -	I-Organization
@@ -115,10 +115,10 @@ unless	O
 they	O
 visited	O
 the	O
-Hiroshima	B-Location	B-Facility
-Peace	O	I-Facility
-Memorial	O	I-Facility
-Museum	O	I-Facility
+Hiroshima	B-Facility	B-Location
+Peace	I-Facility
+Memorial	I-Facility
+Museum	I-Facility
 and	O
 listened	O
 to	O
@@ -359,9 +359,9 @@ ceremony	O
 in	O
 the	O
 Hiroshima	B-Location	B-Location
-Peace	O	I-Location
-Memorial	O	I-Location
-Park	O	I-Location
+Peace	I-Location
+Memorial	I-Location
+Park	I-Location
 in	O
 May	B-Misc
 2016	I-Misc
@@ -448,12 +448,12 @@ special	O
 adviser	O
 to	O
 the	O
-Hiroshima	B-Location	B-Organization
-Alliance	O	I-Organization
-for	O	I-Organization
-Nuclear	O	I-Organization
-Weapons	O	I-Organization
-Abolition	O	I-Organization
+Hiroshima	B-Organization	B-Location
+Alliance	I-Organization
+for	I-Organization
+Nuclear	I-Organization
+Weapons	I-Organization
+Abolition	I-Organization
 ,	O
 recalls	O
 that	O

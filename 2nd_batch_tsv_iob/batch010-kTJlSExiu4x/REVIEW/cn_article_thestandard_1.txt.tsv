@@ -328,10 +328,10 @@ the	O
 community	O
 center	O
 at	O
-Kowloon	B-Location	B-Facility
-Bay	O	I-Facility
-Sports	O	I-Facility
-Centre	O	I-Facility
+Kowloon	B-Facility	B-Location
+Bay	I-Facility
+Sports	I-Facility
+Centre	I-Facility
 ,	O
 then	O
 offered	O

@@ -38,8 +38,8 @@ Angels	I-Organization
 victory	O
 over	O
 the	O
-Houston	B-Location	B-Organization
-Astros	O	I-Organization
+Houston	B-Organization	B-Location
+Astros	I-Organization
 on	O
 Wednesday	B-Misc
 night	O
@@ -532,8 +532,8 @@ this	O
 season	O
 and	O
 an	O
-American	B-NORP	B-Organization
-League	O	I-Organization
+American	B-Organization	B-NORP
+League	I-Organization
 record	O
 for	O
 a	O

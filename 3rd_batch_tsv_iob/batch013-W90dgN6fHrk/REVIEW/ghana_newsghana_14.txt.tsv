@@ -84,9 +84,9 @@ exclusive	O
 interview	O
 with	O
 the	O
-Ghana	B-Location	B-Organization
-News	O	I-Organization
-Agency	O	I-Organization
+Ghana	B-Organization	B-Location
+News	I-Organization
+Agency	I-Organization
 in	O
 Accra	B-Location
 on	O
@@ -554,9 +554,9 @@ his	O
 former	O
 teacher	O
 in	O
-Tamale	B-Location	B-Organization
-Secondary	O	I-Organization
-school	O	I-Organization
+Tamale	B-Organization	B-Location
+Secondary	I-Organization
+school	I-Organization
 for	O
 encouraging	O
 him	O

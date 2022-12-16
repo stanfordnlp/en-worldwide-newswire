@@ -34,10 +34,10 @@ from	O
 their	O
 beds	O
 at	O
-Chuka	B-Location	B-Facility
-County	I-Location	I-Facility
-Referral	O	I-Facility
-Hospital	O	I-Facility
+Chuka	B-Facility	B-Location
+County	I-Facility	I-Location
+Referral	I-Facility
+Hospital	I-Facility
 .	O
 
 Mwashiradi	B-Person
@@ -159,16 +159,16 @@ Mukoko	B-Person
 are	O
 students	O
 at	O
-Meru	B-Location	B-Organization
-University	O	I-Organization
-of	O	I-Organization
-Science	O	I-Organization
-and	O	I-Organization
-Technology	O	I-Organization
+Meru	B-Organization	B-Location
+University	I-Organization
+of	I-Organization
+Science	I-Organization
+and	I-Organization
+Technology	I-Organization
 and	O
-Meru	B-Location	B-Organization
-National	O	I-Organization
-Polytechnic	O	I-Organization
+Meru	B-Organization	B-Location
+National	I-Organization
+Polytechnic	I-Organization
 ,	O
 respectively	O
 .	O
@@ -864,10 +864,10 @@ cloud	O
 engulfed	O
 Chuka	B-Location
 and	O
-Chogoria	B-Location	B-Facility
-PCEA	O	I-Facility	B-Organization
-Mission	O	I-Facility
-hospitals	O	I-Facility
+Chogoria	B-Facility	B-Location
+PCEA	I-Facility	B-Organization
+Mission	I-Facility
+hospitals	I-Facility
 on	O
 Monday	B-Misc
 and	O

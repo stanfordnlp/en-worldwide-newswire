@@ -40,9 +40,9 @@ under	O
 the	O
 supervision	O
 of	O
-Oman	B-Location	B-Organization
-Shooting	O	I-Organization
-Association	O	I-Organization
+Oman	B-Organization	B-Location
+Shooting	I-Organization
+Association	I-Organization
 with	O
 the	O
 purpose	O
@@ -452,9 +452,9 @@ vice	O
 -	O
 chairman	O
 of	O
-Oman	B-Location	B-Organization
-Shooting	O	I-Organization
-Association	O	I-Organization
+Oman	B-Organization	B-Location
+Shooting	I-Organization
+Association	I-Organization
 congratulated	O
 SAF	B-Organization
 personnel	O
@@ -599,9 +599,9 @@ of	O
 the	O
 board	O
 of	O
-Oman	B-Location	B-Organization
-Shooting	O	I-Organization
-Association	O	I-Organization
+Oman	B-Organization	B-Location
+Shooting	I-Organization
+Association	I-Organization
 said	O
 that	O
 the	O

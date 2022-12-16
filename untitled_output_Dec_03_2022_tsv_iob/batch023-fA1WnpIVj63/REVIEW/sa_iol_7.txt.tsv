@@ -27,10 +27,10 @@ Cremer	I-Person
 resumed	O
 in	O
 the	O
-Western	B-Location	B-Organization
-Cape	I-Location	I-Organization
-High	O	I-Organization
-Court	O	I-Organization
+Western	B-Organization	B-Location
+Cape	I-Organization	I-Location
+High	I-Organization
+Court	I-Organization
 .	O
 
 Jeremy	B-Person

@@ -83,12 +83,12 @@ Constitution	O
 that	O
 establishes	O
 an	O
-Aboriginal	B-NORP	B-Organization
-and	O	I-Organization
-Torres	O	I-Organization	B-Location	B-NORP
-Strait	O	I-Organization	I-Location	I-NORP
-Islander	O	I-Organization	O	I-NORP
-Voice	O	I-Organization
+Aboriginal	B-Organization	B-NORP
+and	I-Organization
+Torres	I-Organization	B-NORP	B-Location
+Strait	I-Organization	I-NORP	I-Location
+Islander	I-Organization	I-NORP
+Voice	I-Organization
 ?	O
 ’	O
 ”	O
@@ -157,9 +157,9 @@ about	O
 consulting	O
 Aboriginal	B-NORP
 and	O
-Torres	B-Location	B-NORP
-Strait	I-Location	I-NORP
-Islander	O	I-NORP
+Torres	B-NORP	B-Location
+Strait	I-NORP	I-Location
+Islander	I-NORP
 peoples	O
 on	O
 the	O
@@ -217,21 +217,21 @@ to	O
 be	O
 called	O
 the	O
-Aboriginal	B-NORP	B-Organization
-and	O	I-Organization
-Torres	O	I-Organization	B-Location	B-NORP
-Strait	O	I-Organization	I-Location	I-NORP
-Islander	O	I-Organization	O	I-NORP
-Voice	O	I-Organization
+Aboriginal	B-Organization	B-NORP
+and	I-Organization
+Torres	I-Organization	B-NORP	B-Location
+Strait	I-Organization	I-NORP	I-Location
+Islander	I-Organization	I-NORP
+Voice	I-Organization
 .	O
 
 The	O
-Aboriginal	B-NORP	B-Organization
-and	O	I-Organization
-Torres	O	I-Organization	B-Location	B-NORP
-Strait	O	I-Organization	I-Location	I-NORP
-Islander	O	I-Organization	O	I-NORP
-Voice	O	I-Organization
+Aboriginal	B-Organization	B-NORP
+and	I-Organization
+Torres	I-Organization	B-NORP	B-Location
+Strait	I-Organization	I-NORP	I-Location
+Islander	I-Organization	I-NORP
+Voice	I-Organization
 may	O
 make	O
 representations	O
@@ -245,11 +245,11 @@ on	O
 matters	O
 relating	O
 to	O
-Aboriginal	B-NORP	B-Organization
-and	O	I-Organization
-Torres	O	I-Organization	B-Location	B-NORP
-Strait	O	I-Organization	I-Location	I-NORP
-Islander	O	I-Organization	O	I-NORP
+Aboriginal	B-Organization	B-NORP
+and	I-Organization
+Torres	I-Organization	B-NORP	B-Location
+Strait	I-Organization	I-NORP	I-Location
+Islander	I-Organization	I-NORP
 Peoples	O
 .	O
 
@@ -280,12 +280,12 @@ and	O
 procedures	O
 of	O
 the	O
-Aboriginal	B-NORP	B-Organization
-and	O	I-Organization
-Torres	O	I-Organization	B-Location	B-NORP
-Strait	O	I-Organization	I-Location	I-NORP
-Islander	O	I-Organization	O	I-NORP
-Voice	O	I-Organization
+Aboriginal	B-Organization	B-NORP
+and	I-Organization
+Torres	I-Organization	B-NORP	B-Location
+Strait	I-Organization	I-NORP	I-Location
+Islander	I-Organization	I-NORP
+Voice	I-Organization
 .	O
 
 In	O

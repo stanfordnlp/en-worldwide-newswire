@@ -66,17 +66,17 @@ speech	O
 at	O
 the	O
 "	O
-Silk	B-Location	B-Misc
-Road	I-Location	I-Misc
-Academician	O	I-Misc
-Forum	O	I-Misc
-:	O	I-Misc
-Promote	O	I-Misc
-Innovation	O	I-Misc
-and	O	I-Misc
-High	O	I-Misc
-Quality	O	I-Misc
-Development	O	I-Misc
+Silk	B-Misc	B-Location
+Road	I-Misc	I-Location
+Academician	I-Misc
+Forum	I-Misc
+:	I-Misc
+Promote	I-Misc
+Innovation	I-Misc
+and	I-Misc
+High	I-Misc
+Quality	I-Misc
+Development	I-Misc
 ,	O
 "	O
 which	O
@@ -97,10 +97,10 @@ core	O
 area	O
 of	O
 the	O
-Silk	B-Location	B-Misc
-Road	I-Location	I-Misc
-Economic	O	I-Misc
-Belt	O	I-Misc
+Silk	B-Misc	B-Location
+Road	I-Misc	I-Location
+Economic	I-Misc
+Belt	I-Misc
 ,	O
 Xinjiang	B-Location
 is	O

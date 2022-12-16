@@ -25,10 +25,10 @@ executive	O
 director	O
 of	O
 the	O
-Salvadoran	B-NORP	B-Organization
-Association	O	I-Organization
-of	O	I-Organization
-Industrialists	O	I-Organization
+Salvadoran	B-Organization	B-NORP
+Association	I-Organization
+of	I-Organization
+Industrialists	I-Organization
 (	O
 ASI	B-Organization
 )	O

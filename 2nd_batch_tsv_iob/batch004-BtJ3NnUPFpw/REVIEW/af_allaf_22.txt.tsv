@@ -28,9 +28,9 @@ being	O
 that	O
 it	O
 was	O
-Valentine	B-Person	B-Misc
-'s	O	I-Misc
-Day	O	I-Misc
+Valentine	B-Misc	B-Person
+'s	I-Misc
+Day	I-Misc
 ,	O
 the	O
 disgraced	O
@@ -731,9 +731,9 @@ At	O
 the	O
 4th	O
 annual	O
-Bola	B-Person	B-Misc
-Tinubu	I-Person	I-Misc
-Colloquium	O	I-Misc
+Bola	B-Misc	B-Person
+Tinubu	I-Misc	I-Person
+Colloquium	I-Misc
 ,	O
 Raji	B-Person
 Fashola	I-Person
@@ -1306,15 +1306,15 @@ get	O
 their	O
 news	O
 from	O
-BBC	B-Organization	B-Product
-Hausa	O	I-Product
+BBC	B-Product	B-Organization
+Hausa	I-Product
 .	O
 
 Research	O
 this	O
 .	O
-BBC	B-Organization	B-Product
-Hausa	O	I-Product
+BBC	B-Product	B-Organization
+Hausa	I-Product
 has	O
 18	O
 million	O
@@ -1323,8 +1323,8 @@ listeners	O
 every	O
 week	O
 .	O
-VOA	B-Organization	B-Product
-Hausa	O	I-Product
+VOA	B-Product	B-Organization
+Hausa	I-Product
 service	O
 reaches	O
 a	O
@@ -1342,8 +1342,8 @@ a	O
 week	O
 listen	O
 to	O
-DW	B-Organization	B-Product
-Hausa	O	I-Product
+DW	B-Product	B-Organization
+Hausa	I-Product
 .	O
 That	O
 is	O
@@ -1457,8 +1457,8 @@ BBC	B-Organization
 ,	O
 VOA	B-Organization
 and	O
-DW	B-Organization	B-Product
-Hausa	O	I-Product
+DW	B-Product	B-Organization
+Hausa	I-Product
 service	O
 !	O
 

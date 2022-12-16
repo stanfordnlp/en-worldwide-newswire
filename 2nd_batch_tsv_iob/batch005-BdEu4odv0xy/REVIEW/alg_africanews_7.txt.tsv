@@ -13,9 +13,9 @@ in	O
 prison	O
 for	O
 former	O
-Algerian	B-NORP	B-Organization
-national	O	I-Organization
-team	O	I-Organization
+Algerian	B-Organization	B-NORP
+national	I-Organization
+team	I-Organization
 coach	O
 and	O
 FC	B-Organization
@@ -149,8 +149,8 @@ made	O
 during	O
 the	O
 1987	B-Misc	B-Misc
-Champions	O	I-Misc
-Cup	O	I-Misc
+Champions	I-Misc
+Cup	I-Misc
 with	O
 FC	B-Organization
 Porto	I-Organization

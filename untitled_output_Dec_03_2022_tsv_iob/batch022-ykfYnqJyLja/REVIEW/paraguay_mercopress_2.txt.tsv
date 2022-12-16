@@ -8,9 +8,9 @@ cases	O
 of	O
 abuses	O
 within	O
-Argentina	B-Location	B-Organization
-'s	O	I-Organization
-Army	O	I-Organization
+Argentina	B-Organization	B-Location
+'s	I-Organization
+Army	I-Organization
 surfaced	O
 ,	O
 Paraguay	B-Location
@@ -34,11 +34,11 @@ of	O
 cadets	O
 at	O
 the	O
-Francisco	B-Person	B-Organization
-Solano	I-Person	I-Organization
-López	I-Person	I-Organization
-Military	O	I-Organization
-Academy	O	I-Organization
+Francisco	B-Organization	B-Person
+Solano	I-Organization	I-Person
+López	I-Organization	I-Person
+Military	I-Organization
+Academy	I-Organization
 (	O
 Academil	B-Organization
 )	O

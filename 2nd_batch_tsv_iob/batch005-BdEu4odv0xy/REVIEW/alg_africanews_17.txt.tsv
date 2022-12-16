@@ -40,9 +40,9 @@ The	O
 prosecutor	O
 of	O
 the	O
-Sidi	B-Location	B-Facility
-M'hamed	I-Location	I-Facility
-court	O	I-Facility
+Sidi	B-Facility	B-Location
+M'hamed	I-Facility	I-Location
+court	I-Facility
 in	O
 Algiers	B-Location
 has	O
@@ -283,8 +283,8 @@ In	O
 2013	B-Misc
 ,	O
 the	O
-Algerian	B-NORP	B-Organization
-judiciary	O	I-Organization
+Algerian	B-Organization	B-NORP
+judiciary	I-Organization
 ,	O
 then	O
 headed	O

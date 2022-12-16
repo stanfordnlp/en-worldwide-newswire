@@ -168,12 +168,12 @@ also	O
 coordinator	O
 of	O
 the	O
-Tiagarra	B-Location	B-Facility
-Aboriginal	O	I-Facility	B-NORP
-Cultural	O	I-Facility
-Centre	O	I-Facility
-and	O	I-Facility
-Museum	O	I-Facility
+Tiagarra	B-Facility	B-Location
+Aboriginal	I-Facility	B-NORP
+Cultural	I-Facility
+Centre	I-Facility
+and	I-Facility
+Museum	I-Facility
 atop	O
 the	O
 Devonport	B-Location
@@ -259,15 +259,15 @@ the	O
 Canberra	B-Location
 -	O
 based	O
-Australian	B-NORP	B-Organization
-Institute	O	I-Organization
-for	O	I-Organization
-Aboriginal	O	I-Organization	B-NORP
-and	O	I-Organization	I-NORP
-Torres	O	I-Organization	I-NORP
-Strait	O	I-Organization	I-NORP
-Islander	O	I-Organization	I-NORP
-Studies	O	I-Organization
+Australian	B-Organization	B-NORP
+Institute	I-Organization
+for	I-Organization
+Aboriginal	I-Organization	B-NORP
+and	I-Organization	I-NORP
+Torres	I-Organization	I-NORP
+Strait	I-Organization	I-NORP
+Islander	I-Organization	I-NORP
+Studies	I-Organization
 (	O
 AIATSIS	B-Organization
 )	O

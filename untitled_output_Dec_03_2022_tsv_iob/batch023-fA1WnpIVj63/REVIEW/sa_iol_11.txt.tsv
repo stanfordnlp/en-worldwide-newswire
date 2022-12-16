@@ -128,9 +128,9 @@ Chetty	I-Person
 in	O
 partnership	O
 with	O
-Nelson	B-Person	B-Organization
-Mandela	I-Person	I-Organization
-University	O	I-Organization
+Nelson	B-Organization	B-Person
+Mandela	I-Organization	I-Person
+University	I-Organization
 ,	O
 the	O
 University	B-Organization
@@ -260,8 +260,8 @@ their	O
 exposure	O
 to	O
 the	O
-US	B-Location	B-Money
-Dollar	O	I-Money
+US	B-Money	B-Location
+Dollar	I-Money
 ,	O
 ”	O
 he	O

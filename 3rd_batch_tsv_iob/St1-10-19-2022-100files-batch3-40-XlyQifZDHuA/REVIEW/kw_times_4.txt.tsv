@@ -23,8 +23,8 @@ parliament	O
 a	O
 source	O
 told	O
-Kuwait	B-Location	B-Organization
-Times	O	I-Organization
+Kuwait	B-Organization	B-Location
+Times	I-Organization
 .	O
 To	O
 deal	O
@@ -366,8 +366,8 @@ adequate	O
 ministerial	O
 sources	O
 told	O
-Kuwait	B-Location	B-Organization
-Times	O	I-Organization
+Kuwait	B-Organization	B-Location
+Times	I-Organization
 .	O
 This	O
 caused	O
@@ -500,8 +500,8 @@ education	O
 institutions	O
 such	O
 as	O
-Kuwait	B-Location	B-Organization
-University	O	I-Organization
+Kuwait	B-Organization	B-Location
+University	I-Organization
 ,	O
 Ministry	B-Organization
 of	I-Organization

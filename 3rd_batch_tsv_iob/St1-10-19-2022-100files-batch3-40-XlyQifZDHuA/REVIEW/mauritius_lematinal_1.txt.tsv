@@ -304,9 +304,9 @@ the	O
 capacity	O
 of	O
 the	O
-Mauritian	B-NORP	B-Organization
-Defence	O	I-Organization
-Forces	O	I-Organization
+Mauritian	B-Organization	B-NORP
+Defence	I-Organization
+Forces	I-Organization
 to	O
 protect	O
 their	O
@@ -364,8 +364,8 @@ of	O
 charge	O
 by	O
 the	O
-Indian	B-NORP	B-Organization
-government	O	I-Organization
+Indian	B-Organization	B-NORP
+government	I-Organization
 .	O
 ”	O
 Pravind	B-Person
@@ -459,8 +459,8 @@ fully	O
 funded	O
 by	O
 the	O
-Indian	B-NORP	B-Organization
-government	O	I-Organization
+Indian	B-Organization	B-NORP
+government	I-Organization
 to	O
 the	O
 tune	O
@@ -616,8 +616,8 @@ take	O
 off	O
 of	O
 the	O
-Dornier	B-Organization	B-Product
-aircraft	O	I-Product
+Dornier	B-Product	B-Organization
+aircraft	I-Product
 became	O
 a	O
 challenging	O
@@ -688,8 +688,8 @@ the	O
 possibility	O
 of	O
 the	O
-Indian	B-NORP	B-Organization
-Government	O	I-Organization
+Indian	B-Organization	B-NORP
+Government	I-Organization
 helping	O
 to	O
 upgrade	O
@@ -1155,9 +1155,9 @@ third	O
 the	O
 length	O
 of	O
-Mauritius	B-Location	B-Facility
-Container	O	I-Facility
-Terminal	O	I-Facility
+Mauritius	B-Facility	B-Location
+Container	I-Facility
+Terminal	I-Facility
 .	O
 ”	O
 XLD	B-Person
@@ -1185,8 +1185,8 @@ the	O
 same	O
 as	O
 a	O
-Boeing	B-Organization	B-Product
-737	O	I-Product
+Boeing	B-Product	B-Organization
+737	I-Product
 ,	O
 an	O
 anti	O
@@ -1203,8 +1203,8 @@ and	O
 it	O
 is	O
 the	O
-Boeing	B-Organization	B-Product
-737	O	I-Product
+Boeing	B-Product	B-Organization
+737	I-Product
 that	O
 is	O
 going	O
@@ -1219,8 +1219,8 @@ it	O
 belongs	O
 to	O
 the	O
-Indian	B-NORP	B-Organization
-army	O	I-Organization
+Indian	B-Organization	B-NORP
+army	I-Organization
 .	O
 ”	O
 He	O
@@ -1258,8 +1258,8 @@ won	O
 ’	O
 t	O
 be	O
-Indian	B-NORP	B-Organization
-military	O	I-Organization
+Indian	B-Organization	B-NORP
+military	I-Organization
 troops	O
 on	O
 the	O
@@ -1591,9 +1591,9 @@ of	I-Organization
 Justice	I-Organization
 and	O
 the	O
-United	B-Organization	B-Misc
-Nations	I-Organization	I-Misc
-Convention	O	I-Misc
+United	B-Misc	B-Organization
+Nations	I-Misc	I-Organization
+Convention	I-Misc
 on	O
 the	O
 Law	O

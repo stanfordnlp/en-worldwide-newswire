@@ -21,8 +21,8 @@ malnutrition	O
 ,	O
 United	B-Organization	B-Organization
 Nations	I-Organization	I-Organization
-General	O	I-Organization
-Assembly	O	I-Organization
+General	I-Organization
+Assembly	I-Organization
 President	O
 Abdulla	B-Person
 Shahid	I-Person

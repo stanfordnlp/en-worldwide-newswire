@@ -419,8 +419,8 @@ of	O
 the	O
 discredited	O
 neoliberal	O
-Washington	B-Location	B-Misc
-Consensus	O	I-Misc
+Washington	B-Misc	B-Location
+Consensus	I-Misc
 .	O
 
 With	O
@@ -615,10 +615,10 @@ food	O
 security	O
 .	O
 
-Sub	B-NORP	B-Location
--	I-NORP	I-Location
-Saharan	I-NORP	I-Location
-Africa	O	I-Location
+Sub	B-Location	B-NORP
+-	I-Location	I-NORP
+Saharan	I-Location	I-NORP
+Africa	I-Location
 accounts	O
 for	O
 24	O
@@ -761,9 +761,9 @@ financial	O
 institutions	O
 ,	O
 the	O
-African	B-NORP	B-Organization
-Development	O	I-Organization
-Bank	O	I-Organization
+African	B-Organization	B-NORP
+Development	I-Organization
+Bank	I-Organization
 and	O
 all	O
 donors	O
@@ -987,8 +987,8 @@ reneged	O
 on	O
 their	O
 2005	B-Misc
-Gleneagles	B-Organization	B-Misc
-pledge	O	I-Misc
+Gleneagles	B-Misc	B-Organization
+pledge	I-Misc
 –	O
 to	O
 give	O

@@ -82,10 +82,10 @@ Yamamoto	B-Person
 a	O
 member	O
 of	O
-Osaka	B-Location	B-Organization
-Ishin	O	I-Organization
-no	O	I-Organization
-Kai	O	I-Organization
+Osaka	B-Organization	B-Location
+Ishin	I-Organization
+no	I-Organization
+Kai	I-Organization
 ,	O
 a	O
 local	O
@@ -112,20 +112,20 @@ Era	I-Misc
 according	O
 to	O
 the	O
-Japan	B-Location	B-Organization
-Association	O	I-Organization
-of	O	I-Organization
-City	O	I-Organization
-Mayors	O	I-Organization
+Japan	B-Organization	B-Location
+Association	I-Organization
+of	I-Organization
+City	I-Organization
+Mayors	I-Organization
 .	O
 
 His	O
 victory	O
 fueled	O
-Osaka	B-Location	B-Organization
-Ishin	O	I-Organization
-no	O	I-Organization
-Kai	O	I-Organization
+Osaka	B-Organization	B-Location
+Ishin	I-Organization
+no	I-Organization
+Kai	I-Organization
 ’	O
 s	O
 fast	O

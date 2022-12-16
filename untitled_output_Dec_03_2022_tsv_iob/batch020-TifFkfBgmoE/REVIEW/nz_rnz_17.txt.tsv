@@ -620,9 +620,9 @@ you	O
 an	O
 example	O
 ,	O
-Arataki	B-Location	B-Organization
-Primary	O	I-Organization
-School	O	I-Organization
+Arataki	B-Organization	B-Location
+Primary	I-Organization
+School	I-Organization
 sits	O
 on	O
 our	O

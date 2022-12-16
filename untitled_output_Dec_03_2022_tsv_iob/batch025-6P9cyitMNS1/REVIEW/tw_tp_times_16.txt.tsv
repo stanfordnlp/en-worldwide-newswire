@@ -157,9 +157,9 @@ the	O
 legislature	O
 by	O
 the	O
-Democratic	B-NORP	B-Organization
-Progressive	O	I-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Progressive	I-Organization
+Party	I-Organization
 and	O
 came	O
 into	O
@@ -227,10 +227,10 @@ $	I-Money
 104	I-Money
 million	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-3.47	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+3.47	I-Money
+million	I-Money
 )	O
 from	O
 the	O

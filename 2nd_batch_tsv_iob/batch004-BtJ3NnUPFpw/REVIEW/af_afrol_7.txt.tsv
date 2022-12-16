@@ -63,13 +63,13 @@ Director	O
 of	O
 the	O
 UN	B-Organization	B-Organization
-Office	O	I-Organization
-for	O	I-Organization
-the	O	I-Organization
-Coordination	O	I-Organization
-of	O	I-Organization
-Humanitarian	O	I-Organization
-Affairs	O	I-Organization
+Office	I-Organization
+for	I-Organization
+the	I-Organization
+Coordination	I-Organization
+of	I-Organization
+Humanitarian	I-Organization
+Affairs	I-Organization
 (	O
 OCHA	B-Organization
 )	O
@@ -281,10 +281,10 @@ received	O
 percent	O
 of	O
 the	O
-US	B-Location	B-Money
-$	O	I-Money
-995	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+995	I-Money
+million	I-Money
 requested	O
 for	O
 humanitarian	O
@@ -616,9 +616,9 @@ Haque	I-Person
 from	O
 the	O
 UN	B-Organization	B-Organization
-Children	O	I-Organization
-'s	O	I-Organization
-Fund	O	I-Organization
+Children	I-Organization
+'s	I-Organization
+Fund	I-Organization
 (	O
 UNICEF	B-Organization
 )	O
@@ -739,10 +739,10 @@ Sudan	I-Location
 ,	O
 the	O
 UN	B-Organization	B-Organization
-High	O	I-Organization
-Commissioner	O	I-Organization
-for	O	I-Organization
-Refugees	O	I-Organization
+High	I-Organization
+Commissioner	I-Organization
+for	I-Organization
+Refugees	I-Organization
 (	O
 UNHCR	B-Organization
 )	O
@@ -758,10 +758,10 @@ this	O
 week	O
 appealed	O
 for	O
-US	B-Location	B-Money
-$	O	I-Money
-371	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+371	I-Money
+million	I-Money
 in	O
 "	O
 urgently	O

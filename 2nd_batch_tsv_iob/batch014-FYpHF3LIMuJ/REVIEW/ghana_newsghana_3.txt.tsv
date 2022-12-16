@@ -378,14 +378,14 @@ the	O
 training	O
 are	O
 the	O
-Ghana	B-Location	B-Organization
-Police	O	I-Organization
-Service	O	I-Organization
+Ghana	B-Organization	B-Location
+Police	I-Organization
+Service	I-Organization
 ,	O
 the	O
-Ghana	B-Location	B-Organization
-Prisons	O	I-Organization
-Service	O	I-Organization
+Ghana	B-Organization	B-Location
+Prisons	I-Organization
+Service	I-Organization
 and	O
 other	O
 stakeholders	O

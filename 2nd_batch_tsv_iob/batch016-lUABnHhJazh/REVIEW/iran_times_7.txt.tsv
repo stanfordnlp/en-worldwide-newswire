@@ -104,8 +104,8 @@ in	O
 Baghdad	B-Location
 surrounded	O
 the	O
-Turkish	B-NORP	B-Organization
-embassy	O	I-Organization
+Turkish	B-Organization	B-NORP
+embassy	I-Organization
 and	O
 brought	O
 down	O
@@ -132,8 +132,8 @@ country	O
 Officially	O
 ,	O
 the	O
-Iraqi	B-NORP	B-Organization
-government	O	I-Organization
+Iraqi	B-Organization	B-NORP
+government	I-Organization
 summoned	O
 the	O
 Turkish	B-NORP
@@ -346,9 +346,9 @@ revoked	O
 .	O
 But	O
 the	O
-Iraqi	B-NORP	B-Organization
-foreign	O	I-Organization
-ministry	O	I-Organization
+Iraqi	B-Organization	B-NORP
+foreign	I-Organization
+ministry	I-Organization
 said	O
 there	O
 was	O
@@ -382,8 +382,8 @@ demanded	O
 the	O
 withdrawal	O
 of	O
-Turkish	B-NORP	B-Organization
-troops	O	I-Organization
+Turkish	B-Organization	B-NORP
+troops	I-Organization
 from	O
 Iraqi	B-NORP
 soil	O
@@ -422,8 +422,8 @@ for	O
 the	O
 withdrawal	O
 of	O
-Turkish	B-NORP	B-Organization
-troops	O	I-Organization
+Turkish	B-Organization	B-NORP
+troops	I-Organization
 .	O
 It	O
 revealed	O
@@ -431,8 +431,8 @@ the	O
 tenuous	O
 nature	O
 of	O
-Turkish	B-NORP	B-Organization
-military	O	I-Organization
+Turkish	B-Organization	B-NORP
+military	I-Organization
 presence	O
 in	O
 Iraq	B-Location
@@ -490,9 +490,9 @@ Prime	O
 Minister	O
 of	O
 the	O
-Kurdistan	B-Location	B-Organization
-Regional	O	I-Organization
-Government	O	I-Organization
+Kurdistan	B-Organization	B-Location
+Regional	I-Organization
+Government	I-Organization
 ,	O
 Qubad	B-Person
 Talabani	I-Person

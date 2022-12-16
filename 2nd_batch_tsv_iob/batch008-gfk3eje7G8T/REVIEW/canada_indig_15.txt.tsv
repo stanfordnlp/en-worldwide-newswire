@@ -61,13 +61,13 @@ this	O
 weekend	O
 during	O
 the	O
-Kanehsatà	B-Location	B-Misc
-:	O	I-Misc
-ke	O	I-Misc
-Traditional	O	I-Misc
-Indigenous	O	I-Misc
-Tattoo	O	I-Misc
-Gathering	O	I-Misc
+Kanehsatà	B-Misc	B-Location
+:	I-Misc
+ke	I-Misc
+Traditional	I-Misc
+Indigenous	I-Misc
+Tattoo	I-Misc
+Gathering	I-Misc
 .	O
 
 Karonhienhawe	B-Person
@@ -281,13 +281,13 @@ first	O
 edition	O
 of	O
 the	O
-Kanehsatà	B-Location	B-Misc
-:	O	I-Misc
-ke	O	I-Misc
-Traditional	O	I-Misc
-Indigenous	O	I-Misc
-Tattoo	O	I-Misc
-Gathering	O	I-Misc
+Kanehsatà	B-Misc	B-Location
+:	I-Misc
+ke	I-Misc
+Traditional	I-Misc
+Indigenous	I-Misc
+Tattoo	I-Misc
+Gathering	I-Misc
 .	O
 As	O
 a	O

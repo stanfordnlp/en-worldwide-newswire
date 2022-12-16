@@ -129,8 +129,8 @@ United	B-Location
 States	I-Location
 and	O
 the	O
-Israeli	B-NORP	B-Organization
-regime	O	I-Organization
+Israeli	B-Organization	B-NORP
+regime	I-Organization
 in	O
 the	O
 region	O

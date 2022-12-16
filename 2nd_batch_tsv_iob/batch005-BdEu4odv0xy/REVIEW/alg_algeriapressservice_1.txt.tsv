@@ -234,8 +234,8 @@ official	O
 stressed	O
 that	O
 the	O
-Algerian	B-NORP	B-Misc
-Revolution	O	I-Misc
+Algerian	B-Misc	B-NORP
+Revolution	I-Misc
 "	O
 has	O
 given	O

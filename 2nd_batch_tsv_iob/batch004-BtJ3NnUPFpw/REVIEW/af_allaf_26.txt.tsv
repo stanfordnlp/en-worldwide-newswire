@@ -305,8 +305,8 @@ and	O
 appreciation	O
 to	O
 the	O
-Senegalese	B-NORP	B-Organization
-Security	O	I-Organization
+Senegalese	B-Organization	B-NORP
+Security	I-Organization
 through	O
 Interpol	O
 Gambia	B-Location

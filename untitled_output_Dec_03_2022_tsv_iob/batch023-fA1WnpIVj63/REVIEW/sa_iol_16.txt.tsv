@@ -133,9 +133,9 @@ as	O
 the	O
 CFO	O
 in	O
-Alfred	B-Person	B-Organization
-Duma	I-Person	I-Organization
-Municipality	O	I-Organization
+Alfred	B-Organization	B-Person
+Duma	I-Organization	I-Person
+Municipality	I-Organization
 where	O
 he	O
 contributed	O
@@ -157,8 +157,8 @@ experience	O
 also	O
 includes	O
 at	O
-Richmond	B-Person	B-Organization
-Municipality	O	I-Organization
+Richmond	B-Organization	B-Person
+Municipality	I-Organization
 where	O
 he	O
 contributed	O

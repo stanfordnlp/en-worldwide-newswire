@@ -19,7 +19,7 @@ stand	I-Facility
 Mandi	I-Facility	B-Location
 in	O
 Poonch	B-Location	B-Location
-district	O	I-Location
+district	I-Location
 of	O
 Jammu	B-Location
 and	I-Location

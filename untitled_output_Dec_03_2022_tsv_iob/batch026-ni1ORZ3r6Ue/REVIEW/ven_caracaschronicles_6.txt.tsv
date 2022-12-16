@@ -400,11 +400,11 @@ has	O
 worked	O
 wonders	O
 ,	O
-Mexico	B-Location	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-lower	O	I-Organization
-house	O	I-Organization
+Mexico	B-Organization	B-Location
+’	I-Organization
+s	I-Organization
+lower	I-Organization
+house	I-Organization
 today	O
 boasts	O
 full	O
@@ -581,13 +581,13 @@ promising	O
 example	O
 comes	O
 from	O
-Peru	B-Location	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Women	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Forum	O	I-Organization
+Peru	B-Organization	B-Location
+’	I-Organization
+s	I-Organization
+Women	I-Organization
+’	I-Organization
+s	I-Organization
+Forum	I-Organization
 ,	O
 a	O
 coalition	O
@@ -1058,12 +1058,12 @@ El	B-Location
 Salvador	I-Location
 ’	O
 s	O
-Farabundo	B-Person	B-Organization
-Marti	I-Person	I-Organization
-Front	O	I-Organization
-for	O	I-Organization
-National	O	I-Organization
-Liberation	O	I-Organization
+Farabundo	B-Organization	B-Person
+Marti	I-Organization	I-Person
+Front	I-Organization
+for	I-Organization
+National	I-Organization
+Liberation	I-Organization
 (	O
 FMLN	B-Organization
 )	O

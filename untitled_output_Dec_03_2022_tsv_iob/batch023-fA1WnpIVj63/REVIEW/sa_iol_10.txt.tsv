@@ -180,15 +180,15 @@ in	O
 collaboration	O
 with	O
 the	O
-South	B-NORP	B-Organization
-African	I-NORP	I-Organization
-BRICS	O	I-Organization
-Think	O	I-Organization
-Tank	O	I-Organization
+South	B-Organization	B-NORP
+African	I-Organization	I-NORP
+BRICS	I-Organization
+Think	I-Organization
+Tank	I-Organization
 ,	O
-Nelson	B-Person	B-Organization
-Mandela	I-Person	I-Organization
-University	O	I-Organization
+Nelson	B-Organization	B-Person
+Mandela	I-Organization	I-Person
+University	I-Organization
 and	O
 the	O
 University	B-Organization

@@ -265,9 +265,9 @@ the	O
 director	O
 general	O
 of	O
-Namibian	B-NORP	B-Organization
-Broadcasting	O	I-Organization
-Corporation	O	I-Organization
+Namibian	B-Organization	B-NORP
+Broadcasting	I-Organization
+Corporation	I-Organization
 (	O
 NBC	B-Organization
 )	O

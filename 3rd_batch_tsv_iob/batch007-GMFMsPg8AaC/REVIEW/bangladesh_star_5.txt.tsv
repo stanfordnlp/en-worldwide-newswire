@@ -33,8 +33,8 @@ Tk	B-Money
 2	I-Money
 crore	I-Money
 from	O
-Padma	B-Location	B-Organization
-Bank	O	I-Organization
+Padma	B-Organization	B-Location
+Bank	I-Organization
 (	O
 formerly	O
 Farmers	B-Organization

@@ -60,15 +60,15 @@ team	O
 set	O
 up	O
 by	O
-Henan	B-Location	B-Organization
-Asset	O	I-Organization
-Management	O	I-Organization
-Company	O	I-Organization
+Henan	B-Organization	B-Location
+Asset	I-Organization
+Management	I-Organization
+Company	I-Organization
 and	O
-Zhengzhou	B-Location	B-Organization
-Real	O	I-Organization
-Estate	O	I-Organization
-Group	O	I-Organization
+Zhengzhou	B-Organization	B-Location
+Real	I-Organization
+Estate	I-Organization
+Group	I-Organization
 will	O
 help	O
 cash	O
@@ -129,8 +129,8 @@ report	O
 added	O
 .	O
 
-Henan	B-Location	B-Organization
-AMC	O	I-Organization
+Henan	B-Organization	B-Location
+AMC	I-Organization
 is	O
 40	O
 -	O
@@ -138,9 +138,9 @@ per	O
 cent	O
 owned	O
 by	O
-Henan	B-Location	B-Organization
-Investment	O	I-Organization
-Corporation	O	I-Organization
+Henan	B-Organization	B-Location
+Investment	I-Organization
+Corporation	I-Organization
 ,	O
 the	O
 provincial	O
@@ -247,9 +247,9 @@ the	O
 home	O
 province	O
 of	O
-China	B-Location	B-Organization
-Evergrande	O	I-Organization
-Group	O	I-Organization
+China	B-Organization	B-Location
+Evergrande	I-Organization
+Group	I-Organization
 ’	O
 s	O
 founder	O
@@ -275,8 +275,8 @@ Chinese	B-NORP
 media	O
 .	O
 
-Henan	B-Location	B-Organization
-AMC	O	I-Organization
+Henan	B-Organization	B-Location
+AMC	I-Organization
 ’	O
 s	O
 involvement	O
@@ -311,9 +311,9 @@ the	O
 property	O
 sector	O
 .	O
-Great	B-Location	B-Organization
-Wall	I-Location	I-Organization
-AMC	O	I-Organization
+Great	B-Organization	B-Location
+Wall	I-Organization	I-Location
+AMC	I-Organization
 is	O
 already	O
 cleaning	O
@@ -331,9 +331,9 @@ of	I-Organization
 China	I-Organization	B-Location
 ,	O
 while	O
-China	B-Location	B-Organization
-Orient	O	I-Organization
-AMC	O	I-Organization
+China	B-Organization	B-Location
+Orient	I-Organization
+AMC	I-Organization
 is	O
 working	O
 with	O
@@ -409,8 +409,8 @@ in	O
 the	O
 footsteps	O
 of	O
-Henan	B-Location	B-Organization
-AMC	O	I-Organization
+Henan	B-Organization	B-Location
+AMC	I-Organization
 in	O
 helping	O
 tackle	O
@@ -427,11 +427,11 @@ of	O
 corporate	O
 research	O
 at	O
-China	B-Location	B-Organization
-Real	O	I-Organization
-Estate	O	I-Organization
-Information	O	I-Organization
-Corporation	O	I-Organization
+China	B-Organization	B-Location
+Real	I-Organization
+Estate	I-Organization
+Information	I-Organization
+Corporation	I-Organization
 ,	O
 an	O
 industry	O
@@ -488,25 +488,25 @@ projects	O
 ,	O
 together	O
 with	O
-China	B-Location	B-Organization
-Merchants	O	I-Organization
-Bank	O	I-Organization
+China	B-Organization	B-Location
+Merchants	I-Organization
+Bank	I-Organization
 ,	O
 Industrial	B-Organization
 Bank	I-Organization
 ,	O
-Shanghai	B-Location	B-Organization
-Pudong	I-Location	I-Organization
-Development	O	I-Organization
-Bank	O	I-Organization
+Shanghai	B-Organization	B-Location
+Pudong	I-Organization	I-Location
+Development	I-Organization
+Bank	I-Organization
 ,	O
 Bank	B-Organization
 of	I-Organization
 Communications	I-Organization
 ,	O
-China	B-Location	B-Organization
-Guangfa	O	I-Organization
-Bank	O	I-Organization
+China	B-Organization	B-Location
+Guangfa	I-Organization
+Bank	I-Organization
 and	O
 Ping	B-Organization
 An	I-Organization
@@ -568,9 +568,9 @@ Henan	B-Location
 province	I-Location
 .	O
 
-Great	B-Location	B-Organization
-Wall	I-Location	I-Organization
-AMC	O	I-Organization
+Great	B-Organization	B-Location
+Wall	I-Organization	I-Location
+AMC	I-Organization
 has	O
 failed	O
 for	O

@@ -251,9 +251,9 @@ been	O
 growing	O
 in	O
 Brisbane	B-Location	B-Location
-'s	O	I-Location
-Botanic	O	I-Location
-gardens	O	I-Location
+'s	I-Location
+Botanic	I-Location
+gardens	I-Location
 since	O
 1858	B-Misc
 and	O
@@ -555,9 +555,9 @@ crop	O
 .	O
 
 The	O
-Australian	B-NORP	B-Organization
-Macadamia	O	I-Organization
-Society	O	I-Organization
+Australian	B-Organization	B-NORP
+Macadamia	I-Organization
+Society	I-Organization
 has	O
 estimated	O
 the	O
@@ -660,10 +660,10 @@ their	O
 annual	O
 pilgrimage	O
 to	O
-Gympie	B-Location	B-Misc
-'s	O	I-Misc
-Music	O	I-Misc
-Muster	O	I-Misc
+Gympie	B-Misc	B-Location
+'s	I-Misc
+Music	I-Misc
+Muster	I-Misc
 .	O
 
 Traditional	O

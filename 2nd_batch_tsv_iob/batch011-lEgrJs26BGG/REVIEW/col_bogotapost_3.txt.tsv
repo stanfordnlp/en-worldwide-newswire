@@ -53,8 +53,8 @@ Era	I-Misc
 There	O
 are	O
 no	O
-Paris	B-Location	B-Person
-Hilton	O	I-Person
+Paris	B-Person	B-Location
+Hilton	I-Person
 or	O
 Lindsay	B-Person
 Lohan	I-Person
@@ -225,8 +225,8 @@ name	O
 –	O
 is	O
 the	O
-Arabian	B-NORP	B-Misc
-Nights	O	I-Misc
+Arabian	B-Misc	B-NORP
+Nights	I-Misc
 or	O
 A	B-Misc
 Thousand	I-Misc

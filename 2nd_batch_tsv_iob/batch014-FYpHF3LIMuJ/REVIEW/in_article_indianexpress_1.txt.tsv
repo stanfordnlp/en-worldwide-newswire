@@ -566,9 +566,9 @@ across	O
 Gujarat	B-Location
 by	O
 one	O
-Gujarat	B-Location	B-Misc
-Relief	O	I-Misc
-Committee	O	I-Misc
+Gujarat	B-Misc	B-Location
+Relief	I-Misc
+Committee	I-Misc
 .	O
 The	O
 presence	O
@@ -577,9 +577,9 @@ several	O
 political	O
 leaders	O
 at	O
-Shahibaug	B-Location	B-Facility
-Circuit	O	I-Facility
-House	O	I-Facility
+Shahibaug	B-Facility	B-Location
+Circuit	I-Facility
+House	I-Facility
 during	O
 this	O
 period	O
@@ -1110,8 +1110,8 @@ his	O
 deposition	O
 before	O
 the	O
-Nanavati	B-Person	B-Misc
-Commission	O	I-Misc
+Nanavati	B-Misc	B-Person
+Commission	I-Misc
 (	O
 probing	O
 the	O

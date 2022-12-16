@@ -147,9 +147,9 @@ coalition	O
 ’	O
 s	O
 appointed	O
-Iraqi	B-NORP	B-Organization
-Governing	O	I-Organization
-Council	O	I-Organization
+Iraqi	B-Organization	B-NORP
+Governing	I-Organization
+Council	I-Organization
 also	O
 sapped	O
 their	O
@@ -694,11 +694,11 @@ they	O
 cooperate	O
 with	O
 the	O
-U	B-Location	B-Organization
-.	I-Location	I-Organization
-S	I-Location	I-Organization
-.	I-Location	I-Organization
-military	O	I-Organization
+U	B-Organization	B-Location
+.	I-Organization	I-Location
+S	I-Organization	I-Location
+.	I-Organization	I-Location
+military	I-Organization
 ,	O
 but	O
 that	O
@@ -1133,9 +1133,9 @@ by	O
 soldiers	O
 of	O
 the	O
-Faluja	B-Location	B-Organization
-Protection	O	I-Organization
-Brigade	O	I-Organization
+Faluja	B-Organization	B-Location
+Protection	I-Organization
+Brigade	I-Organization
 in	O
 U	B-Organization
 .	I-Organization
@@ -1663,8 +1663,8 @@ formed	O
 after	O
 the	O
 1991	B-Misc	B-Misc
-Gulf	O	I-Misc
-War	O	I-Misc
+Gulf	I-Misc
+War	I-Misc
 ,	O
 will	O
 remain	O
@@ -1698,19 +1698,19 @@ militias	O
 ,	O
 including	O
 the	O
-Kurdish	B-NORP	B-Organization
-Democratic	O	I-Organization	B-NORP
-Parties	O	I-Organization
+Kurdish	B-Organization	B-NORP
+Democratic	I-Organization	B-NORP
+Parties	I-Organization
 ’	O
 s	O
 (	O
 KDP	B-Organization
 )	O
 and	O
-Patriotic	B-NORP	B-Organization
-Union	O	I-Organization
-of	O	I-Organization
-Kurdistan	O	I-Organization
+Patriotic	B-Organization	B-NORP
+Union	I-Organization
+of	I-Organization
+Kurdistan	I-Organization
 ’	O
 s	O
 (	O
@@ -1760,9 +1760,9 @@ north	O
 are	O
 furious	O
 that	O
-UN	B-Organization	B-Misc
-Resolution	O	I-Misc
-1546	O	I-Misc
+UN	B-Misc	B-Organization
+Resolution	I-Misc
+1546	I-Misc
 does	O
 not	O
 mention	O

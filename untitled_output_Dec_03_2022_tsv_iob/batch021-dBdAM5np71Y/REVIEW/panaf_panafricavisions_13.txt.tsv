@@ -1,9 +1,9 @@
 https://panafricanvisions.com/2022/07/gor-mahia-shopping-for-a-new-coach-after-parting-ways-with-spier/	O
 
 The	O
-Kenya	B-Location	B-Misc
-Premier	O	I-Misc
-League	O	I-Misc
+Kenya	B-Misc	B-Location
+Premier	I-Misc
+League	I-Misc
 side	O
 Gor	B-Organization
 Mahia	I-Organization

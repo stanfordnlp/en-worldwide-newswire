@@ -179,12 +179,12 @@ still	O
 missing	O
 .	O
 The	O
-Uzbek	B-NORP	B-Organization
-Prosecutor	O	I-Organization
-General	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Office	O	I-Organization
+Uzbek	B-Organization	B-NORP
+Prosecutor	I-Organization
+General	I-Organization
+’	I-Organization
+s	I-Organization
+Office	I-Organization
 this	O
 week	O
 dismissed	O

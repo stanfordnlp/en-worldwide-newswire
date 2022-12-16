@@ -16,22 +16,22 @@ ahead	O
 of	O
 the	O
 2022	B-Misc	B-Misc
-Federation	O	I-Misc	B-Organization
-of	O	I-Misc	I-Organization
-International	O	I-Misc	I-Organization
-Football	O	I-Misc	I-Organization
-Association	O	I-Misc	I-Organization
-(	O	I-Misc
-FIFA	O	I-Misc	B-Organization
-)	O	I-Misc
-U	O	I-Misc	B-Misc
--	O	I-Misc	I-Misc
-20	O	I-Misc	I-Misc
-Women	O	I-Misc
-’	O	I-Misc
-s	O	I-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+Federation	I-Misc	B-Organization
+of	I-Misc	I-Organization
+International	I-Misc	I-Organization
+Football	I-Misc	I-Organization
+Association	I-Misc	I-Organization
+(	I-Misc
+FIFA	I-Misc	B-Organization
+)	I-Misc
+U	I-Misc	B-Misc
+-	I-Misc	I-Misc
+20	I-Misc	I-Misc
+Women	I-Misc
+’	I-Misc
+s	I-Misc
+World	I-Misc
+Cup	I-Misc
 in	O
 Costa	B-Location
 Rica	I-Location
@@ -192,15 +192,15 @@ Japan	B-Location
 .	O
 
 The	O
-FIFA	B-Organization	B-Misc
-U	O	I-Misc
--	O	I-Misc
-20	O	I-Misc
-Women	O	I-Misc
-’	O	I-Misc
-s	O	I-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+FIFA	B-Misc	B-Organization
+U	I-Misc
+-	I-Misc
+20	I-Misc
+Women	I-Misc
+’	I-Misc
+s	I-Misc
+World	I-Misc
+Cup	I-Misc
 is	O
 billed	O
 for	O

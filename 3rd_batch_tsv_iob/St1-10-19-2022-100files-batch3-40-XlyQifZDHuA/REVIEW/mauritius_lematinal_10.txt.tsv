@@ -3,8 +3,8 @@ https://english.lematinal.media/maxime-sauzier-is-the-new-president-of-mt/	O
 The	O
 board	O
 of	O
-Mauritius	B-Location	B-Organization
-Telecom	O	I-Organization
+Mauritius	B-Organization	B-Location
+Telecom	I-Organization
 has	O
 been	O
 reconstituted	O
@@ -42,8 +42,8 @@ four	O
 representatives	O
 of	O
 the	O
-Mauritian	B-NORP	B-Organization
-government	O	I-Organization
+Mauritian	B-Organization	B-NORP
+government	I-Organization
 ,	O
 namely	O
 Dheeren	B-Person
@@ -65,8 +65,8 @@ from	O
 the	O
 board	O
 of	O
-Mauritius	B-Location	B-Organization
-Telecom	O	I-Organization
+Mauritius	B-Organization	B-Location
+Telecom	I-Organization
 .	O
 
 They	O

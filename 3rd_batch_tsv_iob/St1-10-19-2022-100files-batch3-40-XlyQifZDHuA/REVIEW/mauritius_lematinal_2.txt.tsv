@@ -21,11 +21,11 @@ Independent	B-Organization
 Review	I-Organization
 Panel	I-Organization
 in	O
-Belmont	B-Facility	B-Location
-House	I-Facility	I-Location
-,	O	I-Location
-Port	O	I-Location
-Louis	O	I-Location
+Belmont	B-Location	B-Facility
+House	I-Location	I-Facility
+,	I-Location
+Port	I-Location
+Louis	I-Location
 ,	O
 with	O
 a	O

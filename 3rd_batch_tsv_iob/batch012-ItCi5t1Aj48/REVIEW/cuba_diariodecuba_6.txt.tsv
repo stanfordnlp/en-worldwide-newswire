@@ -349,8 +349,8 @@ again	O
 insisted	O
 that	O
 the	O
-Cuban	B-NORP	B-Organization
-Government	O	I-Organization
+Cuban	B-Organization	B-NORP
+Government	I-Organization
 must	O
 declare	O
 "	O

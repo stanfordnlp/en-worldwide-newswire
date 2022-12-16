@@ -54,8 +54,8 @@ mini	O
 version	O
 of	O
 the	O
-Russian	B-NORP	B-Facility
-Poseidon	O	I-Facility
+Russian	B-Facility	B-NORP
+Poseidon	I-Facility
 unmanned	O
 submarine	O
 –	O
@@ -179,11 +179,11 @@ Guo	B-Person
 Jian	I-Person
 from	O
 the	O
-China	B-Location	B-Organization
-Institute	O	I-Organization
-of	O	I-Organization
-Atomic	O	I-Organization
-Energy	O	I-Organization
+China	B-Organization	B-Location
+Institute	I-Organization
+of	I-Organization
+Atomic	I-Organization
+Energy	I-Organization
 said	O
 there	O
 is	O
@@ -218,10 +218,10 @@ publication	O
 run	O
 by	O
 the	O
-China	B-Location	B-Organization
-Shipbuilding	O	I-Organization
-Industry	O	I-Organization
-Corporation	O	I-Organization
+China	B-Organization	B-Location
+Shipbuilding	I-Organization
+Industry	I-Organization
+Corporation	I-Organization
 ,	O
 the	O
 country	O
@@ -417,10 +417,10 @@ cost	O
 smaller	O
 version	O
 of	O
-Russia	B-Location	B-Facility
-’	O	I-Facility
-s	O	I-Facility
-Poseidon	O	I-Facility
+Russia	B-Facility	B-Location
+’	I-Facility
+s	I-Facility
+Poseidon	I-Facility
 nuclear	O
 -	O
 powered	O
@@ -452,10 +452,10 @@ cost	O
 smaller	O
 version	O
 of	O
-Russia	B-Location	B-Facility
-’	O	I-Facility
-s	O	I-Facility
-Poseidon	O	I-Facility
+Russia	B-Facility	B-Location
+’	I-Facility
+s	I-Facility
+Poseidon	I-Facility
 nuclear	O
 -	O
 powered	O
@@ -516,8 +516,8 @@ mini	O
 version	O
 of	O
 the	O
-Russian	B-NORP	B-Facility
-Poseidon	O	I-Facility
+Russian	B-Facility	B-NORP
+Poseidon	I-Facility
 unmanned	O
 submarine	O
 –	O
@@ -641,11 +641,11 @@ Guo	B-Person
 Jian	I-Person
 from	O
 the	O
-China	B-Location	B-Organization
-Institute	O	I-Organization
-of	O	I-Organization
-Atomic	O	I-Organization
-Energy	O	I-Organization
+China	B-Organization	B-Location
+Institute	I-Organization
+of	I-Organization
+Atomic	I-Organization
+Energy	I-Organization
 said	O
 there	O
 is	O
@@ -680,10 +680,10 @@ publication	O
 run	O
 by	O
 the	O
-China	B-Location	B-Organization
-Shipbuilding	O	I-Organization
-Industry	O	I-Organization
-Corporation	O	I-Organization
+China	B-Organization	B-Location
+Shipbuilding	I-Organization
+Industry	I-Organization
+Corporation	I-Organization
 ,	O
 the	O
 country	O

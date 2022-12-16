@@ -8,8 +8,8 @@ intent	O
 to	O
 bar	O
 the	O
-Jewish	B-NORP	B-Organization
-Agency	O	I-Organization
+Jewish	B-Organization	B-NORP
+Agency	I-Organization
 from	O
 operating	O
 in	O
@@ -186,17 +186,17 @@ invaders	O
 
 After	O
 the	O
-Russian	B-NORP	B-Organization
-Justice	O	I-Organization
-Ministry	O	I-Organization
+Russian	B-Organization	B-NORP
+Justice	I-Organization
+Ministry	I-Organization
 ’	O
 s	O
 bombshell	O
 announcement	O
 about	O
 the	O
-Jewish	B-NORP	B-Organization
-Agency	O	I-Organization
+Jewish	B-Organization	B-NORP
+Agency	I-Organization
 last	O
 week	O
 ,	O
@@ -296,8 +296,8 @@ Israeli	B-NORP
 activity	O
 (	O
 the	O
-Jewish	B-NORP	B-Organization
-Agency	O	I-Organization
+Jewish	B-Organization	B-NORP
+Agency	I-Organization
 ’	O
 s	O
 presence	O
@@ -490,8 +490,8 @@ in	O
 favor	O
 of	O
 the	O
-Assad	B-Person	B-Organization
-regime	O	I-Organization
+Assad	B-Organization	B-Person
+regime	I-Organization
 )	O
 ,	O
 Israel	B-Location
@@ -979,9 +979,9 @@ clashing	O
 directly	O
 with	O
 the	O
-Israel	B-Location	B-Organization
-Air	O	I-Organization
-Force	O	I-Organization
+Israel	B-Organization	B-Location
+Air	I-Organization
+Force	I-Organization
 in	O
 Syria	B-Location
 ’	O
@@ -996,8 +996,8 @@ considerations	O
 than	O
 preserving	O
 the	O
-Jewish	B-NORP	B-Organization
-Agency	O	I-Organization
+Jewish	B-Organization	B-NORP
+Agency	I-Organization
 ’	O
 s	O
 freedom	O

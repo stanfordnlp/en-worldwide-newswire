@@ -200,9 +200,9 @@ ED	B-Organization
 had	O
 told	O
 the	O
-Calcutta	B-Location	B-Facility
-High	O	I-Facility
-Court	O	I-Facility
+Calcutta	B-Facility	B-Location
+High	I-Facility
+Court	I-Facility
 on	O
 Sunday	B-Misc
 that	O

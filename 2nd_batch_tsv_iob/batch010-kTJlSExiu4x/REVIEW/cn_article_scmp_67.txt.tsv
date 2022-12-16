@@ -5,17 +5,17 @@ CEO	O
 of	O
 mining	O
 giant	O
-China	B-Location	B-Organization
-Molybdenum	O	I-Organization
+China	B-Organization	B-Location
+Molybdenum	I-Organization
 was	O
 back	O
 in	O
 the	O
-Democratic	B-NORP	B-Location
-Republic	O	I-Location
-of	O	I-Location
-the	O	I-Location
-Congo	O	I-Location
+Democratic	B-Location	B-NORP
+Republic	I-Location
+of	I-Location
+the	I-Location
+Congo	I-Location
 (	O
 DRC	B-Location
 )	O
@@ -42,8 +42,8 @@ three	O
 months	O
 came	O
 as	O
-China	B-Location	B-Organization
-Moly	O	I-Organization
+China	B-Organization	B-Location
+Moly	I-Organization
 ’	O
 s	O
 copper	O
@@ -135,11 +135,11 @@ energy	O
 metals	O
 in	O
 the	O
-Democratic	B-NORP	B-Organization
-Republic	O	I-Organization
-of	O	I-Organization
-the	O	I-Organization
-Congo	O	I-Organization
+Democratic	B-Organization	B-NORP
+Republic	I-Organization
+of	I-Organization
+the	I-Organization
+Congo	I-Organization
 together	O
 with	O
 corporate	O
@@ -150,8 +150,8 @@ partners	O
 a	O
 statement	O
 from	O
-China	B-Location	B-Organization
-Moly	O	I-Organization
+China	B-Organization	B-Location
+Moly	I-Organization
 –	O
 the	O
 world	O
@@ -190,8 +190,8 @@ the	O
 southeast	O
 ,	O
 suspended	O
-China	B-Location	B-Organization
-Moly	O	I-Organization
+China	B-Organization	B-Location
+Moly	I-Organization
 from	O
 the	O
 management	O
@@ -240,8 +240,8 @@ Gecamines	B-Organization
 .	O
 
 Although	O
-China	B-Location	B-Organization
-Moly	O	I-Organization
+China	B-Organization	B-Location
+Moly	I-Organization
 ’	O
 s	O
 readout	O
@@ -279,8 +279,8 @@ mine	I-Facility
 ,	O
 has	O
 accused	O
-China	B-Location	B-Organization
-Moly	O	I-Organization
+China	B-Organization	B-Location
+Moly	I-Organization
 of	O
 not	O
 declaring	O
@@ -344,8 +344,8 @@ welcomed	O
 further	O
 investments	O
 from	O
-China	B-Location	B-Organization
-Moly	O	I-Organization
+China	B-Organization	B-Location
+Moly	I-Organization
 which	O
 was	O
 an	O
@@ -435,8 +435,8 @@ interest	O
 ”	O
 .	O
 
-China	B-Location	B-Organization
-Moly	O	I-Organization
+China	B-Organization	B-Location
+Moly	I-Organization
 acquired	O
 a	O
 95	O
@@ -580,8 +580,8 @@ them	O
 .	O
 Apart	O
 from	O
-China	B-Location	B-Organization
-Moly	O	I-Organization
+China	B-Organization	B-Location
+Moly	I-Organization
 ’	O
 s	O
 contracts	O
@@ -592,10 +592,10 @@ wants	O
 to	O
 renegotiate	O
 a	O
-US	B-Location	B-Money
-$	O	I-Money
-6	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+6	I-Money
+billion	I-Money
 infrastructure	O
 -	O
 for	O
@@ -657,9 +657,9 @@ francophone	O
 editor	O
 at	O
 the	O
-China	B-Location	B-Organization
-Africa	O	I-Organization	B-Location
-Project	O	I-Organization
+China	B-Organization	B-Location
+Africa	I-Organization	B-Location
+Project	I-Organization
 .	O
 
 “	O
@@ -835,8 +835,8 @@ is	O
 very	O
 important	O
 for	O
-China	B-Location	B-Organization
-Moly	O	I-Organization
+China	B-Organization	B-Location
+Moly	I-Organization
 because	O
 it	O
 ’	O
@@ -1020,8 +1020,8 @@ putting	O
 more	O
 pressure	O
 on	O
-China	B-Location	B-Organization
-Moly	O	I-Organization
+China	B-Organization	B-Location
+Moly	I-Organization
 via	O
 the	O
 legal	O
@@ -1041,10 +1041,10 @@ cobalt	O
 mine	O
 ,	O
 after	O
-Anglo	B-NORP	B-Organization
--	O	I-Organization
-Swiss	O	I-Organization	B-NORP
-Glencore	O	I-Organization
+Anglo	B-Organization	B-NORP
+-	I-Organization
+Swiss	I-Organization	B-NORP
+Glencore	I-Organization
 ’	O
 s	O
 Mutanda	B-Facility
@@ -1063,8 +1063,8 @@ strategic	O
 asset	O
 for	O
 both	O
-China	B-Location	B-Organization
-Moly	O	I-Organization
+China	B-Organization	B-Location
+Moly	I-Organization
 and	O
 China	B-Location
 itself	O

@@ -28,9 +28,9 @@ Centre	I-Organization
 EMC	B-Organization
 )	O
 at	O
-Sultan	B-Person	B-Organization
-Qaboos	I-Person	I-Organization
-University	O	I-Organization
+Sultan	B-Organization	B-Person
+Qaboos	I-Organization	I-Person
+University	I-Organization
 said	O
 .	O
 

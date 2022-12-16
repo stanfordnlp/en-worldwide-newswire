@@ -102,8 +102,8 @@ oscillating	O
 ever	O
 since	O
 the	O
-Iranian	B-NORP	B-Misc
-Revolution	O	I-Misc
+Iranian	B-Misc	B-NORP
+Revolution	I-Misc
 led	O
 by	O
 Khomeini	B-Person
@@ -127,8 +127,8 @@ first	O
 day	O
 of	O
 the	O
-Khomeini	B-Person	B-Misc
-revolution	O	I-Misc
+Khomeini	B-Misc	B-Person
+revolution	I-Misc
 ,	O
 and	O
 the	O

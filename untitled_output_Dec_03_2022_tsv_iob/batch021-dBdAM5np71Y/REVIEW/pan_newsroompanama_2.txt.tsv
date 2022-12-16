@@ -66,9 +66,9 @@ the	O
 ranks	O
 of	O
 the	O
-Democratic	B-NORP	B-Organization
-Revolutionary	O	I-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Revolutionary	I-Organization
+Party	I-Organization
 (	O
 PRD	B-Organization
 )	O

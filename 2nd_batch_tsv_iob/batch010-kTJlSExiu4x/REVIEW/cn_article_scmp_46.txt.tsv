@@ -492,10 +492,10 @@ India	I-Organization	B-Location
 containing	O
 a	O
 combined	O
-US	B-Location	B-Money
-$	O	I-Money
-58.7	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+58.7	I-Money
+million	I-Money
 .	O
 The	O
 move	O
@@ -523,10 +523,10 @@ Directorate	O
 said	O
 it	O
 seized	O
-US	B-Location	B-Money
-$	O	I-Money
-725	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+725	I-Money
+million	I-Money
 from	O
 Xiaomi	B-Organization
 ,	O
@@ -553,10 +553,10 @@ finance	O
 ministry	O
 to	O
 pay	O
-US	B-Location	B-Money
-$	O	I-Money
-87.8	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+87.8	I-Money
+million	I-Money
 in	O
 import	O
 taxes	O

@@ -7,12 +7,12 @@ collecting	O
 society	O
 ,	O
 the	O
-Zimbabwe	B-NORP	B-Organization
-Artists	O	I-Organization
-Benevolent	O	I-Organization
-and	O	I-Organization
-Copyright	O	I-Organization
-Incorporated	O	I-Organization
+Zimbabwe	B-Organization	B-NORP
+Artists	I-Organization
+Benevolent	I-Organization
+and	I-Organization
+Copyright	I-Organization
+Incorporated	I-Organization
 has	O
 been	O
 incorporated	O
@@ -48,12 +48,12 @@ Michael	B-Person
 Zinyoni	I-Person
 ,	O
 the	O
-Zimbabwe	B-Location	B-Organization
-Artists	O	I-Organization
-Benevolent	O	I-Organization
-and	O	I-Organization
-Copyright	O	I-Organization
-Incorporated	O	I-Organization
+Zimbabwe	B-Organization	B-Location
+Artists	I-Organization
+Benevolent	I-Organization
+and	I-Organization
+Copyright	I-Organization
+Incorporated	I-Organization
 is	O
 a	O
 registered	O
@@ -912,10 +912,10 @@ for	O
 all	O
 along	O
 the	O
-Zimbabwe	B-Location	B-Organization
-Music	O	I-Organization
-Rights	O	I-Organization
-Association	O	I-Organization
+Zimbabwe	B-Organization	B-Location
+Music	I-Organization
+Rights	I-Organization
+Association	I-Organization
 (	O
 ZIMURA	B-Organization
 )	O

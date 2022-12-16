@@ -60,10 +60,10 @@ chief	O
 minister	O
 and	O
 the	O
-Karnataka	B-Location	B-Organization
-Pradesh	O	I-Organization
-Congress	O	I-Organization
-Committee	O	I-Organization
+Karnataka	B-Organization	B-Location
+Pradesh	I-Organization
+Congress	I-Organization
+Committee	I-Organization
 president	O
 not	O
 only	O

@@ -14,9 +14,9 @@ found	O
 guilty	O
 in	O
 the	O
-Windhoek	B-Location	B-Organization
-High	O	I-Organization
-Court	O	I-Organization
+Windhoek	B-Organization	B-Location
+High	I-Organization
+Court	I-Organization
 on	O
 three	O
 counts	O
@@ -297,9 +297,9 @@ testified	O
 that	O
 she	O
 paid	O
-US	B-Location	B-Money
-$	O	I-Money
-500	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+500	I-Money
 to	O
 Bashala	B-Person
 ,	O
@@ -407,9 +407,9 @@ for	O
 a	O
 payment	O
 of	O
-US	B-Location	B-Money
-$	O	I-Money
-500	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+500	I-Money
 to	O
 complete	O
 documents	O
@@ -435,9 +435,9 @@ that	O
 she	O
 paid	O
 Bashala	B-Person
-US	B-Location	B-Money
-$	O	I-Money
-300	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+300	I-Money
 when	O
 she	O
 met	O

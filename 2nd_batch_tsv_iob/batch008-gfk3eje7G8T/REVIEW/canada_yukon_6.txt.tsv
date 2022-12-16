@@ -48,9 +48,9 @@ the	O
 founders	O
 of	O
 the	O
-Klondike	B-Location	B-Misc
-gold	O	I-Misc
-rush	O	I-Misc
+Klondike	B-Misc	B-Location
+gold	I-Misc
+rush	I-Misc
 .	O
 
 Keish	B-Person
@@ -142,10 +142,10 @@ Yukon	B-Location
 .	O
 
 The	O
-Skookum	B-Person	B-Organization
-Jim	I-Person	I-Organization
-Friendship	O	I-Organization
-Centre	O	I-Organization
+Skookum	B-Organization	B-Person
+Jim	I-Organization	I-Person
+Friendship	I-Organization
+Centre	I-Organization
 ,	O
 a	O
 non	O

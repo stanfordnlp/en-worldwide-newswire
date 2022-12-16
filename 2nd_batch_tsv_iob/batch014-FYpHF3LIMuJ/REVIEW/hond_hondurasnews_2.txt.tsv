@@ -15,12 +15,12 @@ CKE	B-Organization
 parent	O
 company	O
 of	O
-Carl	B-Person	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Jr	O	I-Organization
-.	O	I-Organization
-®	O	I-Organization
+Carl	B-Organization	B-Person
+’	I-Organization
+s	I-Organization
+Jr	I-Organization
+.	I-Organization
+®	I-Organization
 and	O
 Hardee	B-Organization
 ’	I-Organization
@@ -34,10 +34,10 @@ opening	O
 of	O
 its	O
 second	O
-Carl	B-Person	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Jr	O	I-Organization
+Carl	B-Organization	B-Person
+’	I-Organization
+s	I-Organization
+Jr	I-Organization
 .	O
 restaurant	O
 in	O
@@ -90,10 +90,10 @@ COHDESA	B-Organization
 .	O
 Two	O
 additional	O
-Carl	B-Person	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Jr	O	I-Organization
+Carl	B-Organization	B-Person
+’	I-Organization
+s	I-Organization
+Jr	I-Organization
 .	O
 restaurants	O
 will	O
@@ -173,10 +173,10 @@ we	O
 opened	O
 our	O
 first	O
-Carl	B-Person	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Jr	O	I-Organization
+Carl	B-Organization	B-Person
+’	I-Organization
+s	I-Organization
+Jr	I-Organization
 .	O
 restaurant	O
 in	O
@@ -215,10 +215,10 @@ by	O
 opening	O
 three	O
 new	O
-Carl	B-Person	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Jr	O	I-Organization
+Carl	B-Organization	B-Person
+’	I-Organization
+s	I-Organization
+Jr	I-Organization
 .	O
 restaurants	O
 in	O
@@ -297,10 +297,10 @@ Biscuit	I-Product
 Key	O
 facts	O
 about	O
-Carl	B-Person	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Jr	O	I-Organization
+Carl	B-Organization	B-Person
+’	I-Organization
+s	I-Organization
+Jr	I-Organization
 .	O
 in	O
 San	B-Location
@@ -343,10 +343,10 @@ Menu	O
 features	O
 :	O
 ◦	O
-Carl	B-Person	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Jr	O	I-Organization
+Carl	B-Organization	B-Person
+’	I-Organization
+s	I-Organization
+Jr	I-Organization
 .	O
 ’	O
 s	O

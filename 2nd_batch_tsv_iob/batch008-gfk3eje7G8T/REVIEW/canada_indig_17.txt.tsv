@@ -163,10 +163,10 @@ to	O
 the	O
 Prince	O
 of	O
-Wales	B-Location	B-Facility
-Northern	O	I-Facility
-Heritage	O	I-Facility
-Centre	O	I-Facility
+Wales	B-Facility	B-Location
+Northern	I-Facility
+Heritage	I-Facility
+Centre	I-Facility
 .	O
 
 Visitors	O

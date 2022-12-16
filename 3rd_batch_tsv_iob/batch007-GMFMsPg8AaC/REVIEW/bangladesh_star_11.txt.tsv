@@ -44,9 +44,9 @@ demonstrated	O
 in	O
 front	O
 of	O
-Ranisankail	B-Location	B-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Ranisankail	B-Facility	B-Location
+Police	I-Facility
+Station	I-Facility
 until	O
 late	O
 last	O
@@ -111,11 +111,11 @@ the	O
 polling	O
 centre	O
 at	O
-Bhangbari	B-Location	B-Organization
-VF	O	I-Organization
-Junior	O	I-Organization
-High	O	I-Organization
-School	O	I-Organization
+Bhangbari	B-Organization	B-Location
+VF	I-Organization
+Junior	I-Organization
+High	I-Organization
+School	I-Organization
 when	O
 the	O
 supporters	O
@@ -204,9 +204,9 @@ Mirdangi	B-Location
 village	O
 ,	O
 said	O
-Upazila	B-Location	B-Misc
-Nirbahi	O	I-Misc
-Officer	O	I-Misc
+Upazila	B-Misc	B-Location
+Nirbahi	I-Misc
+Officer	I-Misc
 (	O
 UNO	B-Misc
 )	O
@@ -230,9 +230,9 @@ in	O
 the	O
 election	O
 to	O
-Bachor	B-Location	B-Organization
-Union	O	I-Organization
-Parishad	O	I-Organization
+Bachor	B-Organization	B-Location
+Union	I-Organization
+Parishad	I-Organization
 started	O
 demonstrating	O
 as	O

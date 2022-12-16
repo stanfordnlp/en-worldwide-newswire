@@ -133,10 +133,10 @@ Bank	I-Organization
 of	I-Organization
 China	I-Organization	B-Location
 pledged	O
-US	B-Location	B-Money
-$	O	I-Money
-2	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+2	I-Money
+billion	I-Money
 in	O
 oil	O
 -	O
@@ -276,10 +276,10 @@ Chinese	B-NORP
 capital	O
 ,	O
 receiving	O
-US	B-Location	B-Money
-$	O	I-Money
-42.6	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+42.6	I-Money
+billion	I-Money
 from	O
 Chinese	B-NORP
 lenders	O
@@ -318,9 +318,9 @@ prices	O
 plummeted	O
 to	O
 below	O
-US	B-Location	B-Money
-$	O	I-Money
-50	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+50	I-Money
 a	O
 barrel	O
 in	O
@@ -331,9 +331,9 @@ from	O
 a	O
 high	O
 of	O
-US	B-Location	B-Money
-$	O	I-Money
-115	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+115	I-Money
 per	O
 barrel	O
 ,	O
@@ -664,10 +664,10 @@ African	I-Organization	B-NORP
 Studies	I-Organization
 at	O
 the	O
-Catholic	B-NORP	B-Organization
-University	O	I-Organization
-of	O	I-Organization
-Angola	O	I-Organization	B-Location
+Catholic	B-Organization	B-NORP
+University	I-Organization
+of	I-Organization
+Angola	I-Organization	B-Location
 .	O
 
 However	O
@@ -732,9 +732,9 @@ are	O
 part	O
 of	O
 the	O
-Chinese	B-NORP	B-Misc	B-Organization
-trading	O	I-Misc	I-Organization
-community	O	I-Misc	I-Organization
+Chinese	B-Misc	B-Organization	B-NORP
+trading	I-Misc	I-Organization
+community	I-Misc	I-Organization
 .	O
 ”	O
 
@@ -959,11 +959,11 @@ co	O
 founder	O
 of	O
 the	O
-Polish	B-NORP	B-Organization
-Centre	O	I-Organization
-for	O	I-Organization
-African	O	I-Organization	B-NORP
-Studies	O	I-Organization
+Polish	B-Organization	B-NORP
+Centre	I-Organization
+for	I-Organization
+African	I-Organization	B-NORP
+Studies	I-Organization
 ,	O
 said	O
 Lourenco	B-Person

@@ -8,15 +8,15 @@ the	O
 vision	O
 of	O
 the	O
-Qatar	B-Location	B-Organization
-Diabetes	O	I-Organization
-Association	O	I-Organization
+Qatar	B-Organization	B-Location
+Diabetes	I-Organization
+Association	I-Organization
 ,	O
 a	O
 member	O
 of	O
-Qatar	B-Location	B-Organization
-Foundation	O	I-Organization
+Qatar	B-Organization	B-Location
+Foundation	I-Organization
 ,	O
 aimed	O
 at	O
@@ -44,9 +44,9 @@ living	O
 with	O
 diabetes	O
 ,	O
-Qatar	B-Location	B-Organization
-Diabetes	O	I-Organization
-Association	O	I-Organization
+Qatar	B-Organization	B-Location
+Diabetes	I-Organization
+Association	I-Organization
 has	O
 organised	O
 three	O
@@ -78,17 +78,17 @@ Al	B-Organization
 Meera	I-Organization
 staff	O
 at	O
-Qatar	B-Location	B-Facility
-Tower	O	I-Facility
+Qatar	B-Facility	B-Location
+Tower	I-Facility
 .	O
 
 The	O
 Medical	O
 Team	O
 of	O
-Qatar	B-Location	B-Organization
-Diabetes	O	I-Organization
-Association	O	I-Organization
+Qatar	B-Organization	B-Location
+Diabetes	I-Organization
+Association	I-Organization
 conducted	O
 a	O
 blood	O
@@ -171,9 +171,9 @@ followed	O
 up	O
 at	O
 the	O
-Qatar	B-Location	B-Organization
-Diabetes	O	I-Organization
-Association	O	I-Organization
+Qatar	B-Organization	B-Location
+Diabetes	I-Organization
+Association	I-Organization
 clinics	O
 .	O
 
@@ -194,9 +194,9 @@ Hamaq	I-Person
 Executive	O
 Director	O
 of	O
-Qatar	B-Location	B-Organization
-Diabetes	O	I-Organization
-Association	O	I-Organization
+Qatar	B-Organization	B-Location
+Diabetes	I-Organization
+Association	I-Organization
 ,	O
 said	O
 ,	O

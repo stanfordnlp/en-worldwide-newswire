@@ -315,10 +315,10 @@ Saglek	B-Location
 fjords	I-Location
 in	O
 the	O
-Torngat	B-Location	B-Facility
-Mountains	I-Location	I-Facility
-National	O	I-Facility
-Park	O	I-Facility
+Torngat	B-Facility	B-Location
+Mountains	I-Facility	I-Location
+National	I-Facility
+Park	I-Facility
 .	O
 
 The	O
@@ -511,10 +511,10 @@ Friedlander	I-Person
 chief	O
 scientist	O
 on	O
-National	B-Organization	B-Misc
-Geographic	I-Organization	I-Misc
-Pristine	O	I-Misc
-Seas	O	I-Misc
+National	B-Misc	B-Organization
+Geographic	I-Misc	I-Organization
+Pristine	I-Misc
+Seas	I-Misc
 .	O
 
 "	O
@@ -922,8 +922,8 @@ Kasudluak	B-Person
 .	O
 
 The	O
-Nunavik	B-Location	B-NORP
-Inuit	O	I-NORP
+Nunavik	B-NORP	B-Location
+Inuit	I-NORP
 -	O
 led	O
 conservation	O

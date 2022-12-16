@@ -77,8 +77,8 @@ $	I-Money
 )	O
 ,	O
 the	O
-Shanghai	B-Location	B-Organization
-court	O	I-Organization
+Shanghai	B-Organization	B-Location
+court	I-Organization
 said	O
 in	O
 a	O
@@ -93,8 +93,8 @@ among	O
 people	O
 arrested	O
 by	O
-Shanghai	B-Location	B-Organization
-police	O	I-Organization
+Shanghai	B-Organization	B-Location
+police	I-Organization
 for	O
 selling	O
 diet	O

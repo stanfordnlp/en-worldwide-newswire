@@ -24,8 +24,8 @@ from	O
 Ethiopia	B-Location
 .	O
 The	O
-Asmara	B-Location	B-Organization
-government	O	I-Organization
+Asmara	B-Organization	B-Location
+government	I-Organization
 reports	O
 of	O
 large	O
@@ -914,8 +914,8 @@ countries	O
 Europe	B-Location
 ,	O
 the	O
-Arab	B-NORP	B-Location
-peninsula	O	I-Location
+Arab	B-Location	B-NORP
+peninsula	I-Location
 or	O
 even	O
 the	O
@@ -1416,9 +1416,9 @@ Idi	B-Person
 Amin	I-Person
 ,	O
 the	O
-Central	B-NORP	B-Organization
-African	I-NORP	I-Organization
-Empire	O	I-Organization
+Central	B-Organization	B-NORP
+African	I-Organization	I-NORP
+Empire	I-Organization
 's	O
 Jean	B-Person
 -	I-Person
@@ -1557,9 +1557,9 @@ studied	O
 engineering	O
 at	O
 the	O
-Addis	B-Location	B-Organization
-Ababa	I-Location	I-Organization
-University	O	I-Organization
+Addis	B-Organization	B-Location
+Ababa	I-Organization	I-Location
+University	I-Organization
 before	O
 turning	O
 to	O

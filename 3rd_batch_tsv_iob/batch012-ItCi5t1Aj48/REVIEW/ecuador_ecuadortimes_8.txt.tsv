@@ -8,10 +8,10 @@ in	O
 October	B-Misc
 at	O
 the	O
-San	B-Location	B-Facility
-Marino	I-Location	I-Facility
-Shopping	O	I-Facility
-mall	O	I-Facility
+San	B-Facility	B-Location
+Marino	I-Facility	I-Location
+Shopping	I-Facility
+mall	I-Facility
 in	O
 Guayaquil	B-Location
 .	O
@@ -293,9 +293,9 @@ the	O
 first	O
 floor	O
 of	O
-San	B-Location	B-Facility
-Marino	I-Location	I-Facility
-Shopping	O	I-Facility
+San	B-Facility	B-Location
+Marino	I-Facility	I-Location
+Shopping	I-Facility
 and	O
 will	O
 have	O
@@ -393,9 +393,9 @@ San	B-Misc
 Luis	I-Misc
 Shopping	I-Misc
 ,	O
-Quito	B-Location	B-Misc
-Airport	O	I-Misc
-Center	O	I-Misc
+Quito	B-Misc	B-Location
+Airport	I-Misc
+Center	I-Misc
 (	O
 Quito	B-Location
 )	O
@@ -406,9 +406,9 @@ Plaza	O
 Latacunga	B-Location
 )	O
 ,	O
-San	B-Location	B-Misc
-Marino	I-Location	I-Misc
-Shopping	O	I-Misc
+San	B-Misc	B-Location
+Marino	I-Misc	I-Location
+Shopping	I-Misc
 (	O
 Guayaquil	B-Location
 )	O

@@ -64,19 +64,19 @@ was	O
 financed	O
 by	O
 the	O
-Ethiopian	B-NORP	B-Organization
-Electric	O	I-Organization
-Power	O	I-Organization
-Corporation	O	I-Organization
+Ethiopian	B-Organization	B-NORP
+Electric	I-Organization
+Power	I-Organization
+Corporation	I-Organization
 ,	O
 the	O
 World	B-Organization
 Bank	I-Organization
 ,	O
 the	O
-European	B-NORP	B-Organization
-Investment	O	I-Organization
-Bank	O	I-Organization
+European	B-Organization	B-NORP
+Investment	I-Organization
+Bank	I-Organization
 and	O
 Austria	B-Location
 .	O
@@ -146,10 +146,10 @@ general	O
 manager	O
 of	O
 the	O
-Ethiopian	B-NORP	B-Organization
-Electric	O	I-Organization
-Power	O	I-Organization
-Corporation	O	I-Organization
+Ethiopian	B-Organization	B-NORP
+Electric	I-Organization
+Power	I-Organization
+Corporation	I-Organization
 ,	O
 said	O
 that	O

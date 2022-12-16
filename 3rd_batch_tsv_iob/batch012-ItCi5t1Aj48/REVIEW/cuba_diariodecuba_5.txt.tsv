@@ -19,8 +19,8 @@ were	O
 married	O
 at	O
 the	O
-Agüica	B-Location	B-Facility
-Prison	O	I-Facility
+Agüica	B-Facility	B-Location
+Prison	I-Facility
 in	O
 the	O
 municipality	O
@@ -261,8 +261,8 @@ n't	O
 notified	O
 .	O
 
-Cuban	B-NORP	B-Facility
-prison	O	I-Facility
+Cuban	B-Facility	B-NORP
+prison	I-Facility
 system	O
 regulations	O
 do	O
@@ -370,9 +370,9 @@ arrested	O
 
 At	O
 the	O
-Camilo	B-Person	B-Facility
-Cienfuegos	I-Person	I-Facility
-campus	O	I-Facility
+Camilo	B-Facility	B-Person
+Cienfuegos	I-Facility	I-Person
+campus	I-Facility
 of	O
 the	O
 University	B-Organization
@@ -1422,8 +1422,8 @@ his	O
 letter	O
 from	O
 the	O
-Agüica	B-Location	B-Facility
-Prison	O	I-Facility
+Agüica	B-Facility	B-Location
+Prison	I-Facility
 .	O
 
 Cesar	B-Person
@@ -1794,8 +1794,8 @@ suffered	O
 .	O
 
 At	O
-Agüica	B-Location	B-Facility
-Prison	O	I-Facility
+Agüica	B-Facility	B-Location
+Prison	I-Facility
 César	B-Person
 is	O
 not	O
@@ -2080,8 +2080,8 @@ style	O
 as	O
 in	O
 most	O
-Cuban	B-NORP	B-Facility
-prisons	O	I-Facility
+Cuban	B-Facility	B-NORP
+prisons	I-Facility
 ,	O
 but	O
 there	O
@@ -2239,8 +2239,8 @@ Rodríguez	I-Person
 has	O
 been	O
 at	O
-Agüica	B-Location	B-Facility
-Prison	O	I-Facility
+Agüica	B-Facility	B-Location
+Prison	I-Facility
 for	O
 more	O
 than	O
@@ -2736,12 +2736,12 @@ a	O
 teacher	O
 at	O
 the	O
-Josefa	B-Person	B-Person	B-Organization
-Álvarez	I-Person	I-Person	I-Organization
-de	O	I-Person	I-Organization
-Colón	O	I-Person	I-Organization
-elementary	O	O	I-Organization
-school	O	O	I-Organization
+Josefa	B-Organization	B-Person	B-Person
+Álvarez	I-Organization	I-Person	I-Person
+de	I-Organization	I-Person
+Colón	I-Organization	I-Person
+elementary	I-Organization
+school	I-Organization
 .	O
 As	O
 a	O

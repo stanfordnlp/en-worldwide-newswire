@@ -10,9 +10,9 @@ this	O
 day	O
 ,	O
 the	O
-Indian	B-NORP	B-Organization
-Armed	O	I-Organization
-Forces	O	I-Organization
+Indian	B-Organization	B-NORP
+Armed	I-Organization
+Forces	I-Organization
 declared	O
 victory	O
 after	O
@@ -48,8 +48,8 @@ who	O
 threw	O
 February	B-Misc
 1999	I-Misc
-Lahore	B-Location	B-Misc
-Declaration	O	I-Misc
+Lahore	B-Misc	B-Location
+Declaration	I-Misc
 into	O
 dustbin	O
 and	O
@@ -99,8 +99,8 @@ military	O
 plan	O
 of	O
 then	O
-Pakistan	B-Location	B-Organization
-Army	O	I-Organization
+Pakistan	B-Organization	B-Location
+Army	I-Organization
 General	O
 Pervez	B-Person
 Musharraf	I-Person
@@ -129,8 +129,8 @@ the	O
 notion	O
 that	O
 the	O
-Indian	B-NORP	B-Organization
-Army	O	I-Organization
+Indian	B-Organization	B-NORP
+Army	I-Organization
 under	O
 the	O
 leadership	O
@@ -189,11 +189,11 @@ war	O
 the	O
 day	O
 the	O
-Indian	B-NORP	B-Organization
-Cabinet	O	I-Organization
-Committee	O	I-Organization
-on	O	I-Organization
-Security	O	I-Organization
+Indian	B-Organization	B-NORP
+Cabinet	I-Organization
+Committee	I-Organization
+on	I-Organization
+Security	I-Organization
 (	O
 CCS	B-Organization
 )	O
@@ -204,9 +204,9 @@ PM	O
 Vajpayee	B-Person
 ordered	O
 the	O
-Indian	B-NORP	B-Organization
-Armed	O	I-Organization
-Forces	O	I-Organization
+Indian	B-Organization	B-NORP
+Armed	I-Organization
+Forces	I-Organization
 to	O
 throw	O
 out	O
@@ -227,20 +227,20 @@ and	O
 men	O
 of	O
 the	O
-Indian	B-NORP	B-Organization
-Army	O	I-Organization
+Indian	B-Organization	B-NORP
+Army	I-Organization
 with	O
 force	O
 multipliers	O
 of	O
 the	O
-Indian	B-NORP	B-Organization
-Air	O	I-Organization
-force	O	I-Organization
+Indian	B-Organization	B-NORP
+Air	I-Organization
+force	I-Organization
 and	O
 the	O
-Indian	B-NORP	B-Organization
-Navy	O	I-Organization
+Indian	B-Organization	B-NORP
+Navy	I-Organization
 wrested	O
 every	O
 inch	O
@@ -418,9 +418,9 @@ three	O
 arms	O
 of	O
 the	O
-Indian	B-NORP	B-Organization
-Armed	O	I-Organization
-Forces	O	I-Organization
+Indian	B-Organization	B-NORP
+Armed	I-Organization
+Forces	I-Organization
 .	O
 One	O
 must	O
@@ -431,15 +431,15 @@ the	O
 IAF	B-Organization
 joined	O
 the	O
-Kargil	B-Location	B-Misc
-war	O	I-Misc
+Kargil	B-Misc	B-Location
+war	I-Misc
 a	O
 week	O
 later	O
 after	O
 the	O
-Indian	B-NORP	B-Organization
-Army	O	I-Organization
+Indian	B-Organization	B-NORP
+Army	I-Organization
 as	O
 it	O
 wanted	O
@@ -448,8 +448,8 @@ cabinet	O
 approval	O
 .	O
 The	O
-Indian	B-NORP	B-Organization
-Navy	O	I-Organization
+Indian	B-Organization	B-NORP
+Navy	I-Organization
 ’	O
 s	O
 principal	O
@@ -466,8 +466,8 @@ at	O
 the	O
 time	O
 of	O
-Kargil	B-Location	B-Misc
-war	O	I-Misc
+Kargil	B-Misc	B-Location
+war	I-Misc
 as	O
 it	O
 coincidentally	O

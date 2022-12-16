@@ -71,11 +71,11 @@ a	O
 meeting	O
 of	O
 the	O
-Lebanese	B-NORP	B-Organization
--	O	I-Organization
-Egyptian	O	I-Organization	B-NORP
-Business	O	I-Organization
-Association	O	I-Organization
+Lebanese	B-Organization	B-NORP
+-	I-Organization
+Egyptian	I-Organization	B-NORP
+Business	I-Organization
+Association	I-Organization
 (	O
 LEBA	B-Organization
 )	O

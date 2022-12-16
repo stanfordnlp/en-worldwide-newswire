@@ -283,8 +283,8 @@ rule	O
 .	O
 
 The	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 on	O
 Monday	B-Misc
 strongly	O

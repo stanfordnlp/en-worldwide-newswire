@@ -1545,8 +1545,8 @@ to	O
 Australia	B-Location
 ,	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 ,	O
 and	O
 other	O

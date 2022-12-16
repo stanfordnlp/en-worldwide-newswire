@@ -32,14 +32,14 @@ necessary	O
 approvals	O
 from	O
 the	O
-Jordan	B-Location	B-Organization
-Food	O	I-Organization
-and	O	I-Organization
-Drug	O	I-Organization
-Administration	O	I-Organization
-(	O	I-Organization
-JFDA	O	I-Organization
-)	O	I-Organization
+Jordan	B-Organization	B-Location
+Food	I-Organization
+and	I-Organization
+Drug	I-Organization
+Administration	I-Organization
+(	I-Organization
+JFDA	I-Organization
+)	I-Organization
 ,	O
 the	O
 Administration	O
@@ -346,8 +346,8 @@ Jordanian	B-NORP
 expat	O
 told	O
 The	O
-Jordan	B-Location	B-Organization
-Times	O	I-Organization
+Jordan	B-Organization	B-Location
+Times	I-Organization
 that	O
 she	O
 gets	O
@@ -583,8 +583,8 @@ effects	O
 Khamees	O
 told	O
 The	O
-Jordan	B-Person	B-Organization
-Times	O	I-Organization
+Jordan	B-Organization	B-Person
+Times	I-Organization
 .	O
 
 He	O

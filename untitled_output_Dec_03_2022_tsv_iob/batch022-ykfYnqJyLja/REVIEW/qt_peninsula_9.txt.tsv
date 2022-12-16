@@ -20,13 +20,13 @@ of	O
 society	O
 ,	O
 the	O
-Jassim	B-Person	B-Organization
-and	O	I-Organization
-Hamad	O	I-Organization	B-Person
-bin	O	I-Organization	I-Person
-Jassim	O	I-Organization	I-Person
-Charitable	O	I-Organization
-Foundation	O	I-Organization
+Jassim	B-Organization	B-Person
+and	I-Organization
+Hamad	I-Organization	B-Person
+bin	I-Organization	I-Person
+Jassim	I-Organization	I-Person
+Charitable	I-Organization
+Foundation	I-Organization
 has	O
 revealed	O
 its	O
@@ -205,13 +205,13 @@ Hajri	I-Person
 CEO	O
 of	O
 the	O
-Jassim	B-Person	B-Organization
-and	O	I-Organization
-Hamad	O	I-Organization	B-Person
-bin	O	I-Organization	I-Person
-Jassim	O	I-Organization	I-Person
-Charitable	O	I-Organization
-Foundation	O	I-Organization
+Jassim	B-Organization	B-Person
+and	I-Organization
+Hamad	I-Organization	B-Person
+bin	I-Organization	I-Person
+Jassim	I-Organization	I-Person
+Charitable	I-Organization
+Foundation	I-Organization
 ,	O
 confirmed	O
 that	O
@@ -312,10 +312,10 @@ based	O
 on	O
 aims	O
 of	O
-Qatar	B-Location	B-Misc
-National	O	I-Misc
-Vision	O	I-Misc
-2030	O	I-Misc	B-Misc
+Qatar	B-Misc	B-Location
+National	I-Misc
+Vision	I-Misc
+2030	I-Misc	B-Misc
 ,	O
 ”	O
 he	O
@@ -491,13 +491,13 @@ obstacles	O
 .	O
 
 The	O
-Jassim	B-Person	B-Organization
-and	O	I-Organization
-Hamad	O	I-Organization	B-Person
-bin	O	I-Organization	I-Person
-Jassim	O	I-Organization	I-Person
-Charitable	O	I-Organization
-Foundation	O	I-Organization
+Jassim	B-Organization	B-Person
+and	I-Organization
+Hamad	I-Organization	B-Person
+bin	I-Organization	I-Person
+Jassim	I-Organization	I-Person
+Charitable	I-Organization
+Foundation	I-Organization
 also	O
 provided	O
 financial	O
@@ -510,9 +510,9 @@ the	O
 agreement	O
 with	O
 the	O
-Hamad	B-Person	B-Organization
-Medical	O	I-Organization
-Corporation	O	I-Organization
+Hamad	B-Organization	B-Person
+Medical	I-Organization
+Corporation	I-Organization
 (	O
 HMC	B-Organization
 )	O
@@ -555,13 +555,13 @@ deserve	O
 it	O
 ,	O
 the	O
-Jassim	B-Person	B-Organization
-and	O	I-Organization
-Hamad	O	I-Organization	B-Person
-bin	O	I-Organization	I-Person
-Jassim	O	I-Organization	I-Person
-Charitable	O	I-Organization
-Foundation	O	I-Organization
+Jassim	B-Organization	B-Person
+and	I-Organization
+Hamad	I-Organization	B-Person
+bin	I-Organization	I-Person
+Jassim	I-Organization	I-Person
+Charitable	I-Organization
+Foundation	I-Organization
 realizes	O
 the	O
 importance	O
@@ -578,13 +578,13 @@ development	O
 Whereas	O
 ,	O
 the	O
-Jassim	B-Person	B-Organization
-and	O	I-Organization
-Hamad	O	I-Organization	B-Person
-bin	O	I-Organization	I-Person
-Jassim	O	I-Organization	I-Person
-Charitable	O	I-Organization
-Foundation	O	I-Organization
+Jassim	B-Organization	B-Person
+and	I-Organization
+Hamad	I-Organization	B-Person
+bin	I-Organization	I-Person
+Jassim	I-Organization	I-Person
+Charitable	I-Organization
+Foundation	I-Organization
 is	O
 adopting	O
 a	O
@@ -645,13 +645,13 @@ aid	O
 provided	O
 by	O
 the	O
-Jassim	B-Person	B-Organization
-and	O	I-Organization
-Hamad	O	I-Organization	B-Person
-bin	O	I-Organization	I-Person
-Jassim	O	I-Organization	I-Person
-Charitable	O	I-Organization
-Foundation	O	I-Organization
+Jassim	B-Organization	B-Person
+and	I-Organization
+Hamad	I-Organization	B-Person
+bin	I-Organization	I-Person
+Jassim	I-Organization	I-Person
+Charitable	I-Organization
+Foundation	I-Organization
 during	O
 the	O
 first	O
@@ -722,13 +722,13 @@ projects	O
 implemented	O
 by	O
 the	O
-Jassim	B-Person	B-Organization
-and	O	I-Organization
-Hamad	O	I-Organization	B-Person
-bin	O	I-Organization	I-Person
-Jassim	O	I-Organization	I-Person
-Charitable	O	I-Organization
-Foundation	O	I-Organization
+Jassim	B-Organization	B-Person
+and	I-Organization
+Hamad	I-Organization	B-Person
+bin	I-Organization	I-Person
+Jassim	I-Organization	I-Person
+Charitable	I-Organization
+Foundation	I-Organization
 are	O
 sustainable	O
 because	O
@@ -769,13 +769,13 @@ face	O
 .	O
 
 The	O
-Jassim	B-Person	B-Organization
-and	O	I-Organization
-Hamad	O	I-Organization	B-Person
-bin	O	I-Organization	I-Person
-Jassim	O	I-Organization	I-Person
-Charitable	O	I-Organization
-Foundation	O	I-Organization
+Jassim	B-Organization	B-Person
+and	I-Organization
+Hamad	I-Organization	B-Person
+bin	I-Organization	I-Person
+Jassim	I-Organization	I-Person
+Charitable	I-Organization
+Foundation	I-Organization
 also	O
 evaluates	O
 cases	O
@@ -903,13 +903,13 @@ of	O
 society	O
 ,	O
 the	O
-Jassim	B-Person	B-Organization
-and	O	I-Organization
-Hamad	O	I-Organization	B-Person
-bin	O	I-Organization	I-Person
-Jassim	O	I-Organization	I-Person
-Charitable	O	I-Organization
-Foundation	O	I-Organization
+Jassim	B-Organization	B-Person
+and	I-Organization
+Hamad	I-Organization	B-Person
+bin	I-Organization	I-Person
+Jassim	I-Organization	I-Person
+Charitable	I-Organization
+Foundation	I-Organization
 provided	O
 financial	O
 and	O

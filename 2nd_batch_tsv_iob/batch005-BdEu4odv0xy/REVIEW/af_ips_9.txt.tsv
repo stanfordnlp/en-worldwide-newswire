@@ -254,9 +254,9 @@ located	O
 in	O
 the	O
 Marsabit	B-Location	B-Location
-sub	O	I-Location
--	O	I-Location
-county	O	I-Location
+sub	I-Location
+-	I-Location
+county	I-Location
 .	O
 Because	O
 of	O
@@ -272,7 +272,7 @@ to	O
 the	O
 nearby	O
 Samburu	B-Location	B-Location
-county	O	I-Location
+county	I-Location
 ,	O
 searching	O
 for	O
@@ -339,7 +339,7 @@ to	O
 the	O
 nearby	O
 Samburu	B-Location	B-Location
-county	O	I-Location
+county	I-Location
 to	O
 avoid	O
 severe	O
@@ -557,11 +557,11 @@ the	O
 managing	O
 director	O
 for	O
-African	B-NORP	B-Organization
-Agency	O	I-Organization
-for	O	I-Organization
-Arid	O	I-Organization
-Resource	O	I-Organization
+African	B-Organization	B-NORP
+Agency	I-Organization
+for	I-Organization
+Arid	I-Organization
+Resource	I-Organization
 (	O
 AGAR	B-Organization
 )	O
@@ -710,7 +710,7 @@ resources	O
 Director	O
 at	O
 Marsabit	B-Location	B-Location
-County	O	I-Location
+County	I-Location
 ,	O
 these	O
 non	O
@@ -799,7 +799,7 @@ Ahatho	B-Person
 
 In	O
 Marsabit	B-Location	B-Location
-county	O	I-Location
+county	I-Location
 ,	O
 these	O
 non	O

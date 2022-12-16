@@ -161,9 +161,9 @@ the	O
 army	O
 ’	O
 s	O
-Kinmen	B-Location	B-Organization
-Defense	O	I-Organization
-Command	O	I-Organization
+Kinmen	B-Organization	B-Location
+Defense	I-Organization
+Command	I-Organization
 ,	O
 the	O
 report	O
@@ -188,13 +188,13 @@ be	O
 known	O
 as	O
 the	O
-Donggang	B-Location	B-Misc
-Incident	O	I-Misc
+Donggang	B-Misc	B-Location
+Incident	I-Misc
 ,	O
 or	O
 the	O
-Lieyu	B-Location	B-Misc
-massacre	O	I-Misc
+Lieyu	B-Misc	B-Location
+massacre	I-Misc
 .	O
 The	O
 islet	O
@@ -252,9 +252,9 @@ later	O
 It	O
 also	O
 prompted	O
-Democratic	B-NORP	B-Organization
-Progressive	O	I-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Progressive	I-Organization
+Party	I-Organization
 (	O
 DPP	B-Organization
 )	O

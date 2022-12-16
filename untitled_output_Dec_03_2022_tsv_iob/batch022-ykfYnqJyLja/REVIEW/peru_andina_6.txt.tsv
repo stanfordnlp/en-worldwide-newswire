@@ -164,11 +164,11 @@ into	O
 the	O
 llaqta	B-NORP
 or	O
-Inca	B-NORP	B-Location
-citadel	O	I-Location
-of	O	I-Location
-Machu	O	I-Location
-Picchu	O	I-Location
+Inca	B-Location	B-NORP
+citadel	I-Location
+of	I-Location
+Machu	I-Location
+Picchu	I-Location
 ,	O
 visitors	O
 must	O

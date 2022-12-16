@@ -269,12 +269,12 @@ the	O
 principles	O
 of	O
 the	O
-Kyoto	B-Location	B-Misc
-Protocol	O	I-Misc
+Kyoto	B-Misc	B-Location
+Protocol	I-Misc
 and	O
 the	O
-Paris	B-Location	B-Misc
-Agreement	O	I-Misc
+Paris	B-Misc	B-Location
+Agreement	I-Misc
 .	O
 
 The	O

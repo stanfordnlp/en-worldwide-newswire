@@ -3,10 +3,10 @@ https://ticotimes.net/2022/07/23/costa-rican-students-compete-for-7-scholarships
 The	O
 Dr	O
 .	O
-Ana	B-Person	B-Misc
-Sittenfeld	I-Person	I-Misc
-Scholarship	O	I-Misc
-Program	O	I-Misc
+Ana	B-Misc	B-Person
+Sittenfeld	I-Misc	I-Person
+Scholarship	I-Misc
+Program	I-Misc
 for	O
 Specialized	O
 Technicians	O
@@ -111,9 +111,9 @@ scholarship	O
 is	O
 worth	O
 approximately	O
-US	B-Location	B-Money
-$	O	I-Money
-50,000	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+50,000	I-Money
 and	O
 includes	O
 tuition	O
@@ -153,13 +153,13 @@ with	O
 funding	O
 from	O
 the	O
-U	B-Location	B-Organization
-.	I-Location	I-Organization
-S	I-Location	I-Organization
-.	I-Location	I-Organization
-Department	O	I-Organization
-of	O	I-Organization
-State	O	I-Organization
+U	B-Organization	B-Location
+.	I-Organization	I-Location
+S	I-Organization	I-Location
+.	I-Organization	I-Location
+Department	I-Organization
+of	I-Organization
+State	I-Organization
 ’	O
 s	O
 Opportunity	O
@@ -256,10 +256,10 @@ Montealegre	B-Person
 The	O
 Dr	O
 .	O
-Ana	B-Person	B-Misc
-Sittenfeld	I-Person	I-Misc
-Scholarship	O	I-Misc
-Program	O	I-Misc
+Ana	B-Misc	B-Person
+Sittenfeld	I-Misc	I-Person
+Scholarship	I-Misc
+Program	I-Misc
 for	O
 Specialized	O
 Technicians	O
@@ -351,20 +351,20 @@ possible	O
 thanks	O
 to	O
 the	O
-US	B-Location	B-Organization
-Embassy	O	I-Organization
+US	B-Organization	B-Location
+Embassy	I-Organization
 in	O
 Costa	B-Location
 Rica	I-Location
 and	O
 the	O
-Costa	B-NORP	B-Facility
-Rican	I-NORP	I-Facility
--	O	I-Facility
-North	O	I-Facility	B-NORP
-American	O	I-Facility	I-NORP
-Cultural	O	I-Facility
-Center	O	I-Facility
+Costa	B-Facility	B-NORP
+Rican	I-Facility	I-NORP
+-	I-Facility
+North	I-Facility	B-NORP
+American	I-Facility	I-NORP
+Cultural	I-Facility
+Center	I-Facility
 through	O
 its	O
 educational	O
@@ -457,9 +457,9 @@ Headquarters	O
 .	O
 
 The	O
-United	B-Location	B-Organization
-States	I-Location	I-Organization
-Embassy	O	I-Organization
+United	B-Organization	B-Location
+States	I-Organization	I-Location
+Embassy	I-Organization
 has	O
 always	O
 supported	O

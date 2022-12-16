@@ -440,8 +440,8 @@ to	O
 hold	O
 the	O
 2010	B-Misc	B-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+World	I-Misc
+Cup	I-Misc
 ,	O
 a	O
 symbolic	O
@@ -496,10 +496,10 @@ for	O
 liberation	O
 from	O
 the	O
-American	B-NORP	B-Organization
--	I-NORP	I-Organization
-Zionist	I-NORP	I-Organization
-alliance	O	I-Organization
+American	B-Organization	B-NORP
+-	I-Organization	I-NORP
+Zionist	I-Organization	I-NORP
+alliance	I-Organization
 .	O
 This	O
 only	O

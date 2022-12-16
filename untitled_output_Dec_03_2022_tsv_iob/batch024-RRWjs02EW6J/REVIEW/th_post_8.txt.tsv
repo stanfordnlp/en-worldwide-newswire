@@ -134,14 +134,14 @@ lab	O
 test	O
 from	O
 the	O
-Thai	B-NORP	B-Organization	B-Facility
-Red	O	I-Organization	I-Facility
-Cross	O	I-Organization	I-Facility
-Emerging	O	O	I-Facility
-Infectious	O	O	I-Facility
-Diseases	O	O	I-Facility
-Clinical	O	O	I-Facility
-Center	O	O	I-Facility
+Thai	B-Facility	B-Organization	B-NORP
+Red	I-Facility	I-Organization
+Cross	I-Facility	I-Organization
+Emerging	I-Facility
+Infectious	I-Facility
+Diseases	I-Facility
+Clinical	I-Facility
+Center	I-Facility
 found	O
 that	O
 the	O

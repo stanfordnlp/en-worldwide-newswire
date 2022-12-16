@@ -44,9 +44,9 @@ from	O
 Charababil	B-Location
 village	O
 under	O
-Raipur	B-Location	B-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Raipur	B-Facility	B-Location
+Police	I-Facility
+Station	I-Facility
 of	O
 Laxmipur	B-Location
 ,	O
@@ -62,9 +62,9 @@ Inspector	I-Misc
 SI	B-Misc
 )	O
 of	O
-Ashulia	B-Location	B-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Ashulia	B-Facility	B-Location
+Police	I-Facility
+Station	I-Facility
 .	O
 
 Both	O

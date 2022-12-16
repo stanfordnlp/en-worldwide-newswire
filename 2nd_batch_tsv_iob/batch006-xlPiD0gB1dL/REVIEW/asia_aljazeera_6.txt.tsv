@@ -1028,13 +1028,13 @@ Odisha	B-Location
 In	O
 2018	B-Misc
 ,	O
-Talabira	B-Location	B-Organization
-(	I-Location	I-Organization
-Odisha	I-Location	I-Organization
-)	I-Location	I-Organization
-Mining	O	I-Organization
-Private	O	I-Organization
-Limited	O	I-Organization
+Talabira	B-Organization	B-Location
+(	I-Organization	I-Location
+Odisha	I-Organization	I-Location
+)	I-Organization	I-Location
+Mining	I-Organization
+Private	I-Organization
+Limited	I-Organization
 ,	O
 a	O
 subsidiary	O

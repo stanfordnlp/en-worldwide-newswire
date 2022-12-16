@@ -509,8 +509,8 @@ the	O
 centenary	O
 of	O
 the	O
-French	B-NORP	B-Misc
-Revolution	O	I-Misc
+French	B-Misc	B-NORP
+Revolution	I-Misc
 .	O
 At	O
 that	O
@@ -651,8 +651,8 @@ room	O
 of	O
 the	O
 outlandish	O
-French	B-NORP	B-Misc
-Renaissance	O	I-Misc
+French	B-Misc	B-NORP
+Renaissance	I-Misc
 -	O
 style	O
 mansion	O
@@ -728,9 +728,9 @@ York	I-Location
 through	O
 the	O
 defunct	O
-Vincent	B-Person	B-Organization
-Astor	I-Person	I-Organization
-Foundation	O	I-Organization
+Vincent	B-Organization	B-Person
+Astor	I-Organization	I-Person
+Foundation	I-Organization
 .	O
 
 Caroline	B-Person
@@ -788,9 +788,9 @@ was	O
 auctioned	O
 through	O
 the	O
-American	B-NORP	B-Organization
-Art	O	I-Organization
-Association	O	I-Organization
+American	B-Organization	B-NORP
+Art	I-Organization
+Association	I-Organization
 (	O
 AAA	B-Organization
 )	O
@@ -1248,15 +1248,15 @@ fact	O
 Ringling	B-Person
 built	O
 the	O
-John	B-Person	B-Location
-and	O	I-Location
-Mable	O	I-Location	B-Person
-Ringling	O	I-Location
-Museum	O	I-Location
-of	O	I-Location
-Art	O	I-Location
-in	O	I-Location
-Sarasota	O	I-Location
+John	B-Location	B-Person
+and	I-Location
+Mable	I-Location	B-Person
+Ringling	I-Location
+Museum	I-Location
+of	I-Location
+Art	I-Location
+in	I-Location
+Sarasota	I-Location
 .	O
 
 Stein	B-Person

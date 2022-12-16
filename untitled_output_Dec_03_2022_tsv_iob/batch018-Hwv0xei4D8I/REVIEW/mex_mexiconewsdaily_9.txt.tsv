@@ -89,10 +89,10 @@ the	O
 leaders	O
 of	O
 the	O
-San	B-Location	B-Organization
-Miguel	I-Location	I-Organization
-Hiking	O	I-Organization
-Group	O	I-Organization
+San	B-Organization	B-Location
+Miguel	I-Organization	I-Location
+Hiking	I-Organization
+Group	I-Organization
 .	O
 
 “	O
@@ -231,10 +231,10 @@ several	O
 hikes	O
 listed	O
 in	O
-San	B-Location	B-Organization
-Miguel	I-Location	I-Organization
-Hiking	O	I-Organization
-Group	O	I-Organization
+San	B-Organization	B-Location
+Miguel	I-Organization	I-Location
+Hiking	I-Organization
+Group	I-Organization
 ’	O
 s	O
 Guide	O
@@ -397,8 +397,8 @@ an	O
 article	O
 on	O
 the	O
-Mexico	B-Location	B-Organization
-Desconocido	O	I-Organization
+Mexico	B-Organization	B-Location
+Desconocido	I-Organization
 website	O
 ,	O
 “	O
@@ -1306,10 +1306,10 @@ Society	I-Organization
 has	O
 published	O
 a	O
-Río	B-Location	B-Misc
-Laja	I-Location	I-Misc
-Trail	I-Location	I-Misc
-Guide	O	I-Misc
+Río	B-Misc	B-Location
+Laja	I-Misc	I-Location
+Trail	I-Misc	I-Location
+Guide	I-Misc
 consisting	O
 of	O
 12	O

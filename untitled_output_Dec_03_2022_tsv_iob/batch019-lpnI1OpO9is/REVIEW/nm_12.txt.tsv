@@ -75,9 +75,9 @@ employers	O
 are	O
 paying	O
 the	O
-Namibia	B-Location	B-Organization
-Training	O	I-Organization
-Authority	O	I-Organization
+Namibia	B-Organization	B-Location
+Training	I-Organization
+Authority	I-Organization
 (	O
 NTA	B-Organization
 )	O
@@ -206,10 +206,10 @@ Last	O
 year	O
 ,	O
 the	O
-African	B-NORP	B-Misc
-Peer	O	I-Misc
-Review	O	I-Misc
-Mechanism	O	I-Misc
+African	B-Misc	B-NORP
+Peer	I-Misc
+Review	I-Misc
+Mechanism	I-Misc
 (	O
 APRM	B-Misc
 )	O
@@ -303,12 +303,12 @@ Namibia	I-Organization	B-Location
 Unam	B-Organization
 )	O
 and	O
-Namibia	B-Location	B-Organization
-University	O	I-Organization
-of	O	I-Organization
-Science	O	I-Organization
-and	O	I-Organization
-Technology	O	I-Organization
+Namibia	B-Organization	B-Location
+University	I-Organization
+of	I-Organization
+Science	I-Organization
+and	I-Organization
+Technology	I-Organization
 have	O
 both	O
 expressed	O

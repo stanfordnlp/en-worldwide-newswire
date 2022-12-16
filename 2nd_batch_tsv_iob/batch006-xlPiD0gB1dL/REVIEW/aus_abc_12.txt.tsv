@@ -228,17 +228,17 @@ on	O
 it	O
 .	O
 
-Victoria	B-Location	B-Organization
-'s	O	I-Organization
-Department	O	I-Organization
-of	O	I-Organization
-Environment	O	I-Organization
-,	O	I-Organization
-Land	O	I-Organization
-,	O	I-Organization
-Water	O	I-Organization
-and	O	I-Organization
-Planning	O	I-Organization
+Victoria	B-Organization	B-Location
+'s	I-Organization
+Department	I-Organization
+of	I-Organization
+Environment	I-Organization
+,	I-Organization
+Land	I-Organization
+,	I-Organization
+Water	I-Organization
+and	I-Organization
+Planning	I-Organization
 have	O
 said	O
 their	O
@@ -784,9 +784,9 @@ ecosystems	O
 .	O
 "	O
 
-Yolngu	B-NORP	B-Organization
-Nations	O	I-Organization
-Assembly	O	I-Organization
+Yolngu	B-Organization	B-NORP
+Nations	I-Organization
+Assembly	I-Organization
 president	O
 and	O
 Gumach	B-Misc
@@ -960,8 +960,8 @@ mythologies	O
 "	O
 
 The	O
-Victorian	B-NORP	B-Organization
-government	O	I-Organization
+Victorian	B-Organization	B-NORP
+government	I-Organization
 has	O
 been	O
 contacted	O

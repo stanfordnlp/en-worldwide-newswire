@@ -1,7 +1,7 @@
 https://allafrica.com/view/group/main/main/id/00082848.html	O
 
-Democratic	B-NORP	B-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Party	I-Organization
 (	O
 DP	B-Organization
 )	O

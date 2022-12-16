@@ -415,10 +415,10 @@ however	O
 are	O
 not	O
 the	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
-of	O	I-Organization
-Cuba	O	I-Organization	B-Organization
+Communist	B-Organization	B-NORP
+Party	I-Organization
+of	I-Organization
+Cuba	I-Organization	B-Organization
 (	O
 CCP	B-Organization
 )	O
@@ -1277,11 +1277,11 @@ Cuba	I-Location
 )	O
 to	O
 the	O
-Cuban	B-NORP	B-Organization
-Observatory	O	I-Organization
-of	O	I-Organization
-Human	O	I-Organization
-Rights	O	I-Organization
+Cuban	B-Organization	B-NORP
+Observatory	I-Organization
+of	I-Organization
+Human	I-Organization
+Rights	I-Organization
 (	O
 OCDH	B-Organization
 )	O
@@ -1326,10 +1326,10 @@ the	O
 Government	O
 and	O
 the	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
-of	O	I-Organization
-Cuba	O	I-Organization	B-Location
+Communist	B-Organization	B-NORP
+Party	I-Organization
+of	I-Organization
+Cuba	I-Organization	B-Location
 "	O
 and	O
 that	O

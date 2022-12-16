@@ -439,11 +439,11 @@ of	I-Organization
 Guyana	I-Organization	B-Location
 launched	O
 the	O
-Guyana	B-Location	B-Misc
-Anti	O	I-Misc
--	O	I-Misc
-Corruption	O	I-Misc
-Framework	O	I-Misc
+Guyana	B-Misc	B-Location
+Anti	I-Misc
+-	I-Misc
+Corruption	I-Misc
+Framework	I-Misc
 (	O
 at	O
 the	O

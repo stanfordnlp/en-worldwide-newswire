@@ -66,8 +66,8 @@ Asia	B-Location
 ,	O
 had	O
 acquired	O
-Haifa	B-Location	B-Facility
-Port	O	I-Facility
+Haifa	B-Facility	B-Location
+Port	I-Facility
 together	O
 with	O
 the	O
@@ -244,11 +244,11 @@ instructors	O
 According	O
 to	O
 the	O
-Stockholm	B-Location	B-Organization
-International	O	I-Organization
-Peace	O	I-Organization
-Research	O	I-Organization
-Institute	O	I-Organization
+Stockholm	B-Organization	B-Location
+International	I-Organization
+Peace	I-Organization
+Research	I-Organization
+Institute	I-Organization
 ,	O
 India	B-Location
 ’	O
@@ -337,9 +337,9 @@ IMI	B-Organization
 Systems	I-Organization
 (	O
 previously	O
-Israel	B-Location	B-Organization
-Military	O	I-Organization
-Industries	O	I-Organization
+Israel	B-Organization	B-Location
+Military	I-Organization
+Industries	I-Organization
 )	O
 formed	O
 a	O
@@ -381,22 +381,22 @@ company	I-Organization
 that	O
 won	O
 the	O
-Haifa	B-Location	B-Facility
-Port	O	I-Facility
+Haifa	B-Facility	B-Location
+Port	I-Facility
 tender	O
 .	O
 Last	O
 year	O
 ,	O
 the	O
-Indian	B-NORP	B-Organization
-army	O	I-Organization
+Indian	B-Organization	B-NORP
+army	I-Organization
 ordered	O
-Israeli	B-NORP	B-Product
-Sky	O	I-Product
--	O	I-Product
-Striker	O	I-Product
-drones	O	I-Product
+Israeli	B-Product	B-NORP
+Sky	I-Product
+-	I-Product
+Striker	I-Product
+drones	I-Product
 ,	O
 which	O
 are	O
@@ -549,8 +549,8 @@ of	O
 Iran	B-Location
 ’	O
 s	O
-Chabahar	B-Location	B-Facility
-Port	O	I-Facility
+Chabahar	B-Facility	B-Location
+Port	I-Facility
 .	O
 India	B-Location
 has	O
@@ -623,9 +623,9 @@ with	O
 Pakistan	B-Location
 ’	O
 s	O
-Gwadar	B-Location	B-Facility
-Sea	O	I-Facility
-Port	O	I-Facility
+Gwadar	B-Facility	B-Location
+Sea	I-Facility
+Port	I-Facility
 ,	O
 which	O
 is	O
@@ -832,8 +832,8 @@ in	O
 rubles	B-Money
 or	O
 even	O
-Emirati	B-NORP	B-Money
-dirhams	O	I-Money
+Emirati	B-Money	B-NORP
+dirhams	I-Money
 .	O
 
 Russia	B-Location
@@ -873,9 +873,9 @@ June	B-Misc
 left	O
 from	O
 the	O
-Chekhov	B-Location	B-Facility
-subway	O	I-Facility
-station	O	I-Facility
+Chekhov	B-Facility	B-Location
+subway	I-Facility
+station	I-Facility
 in	O
 Moscow	B-Location
 on	O
@@ -883,8 +883,8 @@ its	O
 way	O
 to	O
 the	O
-Iranian	B-NORP	B-Facility
-port	O	I-Facility
+Iranian	B-Facility	B-NORP
+port	I-Facility
 of	O
 Bandar	B-Location
 Abbas	I-Location
@@ -1191,13 +1191,13 @@ the	O
 Adani	B-Organization
 company	I-Organization
 acquiring	O
-Haifa	B-Location	B-Facility
-Port	O	I-Facility
+Haifa	B-Facility	B-Location
+Port	I-Facility
 ,	O
 even	O
 though	O
-Adani	B-Organization	B-Facility
-ports	O	I-Facility
+Adani	B-Facility	B-Organization
+ports	I-Facility
 in	O
 India	B-Location
 handle	O

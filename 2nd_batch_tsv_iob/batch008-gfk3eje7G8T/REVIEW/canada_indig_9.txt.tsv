@@ -254,9 +254,9 @@ and	O
 technology	O
 .	O
 The	O
-Inuvialuit	B-Location	B-Organization
-Regional	O	I-Organization
-Corporation	O	I-Organization
+Inuvialuit	B-Organization	B-Location
+Regional	I-Organization
+Corporation	I-Organization
 (	O
 IRC	B-Organization
 )	O
@@ -517,12 +517,12 @@ first	O
 year	O
 at	O
 the	O
-Ontario	B-Location	B-Organization
-College	O	I-Organization
-of	O	I-Organization
-Art	O	I-Organization
-and	O	I-Organization
-Design	O	I-Organization
+Ontario	B-Organization	B-Location
+College	I-Organization
+of	I-Organization
+Art	I-Organization
+and	I-Organization
+Design	I-Organization
 in	O
 Toronto	B-Location
 .	O

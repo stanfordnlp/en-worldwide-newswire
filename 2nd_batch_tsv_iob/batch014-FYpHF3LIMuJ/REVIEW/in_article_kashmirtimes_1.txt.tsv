@@ -53,9 +53,9 @@ According	O
 to	O
 reports	O
 reaching	O
-Kashmir	B-Location	B-Organization
-News	O	I-Organization
-Service	O	I-Organization
+Kashmir	B-Organization	B-Location
+News	I-Organization
+Service	I-Organization
 (	O
 KNS	B-Organization
 )	O
@@ -103,9 +103,9 @@ issues	O
 of	O
 VDCs	B-Organization
 and	O
-Dhok	B-Location	B-Organization
-Defence	O	I-Organization
-Committees	O	I-Organization
+Dhok	B-Organization	B-Location
+Defence	I-Organization
+Committees	I-Organization
 (	O
 DDCs	B-Organization
 )	O
@@ -158,9 +158,9 @@ of	O
 VDC	B-Organization
 's	O
 &	O
-Dhok	B-Location	B-Organization
-Defence	O	I-Organization
-Committees	O	I-Organization
+Dhok	B-Organization	B-Location
+Defence	I-Organization
+Committees	I-Organization
 (	O
 DDC	B-Organization
 's	O

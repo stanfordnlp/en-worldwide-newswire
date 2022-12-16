@@ -40,8 +40,8 @@ the	O
 all	O
 -	O
 encompassing	O
-British	B-NORP	B-Misc
-Empire	O	I-Misc
+British	B-Misc	B-NORP
+Empire	I-Misc
 now	O
 is	O
 a	O
@@ -79,7 +79,7 @@ a	O
 grandchild	O
 of	O
 British	B-NORP	B-NORP
-Indian	O	I-NORP	B-NORP
+Indian	I-NORP	B-NORP
 immigrants	O
 ,	O
 who	O
@@ -254,7 +254,7 @@ the	O
 s	O
 ,	O
 British	B-NORP	B-NORP
-Indians	O	I-NORP	B-NORP
+Indians	I-NORP	B-NORP
 emerged	O
 as	O
 a	O
@@ -527,15 +527,15 @@ key	O
 roles	O
 in	O
 the	O
-British	B-NORP	B-Misc
-Empire	O	I-Misc
+British	B-Misc	B-NORP
+Empire	I-Misc
 within	O
 India	B-Location
 and	O
 the	O
 larger	O
-Indian	B-NORP	B-Location
-Ocean	O	I-Location
+Indian	B-Location	B-NORP
+Ocean	I-Location
 economy	O
 .	O
 These	O
@@ -600,9 +600,9 @@ per	O
 cent	O
 of	O
 the	O
-British	B-NORP	B-Organization
-Indian	O	I-Organization	B-NORP
-army	O	I-Organization
+British	B-Organization	B-NORP
+Indian	I-Organization	B-NORP
+army	I-Organization
 ,	O
 and	O
 after	O
@@ -838,8 +838,8 @@ the	O
 collapse	O
 of	O
 the	O
-British	B-NORP	B-Misc
-Empire	O	I-Misc
+British	B-Misc	B-NORP
+Empire	I-Misc
 .	O
 
 Post	O
@@ -900,9 +900,9 @@ community	O
 fighting	O
 in	O
 the	O
-British	B-NORP	B-Organization
-Indian	I-NORP	I-Organization
-army	O	I-Organization
+British	B-Organization	B-NORP
+Indian	I-Organization	I-NORP
+army	I-Organization
 remained	O
 behind	O
 .	O
@@ -929,8 +929,8 @@ been	O
 employed	O
 by	O
 the	O
-British	B-NORP	B-Organization
-army	O	I-Organization
+British	B-Organization	B-NORP
+army	I-Organization
 or	O
 police	O
 forces	O
@@ -2372,9 +2372,9 @@ In	O
 the	O
 far	O
 right	O
-British	B-NORP	B-Organization
-National	O	I-Organization
-Party	O	I-Organization
+British	B-Organization	B-NORP
+National	I-Organization
+Party	I-Organization
 amended	O
 its	O
 constitution	O
@@ -2668,8 +2668,8 @@ common	O
 ground	O
 with	O
 the	O
-Conservative	B-NORP	B-Organization
-party	O	I-Organization
+Conservative	B-Organization	B-NORP
+party	I-Organization
 .	O
 
 Indians	B-NORP
@@ -2790,8 +2790,8 @@ the	O
 all	O
 -	O
 encompassing	O
-British	B-NORP	B-Misc
-Empire	O	I-Misc
+British	B-Misc	B-NORP
+Empire	I-Misc
 now	O
 is	O
 a	O
@@ -3402,15 +3402,15 @@ key	O
 roles	O
 in	O
 the	O
-British	B-NORP	B-Organization
-Empire	O	I-Organization
+British	B-Organization	B-NORP
+Empire	I-Organization
 within	O
 India	B-Location
 and	O
 the	O
 larger	O
-Indian	B-NORP	B-Location
-Ocean	O	I-Location
+Indian	B-Location	B-NORP
+Ocean	I-Location
 economy	O
 .	O
 These	O
@@ -3475,9 +3475,9 @@ per	O
 cent	O
 of	O
 the	O
-British	B-NORP	B-NORP	B-Organization
-Indian	O	I-NORP	I-Organization	B-NORP
-army	O	O	I-Organization
+British	B-Organization	B-NORP	B-NORP
+Indian	I-Organization	I-NORP	B-NORP
+army	I-Organization
 ,	O
 and	O
 after	O
@@ -3713,8 +3713,8 @@ the	O
 collapse	O
 of	O
 the	O
-British	B-NORP	B-Misc
-Empire	O	I-Misc
+British	B-Misc	B-NORP
+Empire	I-Misc
 .	O
 
 Post	O
@@ -3997,8 +3997,8 @@ in	O
 1961	B-Misc
 ,	O
 the	O
-Conservative	B-NORP	B-Organization
-party	O	I-Organization
+Conservative	B-Organization	B-NORP
+party	I-Organization
 passed	O
 a	O
 bill	O
@@ -5261,8 +5261,8 @@ Sikh	B-NORP
 member	O
 .	O
 The	O
-Conservative	B-NORP	B-Organization
-party	O	I-Organization
+Conservative	B-Organization	B-NORP
+party	I-Organization
 ,	O
 which	O
 had	O
@@ -5698,8 +5698,8 @@ s	O
 support	O
 for	O
 the	O
-Conservative	B-NORP	B-Organization
-party	O	I-Organization
+Conservative	B-Organization	B-NORP
+party	I-Organization
 ,	O
 but	O
 also	O
@@ -5784,8 +5784,8 @@ Indians	I-NORP
 increasingly	O
 like	O
 the	O
-Conservative	B-NORP	B-Organization
-party	O	I-Organization
+Conservative	B-Organization	B-NORP
+party	I-Organization
 which	O
 would	O
 explain	O

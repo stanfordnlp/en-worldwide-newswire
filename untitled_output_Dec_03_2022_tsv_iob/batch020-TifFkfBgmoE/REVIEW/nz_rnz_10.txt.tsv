@@ -292,9 +292,9 @@ said	O
 
 She	O
 notified	O
-Wellington	B-Location	B-Organization
-City	O	I-Organization
-Council	O	I-Organization
+Wellington	B-Organization	B-Location
+City	I-Organization
+Council	I-Organization
 of	O
 the	O
 installation	O

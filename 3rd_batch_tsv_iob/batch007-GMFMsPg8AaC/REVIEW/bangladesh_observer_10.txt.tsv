@@ -51,11 +51,11 @@ was	O
 returning	O
 home	O
 from	O
-Nayabazar	B-Organization	B-Facility
-Degree	I-Organization	I-Facility
-College	I-Organization	I-Facility
-NID	O	I-Facility	B-Misc
-centre	O	I-Facility
+Nayabazar	B-Facility	B-Organization
+Degree	I-Facility	I-Organization
+College	I-Facility	I-Organization
+NID	I-Facility	B-Misc
+centre	I-Facility
 at	O
 Narandi	B-Location
 ,	O
@@ -93,10 +93,10 @@ Nafi	B-Person
 was	O
 admitted	O
 to	O
-Dhaka	B-Location	B-Facility
-Medical	O	I-Facility
-College	O	I-Facility
-Hospital	O	I-Facility
+Dhaka	B-Facility	B-Location
+Medical	I-Facility
+College	I-Facility
+Hospital	I-Facility
 .	O
 
 It	O

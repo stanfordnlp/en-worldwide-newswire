@@ -13,7 +13,7 @@ parent	O
 company	O
 of	O
 Movistar	B-Organization	B-Organization
-Venezuela	O	I-Organization	B-Location
+Venezuela	I-Organization	B-Location
 ,	O
 revealed	O
 indiscriminate	O
@@ -458,8 +458,8 @@ through	O
 authentication	O
 apps	O
 like	O
-Google	B-Organization	B-Product
-Authenticator	O	I-Product
+Google	B-Product	B-Organization
+Authenticator	I-Product
 and	O
 physical	O
 items	O
@@ -518,7 +518,7 @@ lines	O
 serviced	O
 by	O
 Movistar	B-Organization	B-Organization
-Venezuela	O	I-Organization	B-Location
+Venezuela	I-Organization	B-Location
 :	O
 7,730,000	O
 
@@ -554,7 +554,7 @@ access	O
 breaches	O
 
 Movistar	B-Organization	B-Organization
-Venezuela	O	I-Organization	B-Location
+Venezuela	I-Organization	B-Location
 does	O
 not	O
 receive	O
@@ -580,9 +580,9 @@ and	O
 even	O
 from	O
 the	O
-UNES	B-Organization	B-Misc
-Security	O	I-Misc
-University	O	I-Misc
+UNES	B-Misc	B-Organization
+Security	I-Misc
+University	I-Misc
 
 Telefónica	B-Organization
 recognizes	O
@@ -1414,8 +1414,8 @@ code	O
 generating	O
 apps	O
 like	O
-Google	B-Organization	B-Product
-Authenticator	O	I-Product
+Google	B-Product	B-Organization
+Authenticator	I-Product
 and	O
 physical	O
 items	O
@@ -1433,10 +1433,10 @@ or	O
 ideally	O
 ,	O
 use	O
-FIDO	B-Organization	B-Product
-digital	O	I-Product
-security	O	I-Product
-keys	O	I-Product
+FIDO	B-Product	B-Organization
+digital	I-Product
+security	I-Product
+keys	I-Product
 (	O
 Yubico	B-Organization
 is	O
@@ -1449,8 +1449,8 @@ known	O
 brands	O
 )	O
 and	O
-Google	B-Organization	B-Product
-Authenticator	O	I-Product
+Google	B-Product	B-Organization
+Authenticator	I-Product
 backup	O
 keys	O
 .	O

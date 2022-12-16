@@ -245,12 +245,12 @@ an	O
 overnight	O
 stay	O
 at	O
-Rajahmundry	B-Location	B-Facility
-R	O	I-Facility
-&	O	I-Facility
-B	O	I-Facility
-Guest	O	I-Facility
-House	O	I-Facility
+Rajahmundry	B-Facility	B-Location
+R	I-Facility
+&	I-Facility
+B	I-Facility
+Guest	I-Facility
+House	I-Facility
 and	O
 visit	O
 other	O

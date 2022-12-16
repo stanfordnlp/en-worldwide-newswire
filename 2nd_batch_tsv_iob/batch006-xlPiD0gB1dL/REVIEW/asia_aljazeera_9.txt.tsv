@@ -339,9 +339,9 @@ at	O
 Jammu	B-Location
 ’	O
 s	O
-Hira	B-Location	B-Facility
-Nagar	I-Location	I-Facility
-prison	O	I-Facility
+Hira	B-Facility	B-Location
+Nagar	I-Facility	I-Location
+prison	I-Facility
 ,	O
 where	O
 Rehman	B-Person
@@ -445,8 +445,8 @@ tell	O
 Al	B-Organization
 Jazeera	I-Organization
 the	O
-Indian	B-NORP	B-Organization
-government	O	I-Organization
+Indian	B-Organization	B-NORP
+government	I-Organization
 has	O
 deported	O
 17	O
@@ -731,9 +731,9 @@ a	O
 detention	O
 centre	O
 at	O
-Hira	B-Location	B-Facility
-Nagar	I-Location	I-Facility
-prison	O	I-Facility
+Hira	B-Facility	B-Location
+Nagar	I-Facility	I-Location
+prison	I-Facility
 .	O
 
 “	O
@@ -1442,10 +1442,10 @@ co	O
 director	O
 of	O
 the	O
-Rohingya	B-NORP	B-Organization
-Human	O	I-Organization
-Rights	O	I-Organization
-Initiative	O	I-Organization
+Rohingya	B-Organization	B-NORP
+Human	I-Organization
+Rights	I-Organization
+Initiative	I-Organization
 told	O
 Al	B-Organization
 Jazeera	I-Organization
@@ -1516,10 +1516,10 @@ they	O
 are	O
 legitimising	O
 the	O
-Myanmar	B-Location	B-Organization
-military	O	I-Organization
-coup	O	I-Organization
-group	O	I-Organization
+Myanmar	B-Organization	B-Location
+military	I-Organization
+coup	I-Organization
+group	I-Organization
 who	O
 are	O
 an	O

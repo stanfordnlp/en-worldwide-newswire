@@ -271,15 +271,15 @@ honorary	O
 fellow	O
 at	O
 the	O
-Asia	B-Location	B-Organization
--	I-Location	I-Organization
-Pacific	I-Location	I-Organization
-Institute	O	I-Organization
-of	O	I-Organization
-Business	O	I-Organization
+Asia	B-Organization	B-Location
+-	I-Organization	I-Location
+Pacific	I-Organization	I-Location
+Institute	I-Organization
+of	I-Organization
+Business	I-Organization
 at	O
-Chinese	B-NORP	B-Organization
-University	O	I-Organization
+Chinese	B-Organization	B-NORP
+University	I-Organization
 .	O
 
 “	O
@@ -730,15 +730,15 @@ honorary	O
 fellow	O
 at	O
 the	O
-Asia	B-Location	B-Organization
--	I-Location	I-Organization
-Pacific	I-Location	I-Organization
-Institute	O	I-Organization
-of	O	I-Organization
-Business	O	I-Organization
+Asia	B-Organization	B-Location
+-	I-Organization	I-Location
+Pacific	I-Organization	I-Location
+Institute	I-Organization
+of	I-Organization
+Business	I-Organization
 at	O
-Chinese	B-NORP	B-Organization
-University	O	I-Organization
+Chinese	B-Organization	B-NORP
+University	I-Organization
 .	O
 
 “	O

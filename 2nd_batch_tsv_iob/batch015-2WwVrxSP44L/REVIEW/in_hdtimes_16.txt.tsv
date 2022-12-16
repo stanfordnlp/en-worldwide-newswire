@@ -427,8 +427,8 @@ of	O
 soldiers	O
 from	O
 the	O
-Indian	B-NORP	B-Organization
-Army	O	I-Organization
+Indian	B-Organization	B-NORP
+Army	I-Organization
 had	O
 lost	O
 their	O

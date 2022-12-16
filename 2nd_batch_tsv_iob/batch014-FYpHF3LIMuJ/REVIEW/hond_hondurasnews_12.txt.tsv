@@ -1,9 +1,9 @@
 https://www.hondurasnews.com/honduras-vs-nicaragua-2017/	O
 
 The	O
-Nicaraguan	B-NORP	B-Organization
-National	O	I-Organization
-Team	O	I-Organization
+Nicaraguan	B-Organization	B-NORP
+National	I-Organization
+Team	I-Organization
 was	O
 scheduled	O
 to	O
@@ -92,10 +92,10 @@ March	B-Misc
 2017	I-Misc
 .	O
 
-Honduras	B-Location	B-Organization
-National	O	I-Organization
-Soccer	O	I-Organization
-team	O	I-Organization
+Honduras	B-Organization	B-Location
+National	I-Organization
+Soccer	I-Organization
+team	I-Organization
 will	O
 face	O
 off	O

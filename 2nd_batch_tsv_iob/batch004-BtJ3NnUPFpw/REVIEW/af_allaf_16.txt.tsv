@@ -181,8 +181,8 @@ Cameroon	B-Location
 but	O
 the	O
 entire	O
-African	B-NORP	B-Location
-continent	O	I-Location
+African	B-Location	B-NORP
+continent	I-Location
 to	O
 fight	O
 against	O

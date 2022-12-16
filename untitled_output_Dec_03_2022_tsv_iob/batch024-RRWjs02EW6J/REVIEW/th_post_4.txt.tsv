@@ -119,8 +119,8 @@ are	O
 paid	O
 for	O
 in	O
-US	B-Location	B-Money
-dollars	O	I-Money
+US	B-Money	B-Location
+dollars	I-Money
 while	O
 payments	O
 for	O
@@ -190,8 +190,8 @@ to	O
 weaken	O
 against	O
 the	O
-US	B-Location	B-Money
-dollar	O	I-Money
+US	B-Money	B-Location
+dollar	I-Money
 .	O
 This	O
 has	O
@@ -330,10 +330,10 @@ under	O
 an	O
 investment	O
 worth	O
-US	B-Location	B-Money
-$	O	I-Money
-12	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+12	I-Money
+million	I-Money
 to	O
 produce	O
 structural	O

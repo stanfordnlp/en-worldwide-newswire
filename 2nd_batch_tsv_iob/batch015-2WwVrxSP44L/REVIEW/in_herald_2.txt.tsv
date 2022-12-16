@@ -128,8 +128,8 @@ policy	O
 ?	O
 
 The	O
-Delhi	B-Location	B-Organization
-Government	O	I-Organization
+Delhi	B-Organization	B-Location
+Government	I-Organization
 separated	O
 itself	O
 from	O

@@ -179,10 +179,10 @@ to	O
 officiate	O
 at	O
 the	O
-Africa	B-Location	B-Misc
-cup	O	I-Misc
-of	O	I-Misc
-nations	O	I-Misc
+Africa	B-Misc	B-Location
+cup	I-Misc
+of	I-Misc
+nations	I-Misc
 tournament	O
 ,	O
 presided	O
@@ -205,9 +205,9 @@ referee	O
 at	O
 the	O
 2022	B-Misc	B-Misc
-Fifa	O	I-Misc	B-Organization
-World	O	I-Misc
-Cup	O	I-Misc
+Fifa	I-Misc	B-Organization
+World	I-Misc
+Cup	I-Misc
 in	O
 Qatar	B-Location
 later	O

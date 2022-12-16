@@ -611,8 +611,8 @@ remove	O
 Ghana	B-Location
 from	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 ’	O
 s	O
 money	O
@@ -735,12 +735,12 @@ Ghana	B-Location
 made	O
 at	O
 the	O
-United	B-Location	B-Misc
-Kingdom	I-Location	I-Misc
-Anti	O	I-Misc	B-Misc
--	O	I-Misc	I-Misc
-corruption	O	I-Misc	I-Misc
-Summit	O	I-Misc	I-Misc
+United	B-Misc	B-Location
+Kingdom	I-Misc	I-Location
+Anti	I-Misc	B-Misc
+-	I-Misc	I-Misc
+corruption	I-Misc	I-Misc
+Summit	I-Misc	I-Misc
 in	O
 2016	B-Misc
 and	O

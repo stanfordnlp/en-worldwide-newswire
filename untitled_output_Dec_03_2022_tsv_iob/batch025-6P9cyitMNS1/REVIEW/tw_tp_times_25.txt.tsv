@@ -1,9 +1,9 @@
 https://www.taipeitimes.com/News/taiwan/archives/2022/07/02/2003781001	O
 
 The	O
-Keelung	B-Location	B-Organization
-City	I-Location	I-Organization
-Government	O	I-Organization
+Keelung	B-Organization	B-Location
+City	I-Organization	I-Location
+Government	I-Organization
 is	O
 reviewing	O
 “	O
@@ -42,11 +42,11 @@ Badouzi	B-Location
 )	O
 ,	O
 the	O
-Keelung	B-Location	B-Organization
-Department	O	I-Organization
-of	O	I-Organization
-Economic	O	I-Organization
-Affairs	O	I-Organization
+Keelung	B-Organization	B-Location
+Department	I-Organization
+of	I-Organization
+Economic	I-Organization
+Affairs	I-Organization
 said	O
 .	O
 
@@ -60,11 +60,11 @@ the	O
 North	B-Location
 Coast	I-Location
 and	O
-Guanyinshan	B-Location	B-Organization
-National	O	I-Organization
-Scenic	O	I-Organization
-Area	O	I-Organization
-Administration	O	I-Organization
+Guanyinshan	B-Organization	B-Location
+National	I-Organization
+Scenic	I-Organization
+Area	I-Organization
+Administration	I-Organization
 and	O
 the	O
 Wild	B-Organization
@@ -178,10 +178,10 @@ Geopark	I-Location
 .	O
 
 The	O
-New	B-Location	B-Organization
-Taipei	I-Location	I-Organization
-City	I-Location	I-Organization
-Government	O	I-Organization
+New	B-Organization	B-Location
+Taipei	I-Organization	I-Location
+City	I-Organization	I-Location
+Government	I-Organization
 has	O
 designated	O
 Yehliu	B-Location

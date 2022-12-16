@@ -344,19 +344,19 @@ when	O
 it	O
 was	O
 revealed	O
-Gisborne	B-Location	B-Organization
-District	O	I-Organization
-Council	O	I-Organization
+Gisborne	B-Organization	B-Location
+District	I-Organization
+Council	I-Organization
 ,	O
-Hawke	B-Location	B-Organization
-'s	I-Location	I-Organization
-Bay	I-Location	I-Organization
-Regional	O	I-Organization
-Council	O	I-Organization
+Hawke	B-Organization	B-Location
+'s	I-Organization	I-Location
+Bay	I-Organization	I-Location
+Regional	I-Organization
+Council	I-Organization
 and	O
-Wairoa	B-Location	B-Organization
-District	O	I-Organization
-Council	O	I-Organization
+Wairoa	B-Organization	B-Location
+District	I-Organization
+Council	I-Organization
 had	O
 spent	O
 $	B-Money
@@ -434,9 +434,9 @@ railway	O
 track	O
 .	O
 
-Wairoa	B-Location	B-Organization
-District	O	I-Organization
-Council	O	I-Organization
+Wairoa	B-Organization	B-Location
+District	I-Organization
+Council	I-Organization
 told	O
 Local	B-Organization
 Democracy	I-Organization
@@ -502,9 +502,9 @@ Coast	I-Location
 Road	I-Location
 .	O
 
-Wairoa	B-Location	B-Organization
-District	O	I-Organization
-Council	O	I-Organization
+Wairoa	B-Organization	B-Location
+District	I-Organization
+Council	I-Organization
 chief	O
 executive	O
 Kitea	B-Person
@@ -579,12 +579,12 @@ key	O
 project	O
 in	O
 the	O
-Hawke	B-Location	B-Misc
-'s	I-Location	I-Misc
-Bay	I-Location	I-Misc
-Regional	O	I-Misc
-Transport	O	I-Misc
-Plan	O	I-Misc
+Hawke	B-Misc	B-Location
+'s	I-Misc	I-Location
+Bay	I-Misc	I-Location
+Regional	I-Misc
+Transport	I-Misc
+Plan	I-Misc
 ,	O
 and	O
 the	O

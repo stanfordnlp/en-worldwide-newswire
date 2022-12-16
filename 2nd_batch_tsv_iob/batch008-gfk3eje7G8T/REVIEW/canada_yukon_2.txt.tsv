@@ -121,13 +121,13 @@ growth	O
 
 Produced	O
 by	O
-Yukon	B-Location	B-Organization
-First	O	I-Organization
-Nations	O	I-Organization
-Culture	O	I-Organization
-and	O	I-Organization
-Tourism	O	I-Organization
-Association	O	I-Organization
+Yukon	B-Organization	B-Location
+First	I-Organization
+Nations	I-Organization
+Culture	I-Organization
+and	I-Organization
+Tourism	I-Organization
+Association	I-Organization
 ,	O
 and	O
 directed	O
@@ -186,9 +186,9 @@ it	O
 premiered	O
 at	O
 the	O
-Yukon	B-Location	B-Facility
-Arts	O	I-Facility
-Centre	O	I-Facility
+Yukon	B-Facility	B-Location
+Arts	I-Facility
+Centre	I-Facility
 .	O
 The	O
 premiere	O
@@ -201,9 +201,9 @@ Cultural	I-Misc
 Festival	I-Misc
 and	O
 the	O
-Arctic	B-Location	B-Misc
-Arts	O	I-Misc
-Summit	O	I-Misc
+Arctic	B-Misc	B-Location
+Arts	I-Misc
+Summit	I-Misc
 ,	O
 where	O
 it	O
@@ -355,8 +355,8 @@ drum	O
 dance	O
 by	O
 the	O
-Kaska	B-NORP	B-Organization
-Drummers	O	I-Organization
+Kaska	B-Organization	B-NORP
+Drummers	I-Organization
 .	O
 
 Dreaming	B-Misc
@@ -426,8 +426,8 @@ For	O
 example	O
 )	O
 the	O
-Kaska	B-NORP	B-Organization
-drummers	O	I-Organization
+Kaska	B-Organization	B-NORP
+drummers	I-Organization
 ,	O
 bringing	O
 young	O

@@ -9,8 +9,8 @@ Dlamini	I-Person
 and	O
 president	O
 of	O
-Soweto	B-Location	B-Organization
-Parliament	O	I-Organization
+Soweto	B-Organization	B-Location
+Parliament	I-Organization
 has	O
 stepped	O
 down	O
@@ -114,8 +114,8 @@ being	O
 the	O
 leader	O
 of	O
-Soweto	B-Location	B-Organization
-Parliament	O	I-Organization
+Soweto	B-Organization	B-Location
+Parliament	I-Organization
 .	O
 
 Another	O
@@ -390,8 +390,8 @@ between	O
 Operation	B-Organization
 Dudula	I-Organization
 and	O
-Soweto	B-Location	B-Organization
-Parliament	O	I-Organization
+Soweto	B-Organization	B-Location
+Parliament	I-Organization
 did	O
 not	O
 prevent	O
@@ -497,8 +497,8 @@ continue	O
 to	O
 work	O
 with	O
-Soweto	B-Location	B-Organization
-Parliament	O	I-Organization
+Soweto	B-Organization	B-Location
+Parliament	I-Organization
 on	O
 specific	O
 programmers	O

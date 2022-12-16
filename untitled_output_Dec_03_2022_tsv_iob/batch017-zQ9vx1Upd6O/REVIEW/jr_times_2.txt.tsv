@@ -30,9 +30,9 @@ expectations	O
 according	O
 to	O
 the	O
-Jordan	B-Location	B-Organization
-Hotels	O	I-Organization
-Association	O	I-Organization
+Jordan	B-Organization	B-Location
+Hotels	I-Organization
+Association	I-Organization
 (	O
 JHA	B-Organization
 )	O
@@ -46,8 +46,8 @@ Al	I-Person
 Hindi	I-Person
 told	O
 The	O
-Jordan	B-Location	B-Organization
-Times	O	I-Organization
+Jordan	B-Organization	B-Location
+Times	I-Organization
 that	O
 hotel	O
 occupancy	O
@@ -275,8 +275,8 @@ Sea	I-Location
 ,	O
 told	O
 The	O
-Jordan	B-Location	B-Organization
-Times	O	I-Organization
+Jordan	B-Organization	B-Location
+Times	I-Organization
 that	O
 the	O
 demand	O

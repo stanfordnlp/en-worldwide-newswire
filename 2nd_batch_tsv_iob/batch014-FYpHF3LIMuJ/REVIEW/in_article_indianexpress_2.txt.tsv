@@ -248,10 +248,10 @@ said	O
 .	O
 
 The	O
-Indian	B-NORP	B-Organization
-Institute	O	I-Organization
-of	O	I-Organization
-Science	O	I-Organization
+Indian	B-Organization	B-NORP
+Institute	I-Organization
+of	I-Organization
+Science	I-Organization
 (	O
 IISc	B-Organization
 )	O
@@ -323,9 +323,9 @@ followed	O
 by	O
 AIIMS	B-Organization
 and	O
-Jawaharlal	B-Person	B-Organization
-Nehru	I-Person	I-Organization
-University	O	I-Organization
+Jawaharlal	B-Organization	B-Person
+Nehru	I-Organization	I-Person
+University	I-Organization
 (	O
 JNU	B-Organization
 )	O
@@ -362,8 +362,8 @@ seventh	O
 year	O
 .	O
 IIT	B-Organization	B-Organization
--	O	I-Organization
-Jodhpur	O	I-Organization	B-Location
+-	I-Organization
+Jodhpur	I-Organization	B-Location
 improved	O
 its	O
 rankings	O
@@ -373,8 +373,8 @@ to	O
 30	O
 ,	O
 IIT	B-Organization	B-Organization
--	O	I-Organization
-Mandi	O	I-Organization	B-Location
+-	I-Organization
+Mandi	I-Organization	B-Location
 rose	O
 to	O
 20	O
@@ -411,26 +411,26 @@ ranked	O
 private	O
 institutions	O
 are	O
-Amrita	B-Person	B-Organization
-Vishwa	O	I-Organization
-Vidyapeetham	O	I-Organization
+Amrita	B-Organization	B-Person
+Vishwa	I-Organization
+Vidyapeetham	I-Organization
 (	O
 16	O
 )	O
 ,	O
-Manipal	B-Location	B-Organization
-Academy	O	I-Organization
-of	O	I-Organization
-Higher	O	I-Organization
-Education	O	I-Organization
+Manipal	B-Organization	B-Location
+Academy	I-Organization
+of	I-Organization
+Higher	I-Organization
+Education	I-Organization
 (	O
 17	O
 )	O
 ,	O
-Vellore	B-Location	B-Organization
-Institute	O	I-Organization
-of	O	I-Organization
-Technology	O	I-Organization
+Vellore	B-Organization	B-Location
+Institute	I-Organization
+of	I-Organization
+Technology	I-Organization
 (	O
 18	O
 )	O
@@ -447,11 +447,11 @@ Pilani	I-Organization	B-Location
 32	O
 )	O
 ,	O
-Kalinga	B-Location	B-Organization
-Institute	O	I-Organization
-of	O	I-Organization
-Industrial	O	I-Organization
-Technology	O	I-Organization
+Kalinga	B-Organization	B-Location
+Institute	I-Organization
+of	I-Organization
+Industrial	I-Organization
+Technology	I-Organization
 (	O
 34	O
 )	O
@@ -572,8 +572,8 @@ House	I-Organization
 1	O
 )	O
 ,	O
-Hindu	B-NORP	B-Organization
-College	O	I-Organization
+Hindu	B-Organization	B-NORP
+College	I-Organization
 (	O
 2	O
 )	O
@@ -650,9 +650,9 @@ College	I-Organization
 8	O
 )	O
 and	O
-Ramakrishna	B-Person	B-Organization
-Mission	O	I-Organization
-Vidyamandira	O	I-Organization
+Ramakrishna	B-Organization	B-Person
+Mission	I-Organization
+Vidyamandira	I-Organization
 (	O
 9	O
 )	O

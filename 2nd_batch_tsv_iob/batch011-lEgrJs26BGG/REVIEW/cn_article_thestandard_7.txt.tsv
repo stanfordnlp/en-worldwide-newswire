@@ -5,8 +5,8 @@ will	O
 host	O
 the	O
 2022	B-Misc	B-Misc
-Asian	O	I-Misc	B-NORP
-Games	O	I-Misc
+Asian	I-Misc	B-NORP
+Games	I-Misc
 in	O
 2023	B-Misc
 ,	O
@@ -43,10 +43,10 @@ October	B-Misc
 2023	I-Misc
 ,	O
 the	O
-Olympic	B-Misc	B-Organization
-Council	O	I-Organization
-of	O	I-Organization
-Asia	O	I-Organization	B-Location
+Olympic	B-Organization	B-Misc
+Council	I-Organization
+of	I-Organization
+Asia	I-Organization	B-Location
 (	O
 OCA	B-Organization
 )	O
@@ -123,8 +123,8 @@ part	O
 of	O
 the	O
 ruling	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
+Communist	B-Organization	B-NORP
+Party	I-Organization
 's	O
 zero	O
 -	O
@@ -168,8 +168,8 @@ events	O
 .	O
 
 The	O
-Asian	B-NORP	B-Misc
-Games	O	I-Misc
+Asian	B-Misc	B-NORP
+Games	I-Misc
 typically	O
 attract	O
 over	O

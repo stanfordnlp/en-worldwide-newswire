@@ -50,10 +50,10 @@ in	O
 this	O
 year	O
 's	O
-Africa	B-Location	B-Misc
-Cup	O	I-Misc
-of	O	I-Misc
-Nations	O	I-Misc
+Africa	B-Misc	B-Location
+Cup	I-Misc
+of	I-Misc
+Nations	I-Misc
 final	O
 to	O
 lift	O
@@ -226,13 +226,13 @@ final	O
 of	O
 the	O
 2022	B-Misc
-TotalEnergies	B-Organization	B-Misc
-Women	O	I-Misc
-'s	O	I-Misc
-Africa	O	I-Misc	B-Location
-Cup	O	I-Misc
-of	O	I-Misc
-Nations	O	I-Misc
+TotalEnergies	B-Misc	B-Organization
+Women	I-Misc
+'s	I-Misc
+Africa	I-Misc	B-Location
+Cup	I-Misc
+of	I-Misc
+Nations	I-Misc
 against	O
 hosts	O
 Morocco	B-Location
@@ -300,8 +300,8 @@ the	O
 awards	O
 at	O
 the	O
-Mohamed	B-Person	B-Facility
-VI	O	I-Facility
-complex	O	I-Facility
+Mohamed	B-Facility	B-Person
+VI	I-Facility
+complex	I-Facility
 .	O
 

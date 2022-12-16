@@ -56,12 +56,12 @@ $	I-Money
 each	O
 ,	O
 the	O
-Taipei	B-Location	B-Organization
-Shilin	I-Location	I-Organization
-District	I-Location	I-Organization
-Prosecutors	O	I-Organization
-’	O	I-Organization
-Office	O	I-Organization
+Taipei	B-Organization	B-Location
+Shilin	I-Organization	I-Location
+District	I-Organization	I-Location
+Prosecutors	I-Organization
+’	I-Organization
+Office	I-Organization
 said	O
 .	O
 

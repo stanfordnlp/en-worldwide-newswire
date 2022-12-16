@@ -460,10 +460,10 @@ secretary	O
 general	O
 of	O
 the	O
-China	B-Location	B-Organization
-Passenger	O	I-Organization
-Car	O	I-Organization
-Association	O	I-Organization
+China	B-Organization	B-Location
+Passenger	I-Organization
+Car	I-Organization
+Association	I-Organization
 ,	O
 noted	O
 that	O

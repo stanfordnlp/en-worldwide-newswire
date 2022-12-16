@@ -534,8 +534,8 @@ in	O
 2014	B-Misc
 after	O
 the	O
-Australian	B-NORP	B-Organization
-government	O	I-Organization
+Australian	B-Organization	B-NORP
+government	I-Organization
 filed	O
 extradition	O
 papers	O
@@ -1022,8 +1022,8 @@ have	O
 also	O
 met	O
 with	O
-Jewish	B-NORP	B-Organization
-Agency	O	I-Organization
+Jewish	B-Organization	B-NORP
+Agency	I-Organization
 Chairman	O
 Natan	B-Person
 Sharansky	I-Person

@@ -175,17 +175,17 @@ operation	O
 ”	O
 at	O
 the	O
-Guaraní	B-Location	B-Facility
-airport	O	I-Facility
+Guaraní	B-Facility	B-Location
+airport	I-Facility
 .	O
 
 The	O
 747	O
 picked	O
 up	O
-US	B-Location	B-Money
-$	O	I-Money
-775,000	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+775,000	I-Money
 worth	O
 of	O
 cigarettes	O
@@ -207,10 +207,10 @@ to	O
 Aruba	B-Location
 .	O
 
-Paraguay	B-Location	B-Organization
-'s	O	I-Organization
-National	O	I-Organization
-Police	O	I-Organization
+Paraguay	B-Organization	B-Location
+'s	I-Organization
+National	I-Organization
+Police	I-Organization
 also	O
 confirmed	O
 uniformed	O
@@ -893,18 +893,18 @@ cargo	O
 of	O
 cigarettes	O
 worth	O
-US	B-Location	B-Money
-$	O	I-Money
-750,000	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+750,000	I-Money
 when	O
 the	O
 trip	O
 to	O
 Aruba	B-Location
 costs	O
-US	B-Location	B-Money
-$	O	I-Money
-450,000	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+450,000	I-Money
 .	O
 
 ”	O

@@ -244,9 +244,9 @@ Fête	B-Misc
 transferred	O
 to	O
 the	O
-Cairo	B-Location	B-Facility
-Opera	O	I-Facility
-House	O	I-Facility
+Cairo	B-Facility	B-Location
+Opera	I-Facility
+House	I-Facility
 before	O
 finding	O
 its	O

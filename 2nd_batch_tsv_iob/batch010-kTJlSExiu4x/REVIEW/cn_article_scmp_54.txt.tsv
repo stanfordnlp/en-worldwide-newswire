@@ -40,10 +40,10 @@ the	O
 town	O
 of	O
 Kurume	B-Location	B-Location
-,	O	I-Location
-in	O	I-Location
-Fukuoka	O	I-Location	B-Location
-Prefecture	O	I-Location	I-Location
+,	I-Location
+in	I-Location
+Fukuoka	I-Location	B-Location
+Prefecture	I-Location	I-Location
 ,	O
 was	O
 snared	O
@@ -76,10 +76,10 @@ make	O
 up	O
 ,	O
 the	O
-Abema	B-Organization	B-Product
-Times	I-Organization	I-Product
-news	O	I-Product
-site	O	I-Product
+Abema	B-Product	B-Organization
+Times	I-Product	I-Organization
+news	I-Product
+site	I-Product
 reported	O
 .	O
 
@@ -341,8 +341,8 @@ the	O
 school	O
 on	O
 the	O
-Japan	B-Location	B-Organization
-Today	O	I-Organization
+Japan	B-Organization	B-Location
+Today	I-Organization
 website	O
 ,	O
 with	O
@@ -611,8 +611,8 @@ a	O
 hangover	O
 from	O
 the	O
-Meiji	B-Person	B-Misc
-Era	O	I-Misc
+Meiji	B-Misc	B-Person
+Era	I-Misc
 ,	O
 the	O
 44	O

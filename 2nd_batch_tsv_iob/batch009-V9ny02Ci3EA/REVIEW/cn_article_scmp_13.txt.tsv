@@ -7,17 +7,17 @@ homepage	O
 China	B-Location
 ’	O
 s	O
-Communist	B-NORP	B-Organization
-Youth	O	I-Organization
-League	O	I-Organization
+Communist	B-Organization	B-NORP
+Youth	I-Organization
+League	I-Organization
 ,	O
 a	O
 cradle	O
 for	O
 generations	O
 of	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
+Communist	B-Organization	B-NORP
+Party	I-Organization
 leaders	O
 ,	O
 has	O
@@ -91,9 +91,9 @@ the	O
 blockchain	O
 developed	O
 by	O
-Hangzhou	B-Location	B-Organization
-Shunwang	O	I-Organization
-Technology	O	I-Organization
+Hangzhou	B-Organization	B-Location
+Shunwang	I-Organization
+Technology	I-Organization
 ,	O
 were	O
 all	O
@@ -179,8 +179,8 @@ China	B-Location
 ’	O
 s	O
 prestigious	O
-Peking	B-Location	B-Organization
-University	O	I-Organization
+Peking	B-Organization	B-Location
+University	I-Organization
 issued	O
 20,000	O
 digital	O
@@ -326,10 +326,10 @@ collectibles	O
 Alibaba	B-Organization
 owns	O
 the	O
-South	B-Location	B-Organization
-China	I-Location	I-Organization
-Morning	O	I-Organization
-Post	O	I-Organization
+South	B-Organization	B-Location
+China	I-Organization	I-Location
+Morning	I-Organization
+Post	I-Organization
 .	O
 
 However	O

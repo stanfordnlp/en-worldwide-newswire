@@ -83,8 +83,8 @@ been	O
 building	O
 its	O
 own	O
-Vietnam	B-Location	B-Facility
-campus	O	I-Facility
+Vietnam	B-Facility	B-Location
+campus	I-Facility
 in	O
 northern	B-Location
 Thai	I-Location	B-NORP

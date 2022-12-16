@@ -65,7 +65,7 @@ Group	I-Organization
 office	O
 in	O
 Sadao	B-Location	B-Location
-district	O	I-Location
+district	I-Location
 on	O
 the	O
 Thai	B-NORP
@@ -316,10 +316,10 @@ million	I-Money
 -	I-Money
 ringgit	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-83	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+83	I-Money
+million	I-Money
 )	O
 money	O
 -	O

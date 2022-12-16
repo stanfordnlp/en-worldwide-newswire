@@ -62,9 +62,9 @@ secure	O
 the	O
 loans	O
 after	O
-China	B-Location	B-Organization
-Exim	O	I-Organization
-Bank	O	I-Organization
+China	B-Organization	B-Location
+Exim	I-Organization
+Bank	I-Organization
 did	O
 not	O
 act	O
@@ -198,8 +198,8 @@ regional	I-Organization
 political	I-Organization
 economy	I-Organization
 at	O
-Sichuan	B-Location	B-Organization
-University	O	I-Organization
+Sichuan	B-Organization	B-Location
+University	I-Organization
 in	O
 Chengdu	B-Location
 .	O
@@ -281,9 +281,9 @@ policy	O
 On	O
 Monday	B-Misc
 ,	O
-Chinese	B-NORP	B-Organization
-foreign	O	I-Organization
-ministry	O	I-Organization
+Chinese	B-Organization	B-NORP
+foreign	I-Organization
+ministry	I-Organization
 spokesman	O
 Wang	B-Person
 Wenbin	I-Person
@@ -351,10 +351,10 @@ new	O
 start	O
 .	O
 
-China	B-Location	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-embassy	O	I-Organization
+China	B-Organization	B-Location
+’	I-Organization
+s	I-Organization
+embassy	I-Organization
 in	O
 Manila	B-Location
 on	O
@@ -396,24 +396,24 @@ three	O
 projects	O
 –	O
 the	O
-Subic	B-Location	B-Facility
--	O	I-Facility
-Clark	O	I-Facility	B-Location
-Railway	O	I-Facility
+Subic	B-Facility	B-Location
+-	I-Facility
+Clark	I-Facility	B-Location
+Railway	I-Facility
 ,	O
 the	O
-Philippine	B-Location	B-Facility
-National	O	I-Facility
-Railways	O	I-Facility
-South	O	I-Facility
-Long	O	I-Facility
--	O	I-Facility
-Haul	O	I-Facility
-line	O	I-Facility
+Philippine	B-Facility	B-Location
+National	I-Facility
+Railways	I-Facility
+South	I-Facility
+Long	I-Facility
+-	I-Facility
+Haul	I-Facility
+line	I-Facility
 and	O
 the	O
-Mindanao	B-Location	B-Facility
-Railway	O	I-Facility
+Mindanao	B-Facility	B-Location
+Railway	I-Facility
 –	O
 with	O
 an	O
@@ -422,10 +422,10 @@ total	O
 cost	O
 of	O
 nearly	O
-US	B-Location	B-Money
-$	O	I-Money
-5	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+5	I-Money
+billion	I-Money
 .	O
 
 Sonny	B-Person
@@ -445,9 +445,9 @@ for	O
 the	O
 projects	O
 after	O
-China	B-Location	B-Organization
-Exim	O	I-Organization
-Bank	O	I-Organization
+China	B-Organization	B-Location
+Exim	I-Organization
+Bank	I-Organization
 did	O
 not	O
 act	O
@@ -531,8 +531,8 @@ government	O
 
 Pang	B-Person
 from	O
-Sichuan	B-Location	B-Organization
-University	O	I-Organization
+Sichuan	B-Organization	B-Location
+University	I-Organization
 said	O
 Chinese	B-NORP
 infrastructure	O
@@ -579,14 +579,14 @@ s	O
 high	O
 -	O
 profile	O
-Hambantota	B-Location	B-Facility
-International	O	I-Facility
-Port	O	I-Facility
+Hambantota	B-Facility	B-Location
+International	I-Facility
+Port	I-Facility
 and	O
-Mattala	B-Location	B-Facility
-Rajapaksa	O	I-Facility
-International	O	I-Facility
-Airport	O	I-Facility
+Mattala	B-Facility	B-Location
+Rajapaksa	I-Facility
+International	I-Facility
+Airport	I-Facility
 ,	O
 but	O
 the	O
@@ -635,14 +635,14 @@ lenders	O
 such	O
 as	O
 the	O
-Asian	B-NORP	B-Organization
-Infrastructure	O	I-Organization
-Investment	O	I-Organization
-Bank	O	I-Organization
+Asian	B-Organization	B-NORP
+Infrastructure	I-Organization
+Investment	I-Organization
+Bank	I-Organization
 and	O
-China	B-Location	B-Organization
-Exim	O	I-Organization
-Bank	O	I-Organization
+China	B-Organization	B-Location
+Exim	I-Organization
+Bank	I-Organization
 in	O
 the	O
 projects	O
@@ -678,11 +678,11 @@ the	O
 state	O
 -	O
 backed	O
-Chinese	B-NORP	B-Organization
-Academy	O	I-Organization
-of	O	I-Organization
-Social	O	I-Organization
-Sciences	O	I-Organization
+Chinese	B-Organization	B-NORP
+Academy	I-Organization
+of	I-Organization
+Social	I-Organization
+Sciences	I-Organization
 ,	O
 said	O
 the	O
@@ -789,10 +789,10 @@ cost	O
 of	O
 more	O
 than	O
-US	B-Location	B-Money
-$	O	I-Money
-180	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+180	I-Money
+billion	I-Money
 .	O
 Some	O
 projects	O

@@ -152,8 +152,8 @@ it	O
 requested	O
 .	O
 
-British	B-NORP	B-Organization
-Airways	O	I-Organization
+British	B-Organization	B-NORP
+Airways	I-Organization
 '	O
 2022	B-Misc
 winter	O
@@ -258,16 +258,16 @@ Bijleveld	I-Person
 executive	O
 chairman	O
 of	O
-Thai	B-NORP	B-Organization
-AirAsia	O	I-Organization
+Thai	B-Organization	B-NORP
+AirAsia	I-Organization
 and	O
 acting	O
 chief	O
 executive	O
 of	O
-Thai	B-NORP	B-Organization
-AirAsia	O	I-Organization
-X	O	I-Organization
+Thai	B-Organization	B-NORP
+AirAsia	I-Organization
+X	I-Organization
 ,	O
 said	O
 most	O
@@ -314,8 +314,8 @@ Tassapon	B-Person
 
 He	O
 said	O
-Thai	B-NORP	B-Organization
-AirAsia	O	I-Organization
+Thai	B-Organization	B-NORP
+AirAsia	I-Organization
 maintained	O
 all	O
 staff	O

@@ -273,8 +273,8 @@ South	B-Location
 Asia	I-Location
 along	O
 the	O
-Hindu	B-NORP	B-Location
-Kush	O	I-Location
+Hindu	B-Location	B-NORP
+Kush	I-Location
 mountains	O
 have	O
 long	O

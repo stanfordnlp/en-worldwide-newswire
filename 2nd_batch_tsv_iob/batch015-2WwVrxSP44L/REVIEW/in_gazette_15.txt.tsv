@@ -151,10 +151,10 @@ Temple	I-Facility
 he	O
 also	O
 visited	O
-Jinnah	B-Person	B-Facility
-’	O	I-Facility
-s	O	I-Facility
-Mausoleum	O	I-Facility
+Jinnah	B-Facility	B-Person
+’	I-Facility
+s	I-Facility
+Mausoleum	I-Facility
 .	O
 
 In	O
@@ -420,7 +420,7 @@ leaders	O
 began	O
 as	O
 Indian	B-NORP	B-NORP
-nationalists	O	I-NORP
+nationalists	I-NORP
 and	O
 later	O
 got	O
@@ -445,8 +445,8 @@ later	O
 led	O
 the	O
 communal	O
-Hindu	B-NORP	B-Organization
-Mahasabha	O	I-Organization
+Hindu	B-Organization	B-NORP
+Mahasabha	I-Organization
 and	O
 opposed	O
 the	O
@@ -479,9 +479,9 @@ as	O
 the	O
 member	O
 of	O
-Indian	B-NORP	B-Organization
-National	O	I-Organization
-Congress	O	I-Organization
+Indian	B-Organization	B-NORP
+National	I-Organization
+Congress	I-Organization
 .	O
 Was	O
 liberal	O
@@ -529,8 +529,8 @@ on	O
 to	O
 lead	O
 the	O
-Muslim	B-NORP	B-Organization
-League	O	I-Organization
+Muslim	B-Organization	B-NORP
+League	I-Organization
 in	O
 due	O
 course	O
@@ -753,8 +753,8 @@ of	O
 the	O
 delusion	O
 that	O
-Muslim	B-NORP	B-Organization
-League	O	I-Organization
+Muslim	B-Organization	B-NORP
+League	I-Organization
 was	O
 the	O
 representative	O
@@ -870,8 +870,8 @@ Muslims	B-NORP
 In	O
 1930	B-Misc
 in	O
-Muslim	B-NORP	B-Organization
-League	O	I-Organization
+Muslim	B-Organization	B-NORP
+League	I-Organization
 Convention	O
 Sir	O
 Mohammad	B-Person
@@ -901,8 +901,8 @@ elections	O
 (	O
 1937	B-Misc
 )	O
-Muslim	B-NORP	B-Organization
-League	O	I-Organization
+Muslim	B-Organization	B-NORP
+League	I-Organization
 did	O
 not	O
 fare	O
@@ -915,8 +915,8 @@ massively	O
 refused	O
 to	O
 incorporate	O
-Muslim	B-NORP	B-Organization
-League	O	I-Organization
+Muslim	B-Organization	B-NORP
+League	I-Organization
 in	O
 the	O
 Ministries	O
@@ -936,8 +936,8 @@ and	O
 in	O
 1940	B-Misc
 in	O
-Muslim	B-NORP	B-Organization
-League	O	I-Organization
+Muslim	B-Organization	B-NORP
+League	I-Organization
 convention	O
 he	O
 put	O
@@ -1003,8 +1003,8 @@ the	O
 supreme	O
 leader	O
 of	O
-Muslim	B-NORP	B-Organization
-League	O	I-Organization
+Muslim	B-Organization	B-NORP
+League	I-Organization
 .	O
 This	O
 is	O
@@ -1074,8 +1074,8 @@ theory	I-Misc
 as	O
 President	O
 of	O
-Hindu	B-NORP	B-Organization
-Mahasabha	O	I-Organization
+Hindu	B-Organization	B-NORP
+Mahasabha	I-Organization
 in	O
 keeping	O
 aloof	O

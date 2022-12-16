@@ -102,9 +102,9 @@ to	O
 attack	O
 them	O
 while	O
-Miaoli	B-Location	B-Organization
-County	I-Location	I-Organization
-police	O	I-Organization
+Miaoli	B-Organization	B-Location
+County	I-Organization	I-Location
+police	I-Organization
 who	O
 were	O
 guarding	O
@@ -116,9 +116,9 @@ protect	O
 them	O
 .	O
 
-Democratic	B-NORP	B-Organization
-Progressive	O	I-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Progressive	I-Organization
+Party	I-Organization
 (	O
 DPP	B-Organization
 )	O
@@ -163,9 +163,9 @@ him	O
 
 He	O
 accused	O
-Miaoli	B-Location	B-Organization
-County	I-Location	I-Organization
-police	O	I-Organization
+Miaoli	B-Organization	B-Location
+County	I-Organization	I-Location
+police	I-Organization
 of	O
 negligence	O
 ,	O
@@ -286,9 +286,9 @@ promised	O
 to	O
 check	O
 with	O
-Miaoli	B-Location	B-Organization
-County	I-Location	I-Organization
-police	O	I-Organization
+Miaoli	B-Organization	B-Location
+County	I-Organization	I-Location
+police	I-Organization
 officials	O
 and	O
 to	O
@@ -336,9 +336,9 @@ and	O
 will	O
 demand	O
 that	O
-Miaoli	B-Location	B-Organization
-County	I-Location	I-Organization
-police	O	I-Organization
+Miaoli	B-Organization	B-Location
+County	I-Organization	I-Location
+police	I-Organization
 review	O
 all	O
 evidence	O
@@ -384,11 +384,11 @@ the	O
 DPP	B-Organization
 and	O
 the	O
-Taiwan	B-Location	B-Organization
-People	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Party	O	I-Organization
+Taiwan	B-Organization	B-Location
+People	I-Organization
+’	I-Organization
+s	I-Organization
+Party	I-Organization
 joining	O
 the	O
 fight	O
@@ -398,9 +398,9 @@ project	O
 ,	O
 condemning	O
 the	O
-Miaoli	B-Location	B-Organization
-County	I-Location	I-Organization
-Government	O	I-Organization
+Miaoli	B-Organization	B-Location
+County	I-Organization	I-Location
+Government	I-Organization
 ,	O
 which	O
 has	O
@@ -409,9 +409,9 @@ been	O
 dominated	O
 by	O
 the	O
-Chinese	B-NORP	B-Organization
-Nationalist	O	I-Organization	B-NORP
-Party	O	I-Organization
+Chinese	B-Organization	B-NORP
+Nationalist	I-Organization	B-NORP
+Party	I-Organization
 (	O
 KMT	B-Organization
 )	O

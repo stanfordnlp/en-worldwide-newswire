@@ -19,9 +19,9 @@ Mutual	I-Organization
 Israeli	I-Organization	B-NORP
 Argentina	I-Organization	B-Location
 )	O
-Jewish	B-NORP	B-Facility
-community	O	I-Facility
-centre	O	I-Facility
+Jewish	B-Facility	B-NORP
+community	I-Facility
+centre	I-Facility
 last	O
 Monday	B-Misc
 had	O
@@ -63,9 +63,9 @@ Iranian	B-NORP
 crew	O
 detained	O
 at	O
-Ezeiza	B-Location	B-Facility
-International	O	I-Facility
-Airport	O	I-Facility
+Ezeiza	B-Facility	B-Location
+International	I-Facility
+Airport	I-Facility
 added	O
 a	O
 new	O
@@ -339,8 +339,8 @@ bomb	O
 destruction	O
 of	O
 the	O
-Israeli	B-NORP	B-Organization
-Embassy	O	I-Organization
+Israeli	B-Organization	B-NORP
+Embassy	I-Organization
 (	O
 29	O
 deaths	O

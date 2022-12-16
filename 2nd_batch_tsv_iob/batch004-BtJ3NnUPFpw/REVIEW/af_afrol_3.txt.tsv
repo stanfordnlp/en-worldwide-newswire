@@ -36,17 +36,17 @@ Site	I-Misc
 .	O
 
 The	O
-Kinshasa	B-Location	B-Organization
-Environment	O	I-Organization
-Ministry	O	I-Organization
+Kinshasa	B-Organization	B-Location
+Environment	I-Organization
+Ministry	I-Organization
 issued	O
 a	O
 statement	O
 today	O
 declaring	O
 the	O
-DRC	B-Location	B-Organization
-government	O	I-Organization
+DRC	B-Organization	B-Location
+government	I-Organization
 would	O
 suspend	O
 any	O
@@ -216,8 +216,8 @@ natural	O
 resources	O
 in	O
 Virunga	B-Location	B-Location
-National	O	I-Location
-Park	O	I-Location
+National	I-Location
+Park	I-Location
 ,	O
 reflecting	O
 their	O
@@ -241,7 +241,7 @@ companies	O
 commented	O
 Allard	B-Person
 
-Blom	I-Person
+Blom	O
 ,	O
 Director	O
 WWF	B-Organization
@@ -347,9 +347,9 @@ despite	O
 warnings	O
 by	O
 the	O
-Kinshasa	B-Location	B-Organization
-Environment	O	I-Organization
-Ministry	O	I-Organization
+Kinshasa	B-Organization	B-Location
+Environment	I-Organization
+Ministry	I-Organization
 ,	O
 rejecting	O
 the	O

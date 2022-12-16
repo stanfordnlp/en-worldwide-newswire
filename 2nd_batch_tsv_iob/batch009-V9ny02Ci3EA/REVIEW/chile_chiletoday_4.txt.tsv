@@ -71,13 +71,13 @@ to	O
 have	O
 the	O
 only	O
-Bahá	B-NORP	B-Location
-’	I-NORP	I-Location
-í	I-NORP	I-Location
-temple	O	I-Location
-in	O	I-Location
-South	O	I-Location
-America	O	I-Location
+Bahá	B-Location	B-NORP
+’	I-Location	I-NORP
+í	I-Location	I-NORP
+temple	I-Location
+in	I-Location
+South	I-Location
+America	I-Location
 .	O
 The	O
 temple	O
@@ -161,10 +161,10 @@ explained	O
 .	O
 
 The	O
-Bahá	B-NORP	B-Organization
-’	I-NORP	I-Organization
-í	I-NORP	I-Organization
-faith	O	I-Organization
+Bahá	B-Organization	B-NORP
+’	I-Organization	I-NORP
+í	I-Organization	I-NORP
+faith	I-Organization
 (	O
 also	O
 known	O
@@ -792,10 +792,10 @@ mistakes	O
 .	O
 
 The	O
-Bahá	B-NORP	B-Facility
-’	I-NORP	I-Facility
-í	I-NORP	I-Facility
-Temple	O	I-Facility
+Bahá	B-Facility	B-NORP
+’	I-Facility	I-NORP
+í	I-Facility	I-NORP
+Temple	I-Facility
 is	O
 a	O
 perfect	O

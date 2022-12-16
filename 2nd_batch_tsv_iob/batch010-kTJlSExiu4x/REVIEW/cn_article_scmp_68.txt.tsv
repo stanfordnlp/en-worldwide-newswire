@@ -440,12 +440,12 @@ executive	O
 officer	O
 of	O
 a	O
-Jujuy	B-Location	B-Organization
-lithium	O	I-Organization
-research	O	I-Organization
-and	O	I-Organization
-development	O	I-Organization
-centre	O	I-Organization
+Jujuy	B-Organization	B-Location
+lithium	I-Organization
+research	I-Organization
+and	I-Organization
+development	I-Organization
+centre	I-Organization
 ,	O
 describes	O
 the	O
@@ -539,10 +539,10 @@ Juan	B-Person
 Gonzalez	I-Person
 ,	O
 the	O
-US	B-Location	B-Organization
-National	O	I-Organization
-Security	O	I-Organization
-Council	O	I-Organization
+US	B-Organization	B-Location
+National	I-Organization
+Security	I-Organization
+Council	I-Organization
 ’	O
 s	O
 senior	O
@@ -644,9 +644,9 @@ the	O
 deep	O
 pockets	O
 of	O
-Chinese	B-NORP	B-Organization
-investment	O	I-Organization
-banks	O	I-Organization
+Chinese	B-Organization	B-NORP
+investment	I-Organization
+banks	I-Organization
 .	O
 ”	O
 
@@ -1024,10 +1024,10 @@ China	B-Location
 would	O
 finance	O
 about	O
-US	B-Location	B-Money
-$	O	I-Money
-24	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+24	I-Money
+billion	I-Money
 in	O
 infrastructure	O
 projects	O
@@ -1154,10 +1154,10 @@ the	O
 US	B-Location
 loaned	O
 Ecuador	B-Location
-US	B-Location	B-Money
-$	O	I-Money
-3.5	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+3.5	I-Money
+billion	I-Money
 to	O
 get	O
 out	O
@@ -1209,10 +1209,10 @@ global	O
 infrastructure	O
 -	O
 building	O
-Belt	B-Location	B-Misc
-and	O	I-Misc
-Road	O	I-Misc	B-Location
-Initiative	O	I-Misc
+Belt	B-Misc	B-Location
+and	I-Misc
+Road	I-Misc	B-Location
+Initiative	I-Misc
 .	O
 
 The	O
@@ -2034,12 +2034,12 @@ Jujuy	B-Location
 campus	O
 of	O
 the	O
-Catholic	B-NORP	B-Organization
-University	O	I-Organization
-of	O	I-Organization
-Santiago	O	I-Organization	B-Location
-del	O	I-Organization	I-Location
-Estero	O	I-Organization	I-Location
+Catholic	B-Organization	B-NORP
+University	I-Organization
+of	I-Organization
+Santiago	I-Organization	B-Location
+del	I-Organization	I-Location
+Estero	I-Organization	I-Location
 .	O
 “	O
 When	O
@@ -2131,10 +2131,10 @@ delegation	O
 that	O
 negotiated	O
 a	O
-US	B-Location	B-Money
-$	O	I-Money
-330	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+330	I-Money
+million	I-Money
 loan	O
 for	O
 Cauchari	B-Facility

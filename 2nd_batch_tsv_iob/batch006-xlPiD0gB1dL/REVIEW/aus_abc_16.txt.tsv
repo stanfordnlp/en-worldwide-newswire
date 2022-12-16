@@ -105,8 +105,8 @@ being	O
 found	O
 in	O
 a	O
-Paris	B-Location	B-Facility
-museum	O	I-Facility
+Paris	B-Facility	B-Location
+museum	I-Facility
 collection	O
 .	O
 
@@ -195,8 +195,8 @@ Oceania	B-Location
 section	O
 at	O
 the	O
-British	B-NORP	B-Facility
-Museum	O	I-Facility
+British	B-Facility	B-NORP
+Museum	I-Facility
 .	O
 
 She	O
@@ -283,8 +283,8 @@ all	O
 the	O
 collections	O
 in	O
-Paris	B-Location	B-Facility
-museums	O	I-Facility
+Paris	B-Facility	B-Location
+museums	I-Facility
 .	O
 "	O
 
@@ -452,8 +452,8 @@ was	O
 still	O
 in	O
 the	O
-Paris	B-Location	B-Facility
-museum	O	I-Facility
+Paris	B-Facility	B-Location
+museum	I-Facility
 ,	O
 "	O
 she	O
@@ -582,8 +582,8 @@ some	O
 works	O
 with	O
 the	O
-African	B-NORP	B-Misc
-Collections	O	I-Misc
+African	B-Misc	B-NORP
+Collections	I-Misc
 and	O
 found	O
 an	O
@@ -638,10 +638,10 @@ voyage	O
 held	O
 in	O
 the	O
-Paris	B-Location	B-Facility
-Natural	O	I-Facility
-History	O	I-Facility
-Museum	O	I-Facility
+Paris	B-Facility	B-Location
+Natural	I-Facility
+History	I-Facility
+Museum	I-Facility
 using	O
 infrared	O
 technology	O
@@ -706,8 +706,8 @@ is	O
 held	O
 by	O
 the	O
-British	B-NORP	B-Facility
-Museum	O	I-Facility
+British	B-Facility	B-NORP
+Museum	I-Facility
 ,	O
 given	O
 by	O
@@ -859,8 +859,8 @@ Online	O
 databases	O
 at	O
 the	O
-British	B-NORP	B-Facility
-Museum	O	I-Facility
+British	B-Facility	B-NORP
+Museum	I-Facility
 have	O
 helped	O
 connect	O

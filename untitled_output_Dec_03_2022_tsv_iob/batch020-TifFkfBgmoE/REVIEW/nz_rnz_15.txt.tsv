@@ -1,8 +1,8 @@
 https://www.rnz.co.nz/news/te-manu-korihi/471260/waitangi-tribunal-hears-criticism-of-its-cumbersome-bureaucratic-process	O
 
 The	O
-Waitangi	B-Location	B-Organization
-Tribunal	O	I-Organization
+Waitangi	B-Organization	B-Location
+Tribunal	I-Organization
 ,	O
 set	O
 up	O
@@ -444,10 +444,10 @@ was	O
 needed	O
 .	O
 
-Auckland	B-Location	B-Organization
-'s	O	I-Organization
-Waipareira	O	I-Organization
-Trust	O	I-Organization
+Auckland	B-Organization	B-Location
+'s	I-Organization
+Waipareira	I-Organization
+Trust	I-Organization
 chief	O
 executive	O
 John	B-Person

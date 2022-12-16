@@ -37,10 +37,10 @@ poll	O
 was	O
 released	O
 ,	O
-Tunisia	B-Location	B-Organization
-'s	O	I-Organization
-Electoral	O	I-Organization
-Commission	O	I-Organization
+Tunisia	B-Organization	B-Location
+'s	I-Organization
+Electoral	I-Organization
+Commission	I-Organization
 confirmed	O
 the	O
 turnout	O

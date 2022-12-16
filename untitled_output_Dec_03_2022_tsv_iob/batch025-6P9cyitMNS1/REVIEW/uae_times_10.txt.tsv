@@ -32,9 +32,9 @@ operation	O
 of	O
 two	O
 Chevrolet	B-Organization
-Bolt	B-Organization	B-Product
-electric	O	I-Product
-vehicles	O	I-Product
+Bolt	B-Product	B-Organization
+electric	I-Product
+vehicles	I-Product
 (	O
 EVs	O
 )	O
@@ -94,8 +94,8 @@ US	B-Location
 The	O
 two	O
 Chevrolet	B-Organization
-Bolt	B-Organization	B-Product
-EVs	O	I-Product
+Bolt	B-Product	B-Organization
+EVs	I-Product
 will	O
 be	O
 initially	O
@@ -331,13 +331,13 @@ step	O
 towards	O
 realising	O
 the	O
-Dubai	B-Location	B-Misc
-Smart	O	I-Misc
-Self	O	I-Misc
--	O	I-Misc
-Driving	O	I-Misc
-Transport	O	I-Misc
-Strategy	O	I-Misc
+Dubai	B-Misc	B-Location
+Smart	I-Misc
+Self	I-Misc
+-	I-Misc
+Driving	I-Misc
+Transport	I-Misc
+Strategy	I-Misc
 aimed	O
 to	O
 transform	O

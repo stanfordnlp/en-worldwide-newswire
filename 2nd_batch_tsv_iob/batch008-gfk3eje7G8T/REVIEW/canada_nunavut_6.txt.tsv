@@ -1,8 +1,8 @@
 https://www.aptnnews.ca/national-news/nunavut-legal-aid-to-intervene-at-supreme-court-of-canada-for-first-time/	O
 
-Nunavut	B-Location	B-Misc
-Legal	O	I-Misc
-Aid	O	I-Misc
+Nunavut	B-Misc	B-Location
+Legal	I-Misc
+Aid	I-Misc
 is	O
 to	O
 have	O
@@ -54,9 +54,9 @@ the	O
 country	O
 .	O
 
-Nunavut	B-Location	B-Misc
-Legal	O	I-Misc
-Aid	O	I-Misc
+Nunavut	B-Misc	B-Location
+Legal	I-Misc
+Aid	I-Misc
 is	O
 to	O
 appear	O
@@ -175,9 +175,9 @@ In	O
 2018	B-Misc
 ,	O
 the	O
-Ontario	B-Location	B-Organization
-Superior	O	I-Organization
-Court	O	I-Organization
+Ontario	B-Organization	B-Location
+Superior	I-Organization
+Court	I-Organization
 rejected	O
 Sharma	B-Person
 ’	O
@@ -222,10 +222,10 @@ penalties	O
 .	O
 
 An	O
-Ontario	B-Location	B-Organization
-Court	O	I-Organization
-of	O	I-Organization
-Appeal	O	I-Organization
+Ontario	B-Organization	B-Location
+Court	I-Organization
+of	I-Organization
+Appeal	I-Organization
 justice	O
 ,	O
 saying	O
@@ -260,9 +260,9 @@ Tache	I-Person
 Green	I-Person
 ,	O
 a	O
-Nunavut	B-Location	B-Misc
-Legal	O	I-Misc
-Aid	O	I-Misc
+Nunavut	B-Misc	B-Location
+Legal	I-Misc
+Aid	I-Misc
 lawyer	O
 leading	O
 the	O
@@ -300,8 +300,8 @@ s	O
 legal	O
 order	O
 is	O
-Inuit	B-NORP	B-Misc
-Qaujimajatuqangit	O	I-Misc
+Inuit	B-Misc	B-NORP
+Qaujimajatuqangit	I-Misc
 ,	O
 a	O
 social	O
@@ -393,12 +393,12 @@ Redfern	I-Person
 ,	O
 chairwoman	O
 of	O
-Nunavut	B-Location	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Legal	O	I-Organization
-Services	O	I-Organization
-Board	O	I-Organization
+Nunavut	B-Organization	B-Location
+’	I-Organization
+s	I-Organization
+Legal	I-Organization
+Services	I-Organization
+Board	I-Organization
 ,	O
 said	O
 it	O
@@ -756,17 +756,17 @@ the	O
 case	O
 include	O
 the	O
-Ontario	B-Location	B-Organization
-Native	O	I-Organization
-Women	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Association	O	I-Organization
+Ontario	B-Organization	B-Location
+Native	I-Organization
+Women	I-Organization
+’	I-Organization
+s	I-Organization
+Association	I-Organization
 ,	O
 the	O
-Elizabeth	B-Person	B-Organization
-Fry	O	I-Organization
-Society	O	I-Organization
+Elizabeth	B-Organization	B-Person
+Fry	I-Organization
+Society	I-Organization
 and	O
 the	O
 Assembly	B-Organization

@@ -403,8 +403,8 @@ through	O
 hiking	O
 in	O
 the	O
-Canadian	B-NORP	B-Location
-Rockies	O	I-Location
+Canadian	B-Location	B-NORP
+Rockies	I-Location
 near	O
 my	O
 hometown	O

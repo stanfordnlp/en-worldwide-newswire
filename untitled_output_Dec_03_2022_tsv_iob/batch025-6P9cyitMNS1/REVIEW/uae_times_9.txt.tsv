@@ -53,9 +53,9 @@ During	O
 an	O
 interview	O
 with	O
-Abu	B-Location	B-Organization
-Dhabi	I-Location	I-Organization
-Radio	O	I-Organization
+Abu	B-Organization	B-Location
+Dhabi	I-Organization	I-Location
+Radio	I-Organization
 on	O
 Tuesday	B-Misc
 ,	O
@@ -781,8 +781,8 @@ or	O
 registration	O
 with	O
 the	O
-Emirates	B-Organization	B-Misc
-ID	O	I-Misc
+Emirates	B-Misc	B-Organization
+ID	I-Misc
 .	O
 
 Electricity	O

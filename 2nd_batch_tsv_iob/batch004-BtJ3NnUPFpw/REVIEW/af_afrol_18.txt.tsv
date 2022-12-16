@@ -45,10 +45,10 @@ exotic	O
 cave	O
 restaurant	O
 called	O
-Maria	B-Person	B-Organization
-'s	O	I-Organization
-Rock	O	I-Organization
-Café	O	I-Organization
+Maria	B-Organization	B-Person
+'s	I-Organization
+Rock	I-Organization
+Café	I-Organization
 in	O
 Baie	B-Location
 Lazare	I-Location
@@ -993,10 +993,10 @@ find	O
 and	O
 even	O
 at	O
-Maria	B-Person	B-Organization
-'s	O	I-Organization
-Rock	O	I-Organization
-Café	O	I-Organization
+Maria	B-Organization	B-Person
+'s	I-Organization
+Rock	I-Organization
+Café	I-Organization
 you	O
 would	O
 need	O
@@ -2317,10 +2317,10 @@ photo	O
 opportunities	O
 .	O
 
-Maria	B-Person	B-Misc
-'s	O	I-Misc
-Rock	O	I-Misc
-Café	O	I-Misc
+Maria	B-Misc	B-Person
+'s	I-Misc
+Rock	I-Misc
+Café	I-Misc
 is	O
 located	O
 a	O

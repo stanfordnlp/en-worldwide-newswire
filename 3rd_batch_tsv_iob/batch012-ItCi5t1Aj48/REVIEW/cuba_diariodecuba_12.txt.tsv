@@ -224,10 +224,10 @@ first	O
 secretary	O
 of	O
 the	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
-of	O	I-Organization
-Cuba	O	I-Organization	B-Location
+Communist	B-Organization	B-NORP
+Party	I-Organization
+of	I-Organization
+Cuba	I-Organization	B-Location
 in	O
 the	O
 province	O

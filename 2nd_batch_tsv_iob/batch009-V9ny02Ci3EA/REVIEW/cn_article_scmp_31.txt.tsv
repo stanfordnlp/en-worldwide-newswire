@@ -69,12 +69,12 @@ assessment	O
 department	O
 of	O
 the	O
-China	B-Location	B-Organization
-Banking	O	I-Organization
-and	O	I-Organization
-Insurance	O	I-Organization
-Regulatory	O	I-Organization
-Commission	O	I-Organization
+China	B-Organization	B-Location
+Banking	I-Organization
+and	I-Organization
+Insurance	I-Organization
+Regulatory	I-Organization
+Commission	I-Organization
 (	O
 CBIRC	B-Organization
 )	O
@@ -270,11 +270,11 @@ article	O
 published	O
 in	O
 the	O
-China	B-Location	B-Misc
-Banking	O	I-Misc
-and	O	I-Misc
-Insurance	O	I-Misc
-News	O	I-Misc
+China	B-Misc	B-Location
+Banking	I-Misc
+and	I-Misc
+Insurance	I-Misc
+News	I-Misc
 ,	O
 a	O
 CBIRC	B-Organization
@@ -386,18 +386,18 @@ bad	O
 -	O
 loans	O
 manager	O
-Henan	B-Location	B-Organization
-Asset	O	I-Organization
-Management	O	I-Organization
-Company	O	I-Organization
+Henan	B-Organization	B-Location
+Asset	I-Organization
+Management	I-Organization
+Company	I-Organization
 and	O
 state	O
 -	O
 owned	O
-Zhengzhou	B-Location	B-Organization
-Real	O	I-Organization
-Estate	O	I-Organization
-Group	O	I-Organization
+Zhengzhou	B-Organization	B-Location
+Real	I-Organization
+Estate	I-Organization
+Group	I-Organization
 to	O
 clean	O
 up	O
@@ -549,9 +549,9 @@ missed	O
 payments	O
 .	O
 
-Sichuan	B-Location	B-Organization
-Languang	O	I-Organization
-Development	O	I-Organization
+Sichuan	B-Organization	B-Location
+Languang	I-Organization
+Development	I-Organization
 was	O
 the	O
 first	O
@@ -565,10 +565,10 @@ its	O
 payment	O
 on	O
 a	O
-US	B-Location	B-Money
-$	O	I-Money
-139	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+139	I-Money
+million	I-Money
 bond	O
 last	O
 July	B-Misc
@@ -581,9 +581,9 @@ quickly	O
 spread	O
 ,	O
 ensnaring	O
-China	B-Location	B-Organization
-Evergrande	O	I-Organization
-Group	O	I-Organization
+China	B-Organization	B-Location
+Evergrande	I-Organization
+Group	I-Organization
 ,	O
 which	O
 holds	O

@@ -94,11 +94,11 @@ its	O
 opponents	O
 .	O
 
-Myanmar	B-Location	B-Organization
-'s	O	I-Organization
-National	O	I-Organization
-Unity	O	I-Organization
-Government	O	I-Organization
+Myanmar	B-Organization	B-Location
+'s	I-Organization
+National	I-Organization
+Unity	I-Organization
+Government	I-Organization
 (	O
 NUG	B-Organization
 )	O
@@ -609,11 +609,11 @@ Santiago	I-Person
 chair	O
 of	O
 the	O
-ASEAN	B-Organization	B-Misc
-Parliamentarians	O	I-Misc
-for	O	I-Misc
-Human	O	I-Misc
-Rights	O	I-Misc
+ASEAN	B-Misc	B-Organization
+Parliamentarians	I-Misc
+for	I-Misc
+Human	I-Misc
+Rights	I-Misc
 .	O
 
 "	O

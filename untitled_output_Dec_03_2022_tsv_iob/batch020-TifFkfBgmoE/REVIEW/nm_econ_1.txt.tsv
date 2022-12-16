@@ -124,7 +124,7 @@ Court	I-Organization
 We	O
 at	O
 Paratus	B-Organization	B-Organization
-Namibia	O	I-Organization	B-Location
+Namibia	I-Organization	B-Location
 are	O
 very	O
 proud	O
@@ -338,8 +338,8 @@ Justifying	O
 their	O
 actions	O
 against	O
-Paratus	B-Location	B-Organization
-Namibia	O	I-Organization	B-Location
+Paratus	B-Organization	B-Location
+Namibia	I-Organization	B-Location
 ,	O
 the	O
 City	O

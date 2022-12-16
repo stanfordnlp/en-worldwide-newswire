@@ -274,16 +274,16 @@ weather	O
 updates	O
 from	O
 the	O
-Thai	B-NORP	B-Organization
-Meteorological	O	I-Organization
-Department	O	I-Organization
+Thai	B-Organization	B-NORP
+Meteorological	I-Organization
+Department	I-Organization
 or	O
 download	O
 the	O
 “	O
-Thai	B-NORP	B-Misc
-Disaster	O	I-Misc
-Alert	O	I-Misc
+Thai	B-Misc	B-NORP
+Disaster	I-Misc
+Alert	I-Misc
 ”	O
 mobile	O
 app	O

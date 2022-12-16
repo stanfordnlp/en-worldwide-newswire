@@ -50,10 +50,10 @@ the	O
 matter	O
 at	O
 the	O
-Windhoek	B-Location	B-Organization
-Magistrate	O	I-Organization
-'s	O	I-Organization
-Court	O	I-Organization
+Windhoek	B-Organization	B-Location
+Magistrate	I-Organization
+'s	I-Organization
+Court	I-Organization
 .	O
 
 Lukas	B-Person

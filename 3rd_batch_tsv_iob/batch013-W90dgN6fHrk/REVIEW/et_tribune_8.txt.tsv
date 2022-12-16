@@ -39,14 +39,14 @@ Paul	B-Person
 Stenhouse	I-Person
 ’	O
 s	O
-English	B-NORP	B-Misc
-translation	O	I-Misc
-of	O	I-Misc
-the	O	I-Misc
-FUTUH	O	I-Misc
-AL	O	I-Misc
--	O	I-Misc
-HABASHA	O	I-Misc
+English	B-Misc	B-NORP
+translation	I-Misc
+of	I-Misc
+the	I-Misc
+FUTUH	I-Misc
+AL	I-Misc
+-	I-Misc
+HABASHA	I-Misc
 ,	O
 or	O
 16th	O
@@ -99,8 +99,8 @@ simply	O
 ,	O
 as	O
 ‘	O
-Arab	B-NORP	B-Person
-Faqih	O	I-Person
+Arab	B-Person	B-NORP
+Faqih	I-Person
 .	O
 He	O
 was	O
@@ -1156,9 +1156,9 @@ scribe	O
 the	O
 illustrious	O
 ‘	O
-Arab	B-NORP	B-Person
--	O	I-Person
-Faqih	O	I-Person
+Arab	B-Person	B-NORP
+-	I-Person
+Faqih	I-Person
 ,	O
 for	O
 some	O

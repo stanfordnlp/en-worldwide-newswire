@@ -3,9 +3,9 @@ https://www.observerbd.com/news.php?id=376746	O
 The	O
 helper	O
 of	O
-Bikash	B-Organization	
-Paribahan	I-Organization	
-bus	O	
+Bikash	B-Organization
+Paribahan	I-Organization
+bus	O
 has	O
 been	O
 arrested	O
@@ -190,8 +190,8 @@ on	O
 facebook	B-Product
 from	O
 where	O
-Lalbagh	B-Location	B-Organization
-police	O	I-Organization
+Lalbagh	B-Organization	B-Location
+police	I-Organization
 came	O
 to	O
 know	O
@@ -201,9 +201,9 @@ matter	O
 
 Members	O
 from	O
-Lalbagh	B-Location	B-Organization	B-Facility
-police	O	I-Organization	I-Facility
-station	O	O	I-Facility
+Lalbagh	B-Facility	B-Organization	B-Location
+police	I-Facility	I-Organization
+station	I-Facility
 identified	O
 the	O
 victim	O
@@ -242,9 +242,9 @@ lodged	O
 a	O
 complaint	O
 with	O
-Lalbagh	B-Location	B-Organization	B-Facility
-police	O	I-Organization	I-Facility
-station	O	O	I-Facility
+Lalbagh	B-Facility	B-Organization	B-Location
+police	I-Facility	I-Organization
+station	I-Facility
 in	O
 this	O
 regard	O

@@ -162,8 +162,8 @@ that	O
 followed	O
 by	O
 the	O
-Chinese	B-NORP	B-Organization
-government	O	I-Organization
+Chinese	B-Organization	B-NORP
+government	I-Organization
 in	O
 the	O
 late	O
@@ -190,10 +190,10 @@ in	O
 Castroism	B-Misc
 inaugurated	O
 the	O
-Mariel	B-Person	B-Location
-Special	O	I-Location
-Development	O	I-Location
-Zone	O	I-Location
+Mariel	B-Location	B-Person
+Special	I-Location
+Development	I-Location
+Zone	I-Location
 (	O
 ZEDM	B-Location
 )	O
@@ -488,10 +488,10 @@ in	O
 Cuba	B-Location
 ,	O
 the	O
-Mariel	B-Person	B-Location
-Special	O	I-Location
-Development	O	I-Location
-Zone	O	I-Location
+Mariel	B-Location	B-Person
+Special	I-Location
+Development	I-Location
+Zone	I-Location
 (	O
 ZEDM	B-Location
 )	O

@@ -8,9 +8,9 @@ a	O
 spot	O
 in	O
 the	O
-FIFA	B-Organization	B-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+FIFA	B-Misc	B-Organization
+World	I-Misc
+Cup	I-Misc
 by	O
 submitting	O
 a	O
@@ -23,8 +23,8 @@ Castillo	I-Person
 Segura	I-Person
 and	O
 his	O
-Ecuadorian	B-NORP	B-Organization
-team	O	I-Organization
+Ecuadorian	B-Organization	B-NORP
+team	I-Organization
 .	O
 Alleging	O
 there	O
@@ -43,10 +43,10 @@ now	O
 waits	O
 for	O
 FIFA	B-Organization	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Disciplinary	O	I-Organization
-Commission	O	I-Organization
+’	I-Organization
+s	I-Organization
+Disciplinary	I-Organization
+Commission	I-Organization
 ’	O
 s	O
 decision	O
@@ -299,9 +299,9 @@ competition	O
 ”	O
 stated	O
 the	O
-Chilean	B-NORP	B-Organization
-Football	O	I-Organization
-Federation	O	I-Organization
+Chilean	B-Organization	B-NORP
+Football	I-Organization
+Federation	I-Organization
 .	O
 
 In	O
@@ -309,15 +309,15 @@ its	O
 statement	O
 ,	O
 the	O
-Chilean	B-NORP	B-Organization
-Football	O	I-Organization
-Federation	O	I-Organization
+Chilean	B-Organization	B-NORP
+Football	I-Organization
+Federation	I-Organization
 claimed	O
 that	O
 the	O
-Ecuadorian	B-NORP	B-Organization
-Football	O	I-Organization
-Federation	O	I-Organization
+Ecuadorian	B-Organization	B-NORP
+Football	I-Organization
+Federation	I-Organization
 (	O
 FEF	B-Organization
 )	O
@@ -393,9 +393,9 @@ In	O
 qualifications	O
 for	O
 the	O
-FIFA	B-Organization	B-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+FIFA	B-Misc	B-Organization
+World	I-Misc
+Cup	I-Misc
 ,	O
 Chile	B-Location
 filed	O

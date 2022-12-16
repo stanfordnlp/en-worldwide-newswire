@@ -70,8 +70,8 @@ White	I-Location
 City	I-Location
 in	O
 “	O
-Paris	B-Location	B-Organization
-Match	O	I-Organization
+Paris	B-Organization	B-Location
+Match	I-Organization
 ”	O
 (	O
 a	O
@@ -619,8 +619,8 @@ with	O
 leading	O
 publications	O
 like	O
-Paris	B-Location	B-Organization
-Match	O	I-Organization
+Paris	B-Organization	B-Location
+Match	I-Organization
 ,	O
 which	O
 is	O
@@ -644,9 +644,9 @@ support	O
 in	O
 providing	O
 the	O
-Honduran	B-NORP	B-Organization
-Armed	O	I-Organization
-Forces	O	I-Organization
+Honduran	B-Organization	B-NORP
+Armed	I-Organization
+Forces	I-Organization
 and	O
 all	O
 the	O

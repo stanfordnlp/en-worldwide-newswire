@@ -37,8 +37,8 @@ now	O
 joins	O
 forces	O
 with	O
-Saudi	B-NORP	B-Organization
-Aramco	O	I-Organization
+Saudi	B-Organization	B-NORP
+Aramco	I-Organization
 ,	O
 the	O
 world	O
@@ -81,8 +81,8 @@ recently	O
 .	O
 
 The	O
-Saudi	B-NORP	B-Organization
-Aramco	O	I-Organization
+Saudi	B-Organization	B-NORP
+Aramco	I-Organization
 ,	O
 a	O
 Saudi	B-NORP
@@ -516,9 +516,9 @@ the	O
 Korean	B-NORP
 branch	O
 of	O
-Boston	B-Location	B-Organization
-Consulting	O	I-Organization
-Group	O	I-Organization
+Boston	B-Organization	B-Location
+Consulting	I-Organization
+Group	I-Organization
 after	O
 his	O
 study	O

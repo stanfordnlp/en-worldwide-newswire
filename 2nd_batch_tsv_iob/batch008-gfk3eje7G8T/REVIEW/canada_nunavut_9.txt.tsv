@@ -131,10 +131,10 @@ in	O
 the	O
 Facebook	B-Organization
 group	O
-Iqaluit	B-Location	B-Misc
-Public	O	I-Misc
-Service	O	I-Misc
-Announcements	O	I-Misc
+Iqaluit	B-Misc	B-Location
+Public	I-Misc
+Service	I-Misc
+Announcements	I-Misc
 Thursday	B-Misc
 night	O
 .	O

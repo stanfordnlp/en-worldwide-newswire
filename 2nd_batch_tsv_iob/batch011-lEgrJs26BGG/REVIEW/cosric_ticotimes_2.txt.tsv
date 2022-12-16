@@ -34,8 +34,8 @@ Origin	O
 of	O
 Nicoya	B-Location
 
-Guanacaste	B-Location	B-Misc
-Day	O	I-Misc
+Guanacaste	B-Misc	B-Location
+Day	I-Misc
 is	O
 celebrated	O
 annually	O
@@ -201,8 +201,8 @@ In	O
 1812	B-Misc
 ,	O
 the	O
-Spanish	B-NORP	B-Misc
-Constitution	O	I-Misc
+Spanish	B-Misc	B-NORP
+Constitution	I-Misc
 divided	O
 the	O
 Kingdom	B-Location

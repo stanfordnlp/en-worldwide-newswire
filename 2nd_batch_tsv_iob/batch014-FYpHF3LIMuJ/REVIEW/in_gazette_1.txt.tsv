@@ -69,8 +69,8 @@ turn	I-Misc
 "	O
 published	O
 in	O
-Muslim	B-NORP	B-Organization
-Mirror	O	I-Organization
+Muslim	B-Organization	B-NORP
+Mirror	I-Organization
 on	O
 13	B-Misc
 October	I-Misc
@@ -1423,11 +1423,11 @@ over	O
 .	O
 He	O
 killed	O
-South	B-NORP	B-Organization
-Asian	I-NORP	I-Organization
-Council	O	I-Organization
-For	O	I-Organization
-Minorities	O	I-Organization
+South	B-Organization	B-NORP
+Asian	I-Organization	I-NORP
+Council	I-Organization
+For	I-Organization
+Minorities	I-Organization
 which	O
 has	O
 held	O

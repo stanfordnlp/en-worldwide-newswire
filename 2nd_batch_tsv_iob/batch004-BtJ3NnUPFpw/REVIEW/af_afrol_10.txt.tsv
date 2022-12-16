@@ -656,10 +656,10 @@ media	O
 reports	O
 ,	O
 the	O
-Addis	B-Location	B-Organization
-Ababa	I-Location	I-Organization
-Youth	O	I-Organization
-Forum	O	I-Organization
+Addis	B-Organization	B-Location
+Ababa	I-Organization	I-Location
+Youth	I-Organization
+Forum	I-Organization
 ,	O
 a	O
 group	O
@@ -675,10 +675,10 @@ in	O
 collaboration	O
 with	O
 an	O
-Ethiopian	B-NORP	B-Organization
-Orthodox	O	I-Organization	B-NORP
-Church	O	I-Organization
-association	O	I-Organization
+Ethiopian	B-Organization	B-NORP
+Orthodox	I-Organization	B-NORP
+Church	I-Organization
+association	I-Organization
 ,	O
 is	O
 planning	O

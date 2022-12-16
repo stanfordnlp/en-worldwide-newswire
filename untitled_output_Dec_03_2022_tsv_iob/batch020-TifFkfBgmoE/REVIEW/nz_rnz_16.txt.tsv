@@ -21,10 +21,10 @@ review	O
 process	O
 ,	O
 the	O
-West	B-Location	B-Organization
-Coast	I-Location	I-Organization
-Regional	O	I-Organization
-Council	O	I-Organization
+West	B-Organization	B-Location
+Coast	I-Organization	I-Location
+Regional	I-Organization
+Council	I-Organization
 has	O
 heard	O
 .	O
@@ -152,10 +152,10 @@ minister	O
 ,	O
 and	O
 the	O
-West	B-Location	B-Organization
-Coast	I-Location	I-Organization
-Conservation	O	I-Organization
-Board	O	I-Organization
+West	B-Organization	B-Location
+Coast	I-Organization	I-Location
+Conservation	I-Organization
+Board	I-Organization
 was	O
 not	O
 consulted	O
@@ -356,8 +356,8 @@ reports	I-Misc
 
 "	O
 The	O
-Manawhenua	B-NORP	B-Misc
-Panel	O	I-Misc
+Manawhenua	B-Misc	B-NORP
+Panel	I-Misc
 are	O
 not	O
 recommending	O

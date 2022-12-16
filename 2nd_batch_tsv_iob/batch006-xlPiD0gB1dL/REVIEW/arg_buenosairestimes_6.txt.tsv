@@ -608,8 +608,8 @@ columnist	O
 as	O
 a	O
 former	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 employee	O
 (	O
 on	O
@@ -624,8 +624,8 @@ electoral	O
 system	O
 for	O
 the	O
-European	B-NORP	B-Organization
-Parliament	O	I-Organization
+European	B-Organization	B-NORP
+Parliament	I-Organization
 which	O
 it	O
 still	O
@@ -785,11 +785,11 @@ Buenos	B-Location
 Aires	I-Location
 by	O
 the	O
-Argentine	B-NORP	B-Organization
--	O	I-Organization
-British	O	I-Organization	B-NORP
-Community	O	I-Organization
-Council	O	I-Organization
+Argentine	B-Organization	B-NORP
+-	I-Organization
+British	I-Organization	B-NORP
+Community	I-Organization
+Council	I-Organization
 (	O
 ABCC	B-Organization
 )	O
@@ -812,9 +812,9 @@ tour	O
 naturally	O
 including	O
 that	O
-Retiro	B-Location	B-Misc
-clock	O	I-Misc
-tower	O	I-Misc
+Retiro	B-Misc	B-Location
+clock	I-Misc
+tower	I-Misc
 known	O
 until	O
 the	O

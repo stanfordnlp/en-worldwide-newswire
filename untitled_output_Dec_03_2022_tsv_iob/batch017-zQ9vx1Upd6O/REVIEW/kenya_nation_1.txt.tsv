@@ -27,8 +27,8 @@ in	O
 as	O
 the	O
 new	O
-Kenya	B-Location	B-Organization
-Army	O	I-Organization
+Kenya	B-Organization	B-Location
+Army	I-Organization
 commander	O
 ,	O
 following	O
@@ -80,9 +80,9 @@ ceremony	O
 attended	O
 by	O
 the	O
-Kenya	B-Location	B-Organization
-Defence	O	I-Organization
-Forces	O	I-Organization
+Kenya	B-Organization	B-Location
+Defence	I-Organization
+Forces	I-Organization
 (	O
 KDF	B-Organization
 )	O
@@ -120,17 +120,17 @@ Nakuru	B-Location
 Also	O
 present	O
 were	O
-Kenya	B-Location	B-Organization
-Air	O	I-Organization
-Force	O	I-Organization
+Kenya	B-Organization	B-Location
+Air	I-Organization
+Force	I-Organization
 Commander	O
 Major	O
 General	O
 John	B-Person
 Omenda	I-Person
 and	O
-Kenya	B-Location	B-Organization
-Navy	O	I-Organization
+Kenya	B-Organization	B-Location
+Navy	I-Organization
 Commander	O
 Major	O
 General	O
@@ -217,9 +217,9 @@ Kioko	B-Person
 ,	O
 the	O
 former	O
-Kenya	B-Location	B-Organization
-Defence	O	I-Organization
-Forces	O	I-Organization
+Kenya	B-Organization	B-Location
+Defence	I-Organization
+Forces	I-Organization
 Spokesperson	O
 was	O
 appointed	O
@@ -361,11 +361,11 @@ in	O
 line	O
 with	O
 the	O
-United	B-Organization	B-Misc
-Nations	I-Organization	I-Misc
-Security	O	I-Misc
-Council	O	I-Misc
-Resolution	O	I-Misc
+United	B-Misc	B-Organization
+Nations	I-Misc	I-Organization
+Security	I-Misc
+Council	I-Misc
+Resolution	I-Misc
 1325	O
 on	O
 women	O

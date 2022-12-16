@@ -72,10 +72,10 @@ through	O
 a	O
 partnership	O
 of	O
-Regina	B-Location	B-Organization
-Exhibition	O	I-Organization
-Association	O	I-Organization
-Limited	O	I-Organization
+Regina	B-Organization	B-Location
+Exhibition	I-Organization
+Association	I-Organization
+Limited	I-Organization
 and	O
 Cowessess	B-Organization
 First	I-Organization
@@ -213,12 +213,12 @@ all	O
 while	O
 students	O
 from	O
-Regina	B-Location	B-Organization
-Public	O	I-Organization
-and	O	I-Organization
-Regina	O	I-Organization	B-Location
-Catholic	O	I-Organization	B-NORP
-School	O	I-Organization
+Regina	B-Organization	B-Location
+Public	I-Organization
+and	I-Organization
+Regina	I-Organization	B-Location
+Catholic	I-Organization	B-NORP
+School	I-Organization
 divisions	O
 ,	O
 Cowessess	B-Organization

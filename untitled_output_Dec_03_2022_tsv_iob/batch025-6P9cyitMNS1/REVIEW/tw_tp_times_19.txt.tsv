@@ -24,9 +24,9 @@ a	O
 hemorrhagic	B-Misc
 stroke	I-Misc
 ,	O
-Taipei	B-Location	B-Organization
-City	O	I-Organization
-Hospital	O	I-Organization
+Taipei	B-Organization	B-Location
+City	I-Organization
+Hospital	I-Organization
 said	O
 yesterday	O
 .	O

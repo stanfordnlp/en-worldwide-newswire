@@ -15,9 +15,9 @@ of	O
 extinction	O
 from	O
 the	O
-FIFA	B-Organization	B-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+FIFA	B-Misc	B-Organization
+World	I-Misc
+Cup	I-Misc
 .	O
 If	O
 it	O
@@ -56,8 +56,8 @@ qualify	O
 for	O
 the	O
 2022	B-Misc	B-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+World	I-Misc
+Cup	I-Misc
 ?	O
 
 Chile	B-Location
@@ -446,10 +446,10 @@ in	O
 place	O
 in	O
 the	O
-South	B-NORP	B-Misc
-American	I-NORP	I-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+South	B-Misc	B-NORP
+American	I-Misc	I-NORP
+World	I-Misc
+Cup	I-Misc
 qualification	O
 group	O
 and	O

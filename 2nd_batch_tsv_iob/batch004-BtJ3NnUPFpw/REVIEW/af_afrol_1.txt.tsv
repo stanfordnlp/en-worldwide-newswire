@@ -171,10 +171,10 @@ Following	O
 his	O
 complaint	O
 ,	O
-Uganda	B-Location	B-Organization
-'s	O	I-Organization
-Supreme	O	I-Organization
-Court	O	I-Organization
+Uganda	B-Organization	B-Location
+'s	I-Organization
+Supreme	I-Organization
+Court	I-Organization
 had	O
 stopped	O
 the	O
@@ -531,21 +531,21 @@ planted	O
 in	O
 Uganda	B-Location
 by	O
-US	B-Location	B-Organization
-Evangelicals	O	I-Organization	B-NORP
+US	B-Organization	B-Location
+Evangelicals	I-Organization	B-NORP
 in	O
 2009	B-Misc
 .	O
 The	O
-Ugandan	B-NORP	B-Organization
-government	O	I-Organization
+Ugandan	B-Organization	B-NORP
+government	I-Organization
 and	O
 the	O
 so	O
 -	O
 called	O
-US	B-Location	B-Misc
-Evangelicals	O	I-Misc	B-NORP
+US	B-Misc	B-Location
+Evangelicals	I-Misc	B-NORP
 must	O
 take	O
 responsibility	O
@@ -643,8 +643,8 @@ trial	O
 .	O
 "	O
 The	O
-Ugandan	B-NORP	B-Organization
-government	O	I-Organization
+Ugandan	B-Organization	B-NORP
+government	I-Organization
 must	O
 immediately	O
 ensure	O

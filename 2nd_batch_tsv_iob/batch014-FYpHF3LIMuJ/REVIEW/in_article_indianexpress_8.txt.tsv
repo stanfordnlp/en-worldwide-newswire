@@ -1,8 +1,8 @@
 https://indianexpress.com/article/explained/explained-india-submarine-fleet-decommission-ins-sindhudhwaj-8037165/	O
 
 The	O
-Indian	B-NORP	B-Organization
-Navy	O	I-Organization
+Indian	B-Organization	B-NORP
+Navy	I-Organization
 ’	O
 s	O
 dwindling	O
@@ -64,8 +64,8 @@ in	O
 service	O
 of	O
 the	O
-Indian	B-NORP	B-Organization
-Navy	O	I-Organization
+Indian	B-Organization	B-NORP
+Navy	I-Organization
 for	O
 35	O
 years	O
@@ -96,8 +96,8 @@ were	O
 purchased	O
 by	O
 the	O
-Indian	B-NORP	B-Organization
-Navy	O	I-Organization
+Indian	B-Organization	B-NORP
+Navy	I-Organization
 .	O
 
 Kilo	O
@@ -125,8 +125,8 @@ years	O
 At	O
 least	O
 three	O
-Indian	B-NORP	B-Organization
-Navy	O	I-Organization
+Indian	B-Organization	B-NORP
+Navy	I-Organization
 Kilo	B-Misc
 Class	I-Misc
 submarines	O
@@ -212,8 +212,8 @@ in	O
 service	O
 in	O
 the	O
-Indian	B-NORP	B-Organization
-Navy	O	I-Organization
+Indian	B-Organization	B-NORP
+Navy	I-Organization
 ,	O
 including	O
 one	O
@@ -442,10 +442,10 @@ an	O
 estimate	O
 by	O
 the	O
-US	B-Location	B-Organization
-Department	O	I-Organization
-of	O	I-Organization
-Defense	O	I-Organization
+US	B-Organization	B-Location
+Department	I-Organization
+of	I-Organization
+Defense	I-Organization
 ,	O
 China	B-Location
 operates	O
@@ -497,8 +497,8 @@ this	O
 decade	O
 .	O
 
-Pakistan	B-Location	B-Organization
-Navy	O	I-Organization
+Pakistan	B-Organization	B-Location
+Navy	I-Organization
 operates	O
 three	O
 Agosta	B-Misc

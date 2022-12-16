@@ -42,12 +42,12 @@ at	O
 4.3	O
 0 am	O
 at	O
-Shaheed	B-Person	B-Facility
-Suhrawardy	I-Person	I-Facility
-Medical	O	I-Facility
-College	O	I-Facility
-and	O	I-Facility
-Hospital	O	I-Facility
+Shaheed	B-Facility	B-Person
+Suhrawardy	I-Facility	I-Person
+Medical	I-Facility
+College	I-Facility
+and	I-Facility
+Hospital	I-Facility
 while	O
 undergoing	O
 treatment	O

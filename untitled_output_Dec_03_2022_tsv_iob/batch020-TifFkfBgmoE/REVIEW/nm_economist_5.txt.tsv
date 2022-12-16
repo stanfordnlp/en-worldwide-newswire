@@ -3,11 +3,11 @@ https://economist.com.na/71946/technology/mtc-holds-women-in-tech-conference/	O
 The	O
 first	O
 ever	O
-MTC	B-Organization	B-Misc
-Women	O	I-Misc
-in	O	I-Misc
-Tech	O	I-Misc
-Conference	O	I-Misc
+MTC	B-Misc	B-Organization
+Women	I-Misc
+in	I-Misc
+Tech	I-Misc
+Conference	I-Misc
 was	O
 held	O
 last	O

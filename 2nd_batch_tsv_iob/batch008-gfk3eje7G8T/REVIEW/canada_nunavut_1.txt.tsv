@@ -17,8 +17,8 @@ Papal	B-Misc
 visit	O
 –	O
 the	O
-Cree	B-NORP	B-Location
-Nation	O	I-Location
+Cree	B-Location	B-NORP
+Nation	I-Location
 at	O
 Chisasibi	B-Location
 is	O
@@ -107,9 +107,9 @@ residential	O
 schools	O
 opened	O
 on	O
-Fort	B-Facility	B-Location
-George	I-Facility	I-Location
-Island	O	I-Location
+Fort	B-Location	B-Facility
+George	I-Location	I-Facility
+Island	I-Location
 back	O
 in	O
 the	O
@@ -164,9 +164,9 @@ least	O
 five	O
 sites	O
 on	O
-Fort	B-Facility	B-Location
-George	I-Facility	I-Location
-Island	O	I-Location
+Fort	B-Location	B-Facility
+George	I-Location	I-Facility
+Island	I-Location
 –	O
 becoming	O
 the	O
@@ -305,11 +305,11 @@ their	O
 part	O
 ,	O
 the	O
-Canadian	B-NORP	B-Organization
-Conference	O	I-Organization
-of	O	I-Organization
-Catholic	O	I-Organization	B-NORP
-Bishops	O	I-Organization
+Canadian	B-Organization	B-NORP
+Conference	I-Organization
+of	I-Organization
+Catholic	I-Organization	B-NORP
+Bishops	I-Organization
 (	O
 CCCB	B-Organization
 )	O

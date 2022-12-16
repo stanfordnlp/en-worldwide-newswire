@@ -28,12 +28,12 @@ in	O
 Asunción	B-Location
 .	O
 
-Paraguay	B-Location	B-Organization
--	O	I-Organization
-Brazil	O	I-Organization	B-Location
-Chamber	O	I-Organization
-of	O	I-Organization
-Commerce	O	I-Organization
+Paraguay	B-Organization	B-Location
+-	I-Organization
+Brazil	I-Organization	B-Location
+Chamber	I-Organization
+of	I-Organization
+Commerce	I-Organization
 (	O
 CCPB	B-Organization
 )	O

@@ -1,8 +1,8 @@
 https://thepeninsulaqatar.com/article/19/07/2022/al-baker-reliability-key-to-high-demand-for-qa	O
 
-Qatar	B-Location	B-Organization
-Airways	O	I-Organization
-Group	O	I-Organization
+Qatar	B-Organization	B-Location
+Airways	I-Organization
+Group	I-Organization
 Chief	O
 Executive	O
 H	O
@@ -57,9 +57,9 @@ Boeing	B-Product
 ER	I-Product
 at	O
 the	O
-Farnborough	B-Location	B-Misc
-International	O	I-Misc
-Airshow	O	I-Misc
+Farnborough	B-Misc	B-Location
+International	I-Misc
+Airshow	I-Misc
 (	O
 FIA	B-Organization
 )	O
@@ -93,8 +93,8 @@ During	O
 the	O
 pandemic	O
 ,	O
-Qatar	B-Location	B-Organization
-Airways	O	I-Organization
+Qatar	B-Organization	B-Location
+Airways	I-Organization
 proved	O
 itself	O
 that	O
@@ -159,8 +159,8 @@ them	O
 had	O
 never	O
 used	O
-Qatar	B-Location	B-Organization
-Airways	O	I-Organization
+Qatar	B-Organization	B-Location
+Airways	I-Organization
 before	O
 .	O
 So	O
@@ -210,8 +210,8 @@ Association	I-Organization
 IATA	B-Organization
 )	O
 declared	O
-Qatar	B-Location	B-Organization
-Airways	O	I-Organization
+Qatar	B-Organization	B-Location
+Airways	I-Organization
 the	O
 largest	O
 international	O
@@ -355,8 +355,8 @@ repatriating	O
 over	O
 150,000	O
 .	O
-Qatar	B-Location	B-Organization
-Airways	O	I-Organization
+Qatar	B-Organization	B-Location
+Airways	I-Organization
 ’	O
 repatriation	O
 work	O
@@ -405,8 +405,8 @@ Moresby	I-Location
 
 Recently	O
 ,	O
-Qatar	B-Location	B-Organization
-Airways	O	I-Organization
+Qatar	B-Organization	B-Location
+Airways	I-Organization
 bagged	O
 the	O
 AirlineRatings	B-Misc

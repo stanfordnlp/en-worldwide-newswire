@@ -21,8 +21,8 @@ president	O
 was	O
 picking	O
 a	O
-Columbia	B-Location	B-Organization
-University	O	I-Organization
+Columbia	B-Organization	B-Location
+University	I-Organization
 economist	O
 and	O
 disciple	O
@@ -238,8 +238,8 @@ Europe	B-Location
 to	O
 renegotiate	O
 the	O
-Paris	B-Location	B-Organization
-Club	O	I-Organization
+Paris	B-Organization	B-Location
+Club	I-Organization
 debt	O
 without	O
 thinking	O
@@ -413,8 +413,8 @@ Kirchner	I-Person
 appealed	O
 to	O
 the	O
-Perón	B-Person	B-Misc
-Manual	O	I-Misc
+Perón	B-Misc	B-Person
+Manual	I-Misc
 of	O
 political	O
 leadership	O

@@ -57,10 +57,10 @@ is	O
 why	O
 the	O
 “	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 ”	O
 to	O
 eradicate	O
@@ -70,8 +70,8 @@ labour	O
 spearheaded	O
 by	O
 the	O
-African	B-NORP	B-Organization
-Union	O	I-Organization
+African	B-Organization	B-NORP
+Union	I-Organization
 (	O
 AU	B-Organization
 )	O
@@ -127,10 +127,10 @@ that	O
 the	O
 draft	O
 “	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 ”	O
 ,	O
 expected	O
@@ -219,28 +219,28 @@ and	O
 implementation	O
 of	O
 the	O
-African	B-Location	B-Organization	B-Misc
-Union	O	I-Organization	I-Misc
-Ten	O	O	I-Misc
-Year	O	O	I-Misc
-Action	O	O	I-Misc
-Plan	O	O	I-Misc
-on	O	O	I-Misc
-Eradication	O	O	I-Misc
-of	O	O	I-Misc
-Child	O	O	I-Misc
-Labour	O	O	I-Misc
-,	O	O	I-Misc
-Forced	O	O	I-Misc
-Labour	O	O	I-Misc
-,	O	O	I-Misc
-Human	O	O	I-Misc
-Trafficking	O	O	I-Misc
-and	O	O	I-Misc
-Modern	O	O	I-Misc
-Slavery	O	O	I-Misc
-in	O	O	I-Misc
-Africa	O	O	I-Misc	B-Location
+African	B-Misc	B-Organization	B-Location
+Union	I-Misc	I-Organization
+Ten	I-Misc
+Year	I-Misc
+Action	I-Misc
+Plan	I-Misc
+on	I-Misc
+Eradication	I-Misc
+of	I-Misc
+Child	I-Misc
+Labour	I-Misc
+,	I-Misc
+Forced	I-Misc
+Labour	I-Misc
+,	I-Misc
+Human	I-Misc
+Trafficking	I-Misc
+and	I-Misc
+Modern	I-Misc
+Slavery	I-Misc
+in	I-Misc
+Africa	I-Misc	B-Location
 (	O
 2020-2030	B-Misc
 )	O
@@ -277,10 +277,10 @@ of	O
 the	O
 draft	O
 “	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 ”	O
 when	O
 they	O
@@ -306,10 +306,10 @@ the	O
 implementation	O
 of	O
 the	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 in	O
 line	O
 with	O
@@ -456,14 +456,14 @@ she	O
 said	O
 .	O
 
-African	B-NORP	B-Organization	B-Organization
-Union	O	I-Organization	I-Organization
-Commission	O	O	I-Organization
-Department	O	O	I-Organization
-of	O	O	I-Organization
-Trade	O	O	I-Organization
-and	O	O	I-Organization
-Industry	O	O	I-Organization
+African	B-Organization	B-Organization	B-NORP
+Union	I-Organization	I-Organization
+Commission	I-Organization
+Department	I-Organization
+of	I-Organization
+Trade	I-Organization
+and	I-Organization
+Industry	I-Organization
 ,	O
 head	O
 of	O
@@ -489,10 +489,10 @@ points	O
 of	O
 the	O
 draft	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 plan	O
 .	O
 
@@ -903,10 +903,10 @@ the	O
 basis	O
 of	O
 the	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 .	O
 
 These	O
@@ -1197,8 +1197,8 @@ eventually	O
 reopened	O
 .	O
 
-African	B-NORP	B-Organization
-Union	O	I-Organization
+African	B-Organization	B-NORP
+Union	I-Organization
 Commissioner	O
 for	O
 Economic	O

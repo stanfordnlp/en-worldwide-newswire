@@ -34,8 +34,8 @@ killed	O
 in	O
 the	O
 1999	B-Misc	B-Misc
-Kargil	O	I-Misc	B-Location
-War	O	I-Misc
+Kargil	I-Misc	B-Location
+War	I-Misc
 .	O
 
 “	O

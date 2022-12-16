@@ -553,12 +553,12 @@ assaulting	O
 students	O
 at	O
 a	O
-Jewish	B-NORP	B-Organization
-high	O	I-Organization
-school	O	I-Organization
-in	O	I-Organization
-New	O	I-Organization	B-Location
-Jersey	O	I-Organization	I-Location
+Jewish	B-Organization	B-NORP
+high	I-Organization
+school	I-Organization
+in	I-Organization
+New	I-Organization	B-Location
+Jersey	I-Organization	I-Location
 while	O
 he	O
 was	O
@@ -693,14 +693,14 @@ Lanner	B-Person
 is	O
 on	O
 the	O
-U	B-Location	B-Organization
-.	I-Location	I-Organization
-S	I-Location	I-Organization
-.	I-Location	I-Organization
-Sex	O	I-Organization
-Offender	O	I-Organization
-Registry	O	I-Organization
-,	O	I-Organization
+U	B-Organization	B-Location
+.	I-Organization	I-Location
+S	I-Organization	I-Location
+.	I-Organization	I-Location
+Sex	I-Organization
+Offender	I-Organization
+Registry	I-Organization
+,	I-Organization
 ”	O
 the	O
 letter	O
@@ -851,12 +851,12 @@ following	O
 an	O
 exposé	O
 in	O
-New	B-Location	B-Misc
-York	I-Location	I-Misc
-Jewish	O	I-Misc	B-NORP
-Week	O	I-Misc
-in	O	I-Misc
-2000	O	I-Misc
+New	B-Misc	B-Location
+York	I-Misc	I-Location
+Jewish	I-Misc	B-NORP
+Week	I-Misc
+in	I-Misc
+2000	I-Misc
 .	O
 An	O
 appeals	O

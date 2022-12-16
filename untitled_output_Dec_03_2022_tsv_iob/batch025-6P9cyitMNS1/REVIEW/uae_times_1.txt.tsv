@@ -1,8 +1,8 @@
 https://www.khaleejtimes.com/health/uae-cabinet-approves-formation-of-national-public-health-committee-reformation-of-uae-health-cou	O
 
 The	O
-UAE	B-Location	B-Organization
-Cabinet	O	I-Organization
+UAE	B-Organization	B-Location
+Cabinet	I-Organization
 has	O
 approved	O
 the	O
@@ -21,9 +21,9 @@ reformation	O
 of	O
 the	O
 "	O
-UAE	B-Location	B-Organization
-Health	O	I-Organization
-Council	O	I-Organization
+UAE	B-Organization	B-Location
+Health	I-Organization
+Council	I-Organization
 "	O
 in	O
 a	O
@@ -228,14 +228,14 @@ Abu	B-Location
 Dhabi	I-Location
 ;	O
 the	O
-Dubai	B-Location	B-Organization
-Health	O	I-Organization
-Authority	O	I-Organization
+Dubai	B-Organization	B-Location
+Health	I-Organization
+Authority	I-Organization
 ;	O
 the	O
-Sharjah	B-Location	B-Organization
-Health	O	I-Organization
-Authority	O	I-Organization
+Sharjah	B-Organization	B-Location
+Health	I-Organization
+Authority	I-Organization
 ;	O
 in	O
 addition	O
@@ -249,17 +249,17 @@ sector	O
 .	O
 
 The	O
-UAE	B-Location	B-Organization
-Cabinet	O	I-Organization
+UAE	B-Organization	B-Location
+Cabinet	I-Organization
 also	O
 approved	O
 the	O
 reformation	O
 of	O
 the	O
-UAE	B-Location	B-Organization
-Health	O	I-Organization
-Council	O	I-Organization
+UAE	B-Organization	B-Location
+Health	I-Organization
+Council	I-Organization
 for	O
 a	O
 period	O
@@ -434,9 +434,9 @@ previous	O
 competences	O
 ,	O
 the	O
-UAE	B-Location	B-Organization
-Health	O	I-Organization
-Council	O	I-Organization
+UAE	B-Organization	B-Location
+Health	I-Organization
+Council	I-Organization
 will	O
 be	O
 responsible	O
@@ -515,9 +515,9 @@ Director	O
 General	O
 of	O
 the	O
-Dubai	B-Location	B-Organization
-Health	O	I-Organization
-Authority	O	I-Organization
+Dubai	B-Organization	B-Location
+Health	I-Organization
+Authority	I-Organization
 (	O
 DHA	B-Organization
 )	O
@@ -538,17 +538,17 @@ Dhabi	I-Location
 the	O
 Director	O
 of	O
-Sharjah	B-Location	B-Organization
-Health	O	I-Organization
-Authority	O	I-Organization
+Sharjah	B-Organization	B-Location
+Health	I-Organization
+Authority	I-Organization
 ;	O
 the	O
 CEO	O
 of	O
-Dubai	B-Location	B-Organization
-Academic	O	I-Organization
-Health	O	I-Organization
-Corporation	O	I-Organization
+Dubai	B-Organization	B-Location
+Academic	I-Organization
+Health	I-Organization
+Corporation	I-Organization
 ;	O
 a	O
 representative	O

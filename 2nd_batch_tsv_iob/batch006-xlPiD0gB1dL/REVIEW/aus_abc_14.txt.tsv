@@ -25,9 +25,9 @@ a	O
 call	O
 by	O
 the	O
-Tasmanian	B-NORP	B-Facility
-Aboriginal	I-NORP	I-Facility
-Centre	O	I-Facility
+Tasmanian	B-Facility	B-NORP
+Aboriginal	I-Facility	I-NORP
+Centre	I-Facility
 for	O
 more	O
 farmers	O
@@ -89,9 +89,9 @@ land	O
 worker	O
 with	O
 the	O
-Tasmanian	B-NORP	B-Facility
-Aboriginal	I-NORP	I-Facility
-Centre	O	I-Facility
+Tasmanian	B-Facility	B-NORP
+Aboriginal	I-Facility	I-NORP
+Centre	I-Facility
 said	O
 .	O
 
@@ -494,9 +494,9 @@ doing	O
 "	O
 
 The	O
-Tasmanian	B-NORP	B-Misc
-Aboriginal	I-NORP	I-Misc
-Community	O	I-Misc
+Tasmanian	B-Misc	B-NORP
+Aboriginal	I-Misc	I-NORP
+Community	I-Misc
 is	O
 urging	O
 more	O

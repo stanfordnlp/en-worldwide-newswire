@@ -202,17 +202,17 @@ JSD	B-Organization
 Rab	I-Organization
 )	O
 ,	O
-Bangladesh	B-Location	B-Organization
-Kalyan	O	I-Organization
+Bangladesh	B-Organization	B-Location
+Kalyan	I-Organization
 Party	O
 ,	O
-Bangladesh	B-Location	B-Organization
-Muslim	O	I-Organization	B-NORP
-League	O	I-Organization
+Bangladesh	B-Organization	B-Location
+Muslim	I-Organization	B-NORP
+League	I-Organization
 ,	O
-Bangladesher	B-Location	B-Organization
-Samajtantrik	O	I-Organization
-Dal	O	I-Organization
+Bangladesher	B-Organization	B-Location
+Samajtantrik	I-Organization
+Dal	I-Organization
 and	O
 Liberal	B-Organization
 Democratic	I-Organization

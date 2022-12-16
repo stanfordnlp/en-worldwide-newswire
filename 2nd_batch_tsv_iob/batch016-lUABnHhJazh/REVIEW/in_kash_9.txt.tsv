@@ -15,10 +15,10 @@ by	O
 a	O
 truck	O
 on	O
-Srinagar	B-Location	B-Facility
--	O	I-Facility
-Bandipora	O	I-Facility	B-Location
-road	O	I-Facility
+Srinagar	B-Facility	B-Location
+-	I-Facility
+Bandipora	I-Facility	B-Location
+road	I-Facility
 near	O
 Shadipora	B-Location
 Saturday	B-Misc

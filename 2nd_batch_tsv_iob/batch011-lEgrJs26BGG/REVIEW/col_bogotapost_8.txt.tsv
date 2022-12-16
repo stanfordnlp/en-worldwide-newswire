@@ -50,8 +50,8 @@ potential	O
 Therefore	O
 ,	O
 The	O
-Bogotá	B-Location	B-Organization
-Post	O	I-Organization
+Bogotá	B-Organization	B-Location
+Post	I-Organization
 sat	O
 down	O
 with	O
@@ -87,11 +87,11 @@ speaker	O
 at	O
 the	O
 recent	O
-Latin	B-NORP	B-Misc
-American	I-NORP	I-Misc	B-NORP
-Impact	O	I-Misc
-Investing	O	I-Misc
-Forum	O	I-Misc
+Latin	B-Misc	B-NORP
+American	I-Misc	I-NORP	B-NORP
+Impact	I-Misc
+Investing	I-Misc
+Forum	I-Misc
 (	O
 FLII	B-Misc
 )	O
@@ -294,8 +294,8 @@ clarity	O
 .	O
 
 The	O
-Bogotá	B-Location	B-Organization
-Post	O	I-Organization
+Bogotá	B-Organization	B-Location
+Post	I-Organization
 :	O
 During	O
 your	O

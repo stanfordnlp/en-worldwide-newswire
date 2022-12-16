@@ -1426,10 +1426,10 @@ his	O
 head	O
 at	O
 the	O
-Bellas	B-Location	B-Facility
-Artes	I-Location	I-Facility
-bus	O	I-Facility
-stop	O	I-Facility
+Bellas	B-Facility	B-Location
+Artes	I-Facility	I-Location
+bus	I-Facility
+stop	I-Facility
 after	O
 working	O
 a	O
@@ -1929,10 +1929,10 @@ law	O
 that	O
 stands	O
 is	O
-Murphy	B-Person	B-Misc
-’	O	I-Misc
-s	O	I-Misc
-Law	O	I-Misc
+Murphy	B-Misc	B-Person
+’	I-Misc
+s	I-Misc
+Law	I-Misc
 ,	O
 the	O
 disorder	O

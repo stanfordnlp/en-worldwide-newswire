@@ -2,11 +2,11 @@ https://www.thedailystar.net/news/bangladesh/news/barapukuria-mine-coal-producti
 
 Production	O
 at	O
-Barapukuria	B-Location	B-Organization
-Coal	O	I-Organization
-Mining	O	I-Organization
-Company	O	I-Organization
-Limited	O	I-Organization
+Barapukuria	B-Organization	B-Location
+Coal	I-Organization
+Mining	I-Organization
+Company	I-Organization
+Limited	I-Organization
 (	O
 BCMCL	B-Organization
 )	O
@@ -46,8 +46,8 @@ for	O
 the	O
 525	B-Facility
 MW	I-Facility
-Barapukuria	I-Facility	B-Location	B-Organization
-Coal	I-Facility	O	I-Organization
+Barapukuria	I-Facility	B-Organization	B-Location
+Coal	I-Facility	I-Organization
 -	I-Facility
 Fired	I-Facility
 Power	I-Facility
@@ -72,11 +72,11 @@ new	O
 managing	O
 director	O
 of	O
-Barapukuria	B-Location	B-Organization
-Coal	O	I-Organization
-Mining	O	I-Organization
-Company	O	I-Organization
-Limited	O	I-Organization
+Barapukuria	B-Organization	B-Location
+Coal	I-Organization
+Mining	I-Organization
+Company	I-Organization
+Limited	I-Organization
 (	O
 BCMCL	B-Organization
 )	O

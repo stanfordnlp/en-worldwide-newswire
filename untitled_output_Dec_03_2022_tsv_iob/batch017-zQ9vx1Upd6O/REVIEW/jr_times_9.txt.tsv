@@ -155,10 +155,10 @@ culminating	O
 in	O
 the	O
 1946	B-Misc
-Anglo	B-Location	B-Misc
--	O	I-Misc
-Transjordanian	O	I-Misc	B-NORP
-Treaty	O	I-Misc
+Anglo	B-Misc	B-Location
+-	I-Misc
+Transjordanian	I-Misc	B-NORP
+Treaty	I-Misc
 ,	O
 ending	O
 the	O

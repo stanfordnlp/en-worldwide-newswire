@@ -1,8 +1,8 @@
 https://panafricanvisions.com/2022/05/malawi-government-orders-investigations-into-death-of-popular-hip-hop-artist-martse/	O
 
 The	O
-Malawi	B-Location	B-Organization
-government	O	I-Organization
+Malawi	B-Organization	B-Location
+government	I-Organization
 has	O
 ordered	O
 for	O

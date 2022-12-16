@@ -428,10 +428,10 @@ stockpiling	O
 ,	O
 according	O
 to	O
-Malaysian	B-NORP	B-Organization
-Palm	O	I-Organization
-Oil	O	I-Organization
-Board	O	I-Organization
+Malaysian	B-Organization	B-NORP
+Palm	I-Organization
+Oil	I-Organization
+Board	I-Organization
 data	O
 .	O
 

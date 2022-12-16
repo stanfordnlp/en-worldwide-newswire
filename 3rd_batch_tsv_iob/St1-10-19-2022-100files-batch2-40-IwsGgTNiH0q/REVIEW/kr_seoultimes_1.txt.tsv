@@ -36,15 +36,15 @@ including	O
 president	O
 of	O
 the	O
-Korea	B-Location	B-Organization
-Sword	O	I-Organization
-Association	O	I-Organization
+Korea	B-Organization	B-Location
+Sword	I-Organization
+Association	I-Organization
 and	O
-China	B-Location	B-Organization
-'s	O	I-Organization
-World	O	I-Organization
-Business	O	I-Organization
-Association	O	I-Organization
+China	B-Organization	B-Location
+'s	I-Organization
+World	I-Organization
+Business	I-Organization
+Association	I-Organization
 (	O
 中国世界供销聯盟	O
 )	O
@@ -192,9 +192,9 @@ be	O
 downloaded	O
 on	O
 the	O
-Google	B-Organization	B-Product
-Play	O	I-Product
-Store	O	I-Product
+Google	B-Product	B-Organization
+Play	I-Product
+Store	I-Product
 .	O
 
 The	O

@@ -4,9 +4,9 @@ Pretoria	B-Location
 –	O
 Embattled	B-Organization
 former	O
-South	B-NORP	B-Organization
-African	I-NORP	I-Organization
-Airways	O	I-Organization
+South	B-Organization	B-NORP
+African	I-Organization	I-NORP
+Airways	I-Organization
 (	O
 SAA	B-Organization
 )	O
@@ -21,11 +21,11 @@ she	O
 appeared	O
 in	O
 the	O
-Johannesburg	B-Location	B-Organization
-Magistrate	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Court	O	I-Organization
+Johannesburg	B-Organization	B-Location
+Magistrate	I-Organization
+’	I-Organization
+s	I-Organization
+Court	I-Organization
 on	O
 charges	O
 of	O
@@ -202,9 +202,9 @@ Mr	O
 X	B-Person
 during	O
 the	O
-State	B-Organization	B-Misc
-Capture	O	I-Misc
-Commission	O	I-Misc
+State	B-Misc	B-Organization
+Capture	I-Misc
+Commission	I-Misc
 .	O
 
 In	O
@@ -222,11 +222,11 @@ to	O
 appear	O
 in	O
 the	O
-Johannesburg	B-Location	B-Organization
-Magistrate	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Court	O	I-Organization
+Johannesburg	B-Organization	B-Location
+Magistrate	I-Organization
+’	I-Organization
+s	I-Organization
+Court	I-Organization
 .	O
 
 At	O

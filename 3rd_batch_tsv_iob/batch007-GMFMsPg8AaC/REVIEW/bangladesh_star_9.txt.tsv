@@ -47,9 +47,9 @@ vice	O
 -	O
 president	O
 of	O
-Chhatak	B-Location	B-Organization
-upazila	I-Location	I-Organization
-JCD	O	I-Organization
+Chhatak	B-Organization	B-Location
+upazila	I-Organization	I-Location
+JCD	I-Organization
 ,	O
 of	O
 defaming	O
@@ -85,9 +85,9 @@ in	O
 -	O
 charge	O
 of	O
-Chhatak	B-Location	B-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Chhatak	B-Facility	B-Location
+Police	I-Facility
+Station	I-Facility
 .	O
 
 The	O
@@ -109,10 +109,10 @@ the	O
 convening	O
 committee	O
 of	O
-Chhatak	B-Location	B-Organization
-Municipality	O	I-Organization
-Awami	O	I-Organization
-League	O	I-Organization
+Chhatak	B-Organization	B-Location
+Municipality	I-Organization
+Awami	I-Organization
+League	I-Organization
 .	O
 
 Ishtiaque	B-Person

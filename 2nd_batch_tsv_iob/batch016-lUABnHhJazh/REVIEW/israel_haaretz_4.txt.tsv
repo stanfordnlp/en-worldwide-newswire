@@ -257,9 +257,9 @@ Ben	I-Person
 David	I-Person
 ,	O
 a	O
-Tel	B-Location	B-Organization
-Aviv	I-Location	I-Organization
-University	O	I-Organization
+Tel	B-Organization	B-Location
+Aviv	I-Organization	I-Location
+University	I-Organization
 professor	O
 of	O
 economics	O
@@ -1748,8 +1748,8 @@ a	O
 interview	O
 with	O
 The	O
-Jerusalem	B-Location	B-Organization
-Post	O	I-Organization
+Jerusalem	B-Organization	B-Location
+Post	I-Organization
 that	O
 teaching	O
 methods	O

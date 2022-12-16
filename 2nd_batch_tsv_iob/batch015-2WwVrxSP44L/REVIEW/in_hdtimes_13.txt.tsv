@@ -55,9 +55,9 @@ Hapur	B-Location
 district	O
 by	O
 the	O
-Uttar	B-Location	B-Organization
-Pradesh	I-Location	I-Organization
-Police	O	I-Organization
+Uttar	B-Organization	B-Location
+Pradesh	I-Organization	I-Location
+Police	I-Organization
 ,	O
 said	O
 Meghalaya	B-Location
@@ -100,8 +100,8 @@ was	O
 issued	O
 by	O
 the	O
-Meghalaya	B-Location	B-Organization
-Police	O	I-Organization
+Meghalaya	B-Organization	B-Location
+Police	I-Organization
 ,	O
 ”	O
 he	O
@@ -200,10 +200,10 @@ investigation	O
 and	O
 surrender	O
 at	O
-Shillong	B-Location	B-Facility
-Sadar	I-Location	I-Facility
-police	O	I-Facility
-station	O	I-Facility
+Shillong	B-Facility	B-Location
+Sadar	I-Facility	I-Location
+police	I-Facility
+station	I-Facility
 but	O
 he	O
 was	O
@@ -239,9 +239,9 @@ various	O
 sections	O
 of	O
 the	O
-Indian	B-NORP	B-Misc
-Penal	O	I-Misc
-Code	O	I-Misc
+Indian	B-Misc	B-NORP
+Penal	I-Misc
+Code	I-Misc
 and	O
 the	O
 Immoral	B-Misc

@@ -23,9 +23,9 @@ assault	O
 incident	O
 inside	O
 the	O
-Israeli	B-NORP	B-Organization
-Prison	O	I-Organization
-Service	O	I-Organization
+Israeli	B-Organization	B-NORP
+Prison	I-Organization
+Service	I-Organization
 (	O
 IPS	B-Organization
 )	O
@@ -47,8 +47,8 @@ a	O
 security	O
 prisoner	O
 at	O
-Gilboa	B-Location	B-Facility
-Prison	O	I-Facility
+Gilboa	B-Facility	B-Location
+Prison	I-Facility
 during	O
 her	O
 mandatory	O
@@ -142,8 +142,8 @@ me	O
 "	O
 
 The	O
-Gilboa	B-Location	B-Facility
-Prison	O	I-Facility
+Gilboa	B-Facility	B-Location
+Prison	I-Facility
 "	O
 pimping	O
 affair	O
@@ -243,8 +243,8 @@ blown	O
 open	O
 again	O
 after	O
-Gilboa	B-Location	B-Facility
-Prison	O	I-Facility
+Gilboa	B-Facility	B-Location
+Prison	I-Facility
 Warden	O
 Freddy	B-Person
 Ben	I-Person
@@ -320,8 +320,8 @@ the	O
 criminal	O
 wing	O
 of	O
-Gilboa	B-Location	B-Facility
-prison	O	I-Facility
+Gilboa	B-Facility	B-Location
+prison	I-Facility
 ,	O
 per	O
 Atallah	B-Person
@@ -374,11 +374,11 @@ several	O
 years	O
 by	O
 the	O
-Rishon	B-Location	B-Organization
-Lezion	I-Location	I-Organization
-Magistrate	O	I-Organization
-'s	O	I-Organization
-Court	O	I-Organization
+Rishon	B-Organization	B-Location
+Lezion	I-Organization	I-Location
+Magistrate	I-Organization
+'s	I-Organization
+Court	I-Organization
 .	O
 
 "	O
@@ -406,8 +406,8 @@ that	O
 she	O
 arrived	O
 at	O
-Gilboa	B-Location	B-Facility
-Prison	O	I-Facility
+Gilboa	B-Facility	B-Location
+Prison	I-Facility
 after	O
 asking	O
 to	O
@@ -513,8 +513,8 @@ I	O
 was	O
 placed	O
 in	O
-Gilboa	B-Location	B-Facility
-prison	O	I-Facility
+Gilboa	B-Facility	B-Location
+prison	I-Facility
 ,	O
 where	O
 the	O
@@ -997,8 +997,8 @@ lawyer	O
 representing	O
 the	O
 former	O
-Gilboa	B-Location	B-Facility
-prison	O	I-Facility
+Gilboa	B-Facility	B-Location
+prison	I-Facility
 guards	O
 ,	O
 Keren	B-Person
@@ -1530,8 +1530,8 @@ Commissioner	O
 to	O
 fire	O
 the	O
-Gilboa	B-Location	B-Facility
-prison	O	I-Facility
+Gilboa	B-Facility	B-Location
+prison	I-Facility
 's	O
 intelligence	O
 officer	O

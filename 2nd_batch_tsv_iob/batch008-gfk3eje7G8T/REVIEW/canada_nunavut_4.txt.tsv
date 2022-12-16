@@ -2390,11 +2390,11 @@ is	O
 available	O
 at	O
 the	O
-Pang	B-Location	B-Organization
-Co	O	I-Organization
--	O	I-Organization
-op	O	I-Organization
-.	O	I-Organization
+Pang	B-Organization	B-Location
+Co	I-Organization
+-	I-Organization
+op	I-Organization
+.	I-Organization
 How	O
 did	O
 you	O

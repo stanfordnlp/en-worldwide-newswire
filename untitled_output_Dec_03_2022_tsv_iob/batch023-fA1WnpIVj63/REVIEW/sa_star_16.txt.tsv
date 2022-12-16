@@ -1,11 +1,11 @@
 https://www.iol.co.za/the-star/news/sahpra-boss-wins-leadership-accolade-at-science-oscars-c7ce0dd1-13f4-4f5c-a2f6-b91f8da83dac	O
 
 The	O
-SA	B-Location	B-Organization
-Health	O	I-Organization
-Products	O	I-Organization
-Regulatory	O	I-Organization
-Authority	O	I-Organization
+SA	B-Organization	B-Location
+Health	I-Organization
+Products	I-Organization
+Regulatory	I-Organization
+Authority	I-Organization
 (	O
 SAHPRA	B-Organization
 )	O
@@ -338,10 +338,10 @@ sciences	O
 director	O
 of	O
 the	O
-SA	B-Location	B-Organization
-Medical	O	I-Organization
-Research	O	I-Organization
-Council	O	I-Organization
+SA	B-Organization	B-Location
+Medical	I-Organization
+Research	I-Organization
+Council	I-Organization
 ’	O
 s	O
 (	O
@@ -365,11 +365,11 @@ co	O
 director	O
 of	O
 the	O
-African	B-NORP	B-Misc
-Leadership	O	I-Misc
-in	O	I-Misc
-Vaccinology	O	I-Misc
-Expertise	O	I-Misc
+African	B-Misc	B-NORP
+Leadership	I-Misc
+in	I-Misc
+Vaccinology	I-Misc
+Expertise	I-Misc
 ,	O
 Professor	O
 Shabir	B-Person

@@ -347,8 +347,8 @@ be	O
 taken	O
 from	O
 the	O
-Auckland	B-Location	B-Organization
-Council	O	I-Organization
+Auckland	B-Organization	B-Location
+Council	I-Organization
 's	O
 climate	O
 change	O

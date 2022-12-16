@@ -12,9 +12,9 @@ the	O
 list	O
 of	O
 the	O
-Honduras	B-Location	B-Organization
-National	O	I-Organization
-Team	O	I-Organization
+Honduras	B-Organization	B-Location
+National	I-Organization
+Team	I-Organization
 players	O
 that	O
 will	O
@@ -30,9 +30,9 @@ Championship	O
 .	O
 
 The	O
-Honduras	B-Location	B-Misc
-National	O	I-Misc
-Selection	O	I-Misc
+Honduras	B-Misc	B-Location
+National	I-Misc
+Selection	I-Misc
 also	O
 known	O
 as	O
@@ -117,8 +117,8 @@ Fonseca	I-Person
 .	O
 
 The	O
-Honduran	B-NORP	B-Misc
-Selection	O	I-Misc
+Honduran	B-Misc	B-NORP
+Selection	I-Misc
 debuts	O
 in	O
 the	O

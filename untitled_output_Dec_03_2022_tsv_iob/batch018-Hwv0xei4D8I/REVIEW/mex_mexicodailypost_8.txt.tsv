@@ -91,10 +91,10 @@ Friday	B-Misc
 in	O
 the	O
 “	O
-Article	B-Misc	B-Location
-123	I-Misc	I-Location
-”	O	I-Location
-Park	O	I-Location
+Article	B-Location	B-Misc
+123	I-Location	I-Misc
+”	I-Location
+Park	I-Location
 in	O
 front	O
 of	O

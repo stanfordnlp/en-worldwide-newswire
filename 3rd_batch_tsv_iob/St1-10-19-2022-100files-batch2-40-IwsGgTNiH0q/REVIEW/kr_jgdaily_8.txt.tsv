@@ -199,9 +199,9 @@ warrant	O
 issued	O
 by	O
 the	O
-Incheon	B-Location	B-Organization
-District	O	I-Organization
-Court	O	I-Organization
+Incheon	B-Organization	B-Location
+District	I-Organization
+Court	I-Organization
 .	O
 
 Online	O

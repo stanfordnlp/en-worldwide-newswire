@@ -317,9 +317,9 @@ laboratory	O
 Sinovac	B-Organization
 ,	O
 the	O
-Anglo	B-NORP	B-Organization
--	O	I-Organization
-Swedish	O	I-Organization	B-NORP
+Anglo	B-Organization	B-NORP
+-	I-Organization
+Swedish	I-Organization	B-NORP
 company	O
 AstraZeneca	B-Organization
 and	O
@@ -454,10 +454,10 @@ been	O
 included	O
 in	O
 the	O
-WHO	B-Organization	B-Misc
-Emergency	O	I-Misc
-Uses	O	I-Misc
-List	O	I-Misc
+WHO	B-Misc	B-Organization
+Emergency	I-Misc
+Uses	I-Misc
+List	I-Misc
 ,	O
 a	O
 risk	O

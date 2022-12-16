@@ -49,8 +49,8 @@ Canal	B-Organization
 Católico	I-Organization	B-NORP
 ’	O
 (	O
-Catholic	B-NORP	B-Organization
-channel	O	I-Organization
+Catholic	B-Organization	B-NORP
+channel	I-Organization
 )	O
 is	O
 owned	O
@@ -180,8 +180,8 @@ in	O
 charge	O
 of	O
 the	O
-Catholic	B-NORP	B-Organization
-channel	O	I-Organization
+Catholic	B-Organization	B-NORP
+channel	I-Organization
 .	O
 
 Bishop	O
@@ -635,10 +635,10 @@ the	O
 Sandinistas	B-Organization
 and	O
 the	O
-Catholic	B-NORP	B-Organization
-Church	O	I-Organization	B-Facility
-of	O	I-Organization
-Nicaragua	O	I-Organization	B-Location
+Catholic	B-Organization	B-NORP
+Church	I-Organization	B-Facility
+of	I-Organization
+Nicaragua	I-Organization	B-Location
 have	O
 been	O
 marked	O

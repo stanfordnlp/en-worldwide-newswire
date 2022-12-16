@@ -52,10 +52,10 @@ River	I-Location
 cost	O
 an	O
 estimated	O
-US	B-Location	B-Money
-$	O	I-Money
-3.6	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+3.6	I-Money
+billion	I-Money
 and	O
 was	O
 paid	O
@@ -189,12 +189,12 @@ was	O
 built	O
 by	O
 the	O
-China	B-Location	B-Organization
-Major	O	I-Organization
-Bridge	O	I-Organization
-Engineering	O	I-Organization
-Company	O	I-Organization
-Ltd	O	I-Organization
+China	B-Organization	B-Location
+Major	I-Organization
+Bridge	I-Organization
+Engineering	I-Organization
+Company	I-Organization
+Ltd	I-Organization
 .	O
 and	O
 is	O
@@ -223,9 +223,9 @@ Jiming	I-Person
 .	O
 
 The	O
-China	B-Location	B-Organization
-Railway	O	I-Organization
-Group	O	I-Organization
+China	B-Organization	B-Location
+Railway	I-Organization
+Group	I-Organization
 has	O
 said	O
 the	O
@@ -291,18 +291,18 @@ growth	O
 projections	O
 from	O
 the	O
-Asian	B-NORP	B-Organization
-Development	O	I-Organization
-Bank	O	I-Organization
+Asian	B-Organization	B-NORP
+Development	I-Organization
+Bank	I-Organization
 that	O
 predict	O
 Bangladesh	B-Location
 ’	O
 s	O
-US	B-Location	B-Money
-$	O	I-Money
-465	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+465	I-Money
+billion	I-Money
 economy	O
 will	O
 grow	O
@@ -425,10 +425,10 @@ stay	O
 away	O
 from	O
 funding	O
-US	B-Location	B-Money
-$	O	I-Money
-1.2	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+1.2	I-Money
+billion	I-Money
 for	O
 the	O
 project	O
@@ -442,18 +442,18 @@ lending	O
 agencies	O
 including	O
 the	O
-Asian	B-NORP	B-Organization
-Development	O	I-Organization
-Bank	O	I-Organization
+Asian	B-Organization	B-NORP
+Development	I-Organization
+Bank	I-Organization
 ,	O
-Japan	B-Location	B-Organization
-International	O	I-Organization
-Cooperation	O	I-Organization
-Agency	O	I-Organization
+Japan	B-Organization	B-Location
+International	I-Organization
+Cooperation	I-Organization
+Agency	I-Organization
 and	O
-Islamic	B-NORP	B-Organization
-Development	O	I-Organization
-Bank	O	I-Organization
+Islamic	B-Organization	B-NORP
+Development	I-Organization
+Bank	I-Organization
 to	O
 distance	O
 themselves	O

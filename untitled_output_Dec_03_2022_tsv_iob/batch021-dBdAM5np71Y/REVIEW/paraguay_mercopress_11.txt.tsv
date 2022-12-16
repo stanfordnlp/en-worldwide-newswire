@@ -353,8 +353,8 @@ through	O
 the	O
 Contribute	O
 to	O
-Google	B-Organization	B-Product
-Translator	O	I-Product
+Google	B-Product	B-Organization
+Translator	I-Product
 section	O
 .	O
 

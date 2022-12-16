@@ -78,13 +78,13 @@ Cheuk	I-Person
 -	I-Person
 hei	I-Person
 from	O
-St	B-Person	B-Organization
-Paul	I-Person	I-Organization
-'s	O	I-Organization
-Co	O	I-Organization
--	O	I-Organization
-educational	O	I-Organization
-College	O	I-Organization
+St	B-Organization	B-Person
+Paul	I-Organization	I-Person
+'s	I-Organization
+Co	I-Organization
+-	I-Organization
+educational	I-Organization
+College	I-Organization
 ,	O
 silver	O
 medalists	O
@@ -277,12 +277,12 @@ Fund	I-Misc
 to	O
 support	O
 the	O
-Hong	B-Location	B-Organization
-Kong	I-Location	I-Organization
-Academy	O	I-Organization
-for	O	I-Organization
-Gifted	O	I-Organization
-Education	O	I-Organization
+Hong	B-Organization	B-Location
+Kong	I-Organization	I-Location
+Academy	I-Organization
+for	I-Organization
+Gifted	I-Organization
+Education	I-Organization
 ,	O
 she	O
 said	O

@@ -151,9 +151,9 @@ to	O
 .	O
 
 The	O
-Tokyo	B-Location	B-Organization
-Metropolitan	O	I-Organization
-Government	O	I-Organization
+Tokyo	B-Organization	B-Location
+Metropolitan	I-Organization
+Government	I-Organization
 is	O
 rushing	O
 to	O
@@ -250,9 +250,9 @@ COVID	B-Misc
 19	I-Misc
 patients	O
 at	O
-Showa	B-Location	B-Facility
-University	O	I-Facility
-Hospital	O	I-Facility
+Showa	B-Facility	B-Location
+University	I-Facility
+Hospital	I-Facility
 ,	O
 which	O
 has	O

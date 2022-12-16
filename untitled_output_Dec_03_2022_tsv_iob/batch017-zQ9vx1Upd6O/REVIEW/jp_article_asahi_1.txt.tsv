@@ -54,9 +54,9 @@ debate	O
 program	O
 aired	O
 by	O
-Japan	B-Location	B-Organization
-Broadcasting	O	I-Organization
-Corp	O	I-Organization
+Japan	B-Organization	B-Location
+Broadcasting	I-Organization
+Corp	I-Organization
 .	O
 (	O
 NHK	B-Organization
@@ -422,9 +422,9 @@ Shii	I-Person
 leader	O
 of	O
 the	O
-Japanese	B-NORP	B-Organization
-Communist	O	I-Organization
-Party	O	I-Organization
+Japanese	B-Organization	B-NORP
+Communist	I-Organization
+Party	I-Organization
 ,	O
 and	O
 Mizuho	B-Person
@@ -458,11 +458,11 @@ Tamaki	I-Person
 leader	O
 of	O
 the	O
-Democratic	B-NORP	B-Organization
-Party	O	I-Organization
-for	O	I-Organization
-the	O	I-Organization
-People	O	I-Organization
+Democratic	B-Organization	B-NORP
+Party	I-Organization
+for	I-Organization
+the	I-Organization
+People	I-Organization
 ,	O
 said	O
 active	O
@@ -701,9 +701,9 @@ generation	O
 ”	O
 
 The	O
-Japanese	B-NORP	B-Organization
-Communist	O	I-Organization
-Party	O	I-Organization
+Japanese	B-Organization	B-NORP
+Communist	I-Organization
+Party	I-Organization
 ,	O
 Reiwa	B-Organization
 Shinsengumi	I-Organization

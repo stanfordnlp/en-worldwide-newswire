@@ -965,13 +965,13 @@ study	O
 conducted	O
 by	O
 the	O
-Nicaraguan	B-NORP	B-Organization
-Foundation	O	I-Organization
-for	O	I-Organization
-Economic	O	I-Organization
-and	O	I-Organization
-Social	O	I-Organization
-Development	O	I-Organization
+Nicaraguan	B-Organization	B-NORP
+Foundation	I-Organization
+for	I-Organization
+Economic	I-Organization
+and	I-Organization
+Social	I-Organization
+Development	I-Organization
 (	O
 Funides	B-Organization
 )	O

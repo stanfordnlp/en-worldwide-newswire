@@ -76,8 +76,8 @@ head	O
 of	O
 state	O
 in	O
-Latin	B-Misc	B-Location
-America	O	I-Location
+Latin	B-Location	B-Misc
+America	I-Location
 .	O
 The	O
 country	O
@@ -407,8 +407,8 @@ say	O
 Morales	B-Person
 responded	O
 to	O
-Latin	B-NORP	B-Location
-America	O	I-Location
+Latin	B-Location	B-NORP
+America	I-Location
 ’	O
 s	O
 commodities	O

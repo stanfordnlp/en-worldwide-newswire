@@ -61,9 +61,9 @@ their	O
 crypto	O
 wallets	O
 ,	O
-Crypto	B-Money	B-Organization
-Kiosk	O	I-Organization
-Investment	O	I-Organization
+Crypto	B-Organization	B-Money
+Kiosk	I-Organization
+Investment	I-Organization
 Marketing	O
 Manager	O
 ,	O
@@ -78,9 +78,9 @@ statement	O
 recently	O
 .	O
 
-Crypto	B-Money	B-Organization
-Kiosk	O	I-Organization
-Investment	O	I-Organization
+Crypto	B-Organization	B-Money
+Kiosk	I-Organization
+Investment	I-Organization
 ,	O
 the	O
 implementor	O
@@ -189,8 +189,8 @@ which	O
 they	O
 call	O
 a	O
-Crypto	B-Money	B-Product
-Kiosk	O	I-Product
+Crypto	B-Product	B-Money
+Kiosk	I-Product
 ,	O
 is	O
 located	O
@@ -207,10 +207,10 @@ full	O
 compliance	O
 with	O
 the	O
-Namibian	B-NORP	B-Organization
-Financial	O	I-Organization
-Intelligence	O	I-Organization
-Center	O	I-Organization
+Namibian	B-Organization	B-NORP
+Financial	I-Organization
+Intelligence	I-Organization
+Center	I-Organization
 and	O
 all	O
 applicable	O
@@ -252,8 +252,8 @@ able	O
 to	O
 use	O
 the	O
-Crypto	B-Money	B-Product
-Kiosk	O	I-Product
+Crypto	B-Product	B-Money
+Kiosk	I-Product
 you	O
 need	O
 to	O

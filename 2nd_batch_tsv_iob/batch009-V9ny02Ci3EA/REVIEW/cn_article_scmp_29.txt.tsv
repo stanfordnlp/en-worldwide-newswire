@@ -492,8 +492,8 @@ machine	O
 was	O
 validated	O
 by	O
-Wuhan	B-Location	B-Organization
-University	O	I-Organization
+Wuhan	B-Organization	B-Location
+University	I-Organization
 ’	O
 s	O
 National	B-Organization

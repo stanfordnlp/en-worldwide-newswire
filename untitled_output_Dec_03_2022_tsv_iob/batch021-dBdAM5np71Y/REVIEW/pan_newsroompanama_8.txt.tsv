@@ -35,10 +35,10 @@ cases	O
 )	O
 .	O
 The	O
-Pan	B-NORP	B-Organization
-American	I-NORP	I-Organization
-Health	O	I-Organization
-Organization	O	I-Organization
+Pan	B-Organization	B-NORP
+American	I-Organization	I-NORP
+Health	I-Organization
+Organization	I-Organization
 detailed	O
 that	O
 hantavirus	B-Misc

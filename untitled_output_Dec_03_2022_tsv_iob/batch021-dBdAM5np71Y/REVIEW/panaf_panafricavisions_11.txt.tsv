@@ -69,8 +69,8 @@ the	O
 Ministry	B-Organization
 of	I-Organization
 
-National	I-Organization
-Education	I-Organization
+National	O
+Education	O
 to	O
 create	O
 school	O
@@ -140,7 +140,7 @@ FIFA	B-Organization
 President	O
 Gianni	B-Person
 
-Infantino	I-Person
+Infantino	O
 ’	O
 s	O
 2020-2023	B-Misc
@@ -278,10 +278,10 @@ regularly	O
 ”	O
 
 The	O
-FIFA	B-Organization	B-Misc
-Talent	O	I-Misc
-Development	O	I-Misc
-Scheme	O	I-Misc
+FIFA	B-Misc	B-Organization
+Talent	I-Misc
+Development	I-Misc
+Scheme	I-Misc
 (	O
 TDS	B-Misc
 )	O
@@ -344,9 +344,9 @@ personnel	O
 
 With	O
 five	O
-FIFA	B-Organization	B-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+FIFA	B-Misc	B-Organization
+World	I-Misc
+Cup	I-Misc
 appearances	O
 to	O
 its	O
@@ -358,8 +358,8 @@ to	O
 come	O
 
 at	O
-Qatar	B-Location	B-Misc
-2022	O	I-Misc	B-Misc
+Qatar	B-Misc	B-Location
+2022	I-Misc	B-Misc
 ,	O
 a	O
 thriving	O
@@ -464,10 +464,10 @@ advisers	O
 
 attended	O
 the	O
-Mohammed	B-Location	B-Organization
-VI	O	I-Organization
-Football	O	I-Organization
-Academy	O	I-Organization
+Mohammed	B-Organization	B-Location
+VI	I-Organization
+Football	I-Organization
+Academy	I-Organization
 to	O
 discuss	O
 talent	O
@@ -630,11 +630,11 @@ the	O
 opening	O
 of	O
 the	O
-Mohammed	B-Person	B-Organization
-VI	O	I-Organization
+Mohammed	B-Organization	B-Person
+VI	I-Organization
 
-Football	I-Organization
-Academy	I-Organization
+Football	O
+Academy	O
 ,	O
 which	O
 covers	O
@@ -690,8 +690,8 @@ the	O
 meantime	O
 ,	O
 the	O
-Moroccan	B-NORP	B-Organization
-authorities	O	I-Organization
+Moroccan	B-Organization	B-NORP
+authorities	I-Organization
 have	O
 also	O
 been	O
@@ -1104,8 +1104,8 @@ confirmed	O
 .	O
 “	O
 The	O
-Moroccan	B-NORP	B-Organization
-FA	O	I-Organization
+Moroccan	B-Organization	B-NORP
+FA	I-Organization
 is	O
 very	O
 important	O
@@ -1214,15 +1214,15 @@ all	O
 you	O
 staged	O
 the	O
-CAF	B-Organization	B-Misc
-Women	O	I-Misc
-’	O	I-Misc
-s	O	I-Misc
-Africa	O	I-Misc	B-Location
-Cup	O	I-Misc
-of	O	I-Misc
+CAF	B-Misc	B-Organization
+Women	I-Misc
+’	I-Misc
+s	I-Misc
+Africa	I-Misc	B-Location
+Cup	I-Misc
+of	I-Misc
 
-Nations	I-Misc
+Nations	O
 this	O
 year	O
 ,	O
@@ -1232,8 +1232,8 @@ qualified	O
 for	O
 the	O
 2022	B-Misc	B-Misc
-World	O	I-Misc
-Cup	O	I-Misc
+World	I-Misc
+Cup	I-Misc
 ,	O
 and	O
 your	O
@@ -1301,8 +1301,8 @@ like	O
 to	O
 congratulate	O
 the	O
-Moroccan	B-NORP	B-Organization
-FA	O	I-Organization
+Moroccan	B-Organization	B-NORP
+FA	I-Organization
 on	O
 its	O
 amazing	O

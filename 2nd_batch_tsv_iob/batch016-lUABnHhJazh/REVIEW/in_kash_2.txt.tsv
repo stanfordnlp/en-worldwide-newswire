@@ -98,22 +98,22 @@ from	O
 Lal	B-Location
 Chowk	I-Location
 to	O
-Kargil	B-Misc	B-Location
-War	I-Misc	I-Location
-Memorial	O	I-Location
+Kargil	B-Location	B-Misc
+War	I-Location	I-Misc
+Memorial	I-Location
 .	O
 
 Speaking	O
 at	O
 the	O
 historic	O
-Ghanta	B-Location	B-Facility
-Ghar	I-Location	I-Facility
-’	O	I-Facility
-(	O	I-Facility
-clock	O	I-Facility
-tower	O	I-Facility
-)	O	I-Facility
+Ghanta	B-Facility	B-Location
+Ghar	I-Facility	I-Location
+’	I-Facility
+(	I-Facility
+clock	I-Facility
+tower	I-Facility
+)	I-Facility
 ,	O
 Surya	B-Person
 said	O

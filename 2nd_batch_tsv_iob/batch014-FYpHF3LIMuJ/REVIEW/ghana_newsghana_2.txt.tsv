@@ -4,12 +4,12 @@ The	O
 National	B-Organization	B-Organization
 Democratic	I-Organization	I-Organization
 Congress	I-Organization	I-Organization
-(	O	I-Organization
-NDC	O	I-Organization	B-Organization
-)	O	I-Organization
-Caucus	O	I-Organization
-in	O	I-Organization
-Parliament	O	I-Organization
+(	I-Organization
+NDC	I-Organization	B-Organization
+)	I-Organization
+Caucus	I-Organization
+in	I-Organization
+Parliament	I-Organization
 has	O
 responded	O
 to	O
@@ -80,9 +80,9 @@ outset	O
 ,	O
 the	O
 NDC	B-Organization	B-Organization
-Caucus	O	I-Organization
-in	O	I-Organization
-Parliament	O	I-Organization
+Caucus	I-Organization
+in	I-Organization
+Parliament	I-Organization
 stands	O
 firmly	O
 by	O
@@ -169,8 +169,8 @@ on	O
 -	O
 lending	O
 of	O
-IMF	B-Organization	B-Misc
-SDR	O	I-Misc	B-Misc
+IMF	B-Misc	B-Organization
+SDR	I-Misc	B-Misc
 resources	O
 .	O
 In	O
@@ -467,10 +467,10 @@ discount	O
 them	O
 ,	O
 the	O
-Ghana	B-Location	B-Organization
-Fixed	O	I-Organization
-Income	O	I-Organization
-Market	O	I-Organization
+Ghana	B-Organization	B-Location
+Fixed	I-Organization
+Income	I-Organization
+Market	I-Organization
 is	O
 where	O
 such	O
@@ -647,8 +647,8 @@ further	O
 
 The	O
 NDC	B-Organization	B-Organization
-Parliamentary	O	I-Organization
-Caucus	O	I-Organization
+Parliamentary	I-Organization
+Caucus	I-Organization
 reminded	O
 BoG	B-Organization
 that	O
@@ -660,19 +660,19 @@ Section	O
 )	O
 of	O
 the	O
-Bank	B-Organization	B-Misc
-of	I-Organization	I-Misc
-Ghana	I-Organization	I-Misc
-(	O	I-Misc
-Amendment	O	I-Misc
-)	O	I-Misc
-Act	O	I-Misc
-,	O	I-Misc
-2016	O	I-Misc
-(	O	I-Misc
-Act	O	I-Misc
-918	O	I-Misc
-)	O	I-Misc
+Bank	B-Misc	B-Organization
+of	I-Misc	I-Organization
+Ghana	I-Misc	I-Organization
+(	I-Misc
+Amendment	I-Misc
+)	I-Misc
+Act	I-Misc
+,	I-Misc
+2016	I-Misc
+(	I-Misc
+Act	I-Misc
+918	I-Misc
+)	I-Misc
 it	O
 is	O
 given	O
@@ -699,19 +699,19 @@ Section	O
 )	O
 of	O
 the	O
-Bank	B-Organization	B-Misc
-of	I-Organization	I-Misc
-Ghana	I-Organization	I-Misc
-(	O	I-Misc
-Amendment	O	I-Misc
-)	O	I-Misc
-Act	O	I-Misc
-,	O	I-Misc
-2016	O	I-Misc
-(	O	I-Misc
-Act	O	I-Misc
-918	O	I-Misc
-)	O	I-Misc
+Bank	B-Misc	B-Organization
+of	I-Misc	I-Organization
+Ghana	I-Misc	I-Organization
+(	I-Misc
+Amendment	I-Misc
+)	I-Misc
+Act	I-Misc
+,	I-Misc
+2016	I-Misc
+(	I-Misc
+Act	I-Misc
+918	I-Misc
+)	I-Misc
 ,	O
 the	O
 Bank	B-Organization
@@ -802,19 +802,19 @@ in	O
 accordance	O
 with	O
 the	O
-Bank	B-Organization	B-Misc
-of	I-Organization	I-Misc
-Ghana	I-Organization	I-Misc
-(	O	I-Misc
-Amendment	O	I-Misc
-)	O	I-Misc
-Act	O	I-Misc
-,	O	I-Misc
-2016	O	I-Misc
-(	O	I-Misc
-Act	O	I-Misc
-918	O	I-Misc
-)	O	I-Misc
+Bank	B-Misc	B-Organization
+of	I-Misc	I-Organization
+Ghana	I-Misc	I-Organization
+(	I-Misc
+Amendment	I-Misc
+)	I-Misc
+Act	I-Misc
+,	I-Misc
+2016	I-Misc
+(	I-Misc
+Act	I-Misc
+918	I-Misc
+)	I-Misc
 ,	O
 ”	O
 he	O

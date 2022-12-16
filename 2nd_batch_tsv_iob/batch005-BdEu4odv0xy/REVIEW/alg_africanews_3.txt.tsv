@@ -30,8 +30,8 @@ economically	O
 active	O
 in	O
 the	O
-Algerian	B-NORP	B-Location
-Sahara	O	I-Location
+Algerian	B-Location	B-NORP
+Sahara	I-Location
 .	O
 In	O
 just	O

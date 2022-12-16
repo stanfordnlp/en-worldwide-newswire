@@ -522,7 +522,7 @@ scheduling	O
 conflicts	O
 with	O
 the	O
-Tokyo	B-Location	B-Misc
-Olympics	O	I-Misc
+Tokyo	B-Misc	B-Location
+Olympics	I-Misc
 .	O
 

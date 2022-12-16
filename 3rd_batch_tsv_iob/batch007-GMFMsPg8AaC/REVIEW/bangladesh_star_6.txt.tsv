@@ -177,9 +177,9 @@ a	O
 murder	O
 case	O
 at	O
-Ghior	B-Location	B-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Ghior	B-Facility	B-Location
+Police	I-Facility
+Station	I-Facility
 against	O
 Rupak	B-Person
 .	O

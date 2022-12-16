@@ -15,10 +15,10 @@ Daudkandi	B-Location
 Gouripur	I-Location
 on	O
 the	O
-Dhaka	B-Location	B-Facility
--	O	I-Facility
-Chittagong	O	I-Facility	B-Location
-highway	O	I-Facility
+Dhaka	B-Facility	B-Location
+-	I-Facility
+Chittagong	I-Facility	B-Location
+highway	I-Facility
 was	O
 reported	O
 on	O
@@ -165,8 +165,8 @@ Cumilla	B-Location
 Cantonment	I-Location
 .	O
 
-Daudkandi	B-Location	B-Facility
-highway	O	I-Facility
+Daudkandi	B-Facility	B-Location
+highway	I-Facility
 police	O
 SI	O
 Md	B-Person

@@ -3,8 +3,8 @@ https://www.khaleejtimes.com/weather/uae-sheikh-mohammed-mobilises-emergency-res
 Emergency	O
 teams	O
 from	O
-Dubai	B-Location	B-Organization
-Police	O	I-Organization
+Dubai	B-Organization	B-Location
+Police	I-Organization
 have	O
 been	O
 mobilised	O

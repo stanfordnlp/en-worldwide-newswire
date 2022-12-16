@@ -295,8 +295,8 @@ Goudjil	I-Person
 speaker	O
 of	O
 the	O
-Algerian	B-NORP	B-Organization
-parliament	O	I-Organization
+Algerian	B-Organization	B-NORP
+parliament	I-Organization
 ’	O
 s	O
 upper	O

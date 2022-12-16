@@ -109,8 +109,8 @@ the	O
 capital	O
 of	O
 a	O
-Numidian	B-NORP	B-Organization
-kingdom	O	I-Organization
+Numidian	B-Organization	B-NORP
+kingdom	I-Organization
 at	O
 the	O
 end	O
@@ -196,9 +196,9 @@ the	O
 gardens	O
 of	O
 the	O
-Amhed	B-Person	B-Facility
-Bey	I-Person	I-Facility
-Palace	O	I-Facility
+Amhed	B-Facility	B-Person
+Bey	I-Facility	I-Person
+Palace	I-Facility
 ,	O
 a	O
 jewel	O
@@ -340,9 +340,9 @@ also	O
 take	O
 in	O
 the	O
-Emir	B-Person	B-Facility
-Abdelkader	I-Person	I-Facility
-Mosque	O	I-Facility
+Emir	B-Facility	B-Person
+Abdelkader	I-Facility	I-Person
+Mosque	I-Facility
 ,	O
 a	O
 masterpiece	O
@@ -497,9 +497,9 @@ be	O
 found	O
 in	O
 the	O
-Timgad	B-Location	B-Facility
-'s	O	I-Facility
-museum	O	I-Facility
+Timgad	B-Facility	B-Location
+'s	I-Facility
+museum	I-Facility
 ,	O
 offering	O
 an	O
@@ -517,8 +517,8 @@ a	O
 home	O
 for	O
 retired	O
-Roman	B-NORP	B-Organization
-soldiers	O	I-Organization
+Roman	B-Organization	B-NORP
+soldiers	I-Organization
 .	O
 
 "	O
@@ -564,8 +564,8 @@ had	O
 given	O
 to	O
 the	O
-Roman	B-NORP	B-Organization
-Empire	O	I-Organization
+Roman	B-Organization	B-NORP
+Empire	I-Organization
 ,	O
 "	O
 says	O

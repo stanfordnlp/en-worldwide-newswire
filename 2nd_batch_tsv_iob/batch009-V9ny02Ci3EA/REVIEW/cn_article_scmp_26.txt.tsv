@@ -68,10 +68,10 @@ Scamp	B-Misc
 camera	O
 technology	O
 with	O
-Beijing	B-Location	B-Organization
-Infinite	O	I-Organization
-Vision	O	I-Organization
-Technology	O	I-Organization
+Beijing	B-Organization	B-Location
+Infinite	I-Organization
+Vision	I-Organization
+Technology	I-Organization
 ,	O
 a	O
 maker	O
@@ -182,10 +182,10 @@ more	O
 efficiently	O
 .	O
 
-Beijing	B-Location	B-Organization
-Infinite	O	I-Organization
-Vision	O	I-Organization
-Technology	O	I-Organization
+Beijing	B-Organization	B-Location
+Infinite	I-Organization
+Vision	I-Organization
+Technology	I-Organization
 did	O
 not	O
 immediately	O
@@ -232,8 +232,8 @@ January	B-Misc
 and	O
 gives	O
 the	O
-British	B-NORP	B-Organization
-government	O	I-Organization
+British	B-Organization	B-NORP
+government	I-Organization
 powers	O
 similar	O
 to	O
@@ -310,9 +310,9 @@ Technology	I-Organization
 The	O
 acquisition	O
 of	O
-Newport	B-Location	B-Organization
-Wafer	O	I-Organization
-Fab	O	I-Organization
+Newport	B-Organization	B-Location
+Wafer	I-Organization
+Fab	I-Organization
 by	O
 a	O
 company	O
@@ -364,11 +364,11 @@ potentially	O
 shut	O
 down	O
 the	O
-Newport	B-Facility	B-Location
-plant	I-Facility	I-Location
-in	O	I-Location
-South	O	I-Location
-Wales	O	I-Location
+Newport	B-Location	B-Facility
+plant	I-Location	I-Facility
+in	I-Location
+South	I-Location
+Wales	I-Location
 and	O
 move	O
 production	O
@@ -444,8 +444,8 @@ at	O
 companies	O
 such	O
 as	O
-Texas	B-Location	B-Organization
-Instruments	O	I-Organization
+Texas	B-Organization	B-Location
+Instruments	I-Organization
 ,	O
 Infineon	B-Organization
 ,	O

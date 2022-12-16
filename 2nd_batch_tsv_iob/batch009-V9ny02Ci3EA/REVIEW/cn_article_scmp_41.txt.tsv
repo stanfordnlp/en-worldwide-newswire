@@ -184,9 +184,9 @@ state	O
 ,	O
 ”	O
 the	O
-US	B-Location	B-Misc
-Seventh	O	I-Misc
-Fleet	O	I-Misc
+US	B-Misc	B-Location
+Seventh	I-Misc
+Fleet	I-Misc
 said	O
 in	O
 a	O
@@ -223,8 +223,8 @@ Pacific	I-NORP
 ”	O
 
 The	O
-US	B-Location	B-Organization
-Navy	O	I-Organization
+US	B-Organization	B-Location
+Navy	I-Organization
 routinely	O
 travels	O
 to	O
@@ -240,14 +240,14 @@ as	O
 permitted	O
 by	O
 the	O
-UN	B-Organization	B-Misc
-Convention	O	I-Misc
-on	O	I-Misc
-the	O	I-Misc
-Law	O	I-Misc
-of	O	I-Misc
-the	O	I-Misc
-Sea	O	I-Misc
+UN	B-Misc	B-Organization
+Convention	I-Misc
+on	I-Misc
+the	I-Misc
+Law	I-Misc
+of	I-Misc
+the	I-Misc
+Sea	I-Misc
 (	O
 UNCLOS	B-Misc
 )	O
@@ -529,9 +529,9 @@ potential	O
 trip	O
 and	O
 the	O
-US	B-Location	B-Organization
-State	O	I-Organization
-Department	O	I-Organization
+US	B-Organization	B-Location
+State	I-Organization
+Department	I-Organization
 approved	O
 an	O
 arms	O

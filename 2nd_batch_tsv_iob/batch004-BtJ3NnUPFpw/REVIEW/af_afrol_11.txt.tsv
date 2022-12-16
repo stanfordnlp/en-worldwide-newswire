@@ -16,10 +16,10 @@ plan	O
 to	O
 build	O
 a	O
-US	B-Location	B-Money
-$	O	I-Money
-4.2	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+4.2	I-Money
+billion	I-Money
 dam	O
 in	O
 the	O
@@ -358,11 +358,11 @@ East	B-NORP
 African	I-NORP
 countries	O
 :	O
-Democratic	B-NORP	B-Location
-Republic	O	I-Location
-of	O	I-Location
-the	O	I-Location
-Congo	O	I-Location
+Democratic	B-Location	B-NORP
+Republic	I-Location
+of	I-Location
+the	I-Location
+Congo	I-Location
 ,	O
 Burundi	B-Location
 ,	O
@@ -445,11 +445,11 @@ set	O
 up	O
 the	O
 Permanent	O
-Okavango	B-Location	B-Organization
-River	I-Location	I-Organization
-Basin	O	I-Organization
-Water	O	I-Organization
-Commission	O	I-Organization
+Okavango	B-Organization	B-Location
+River	I-Organization	I-Location
+Basin	I-Organization
+Water	I-Organization
+Commission	I-Organization
 to	O
 monitor	O
 the	O
@@ -587,10 +587,10 @@ percent	O
 water	O
 coverage	O
 ,	O
-sub	B-NORP	B-Location
--	I-NORP	I-Location
-Saharan	I-NORP	I-Location
-Africa	O	I-Location
+sub	B-Location	B-NORP
+-	I-Location	I-NORP
+Saharan	I-Location	I-NORP
+Africa	I-Location
 has	O
 only	O
 managed	O
@@ -610,10 +610,10 @@ report	O
 adds	O
 that	O
 in	O
-sub	B-NORP	B-Location
--	I-NORP	I-Location
-Saharan	I-NORP	I-Location
-Africa	O	I-Location
+sub	B-Location	B-NORP
+-	I-Location	I-NORP
+Saharan	I-Location	I-NORP
+Africa	I-Location
 improvements	O
 have	O
 mainly	O

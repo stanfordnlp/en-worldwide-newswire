@@ -346,12 +346,12 @@ rights	O
 .	O
 
 The	O
-U	B-Location	B-Organization
-.	I-Location	I-Organization
-S	I-Location	I-Organization
-.	I-Location	I-Organization
-State	O	I-Organization
-Department	O	I-Organization
+U	B-Organization	B-Location
+.	I-Organization	I-Location
+S	I-Organization	I-Location
+.	I-Organization	I-Location
+State	I-Organization
+Department	I-Organization
 's	O
 2021	B-Misc
 country	O

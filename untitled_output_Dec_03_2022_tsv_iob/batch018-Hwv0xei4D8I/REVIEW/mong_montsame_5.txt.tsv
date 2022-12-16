@@ -32,9 +32,9 @@ the	O
 progress	O
 of	O
 the	O
-Erdeneburen	B-Location	B-Facility
-hydropower	O	I-Facility
-plant	O	I-Facility
+Erdeneburen	B-Facility	B-Location
+hydropower	I-Facility
+plant	I-Facility
 project	O
 .	O
 
@@ -163,8 +163,8 @@ the	O
 implementation	O
 of	O
 the	O
-Erdeneburen	B-Location	B-Facility
-HPP	O	I-Facility
+Erdeneburen	B-Facility	B-Location
+HPP	I-Facility
 project	O
 .	O
 In	O
@@ -253,8 +253,8 @@ sector	O
 ,	O
 is	O
 the	O
-Erdeneburen	B-Location	B-Facility
-HPP	O	I-Facility
+Erdeneburen	B-Facility	B-Location
+HPP	I-Facility
 ,	O
 ”	O
 highlighted	O

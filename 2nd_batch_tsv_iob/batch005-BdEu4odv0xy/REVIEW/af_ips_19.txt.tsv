@@ -81,8 +81,8 @@ to	O
 stay	O
 in	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 and	O
 encouraged	O
 their	O
@@ -127,8 +127,8 @@ coasts	O
 
 Despite	O
 the	O
-Egyptian	B-NORP	B-Organization
-government	O	I-Organization
+Egyptian	B-Organization	B-NORP
+government	I-Organization
 ’	O
 s	O
 warnings	O
@@ -775,10 +775,10 @@ and	O
 the	O
 other	O
 in	O
-Bir	B-Location	B-Facility
-Al	I-Location	I-Facility
-Ghanam	I-Location	I-Facility
-prison	O	I-Facility
+Bir	B-Facility	B-Location
+Al	I-Facility	I-Location
+Ghanam	I-Facility	I-Location
+prison	I-Facility
 .	O
 
 Bir	B-Location
@@ -806,9 +806,9 @@ several	O
 battles	O
 during	O
 the	O
-Libyan	B-NORP	B-Misc
-Civil	O	I-Misc
-War	O	I-Misc
+Libyan	B-Misc	B-NORP
+Civil	I-Misc
+War	I-Misc
 .	O
 Anti	B-NORP
 -	I-NORP

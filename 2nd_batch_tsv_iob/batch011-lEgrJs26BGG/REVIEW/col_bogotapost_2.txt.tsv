@@ -1998,8 +1998,8 @@ of	O
 ,	O
 with	O
 the	O
-Colombian	B-NORP	B-Organization
-Congress	O	I-Organization
+Colombian	B-Organization	B-NORP
+Congress	I-Organization
 only	O
 marginally	O
 less	O
@@ -3551,9 +3551,9 @@ programmes	O
 
 When	O
 the	O
-Colombian	B-NORP	B-Organization
-Reintegration	O	I-Organization
-Agency	O	I-Organization
+Colombian	B-Organization	B-NORP
+Reintegration	I-Organization
+Agency	I-Organization
 offered	O
 Gomez	B-Person
 the	O
@@ -3586,8 +3586,8 @@ of	O
 fighting	O
 against	O
 the	O
-Colombian	B-NORP	B-Organization
-Army	O	I-Organization
+Colombian	B-Organization	B-NORP
+Army	I-Organization
 every	O
 day	O
 ,	O

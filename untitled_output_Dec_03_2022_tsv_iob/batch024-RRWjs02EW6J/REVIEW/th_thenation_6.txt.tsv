@@ -91,12 +91,12 @@ Merlion	B-Location
 state	O
 ’	O
 s	O
-Patek	B-Organization	B-Product	B-Misc
-Philippe	I-Organization	I-Product	I-Misc
-Watch	O	I-Product	I-Misc
-Art	O	O	I-Misc
-Grand	O	O	I-Misc
-Exhibition	O	O	I-Misc
+Patek	B-Misc	B-Product	B-Organization
+Philippe	I-Misc	I-Product	I-Organization
+Watch	I-Misc	I-Product
+Art	I-Misc
+Grand	I-Misc
+Exhibition	I-Misc
 in	O
 2019	B-Misc
 .	O
@@ -139,8 +139,8 @@ this	O
 exhibition	O
 is	O
 “	O
-Singapore	B-Location	B-Product
-Skyline	O	I-Product
+Singapore	B-Product	B-Location
+Skyline	I-Product
 ”	O
 ,	O
 crafted	O

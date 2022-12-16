@@ -106,8 +106,8 @@ Church	O
 backed	O
 regional	O
 outfit	O
-Kerala	B-Location	B-Organization
-Congress	O	I-Organization
+Kerala	B-Organization	B-Location
+Congress	I-Organization
 and	O
 now	O
 runs	O
@@ -118,8 +118,8 @@ one	O
 man	O
 show	O
 ,	O
-Kerala	B-Location	B-Organization
-Janapaksham	O	I-Organization
+Kerala	B-Organization	B-Location
+Janapaksham	I-Organization
 (	O
 Secular	B-Organization
 )	O
@@ -674,13 +674,13 @@ handy	O
 An	O
 organisation	O
 called	O
-Christian	B-NORP	B-Organization
-Association	O	I-Organization
-&	O	I-Organization
-Alliance	O	I-Organization
-for	O	I-Organization
-Social	O	I-Organization
-Action	O	I-Organization
+Christian	B-Organization	B-NORP
+Association	I-Organization
+&	I-Organization
+Alliance	I-Organization
+for	I-Organization
+Social	I-Organization
+Action	I-Organization
 (	O
 CASA	B-Organization
 )	O
@@ -1241,8 +1241,8 @@ hate	O
 spreaders	O
 such	O
 as	O
-Hindu	B-NORP	B-Organization
-Aikyavedi	O	I-Organization
+Hindu	B-Organization	B-NORP
+Aikyavedi	I-Organization
 ’	O
 s	O
 K	B-Person

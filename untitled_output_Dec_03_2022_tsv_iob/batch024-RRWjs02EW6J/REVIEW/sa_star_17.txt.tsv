@@ -7,9 +7,9 @@ Businessman	O
 and	O
 founder	O
 of	O
-Thami	B-Person	B-Organization
-Ndlala	I-Person	I-Organization
-Holdings	O	I-Organization
+Thami	B-Organization	B-Person
+Ndlala	I-Organization	I-Person
+Holdings	I-Organization
 ,	O
 Thami	B-Person
 Ndlala	I-Person
@@ -324,11 +324,11 @@ development	O
 by	O
 approaching	O
 the	O
-City	B-Location	B-Organization
-of	I-Location	I-Organization
-Johannesburg	I-Location	I-Organization
-Development	O	I-Organization
-Planning	O	I-Organization
+City	B-Organization	B-Location
+of	I-Organization	I-Location
+Johannesburg	I-Organization	I-Location
+Development	I-Organization
+Planning	I-Organization
 to	O
 object	O
 to	O
@@ -828,13 +828,13 @@ Loyiso	B-Person
 Tunce	I-Person
 of	O
 the	O
-City	B-Location	B-Organization
-of	I-Location	I-Organization
-Joburg	I-Location	I-Organization
-development	O	I-Organization
-and	O	I-Organization
-planning	O	I-Organization
-department	O	I-Organization
+City	B-Organization	B-Location
+of	I-Organization	I-Location
+Joburg	I-Organization	I-Location
+development	I-Organization
+and	I-Organization
+planning	I-Organization
+department	I-Organization
 confirmed	O
 that	O
 more	O

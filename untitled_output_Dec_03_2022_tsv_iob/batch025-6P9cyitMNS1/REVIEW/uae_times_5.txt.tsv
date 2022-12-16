@@ -409,9 +409,9 @@ for	O
 Adi	B-Person
 Sinha	I-Person
 of	O
-Delhi	B-Location	B-Organization
-Private	O	I-Organization
-School	O	I-Organization
+Delhi	B-Organization	B-Location
+Private	I-Organization
+School	I-Organization
 for	O
 participating	O
 in	O

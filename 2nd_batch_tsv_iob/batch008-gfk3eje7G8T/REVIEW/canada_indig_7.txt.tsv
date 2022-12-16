@@ -46,8 +46,8 @@ month	O
 AltoMaxx	B-Organization
 ,	O
 a	O
-British	B-NORP	B-Location
-Columbia	O	I-Location
+British	B-Location	B-NORP
+Columbia	I-Location
 -	O
 based	O
 company	O

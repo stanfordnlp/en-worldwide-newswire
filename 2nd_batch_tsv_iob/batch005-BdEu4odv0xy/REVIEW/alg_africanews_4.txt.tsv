@@ -157,13 +157,13 @@ Oscar	B-Person
 Niemeyer	I-Person
 designed	O
 the	O
-Houari	B-Person	B-Organization
-Boumediène	I-Person	I-Organization
-University	O	I-Organization
-of	O	I-Organization
-Science	O	I-Organization
-and	O	I-Organization
-Technology	O	I-Organization
+Houari	B-Organization	B-Person
+Boumediène	I-Organization	I-Person
+University	I-Organization
+of	I-Organization
+Science	I-Organization
+and	I-Organization
+Technology	I-Organization
 in	O
 Algiers	B-Location
 .	O
@@ -241,14 +241,14 @@ The	O
 rector	O
 of	O
 the	O
-Houari	B-Person	B-Organization
--	I-Person	I-Organization
-Boumediene	I-Person	I-Organization
-university	O	I-Organization
-of	O	I-Organization
-Science	O	I-Organization
-and	O	I-Organization
-technology	O	I-Organization
+Houari	B-Organization	B-Person
+-	I-Organization	I-Person
+Boumediene	I-Organization	I-Person
+university	I-Organization
+of	I-Organization
+Science	I-Organization
+and	I-Organization
+technology	I-Organization
 (	O
 USTHB	B-Organization
 )	O
@@ -539,11 +539,11 @@ here	O
 ,	O
 at	O
 the	O
-Algerian	B-NORP	B-Organization
-High	O	I-Organization
-School	O	I-Organization
-of	O	I-Organization
-Business	O	I-Organization
+Algerian	B-Organization	B-NORP
+High	I-Organization
+School	I-Organization
+of	I-Organization
+Business	I-Organization
 .	O
 At	O
 the	O

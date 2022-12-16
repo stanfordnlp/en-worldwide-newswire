@@ -18,9 +18,9 @@ Basit	I-Person
 has	O
 won	O
 the	O
-Guinness	B-Organization	B-Misc
-World	O	I-Misc
-Records	O	I-Misc
+Guinness	B-Misc	B-Organization
+World	I-Misc
+Records	I-Misc
 as	O
 the	O
 youngest	O
@@ -38,11 +38,11 @@ Laiba	B-Person
 hailing	O
 from	O
 the	O
-southern	B-NORP	B-Location
-Indian	I-NORP	I-Location
-state	O	I-Location
-of	O	I-Location
-Kerala	O	I-Location	B-Location
+southern	B-Location	B-NORP
+Indian	I-Location	I-NORP
+state	I-Location
+of	I-Location
+Kerala	I-Location	B-Location
 ,	O
 has	O
 accomplished	O

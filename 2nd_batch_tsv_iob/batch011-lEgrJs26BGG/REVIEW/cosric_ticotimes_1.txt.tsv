@@ -317,12 +317,12 @@ He	O
 campaigned	O
 against	O
 the	O
-Costa	B-NORP	B-Organization
-Rican	I-NORP	I-Organization
-Electricity	O	I-Organization
-Institute	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
+Costa	B-Organization	B-NORP
+Rican	I-Organization	I-NORP
+Electricity	I-Organization
+Institute	I-Organization
+’	I-Organization
+s	I-Organization
 (	O
 ICE	B-Organization
 )	O
@@ -741,10 +741,10 @@ hard	O
 to	O
 believe	O
 that	O
-Manuel	B-Person	B-Location
-Antonio	I-Person	I-Location
-National	O	I-Location
-Park	O	I-Location
+Manuel	B-Location	B-Person
+Antonio	I-Location	I-Person
+National	I-Location
+Park	I-Location
 is	O
 the	O
 country	O
@@ -1532,10 +1532,10 @@ Foreigners	O
 $	B-Money
 10	I-Money
 
-Manuel	B-Person	B-Location
-Antonio	I-Person	I-Location
-National	O	I-Location
-Park	O	I-Location
+Manuel	B-Location	B-Person
+Antonio	I-Location	I-Person
+National	I-Location
+Park	I-Location
 
 Open	O
 seven	O
@@ -1701,10 +1701,10 @@ Foreigners	O
 $	B-Money
 15	I-Money
 
-Marino	B-Person	B-Location
-Ballena	I-Person	I-Location
-National	O	I-Location
-Park	O	I-Location
+Marino	B-Location	B-Person
+Ballena	I-Location	I-Person
+National	I-Location
+Park	I-Location
 –	O
 Sector	B-Location
 Piñuelas	I-Location
@@ -1728,10 +1728,10 @@ Foreigners	O
 $	B-Money
 6	I-Money
 
-Marino	B-Person	B-Location
-Ballena	I-Person	I-Location
-National	O	I-Location
-Park	O	I-Location
+Marino	B-Location	B-Person
+Ballena	I-Location	I-Person
+National	I-Location
+Park	I-Location
 –	O
 Sector	B-Location
 Ballena	I-Location
@@ -1755,10 +1755,10 @@ Foreigners	O
 $	B-Money
 6	I-Money
 
-Marino	B-Person	B-Location
-Ballena	I-Person	I-Location
-National	O	I-Location
-Park	O	I-Location
+Marino	B-Location	B-Person
+Ballena	I-Location	I-Person
+National	I-Location
+Park	I-Location
 –	O
 Sector	B-Location
 Colonia	I-Location
@@ -1782,10 +1782,10 @@ Foreigners	O
 $	B-Money
 6	I-Money
 
-Marino	B-Person	B-Location
-Ballena	I-Person	I-Location
-National	O	I-Location
-Park	O	I-Location
+Marino	B-Location	B-Person
+Ballena	I-Location	I-Person
+National	I-Location
+Park	I-Location
 –	O
 Sector	B-Location
 Uvita	I-Location

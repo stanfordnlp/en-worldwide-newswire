@@ -19,8 +19,8 @@ the	O
 allegations	O
 made	O
 by	O
-Dhaka	B-Location	B-Organization
-University	O	I-Organization
+Dhaka	B-Organization	B-Location
+University	I-Organization
 student	O
 Mohiuddin	B-Person
 Roni	I-Person
@@ -54,9 +54,9 @@ provided	O
 by	O
 Shohoz	B-Organization
 and	O
-Bangladesh	B-Location	B-Facility	B-Organization
-Railway	O	I-Facility	I-Organization
-authorities	O	O	I-Organization
+Bangladesh	B-Organization	B-Facility	B-Location
+Railway	I-Organization	I-Facility
+authorities	I-Organization
 .	O
 
 Maliha	B-Person
@@ -195,8 +195,8 @@ e	O
 ticket	O
 portal	O
 of	O
-Bangladesh	B-Location	B-Facility
-Railway	O	I-Facility
+Bangladesh	B-Facility	B-Location
+Railway	I-Facility
 on	O
 June	B-Misc
 13	I-Misc
@@ -399,8 +399,8 @@ the	O
 ticketing	O
 website	O
 of	O
-Bangladesh	B-Location	B-Organization
-Railway	O	I-Organization
+Bangladesh	B-Organization	B-Location
+Railway	I-Organization
 (	O
 www	O
 .	O
@@ -431,8 +431,8 @@ June	B-Misc
 ,	O
 10:14 am	O
 )	O
-Bangladesh	B-Misc	B-Organization
-Railway	O	I-Organization
+Bangladesh	B-Organization	B-Misc
+Railway	I-Organization
 for	O
 support	O
 through	O

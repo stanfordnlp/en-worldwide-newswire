@@ -552,11 +552,11 @@ World	B-Organization
 Vision	I-Organization
 declared	O
 an	O
-East	B-Location	B-Misc
-Africa	I-Location	I-Misc
-Hunger	O	I-Misc
-Emergency	O	I-Misc
-Response	O	I-Misc
+East	B-Misc	B-Location
+Africa	I-Misc	I-Location
+Hunger	I-Misc
+Emergency	I-Misc
+Response	I-Misc
 ,	O
 the	O
 situation	O
@@ -950,7 +950,7 @@ Morley	B-Person
 
 Like	O
 Marsabit	B-Location	B-Location
-County	O	I-Location
+County	I-Location
 ,	O
 Turkana	B-Location
 has	O

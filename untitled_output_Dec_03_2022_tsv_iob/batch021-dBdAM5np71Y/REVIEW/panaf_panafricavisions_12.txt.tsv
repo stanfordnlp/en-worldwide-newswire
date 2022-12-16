@@ -140,8 +140,8 @@ added	O
 
 The	O
 2022	B-Misc	B-Misc
-World	O	I-Misc
-Championship	O	I-Misc
+World	I-Misc
+Championship	I-Misc
 is	O
 set	O
 to	O
@@ -204,14 +204,14 @@ July	B-Misc
 as	O
 planned	O
 by	O
-Kenya	B-Location	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Ministry	O	I-Organization
-of	O	I-Organization
-Sports	O	I-Organization
-and	O	I-Organization
-Athletics	O	I-Organization
+Kenya	B-Organization	B-Location
+’	I-Organization
+s	I-Organization
+Ministry	I-Organization
+of	I-Organization
+Sports	I-Organization
+and	I-Organization
+Athletics	I-Organization
 ,	O
 ”	O
 he	O

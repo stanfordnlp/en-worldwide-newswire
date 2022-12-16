@@ -113,10 +113,10 @@ Tumbe	I-Person
 chairman	O
 of	O
 the	O
-Indian	B-NORP	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Commerce	O	I-Organization
+Indian	B-Organization	B-NORP
+Chamber	I-Organization
+of	I-Organization
+Commerce	I-Organization
 in	O
 Korea	B-Location
 (	O
@@ -172,22 +172,22 @@ hosted	O
 jointly	O
 by	O
 the	O
-Indian	B-NORP	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Commerce	O	I-Organization
-in	O	I-Organization
-Korea	O	I-Organization
+Indian	B-Organization	B-NORP
+Chamber	I-Organization
+of	I-Organization
+Commerce	I-Organization
+in	I-Organization
+Korea	I-Organization
 (	O
 ICCK	B-Organization
 )	O
 ,	O
-Korea	B-Location	B-Organization
-Trade	O	I-Organization
--	O	I-Organization
-Investment	O	I-Organization
-Promotion	O	I-Organization
-Agency	O	I-Organization
+Korea	B-Organization	B-Location
+Trade	I-Organization
+-	I-Organization
+Investment	I-Organization
+Promotion	I-Organization
+Agency	I-Organization
 (	O
 KOTRA	B-Organization
 )	O

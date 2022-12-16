@@ -52,7 +52,7 @@ happened	O
 near	O
 Wave	B-Location	B-Location
 City	I-Location	I-Location
-Gate	O	I-Location
+Gate	I-Location
 on	O
 NH	O
 -	O
@@ -71,9 +71,9 @@ a	O
 divider	O
 in	O
 the	O
-Mussoorie	B-Location	B-Facility
-police	O	I-Facility
-station	O	I-Facility
+Mussoorie	B-Facility	B-Location
+police	I-Facility
+station	I-Facility
 area	O
 .	O
 
@@ -110,7 +110,7 @@ divider	O
 near	O
 Wave	B-Location	B-Location
 City	I-Location	I-Location
-Gate	O	I-Location
+Gate	I-Location
 on	O
 NH	O
 -	O

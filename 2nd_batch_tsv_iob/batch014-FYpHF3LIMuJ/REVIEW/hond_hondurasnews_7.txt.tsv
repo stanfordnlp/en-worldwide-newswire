@@ -95,9 +95,9 @@ takes	O
 place	O
 at	O
 the	O
-Francisco	B-Person	B-Facility
-Morazan	I-Person	I-Facility
-Stadium	O	I-Facility
+Francisco	B-Facility	B-Person
+Morazan	I-Facility	I-Person
+Stadium	I-Facility
 in	O
 Honduras	B-Location
 .	O

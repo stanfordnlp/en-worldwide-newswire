@@ -1,7 +1,7 @@
 https://www.observerbd.com/news.php?id=376296	O
 
-Dhaka	B-Location	B-Organization
-University	O	I-Organization
+Dhaka	B-Organization	B-Location
+University	I-Organization
 student	O
 Mohiuddin	B-Person
 Roni	I-Person
@@ -33,9 +33,9 @@ a	O
 meeting	O
 with	O
 the	O
-Bangladesh	B-Location	B-Facility	B-Organization
-Railway	O	I-Facility	I-Organization
-authorities	O	O	I-Organization
+Bangladesh	B-Organization	B-Facility	B-Location
+Railway	I-Organization	I-Facility
+authorities	I-Organization
 .	O
 
 Roni	B-Person
@@ -47,9 +47,9 @@ on	O
 Monday	B-Misc
 night	O
 at	O
-Bangladesh	B-Location	B-Facility
-Railway	O	I-Facility
-Bhavan	O	I-Facility
+Bangladesh	B-Facility	B-Location
+Railway	I-Facility
+Bhavan	I-Facility
 in	O
 Dhaka	B-Location
 .	O
@@ -115,7 +115,7 @@ mismanagement	O
 and	O
 irregualrities	O
 of	O
-Bangladesh	B-Location	B-Facility
-Railway	O	I-Facility
+Bangladesh	B-Facility	B-Location
+Railway	I-Facility
 .	O
 

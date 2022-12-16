@@ -39,8 +39,8 @@ the	O
 conspiracies	O
 of	O
 the	O
-Zionist	B-NORP	B-Organization
-regime	O	I-Organization
+Zionist	B-Organization	B-NORP
+regime	I-Organization
 ,	O
 we	O
 have	O
@@ -182,8 +182,8 @@ fight	O
 terrorism	O
 ,	O
 the	O
-Israeli	B-NORP	B-Organization
-regime	O	I-Organization
+Israeli	B-Organization	B-NORP
+regime	I-Organization
 ,	O
 and	O
 subversive	O

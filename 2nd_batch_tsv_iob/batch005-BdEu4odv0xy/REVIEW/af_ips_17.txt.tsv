@@ -168,16 +168,16 @@ diseases	O
 
 The	O
 Congo	B-Location	B-Location
-Basin	O	I-Location
-rainforest	O	I-Location
+Basin	I-Location
+rainforest	I-Location
 ,	O
 larger	O
 than	O
 the	O
 US	B-Location	B-Location
-state	O	I-Location
-of	O	I-Location
-Alaska	O	I-Location
+state	I-Location
+of	I-Location
+Alaska	I-Location
 ,	O
 refers	O
 to	O
@@ -202,9 +202,9 @@ Guinea	I-Location
 ,	O
 Gabon	B-Location
 and	O
-Central	B-NORP	B-Location
-African	I-NORP	I-Location
-Republic	O	I-Location
+Central	B-Location	B-NORP
+African	I-Location	I-NORP
+Republic	I-Location
 )	O
 and	O
 is	O
@@ -274,8 +274,8 @@ change	O
 And	O
 the	O
 Congo	B-Location	B-Location
-Basin	O	I-Location
-forest	O	I-Location
+Basin	I-Location
+forest	I-Location
 is	O
 one	O
 of	O
@@ -348,10 +348,10 @@ agree	O
 on	O
 the	O
 2030	B-Misc	B-Misc
-Agenda	O	I-Misc
-for	O	I-Misc
-Sustainable	O	I-Misc
-Development	O	I-Misc
+Agenda	I-Misc
+for	I-Misc
+Sustainable	I-Misc
+Development	I-Misc
 ,	O
 including	O
 its	O
@@ -478,7 +478,7 @@ development	O
 model	O
 in	O
 Congo	B-Location	B-Location
-Basin	O	I-Location
+Basin	I-Location
 is	O
 rooted	O
 in	O
@@ -536,7 +536,7 @@ rainforests	O
 of	O
 the	O
 Congo	B-Location	B-Location
-Basin	O	I-Location
+Basin	I-Location
 are	O
 being	O
 eliminated	O
@@ -926,7 +926,7 @@ communities	O
 
 The	O
 Congo	B-Location	B-Location
-Basin	O	I-Location
+Basin	I-Location
 countries	O
 are	O
 not	O
@@ -1163,7 +1163,7 @@ poverty	O
 in	O
 the	O
 Congo	B-Location	B-Location
-Basin	O	I-Location
+Basin	I-Location
 would	O
 involve	O
 effectively	O
@@ -1202,7 +1202,7 @@ forest	O
 issues	O
 in	O
 Congo	B-Location	B-Location
-Basin	O	I-Location
+Basin	I-Location
 to	O
 consider	O
 more	O

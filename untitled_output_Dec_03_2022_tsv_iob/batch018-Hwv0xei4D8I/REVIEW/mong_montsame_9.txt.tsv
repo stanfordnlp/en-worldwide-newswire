@@ -570,12 +570,12 @@ Enkhtur	I-Person
 Professor	O
 of	O
 the	O
-Mongolian	B-NORP	B-Organization
-University	O	I-Organization
-of	O	I-Organization
-Science	O	I-Organization
-and	O	I-Organization
-Technology	O	I-Organization
+Mongolian	B-Organization	B-NORP
+University	I-Organization
+of	I-Organization
+Science	I-Organization
+and	I-Organization
+Technology	I-Organization
 Dr	O
 .	O
 Yu	B-Person

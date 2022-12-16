@@ -432,10 +432,10 @@ Kanangire	I-Person
 the	O
 Executive	O
 Director	O
-African	B-NORP	B-Organization
-Agricultural	O	I-Organization
-Technology	O	I-Organization
-Foundation	O	I-Organization
+African	B-Organization	B-NORP
+Agricultural	I-Organization
+Technology	I-Organization
+Foundation	I-Organization
 (	O
 AATF	B-Organization
 )	O
@@ -693,9 +693,9 @@ latest	O
 estimates	O
 by	O
 the	O
-African	B-NORP	B-Organization
-Development	O	I-Organization
-Bank	O	I-Organization
+African	B-Organization	B-NORP
+Development	I-Organization
+Bank	I-Organization
 indicate	O
 that	O
 African	B-NORP
@@ -798,10 +798,10 @@ Programme	I-Misc
 Evaluation	I-Misc
 at	O
 the	O
-Africa	B-Location	B-Organization
-Union	O	I-Organization
-Development	O	I-Organization
-Agency	O	I-Organization
+Africa	B-Organization	B-Location
+Union	I-Organization
+Development	I-Organization
+Agency	I-Organization
 (	O
 AUDA	B-Organization
 -	I-Organization

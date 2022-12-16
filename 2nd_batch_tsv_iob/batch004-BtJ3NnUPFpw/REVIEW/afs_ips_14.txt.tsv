@@ -65,10 +65,10 @@ in	O
 reaction	O
 to	O
 the	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 to	O
 eradicate	O
 the	O
@@ -177,18 +177,18 @@ the	O
 11	O
 -	O
 page	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 .	O
 
 “	O
 The	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 is	O
 a	O
 comprehensive	O
@@ -207,10 +207,10 @@ said	O
 .	O
 
 The	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 aims	O
 to	O
 :	O
@@ -544,10 +544,10 @@ four	O
 years	O
 .	O
 
-Sierra	B-Location	B-Organization
-Leone	I-Location	I-Organization
-Labour	O	I-Organization
-Congress	O	I-Organization
+Sierra	B-Organization	B-Location
+Leone	I-Organization	I-Location
+Labour	I-Organization
+Congress	I-Organization
 secretary	O
 -	O
 general	O
@@ -643,10 +643,10 @@ plans	O
 to	O
 fulfil	O
 the	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 .	O
 
 “	O
@@ -793,10 +793,10 @@ the	O
 conference	O
 and	O
 the	O
-Durban	B-Location	B-Misc
-Call	O	I-Misc
-to	O	I-Misc
-Action	O	I-Misc
+Durban	B-Misc	B-Location
+Call	I-Misc
+to	I-Misc
+Action	I-Misc
 said	O
 the	O
 focus	O
@@ -947,9 +947,9 @@ was	O
 rescued	O
 by	O
 the	O
-Kailash	B-Person	B-Organization
-Satyarthi	I-Person	I-Organization
-Foundation	O	I-Organization
+Kailash	B-Organization	B-Person
+Satyarthi	I-Organization	I-Person
+Foundation	I-Organization
 ,	O
 said	O
 governments	O

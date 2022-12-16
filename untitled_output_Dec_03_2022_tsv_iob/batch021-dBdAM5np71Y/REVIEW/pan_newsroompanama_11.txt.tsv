@@ -29,8 +29,8 @@ known	O
 as	O
 the	O
 old	O
-Remance	B-Location	B-Facility
-mine	O	I-Facility
+Remance	B-Facility	B-Location
+mine	I-Facility
 ,	O
 in	O
 San	B-Location
@@ -132,8 +132,8 @@ recorded	O
 .	O
 
 The	O
-Remance	B-Location	B-Facility
-mine	O	I-Facility
+Remance	B-Facility	B-Location
+mine	I-Facility
 is	O
 a	O
 concession	O
@@ -232,7 +232,7 @@ in	O
 the	O
 Santa	B-Location	B-Location
 María	I-Location	I-Location
-River	O	I-Location
+River	I-Location
 and	O
 that	O
 supplied	O

@@ -13,9 +13,9 @@ the	O
 operator	O
 of	O
 the	O
-Fukushima	B-Location	B-Facility
-nuclear	O	I-Facility
-plant	O	I-Facility
+Fukushima	B-Facility	B-Location
+nuclear	I-Facility
+plant	I-Facility
 involved	O
 in	O
 the	O
@@ -28,10 +28,10 @@ around	O
 trillion	I-Money
 yen	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-94.8	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+94.8	I-Money
+billion	I-Money
 )	O
 in	O
 damages	O
@@ -46,10 +46,10 @@ ex	O
 -	O
 bosses	O
 of	O
-Tokyo	B-Location	B-Organization
-Electric	O	I-Organization
-Power	O	I-Organization
-Company	O	I-Organization
+Tokyo	B-Organization	B-Location
+Electric	I-Organization
+Power	I-Organization
+Company	I-Organization
 (	O
 Tepco	B-Organization
 )	O
@@ -314,10 +314,10 @@ appeal	O
 Three	O
 of	O
 the	O
-Fukushima	B-Location	B-Facility
-Daiichi	O	I-Facility
-nuclear	O	I-Facility
-plant	O	I-Facility
+Fukushima	B-Facility	B-Location
+Daiichi	I-Facility
+nuclear	I-Facility
+plant	I-Facility
 ’	O
 s	O
 six	O
@@ -385,8 +385,8 @@ of	O
 residents	O
 around	O
 the	O
-Fukushima	B-Location	B-Facility
-plant	O	I-Facility
+Fukushima	B-Facility	B-Location
+plant	I-Facility
 were	O
 ordered	O
 to	O

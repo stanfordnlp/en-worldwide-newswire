@@ -167,8 +167,8 @@ Mr	O
 Pocock	B-Person
 hoping	O
 the	O
-Albanese	B-Person	B-Organization
-government	O	I-Organization
+Albanese	B-Organization	B-Person
+government	I-Organization
 will	O
 consider	O
 forgiving	O
@@ -942,8 +942,8 @@ tried	O
 to	O
 repeal	O
 the	O
-Andrews	B-Person	B-Misc
-Bill	O	I-Misc
+Andrews	B-Misc	B-Person
+Bill	I-Misc
 ,	O
 but	O
 I	O

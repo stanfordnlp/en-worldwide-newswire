@@ -76,8 +76,8 @@ recent	O
 interview	O
 with	O
 The	O
-Seoul	B-Location	B-Organization
-Times	O	I-Organization
+Seoul	B-Organization	B-Location
+Times	I-Organization
 .	O
 Here	O
 are	O
@@ -161,8 +161,8 @@ a	O
 long	O
 distance	O
 .	O
-TechNovator	B-Organization	B-Product
-XE	O	I-Product
+TechNovator	B-Product	B-Organization
+XE	I-Product
 is	O
 the	O
 only	O
@@ -531,8 +531,8 @@ the	O
 structures	O
 necessary	O
 for	O
-TechNovator	B-Organization	B-Product
-XE	O	I-Product
+TechNovator	B-Product	B-Organization
+XE	I-Product
 development	O
 are	O
 manufactured	O

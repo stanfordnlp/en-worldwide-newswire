@@ -24,15 +24,15 @@ joint	O
 news	O
 conference	O
 with	O
-Czech	B-Location	B-Organization
-Senate	O	I-Organization
+Czech	B-Organization	B-Location
+Senate	I-Organization
 President	O
 Milos	B-Person
 Vystrcil	I-Person
 ,	O
 the	O
-Czech	B-Location	B-Organization
-Senate	O	I-Organization
+Czech	B-Organization	B-Location
+Senate	I-Organization
 said	O
 yesterday	O
 .	O
@@ -63,8 +63,8 @@ to	O
 Thursday	B-Misc
 ,	O
 the	O
-Czech	B-Location	B-Organization
-Senate	O	I-Organization
+Czech	B-Organization	B-Location
+Senate	I-Organization
 said	O
 .	O
 
@@ -191,8 +191,8 @@ with	O
 Vystrcil	B-Person
 ,	O
 three	O
-Czech	B-Location	B-Organization
-Senate	O	I-Organization
+Czech	B-Organization	B-Location
+Senate	I-Organization
 vice	O
 presidents	O
 and	O
@@ -201,8 +201,8 @@ senate	O
 officials	O
 ,	O
 the	O
-Czech	B-Location	B-Organization
-Senate	O	I-Organization
+Czech	B-Organization	B-Location
+Senate	I-Organization
 said	O
 .	O
 
@@ -227,8 +227,8 @@ their	O
 respects	O
 to	O
 former	O
-Czech	B-Location	B-Organization
-Senate	O	I-Organization
+Czech	B-Organization	B-Location
+Senate	I-Organization
 president	O
 Jaroslav	B-Person
 Kubera	I-Person
@@ -278,8 +278,8 @@ report	O
 by	O
 public	O
 broadcaster	O
-Czech	B-Location	B-Organization
-Television	O	I-Organization
+Czech	B-Organization	B-Location
+Television	I-Organization
 ,	O
 his	O
 family	O
@@ -345,9 +345,9 @@ are	O
 from	O
 the	O
 ruling	O
-Democratic	B-NORP	B-Organization
-Progressive	O	I-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Progressive	I-Organization
+Party	I-Organization
 and	O
 the	O
 opposition	O

@@ -180,10 +180,10 @@ m	I-Money
 deal	O
 for	O
 the	O
-Democratic	B-NORP	B-Location
-Republic	O	I-Location
-of	O	I-Location
-Congo	O	I-Location
+Democratic	B-Location	B-NORP
+Republic	I-Location
+of	I-Location
+Congo	I-Location
 [	O
 DRC	B-Location
 ]	O
@@ -392,9 +392,9 @@ to	O
 denials	O
 by	O
 the	O
-Congolese	B-NORP	B-Organization
-Oil	O	I-Organization
-Ministry	O	I-Organization
+Congolese	B-Organization	B-NORP
+Oil	I-Organization
+Ministry	I-Organization
 )	O
 .	O
 
@@ -423,10 +423,10 @@ National	I-Location
 Park	I-Location
 ,	O
 a	O
-UNESCO	B-Organization	B-Misc
-World	O	I-Misc
-Heritage	O	I-Misc
-Site	O	I-Misc
+UNESCO	B-Misc	B-Organization
+World	I-Misc
+Heritage	I-Misc
+Site	I-Misc
 made	O
 famous	O
 thanks	O
@@ -676,10 +676,10 @@ are	O
 part	O
 of	O
 the	O
-Central	B-NORP	B-Misc
-African	I-NORP	I-Misc
-Forest	O	I-Misc
-Initiative	O	I-Misc
+Central	B-Misc	B-NORP
+African	I-Misc	I-NORP
+Forest	I-Misc
+Initiative	I-Misc
 that	O
 is	O
 paying	O
@@ -821,8 +821,8 @@ donor	O
 countries	O
 like	O
 the	O
-UK	B-Location	B-Organization
-government	O	I-Organization
+UK	B-Organization	B-Location
+government	I-Organization
 ,	O
 as	O
 host	O

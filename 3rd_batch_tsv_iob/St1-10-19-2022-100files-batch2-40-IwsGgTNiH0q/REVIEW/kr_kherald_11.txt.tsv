@@ -99,11 +99,11 @@ respectively	O
 .	O
 
 The	O
-Seoul	B-Location	B-Organization
-Central	O	I-Organization
-District	O	I-Organization
-Prosecutors	O	I-Organization
-Office	O	I-Organization
+Seoul	B-Organization	B-Location
+Central	I-Organization
+District	I-Organization
+Prosecutors	I-Organization
+Office	I-Organization
 said	O
 it	O
 banned	O

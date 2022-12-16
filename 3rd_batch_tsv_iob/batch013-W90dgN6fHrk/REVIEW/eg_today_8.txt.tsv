@@ -137,10 +137,10 @@ it	O
 
 Jaber	B-Person
 said	O
-Abu	B-Location	B-Organization
-Dhabi	I-Location	I-Organization
-Holding	O	I-Organization
-Company	O	I-Organization
+Abu	B-Organization	B-Location
+Dhabi	I-Organization	I-Location
+Holding	I-Organization
+Company	I-Organization
 allocated	O
 $	B-Money
 10	I-Money

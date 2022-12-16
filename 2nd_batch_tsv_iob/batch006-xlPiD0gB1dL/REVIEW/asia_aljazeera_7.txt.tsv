@@ -128,9 +128,9 @@ blue	O
 and	O
 -	O
 gold	O
-Al	B-Location	B-Facility
-Alam	I-Location	I-Facility
-palace	O	I-Facility
+Al	B-Facility	B-Location
+Alam	I-Facility	I-Location
+palace	I-Facility
 for	O
 the	O
 Sultan	O
@@ -152,9 +152,9 @@ billion	I-Money
 according	O
 to	O
 the	O
-Bloomberg	B-Organization	B-Misc
-Billionaires	O	I-Misc
-Index	O	I-Misc
+Bloomberg	B-Misc	B-Organization
+Billionaires	I-Misc
+Index	I-Misc
 ,	O
 making	O
 him	O
@@ -723,10 +723,10 @@ known	O
 for	O
 building	O
 the	O
-Mumbai	B-Location	B-Facility
-World	O	I-Facility
-Trade	O	I-Facility
-Centre	O	I-Facility
+Mumbai	B-Facility	B-Location
+World	I-Facility
+Trade	I-Facility
+Centre	I-Facility
 in	O
 1970	B-Misc
 and	O
@@ -796,8 +796,8 @@ went	O
 on	O
 to	O
 breed	O
-Indian	B-NORP	B-Misc
-Derby	O	I-Misc
+Indian	B-Misc	B-NORP
+Derby	I-Misc
 winning	O
 stallions	O
 ,	O

@@ -1,12 +1,12 @@
 https://www.haaretz.com/israel-news/2022-07-28/ty-article/.premium/israeli-university-summons-student-for-supporting-terrorism-over-mahmoud-darwish-quote/00000182-4379-d2c9-a597-db7d78170000	O
 
-Ben	B-Person	B-Organization
--	I-Person	I-Organization
-Gurion	I-Person	I-Organization
-University	O	I-Organization
-of	O	I-Organization
-the	O	I-Organization
-Negev	O	I-Organization
+Ben	B-Organization	B-Person
+-	I-Organization	I-Person
+Gurion	I-Organization	I-Person
+University	I-Organization
+of	I-Organization
+the	I-Organization
+Negev	I-Organization
 summoned	O
 Watan	B-Person
 Madi	I-Person
@@ -608,10 +608,10 @@ absurd	O
 .	O
 "	O
 
-Ben	B-Person	B-Organization
--	I-Person	I-Organization
-Gurion	I-Person	I-Organization
-University	O	I-Organization
+Ben	B-Organization	B-Person
+-	I-Organization	I-Person
+Gurion	I-Organization	I-Person
+University	I-Organization
 stated	O
 that	O
 "	O

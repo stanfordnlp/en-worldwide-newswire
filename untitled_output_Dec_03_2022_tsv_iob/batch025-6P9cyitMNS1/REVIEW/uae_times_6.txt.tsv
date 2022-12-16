@@ -136,11 +136,11 @@ aiming	O
 to	O
 achieve	O
 the	O
-UAE	B-Location	B-Misc
-Net	O	I-Misc
-Zero	O	I-Misc
-2050	O	I-Misc
-strategy	O	I-Misc
+UAE	B-Misc	B-Location
+Net	I-Misc
+Zero	I-Misc
+2050	I-Misc
+strategy	I-Misc
 .	O
 
 Dr	O
@@ -322,10 +322,10 @@ the	O
 goals	O
 of	O
 the	O
-UAE	B-Location	B-Misc
-2050	O	I-Misc
-environment	O	I-Misc
-strategy	O	I-Misc
+UAE	B-Misc	B-Location
+2050	I-Misc
+environment	I-Misc
+strategy	I-Misc
 .	O
 
 Dr	O

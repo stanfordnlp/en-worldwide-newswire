@@ -710,8 +710,8 @@ it	O
 .	O
 
 The	O
-Paris	B-Location	B-Misc
-Wheel	O	I-Misc
+Paris	B-Misc	B-Location
+Wheel	I-Misc
 of	O
 disappointment	O
 and	O

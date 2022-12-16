@@ -46,9 +46,9 @@ autobiography	O
 revealed	O
 that	O
 the	O
-Democratic	B-NORP	B-Organization
-Progressive	O	I-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Progressive	I-Organization
+Party	I-Organization
 (	O
 DPP	B-Organization
 )	O
@@ -75,9 +75,9 @@ Terror	I-Misc
 era	O
 .	O
 
-Chinese	B-NORP	B-Organization
-Nationalist	O	I-Organization	B-NORP
-Party	O	I-Organization
+Chinese	B-Organization	B-NORP
+Nationalist	I-Organization	B-NORP
+Party	I-Organization
 (	O
 KMT	B-Organization
 )	O
@@ -703,8 +703,8 @@ the	O
 quagmire	O
 of	O
 the	O
-Taipei	B-Location	B-Facility
-Dome	O	I-Facility
+Taipei	B-Facility	B-Location
+Dome	I-Facility
 ,	O
 traffic	O
 jams	O

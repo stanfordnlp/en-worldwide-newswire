@@ -82,9 +82,9 @@ solar	O
 power	O
 plant	O
 at	O
-Rosh	B-Location	B-Facility
-Pinah	I-Location	I-Facility
-mine	O	I-Facility
+Rosh	B-Facility	B-Location
+Pinah	I-Facility	I-Location
+mine	I-Facility
 .	O
 
 “	O

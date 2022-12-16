@@ -102,10 +102,10 @@ list	O
 MP	O
 from	O
 the	O
-Thai	B-NORP	B-Organization
-Rak	O	I-Organization
-Tham	O	I-Organization
-Party	O	I-Organization
+Thai	B-Organization	B-NORP
+Rak	I-Organization
+Tham	I-Organization
+Party	I-Organization
 ,	O
 a	O
 member	O

@@ -64,9 +64,9 @@ International	I-Facility
 Airport	I-Facility
 and	O
 the	O
-Hajj	B-Misc	B-Location
-Land	O	I-Location
-Center	O	I-Location
+Hajj	B-Location	B-Misc
+Land	I-Location
+Center	I-Location
 .	O
 
 Statistics	O

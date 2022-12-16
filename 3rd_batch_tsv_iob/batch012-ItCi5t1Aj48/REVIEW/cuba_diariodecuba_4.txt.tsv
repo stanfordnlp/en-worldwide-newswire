@@ -800,10 +800,10 @@ Family	O
 section	O
 of	O
 the	O
-Santa	B-Location	B-Organization
-Clara	I-Location	I-Organization
-Municipal	O	I-Organization
-Court	O	I-Organization
+Santa	B-Organization	B-Location
+Clara	I-Organization	I-Location
+Municipal	I-Organization
+Court	I-Organization
 ,	O
 believes	O
 that	O
@@ -1025,8 +1025,8 @@ direct	O
 instructions	O
 from	O
 the	O
-Cuban	B-NORP	B-Location
-State	O	I-Location
+Cuban	B-Location	B-NORP
+State	I-Location
 and	O
 ,	O
 therefore	O
@@ -1035,10 +1035,10 @@ from	O
 the	O
 Party	O
 (	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
-of	O	I-Organization
-Cuba	O	I-Organization	B-Location
+Communist	B-Organization	B-NORP
+Party	I-Organization
+of	I-Organization
+Cuba	I-Organization	B-Location
 )	O
 ,	O
 because	O

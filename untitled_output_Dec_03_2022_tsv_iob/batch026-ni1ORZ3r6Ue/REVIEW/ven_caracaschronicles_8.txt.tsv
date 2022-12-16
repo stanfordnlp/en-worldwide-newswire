@@ -154,9 +154,9 @@ when	O
 the	O
 events	O
 of	O
-La	B-Location	B-Misc
-Vega	I-Location	I-Misc
-massacre	O	I-Misc
+La	B-Misc	B-Location
+Vega	I-Misc	I-Location
+massacre	I-Misc
 ,	O
 where	O
 her	O
@@ -774,8 +774,8 @@ were	O
 murdered	O
 by	O
 the	O
-Venezuelan	B-NORP	B-Organization
-State	O	I-Organization
+Venezuelan	B-Organization	B-NORP
+State	I-Organization
 with	O
 a	O
 modus	O
@@ -1795,7 +1795,7 @@ we	O
 ’	O
 re	O
 Alfavic	B-Organization	B-Organization
-Venezuela	O	I-Organization	B-Location
+Venezuela	I-Organization	B-Location
 and	O
 not	O
 Alfavic	B-Organization
@@ -2546,8 +2546,8 @@ also	O
 the	O
 initials	O
 for	O
-Palestine	B-NORP	B-Organization
-liberation	O	I-Organization
+Palestine	B-Organization	B-NORP
+liberation	I-Organization
 ,	O
 so	O
 for	O

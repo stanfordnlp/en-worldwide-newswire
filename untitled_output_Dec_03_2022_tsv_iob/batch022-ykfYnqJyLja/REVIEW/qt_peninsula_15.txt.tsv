@@ -108,8 +108,8 @@ me	O
 to	O
 head	O
 the	O
-French	B-NORP	B-Organization
-Embassy	O	I-Organization
+French	B-Organization	B-NORP
+Embassy	I-Organization
 in	O
 Qatar	B-Location
 ,	O
@@ -496,9 +496,9 @@ success	O
 of	O
 the	O
 2022	B-Misc	B-Misc
-FIFA	O	I-Misc	B-Organization
-World	O	I-Misc
-Cup	O	I-Misc
+FIFA	I-Misc	B-Organization
+World	I-Misc
+Cup	I-Misc
 .	O
 “	O
 On	O
@@ -521,14 +521,14 @@ events	O
 since	O
 the	O
 2006	B-Misc	B-Misc
-Asian	O	I-Misc	B-NORP
-Games	O	I-Misc
+Asian	I-Misc	B-NORP
+Games	I-Misc
 .	O
 During	O
 2022	B-Misc	B-Misc
-FIFA	O	I-Misc	B-Organization
-World	O	I-Misc
-Cup	O	I-Misc
+FIFA	I-Misc	B-Organization
+World	I-Misc
+Cup	I-Misc
 the	O
 French	B-NORP
 police	O
@@ -827,25 +827,25 @@ place	O
 :	O
 one	O
 between	O
-Paris	B-Location	B-Organization
-I	O	I-Organization
-–	O	I-Organization
-Panthéon	O	I-Organization
-Sorbonne	O	I-Organization
+Paris	B-Organization	B-Location
+I	I-Organization
+–	I-Organization
+Panthéon	I-Organization
+Sorbonne	I-Organization
 and	O
-Lusail	B-Location	B-Organization
-University	O	I-Organization
+Lusail	B-Organization	B-Location
+University	I-Organization
 ,	O
 and	O
 the	O
 other	O
 between	O
-Bretagne	B-Location	B-Organization
-Sud	I-Location	I-Organization
-University	O	I-Organization
+Bretagne	B-Organization	B-Location
+Sud	I-Organization	I-Location
+University	I-Organization
 and	O
-Qatar	B-Location	B-Organization
-University	O	I-Organization
+Qatar	B-Organization	B-Location
+University	I-Organization
 in	O
 the	O
 field	O
@@ -867,7 +867,7 @@ lasting	O
 partnerships	O
 with	O
 Qatar	B-Location	B-Location
-Museum	O	I-Location
+Museum	I-Location
 .	O
 Teams	O
 of	O

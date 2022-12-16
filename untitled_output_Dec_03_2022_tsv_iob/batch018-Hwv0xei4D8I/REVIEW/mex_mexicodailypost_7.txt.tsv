@@ -62,12 +62,12 @@ Jáquez	I-Person
 president	O
 of	O
 the	O
-Mexican	B-NORP	B-Organization
-Association	O	I-Organization
-of	O	I-Organization
-Real	O	I-Organization
-Estate	O	I-Organization
-Professionals	O	I-Organization
+Mexican	B-Organization	B-NORP
+Association	I-Organization
+of	I-Organization
+Real	I-Organization
+Estate	I-Organization
+Professionals	I-Organization
 (	O
 AMPI	B-Organization
 )	O

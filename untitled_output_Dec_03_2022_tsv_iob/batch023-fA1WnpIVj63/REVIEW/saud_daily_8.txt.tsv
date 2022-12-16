@@ -94,10 +94,10 @@ the	O
 new	O
 service	O
 ,	O
-Bahri	B-Organization	B-Product
-Abha	O	I-Product
-RoCon	O	I-Product
-vessel	O	I-Product
+Bahri	B-Product	B-Organization
+Abha	I-Product
+RoCon	I-Product
+vessel	I-Product
 (	O
 IMO	O
 :	O

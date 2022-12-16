@@ -248,9 +248,9 @@ aerotropolis	O
 ,	O
 '	O
 the	O
-Wall	B-Location	B-Organization
-Street	I-Location	I-Organization
-Journal	O	I-Organization
+Wall	B-Organization	B-Location
+Street	I-Organization	I-Location
+Journal	I-Organization
 reported	O
 .	O
 
@@ -357,9 +357,9 @@ buildings	O
 according	O
 to	O
 the	O
-Wall	B-Location	B-Organization
-Street	I-Location	I-Organization
-Journal	O	I-Organization
+Wall	B-Organization	B-Location
+Street	I-Organization	I-Location
+Journal	I-Organization
 .	O
 It	O
 will	O
@@ -503,9 +503,9 @@ wealth	O
 according	O
 to	O
 the	O
-Wall	B-Location	B-Organization
-Street	I-Location	I-Organization
-Journal	O	I-Organization
+Wall	B-Organization	B-Location
+Street	I-Organization	I-Location
+Journal	I-Organization
 .	O
 
 However	O
@@ -657,9 +657,9 @@ US	B-Location
 according	O
 to	O
 the	O
-Wall	B-Location	B-Organization
-Street	I-Location	I-Organization
-Journal	O	I-Organization
+Wall	B-Organization	B-Location
+Street	I-Organization	I-Location
+Journal	I-Organization
 .	O
 
 High	O
@@ -689,9 +689,9 @@ expensive	O
 project	O
 ,	O
 the	O
-Wall	B-Location	B-Organization
-Street	I-Location	I-Organization
-Journal	O	I-Organization
+Wall	B-Organization	B-Location
+Street	I-Organization	I-Location
+Journal	I-Organization
 said	O
 .	O
 

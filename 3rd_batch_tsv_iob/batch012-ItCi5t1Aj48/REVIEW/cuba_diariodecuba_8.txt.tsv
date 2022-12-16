@@ -194,8 +194,8 @@ E	I-Person
 .	I-Person
 Stoner	I-Person
 ,	O
-Russia	B-Location	B-Misc
-Resurrected	O	I-Misc
+Russia	B-Misc	B-Location
+Resurrected	I-Misc
 :	O
 Its	O
 Power	B-Misc
@@ -207,9 +207,9 @@ New	B-Misc
 Global	I-Misc
 Order	I-Misc
 ,	O
-Oxford	B-Location	B-Organization
-University	O	I-Organization
-Press	O	I-Organization
+Oxford	B-Organization	B-Location
+University	I-Organization
+Press	I-Organization
 ,	O
 2021	B-Misc
 )	O

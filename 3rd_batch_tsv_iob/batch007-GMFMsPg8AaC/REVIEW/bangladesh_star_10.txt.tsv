@@ -34,8 +34,8 @@ ex	O
 -	O
 member	O
 of	O
-Ghasigram	B-Location	B-Organization
-UP	O	I-Organization
+Ghasigram	B-Organization	B-Location
+UP	I-Organization
 ,	O
 told	O
 a	O
@@ -141,9 +141,9 @@ July	B-Misc
 she	O
 went	O
 to	O
-Mohonpur	B-Location	B-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Mohonpur	B-Facility	B-Location
+Police	I-Facility
+Station	I-Facility
 with	O
 a	O
 neighbour	O
@@ -396,9 +396,9 @@ Islam	I-Person
 ,	O
 OC	O
 of	O
-Mohonpur	B-Location	B-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Mohonpur	B-Facility	B-Location
+Police	I-Facility
+Station	I-Facility
 ,	O
 denied	O
 the	O

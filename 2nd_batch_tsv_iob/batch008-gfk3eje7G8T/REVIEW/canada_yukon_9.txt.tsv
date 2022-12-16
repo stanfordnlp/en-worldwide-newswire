@@ -284,11 +284,11 @@ executive	O
 director	O
 for	O
 the	O
-Yukon	B-Location	B-Organization
-First	O	I-Organization	B-NORP
-Nations	O	I-Organization	I-NORP
-Education	O	I-Organization
-Directorate	O	I-Organization
+Yukon	B-Organization	B-Location
+First	I-Organization	B-NORP
+Nations	I-Organization	I-NORP
+Education	I-Organization
+Directorate	I-Organization
 ,	O
 an	O
 independent	O

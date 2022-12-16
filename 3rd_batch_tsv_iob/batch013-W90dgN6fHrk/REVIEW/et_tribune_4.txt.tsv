@@ -266,9 +266,9 @@ were	O
 veterans	O
 of	O
 the	O
-American	B-NORP	B-Misc
-Civil	O	I-Misc
-War	O	I-Misc
+American	B-Misc	B-NORP
+Civil	I-Misc
+War	I-Misc
 ,	O
 divided	O
 about	O

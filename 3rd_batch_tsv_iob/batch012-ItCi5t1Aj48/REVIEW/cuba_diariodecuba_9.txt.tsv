@@ -524,9 +524,9 @@ scourge	O
 Thus	O
 ,	O
 though	O
-Cuba	B-Location	B-Organization
-'s	O	I-Organization
-TSP	O	I-Organization
+Cuba	B-Organization	B-Location
+'s	I-Organization
+TSP	I-Organization
 is	O
 ,	O
 supposedly	O
@@ -641,8 +641,8 @@ in	O
 Therefore	O
 ,	O
 the	O
-Cuban	B-NORP	B-Organization
-Government	O	I-Organization
+Cuban	B-Organization	B-NORP
+Government	I-Organization
 can	O
 now	O
 show	O
@@ -863,8 +863,8 @@ children	O
 for	O
 whom	O
 the	O
-Cuban	B-NORP	B-Organization
-Government	O	I-Organization
+Cuban	B-Organization	B-NORP
+Government	I-Organization
 prioritizes	O
 a	O
 housing	O

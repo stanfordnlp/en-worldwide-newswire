@@ -94,10 +94,10 @@ after	O
 the	O
 overturn	O
 of	O
-Roe	B-Person	B-Misc
-v	O	I-Misc
-.	O	I-Misc
-Wade	O	I-Misc	B-Person
+Roe	B-Misc	B-Person
+v	I-Misc
+.	I-Misc
+Wade	I-Misc	B-Person
 .	O
 One	O
 U	B-Location

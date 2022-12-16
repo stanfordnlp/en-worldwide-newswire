@@ -356,13 +356,13 @@ announcement	O
 opened	O
 the	O
 2022	B-Misc
-St	B-Organization	B-Misc
-.	I-Organization	I-Misc
-Mikes	I-Organization	I-Misc	B-Person
-Indian	I-Organization	I-Misc	B-NORP
-Residential	I-Organization	I-Misc
-School	I-Organization	I-Misc
-Gathering	O	I-Misc
+St	B-Misc	B-Organization
+.	I-Misc	I-Organization
+Mikes	I-Misc	I-Organization	B-Person
+Indian	I-Misc	I-Organization	B-NORP
+Residential	I-Misc	I-Organization
+School	I-Misc	I-Organization
+Gathering	I-Misc
 ,	O
 an	O
 annual	O

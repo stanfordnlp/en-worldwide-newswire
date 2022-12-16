@@ -666,10 +666,10 @@ We	O
 saw	O
 gazelle	O
 ,	O
-Swayne	B-Person	B-Misc
-’	O	I-Misc
-s	O	I-Misc
-Hartebeest	O	I-Misc
+Swayne	B-Misc	B-Person
+’	I-Misc
+s	I-Misc
+Hartebeest	I-Misc
 ,	O
 lots	O
 of	O

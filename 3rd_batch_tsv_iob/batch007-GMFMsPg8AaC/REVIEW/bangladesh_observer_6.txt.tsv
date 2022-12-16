@@ -8,16 +8,16 @@ Maersk	B-Organization
 Nesna	O
 left	O
 the	O
-Mongla	B-Location	B-Facility
-Port	O	I-Facility
+Mongla	B-Facility	B-Location
+Port	I-Facility
 in	O
 Bagerhat	B-Location
 for	O
 Poland	B-Location
 with	O
-Bangladeshi	B-NORP	B-Misc
-readymade	O	I-Misc
-garment	O	I-Misc
+Bangladeshi	B-Misc	B-NORP
+readymade	I-Misc
+garment	I-Misc
 (	O
 RMG	B-Misc
 )	O
@@ -90,8 +90,8 @@ export	O
 RMG	B-Organization
 products	O
 through	O
-Chattogram	B-Location	B-Facility
-Port	O	I-Facility
+Chattogram	B-Facility	B-Location
+Port	I-Facility
 and	O
 air	O
 cargo	O
@@ -104,8 +104,8 @@ the	O
 capital	O
 Dhaka	B-Location
 to	O
-Mongla	B-Location	B-Facility
-Port	O	I-Facility
+Mongla	B-Facility	B-Location
+Port	I-Facility
 has	O
 reduced	O
 after	O
@@ -113,15 +113,15 @@ the	O
 opening	O
 of	O
 the	O
-Padma	B-Location	B-Facility
-Bridge	O	I-Facility
+Padma	B-Facility	B-Location
+Bridge	I-Facility
 ,	O
 traders	O
 now	O
 are	O
 choosing	O
-Mongla	B-Location	B-Facility
-Port	O	I-Facility
+Mongla	B-Facility	B-Location
+Port	I-Facility
 as	O
 an	O
 option	O
@@ -131,24 +131,24 @@ export	O
 
 According	O
 to	O
-Mongla	B-Location	B-Facility	B-Organization
-Port	O	I-Facility	I-Organization
-Authority	O	O	I-Organization
+Mongla	B-Organization	B-Facility	B-Location
+Port	I-Organization	I-Facility
+Authority	I-Organization
 ,	O
 the	O
 present	O
 distance	O
 from	O
-Mongla	B-Location	B-Facility
-Port	O	I-Facility
+Mongla	B-Facility	B-Location
+Port	I-Facility
 to	O
 Dhaka	B-Location
 is	O
 170	O
 kilometres	O
 and	O
-Chattogram	B-Location	B-Facility
-Port	O	I-Facility
+Chattogram	B-Facility	B-Location
+Port	I-Facility
 to	O
 Dhaka	B-Location
 is	O
@@ -162,8 +162,8 @@ their	O
 interest	O
 to	O
 use	O
-Mongla	B-Location	B-Facility
-Port	O	I-Facility
+Mongla	B-Facility	B-Location
+Port	I-Facility
 for	O
 its	O
 short	O
@@ -178,8 +178,8 @@ cargo	O
 handling	O
 .	O
 
-Mongla	B-Location	B-Facility
-Port	O	I-Facility
+Mongla	B-Facility	B-Location
+Port	I-Facility
 will	O
 save	O
 time	O
@@ -279,9 +279,9 @@ it	O
 memorable	O
 day	O
 ,	O
-Mongla	B-Location	B-Facility	B-Organization
-Port	O	I-Facility	I-Organization
-Authority	O	O	I-Organization
+Mongla	B-Organization	B-Facility	B-Location
+Port	I-Organization	I-Facility
+Authority	I-Organization
 Chairman	O
 Rear	O
 Admiral	O
@@ -294,8 +294,8 @@ of	O
 RMG	B-Organization
 items	O
 through	O
-Mongla	B-Location	B-Facility
-Port	O	I-Facility
+Mongla	B-Facility	B-Location
+Port	I-Facility
 will	O
 increased	O
 in	O
@@ -303,10 +303,10 @@ the	O
 future	O
 .	O
 
-Bagerhat	B-Location	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Commerce	O	I-Organization
+Bagerhat	B-Organization	B-Location
+Chamber	I-Organization
+of	I-Organization
+Commerce	I-Organization
 and	O
 Industry	O
 President	O
@@ -321,12 +321,12 @@ will	O
 increase	O
 through	O
 the	O
-Mongla	B-Location	B-Facility
-Port	O	I-Facility
+Mongla	B-Facility	B-Location
+Port	I-Facility
 thanks	O
 to	O
 the	O
-Padma	B-Location	B-Facility
-Bridge	O	I-Facility
+Padma	B-Facility	B-Location
+Bridge	I-Facility
 .	O
 

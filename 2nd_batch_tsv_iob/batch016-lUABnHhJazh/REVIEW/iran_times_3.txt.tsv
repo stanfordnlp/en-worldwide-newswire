@@ -487,8 +487,8 @@ this	O
 month	O
 when	O
 the	O
-Iranian	B-NORP	B-Organization
-Army	O	I-Organization
+Iranian	B-Organization	B-NORP
+Army	I-Organization
 ’	O
 s	O
 navy	O

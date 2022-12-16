@@ -294,10 +294,10 @@ for	O
 adoption	O
 at	O
 the	O
-United	B-Organization	B-Misc
-Nations	I-Organization	I-Misc
-Biodiversity	O	I-Misc
-Conference	O	I-Misc
+United	B-Misc	B-Organization
+Nations	I-Misc	I-Organization
+Biodiversity	I-Misc
+Conference	I-Misc
 ,	O
 which	O
 includes	O

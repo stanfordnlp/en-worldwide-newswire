@@ -25,8 +25,8 @@ destroyer	O
 sailed	O
 through	O
 the	O
-Taiwan	B-NORP	B-Location
-Strait	O	I-Location
+Taiwan	B-Location	B-NORP
+Strait	I-Location
 on	O
 Tuesday	B-Misc
 .	O
@@ -79,8 +79,8 @@ waters	O
 ,	O
 including	O
 the	O
-Taiwan	B-NORP	B-Location
-Strait	O	I-Location
+Taiwan	B-Location	B-NORP
+Strait	I-Location
 ,	O
 has	O
 criticised	O
@@ -184,9 +184,9 @@ state	O
 ,	O
 ”	O
 the	O
-US	B-Location	B-Organization
-Seventh	O	I-Organization
-Fleet	O	I-Organization
+US	B-Organization	B-Location
+Seventh	I-Organization
+Fleet	I-Organization
 said	O
 in	O
 a	O
@@ -203,8 +203,8 @@ s	O
 transit	O
 through	O
 the	O
-Taiwan	B-NORP	B-Location
-Strait	O	I-Location
+Taiwan	B-Location	B-NORP
+Strait	I-Location
 demonstrates	O
 the	O
 United	B-Location
@@ -216,15 +216,15 @@ a	O
 free	O
 and	O
 open	O
-Indo	B-NORP	B-Location
--	O	I-Location
-Pacific	O	I-Location
+Indo	B-Location	B-NORP
+-	I-Location
+Pacific	I-Location
 .	O
 ”	O
 
 The	O
-US	B-Location	B-Organization
-Navy	O	I-Organization
+US	B-Organization	B-Location
+Navy	I-Organization
 routinely	O
 travels	O
 to	O
@@ -529,9 +529,9 @@ potential	O
 trip	O
 and	O
 the	O
-US	B-Location	B-Organization
-State	O	I-Organization
-Department	O	I-Organization
+US	B-Organization	B-Location
+State	I-Organization
+Department	I-Organization
 approved	O
 an	O
 arms	O
@@ -542,10 +542,10 @@ island	O
 worth	O
 an	O
 estimated	O
-US	B-Location	B-Money
-$	O	I-Money
-108	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+108	I-Money
+million	I-Money
 .	O
 
 Shi	B-Person
@@ -749,7 +749,7 @@ like	O
 the	O
 1995-96	B-Misc
 Taiwan	B-Location	B-Location
-Strait	O	I-Location
+Strait	I-Location
 crisis	O
 ,	O
 when	O

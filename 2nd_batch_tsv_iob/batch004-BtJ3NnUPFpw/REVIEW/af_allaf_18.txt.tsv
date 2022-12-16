@@ -495,8 +495,8 @@ of	I-Organization
 Somalia	I-Organization	B-Location
 ,	O
 the	O
-African	B-NORP	B-Organization
-Union	O	I-Organization
+African	B-Organization	B-NORP
+Union	I-Organization
 ,	O
 the	O
 United	B-Organization

@@ -33,8 +33,8 @@ U	B-Location
 S	I-Location
 .	I-Location
 -	O
-Israeli	B-NORP	B-Organization
-military	O	I-Organization
+Israeli	B-Organization	B-NORP
+military	I-Organization
 confrontation	O
 with	O
 Iran	B-Location
@@ -89,8 +89,8 @@ region	O
 Inlakesh	B-Person
 tells	O
 the	O
-Tehran	B-Location	B-Organization
-Times	O	I-Organization
+Tehran	B-Organization	B-Location
+Times	I-Organization
 .	O
 
 The	O
@@ -359,8 +359,8 @@ forces	O
 ,	O
 as	O
 the	O
-Zionist	B-NORP	B-Organization
-regime	O	I-Organization
+Zionist	B-Organization	B-NORP
+regime	I-Organization
 prepares	O
 itself	O
 for	O
@@ -441,8 +441,8 @@ rotting	O
 minds	O
 of	O
 the	O
-Palestinian	B-NORP	B-Organization
-Authority	O	I-Organization
+Palestinian	B-Organization	B-NORP
+Authority	I-Organization
 (	O
 PA	B-Organization
 )	O
@@ -617,8 +617,8 @@ Accords	I-Misc
 is	O
 if	O
 the	O
-Palestinian	B-NORP	B-Organization
-Authority	O	I-Organization
+Palestinian	B-Organization	B-NORP
+Authority	I-Organization
 has	O
 political	O
 leverage	O
@@ -1232,8 +1232,8 @@ demonstrates	O
 is	O
 that	O
 the	O
-Arab	B-NORP	B-Organization
-regimes	O	I-Organization
+Arab	B-Organization	B-NORP
+regimes	I-Organization
 ,	O
 specifically	O
 the	O
@@ -1251,8 +1251,8 @@ U	B-Location
 S	I-Location
 .	I-Location
 -	O
-Israeli	B-NORP	B-Organization
-military	O	I-Organization
+Israeli	B-Organization	B-NORP
+military	I-Organization
 confrontation	O
 with	O
 Iran	B-Location
@@ -1325,8 +1325,8 @@ so	O
 -	O
 called	O
 "	O
-Jerusalem	B-Location	B-Misc
-Declaration''	O	I-Misc
+Jerusalem	B-Misc	B-Location
+Declaration''	I-Misc
 ,	O
 signed	O
 between	O
@@ -1561,8 +1561,8 @@ conflict	O
 A	O
 :	O
 The	O
-Obama	B-Person	B-Organization
-administration	O	I-Organization
+Obama	B-Organization	B-Person
+administration	I-Organization
 did	O
 not	O
 seem	O
@@ -1631,8 +1631,8 @@ Netanyahu	I-Person
 ,	O
 and	O
 the	O
-Democratic	B-NORP	B-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Party	I-Organization
 ,	O
 this	O
 occurred	O
@@ -1693,8 +1693,8 @@ little	O
 even	O
 for	O
 the	O
-Palestinian	B-NORP	B-Organization
-Authority	O	I-Organization
+Palestinian	B-Organization	B-NORP
+Authority	I-Organization
 ,	O
 even	O
 attempting	O
@@ -1703,8 +1703,8 @@ destroy	O
 it	O
 .	O
 The	O
-Biden	B-Person	B-Organization
-administration	O	I-Organization
+Biden	B-Organization	B-Person
+administration	I-Organization
 now	O
 pursues	O
 an	O
@@ -1749,8 +1749,8 @@ policy	O
 positions	O
 that	O
 the	O
-Obama	B-Person	B-Organization
-administration	O	I-Organization
+Obama	B-Organization	B-Person
+administration	I-Organization
 took	O
 ,	O
 whilst	O
@@ -1785,9 +1785,9 @@ administrations	O
 '	O
 positions	O
 ,	O
-Biden	B-Person	B-Organization
-'s	O	I-Organization
-government	O	I-Organization
+Biden	B-Organization	B-Person
+'s	I-Organization
+government	I-Organization
 seems	O
 to	O
 be	O

@@ -175,9 +175,9 @@ ET	O
 according	O
 to	O
 the	O
-US	B-Location	B-Misc
-Geological	O	I-Misc
-Survey	O	I-Misc
+US	B-Misc	B-Location
+Geological	I-Misc
+Survey	I-Misc
 (	O
 USGS	B-Misc
 )	O

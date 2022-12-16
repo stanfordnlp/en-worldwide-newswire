@@ -1,12 +1,12 @@
 https://www.taipeitimes.com/News/taiwan/archives/2022/07/18/2003781954	O
 
 The	O
-Nansha	B-Location	B-Organization
-Taiping	O	I-Organization	B-Location
-Island	O	I-Organization	I-Location
-International	O	I-Organization
-Research	O	I-Organization
-Station	O	I-Organization
+Nansha	B-Organization	B-Location
+Taiping	I-Organization	B-Location
+Island	I-Organization	I-Location
+International	I-Organization
+Research	I-Organization
+Station	I-Organization
 has	O
 commenced	O
 operations	O
@@ -274,8 +274,8 @@ Administration	I-Organization
 facility	O
 and	O
 the	O
-Nansha	B-Location	B-Organization
-Hospital	O	I-Organization
+Nansha	B-Organization	B-Location
+Hospital	I-Organization
 ,	O
 the	O
 source	O
@@ -361,9 +361,9 @@ via	O
 partners	O
 at	O
 the	O
-Japan	B-Location	B-Organization
-Meteorological	O	I-Organization
-Agency	O	I-Organization
+Japan	B-Organization	B-Location
+Meteorological	I-Organization
+Agency	I-Organization
 ,	O
 the	O
 station	O

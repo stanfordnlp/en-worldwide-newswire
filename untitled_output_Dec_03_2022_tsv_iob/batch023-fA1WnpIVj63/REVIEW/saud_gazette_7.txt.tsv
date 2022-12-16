@@ -64,9 +64,9 @@ percent	O
 ,	O
 according	O
 to	O
-Ipsos	B-Organization	B-Misc
-Global	O	I-Misc
-Advisor	O	I-Misc
+Ipsos	B-Misc	B-Organization
+Global	I-Misc
+Advisor	I-Misc
 survey	O
 .	O
 The	O
@@ -113,8 +113,8 @@ confidence	O
 according	O
 to	O
 the	O
-Ipsos	B-Organization	B-Misc
-Index	O	I-Misc
+Ipsos	B-Misc	B-Organization
+Index	I-Misc
 .	O
 The	O
 Kingdom	B-Organization
@@ -222,8 +222,8 @@ or	O
 political	O
 corruption	O
 ,	O
-Ipsos	B-Organization	B-Misc
-Index	O	I-Misc
+Ipsos	B-Misc	B-Organization
+Index	I-Misc
 noted	O
 ,	O
 while	O
@@ -369,8 +369,8 @@ Arabia	I-Location
 .	O
 
 The	O
-Ipsos	B-Organization	B-Misc
-Index	O	I-Misc
+Ipsos	B-Misc	B-Organization
+Index	I-Misc
 focused	O
 on	O
 many	O

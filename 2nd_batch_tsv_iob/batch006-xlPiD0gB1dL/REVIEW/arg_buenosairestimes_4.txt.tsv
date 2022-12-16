@@ -381,8 +381,8 @@ United	B-Location
 States	I-Location
 and	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 ,	O
 Russian	B-NORP
 Premier	O
@@ -890,8 +890,8 @@ Guzmán	I-Person
 ,	O
 the	O
 former	O
-Columbia	B-Location	B-Organization
-University	O	I-Organization
+Columbia	B-Organization	B-Location
+University	I-Organization
 academic	O
 stepped	O
 down	O

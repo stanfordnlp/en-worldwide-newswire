@@ -33,10 +33,10 @@ recent	O
 announcement	O
 of	O
 a	O
-US	B-Location	B-Money
-$	O	I-Money
-600	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+600	I-Money
+billion	I-Money
 financial	O
 package	O
 for	O
@@ -86,10 +86,10 @@ that	O
 aims	O
 to	O
 raise	O
-US	B-Location	B-Money
-$	O	I-Money
-600	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+600	I-Money
+billion	I-Money
 to	O
 counter	O
 Chinese	B-NORP
@@ -119,10 +119,10 @@ the	O
 US	B-Location
 would	O
 mobilise	O
-US	B-Location	B-Money
-$	O	I-Money
-200	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+200	I-Money
+billion	I-Money
 ,	O
 with	O
 the	O
@@ -135,10 +135,10 @@ members	O
 raising	O
 a	O
 further	O
-US	B-Location	B-Money
-$	O	I-Money
-400	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+400	I-Money
+billion	I-Money
 by	O
 2027	B-Misc
 ,	O
@@ -342,8 +342,8 @@ bill	O
 flopped	O
 in	O
 the	O
-US	B-Location	B-Organization
-Congress	O	I-Organization
+US	B-Organization	B-Location
+Congress	I-Organization
 .	O
 
 Describing	O
@@ -480,10 +480,10 @@ projects	O
 such	O
 as	O
 a	O
-US	B-Location	B-Money
-$	O	I-Money
-4.7	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+4.7	I-Money
+billion	I-Money
 railway	O
 running	O
 from	O
@@ -626,10 +626,10 @@ to	O
 300	I-Money
 billion	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-317	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+317	I-Money
+billion	I-Money
 )	O
 in	O
 public	O
@@ -704,10 +704,10 @@ In	O
 2015	B-Misc
 ,	O
 the	O
-Addis	B-Location	B-Misc
-Ababa	I-Location	I-Misc
-Action	O	I-Misc
-Agenda	O	I-Misc
+Addis	B-Misc	B-Location
+Ababa	I-Misc	I-Location
+Action	I-Misc
+Agenda	I-Misc
 was	O
 set	O
 as	O
@@ -968,12 +968,12 @@ and	O
 governance	O
 at	O
 the	O
-European	B-NORP	B-Organization
-Centre	O	I-Organization
-for	O	I-Organization
-Development	O	I-Organization
-Policy	O	I-Organization
-Management	O	I-Organization
+European	B-Organization	B-NORP
+Centre	I-Organization
+for	I-Organization
+Development	I-Organization
+Policy	I-Organization
+Management	I-Organization
 (	O
 ECDPM	B-Organization
 )	O
@@ -1242,10 +1242,10 @@ set	O
 a	O
 target	O
 of	O
-US	B-Location	B-Money
-$	O	I-Money
-200	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+200	I-Money
+billion	I-Money
 for	O
 US	B-Location
 investments	O
@@ -1381,10 +1381,10 @@ Germany	B-Location
 -	O
 based	O
 firm	O
-China	B-Location	B-Organization
-­	O	I-Organization
-Africa	O	I-Organization	B-Location
-Advisory	O	I-Organization
+China	B-Organization	B-Location
+­	I-Organization
+Africa	I-Organization	B-Location
+Advisory	I-Organization
 ,	O
 said	O
 the	O
@@ -1478,10 +1478,10 @@ the	O
 partnership	O
 is	O
 the	O
-US	B-Location	B-Money
-$	O	I-Money
-600	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+600	I-Money
+million	I-Money
 Southeast	B-Location
 Asia	I-Location
 -	O
@@ -1662,10 +1662,10 @@ partnership	O
 projects	O
 include	O
 a	O
-US	B-Location	B-Money
-$	O	I-Money
-2	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+2	I-Money
+billion	I-Money
 solar	O
 project	O
 in	O

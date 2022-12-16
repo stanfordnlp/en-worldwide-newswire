@@ -1,9 +1,9 @@
 https://nation.africa/kenya/counties/vihiga/uhuru-gifts-vihiga-a-university-before-he-retires-3894082	O
 
-Kaimosi	B-Location	B-Organization
-Friends	O	I-Organization
-University	O	I-Organization
-College	O	I-Organization
+Kaimosi	B-Organization	B-Location
+Friends	I-Organization
+University	I-Organization
+College	I-Organization
 (	O
 Kafuco	B-Organization
 )	O
@@ -131,13 +131,13 @@ under	O
 the	O
 mentorship	O
 of	O
-Masinde	B-Person	B-Organization
-Muliro	I-Person	I-Organization
-University	O	I-Organization
-of	O	I-Organization
-Science	O	I-Organization
-and	O	I-Organization
-Technology	O	I-Organization
+Masinde	B-Organization	B-Person
+Muliro	I-Organization	I-Person
+University	I-Organization
+of	I-Organization
+Science	I-Organization
+and	I-Organization
+Technology	I-Organization
 since	O
 it	O
 was	O
@@ -239,10 +239,10 @@ in	I-Location
 Busia	I-Location
 County	I-Location
 ,	O
-Kenya	B-Location	B-Organization
-Defence	O	I-Organization
-Forces	O	I-Organization
-College	O	I-Organization
+Kenya	B-Organization	B-Location
+Defence	I-Organization
+Forces	I-Organization
+College	I-Organization
 and	O
 Tharaka	B-Organization
 Nithi	I-Organization
@@ -416,8 +416,8 @@ acres	O
 within	O
 the	O
 Kaimosi	B-Location	B-Location
-education	O	I-Location
-complex	O	I-Location
+education	I-Location
+complex	I-Location
 and	O
 has	O
 over	O
@@ -503,8 +503,8 @@ to	O
 tarmac	O
 the	O
 Kaimosi	B-Location	B-Location
-education	O	I-Location
-complex	O	I-Location
+education	I-Location
+complex	I-Location
 loop	O
 road	O
 .	O

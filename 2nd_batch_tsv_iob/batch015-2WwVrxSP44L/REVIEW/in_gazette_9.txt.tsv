@@ -43,16 +43,16 @@ The	O
 session	O
 of	O
 the	O
-UN	B-Organization	B-Misc
-Commission	O	I-Misc
-on	O	I-Misc
-the	O	I-Misc
-Status	O	I-Misc
-of	O	I-Misc
-Women	O	I-Misc
-(	O	I-Misc
-CSW	O	I-Misc
-)	O	I-Misc
+UN	B-Misc	B-Organization
+Commission	I-Misc
+on	I-Misc
+the	I-Misc
+Status	I-Misc
+of	I-Misc
+Women	I-Misc
+(	I-Misc
+CSW	I-Misc
+)	I-Misc
 ,	O
 is	O
 taking	O
@@ -529,8 +529,8 @@ Islam	B-NORP
 .	O
 
 The	O
-Muslim	B-NORP	B-Organization
-Brotherhood	O	I-Organization
+Muslim	B-Organization	B-NORP
+Brotherhood	I-Organization
 also	O
 calls	O
 on	O

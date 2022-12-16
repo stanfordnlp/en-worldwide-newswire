@@ -24,8 +24,8 @@ soldiers	O
 to	O
 invade	O
 the	O
-Japanese	B-NORP	B-Location
-archipelago	O	I-Location
+Japanese	B-Location	B-NORP
+archipelago	I-Location
 —	O
 the	O
 second	O
@@ -361,8 +361,8 @@ Lost	I-Misc
 Fleet	I-Misc
 of	I-Misc
 the	I-Misc
-Mongol	I-Misc	B-NORP	B-Organization
-Empire	I-Misc	O	I-Organization
+Mongol	I-Misc	B-Organization	B-NORP
+Empire	I-Misc	I-Organization
 .	O
 ”	O
 
@@ -651,9 +651,9 @@ who	O
 joined	O
 researchers	O
 from	O
-Tokyo	B-Location	B-Organization
-Imperial	O	I-Organization
-University	O	I-Organization
+Tokyo	B-Organization	B-Location
+Imperial	I-Organization
+University	I-Organization
 (	O
 present	O
 -	O
@@ -1478,11 +1478,11 @@ says	O
 with	O
 visitors	O
 to	O
-Takashima	B-Location	B-Facility
-’	O	I-Facility
-s	O	I-Facility
-archaeological	O	I-Facility
-museum	O	I-Facility
+Takashima	B-Facility	B-Location
+’	I-Facility
+s	I-Facility
+archaeological	I-Facility
+museum	I-Facility
 —	O
 home	O
 to	O
@@ -2093,9 +2093,9 @@ documented	O
 images	O
 of	O
 an	O
-Imperial	O	B-Organization
-Japanese	B-NORP	I-Organization
-Navy	O	I-Organization
+Imperial	B-Organization
+Japanese	I-Organization	B-NORP
+Navy	I-Organization
 Kairyu	B-Product
 -	I-Product
 class	I-Product
@@ -2125,8 +2125,8 @@ with	O
 China	B-Location
 and	O
 the	O
-Korean	B-NORP	B-Location
-Peninsula	O	I-Location
+Korean	B-Location	B-NORP
+Peninsula	I-Location
 indicates	O
 a	O
 strong	O
@@ -2255,11 +2255,11 @@ discoveries	O
 
 According	O
 to	O
-UNESCO	B-Organization	B-Misc
-’	O	I-Misc
-s	O	I-Misc
-2001	O	I-Misc
-Convention	O	I-Misc
+UNESCO	B-Misc	B-Organization
+’	I-Misc
+s	I-Misc
+2001	I-Misc
+Convention	I-Misc
 ,	O
 underwater	O
 heritage	O
@@ -2463,9 +2463,9 @@ famous	O
 shipwreck	O
 is	O
 the	O
-Swedish	B-NORP	B-Misc
-warship	O	I-Misc
-Vasa	O	I-Misc
+Swedish	B-Misc	B-NORP
+warship	I-Misc
+Vasa	I-Misc
 ,	O
 which	O
 sank	O
@@ -2538,8 +2538,8 @@ and	O
 associate	O
 professor	O
 at	O
-Tokai	B-Location	B-Organization
-University	O	I-Organization
+Tokai	B-Organization	B-Location
+University	I-Organization
 who	O
 has	O
 been	O

@@ -142,12 +142,12 @@ nuclear	O
 nation	O
 .	O
 The	O
-Australian	B-NORP	B-Organization
-Nuclear	O	I-Organization
-Science	O	I-Organization
-and	O	I-Organization
-Technology	O	I-Organization
-Organisation	O	I-Organization
+Australian	B-Organization	B-NORP
+Nuclear	I-Organization
+Science	I-Organization
+and	I-Organization
+Technology	I-Organization
+Organisation	I-Organization
 has	O
 operated	O
 a	O
@@ -386,8 +386,8 @@ of	O
 voters	O
 think	O
 the	O
-Liberal	B-NORP	B-Organization
-Party	O	I-Organization
+Liberal	B-Organization	B-NORP
+Party	I-Organization
 are	O
 weirdos	O
 on	O

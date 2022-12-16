@@ -15,9 +15,9 @@ managed	O
 to	O
 enter	O
 the	O
-Amazon	B-Organization	B-Misc
-Prime	I-Organization	I-Misc
-Video	O	I-Misc
+Amazon	B-Misc	B-Organization
+Prime	I-Misc	I-Organization
+Video	I-Misc
 catalog	O
 .	O
 It	O
@@ -77,9 +77,9 @@ has	O
 managed	O
 to	O
 enter	O
-Amazon	B-Organization	B-Misc
-Prime	I-Organization	I-Misc
-Video	O	I-Misc
+Amazon	B-Misc	B-Organization
+Prime	I-Misc	I-Organization
+Video	I-Misc
 thanks	O
 to	O
 its	O
@@ -259,9 +259,9 @@ not	O
 be	O
 available	O
 on	O
-Amazon	B-Location	B-Misc
-Prime	O	I-Misc
-Video	O	I-Misc
+Amazon	B-Misc	B-Location
+Prime	I-Misc
+Video	I-Misc
 for	O
 Latin	B-Location
 America	I-Location

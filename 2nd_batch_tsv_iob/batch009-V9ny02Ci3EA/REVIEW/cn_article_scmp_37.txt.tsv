@@ -106,8 +106,8 @@ too	O
 ,	O
 notably	O
 the	O
-Shanghai	B-Location	B-Misc
-parade	O	I-Misc
+Shanghai	B-Misc	B-Location
+parade	I-Misc
 that	O
 was	O
 an	O
@@ -417,10 +417,10 @@ Professor	O
 Dominic	B-Person
 Yeo	I-Person
 from	O
-Hong	B-Location	B-Organization
-Kong	I-Location	I-Organization
-Baptist	O	I-Organization
-University	O	I-Organization
+Hong	B-Organization	B-Location
+Kong	I-Organization	I-Location
+Baptist	I-Organization
+University	I-Organization
 ,	O
 whose	O
 research	O
@@ -480,8 +480,8 @@ July	B-Misc
 the	O
 organisers	O
 of	O
-Shanghai	B-Location	B-Misc
-Pride	O	I-Misc
+Shanghai	B-Misc	B-Location
+Pride	I-Misc
 published	O
 a	O
 series	O
@@ -532,9 +532,9 @@ to	O
 see	O
 everyone	O
 at	O
-Shanghai	B-Location	B-Misc
-Pride	O	I-Misc
-2021	O	I-Misc
+Shanghai	B-Misc	B-Location
+Pride	I-Misc
+2021	I-Misc
 !	O
 ”	O
 they	O
@@ -592,11 +592,11 @@ teaches	O
 communication	O
 at	O
 the	O
-Chinese	B-NORP	B-Organization
-University	O	I-Organization
-of	O	I-Organization
-Hong	O	I-Organization	B-Location
-Kong	O	I-Organization	I-Location
+Chinese	B-Organization	B-NORP
+University	I-Organization
+of	I-Organization
+Hong	I-Organization	B-Location
+Kong	I-Organization	I-Location
 ,	O
 said	O
 the	O
@@ -1575,10 +1575,10 @@ who	O
 spoke	O
 to	O
 the	O
-South	B-Location	B-Organization
-China	I-Location	I-Organization
-Morning	O	I-Organization
-Post	O	I-Organization
+South	B-Organization	B-Location
+China	I-Organization	I-Location
+Morning	I-Organization
+Post	I-Organization
 said	O
 they	O
 would	O

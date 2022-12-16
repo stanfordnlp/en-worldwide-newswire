@@ -18,12 +18,12 @@ and	O
 Paraguay	B-Location
 has	O
 superseded	O
-Buenos	B-Location	B-Facility
-Aires	I-Location	I-Facility
-'	O	I-Facility
-international	O	I-Facility
-Ezeiza	O	I-Facility
-airport	O	I-Facility
+Buenos	B-Facility	B-Location
+Aires	I-Facility	I-Location
+'	I-Facility
+international	I-Facility
+Ezeiza	I-Facility
+airport	I-Facility
 as	O
 the	O
 main	O

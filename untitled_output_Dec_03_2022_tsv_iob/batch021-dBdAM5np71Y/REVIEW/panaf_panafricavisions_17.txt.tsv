@@ -550,10 +550,10 @@ her	O
 own	O
 salon	O
 called	O
-Bintou	B-Person	B-Facility
-’	O	I-Facility
-s	O	I-Facility
-Glowbelle	O	I-Facility
+Bintou	B-Facility	B-Person
+’	I-Facility
+s	I-Facility
+Glowbelle	I-Facility
 and	O
 puts	O
 together	O

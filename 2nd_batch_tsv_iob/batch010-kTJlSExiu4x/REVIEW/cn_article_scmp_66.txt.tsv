@@ -45,11 +45,11 @@ Africa	B-Location
 .	O
 
 The	O
-China	B-Location	B-Organization
-Road	O	I-Organization
-and	O	I-Organization
-Bridge	O	I-Organization
-Corporation	O	I-Organization
+China	B-Organization	B-Location
+Road	I-Organization
+and	I-Organization
+Bridge	I-Organization
+Corporation	I-Organization
 (	O
 CRBC	B-Organization
 )	O
@@ -61,8 +61,8 @@ km	O
 16.8	O
 miles	O
 )	O
-Nairobi	B-Location	B-Organization
-Expressway	O	I-Organization
+Nairobi	B-Organization	B-Location
+Expressway	I-Organization
 linking	O
 the	O
 country	O
@@ -75,10 +75,10 @@ the	O
 capital	O
 .	O
 The	O
-US	B-Location	B-Money
-$	O	I-Money
-668	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+668	I-Money
+million	I-Money
 project	O
 was	O
 financed	O
@@ -87,10 +87,10 @@ the	O
 state	O
 -	O
 owned	O
-China	B-Location	B-Organization
-Communications	O	I-Organization
-Construction	O	I-Organization
-Company	O	I-Organization
+China	B-Organization	B-Location
+Communications	I-Organization
+Construction	I-Organization
+Company	I-Organization
 ,	O
 CRBC	B-Organization
 ’	O
@@ -197,8 +197,8 @@ say	O
 .	O
 
 The	O
-Nairobi	B-Location	B-Organization
-Expressway	O	I-Organization
+Nairobi	B-Organization	B-Location
+Expressway	I-Organization
 opened	O
 to	O
 public	O
@@ -289,10 +289,10 @@ CRBC	B-Organization
 will	O
 bring	O
 in	O
-US	B-Location	B-Money
-$	O	I-Money
-20	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+20	I-Money
+million	I-Money
 from	O
 tolls	O
 during	O
@@ -313,10 +313,10 @@ rise	O
 to	O
 more	O
 than	O
-US	B-Location	B-Money
-$	O	I-Money
-100	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+100	I-Money
+million	I-Money
 a	O
 year	O
 by	O
@@ -636,8 +636,8 @@ and	I-Facility
 Comparative	I-Facility
 Politics	I-Facility
 at	O
-Stellenbosch	B-Location	B-Organization
-University	O	I-Organization
+Stellenbosch	B-Organization	B-Location
+University	I-Organization
 in	O
 South	B-Location
 Africa	I-Location
@@ -856,8 +856,8 @@ the	O
 arrangement	O
 for	O
 the	O
-Nairobi	B-Location	B-Facility
-Expressway	O	I-Facility
+Nairobi	B-Facility	B-Location
+Expressway	I-Facility
 ,	O
 privatised	O
 public	O
@@ -932,10 +932,10 @@ meetings	O
 ,	O
 China	B-Location
 pledged	O
-US	B-Location	B-Money
-$	O	I-Money
-60	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+60	I-Money
+billion	I-Money
 over	O
 each	O
 three	O

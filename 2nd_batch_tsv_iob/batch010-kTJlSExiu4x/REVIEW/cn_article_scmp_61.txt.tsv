@@ -8,10 +8,10 @@ hand	O
 over	O
 a	O
 new	O
-US	B-Location	B-Money
-$	O	I-Money
-140	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+140	I-Money
+million	I-Money
 parliament	O
 building	O
 as	O
@@ -131,9 +131,9 @@ by	O
 China	B-Location
 ’	O
 s	O
-Shanghai	B-Location	B-Organization
-Construction	O	I-Organization
-Group	O	I-Organization
+Shanghai	B-Organization	B-Location
+Construction	I-Organization
+Group	I-Organization
 ,	O
 is	O
 fully	O
@@ -204,9 +204,9 @@ Southern	B-Location
 Africa	I-Location
 ,	O
 ”	O
-Shanghai	B-Location	B-Organization
-Construction	O	I-Organization
-Group	O	I-Organization
+Shanghai	B-Organization	B-Location
+Construction	I-Organization
+Group	I-Organization
 manager	O
 Libo	B-Person
 Cai	I-Person
@@ -360,8 +360,8 @@ malls	O
 .	O
 
 The	O
-Chinese	B-NORP	B-Organization
-embassy	O	I-Organization
+Chinese	B-Organization	B-NORP
+embassy	I-Organization
 in	O
 Zimbabwe	B-Location
 said	O
@@ -530,21 +530,21 @@ recent	O
 projects	O
 include	O
 the	O
-Kenneth	B-Person	B-Facility
-Kaunda	I-Person	I-Facility
-International	O	I-Facility
-Conference	O	I-Facility
-Centre	O	I-Facility
+Kenneth	B-Facility	B-Person
+Kaunda	I-Facility	I-Person
+International	I-Facility
+Conference	I-Facility
+Centre	I-Facility
 ,	O
 which	O
-China	B-Location	B-Organization
-Jiangsu	O	I-Organization
-International	O	I-Organization
-Economic	O	I-Organization
-and	O	I-Organization
-Technical	O	I-Organization
-Cooperation	O	I-Organization
-Group	O	I-Organization
+China	B-Organization	B-Location
+Jiangsu	I-Organization
+International	I-Organization
+Economic	I-Organization
+and	I-Organization
+Technical	I-Organization
+Cooperation	I-Organization
+Group	I-Organization
 handed	O
 over	O
 to	O
@@ -574,8 +574,8 @@ to	O
 host	O
 the	O
 upcoming	O
-African	B-NORP	B-Organization
-Union	O	I-Organization
+African	B-Organization	B-NORP
+Union	I-Organization
 midyear	O
 summit	O
 and	O
@@ -612,17 +612,17 @@ Ethiopia	B-Location
 work	O
 on	O
 the	O
-US	B-Location	B-Money
-$	O	I-Money
-80	O	I-Money
-million	O	I-Money
-Africa	B-Location	B-Organization
-Centres	O	I-Organization
-for	O	I-Organization
-Disease	O	I-Organization
-Control	O	I-Organization
-and	O	I-Organization
-Prevention	O	I-Organization
+US	B-Money	B-Location
+$	I-Money
+80	I-Money
+million	I-Money
+Africa	B-Organization	B-Location
+Centres	I-Organization
+for	I-Organization
+Disease	I-Organization
+Control	I-Organization
+and	I-Organization
+Prevention	I-Organization
 headquarters	O
 is	O
 also	O
@@ -639,13 +639,13 @@ the	O
 ultra	O
 -	O
 modern	O
-US	B-Location	B-Money
-$	O	I-Money
-200	O	I-Money
-million	O	I-Money
-African	B-NORP	B-Facility
-Union	O	I-Facility
-headquarters	O	I-Facility
+US	B-Money	B-Location
+$	I-Money
+200	I-Money
+million	I-Money
+African	B-Facility	B-NORP
+Union	I-Facility
+headquarters	I-Facility
 in	O
 Addis	B-Location
 Ababa	I-Location
@@ -673,11 +673,11 @@ Nantulya	I-Person
 ,	O
 from	O
 the	O
-Africa	B-Location	B-Organization
-Centre	O	I-Organization
-for	O	I-Organization
-Strategic	O	I-Organization
-Studies	O	I-Organization
+Africa	B-Organization	B-Location
+Centre	I-Organization
+for	I-Organization
+Strategic	I-Organization
+Studies	I-Organization
 at	O
 Washington	B-Location
 ’	O
@@ -769,16 +769,16 @@ Shinn	I-Person
 a	O
 professor	O
 at	O
-George	B-Person	B-Organization
-Washington	O	I-Organization	B-Location
-University	O	I-Organization
+George	B-Organization	B-Person
+Washington	I-Organization	B-Location
+University	I-Organization
 ’	O
 s	O
-Elliott	B-Person	B-Organization
-School	O	I-Organization
-of	O	I-Organization
-International	O	I-Organization
-Affairs	O	I-Organization
+Elliott	B-Organization	B-Person
+School	I-Organization
+of	I-Organization
+International	I-Organization
+Affairs	I-Organization
 and	O
 a	O
 former	O

@@ -48,9 +48,9 @@ of	O
 the	O
 bridge	O
 at	O
-Nanfangao	B-Location	B-Facility
-Fishing	O	I-Facility
-Port	O	I-Facility
+Nanfangao	B-Facility	B-Location
+Fishing	I-Facility
+Port	I-Facility
 (	O
 南方澳漁港	O
 )	O
@@ -207,10 +207,10 @@ the	O
 project	O
 commissioned	O
 by	O
-Taiwan	B-Location	B-Organization
-International	O	I-Organization
-Ports	O	I-Organization
-Corp	O	I-Organization
+Taiwan	B-Organization	B-Location
+International	I-Organization
+Ports	I-Organization
+Corp	I-Organization
 ,	O
 said	O
 that	O
@@ -236,10 +236,10 @@ $	I-Money
 860	I-Money
 million	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-28.92	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+28.92	I-Money
+million	I-Money
 at	O
 the	O
 current	O

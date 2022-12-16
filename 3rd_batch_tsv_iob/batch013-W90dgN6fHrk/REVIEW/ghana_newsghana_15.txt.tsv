@@ -42,9 +42,9 @@ Districts	O
 Division	O
 of	O
 the	O
-Ghana	B-Location	B-Organization
-Police	O	I-Organization
-Service	O	I-Organization
+Ghana	B-Organization	B-Location
+Police	I-Organization
+Service	I-Organization
 and	O
 the	O
 Drug	B-Misc
@@ -81,9 +81,9 @@ confirmed	O
 this	O
 to	O
 the	O
-Ghana	B-Location	B-Organization
-News	O	I-Organization
-Agency	O	I-Organization
+Ghana	B-Organization	B-Location
+News	I-Organization
+Agency	I-Organization
 (	O
 GNA	B-Organization
 )	O

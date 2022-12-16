@@ -90,9 +90,9 @@ SKW	B-Organization
 CFC	B-Organization
 2	O
 and	O
-Swakopmund	B-Location	B-Organization
-Fistball	O	I-Organization
-Club	O	I-Organization
+Swakopmund	B-Organization	B-Location
+Fistball	I-Organization
+Club	I-Organization
 (	O
 SFC	B-Organization
 )	O

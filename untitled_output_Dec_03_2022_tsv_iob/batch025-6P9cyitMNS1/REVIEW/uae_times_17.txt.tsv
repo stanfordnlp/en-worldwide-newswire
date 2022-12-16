@@ -24,10 +24,10 @@ been	O
 arrested	O
 .	O
 
-Ras	B-Location	B-Organization
-Al	I-Location	I-Organization
-Khaimah	I-Location	I-Organization
-Police	O	I-Organization
+Ras	B-Organization	B-Location
+Al	I-Organization	I-Location
+Khaimah	I-Organization	I-Location
+Police	I-Organization
 detained	O
 the	O
 suspects	O
@@ -81,10 +81,10 @@ further	O
 action	O
 .	O
 
-Ras	B-Location	B-Organization
-Al	I-Location	I-Organization
-Khaimah	I-Location	I-Organization
-Police	O	I-Organization
+Ras	B-Organization	B-Location
+Al	I-Organization	I-Location
+Khaimah	I-Organization	I-Location
+Police	I-Organization
 said	O
 it	O
 has	O

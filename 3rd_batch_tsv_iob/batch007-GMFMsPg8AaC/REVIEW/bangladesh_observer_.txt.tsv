@@ -61,20 +61,20 @@ was	O
 a	O
 student	O
 of	O
-Bogura	B-Location	B-Organization
-Armed	O	I-Organization
-Police	O	I-Organization
-Battalion	O	I-Organization
-Public	O	I-Organization
-School	O	I-Organization
-&	O	I-Organization
-College	O	I-Organization
+Bogura	B-Organization	B-Location
+Armed	I-Organization
+Police	I-Organization
+Battalion	I-Organization
+Public	I-Organization
+School	I-Organization
+&	I-Organization
+College	I-Organization
 and	O
 Sadik	B-Person
 of	O
-Noongola	B-Location	B-Organization
-Degree	O	I-Organization
-College	O	I-Organization
+Noongola	B-Organization	B-Location
+Degree	I-Organization
+College	I-Organization
 .	O
 
 Locals	O
@@ -124,10 +124,10 @@ for	O
 autopsy	O
 ,	O
 said	O
-Bogura	B-Location	B-Facility
-Sadar	I-Location	I-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Bogura	B-Facility	B-Location
+Sadar	I-Facility	I-Location
+Police	I-Facility
+Station	I-Facility
 sub	O
 -	O
 inspector	O

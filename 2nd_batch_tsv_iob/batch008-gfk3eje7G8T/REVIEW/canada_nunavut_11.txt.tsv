@@ -182,8 +182,8 @@ was	O
 reached	O
 with	O
 the	O
-Quebec	B-Location	B-Organization
-government	O	I-Organization
+Quebec	B-Organization	B-Location
+government	I-Organization
 and	O
 a	O
 pause	O

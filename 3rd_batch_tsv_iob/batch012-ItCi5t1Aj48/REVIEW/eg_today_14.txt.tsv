@@ -6,9 +6,9 @@ CAIRO	B-Location
 July	I-Misc
 2022	I-Misc
 :	O
-Talaat	B-Person	B-Organization
-Moustafa	I-Person	I-Organization
-Group	O	I-Organization
+Talaat	B-Organization	B-Person
+Moustafa	I-Organization	I-Person
+Group	I-Organization
 announced	O
 the	O
 start	O
@@ -367,9 +367,9 @@ the	O
 commitment	O
 of	O
 the	O
-Talaat	B-Person	B-Organization
-Moustafa	I-Person	I-Organization
-Group	O	I-Organization
+Talaat	B-Organization	B-Person
+Moustafa	I-Organization	I-Person
+Group	I-Organization
 with	O
 its	O
 customers	O
@@ -402,9 +402,9 @@ its	O
 history	O
 ,	O
 the	O
-Talaat	B-Person	B-Organization
-Mustafa	I-Person	I-Organization
-Group	O	I-Organization
+Talaat	B-Organization	B-Person
+Mustafa	I-Organization	I-Person
+Group	I-Organization
 has	O
 for	O
 more	O
@@ -523,9 +523,9 @@ or	O
 investment	O
 .	O
 
-Talaat	B-Person	B-Organization
-Moustafa	I-Person	I-Organization
-Group	O	I-Organization
+Talaat	B-Organization	B-Person
+Moustafa	I-Organization	I-Person
+Group	I-Organization
 was	O
 keen	O
 to	O
@@ -734,9 +734,9 @@ social	O
 building	O
 .	O
 
-Talaat	B-Person	B-Organization
-Mustafa	I-Person	I-Organization
-Group	O	I-Organization
+Talaat	B-Organization	B-Person
+Mustafa	I-Organization	I-Person
+Group	I-Organization
 plans	O
 to	O
 complete	O
@@ -898,9 +898,9 @@ of	O
 restaurants	O
 .	O
 
-Talaat	B-Person	B-Organization
-Moustafa	I-Person	I-Organization
-Group	O	I-Organization
+Talaat	B-Organization	B-Person
+Moustafa	I-Organization	I-Person
+Group	I-Organization
 was	O
 keen	O
 ,	O

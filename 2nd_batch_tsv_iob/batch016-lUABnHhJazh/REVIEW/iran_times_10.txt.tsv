@@ -33,8 +33,8 @@ of	O
 Iran	B-Location
 ,	O
 the	O
-Russian	B-NORP	B-Organization
-Federation	O	I-Organization
+Russian	B-Organization	B-NORP
+Federation	I-Organization
 and	O
 Turkey	B-Location
 gathered	O
@@ -206,7 +206,7 @@ of	O
 the	O
 Syrian	B-Location	B-Location
 Arab	I-Location	I-Location
-Republic	O	I-Location
+Republic	I-Location
 ,	O
 as	O
 well	O
@@ -736,11 +736,11 @@ Nations	I-Organization
 according	O
 to	O
 the	O
-UN	B-Organization	B-Misc
-Security	O	I-Misc
-Council	O	I-Misc
-Resolution	O	I-Misc
-2254	O	I-Misc
+UN	B-Misc	B-Organization
+Security	I-Misc
+Council	I-Misc
+Resolution	I-Misc
+2254	I-Misc
 .	O
 
 In	O
@@ -779,10 +779,10 @@ the	O
 decisions	O
 of	O
 the	O
-Syrian	B-NORP	B-Misc
-National	O	I-Misc
-Dialogue	O	I-Misc
-Congress	O	I-Misc
+Syrian	B-Misc	B-NORP
+National	I-Misc
+Dialogue	I-Misc
+Congress	I-Misc
 in	O
 Sochi	B-Location
 .	O
@@ -1246,14 +1246,14 @@ Golan	B-Location
 Heights	I-Location
 ,	O
 especially	O
-United	B-Organization	B-Misc
-Nations	I-Organization	I-Misc
-Security	O	I-Misc
-Council	O	I-Misc
-Resolutions	O	I-Misc
-242	O	I-Misc
-and	O	I-Misc
-497	O	I-Misc
+United	B-Misc	B-Organization
+Nations	I-Misc	I-Organization
+Security	I-Misc
+Council	I-Misc
+Resolutions	I-Misc
+242	I-Misc
+and	I-Misc
+497	I-Misc
 ,	O
 which	O
 invalidate	O
@@ -1357,8 +1357,8 @@ the	O
 President	O
 of	O
 the	O
-Russian	B-NORP	B-Organization
-Federation	O	I-Organization
+Russian	B-Organization	B-NORP
+Federation	I-Organization
 Mr	O
 .	O
 Vladimir	B-Person

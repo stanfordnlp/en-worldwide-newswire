@@ -14,11 +14,11 @@ set	O
 to	O
 appear	O
 before	O
-Joburg	B-Location	B-Organization
-Magistrate	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Court	O	I-Organization
+Joburg	B-Organization	B-Location
+Magistrate	I-Organization
+’	I-Organization
+s	I-Organization
+Court	I-Organization
 after	O
 he	O
 was	O
@@ -233,10 +233,10 @@ community	O
 ”	O
 .	O
 
-Joburg	B-Location	B-Organization
-Central	O	I-Organization
-police	O	I-Organization
-station	O	I-Organization
+Joburg	B-Organization	B-Location
+Central	I-Organization
+police	I-Organization
+station	I-Organization
 ’	O
 s	O
 commander	O
@@ -280,11 +280,11 @@ Last	O
 week	O
 ,	O
 the	O
-Booysens	B-Location	B-Organization
-Magistrate	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Court	O	I-Organization
+Booysens	B-Organization	B-Location
+Magistrate	I-Organization
+’	I-Organization
+s	I-Organization
+Court	I-Organization
 sentenced	O
 30	O
 -	O
@@ -342,11 +342,11 @@ life	O
 imprisonment	O
 in	O
 the	O
-Booysens	B-Location	B-Organization
-Magistrate	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Court	O	I-Organization
+Booysens	B-Organization	B-Location
+Magistrate	I-Organization
+’	I-Organization
+s	I-Organization
+Court	I-Organization
 on	O
 (	O
 Wednesday	B-Misc
@@ -389,11 +389,11 @@ veld	O
 ,	O
 next	O
 to	O
-Jackson	B-Person	B-Location
-squatter	O	I-Location
-camp	O	I-Location
-in	O	I-Location
-Eikenhof	O	I-Location	B-Location
+Jackson	B-Location	B-Person
+squatter	I-Location
+camp	I-Location
+in	I-Location
+Eikenhof	I-Location	B-Location
 on	O
 the	O
 13th	B-Misc

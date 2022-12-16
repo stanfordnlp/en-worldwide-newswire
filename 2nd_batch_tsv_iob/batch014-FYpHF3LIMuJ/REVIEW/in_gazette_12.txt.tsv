@@ -207,9 +207,9 @@ Muslim	B-NORP
 students	O
 union	O
 at	O
-Kanpur	B-Location	B-Organization
-Agricultural	O	I-Organization
-College	O	I-Organization
+Kanpur	B-Organization	B-Location
+Agricultural	I-Organization
+College	I-Organization
 to	O
 mobilize	O
 the	O
@@ -293,9 +293,9 @@ weekly	O
 meetings	O
 of	O
 the	O
-London	B-Location	B-Facility
-Islamic	O	I-Facility	B-NORP
-Centre	O	I-Facility
+London	B-Facility	B-Location
+Islamic	I-Facility	B-NORP
+Centre	I-Facility
 .	O
 He	O
 also	O
@@ -325,8 +325,8 @@ Eire	B-Location
 
 During	O
 the	O
-Iranian	B-NORP	B-Misc
-Revolution	O	I-Misc
+Iranian	B-Misc	B-NORP
+Revolution	I-Misc
 ,	O
 he	O
 was	O
@@ -713,9 +713,9 @@ of	O
 Media	O
 Studies	O
 at	O
-Western	B-Location	B-Organization
-Illinois	I-Location	I-Organization
-University	O	I-Organization
+Western	B-Organization	B-Location
+Illinois	I-Organization	I-Location
+University	I-Organization
 ,	O
 Macomb	B-Location
 ,	I-Location
@@ -764,11 +764,11 @@ compiled	O
 a	O
 biography	O
 of	O
-India	B-Location	B-Organization
-'s	O	I-Organization
-Muslim	O	I-Organization	B-NORP
-Freedom	O	I-Organization
-Fighters	O	I-Organization
+India	B-Organization	B-Location
+'s	I-Organization
+Muslim	I-Organization	B-NORP
+Freedom	I-Organization
+Fighters	I-Organization
 ,	O
 wrote	O
 :	O
@@ -979,11 +979,11 @@ former	O
 president	O
 of	O
 the	O
-Islamic	B-NORP	B-Organization
-Society	O	I-Organization
-of	O	I-Organization
-North	O	I-Organization	B-Location
-America	O	I-Organization	I-Location
+Islamic	B-Organization	B-NORP
+Society	I-Organization
+of	I-Organization
+North	I-Organization	B-Location
+America	I-Organization	I-Location
 and	O
 a	O
 well	O

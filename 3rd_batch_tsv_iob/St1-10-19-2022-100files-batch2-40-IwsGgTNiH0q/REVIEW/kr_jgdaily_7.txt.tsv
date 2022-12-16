@@ -87,11 +87,11 @@ Through	O
 cooperation	O
 with	O
 the	O
-Vietnamese	B-NORP	B-Organization
-Ministry	O	I-Organization
-of	O	I-Organization
-Public	O	I-Organization
-Security	O	I-Organization
+Vietnamese	B-Organization	B-NORP
+Ministry	I-Organization
+of	I-Organization
+Public	I-Organization
+Security	I-Organization
 for	O
 about	O
 three	O
@@ -438,8 +438,8 @@ known	O
 by	O
 the	O
 name	O
-Vatican	B-Location	B-Person
-Kingdom	O	I-Person
+Vatican	B-Person	B-Location
+Kingdom	I-Person
 on	O
 the	O
 Telegram	B-Organization

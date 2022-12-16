@@ -85,11 +85,11 @@ He	O
 was	O
 taken	O
 to	O
-Dhaka	B-Location	B-Facility
-Medical	O	I-Facility
-College	O	I-Facility
-and	O	I-Facility
-Hospital	O	I-Facility
+Dhaka	B-Facility	B-Location
+Medical	I-Facility
+College	I-Facility
+and	I-Facility
+Hospital	I-Facility
 where	O
 he	O
 succumbed	O
@@ -97,9 +97,9 @@ to	O
 his	O
 injuries	O
 ,	O
-Sabujbagh	B-Location	B-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Sabujbagh	B-Facility	B-Location
+Police	I-Facility
+Station	I-Facility
 sub	O
 -	O
 inspector	O

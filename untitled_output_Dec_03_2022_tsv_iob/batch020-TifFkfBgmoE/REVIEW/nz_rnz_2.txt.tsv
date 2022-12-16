@@ -528,9 +528,9 @@ found	O
 with	O
 pets	O
 in	O
-Egmont	B-Organization	B-Location
-National	O	I-Location
-Park	O	I-Location
+Egmont	B-Location	B-Organization
+National	I-Location
+Park	I-Location
 may	O
 be	O
 issued	O

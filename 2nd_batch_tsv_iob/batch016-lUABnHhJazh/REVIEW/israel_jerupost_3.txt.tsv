@@ -122,8 +122,8 @@ water	O
 crisis	O
 in	O
 the	O
-Palestinian	B-NORP	B-Organization
-Authority	O	I-Organization
+Palestinian	B-Organization	B-NORP
+Authority	I-Organization
 and	O
 claims	O
 concerning	O
@@ -712,8 +712,8 @@ happy	O
 that	O
 today	O
 the	O
-Israeli	B-NORP	B-Organization
-government	O	I-Organization
+Israeli	B-Organization	B-NORP
+government	I-Organization
 had	O
 taken	O
 its	O

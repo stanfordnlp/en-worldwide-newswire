@@ -101,10 +101,10 @@ a	O
 grant	O
 from	O
 the	O
-Korea	B-Location	B-Organization
-International	O	I-Organization
-Cooperation	O	I-Organization
-Agency	O	I-Organization
+Korea	B-Organization	B-Location
+International	I-Organization
+Cooperation	I-Organization
+Agency	I-Organization
 (	O
 KOICA	B-Organization
 )	O
@@ -268,10 +268,10 @@ Vehicles	I-Misc
 Maintenance	I-Misc
 )	O
 ,	O
-Catholic	B-NORP	B-Organization
-University	O	I-Organization
-of	O	I-Organization
-Busan	O	I-Organization
+Catholic	B-Organization	B-NORP
+University	I-Organization
+of	I-Organization
+Busan	I-Organization
 (	O
 Dental	B-Misc
 Laboratory	I-Misc

@@ -1,9 +1,9 @@
 https://kashmirobserver.net/2022/07/24/northern-army-commander-reviews-security-situation-in-kashmir/	O
 
-Udhampur	B-Location	B-Organization
--	O	I-Organization
-Northern	O	I-Organization
-Army	O	I-Organization
+Udhampur	B-Organization	B-Location
+-	I-Organization
+Northern	I-Organization
+Army	I-Organization
 Commander	O
 Lieutenant	O
 General	O
@@ -160,9 +160,9 @@ with	O
 the	O
 participants	O
 of	O
-Kargil	B-Location	B-Misc
-Vijay	O	I-Misc
-Diwas	O	I-Misc
+Kargil	B-Misc	B-Location
+Vijay	I-Misc
+Diwas	I-Misc
 motorcycle	O
 expedition	O
 at	O
@@ -181,10 +181,10 @@ Kargil	B-Location
 as	O
 part	O
 of	O
-Kargil	B-Location	B-Misc
-Vijay	O	I-Misc
-Diwas	O	I-Misc
-2022	O	I-Misc
+Kargil	B-Misc	B-Location
+Vijay	I-Misc
+Diwas	I-Misc
+2022	I-Misc
 celebration	O
 scheduled	O
 on	O

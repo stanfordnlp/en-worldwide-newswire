@@ -93,10 +93,10 @@ city	O
 of	O
 Liberia	B-Location
 and	O
-Daniel	B-Person	B-Facility
-Oduber	I-Person	I-Facility
-International	O	I-Facility
-Airport	O	I-Facility
+Daniel	B-Facility	B-Person
+Oduber	I-Facility	I-Person
+International	I-Facility
+Airport	I-Facility
 ,	O
 Playas	B-Location
 del	I-Location

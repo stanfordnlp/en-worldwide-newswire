@@ -310,10 +310,10 @@ alert	O
 According	O
 to	O
 the	O
-Chinese	B-NORP	B-Organization
-Ministry	O	I-Organization
-of	O	I-Organization
-Commerce	O	I-Organization
+Chinese	B-Organization	B-NORP
+Ministry	I-Organization
+of	I-Organization
+Commerce	I-Organization
 ,	O
 about	O
 100	O
@@ -400,10 +400,10 @@ a	O
 statement	O
 from	O
 the	O
-Chinese	B-NORP	B-Organization
-Chamber	O	I-Organization
-of	O	I-Organization
-Commerce	O	I-Organization
+Chinese	B-Organization	B-NORP
+Chamber	I-Organization
+of	I-Organization
+Commerce	I-Organization
 in	O
 Sri	B-Location
 Lanka	I-Location

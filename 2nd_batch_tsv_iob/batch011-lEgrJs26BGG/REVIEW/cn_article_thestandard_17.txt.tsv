@@ -80,8 +80,8 @@ was	O
 seen	O
 taking	O
 the	O
-Heathrow	B-Location	B-Facility
-Express	O	I-Facility
+Heathrow	B-Facility	B-Location
+Express	I-Facility
 at	O
 Terminal	B-Location
 5	I-Location
@@ -89,13 +89,13 @@ and	O
 getting	O
 off	O
 at	O
-Heathrow	B-Location	B-Facility
-Terminals	I-Location	I-Facility
-2	I-Location	I-Facility
-&	I-Location	I-Facility
-3	I-Location	I-Facility
-railway	O	I-Facility
-station	O	I-Facility
+Heathrow	B-Facility	B-Location
+Terminals	I-Facility	I-Location
+2	I-Facility	I-Location
+&	I-Facility	I-Location
+3	I-Facility	I-Location
+railway	I-Facility
+station	I-Facility
 .	O
 
 He	O

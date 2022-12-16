@@ -264,9 +264,9 @@ all	O
 their	O
 dedication	O
 and	O
-Qatar	B-Location	B-Organization
-Central	O	I-Organization
-Bank	O	I-Organization
+Qatar	B-Organization	B-Location
+Central	I-Organization
+Bank	I-Organization
 for	O
 their	O
 esteemed	O

@@ -78,11 +78,11 @@ the	O
 facilities	O
 administered	O
 by	O
-Nicaragua	B-Location	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Tourism	O	I-Organization
-Institute	O	I-Organization
+Nicaragua	B-Organization	B-Location
+’	I-Organization
+s	I-Organization
+Tourism	I-Organization
+Institute	I-Organization
 (	O
 INTUR	B-Organization
 )	O

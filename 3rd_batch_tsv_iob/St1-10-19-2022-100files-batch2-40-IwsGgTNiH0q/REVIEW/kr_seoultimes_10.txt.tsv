@@ -24,14 +24,14 @@ The	O
 Board	O
 of	O
 the	O
-Korean	B-NORP	B-Organization
--	O	I-Organization
-German	O	I-Organization	B-NORP
-Chamber	O	I-Organization
-of	O	I-Organization
-Commerce	O	I-Organization
-and	O	I-Organization
-Industry	O	I-Organization
+Korean	B-Organization	B-NORP
+-	I-Organization
+German	I-Organization	B-NORP
+Chamber	I-Organization
+of	I-Organization
+Commerce	I-Organization
+and	I-Organization
+Industry	I-Organization
 (	O
 KGCCI	B-Organization
 )	O
@@ -97,10 +97,10 @@ the	O
 chairman	O
 of	O
 the	O
-Korean	B-NORP	B-Organization
--	O	I-Organization
-German	O	I-Organization	B-NORP
-Society	O	I-Organization
+Korean	B-Organization	B-NORP
+-	I-Organization
+German	I-Organization	B-NORP
+Society	I-Organization
 .	O
 
 "	O

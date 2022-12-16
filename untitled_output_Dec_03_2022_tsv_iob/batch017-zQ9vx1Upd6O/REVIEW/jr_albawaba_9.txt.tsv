@@ -36,10 +36,10 @@ was	O
 released	O
 by	O
 the	O
-Dubai	B-Location	B-Organization
-Police	O	I-Organization
-General	O	I-Organization
-Command	O	I-Organization
+Dubai	B-Organization	B-Location
+Police	I-Organization
+General	I-Organization
+Command	I-Organization
 during	O
 the	O
 second	O
@@ -64,14 +64,14 @@ of	I-Organization
 Artificial	I-Organization
 Intelligence	I-Organization
 at	O
-Dubai	B-Location	B-Organization
-Police	O	I-Organization
+Dubai	B-Organization	B-Location
+Police	I-Organization
 ,	O
 said	O
 that	O
 the	O
-Dubai	B-Location	B-Organization
-Police	O	I-Organization
+Dubai	B-Organization	B-Location
+Police	I-Organization
 received	O
 more	O
 than	O
@@ -118,8 +118,8 @@ individuals	O
 won	O
 and	O
 received	O
-Dubai	B-Location	B-Organization
-Police	O	I-Organization
+Dubai	B-Organization	B-Location
+Police	I-Organization
 digital	O
 assets	O
 for	O
@@ -145,8 +145,8 @@ the	O
 second	O
 edition	O
 of	O
-Dubai	B-Location	B-Organization
-Police	O	I-Organization
+Dubai	B-Organization	B-Location
+Police	I-Organization
 digital	O
 assets	O
 should	O
@@ -166,8 +166,8 @@ GITEX	B-Misc
 He	O
 confirmed	O
 that	O
-Dubai	B-Location	B-Organization
-Police	O	I-Organization
+Dubai	B-Organization	B-Location
+Police	I-Organization
 is	O
 the	O
 first	O
@@ -226,8 +226,8 @@ interactive	O
 countries	O
 with	O
 the	O
-Dubai	B-Location	B-Organization
-Police	O	I-Organization
+Dubai	B-Organization	B-Location
+Police	I-Organization
 announcement	O
 in	O
 local	O
@@ -256,8 +256,8 @@ The	O
 total	O
 views	O
 of	O
-Dubai	B-Location	B-Organization
-Police	O	I-Organization
+Dubai	B-Organization	B-Location
+Police	I-Organization
 NFT	O
 -	O
 related	O
@@ -354,8 +354,8 @@ of	O
 comments	O
 on	O
 the	O
-Dubai	B-Location	B-Organization
-Police	O	I-Organization
+Dubai	B-Organization	B-Location
+Police	I-Organization
 announcement	O
 of	O
 launching	O

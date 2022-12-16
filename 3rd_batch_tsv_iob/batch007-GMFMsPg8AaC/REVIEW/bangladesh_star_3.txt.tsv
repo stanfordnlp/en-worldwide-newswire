@@ -17,10 +17,10 @@ at	O
 Boilor	B-Location
 area	O
 on	O
-Dhaka	B-Location	B-Facility
--	O	I-Facility
-Mymensingh	O	I-Facility	B-Location
-highway	O	I-Facility
+Dhaka	B-Facility	B-Location
+-	I-Facility
+Mymensingh	I-Facility	B-Location
+highway	I-Facility
 in	O
 Trishal	B-Location
 upazla	I-Location
@@ -70,9 +70,9 @@ in	O
 -	O
 charge	O
 of	O
-Trishal	B-Location	B-Facility
-Police	O	I-Facility
-Station	O	I-Facility
+Trishal	B-Facility	B-Location
+Police	I-Facility
+Station	I-Facility
 .	O
 
 Quoting	O

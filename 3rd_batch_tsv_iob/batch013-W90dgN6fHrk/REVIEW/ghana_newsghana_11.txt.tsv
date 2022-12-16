@@ -269,9 +269,9 @@ Atomic	B-Organization
 Tennis	I-Organization
 Club	I-Organization
 ,	O
-Koforidua	B-Location	B-Organization
-Tennis	O	I-Organization
-Club	O	I-Organization
+Koforidua	B-Organization	B-Location
+Tennis	I-Organization
+Club	I-Organization
 and	O
 KNUST	B-Organization
 Tennis	I-Organization

@@ -57,12 +57,12 @@ directly	O
 ,	O
 but	O
 said	O
-Alibaba	B-Organization	B-Misc
-’	O	I-Misc
-s	O	I-Misc
-Taobao	O	I-Misc
-Live	O	I-Misc
-platform	O	I-Misc
+Alibaba	B-Misc	B-Organization
+’	I-Misc
+s	I-Misc
+Taobao	I-Misc
+Live	I-Misc
+platform	I-Misc
 treated	O
 all	O
 online	O
@@ -143,12 +143,12 @@ represented	O
 their	O
 clients	O
 via	O
-Alibaba	B-Organization	B-Misc
-’	O	I-Misc
-s	O	I-Misc
-Taobao	O	I-Misc
-Live	O	I-Misc
-platform	O	I-Misc
+Alibaba	B-Misc	B-Organization
+’	I-Misc
+s	I-Misc
+Taobao	I-Misc
+Live	I-Misc
+platform	I-Misc
 ,	O
 were	O
 once	O
@@ -176,10 +176,10 @@ about	O
 billion	I-Money
 yuan	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-2.98	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+2.98	I-Money
+billion	I-Money
 )	O
 of	O
 goods	O
@@ -222,10 +222,10 @@ Alibaba	B-Organization
 which	O
 owns	O
 the	O
-South	B-Location	B-Organization
-China	I-Location	I-Organization
-Morning	O	I-Organization
-Post	O	I-Organization
+South	B-Organization	B-Location
+China	I-Organization	I-Location
+Morning	I-Organization
+Post	I-Organization
 ,	O
 is	O
 credited	O
@@ -917,11 +917,11 @@ to	O
 data	O
 published	O
 by	O
-China	B-Location	B-Organization
-Internet	O	I-Organization
-Network	O	I-Organization
-Information	O	I-Organization
-Centre	O	I-Organization
+China	B-Organization	B-Location
+Internet	I-Organization
+Network	I-Organization
+Information	I-Organization
+Centre	I-Organization
 .	O
 
 With	O
@@ -1383,9 +1383,9 @@ A	O
 member	O
 of	O
 the	O
-Shanghai	B-Location	B-Organization
-Youth	O	I-Organization
-Federation	O	I-Organization
+Shanghai	B-Organization	B-Location
+Youth	I-Organization
+Federation	I-Organization
 ,	O
 Li	B-Person
 was	O
@@ -1423,11 +1423,11 @@ social	O
 responsibility	O
 from	O
 the	O
-Communist	B-NORP	B-Organization
-Youth	O	I-Organization
-League	O	I-Organization
-of	O	I-Organization
-China	O	I-Organization	B-Location
+Communist	B-Organization	B-NORP
+Youth	I-Organization
+League	I-Organization
+of	I-Organization
+China	I-Organization	B-Location
 .	O
 
 Viya	B-Person
@@ -1454,9 +1454,9 @@ state	O
 backed	O
 All	O
 -	O
-China	B-Location	B-Organization
-Youth	O	I-Organization
-Federation	O	I-Organization
+China	B-Organization	B-Location
+Youth	I-Organization
+Federation	I-Organization
 .	O
 
 Chu	B-Person

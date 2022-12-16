@@ -1132,9 +1132,9 @@ of	O
 the	O
 joint	O
 venture	O
-Havana	B-Location	B-Product	B-Organization
-Club	O	I-Product	I-Organization
-Internacional	O	O	I-Organization
+Havana	B-Organization	B-Product	B-Location
+Club	I-Organization	I-Product
+Internacional	I-Organization
 ,	O
 Sergio	B-Person
 Valdés	I-Person
@@ -1193,9 +1193,9 @@ other	O
 countries	O
 .	O
 
-Havana	B-Location	B-Product	B-Organization
-Club	O	I-Product	I-Organization
-Internacional	O	O	I-Organization
+Havana	B-Organization	B-Product	B-Location
+Club	I-Organization	I-Product
+Internacional	I-Organization
 ,	O
 created	O
 in	O
@@ -1227,8 +1227,8 @@ president	O
 Juan	B-Person
 González	I-Person
 ,	O
-Havana	B-Location	B-Product
-Club	O	I-Product
+Havana	B-Product	B-Location
+Club	I-Product
 rum	O
 is	O
 sold	O

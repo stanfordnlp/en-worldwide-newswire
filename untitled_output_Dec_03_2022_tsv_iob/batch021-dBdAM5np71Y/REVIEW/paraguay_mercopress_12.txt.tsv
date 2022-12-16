@@ -245,10 +245,10 @@ was	O
 pregnant	O
 .	O
 
-Paraguay	B-Location	B-Organization
-'s	O	I-Organization
-Foreign	O	I-Organization
-Ministry	O	I-Organization
+Paraguay	B-Organization	B-Location
+'s	I-Organization
+Foreign	I-Organization
+Ministry	I-Organization
 reported	O
 that	O
 Ambassador	O

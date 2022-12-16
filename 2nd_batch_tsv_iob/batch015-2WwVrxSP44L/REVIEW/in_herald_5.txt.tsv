@@ -123,8 +123,8 @@ was	O
 in	O
 response	O
 to	O
-Karnataka	B-Location	B-Organization
-Congress	O	I-Organization
+Karnataka	B-Organization	B-Location
+Congress	I-Organization
 president	O
 DK	B-Person
 Shivakumar	I-Person

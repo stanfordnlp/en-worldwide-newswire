@@ -546,9 +546,9 @@ introduced	O
 But	O
 as	O
 the	O
-Islamic	B-NORP	B-Organization
-Salvation	O	I-Organization
-Front	O	I-Organization
+Islamic	B-Organization	B-NORP
+Salvation	I-Organization
+Front	I-Organization
 party	O
 ,	O
 or	O
@@ -859,8 +859,8 @@ embodied	O
 by	O
 the	O
 2011	B-Misc
-Arab	B-NORP	B-Misc
-Spring	O	I-Misc
+Arab	B-Misc	B-NORP
+Spring	I-Misc
 revolutions	O
 that	O
 overthrew	O

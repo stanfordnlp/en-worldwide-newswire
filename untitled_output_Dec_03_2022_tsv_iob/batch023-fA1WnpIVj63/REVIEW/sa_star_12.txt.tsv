@@ -43,15 +43,15 @@ minority	O
 parties	O
 in	O
 the	O
-Joburg	B-Location	B-Organization
-City	O	I-Organization
-Council	O	I-Organization
+Joburg	B-Organization	B-Location
+City	I-Organization
+Council	I-Organization
 camped	O
 outside	O
 the	O
-Brixton	B-Location	B-Facility
-police	O	I-Facility
-station	O	I-Facility
+Brixton	B-Facility	B-Location
+police	I-Facility
+station	I-Facility
 demanding	O
 this	O
 week	O

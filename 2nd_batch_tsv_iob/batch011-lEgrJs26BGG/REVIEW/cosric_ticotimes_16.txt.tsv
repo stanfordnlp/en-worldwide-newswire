@@ -123,16 +123,16 @@ In	O
 addition	O
 ,	O
 the	O
-Costa	B-NORP	B-Organization
-Rican	I-NORP	I-Organization
-Red	O	I-Organization
-Cross	O	I-Organization
+Costa	B-Organization	B-NORP
+Rican	I-Organization	I-NORP
+Red	I-Organization
+Cross	I-Organization
 ,	O
-San	B-Location	B-Organization
-Pedro	I-Location	I-Organization
-de	I-Location	I-Organization
-Poás	I-Location	I-Organization
-Committee	O	I-Organization
+San	B-Organization	B-Location
+Pedro	I-Organization	I-Location
+de	I-Organization	I-Location
+Poás	I-Organization	I-Location
+Committee	I-Organization
 ,	O
 will	O
 be	O
@@ -182,9 +182,9 @@ the	O
 Red	B-Organization
 Cross	I-Organization
 ,	O
-Tierra	B-Location	B-Organization
-Blanca	I-Location	I-Organization
-Committee	O	I-Organization
+Tierra	B-Organization	B-Location
+Blanca	I-Organization	I-Location
+Committee	I-Organization
 ,	O
 was	O
 granted	O

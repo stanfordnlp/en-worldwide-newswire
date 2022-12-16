@@ -236,8 +236,8 @@ a	O
 decade	O
 -	O
 long	O
-Nicaraguan	B-Location	B-Misc
-Revolution	O	I-Misc
+Nicaraguan	B-Misc	B-Location
+Revolution	I-Misc
 that	O
 saw	O
 the	O

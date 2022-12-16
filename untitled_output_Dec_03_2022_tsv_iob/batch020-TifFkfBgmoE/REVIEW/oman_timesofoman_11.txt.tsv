@@ -135,9 +135,9 @@ and	O
 some	O
 officials	O
 in	O
-Zanzibar	B-Location	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-government	O	I-Organization
+Zanzibar	B-Organization	B-Location
+’	I-Organization
+s	I-Organization
+government	I-Organization
 .	O
 

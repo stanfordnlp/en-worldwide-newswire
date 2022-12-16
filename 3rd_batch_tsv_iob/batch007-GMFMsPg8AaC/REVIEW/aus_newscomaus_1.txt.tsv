@@ -203,9 +203,9 @@ Commonwealth	B-Misc
 Games	I-Misc
 at	O
 the	O
-Australian	B-NORP	B-Misc
-Swimming	O	I-Misc
-Championships	O	I-Misc
+Australian	B-Misc	B-NORP
+Swimming	I-Misc
+Championships	I-Misc
 in	O
 May	B-Misc
 .	O
@@ -333,9 +333,9 @@ he	O
 set	O
 at	O
 the	O
-Australian	B-NORP	B-Misc
-National	O	I-Misc
-Championshps	O	I-Misc
+Australian	B-Misc	B-NORP
+National	I-Misc
+Championshps	I-Misc
 in	O
 May	B-Misc
 .	O

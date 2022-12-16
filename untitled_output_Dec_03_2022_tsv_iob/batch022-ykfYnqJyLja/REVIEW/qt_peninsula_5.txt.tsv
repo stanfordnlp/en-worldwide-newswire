@@ -2,10 +2,10 @@ https://thepeninsulaqatar.com/article/25/07/2022/pakistan-engineers-forum-to-hol
 
 Doha	B-Location
 :	O
-Pakistan	B-Location	B-Organization
-Engineers	O	I-Organization
-Forum	O	I-Organization
-Qatar	O	I-Organization	B-Location
+Pakistan	B-Organization	B-Location
+Engineers	I-Organization
+Forum	I-Organization
+Qatar	I-Organization	B-Location
 ,	O
 one	O
 of	O
@@ -79,12 +79,12 @@ recipient	O
 of	O
 the	O
 ‘	O
-Brian	B-Person	B-Misc
-Tracy	I-Person	I-Misc
-International	O	I-Misc
-Excellence	O	I-Misc
-Award	O	I-Misc
-2017	O	I-Misc
+Brian	B-Misc	B-Person
+Tracy	I-Misc	I-Person
+International	I-Misc
+Excellence	I-Misc
+Award	I-Misc
+2017	I-Misc
 ’	O
 ,	O
 held	O
@@ -158,8 +158,8 @@ Mission	O
 and	O
 Minister	O
 at	O
-Pakistan	B-Location	B-Organization
-Embassy	O	I-Organization
+Pakistan	B-Organization	B-Location
+Embassy	I-Organization
 Qatar	B-Location
 ,	O
 as	O
@@ -178,8 +178,8 @@ active	O
 member	O
 of	O
 the	O
-Pakistan	B-Location	B-Organization
-embassy	O	I-Organization
+Pakistan	B-Organization	B-Location
+embassy	I-Organization
 and	O
 is	O
 working	O
@@ -280,25 +280,25 @@ Planning	O
 and	O
 Quality	O
 for	O
-Qatar	B-Location	B-Organization
-Tourism	O	I-Organization
+Qatar	B-Organization	B-Location
+Tourism	I-Organization
 ,	O
 Human	O
 Resources	O
 Director	O
 in	O
-Qatar	B-Location	B-Misc
-Stars	O	I-Misc
-League	O	I-Misc
+Qatar	B-Misc	B-Location
+Stars	I-Misc
+League	I-Misc
 ,	O
 and	O
 Project	O
 Manager	O
 in	O
-Qatar	B-Location	B-Organization
-Financial	O	I-Organization
-Centre	O	I-Organization
-Authority	O	I-Organization
+Qatar	B-Organization	B-Location
+Financial	I-Organization
+Centre	I-Organization
+Authority	I-Organization
 .	O
 He	O
 is	O
@@ -308,11 +308,11 @@ the	O
 founders	O
 of	O
 the	O
-Qatar	B-Location	B-Organization
-Finance	O	I-Organization
-&	O	I-Organization
-Business	O	I-Organization
-Academy	O	I-Organization
+Qatar	B-Organization	B-Location
+Finance	I-Organization
+&	I-Organization
+Business	I-Organization
+Academy	I-Organization
 .	O
 During	O
 his	O
@@ -341,10 +341,10 @@ LNG	B-Organization
 Qatargas	I-Organization
 .	O
 
-Pakistan	B-Location	B-Organization
-Engineers	O	I-Organization
-Forum	O	I-Organization
-Qatar	O	I-Organization	B-Location
+Pakistan	B-Organization	B-Location
+Engineers	I-Organization
+Forum	I-Organization
+Qatar	I-Organization	B-Location
 is	O
 committed	O
 to	O

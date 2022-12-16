@@ -24,10 +24,10 @@ area	O
 of	O
 South	B-Location	B-Location
 Kashmir	I-Location	I-Location
-’	O	I-Location
-s	O	I-Location
-Shopian	O	I-Location	B-Location
-district	O	I-Location	I-Location
+’	I-Location
+s	I-Location
+Shopian	I-Location	B-Location
+district	I-Location	I-Location
 on	O
 Friday	B-Misc
 .	O

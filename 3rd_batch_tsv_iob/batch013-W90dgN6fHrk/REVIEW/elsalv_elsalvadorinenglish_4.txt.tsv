@@ -74,10 +74,10 @@ an	O
 agreement	O
 with	O
 the	O
-Swedish	B-NORP	B-Organization
-Environmental	O	I-Organization
-Research	O	I-Organization
-Institute	O	I-Organization
+Swedish	B-Organization	B-NORP
+Environmental	I-Organization
+Research	I-Organization
+Institute	I-Organization
 to	O
 study	O
 sustainability	O
@@ -558,15 +558,15 @@ participated	O
 in	O
 the	O
 first	O
-El	B-Location	B-Misc
-Salvador	I-Location	I-Misc
--	O	I-Misc
-Finland	O	I-Misc	B-Location
-Political	O	I-Misc
-Dialogue	O	I-Misc
-and	O	I-Misc
-Cooperation	O	I-Misc
-Meeting	O	I-Misc
+El	B-Misc	B-Location
+Salvador	I-Misc	I-Location
+-	I-Misc
+Finland	I-Misc	B-Location
+Political	I-Misc
+Dialogue	I-Misc
+and	I-Misc
+Cooperation	I-Misc
+Meeting	I-Misc
 .	O
 The	O
 meeting	O
@@ -668,11 +668,11 @@ State	O
 Secretary	O
 of	O
 the	O
-Norwegian	B-NORP	B-Organization
-Ministry	O	I-Organization
-of	O	I-Organization
-Foreign	O	I-Organization
-Affairs	O	I-Organization
+Norwegian	B-Organization	B-NORP
+Ministry	I-Organization
+of	I-Organization
+Foreign	I-Organization
+Affairs	I-Organization
 ,	O
 Anders	B-Person
 Jens	I-Person

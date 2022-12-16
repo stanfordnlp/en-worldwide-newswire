@@ -182,7 +182,7 @@ Australia	I-Location
 
 Sky	B-Organization	B-Organization
 News	I-Organization	I-Organization
-Weather	O	I-Organization
+Weather	I-Organization
 senior	O
 meteorologist	O
 Tom	B-Person

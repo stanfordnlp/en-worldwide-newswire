@@ -142,8 +142,8 @@ way	O
 forward	O
 under	O
 the	O
-African	B-NORP	B-Organization
-Union	O	I-Organization
+African	B-Organization	B-NORP
+Union	I-Organization
 ’	O
 s	O
 auspices	O
@@ -413,15 +413,15 @@ Sisi	I-Person
 to	O
 attend	O
 the	O
-U	B-Location	B-Misc
-.	I-Location	I-Misc
-S	I-Location	I-Misc
-.	I-Location	I-Misc
--	O	I-Misc
-Africa	O	I-Misc	B-Location
-Leaders	O	I-Misc
-’	O	I-Misc
-Summit	O	I-Misc
+U	B-Misc	B-Location
+.	I-Misc	I-Location
+S	I-Misc	I-Location
+.	I-Misc	I-Location
+-	I-Misc
+Africa	I-Misc	B-Location
+Leaders	I-Misc
+’	I-Misc
+Summit	I-Misc
 on	O
 December	B-Misc
 13-15	I-Misc

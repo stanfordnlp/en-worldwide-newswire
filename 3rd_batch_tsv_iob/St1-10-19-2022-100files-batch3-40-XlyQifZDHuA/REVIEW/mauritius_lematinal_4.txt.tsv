@@ -83,8 +83,8 @@ the	O
 matter	O
 with	O
 the	O
-Indian	B-NORP	B-Organization
-government	O	I-Organization
+Indian	B-Organization	B-NORP
+government	I-Organization
 and	O
 Narendra	B-Person
 Modi	I-Person

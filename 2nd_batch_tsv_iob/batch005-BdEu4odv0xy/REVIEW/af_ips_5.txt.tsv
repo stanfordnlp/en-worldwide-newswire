@@ -16,9 +16,9 @@ the	O
 Nairobi	B-Location
 -	O
 based	O
-African	B-NORP	B-Organization
-Wildlife	O	I-Organization
-Foundation	O	I-Organization
+African	B-Organization	B-NORP
+Wildlife	I-Organization
+Foundation	I-Organization
 ,	O
 Kaddu	B-Person
 Sebunya	I-Person
@@ -1314,8 +1314,8 @@ talking	O
 to	O
 policy	O
 and	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
+Communist	B-Organization	B-NORP
+Party	I-Organization
 officials	O
 .	O
 It	O
@@ -1775,8 +1775,8 @@ Polo	B-Product
 shirt	I-Product
 and	O
 an	O
-Apple	B-Organization	B-Product
-watch	O	I-Product
+Apple	B-Product	B-Organization
+watch	I-Product
 for	O
 their	O
 status	O
@@ -1815,11 +1815,11 @@ very	O
 good	O
 relationship	O
 with	O
-Beijing	B-Location	B-Facility
-zoo	O	I-Facility
+Beijing	B-Facility	B-Location
+zoo	I-Facility
 and	O
-Shanghai	B-Location	B-Facility
-zoo	O	I-Facility
+Shanghai	B-Facility	B-Location
+zoo	I-Facility
 where	O
 every	O
 year	O
@@ -1995,8 +1995,8 @@ should	O
 I	O
 told	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 parliament	O
 and	O
 some	O
@@ -2108,8 +2108,8 @@ Yale	B-Organization
 ,	O
 Harvard	B-Organization
 ,	O
-London	B-Location	B-Organization
-University	O	I-Organization
+London	B-Organization	B-Location
+University	I-Organization
 and	O
 you	O
 sit	O

@@ -258,9 +258,9 @@ is	O
 part	O
 of	O
 the	O
-Jerusalem	B-Location	B-Misc
-Film	O	I-Misc
-Festival	O	I-Misc
+Jerusalem	B-Misc	B-Location
+Film	I-Misc
+Festival	I-Misc
 ’	O
 s	O
 documentary	O
@@ -507,9 +507,9 @@ Freedom	I-Misc
 Award	I-Misc
 at	O
 the	O
-Jerusalem	B-Location	B-Misc
-Film	O	I-Misc
-Festival	O	I-Misc
+Jerusalem	B-Misc	B-Location
+Film	I-Misc
+Festival	I-Misc
 with	O
 the	O
 film	O
@@ -545,23 +545,23 @@ later	O
 he	O
 won	O
 a	O
-Muhr	B-Location	B-Misc
-Arab	O	I-Misc	B-NORP
-award	O	I-Misc
+Muhr	B-Misc	B-Location
+Arab	I-Misc	B-NORP
+award	I-Misc
 at	O
 the	O
-Dubai	B-Location	B-Misc
-Film	O	I-Misc
-Festival	O	I-Misc
+Dubai	B-Misc	B-Location
+Film	I-Misc
+Festival	I-Misc
 and	O
 the	O
 Best	O
 Film	O
 at	O
 the	O
-Cagliari	B-Location	B-Misc
-Film	O	I-Misc
-Festival	O	I-Misc
+Cagliari	B-Misc	B-Location
+Film	I-Misc
+Festival	I-Misc
 in	O
 Italy	B-Location
 for	O
@@ -1655,8 +1655,8 @@ When	O
 prisoners	O
 escaped	O
 from	O
-Gilboa	B-Location	B-Facility
-Prison	O	I-Facility
+Gilboa	B-Facility	B-Location
+Prison	I-Facility
 ,	O
 the	O
 public	O
@@ -1799,11 +1799,11 @@ political	O
 science	O
 researcher	O
 from	O
-Jerusalem	B-Location	B-Organization
-’	O	I-Organization
-s	O	I-Organization
-Hebrew	O	I-Organization
-University	O	I-Organization
+Jerusalem	B-Organization	B-Location
+’	I-Organization
+s	I-Organization
+Hebrew	I-Organization
+University	I-Organization
 ,	O
 who	O
 says	O

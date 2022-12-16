@@ -63,10 +63,10 @@ technology	O
 expert	O
 at	O
 the	O
-Chinese	B-NORP	B-Organization
-Academy	O	I-Organization
-of	O	I-Organization
-Sciences	O	I-Organization
+Chinese	B-Organization	B-NORP
+Academy	I-Organization
+of	I-Organization
+Sciences	I-Organization
 and	O
 the	O
 secretary	O
@@ -441,10 +441,10 @@ non	O
 -	O
 profit	O
 organisation	O
-RISC	B-Product	B-Organization
--	I-Product	I-Organization
-V	I-Product	I-Organization
-International	O	I-Organization
+RISC	B-Organization	B-Product
+-	I-Organization	I-Product
+V	I-Organization	I-Product
+International	I-Organization
 .	O
 
 Of	O
@@ -488,10 +488,10 @@ Holding	I-Organization
 owner	O
 of	O
 the	O
-South	B-Location	B-Organization
-China	I-Location	I-Organization
-Morning	O	I-Organization
-Post	O	I-Organization
+South	B-Organization	B-Location
+China	I-Organization	I-Location
+Morning	I-Organization
+Post	I-Organization
 .	O
 
 At	O
@@ -736,10 +736,10 @@ sanctions	O
 ban	O
 companies	O
 like	O
-Taiwan	B-Location	B-Organization
-Semiconductor	O	I-Organization
-Manufacturing	O	I-Organization
-Co	O	I-Organization
+Taiwan	B-Organization	B-Location
+Semiconductor	I-Organization
+Manufacturing	I-Organization
+Co	I-Organization
 (	O
 TSMC	B-Organization
 )	O

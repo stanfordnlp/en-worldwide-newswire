@@ -15,11 +15,11 @@ The	O
 spokesperson	O
 for	O
 the	O
-Iranian	B-NORP	B-Organization
-Ministry	O	I-Organization
-of	O	I-Organization
-Foreign	O	I-Organization
-Affairs	O	I-Organization
+Iranian	B-Organization	B-NORP
+Ministry	I-Organization
+of	I-Organization
+Foreign	I-Organization
+Affairs	I-Organization
 ,	O
 Nasser	B-Person
 Kanaani	I-Person
@@ -79,8 +79,8 @@ as	O
 well	O
 as	O
 the	O
-Iraqi	B-NORP	B-Organization
-government	O	I-Organization
+Iraqi	B-Organization	B-NORP
+government	I-Organization
 and	O
 nation	O
 ,	O
@@ -151,8 +151,8 @@ of	I-Location
 Dohuk	I-Location
 ,	O
 the	O
-Iraqi	B-NORP	B-Organization
-government	O	I-Organization
+Iraqi	B-Organization	B-NORP
+government	I-Organization
 announced	O
 it	O
 will	O
@@ -276,8 +276,8 @@ Mevlut	B-Person
 Cavusoglu	I-Person
 advised	O
 the	O
-Iraqi	B-NORP	B-Organization
-government	O	I-Organization
+Iraqi	B-Organization	B-NORP
+government	I-Organization
 on	O
 Thursday	B-Misc
 “	O
@@ -374,8 +374,8 @@ the	O
 leader	O
 of	O
 the	O
-Sadrist	B-NORP	B-Organization
-movement	O	I-Organization
+Sadrist	B-Organization	B-NORP
+movement	I-Organization
 .	O
 
 Sadr	B-Person
@@ -530,8 +530,8 @@ attack	O
 saying	O
 that	O
 the	O
-Turkish	B-NORP	B-Organization
-troops	O	I-Organization
+Turkish	B-Organization	B-NORP
+troops	I-Organization
 have	O
 violated	O
 Iraq	B-Location

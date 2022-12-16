@@ -411,8 +411,8 @@ global	O
 recession	O
 .	O
 
-US	B-Location	B-Organization
-Treasury	O	I-Organization
+US	B-Organization	B-Location
+Treasury	I-Organization
 Secretary	O
 Janet	B-Person
 Yellen	I-Person

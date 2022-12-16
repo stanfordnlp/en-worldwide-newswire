@@ -7,7 +7,7 @@ community	O
 in	O
 the	O
 Chaco	B-Location	B-Location
-region	O	I-Location
+region	I-Location
 has	O
 turned	O
 to	O
@@ -59,8 +59,8 @@ has	O
 turned	O
 to	O
 the	O
-Spanish	B-NORP	B-Organization
-Government	O	I-Organization
+Spanish	B-Organization	B-NORP
+Government	I-Organization
 ,	O
 where	O
 their	O

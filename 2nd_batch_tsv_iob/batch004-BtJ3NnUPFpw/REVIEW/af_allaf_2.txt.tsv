@@ -41,9 +41,9 @@ President	O
 William	B-Person
 Ruto	I-Person
 's	O
-Kenya	B-Location	B-Organization
-Kwanza	O	I-Organization
-coalitions	O	I-Organization
+Kenya	B-Organization	B-Location
+Kwanza	I-Organization
+coalitions	I-Organization
 .	O
 
 The	O
@@ -126,8 +126,8 @@ tell	O
 Kenyans	B-NORP
 the	O
 plan	O
-Kenya	B-Location	B-Organization
-Kwanza	O	I-Organization
+Kenya	B-Organization	B-Location
+Kwanza	I-Organization
 has	O
 for	O
 the	O

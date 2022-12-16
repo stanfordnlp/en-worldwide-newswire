@@ -3,12 +3,12 @@ http://www.jordantimes.com/news/local/agreement-worth-175-million-signed-establi
 AMMAN	B-Location
 —	O
 The	O
-Aqaba	B-Location	B-Organization
-Development	O	I-Organization
-Corporation	O	I-Organization
-(	O	I-Organization
-ADC	O	I-Organization
-)	O	I-Organization
+Aqaba	B-Organization	B-Location
+Development	I-Organization
+Corporation	I-Organization
+(	I-Organization
+ADC	I-Organization
+)	I-Organization
 and	O
 Orbit	B-Organization
 Aluminum	I-Organization
@@ -31,14 +31,14 @@ rolling	O
 mill	O
 in	O
 the	O
-Aqaba	B-Location	B-Organization
-Special	O	I-Organization
-Economic	O	I-Organization
-Zone	O	I-Organization
-Authority	O	I-Organization
-(	O	I-Organization
-ASEZA	O	I-Organization
-)	O	I-Organization
+Aqaba	B-Organization	B-Location
+Special	I-Organization
+Economic	I-Organization
+Zone	I-Organization
+Authority	I-Organization
+(	I-Organization
+ASEZA	I-Organization
+)	I-Organization
 .	O
 
 The	O
@@ -61,11 +61,11 @@ region	O
 according	O
 to	O
 the	O
-Jordan	B-Location	B-Organization
-News	O	I-Organization
-Agency	O	I-Organization
-,	O	I-Organization
-Petra	O	I-Organization
+Jordan	B-Organization	B-Location
+News	I-Organization
+Agency	I-Organization
+,	I-Organization
+Petra	I-Organization
 .	O
 
 The	O
@@ -120,8 +120,8 @@ said	O
 
 The	O
 new	O
-Orbit	B-Organization	B-Facility
-factory	O	I-Facility
+Orbit	B-Facility	B-Organization
+factory	I-Facility
 ,	O
 to	O
 be	O

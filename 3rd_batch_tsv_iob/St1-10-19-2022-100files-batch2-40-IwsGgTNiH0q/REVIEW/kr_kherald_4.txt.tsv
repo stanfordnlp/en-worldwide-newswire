@@ -199,8 +199,8 @@ a	O
 member	O
 of	O
 the	O
-Democratic	B-NORP	B-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Party	I-Organization
 ,	O
 was	O
 the	O
@@ -661,8 +661,8 @@ values	O
 ”	O
 
 The	O
-Democratic	B-NORP	B-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Party	I-Organization
 targeted	O
 controversial	O
 personnel	O
@@ -847,8 +847,8 @@ Agency	I-Organization
 
 The	O
 opposition	O
-Democratic	B-NORP	B-Organization
-Party	O	I-Organization
+Democratic	B-Organization	B-NORP
+Party	I-Organization
 strongly	O
 criticized	O
 the	O

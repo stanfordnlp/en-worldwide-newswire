@@ -140,9 +140,9 @@ law	O
 and	O
 at	O
 the	O
-Nunavut	B-Location	B-Misc
-Law	O	I-Misc
-Program	O	I-Misc
+Nunavut	B-Misc	B-Location
+Law	I-Misc
+Program	I-Misc
 .	O
 
 The	O
@@ -169,9 +169,9 @@ blockade	O
 at	O
 Baffinland	B-Organization
 's	O
-Mary	B-Location	B-Facility
-River	I-Location	I-Facility
-Mine	O	I-Facility
+Mary	B-Facility	B-Location
+River	I-Facility	I-Location
+Mine	I-Facility
 about	O
 176	O
 kilometres	O
@@ -189,10 +189,10 @@ lawsuit	O
 filed	O
 in	O
 the	O
-Nunavut	B-Location	B-Organization
-Court	O	I-Organization
-of	O	I-Organization
-Justice	O	I-Organization
+Nunavut	B-Organization	B-Location
+Court	I-Organization
+of	I-Organization
+Justice	I-Organization
 ,	O
 accuses	O
 the	O
@@ -341,10 +341,10 @@ used	O
 .	O
 
 The	O
-Nunavut	B-Location	B-Misc
-Environmental	O	I-Misc
-Rights	O	I-Misc
-Act	O	I-Misc
+Nunavut	B-Misc	B-Location
+Environmental	I-Misc
+Rights	I-Misc
+Act	I-Misc
 states	O
 that	O
 every	O
@@ -375,10 +375,10 @@ an	O
 action	O
 in	O
 the	O
-Nunavut	B-Location	B-Facility
-Court	O	I-Facility
-of	O	I-Facility
-Justice	O	I-Facility
+Nunavut	B-Facility	B-Location
+Court	I-Facility
+of	I-Facility
+Justice	I-Facility
 against	O
 any	O
 person	O
@@ -1078,9 +1078,9 @@ the	O
 use	O
 of	O
 the	O
-Nunavut	B-Location	B-Misc
-Environmental	O	I-Misc
-Rights	O	I-Misc
-Act	O	I-Misc
+Nunavut	B-Misc	B-Location
+Environmental	I-Misc
+Rights	I-Misc
+Act	I-Misc
 .	O
 

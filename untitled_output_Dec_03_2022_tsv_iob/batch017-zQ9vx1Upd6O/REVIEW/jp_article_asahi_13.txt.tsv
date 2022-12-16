@@ -228,8 +228,8 @@ the	O
 demand	O
 ,	O
 the	O
-Saitama	B-Location	B-Organization
-group	O	I-Organization
+Saitama	B-Organization	B-Location
+group	I-Organization
 has	O
 recently	O
 been	O

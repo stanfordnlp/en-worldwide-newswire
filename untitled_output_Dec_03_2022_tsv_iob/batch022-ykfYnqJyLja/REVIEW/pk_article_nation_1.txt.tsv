@@ -19,12 +19,12 @@ of	O
 Punjab	B-Location
 ,	O
 opposition	O
-Pakistan	B-Location	B-Organization
-Tehreek	O	I-Organization
--	O	I-Organization
-e	O	I-Organization
--	O	I-Organization
-Insaf	O	I-Organization
+Pakistan	B-Organization	B-Location
+Tehreek	I-Organization
+-	I-Organization
+e	I-Organization
+-	I-Organization
+Insaf	I-Organization
 (	O
 PTI	B-Organization
 )	O
@@ -132,11 +132,11 @@ power	O
 to	O
 help	O
 ruling	O
-Pakistan	B-Location	B-Organization
-Muslim	O	I-Organization	B-NORP
-League	O	I-Organization
--	O	I-Organization
-Nawaz	O	I-Organization	B-Person
+Pakistan	B-Organization	B-Location
+Muslim	I-Organization	B-NORP
+League	I-Organization
+-	I-Organization
+Nawaz	I-Organization	B-Person
 (	O
 PML	B-Organization
 -	I-Organization
@@ -823,11 +823,11 @@ from	O
 the	O
 jaws	O
 of	O
-Pakistan	B-Location	B-Organization
-Muslim	O	I-Organization	B-NORP
-League	O	I-Organization
--	O	I-Organization
-Nawaz	O	I-Organization	B-Person
+Pakistan	B-Organization	B-Location
+Muslim	I-Organization	B-NORP
+League	I-Organization
+-	I-Organization
+Nawaz	I-Organization	B-Person
 (	O
 PML	B-Organization
 -	I-Organization
@@ -872,8 +872,8 @@ party	O
 s	O
 lawmakers	O
 of	O
-Punjab	B-Location	B-Organization
-Assembly	O	I-Organization
+Punjab	B-Organization	B-Location
+Assembly	I-Organization
 to	O
 avoid	O
 unnecessary	O

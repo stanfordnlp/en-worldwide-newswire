@@ -46,9 +46,9 @@ electoral	O
 commission	O
 of	O
 the	O
-Central	B-NORP	B-Location
-African	I-NORP	I-Location
-Republic	O	I-Location
+Central	B-Location	B-NORP
+African	I-Location	I-NORP
+Republic	I-Location
 already	O
 on	O
 Wednesday	B-Misc
@@ -379,9 +379,9 @@ commission	O
 .	O
 
 The	O
-Central	B-NORP	B-Organization
-African	I-NORP	I-Organization
-government	O	I-Organization
+Central	B-Organization	B-NORP
+African	I-Organization	I-NORP
+government	I-Organization
 has	O
 reacted	O
 sourly	O

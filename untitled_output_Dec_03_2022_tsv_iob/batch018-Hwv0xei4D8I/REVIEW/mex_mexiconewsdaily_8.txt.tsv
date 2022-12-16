@@ -1188,14 +1188,14 @@ is	O
 the	O
 author	O
 of	O
-Mexican	B-NORP	B-Misc
-Cartonería	O	I-Misc
-:	O	I-Misc
-Paper	O	I-Misc
-,	O	I-Misc
-Paste	O	I-Misc
-and	O	I-Misc
-Fiesta	O	I-Misc
+Mexican	B-Misc	B-NORP
+Cartonería	I-Misc
+:	I-Misc
+Paper	I-Misc
+,	I-Misc
+Paste	I-Misc
+and	I-Misc
+Fiesta	I-Misc
 (	O
 Schiffer	B-Person
 2019	B-Misc
@@ -1207,8 +1207,8 @@ column	O
 appears	O
 regularly	O
 on	O
-Mexico	B-Location	B-Organization
-News	O	I-Organization
-Daily	O	I-Organization
+Mexico	B-Organization	B-Location
+News	I-Organization
+Daily	I-Organization
 .	O
 

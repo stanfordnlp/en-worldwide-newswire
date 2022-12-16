@@ -64,8 +64,8 @@ RCEP	B-Misc
 comprises	O
 15	O
 Asia	B-Location	B-Location
--	O	I-Location
-Pacific	O	I-Location
+-	I-Location
+Pacific	I-Location
 countries	O
 including	O
 10	O
@@ -323,9 +323,9 @@ as	O
 enshrined	O
 in	O
 the	O
-United	B-Organization	B-Misc
-Nations	I-Organization	I-Misc
-Charter	O	I-Misc
+United	B-Misc	B-Organization
+Nations	I-Misc	I-Organization
+Charter	I-Misc
 ,	O
 "	O
 Hun	B-Person
@@ -730,9 +730,9 @@ Phnom	B-Location
 Penh	I-Location
 -	O
 based	O
-Asian	B-NORP	B-Organization
-Vision	O	I-Organization
-Institute	O	I-Organization
+Asian	B-Organization	B-NORP
+Vision	I-Organization
+Institute	I-Organization
 ,	O
 said	O
 the	O

@@ -21,8 +21,8 @@ the	O
 evidence	O
 submitted	O
 by	O
-Uruguayan	B-NORP	B-Organization
-Navy	O	I-Organization
+Uruguayan	B-Organization	B-NORP
+Navy	I-Organization
 authorities	O
 was	O
 being	O
@@ -108,9 +108,9 @@ On	O
 July	B-Misc
 2	I-Misc
 ,	O
-Uruguay	B-Location	B-Organization
-'s	O	I-Organization
-Navy	O	I-Organization
+Uruguay	B-Organization	B-Location
+'s	I-Organization
+Navy	I-Organization
 seized	O
 a	O
 Chinese	B-NORP

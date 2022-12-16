@@ -556,10 +556,10 @@ from	O
 trillion	I-Money
 rupiah	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-7.14	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+7.14	I-Money
+billion	I-Money
 )	O
 in	O
 2019	B-Misc
@@ -616,10 +616,10 @@ Jokowi	B-Person
 ,	O
 will	O
 be	O
-US	B-Location	B-Money
-$	O	I-Money
-32.5	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+32.5	I-Money
+billion	I-Money
 .	O
 The	O
 national	O

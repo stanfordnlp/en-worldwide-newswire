@@ -523,7 +523,7 @@ rest	O
 
 Quirky	B-Organization	B-Organization
 Campers	I-Organization	I-Organization
-co	O	I-Organization
+co	I-Organization
 -	O
 owner	O
 Leanne	B-Person

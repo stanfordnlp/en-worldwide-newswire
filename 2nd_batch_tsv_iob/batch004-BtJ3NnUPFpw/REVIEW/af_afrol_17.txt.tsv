@@ -679,10 +679,10 @@ Burkina	B-Location
 Faso	I-Location
 .	O
 The	O
-Burkinabe	B-NORP	B-Organization
-Ministry	O	I-Organization
-of	O	I-Organization
-Culture	O	I-Organization
+Burkinabe	B-Organization	B-NORP
+Ministry	I-Organization
+of	I-Organization
+Culture	I-Organization
 enthusiastically	O
 embraced	O
 the	O
@@ -769,10 +769,10 @@ started	O
 flowing	O
 from	O
 the	O
-German	B-NORP	B-Organization
-Development	O	I-Organization
-Cooperation	O	I-Organization
-Ministry	O	I-Organization
+German	B-Organization	B-NORP
+Development	I-Organization
+Cooperation	I-Organization
+Ministry	I-Organization
 and	O
 the	O
 Goethe	B-Organization
@@ -1068,9 +1068,9 @@ him	O
 the	O
 highly	O
 dotted	O
-Swiss	B-NORP	B-Misc
-Architectural	O	I-Misc
-Award	O	I-Misc
+Swiss	B-Misc	B-NORP
+Architectural	I-Misc
+Award	I-Misc
 .	O
 Mr	O
 Kèrè	B-Person

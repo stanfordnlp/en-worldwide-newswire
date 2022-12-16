@@ -107,11 +107,11 @@ as	O
 reported	O
 by	O
 the	O
-Jordan	B-Location	B-Organization
-News	O	I-Organization
-Agency	O	I-Organization
-,	O	I-Organization
-Petra	O	I-Organization
+Jordan	B-Organization	B-Location
+News	I-Organization
+Agency	I-Organization
+,	I-Organization
+Petra	I-Organization
 .	O
 
 The	O
@@ -140,11 +140,11 @@ CAWTAR	B-Organization
 )	O
 ,	O
 the	O
-Jordanian	B-NORP	B-Organization
-National	O	I-Organization
-Commission	O	I-Organization
-for	O	I-Organization
-Women	O	I-Organization
+Jordanian	B-Organization	B-NORP
+National	I-Organization
+Commission	I-Organization
+for	I-Organization
+Women	I-Organization
 (	O
 JNCW	B-Organization
 )	O
@@ -287,14 +287,14 @@ participation	O
 according	O
 to	O
 the	O
-World	B-Organization	B-Misc
-Bank	I-Organization	I-Misc
-’	O	I-Misc
-s	O	I-Misc
-2021	O	I-Misc
-Gender	O	I-Misc
-Gap	O	I-Misc
-Report	O	I-Misc
+World	B-Misc	B-Organization
+Bank	I-Misc	I-Organization
+’	I-Misc
+s	I-Misc
+2021	I-Misc
+Gender	I-Misc
+Gap	I-Misc
+Report	I-Misc
 ,	O
 which	O
 measures	O
@@ -509,14 +509,14 @@ Secretary	O
 General	O
 of	O
 the	O
-Jordanian	B-NORP	B-Organization
-National	O	I-Organization
-Commission	O	I-Organization
-for	O	I-Organization
-Women	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Affairs	O	I-Organization
+Jordanian	B-Organization	B-NORP
+National	I-Organization
+Commission	I-Organization
+for	I-Organization
+Women	I-Organization
+’	I-Organization
+s	I-Organization
+Affairs	I-Organization
 (	O
 JNCW	B-Organization
 )	O

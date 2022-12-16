@@ -121,11 +121,11 @@ This	O
 week	O
 ,	O
 the	O
-Eastern	B-Location	B-Organization
-Cape	I-Location	I-Organization
-department	O	I-Organization
-of	O	I-Organization
-health	O	I-Organization
+Eastern	B-Organization	B-Location
+Cape	I-Organization	I-Location
+department	I-Organization
+of	I-Organization
+health	I-Organization
 revealed	O
 that	O
 methanol	O
@@ -447,10 +447,10 @@ to	O
 appear	O
 in	O
 the	O
-East	B-Location	B-Organization
-London	I-Location	I-Organization
-Magistrate	O	I-Organization
-Court	O	I-Organization
+East	B-Organization	B-Location
+London	I-Organization	I-Location
+Magistrate	I-Organization
+Court	I-Organization
 on	O
 Monday	B-Misc
 the	I-Misc

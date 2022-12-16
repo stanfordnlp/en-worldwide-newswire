@@ -677,11 +677,11 @@ page	O
 111	O
 of	O
 ‘	O
-Hedgewar	B-Person	B-Misc
-:	O	I-Misc
-The	O	I-Misc
-Epoch	O	I-Misc
-Maker	O	I-Misc
+Hedgewar	B-Misc	B-Person
+:	I-Misc
+The	I-Misc
+Epoch	I-Misc
+Maker	I-Misc
 ’	O
 ,	O
 published	O
@@ -816,17 +816,17 @@ fourth	O
 volume	O
 of	O
 ‘	O
-Shriguruji	B-Person	B-Misc
-Samagra	I-Person	I-Misc
-Darshan	I-Person	I-Misc
-—	O	I-Misc
-Collected	O	I-Misc
-Works	O	I-Misc
-of	O	I-Misc
-MS	O	I-Misc	B-Person
-Golwalkar	O	I-Misc	I-Person
-in	O	I-Misc
-Hindi	O	I-Misc	B-NORP
+Shriguruji	B-Misc	B-Person
+Samagra	I-Misc	I-Person
+Darshan	I-Misc	I-Person
+—	I-Misc
+Collected	I-Misc
+Works	I-Misc
+of	I-Misc
+MS	I-Misc	B-Person
+Golwalkar	I-Misc	I-Person
+in	I-Misc
+Hindi	I-Misc	B-NORP
 ’	O
 published	O
 by	O
@@ -1131,11 +1131,11 @@ said	O
 according	O
 to	O
 ‘	O
-Hedgewar	B-Person	B-Misc
-:	O	I-Misc
-The	O	I-Misc
-Epoch	O	I-Misc
-Maker	O	I-Misc
+Hedgewar	B-Misc	B-Person
+:	I-Misc
+The	I-Misc
+Epoch	I-Misc
+Maker	I-Misc
 ’	O
 .	O
 

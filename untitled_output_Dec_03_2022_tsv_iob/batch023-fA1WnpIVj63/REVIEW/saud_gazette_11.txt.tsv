@@ -74,9 +74,9 @@ EMC	B-Organization
 project	O
 by	O
 the	O
-Saudi	B-NORP	B-Organization
-Telecom	O	I-Organization
-Company	O	I-Organization
+Saudi	B-Organization	B-NORP
+Telecom	I-Organization
+Company	I-Organization
 (	O
 STC	B-Organization
 )	O
@@ -84,9 +84,9 @@ in	O
 partnership	O
 with	O
 the	O
-Greek	B-NORP	B-Organization
-Telecom	O	I-Organization
-Company	O	I-Organization
+Greek	B-Organization	B-NORP
+Telecom	I-Organization
+Company	I-Organization
 ;	O
 the	O
 General	B-Organization
@@ -96,9 +96,9 @@ in	O
 Greece	B-Location
 and	O
 the	O
-Cyprus	B-Location	B-Organization
-Telecom	O	I-Organization
-Company	O	I-Organization
+Cyprus	B-Organization	B-Location
+Telecom	I-Organization
+Company	I-Organization
 ,	O
 as	O
 the	O
@@ -158,8 +158,8 @@ data	O
 gateway	O
 to	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 .	O
 
 The	O

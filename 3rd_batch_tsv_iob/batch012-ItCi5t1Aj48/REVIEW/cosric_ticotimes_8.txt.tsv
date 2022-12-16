@@ -126,10 +126,10 @@ the	O
 so	O
 -	O
 called	O
-Central	B-Location	B-Misc
-Chile	I-Location	I-Misc
-Mega	O	I-Misc
-Drought	O	I-Misc
+Central	B-Misc	B-Location
+Chile	I-Misc	I-Location
+Mega	I-Misc
+Drought	I-Misc
 —	O
 13	O
 years	O
@@ -174,8 +174,8 @@ the	O
 report	O
 .	O
 
-Brazilian	B-NORP	B-Location
-Amazon	O	I-Location
+Brazilian	B-Location	B-NORP
+Amazon	I-Location
 deforestation	O
 doubled	O
 from	O

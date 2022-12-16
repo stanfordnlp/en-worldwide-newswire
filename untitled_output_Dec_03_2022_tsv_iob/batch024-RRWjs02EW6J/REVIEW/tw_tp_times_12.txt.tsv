@@ -16,9 +16,9 @@ to	O
 highlight	O
 that	O
 the	O
-Taiwan	B-Location	B-Organization
-Railways	O	I-Organization
-Administration	O	I-Organization
+Taiwan	B-Organization	B-Location
+Railways	I-Organization
+Administration	I-Organization
 ’	O
 s	O
 (	O
@@ -150,10 +150,10 @@ $	I-Money
 134.8	I-Money
 billion	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-4.54	O	I-Money
-billion	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+4.54	I-Money
+billion	I-Money
 )	O
 because	O
 the	O

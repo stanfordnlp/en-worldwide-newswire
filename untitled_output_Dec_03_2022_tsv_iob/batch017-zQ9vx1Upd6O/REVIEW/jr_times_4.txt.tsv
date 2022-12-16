@@ -12,12 +12,12 @@ Supreme	O
 Commander	O
 of	O
 the	O
-Jordan	B-Location	B-Organization
-Armed	O	I-Organization
-Forces	O	I-Organization
+Jordan	B-Organization	B-Location
+Armed	I-Organization
+Forces	I-Organization
 -	O
-Arab	B-NORP	B-Organization
-Army	O	I-Organization
+Arab	B-Organization	B-NORP
+Army	I-Organization
 ,	O
 on	O
 Monday	B-Misc

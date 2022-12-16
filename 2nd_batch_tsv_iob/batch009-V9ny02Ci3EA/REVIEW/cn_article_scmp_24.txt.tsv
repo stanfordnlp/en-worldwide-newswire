@@ -128,8 +128,8 @@ all	O
 ,	O
 as	O
 some	O
-SM	B-Organization	B-NORP
-Rookies	O	I-NORP
+SM	B-NORP	B-Organization
+Rookies	I-NORP
 haven	O
 ’	O
 t	O

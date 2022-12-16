@@ -65,15 +65,15 @@ issue	O
 of	O
 relocating	O
 the	O
-U	B-Location	B-Facility
-.	I-Location	I-Facility
-S	I-Location	I-Facility
-.	O	I-Facility
-Marine	O	I-Facility
-Corps	O	I-Facility
-Air	O	I-Facility
-Station	O	I-Facility
-Futenma	O	I-Facility
+U	B-Facility	B-Location
+.	I-Facility	I-Location
+S	I-Facility	I-Location
+.	I-Facility
+Marine	I-Facility
+Corps	I-Facility
+Air	I-Facility
+Station	I-Facility
+Futenma	I-Facility
 from	O
 Ginowan	B-Location
 to	O
@@ -462,9 +462,9 @@ the	O
 relocation	O
 of	O
 the	O
-Futenma	B-Location	B-Facility
-air	O	I-Facility
-station	O	I-Facility
+Futenma	B-Facility	B-Location
+air	I-Facility
+station	I-Facility
 .	O
 
 REPEATED	O
@@ -494,9 +494,9 @@ the	O
 closure	O
 of	O
 the	O
-Futenma	B-Location	B-Facility
-air	O	I-Facility
-station	O	I-Facility
+Futenma	B-Facility	B-Location
+air	I-Facility
+station	I-Facility
 in	O
 densely	O
 populated	O
@@ -666,8 +666,8 @@ in	O
 to	O
 close	O
 the	O
-Futenma	B-Location	B-Facility
-base	O	I-Facility
+Futenma	B-Facility	B-Location
+base	I-Facility
 .	O
 
 Hashimoto	B-Person
@@ -1105,14 +1105,14 @@ of	O
 the	O
 Japan	B-Location
 -	O
-U	B-Location	B-Misc
-.	I-Location	I-Misc
-S	I-Location	I-Misc
-.	O	I-Misc
-Status	O	I-Misc
-of	O	I-Misc
-Forces	O	I-Misc
-Agreement	O	I-Misc
+U	B-Misc	B-Location
+.	I-Misc	I-Location
+S	I-Misc	I-Location
+.	I-Misc
+Status	I-Misc
+of	I-Misc
+Forces	I-Misc
+Agreement	I-Misc
 (	O
 SOFA	B-Misc
 )	O

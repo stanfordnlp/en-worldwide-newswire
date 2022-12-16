@@ -28,8 +28,8 @@ Syria	B-Location
 back	O
 into	O
 the	O
-Arab	B-NORP	B-Organization
-League	O	I-Organization
+Arab	B-Organization	B-NORP
+League	I-Organization
 in	O
 the	O
 summit	O
@@ -60,9 +60,9 @@ officials	O
 According	O
 to	O
 the	O
-Algerian	B-NORP	B-Organization
-Foreign	O	I-Organization
-Ministry	O	I-Organization
+Algerian	B-Organization	B-NORP
+Foreign	I-Organization
+Ministry	I-Organization
 ,	O
 the	O
 visit	O
@@ -79,9 +79,9 @@ Algeria	B-Location
 preparations	O
 for	O
 the	O
-Arab	B-NORP	B-Organization	B-Misc
-League	O	I-Organization	I-Misc
-summit	O	O	I-Misc
+Arab	B-Misc	B-Organization	B-NORP
+League	I-Misc	I-Organization
+summit	I-Misc
 .	O
 
 Early	O
@@ -115,8 +115,8 @@ ceremonies	O
 .	O
 
 The	O
-Arab	B-NORP	B-Organization
-League	O	I-Organization
+Arab	B-Organization	B-NORP
+League	I-Organization
 ,	O
 formally	O
 known	O

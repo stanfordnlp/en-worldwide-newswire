@@ -14,8 +14,8 @@ document	O
 penned	O
 at	O
 the	O
-Mercosur	B-Organization	B-Misc
-Summit	O	I-Misc
+Mercosur	B-Misc	B-Organization
+Summit	I-Misc
 in	O
 Asunción	B-Location
 ,	O
@@ -341,8 +341,8 @@ in	O
 negotiations	O
 with	O
 the	O
-European	B-NORP	B-Organization
-Union	O	I-Organization
+European	B-Organization	B-NORP
+Union	I-Organization
 .	O
 He	O
 also	O
@@ -727,8 +727,8 @@ suggested	O
 ,	O
 with	O
 the	O
-Chinese	B-NORP	B-Misc
-FTA	O	I-Misc
+Chinese	B-Misc	B-NORP
+FTA	I-Misc
 in	O
 mind	O
 .	O

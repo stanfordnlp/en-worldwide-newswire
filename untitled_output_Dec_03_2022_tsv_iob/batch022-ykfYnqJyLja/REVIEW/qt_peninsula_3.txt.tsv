@@ -2,8 +2,8 @@ https://thepeninsulaqatar.com/article/27/07/2022/shafallah-centre-receives-wheel
 
 Doha	B-Location
 :	O
-Qatar	B-Location	B-Organization
-Charity	O	I-Organization
+Qatar	B-Organization	B-Location
+Charity	I-Organization
 has	O
 handed	O
 over	O
@@ -32,8 +32,8 @@ provision	O
 of	O
 wheelchairs	O
 by	O
-Qatar	B-Location	B-Organization
-Charity	O	I-Organization
+Qatar	B-Organization	B-Location
+Charity	I-Organization
 to	O
 the	O
 centre	O
@@ -81,8 +81,8 @@ and	I-Organization
 Community	I-Organization
 Development	I-Organization
 at	O
-Qatar	B-Location	B-Organization
-Charity	O	I-Organization
+Qatar	B-Organization	B-Location
+Charity	I-Organization
 ,	O
 handed	O
 over	O
@@ -117,8 +117,8 @@ Local	B-Organization
 Projects	I-Organization
 Department	I-Organization
 at	O
-Qatar	B-Location	B-Organization
-Charity	O	I-Organization
+Qatar	B-Organization	B-Location
+Charity	I-Organization
 ,	O
 said	O
 :	O
@@ -137,8 +137,8 @@ community	O
 efforts	O
 undertaken	O
 by	O
-Qatar	B-Location	B-Organization
-Charity	O	I-Organization
+Qatar	B-Organization	B-Location
+Charity	I-Organization
 in	O
 cooperation	O
 with	O
@@ -156,8 +156,8 @@ community	O
 ,	O
 noting	O
 that	O
-Qatar	B-Location	B-Organization
-Charity	O	I-Organization
+Qatar	B-Organization	B-Location
+Charity	I-Organization
 had	O
 previously	O
 provided	O
@@ -185,11 +185,11 @@ other	O
 agencies	O
 ,	O
 including	O
-Qatar	B-Location	B-Organization
-Association	O	I-Organization
-for	O	I-Organization
-the	O	I-Organization
-Disabled	O	I-Organization
+Qatar	B-Organization	B-Location
+Association	I-Organization
+for	I-Organization
+the	I-Organization
+Disabled	I-Organization
 ,	O
 Ihsan	B-Organization
 Center	I-Organization
@@ -205,8 +205,8 @@ others	O
 He	O
 added	O
 that	O
-Qatar	B-Location	B-Organization
-Charity	O	I-Organization
+Qatar	B-Organization	B-Location
+Charity	I-Organization
 seeks	O
 to	O
 provide	O
@@ -238,8 +238,8 @@ and	O
 collection	O
 points	O
 to	O
-Qatar	B-Location	B-Organization
-Charity	O	I-Organization
+Qatar	B-Organization	B-Location
+Charity	I-Organization
 to	O
 contribute	O
 to	O
@@ -296,8 +296,8 @@ the	O
 donation	O
 made	O
 by	O
-Qatar	B-Location	B-Organization
-Charity	O	I-Organization
+Qatar	B-Organization	B-Location
+Charity	I-Organization
 in	O
 favor	O
 of	O
@@ -339,8 +339,8 @@ He	O
 pointed	O
 out	O
 that	O
-Qatar	B-Location	B-Organization
-Charity	O	I-Organization
+Qatar	B-Organization	B-Location
+Charity	I-Organization
 has	O
 previously	O
 supported	O

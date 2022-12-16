@@ -658,9 +658,9 @@ to	O
 Mumbai	B-Location
 by	O
 the	O
-Lokmanya	B-Person	B-Facility
-Tilak	I-Person	I-Facility
-Express	O	I-Facility
+Lokmanya	B-Facility	B-Person
+Tilak	I-Facility	I-Person
+Express	I-Facility
 .	O
 En	O
 route	O

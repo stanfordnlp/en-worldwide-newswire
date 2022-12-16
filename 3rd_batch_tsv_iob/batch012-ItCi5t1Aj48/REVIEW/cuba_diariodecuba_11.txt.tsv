@@ -643,8 +643,8 @@ later	O
 
 According	O
 to	O
-US	B-Location	B-Organization
-Government	O	I-Organization
+US	B-Organization	B-Location
+Government	I-Organization
 statistics	O
 ,	O
 in	O
@@ -798,8 +798,8 @@ Vice	O
 President	O
 of	O
 the	O
-Castro	B-Person	B-Organization
-government	O	I-Organization
+Castro	B-Organization	B-Person
+government	I-Organization
 ,	O
 went	O
 to	O

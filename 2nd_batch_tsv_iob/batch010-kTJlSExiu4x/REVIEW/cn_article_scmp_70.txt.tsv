@@ -43,10 +43,10 @@ than	O
 million	I-Money
 yuan	I-Money
 (	O
-US	B-Location	B-Money
-$	O	I-Money
-96.4	O	I-Money
-million	O	I-Money
+US	B-Money	B-Location
+$	I-Money
+96.4	I-Money
+million	I-Money
 )	O
 in	O
 exchange	O
@@ -65,12 +65,12 @@ criminal	O
 cases	O
 ,	O
 the	O
-Changchun	B-Location	B-Organization
-Intermediate	O	I-Organization
-People	O	I-Organization
-’	O	I-Organization
-s	O	I-Organization
-Court	O	I-Organization
+Changchun	B-Organization	B-Location
+Intermediate	I-Organization
+People	I-Organization
+’	I-Organization
+s	I-Organization
+Court	I-Organization
 in	O
 northeastern	B-Location
 Jilin	I-Location
@@ -121,9 +121,9 @@ an	O
 official	O
 with	O
 the	O
-Shanghai	B-Location	B-Organization
-health	O	I-Organization
-bureau	O	I-Organization
+Shanghai	B-Organization	B-Location
+health	I-Organization
+bureau	I-Organization
 ,	O
 and	O
 continued	O
@@ -180,8 +180,8 @@ April	B-Misc
 2020	I-Misc
 ,	O
 the	O
-Communist	B-NORP	B-Organization
-Party	O	I-Organization
+Communist	B-Organization	B-NORP
+Party	I-Organization
 ’	O
 s	O
 disciplinary	O
@@ -497,9 +497,9 @@ aired	O
 by	O
 state	O
 broadcaster	O
-China	B-Location	B-Organization
-Central	O	I-Organization
-Television	O	I-Organization
+China	B-Organization	B-Location
+Central	I-Organization
+Television	I-Organization
 as	O
 part	O
 of	O
@@ -614,8 +614,8 @@ Kong	I-Location
 ,	O
 Macau	B-Location
 and	O
-Taiwan	B-Location	B-Organization
-Affairs	O	I-Organization
-Office	O	I-Organization
+Taiwan	B-Organization	B-Location
+Affairs	I-Organization
+Office	I-Organization
 .	O
 

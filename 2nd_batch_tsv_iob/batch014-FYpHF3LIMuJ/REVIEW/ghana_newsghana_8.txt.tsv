@@ -5,9 +5,9 @@ the	O
 huge	O
 success	O
 of	O
-Afro	O	B-Misc
-Nation	O	I-Misc
-Portugal	B-Location	I-Misc
+Afro	B-Misc
+Nation	I-Misc
+Portugal	I-Misc	B-Location
 this	O
 July	B-Misc
 ,	O
@@ -46,9 +46,9 @@ of	O
 Black	B-NORP
 joy	O
 ,	O
-Afro	O	B-Misc
-Nation	O	I-Misc
-Ghana	B-Location	I-Misc
+Afro	B-Misc
+Nation	I-Misc
+Ghana	I-Misc	B-Location
 comes	O
 home	O
 to	O
@@ -218,18 +218,18 @@ region	O
 
 As	O
 with	O
-Afro	O	B-Organization
-Nation	O	I-Organization
-Portugal	B-Location	I-Organization
+Afro	B-Organization
+Nation	I-Organization
+Portugal	I-Organization	B-Location
 and	O
-Afro	O	B-Organization
-Nation	O	I-Organization
-Puerto	B-Location	I-Organization
-Rico	I-Location	I-Organization
+Afro	B-Organization
+Nation	I-Organization
+Puerto	I-Organization	B-Location
+Rico	I-Organization	I-Location
 ,	O
-Afro	O	B-Organization
-Nation	O	I-Organization
-Ghana	B-Location	I-Organization
+Afro	B-Organization
+Nation	I-Organization
+Ghana	I-Organization	B-Location
 will	O
 work	O
 alongside	O
@@ -385,8 +385,8 @@ the	O
 First	O
 President	O
 and	O
-BBC	O	B-Organization
-Africa	B-Location	I-Organization
+BBC	B-Organization
+Africa	I-Organization	B-Location
 ’s	O
 Man	O
 of	O
@@ -399,8 +399,8 @@ next	O
 to	O
 the	O
 Famous	O
-Osu	B-Location	B-Facility
-Castle	O	I-Facility
+Osu	B-Facility	B-Location
+Castle	I-Facility
 .	O
 
 Accra	B-Location
@@ -440,9 +440,9 @@ and	O
 family	O
 .	O
 
-Afro	O	B-Organization
-Nation	O	I-Organization
-Ghana	B-Location	I-Organization
+Afro	B-Organization
+Nation	I-Organization
+Ghana	I-Organization	B-Location
 looks	O
 to	O
 foster	O
@@ -584,7 +584,7 @@ exists	O
 beyond	O
 Afro	B-Misc	B-Misc
 Nation	I-Misc	I-Misc
-festival	O	I-Misc
+festival	I-Misc
 ,	O
 in	O
 2020	B-Misc
@@ -595,9 +595,9 @@ world	O
 ’	O
 s	O
 first	O
-official	O	B-Product
-Afrobeats	B-Misc	I-Product
-Chart	O	I-Product
+official	B-Product
+Afrobeats	I-Product	B-Misc
+Chart	I-Product
 with	O
 the	O
 Official	B-Organization
@@ -611,11 +611,11 @@ Kingdom	I-Location
 followed	O
 by	O
 the	O
-Billboard	B-Organization	B-Product
-US	B-Location	I-Product
-Afrobeats	B-Misc	I-Product
-Songs	O	I-Product
-chart	O	I-Product
+Billboard	B-Product	B-Organization
+US	I-Product	B-Location
+Afrobeats	I-Product	B-Misc
+Songs	I-Product
+chart	I-Product
 earlier	O
 this	O
 year	O
@@ -649,8 +649,8 @@ in	O
 collaboration	O
 with	O
 the	O
-Ghanaian	B-NORP	B-Organization
-Government	O	I-Organization
+Ghanaian	B-Organization	B-NORP
+Government	I-Organization
 and	O
 our	O
 festival	O
@@ -676,9 +676,9 @@ main	O
 stage	O
 used	O
 at	O
-Afro	O	B-Misc
-Nation	O	I-Misc
-Portugal	B-Location	I-Misc
+Afro	B-Misc
+Nation	I-Misc
+Portugal	I-Misc	B-Location
 2022	B-Misc
 and	O
 it	O
@@ -689,9 +689,9 @@ shipped	O
 to	O
 Accra	B-Location
 for	O
-Afro	O	B-Misc
-Nation	O	I-Misc
-Ghana	B-Location	I-Misc
+Afro	B-Misc
+Nation	I-Misc
+Ghana	I-Misc	B-Location
 2022	B-Misc
 .	O
 
@@ -819,9 +819,9 @@ the	O
 rise	O
 .	O
 
-Afro	O	B-Organization
-Nation	O	I-Organization
-Ghana	B-Location	I-Organization
+Afro	B-Organization
+Nation	I-Organization
+Ghana	I-Organization	B-Location
 takes	O
 place	O
 29th	B-Misc

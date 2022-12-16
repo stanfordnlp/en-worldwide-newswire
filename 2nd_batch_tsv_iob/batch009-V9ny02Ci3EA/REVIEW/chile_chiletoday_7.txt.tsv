@@ -11,8 +11,8 @@ two	O
 factions	O
 of	O
 the	O
-Chilean	B-NORP	B-Organization
-Army	O	I-Organization
+Chilean	B-Organization	B-NORP
+Army	I-Organization
 clashed	O
 at	O
 the	O
@@ -154,7 +154,7 @@ resulting	O
 in	O
 the	O
 1833	B-Misc	B-Misc
-Constitution	O	I-Misc
+Constitution	I-Misc
 .	O
 The	O
 document	O
@@ -199,8 +199,8 @@ its	O
 independence	O
 from	O
 the	O
-Spanish	B-NORP	B-Organization
-Empire	O	I-Organization
+Spanish	B-Organization	B-NORP
+Empire	I-Organization
 .	O
 What	O
 followed	O
@@ -248,8 +248,8 @@ which	O
 meant	O
 restricting	O
 the	O
-Catholic	B-NORP	B-Organization
-Church	O	I-Organization
+Catholic	B-Organization	B-NORP
+Church	I-Organization
 ’	O
 s	O
 influence	O

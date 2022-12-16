@@ -393,12 +393,12 @@ Rotaract	B-Organization
 Club	O
 at	O
 the	O
-Nnamdi	B-Person	B-Organization
-Azikiwe	I-Person	I-Organization
-University	O	I-Organization
-College	O	I-Organization
-of	O	I-Organization
-Medicine	O	I-Organization
+Nnamdi	B-Organization	B-Person
+Azikiwe	I-Organization	I-Person
+University	I-Organization
+College	I-Organization
+of	I-Organization
+Medicine	I-Organization
 ,	O
 Nnewi	B-Location
 ,	I-Location
@@ -771,10 +771,10 @@ lacking	O
 across	O
 communities	O
 in	O
-sub	B-NORP	B-Location
--	I-NORP	I-Location
-Saharan	I-NORP	I-Location
-Africa	O	I-Location
+sub	B-Location	B-NORP
+-	I-Location	I-NORP
+Saharan	I-Location	I-NORP
+Africa	I-Location
 .	O
 For	O
 example	O
@@ -783,10 +783,10 @@ only	O
 48	O
 %	O
 of	O
-sub	B-NORP	B-Location
--	I-NORP	I-Location
-Saharan	I-NORP	I-Location
-Africa	O	I-Location
+sub	B-Location	B-NORP
+-	I-Location	I-NORP
+Saharan	I-Location	I-NORP
+Africa	I-Location
 has	O
 access	O
 to	O
@@ -852,15 +852,15 @@ Freezer	I-Product
 sold	O
 on	O
 the	O
-African	B-NORP	B-Organization
-Union	O	I-Organization
+African	B-Organization	B-NORP
+Union	I-Organization
 ’	O
 s	O
 “	O
-Africa	B-Location	B-Facility
-Medical	O	I-Facility
-Supplies	O	I-Facility
-Platform	O	I-Facility
+Africa	B-Facility	B-Location
+Medical	I-Facility
+Supplies	I-Facility
+Platform	I-Facility
 ”	O
 costs	O
 $	B-Money
@@ -1119,11 +1119,11 @@ a	O
 graduate	O
 of	O
 the	O
-Liverpool	B-Location	B-Organization
-School	O	I-Organization
-of	O	I-Organization
-Tropical	O	I-Organization
-Medicine	O	I-Organization
+Liverpool	B-Organization	B-Location
+School	I-Organization
+of	I-Organization
+Tropical	I-Organization
+Medicine	I-Organization
 .	O
 He	O
 is	O
@@ -1145,8 +1145,8 @@ for	O
 Health	O
 Equity	O
 at	O
-George	B-Person	B-Organization
-Washington	I-Person	I-Organization
-University	O	I-Organization
+George	B-Organization	B-Person
+Washington	I-Organization	I-Person
+University	I-Organization
 .	O
 

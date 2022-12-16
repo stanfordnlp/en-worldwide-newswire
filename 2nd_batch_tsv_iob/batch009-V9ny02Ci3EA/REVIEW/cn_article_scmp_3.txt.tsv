@@ -540,8 +540,8 @@ of	O
 The	B-Misc
 Food	I-Misc
 of	I-Misc
-Singapore	I-Misc	B-Location	B-NORP
-Malays	I-Misc	O	I-NORP
+Singapore	I-Misc	B-NORP	B-Location
+Malays	I-Misc	I-NORP
 :	I-Misc
 Gastronomic	I-Misc
 Travels	I-Misc
