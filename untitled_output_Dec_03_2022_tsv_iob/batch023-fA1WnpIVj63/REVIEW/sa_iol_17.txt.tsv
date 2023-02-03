@@ -239,11 +239,11 @@ commander	O
 Milne	B-Person
 said	O
 the	O
-Vasco	B-Misc
-Da	I-Misc
-Gama	I-Misc
-race	O
-committee	O
+Vasco	B-Organization	B-MISC
+Da	I-Organization	I-MISC
+Gama	I-Organization	I-MISC
+race	I-Organization	I-MISC
+committee	I-Organization
 are	O
 most	O
 appreciative	O

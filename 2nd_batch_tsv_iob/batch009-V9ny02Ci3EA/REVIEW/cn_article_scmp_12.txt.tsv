@@ -592,8 +592,8 @@ a	O
 2018	B-Misc
 interview	O
 with	O
-Showbiz	B-Misc
-Korea	I-Misc	B-Location
+Showbiz	B-Organization
+Korea	I-Organization	B-Location
 ,	O
 Jung	B-Person
 admitted	O

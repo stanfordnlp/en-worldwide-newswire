@@ -355,8 +355,8 @@ Al	I-Person
 Zoheiry	I-Person
 ,	O
 a	O
-Muslim	B-NORP
-Brotherhood	O
+Muslim	B-Organization	B-NORP
+Brotherhood	I-Organization
 member	O
 ,	O
 died	O
@@ -369,7 +369,7 @@ Zoheiri	I-Person
 and	O
 53	O
 other	O
-Brothers	O
+Brothers	B-NORP
 were	O
 arrested	O
 for	O
@@ -389,8 +389,8 @@ involved	O
 members	O
 of	O
 the	O
-Muslim	B-NORP
-Brotherhood	O
+Muslim	B-Organization	B-NORP
+Brotherhood	I-Organization
 ,	O
 the	O
 EAAT	B-Organization

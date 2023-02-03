@@ -10,8 +10,8 @@ meet	O
 in	O
 Baghdad	B-Location
 :	O
-Iraqi	B-Organization	B-NORP
-FM	I-Organization
+Iraqi	B-NORP
+FM	O
 
 Saudi	B-Location
 Arabia	I-Location

@@ -397,12 +397,12 @@ the	O
 DA	O
 ’	O
 s	O
-Integrated	B-Organization
-Electricity	I-Organization
-Management	I-Organization
-Operator	I-Organization
+Integrated	B-Misc
+Electricity	I-Misc
+Management	I-Misc
+Operator	I-Misc
 (	O
-IEMO	B-Organization
+IEMO	B-Misc
 )	O
 bill	O
 or	O

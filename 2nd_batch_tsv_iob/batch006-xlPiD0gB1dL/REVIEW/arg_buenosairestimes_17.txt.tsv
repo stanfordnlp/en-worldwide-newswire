@@ -151,9 +151,9 @@ the	O
 route	O
 .	O
 The	O
-Los	B-Organization
-Libertadores	I-Organization
-border	O
+Los	B-Location
+Libertadores	I-Location
+border	E-Location
 crossing	O
 was	O
 shut	O

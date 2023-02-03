@@ -25,8 +25,8 @@ July	I-Misc
 2022	I-Misc
 :	O
 The	O
-Egyptian	B-NORP
-Ministry	B-Organization
+Egyptian	B-Organization	B-NORP
+Ministry	I-Organization
 of	I-Organization
 Finance	I-Organization
 is	O
@@ -194,8 +194,8 @@ emissions	O
 .	O
 
 The	O
-Egyptian	B-NORP
-government	O
+Egyptian	B-Organization	B-NORP
+government	I-Organization
 is	O
 preparing	O
 to	O

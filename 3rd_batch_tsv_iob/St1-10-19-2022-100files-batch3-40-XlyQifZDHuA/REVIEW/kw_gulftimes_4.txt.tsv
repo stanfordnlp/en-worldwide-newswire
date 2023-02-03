@@ -49,10 +49,10 @@ several	O
 academics	O
 from	O
 the	O
-Department	O
-of	O
-Arabic	B-Misc
-Language	O
+Department	B-Organization
+of	I-Organization
+Arabic	I-Organization	B-Misc
+Language	I-Organization
 at	O
 Vietnam	B-Organization	B-Location
 National	I-Organization

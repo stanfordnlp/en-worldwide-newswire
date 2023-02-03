@@ -26,8 +26,8 @@ name	O
 of	O
 a	O
 legendary	O
-First	B-Organization
-Nations	I-Organization
+First	B-NORP
+Nations	I-NORP
 figure	O
 in	O
 Yukon	B-Location

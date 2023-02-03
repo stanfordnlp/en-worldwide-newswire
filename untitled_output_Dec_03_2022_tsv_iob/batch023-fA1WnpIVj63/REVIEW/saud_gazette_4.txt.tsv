@@ -497,8 +497,8 @@ its	O
 ally	O
 .	O
 The	O
-Saudi	B-NORP
-Ministry	B-Organization
+Saudi	B-Organization	B-NORP
+Ministry	I-Organization
 of	I-Organization
 Foreign	I-Organization
 Affairs	I-Organization
@@ -702,8 +702,8 @@ that	O
 came	O
 from	O
 the	O
-Saudi	B-NORP
-Royal	B-Organization
+Saudi	B-Organization	B-NORP
+Royal	I-Organization
 Court	I-Organization
 and	O
 the	O

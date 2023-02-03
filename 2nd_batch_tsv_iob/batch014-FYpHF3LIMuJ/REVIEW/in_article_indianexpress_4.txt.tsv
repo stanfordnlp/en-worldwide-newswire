@@ -4834,10 +4834,10 @@ members	O
 of	O
 the	O
 four	O
-Great	B-Misc
-Offices	I-Misc
-of	I-Misc
-State	I-Misc
+Great	B-Organization
+Offices	I-Organization
+of	I-Organization
+State	I-Organization
 ,	O
 the	O
 COP	B-Misc
@@ -5857,9 +5857,9 @@ was	O
 educated	O
 in	O
 an	O
-Ivy	B-Misc
-League	I-Misc
-University	I-Misc
+Ivy	B-Organization
+League	I-Organization
+University	I-Organization
 and	O
 raised	O
 with	O

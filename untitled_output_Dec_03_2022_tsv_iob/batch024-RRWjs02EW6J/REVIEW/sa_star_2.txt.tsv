@@ -16,12 +16,12 @@ ATO	B-Organization
 )	O
 and	O
 the	O
-SA	B-Misc	B-Location
-Informal	I-Misc
-Traders	I-Misc
-Forum	I-Misc
+SA	B-Organization	B-Location
+Informal	I-Organization
+Traders	I-Organization
+Forum	I-Organization
 (	O
-SAITF	B-Misc
+SAITF	B-Organization
 )	O
 took	O
 the	O

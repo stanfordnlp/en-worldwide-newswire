@@ -4,13 +4,13 @@ Cape	B-Location
 Town	I-Location
 -	O
 The	O
-Bishop	B-Location
-Lavis	I-Location
-community	O
-policing	O
-forum	O
+Bishop	B-Organization	B-Location
+Lavis	I-Organization	I-Location
+community	I-Organization
+policing	I-Organization
+forum	I-Organization
 (	O
-CPF	B-Misc
+CPF	B-Organization
 )	O
 has	O
 warned	O
@@ -35,7 +35,7 @@ precinct	O
 .	O
 
 The	O
-CPF	B-Misc
+CPF	B-Organization
 said	O
 that	O
 the	O
@@ -100,7 +100,7 @@ Airport	B-Location	B-Facility
 Industrial	I-Location
 .	O
 
-CPF	B-Misc
+CPF	B-Organization
 chairperson	O
 Graham	B-Person
 Lindhorst	I-Person
@@ -338,7 +338,7 @@ McKenzie	B-Person
 Lindhorst	B-Person
 said	O
 the	O
-CPF	B-Misc
+CPF	B-Organization
 had	O
 put	O
 actions	O

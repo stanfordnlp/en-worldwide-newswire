@@ -89,7 +89,7 @@ the	O
 villagers	O
 .	O
 
-Upazila	O
+Upazila	B-Organization
 Vice	O
 -	O
 Chairman	O
@@ -204,11 +204,11 @@ Mirdangi	B-Location
 village	O
 ,	O
 said	O
-Upazila	B-Misc	B-Location
-Nirbahi	I-Misc
-Officer	I-Misc
+Upazila	B-Organization	B-Location
+Nirbahi	I-Organization
+Officer	O
 (	O
-UNO	B-Misc
+UNO	O
 )	O
 Sohel	B-Person
 Sultan	I-Person
@@ -218,7 +218,7 @@ Kabir	I-Person
 .	O
 
 The	O
-UNO	B-Misc
+UNO	O
 said	O
 the	O
 supporters	O
@@ -297,7 +297,7 @@ shots	O
 ,	O
 said	O
 the	O
-UNO	B-Misc
+UNO	O
 .	O
 
 "	O

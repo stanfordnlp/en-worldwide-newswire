@@ -3,9 +3,9 @@ https://koreajoongangdaily.joins.com/2022/07/12/national/northKorea/Korea-murder
 Relatives	O
 of	O
 a	O
-South	B-Organization	B-NORP
-Korean	I-Organization	I-NORP
-fisheries	I-Organization
+South	B-NORP
+Korean	I-NORP
+fisheries	O
 official	O
 killed	O
 by	O

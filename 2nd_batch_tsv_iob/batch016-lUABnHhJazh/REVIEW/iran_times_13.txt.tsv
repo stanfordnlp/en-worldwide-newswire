@@ -544,7 +544,7 @@ Iran	B-Location
 nuclear	O
 deal	O
 (	O
-JCPOA	B-Organization
+JCPOA	B-MISC
 )	O
 in	O
 order	O

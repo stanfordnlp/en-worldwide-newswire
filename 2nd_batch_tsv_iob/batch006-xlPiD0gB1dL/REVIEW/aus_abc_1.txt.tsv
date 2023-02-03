@@ -18,8 +18,8 @@ enshrine	O
 an	O
 Indigenous	B-Organization
 Voice	I-Organization
-to	I-Organization
-Parliament	I-Organization
+to	O
+Parliament	O
 .	O
 
 He	O
@@ -59,8 +59,8 @@ referendum	O
 to	O
 enshrine	O
 an	O
-Indigenous	B-Misc
-Voice	I-Misc
+Indigenous	B-Organization
+Voice	I-Organization
 to	O
 Parliament	O
 ,	O

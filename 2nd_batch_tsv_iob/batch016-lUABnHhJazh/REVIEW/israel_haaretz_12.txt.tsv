@@ -597,9 +597,9 @@ the	O
 system	O
 ’	O
 
-Jewish	B-NORP
-Community	I-NORP
-Watch	I-NORP
+Jewish	B-Organization
+Community	I-Organization
+Watch	I-Organization
 says	O
 Leifer	B-NORP
 and	O
@@ -1160,8 +1160,8 @@ Orthodox	I-NORP
 settlement	O
 in	O
 the	O
-West	B-Organization
-Bank	I-Organization
+West	B-Location
+Bank	I-Location
 .	O
 He	O
 was	O
@@ -1750,8 +1750,8 @@ Orthodox	I-NORP
 world	O
 .	O
 
-Haredi	B-Organization
-society	I-Organization
+Haredi	B-NORP
+society	O
 is	O
 a	O
 highly	O
@@ -2070,7 +2070,7 @@ Leifer	B-Person
 launched	O
 by	O
 a	O
-Hasidic	B-Organization
+Hasidic	B-NORP
 rabbi	O
 ,	O
 speaks	O
@@ -2082,7 +2082,7 @@ mesirah	O
 ,	O
 with	O
 the	O
-Haredi	B-Organization
+Haredi	B-NORP
 public	O
 being	O
 asked	O

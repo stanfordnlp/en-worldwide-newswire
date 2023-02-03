@@ -23,8 +23,8 @@ Castillo	I-Person
 Segura	I-Person
 and	O
 his	O
-Ecuadorian	B-Organization	B-NORP
-team	I-Organization
+Ecuadorian	B-NORP
+team	O
 .	O
 Alleging	O
 there	O

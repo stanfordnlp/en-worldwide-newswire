@@ -595,7 +595,7 @@ the	O
 agreement	O
 would	O
 allow	O
-Sudanese	O
+Sudanese	B-NORP
 refugees	O
 to	O
 live	O
@@ -767,7 +767,7 @@ privilege	O
 ”	O
 for	O
 those	O
-Sudanese	B-Organization
+Sudanese	B-NORP
 who	O
 want	O
 to	O

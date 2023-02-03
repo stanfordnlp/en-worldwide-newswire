@@ -478,8 +478,8 @@ has	O
 close	O
 ties	O
 to	O
-Pacific	B-Misc
-Ecology	I-Misc
+Pacific	B-Organization
+Ecology	I-Organization
 .	O
 
 They	O

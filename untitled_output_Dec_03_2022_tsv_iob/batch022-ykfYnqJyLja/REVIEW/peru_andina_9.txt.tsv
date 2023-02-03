@@ -444,7 +444,7 @@ of	I-Organization
 Machu	I-Organization	B-Location
 Picchu	I-Organization	I-Location
 (	O
-UGM	B-Misc
+UGM	B-Organization
 )	O
 has	O
 confirmed	O
@@ -456,10 +456,10 @@ to	O
 the	O
 Llaqta	B-NORP
 or	O
-Inca	B-Location	B-NORP
-citadel	I-Location
-of	I-Location
-Machu	I-Location
+Inca	B-NORP
+citadel	O
+of	O
+Machu	B-Location
 Picchu	I-Location
 ;	O
 that	O

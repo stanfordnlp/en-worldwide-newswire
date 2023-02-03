@@ -1416,11 +1416,11 @@ anything	O
 he	O
 wants	O
 with	O
-U	B-NORP	B-Location
-.	I-NORP	I-Location
-S	I-NORP	I-Location
-.	I-NORP	I-Location
-Congress	I-NORP
+U	B-Organization	B-Location
+.	I-Organization	I-Location
+S	I-Organization	I-Location
+.	I-Organization	I-Location
+Congress	I-Organization
 members	O
 .	O
 Bennett	B-Person

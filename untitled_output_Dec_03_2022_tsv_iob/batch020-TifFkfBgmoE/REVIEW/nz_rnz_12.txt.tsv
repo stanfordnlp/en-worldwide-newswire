@@ -538,9 +538,9 @@ Christchurch	B-Location
 Selwyn	B-Location
 ,	O
 and	O
-Hurunui	B-Location
-District	B-Misc
-Councils	I-Misc
+Hurunui	B-Organization	B-Location
+District	I-Organization	
+Councils	I-Organization	
 ,	O
 and	O
 Crown	B-Organization

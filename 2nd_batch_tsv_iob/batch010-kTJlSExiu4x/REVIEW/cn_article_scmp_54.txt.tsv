@@ -76,10 +76,10 @@ make	O
 up	O
 ,	O
 the	O
-Abema	B-Product	B-Organization
-Times	I-Product	I-Organization
-news	I-Product
-site	I-Product
+Abema	B-Organization
+Times	I-Organization
+news	O
+site	O
 reported	O
 .	O
 
