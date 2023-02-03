@@ -173,10 +173,10 @@ M	I-Person
 .	I-Person
 Levy	I-Person
 in	O
-United	B-Facility	B-Location
-States	I-Facility	I-Location
-District	I-Facility
-Court	I-Facility
+United	B-Organization	B-Location
+States	I-Organization	I-Location
+District	I-Organization
+Court	I-Organization
 on	O
 Monday	B-Misc
 .	O
@@ -226,9 +226,9 @@ as	O
 president	O
 of	O
 the	O
-Republic	B-Location
-of	I-Location
-Honduras	I-Location
+Republic	B-Organization
+of	I-Organization
+Honduras	I-Organization	B-Location
 in	O
 the	O
 1990	B-Misc

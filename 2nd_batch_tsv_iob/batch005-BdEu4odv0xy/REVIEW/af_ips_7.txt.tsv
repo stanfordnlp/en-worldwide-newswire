@@ -292,10 +292,10 @@ and	O
 surveillance	O
 officer	O
 at	O
-Nigeria	B-Location
-’	O
-s	O
-National	B-Organization
+Nigeria	B-Organization	B-Location
+’	I-Organization
+s	I-Organization
+National	I-Organization
 Programme	I-Organization
 on	I-Organization
 Immunization	I-Organization

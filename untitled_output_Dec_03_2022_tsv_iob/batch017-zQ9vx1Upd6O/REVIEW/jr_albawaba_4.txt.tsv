@@ -13,13 +13,13 @@ Relief	I-Organization
 and	I-Organization
 Works	I-Organization
 Agency	I-Organization
-for	O
-Palestine	B-Location
-Refugees	O
-in	O
-the	O
-Near	B-Location
-East	I-Location
+for	I-Organization
+Palestine	I-Organization	B-Location
+Refugees	I-Organization
+in	I-Organization
+the	I-Organization
+Near	I-Organization	B-Location
+East	I-Organization	I-Location
 (	O
 UNRWA	B-Organization
 )	O

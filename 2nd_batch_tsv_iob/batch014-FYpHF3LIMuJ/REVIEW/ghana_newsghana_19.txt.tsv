@@ -149,17 +149,17 @@ classroom	O
 block	O
 for	O
 the	O
-Tunga	B-Facility	B-Location
-Islamic	I-Facility	B-NORP
-Community	I-Facility
-School	I-Facility
+Tunga	B-Organization	B-Location
+Islamic	I-Organization	B-NORP
+Community	I-Organization
+School	I-Organization
 at	O
 Dansoman	B-Location
 in	O
 the	O
-Ablekuma	B-Misc	B-Location
-West	I-Misc	I-Location
-Municipality	I-Misc
+Ablekuma	B-Location
+West	I-Location
+Municipality	I-Location
 of	O
 the	O
 Greater	B-Location

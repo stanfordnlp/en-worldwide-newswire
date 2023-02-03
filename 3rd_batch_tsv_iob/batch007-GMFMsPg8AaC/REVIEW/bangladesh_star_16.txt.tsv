@@ -107,8 +107,8 @@ terms	O
 and	O
 conditions	O
 of	O
-Bangladesh	B-Location
-Railway	O
+Bangladesh	B-Organization	B-Location
+Railway	I-Organization
 and	O
 the	O
 payment	O
@@ -195,8 +195,8 @@ e	O
 ticket	O
 portal	O
 of	O
-Bangladesh	B-Facility	B-Location
-Railway	I-Facility
+Bangladesh	B-Organization	B-Location
+Railway	I-Organization
 on	O
 June	B-Misc
 13	I-Misc

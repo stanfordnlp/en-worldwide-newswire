@@ -542,9 +542,9 @@ and	O
 20	O
 to	O
 the	O
-Central	B-Location
-American	I-Location	B-NORP
-Parliament	O
+Central	B-Organization	B-Location
+American	I-Organization	I-Location	B-NORP
+Parliament	I-Organization
 ,	O
 as	O
 well	O

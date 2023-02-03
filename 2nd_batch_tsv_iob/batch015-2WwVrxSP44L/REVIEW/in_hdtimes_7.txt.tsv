@@ -322,7 +322,7 @@ Cricket	I-Organization
 in	I-Organization
 India	I-Organization	B-Location
 (	O
-BCCI	B-Location
+BCCI	B-Organization
 )	O
 -	O
 sponsored	O

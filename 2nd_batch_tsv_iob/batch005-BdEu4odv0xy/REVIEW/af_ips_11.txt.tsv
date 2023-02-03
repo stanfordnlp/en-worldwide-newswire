@@ -201,7 +201,7 @@ project	O
 .	O
 
 BRAC	B-Organization
-Uganda	B-Location
+Uganda	I-Organization	B-Location
 ,	O
 the	O
 National	B-Organization

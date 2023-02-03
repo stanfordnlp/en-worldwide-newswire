@@ -294,9 +294,9 @@ the	O
 burglary	O
 at	O
 his	O
-Phala	B-Organization
-Phala	I-Organization
-farm	I-Organization
+Phala	B-Location
+Phala	I-Location
+farm	I-Location
 .	O
 
 Mpofu	B-Person
@@ -313,9 +313,9 @@ posed	O
 questions	O
 about	O
 the	O
-Phala	B-Facility
-Phala	I-Facility
-farm	I-Facility
+Phala	B-Location
+Phala	I-Location
+farm	I-Location
 burglary	O
 to	O
 Ramaphosa	B-Person

@@ -249,8 +249,8 @@ the	O
 three	O
 organisations	O
 ,	O
-Soweto	B-Location
-Parliament	O
+Soweto	B-Organization	B-Location
+Parliament	I-Organization
 ,	O
 Operation	B-Organization
 Dudula	I-Organization

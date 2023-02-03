@@ -427,10 +427,10 @@ medical	O
 school	O
 at	O
 the	O
-Autonomous	B-Facility
-University	I-Facility
-of	I-Facility
-Chihuahua	I-Facility	B-Location
+Autonomous	B-Organization
+University	I-Organization
+of	I-Organization
+Chihuahua	I-Organization	B-Location
 .	O
 
 He	O

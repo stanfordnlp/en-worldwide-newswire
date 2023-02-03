@@ -53,9 +53,9 @@ Deva	I-Person
 a	O
 member	O
 of	O
-Katekalyan	B-Location
-Area	O
-Committee	O
+Katekalyan	B-Organization	B-Location
+Area	I-Organization		
+Committee	I-Organization
 of	O
 CPI	B-Organization
 (	I-Organization
@@ -213,9 +213,9 @@ CPI	B-Organization
 (	I-Organization
 Maoist	I-Organization	B-NORP
 )	I-Organization
-Katekalyan	B-Location
-Area	O
-Committee	O
+Katekalyan	B-Organization	B-Location
+Area	I-Organization
+Committee	I-Organization
 in	O
 an	O
 encounter	O

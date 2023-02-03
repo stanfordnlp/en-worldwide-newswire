@@ -73,8 +73,8 @@ secretary	O
 general	O
 of	O
 the	O
-China	B-Location
-RISC	B-Organization
+China	B-Organization	B-Location
+RISC	I-Organization
 -	I-Organization
 V	I-Organization
 Alliance	I-Organization

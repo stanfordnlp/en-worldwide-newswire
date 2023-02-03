@@ -167,9 +167,9 @@ Hussein	B-Person
 Bin	I-Person
 Abdullah	I-Person
 II	O
-Aerial	B-Location
-Reconnaissance	I-Location
-Wing	I-Location
+Aerial	B-Organization	B-Location
+Reconnaissance	I-Organization	I-Location
+Wing	I-Organization		I-Location
 ,	O
 His	O
 Majesty	O
@@ -191,7 +191,7 @@ was	O
 briefed	O
 on	O
 the	O
-Wing	O
+Wing	B-Organization
 ’	O
 s	O
 various	O

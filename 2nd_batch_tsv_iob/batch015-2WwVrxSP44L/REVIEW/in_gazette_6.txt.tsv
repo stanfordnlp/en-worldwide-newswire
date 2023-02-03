@@ -968,14 +968,14 @@ Paryushan	B-Misc
 
 Wellness	B-Organization
 Company	I-Organization
-Himalaya	B-Location
+Himalaya	I-Organization	B-Location
 is	O
 being	O
 targeted	O
 for	O
 displaying	O
 Halal	B-Misc
-Certificate	O
+Certificate	I-Misc
 on	O
 its	O
 signboards	O

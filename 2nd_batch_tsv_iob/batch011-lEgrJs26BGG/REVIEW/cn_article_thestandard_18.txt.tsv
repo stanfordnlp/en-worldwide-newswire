@@ -3,9 +3,9 @@ https://www.thestandard.com.hk/section-news/section/4/243668/More-flights-to-Jap
 Local	O
 budget	O
 airline	O
-Hong	B-Location
-Kong	I-Location
-Express	O
+Hong	B-Organization	B-Location
+Kong	I-Organization	I-Location
+Express	I-Organization
 will	O
 resume	O
 flights	O

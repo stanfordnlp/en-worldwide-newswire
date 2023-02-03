@@ -1,9 +1,9 @@
 https://www.hindustantimes.com/india-news/twitter-to-place-centre-s-blocking-orders-before-k-taka-hc-in-sealed-cover-101658862858798.html	O
 
 The	O
-Karnataka	B-Facility	B-Location
-High	I-Facility
-Court	I-Facility
+Karnataka	B-Organization	B-Location
+High	I-Organization
+Court	I-Organization
 on	O
 Tuesday	B-Misc
 allowed	O

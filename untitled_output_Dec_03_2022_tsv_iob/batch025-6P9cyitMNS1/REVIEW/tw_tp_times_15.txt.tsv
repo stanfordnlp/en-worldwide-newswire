@@ -161,8 +161,8 @@ the	O
 fall	O
 of	O
 the	O
-Soviet	B-Location
-Union	I-Location
+Soviet	B-Organization
+Union	I-Organization
 and	O
 the	O
 end	O
@@ -172,7 +172,7 @@ rule	O
 in	O
 the	O
 former	O
-Soviet	O
+Soviet	B-NORP
 satellite	O
 state	O
 .	O

@@ -130,10 +130,10 @@ zone	I-Misc
 EEZ	B-Misc
 )	O
 .	O
-Uruguay	B-Location
-'s	O
-Fleet	B-Misc
-Command	I-Misc
+Uruguay	B-Organization	B-Location
+'s	I-Oganization	
+Fleet	I-Organization	B-Misc
+Command	I-Organization	I-Misc
 had	O
 initially	O
 detected	O
