@@ -292,9 +292,9 @@ and	O
 surveillance	O
 officer	O
 at	O
-Nigeria	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
+Nigeria	B-Location
+’	O
+s	O
 National	I-Organization
 Programme	I-Organization
 on	I-Organization
@@ -902,8 +902,8 @@ of	I-Organization
 Global	I-Organization
 Health	I-Organization
 Equity	I-Organization
-,	I-Organization
-Rwanda	I-Organization	B-Location
+,	O
+Rwanda	B-Location
 captures	O
 this	O
 succinctly	O
