@@ -444,8 +444,8 @@ even	O
 set	O
 up	O
 the	O
-Permanent	O
-Okavango	B-Organization	B-Location
+Permanent	B-Organization
+Okavango	I-Organization	B-Location
 River	I-Organization	I-Location
 Basin	I-Organization
 Water	I-Organization
