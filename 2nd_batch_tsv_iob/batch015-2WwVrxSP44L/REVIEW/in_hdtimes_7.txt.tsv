@@ -36,10 +36,10 @@ charge	O
 sheet	O
 against	O
 the	O
-National	B-Organization 
-Conference	I-Organization
+National	B-Misc
+Conference	I-Misc
 (	O
-NC	B-Organization
+NC	B-Misc
 )	O
 president	O
 and	O

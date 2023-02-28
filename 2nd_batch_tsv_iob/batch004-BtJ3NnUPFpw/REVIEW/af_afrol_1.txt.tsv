@@ -531,8 +531,8 @@ planted	O
 in	O
 Uganda	B-Location
 by	O
-US	B-NORP
-Evangelicals	I-NORP
+US	B-Organization	B-Location
+Evangelicals	I-Organization	B-NORP
 in	O
 2009	B-Misc
 .	O

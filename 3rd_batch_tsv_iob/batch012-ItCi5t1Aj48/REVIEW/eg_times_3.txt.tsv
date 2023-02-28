@@ -1319,10 +1319,10 @@ a	O
 deal	O
 with	O
 the	O
-Islamic	B-Organization	B-Misc
-Scholars	I-Organiztation	I-Misc
-’	I-Organization
-Front	I-Organization
+Islamic	B-Misc
+Scholars	I-Misc
+’	O
+Front	O
 —	O
 to	O
 which	O

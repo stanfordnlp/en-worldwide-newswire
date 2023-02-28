@@ -334,10 +334,10 @@ an	O
 offer	O
 to	O
 the	O
-New	B-Location
-York	I-Location
-merchant	O
-bank	O
+New	B-Organization	B-Location
+York	I-Organization	I-Location
+merchant	I-Organization
+bank	I-Organization
 ,	O
 Raine	B-Organization
 Group	I-Organization

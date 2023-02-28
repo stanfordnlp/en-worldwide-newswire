@@ -349,7 +349,7 @@ MPs	O
 were	O
 briefed	O
 by	O
-Liberal	B-NORP
+Liberal	O
 strategist	O
 and	O
 2022	B-Misc
@@ -485,7 +485,7 @@ The	O
 vast	O
 majority	O
 of	O
-Liberal	B-NORP
+Liberal	B-Organization
 MPs	O
 were	O
 in	O

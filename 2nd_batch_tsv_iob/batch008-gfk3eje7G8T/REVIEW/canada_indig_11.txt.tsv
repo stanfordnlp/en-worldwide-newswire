@@ -25,8 +25,8 @@ invited	O
 to	O
 join	O
 a	O
-Pristine	B-Organization
-Seas	I-Organization
+Pristine	B-Misc
+Seas	I-Misc
 expedition	O
 on	O
 a	O
@@ -511,10 +511,10 @@ Friedlander	I-Person
 chief	O
 scientist	O
 on	O
-National	B-Organization
-Geographic	I-Organization
-Pristine	I-Organization
-Seas	I-Organization
+National	B-Misc	B-Organization
+Geographic	I-Misc	I-Organization
+Pristine	I-Misc
+Seas	I-Misc
 .	O
 
 "	O
@@ -554,8 +554,8 @@ that	O
 .	O
 "	O
 
-Pristine	B-Organization
-Seas	I-Organization
+Pristine	B-Misc
+Seas	I-Misc
 has	O
 been	O
 doing	O
@@ -635,8 +635,8 @@ of	I-Organization
 Oceanography	I-Organization
 ,	O
 the	O
-Pristine	B-Organization
-Seas	I-Organization
+Pristine	B-Misc
+Seas	I-Misc
 project	O
 began	O
 with	O
@@ -948,8 +948,8 @@ islands	O
 
 When	O
 the	O
-Pristine	B-Organization
-Seas	I-Organization
+Pristine	B-Misc
+Seas	I-Misc
 crew	O
 arrives	O
 on	O

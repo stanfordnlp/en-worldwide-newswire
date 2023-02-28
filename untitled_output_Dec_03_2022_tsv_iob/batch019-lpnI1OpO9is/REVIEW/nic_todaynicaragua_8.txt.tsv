@@ -14,8 +14,8 @@ Ortega	I-Person
 ,	O
 through	O
 the	O
-Nicaraguan	B-Organization	B-NORP
-Institute	I-Organization
+Nicaraguan	B-NORP
+Institute	B-Organization
 of	I-Organization
 Telecommunications	I-Organization
 and	I-Organization
@@ -56,10 +56,10 @@ is	O
 owned	O
 by	O
 the	O
-Episcopal	B-Organization
-Conference	I-Organization
-of	I-Organization
-Nicaragua	I-Organization	B-Location
+Episcopal	B-Misc
+Conference	I-Misc
+of	I-Misc
+Nicaragua	I-Misc	B-Location
 .	O
 
 “	O
@@ -170,10 +170,10 @@ area	O
 of	O
 ​​	O
 the	O
-Episcopal	B-Organization
-Conference	I-Organization
-of	I-Organization
-Nicaragua	I-Organization	B-Location
+Episcopal	B-Misc
+Conference	I-Misc
+of	I-Misc
+Nicaragua	I-Misc	B-Location
 and	O
 is	O
 in	O

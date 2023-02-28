@@ -145,11 +145,11 @@ August	B-Misc
 2021	I-Misc
 ,	O
 the	O
-Nicaraguan	B-Organization	B-NORP
-Prosecutor	I-Organization
-’	I-Organization
-s	I-Organization
-Office	I-Organization
+Nicaraguan	B-NORP
+Prosecutor	O
+’	O
+s	O
+Office	O
 charged	O
 him	O
 with	O

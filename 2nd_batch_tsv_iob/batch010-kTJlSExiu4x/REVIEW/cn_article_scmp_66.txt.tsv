@@ -61,8 +61,8 @@ km	O
 16.8	O
 miles	O
 )	O
-Nairobi	B-Location
-Expressway	I-Location
+Nairobi	B-Organization	B-Location
+Expressway	I-Organization
 linking	O
 the	O
 country	O
@@ -261,14 +261,14 @@ September	B-Misc
 2018	I-Misc
 during	O
 the	O
-Forum	B-Misc
-on	I-Misc
-China	I-Misc	B-Location
--	I-Misc
-Africa	I-Misc	B-Location
-Cooperation	I-Misc
+Forum	B-Organization
+on	I-Organization
+China	I-Organization	B-Location
+-	I-Organization
+Africa	I-Organization	B-Location
+Cooperation	I-Organization
 (	O
-FOCAC	B-Misc
+FOCAC	B-Organization
 )	O
 in	O
 Beijing	B-Location

@@ -1048,9 +1048,9 @@ policy	O
 researcher	O
 at	O
 the	O
-Kohelet	B-Organization
-Policy	I-Organization
-Forum	I-Organization
+Kohelet	B-Misc
+Policy	I-Misc
+Forum	I-Misc
 think	O
 tank	O
 ,	O

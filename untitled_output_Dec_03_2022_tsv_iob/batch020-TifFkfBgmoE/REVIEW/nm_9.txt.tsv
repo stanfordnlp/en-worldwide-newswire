@@ -328,13 +328,13 @@ the	O
 negotiations	O
 on	O
 the	O
-African	B-Misc	B-NORP
-Continental	I-Misc
-Free	I-Misc
-Trade	I-Misc
-Area	I-Misc
+African	B-Organization	B-NORP
+Continental	I-Organization
+Free	I-Organization
+Trade	I-Organization
+Area	I-Organization
 (	O
-AfCFTA	B-Misc
+AfCFTA	B-Organization
 )	O
 agreement	O
 protocol	O
@@ -346,7 +346,7 @@ implementation	O
 He	O
 said	O
 the	O
-AfCFTA	B-Misc
+AfCFTA	B-Organization
 has	O
 the	O
 potential	O

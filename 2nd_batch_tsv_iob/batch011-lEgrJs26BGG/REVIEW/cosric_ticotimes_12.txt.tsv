@@ -316,7 +316,7 @@ us	O
 ”	O
 Lustosa	B-Person
 told	O
-AFP	B-Organization
+AFP	B-Misc
 at	O
 the	O
 institute	O
@@ -679,7 +679,7 @@ know	O
 ”	O
 Atala	B-Person
 told	O
-AFP	B-Organization
+AFP	B-Misc
 .	O
 “	O
 Eating	O

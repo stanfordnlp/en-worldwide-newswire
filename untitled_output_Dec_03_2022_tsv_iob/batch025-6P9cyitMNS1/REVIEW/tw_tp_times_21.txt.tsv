@@ -27,9 +27,9 @@ County	I-Location
 returning	O
 home	O
 to	O
-Beigang	B-Location
-Chaotian	I-Location
-Temple	I-Location
+Beigang	B-Organization	B-Location
+Chaotian	I-Organization
+Temple	I-Organization
 for	O
 the	O
 first	O

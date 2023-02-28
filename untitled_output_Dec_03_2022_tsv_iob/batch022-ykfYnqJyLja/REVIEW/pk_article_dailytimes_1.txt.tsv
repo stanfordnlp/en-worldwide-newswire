@@ -82,11 +82,11 @@ leader	O
 said	O
 that	O
 PPP	B-Organization
-central	B-Organization
-executive	I-Organization
-committee	I-Organization
+central	B-Misc
+executive	I-Misc
+committee	I-Misc
 (	O
-CEC	B-Organization
+CEC	B-Misc
 )	O
 meeting	O
 ,	O

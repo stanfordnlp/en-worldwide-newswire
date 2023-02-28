@@ -4,8 +4,8 @@ https://allafrica.com/view/group/main/main/id/00082854.html	O
 South	B-Location
 Africa	I-Location
 's	O
-Banyana	B-Organization
-Banyana	I-Organization
+Banyana	B-NORP
+Banyana	I-NORP
 are	O
 African	B-NORP
 Champions	O

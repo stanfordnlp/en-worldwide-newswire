@@ -168,9 +168,9 @@ young	O
 artists	O
 of	O
 the	O
-San	B-Organization
-Isidro	I-Organization
-Movement	I-Organization
+San	B-NORP
+Isidro	I-NORP
+Movement	I-NORP
 ,	O
 which	O
 contributed	O

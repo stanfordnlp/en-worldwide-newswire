@@ -9,9 +9,9 @@ rugby	O
 league	O
 competition	O
 in	O
-Te	B-Location
-Tai	I-Location
-Tokerau	I-Location
+Te	B-Organization
+Tai	I-Organization
+Tokerau	I-Organization
 will	O
 drive	O
 up	O
@@ -71,10 +71,10 @@ the	O
 world	O
 stage	O
 in	O
-NRL	B-Organization
-Women	I-Organization
-'s	I-Organization
-Premiership	I-Organization
+NRL	B-Misc
+Women	I-Misc
+'s	I-Misc
+Premiership	I-Misc
 and	O
 the	O
 M	B-Organization	B-NORP
@@ -139,13 +139,13 @@ Wheke	I-Location
 .	O
 
 Former	O
-New	B-Organization	B-Location
-Zealand	I-Organization	I-Location
-M	I-Organization	B-NORP
-ā	I-Organization	I-NORP
-ori	I-Organization	I-NORP
-Rugby	I-Organization
-League	I-Organization
+New	B-Misc	B-Location
+Zealand	I-Misc	I-Location
+M	I-Misc	B-NORP
+ā	I-Misc	I-NORP
+ori	I-Misc	I-NORP
+Rugby	I-Misc
+League	I-Misc
 player	O
 now	O
 T	B-Location

@@ -363,8 +363,8 @@ the	O
 comprehensive	O
 rehabilitation	O
 of	O
-Ansarudeen	B-Organization	B-NORP
-Islamic	I-Organization	B-NORP
+Ansarudeen	B-NORP	B-Organization
+Islamic	B-Organization	B-NORP
 School	I-Organization
 founded	O
 by	O

@@ -633,8 +633,8 @@ Tramm	I-Person
 quoted	O
 in	O
 a	O
-Health	B-Organization
-Canada	I-Organization	B-Location
+Health	B-Misc
+Canada	I-Misc	B-Location
 study	O
 on	O
 the	O

@@ -620,9 +620,9 @@ an	O
 agreement	O
 with	O
 the	O
-Global	B-Organization
-Transparency	I-Organization
-Forum	I-Organization
+Global	B-Misc
+Transparency	I-Misc
+Forum	I-Misc
 .	O
 
 In	O

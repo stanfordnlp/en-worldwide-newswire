@@ -112,8 +112,8 @@ the	O
 PTI	B-Organization
 ’	O
 s	O
-Core	B-Organization
-Committee	I-Organization
+Core	B-Misc
+Committee	I-Misc
 meeting	O
 ,	O
 former	O
@@ -123,7 +123,7 @@ Khan	B-Person
 claimed	O
 that	O
 the	O
-CEC	B-Organization
+CEC	O
 did	O
 everything	O
 in	O

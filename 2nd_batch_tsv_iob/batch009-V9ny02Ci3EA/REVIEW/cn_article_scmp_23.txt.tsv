@@ -455,7 +455,7 @@ saw	O
 the	O
 news	O
 that	O
-Aespa	B-Organization
+Aespa	B-Misc
 ’	O
 s	O
 new	O
@@ -487,9 +487,9 @@ groups	O
 ,	O
 along	O
 with	O
-Blackpink	B-Organization
+Blackpink	B-Misc
 and	O
-Twice	B-Organization
+Twice	B-Misc
 ,	O
 to	O
 have	O
@@ -873,9 +873,9 @@ near	O
 future	O
 ,	O
 from	O
-K	B-Misc
--	I-Misc
-pop	I-Misc
+K	B-Organization
+-	I-Organization
+pop	I-Organization
 stars	O
 or	O
 other	O

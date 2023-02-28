@@ -162,8 +162,8 @@ Martin	I-Person
 representative	O
 of	O
 the	O
-Reunion	B-Location
-Region	I-Location
+Reunion	B-Organization
+Region	I-Organization
 in	O
 Mauritius	B-Location
 ,	O

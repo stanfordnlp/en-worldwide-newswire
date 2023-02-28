@@ -1414,8 +1414,8 @@ the	I-Organization
 United	I-Organization	B-Location
 States	I-Organization	I-Location
 Daughters	I-Organization
-of	I-Organization
-1812	I-Organization	B-Misc
+of	O
+1812	B-Misc
 and	O
 Stein	B-Person
 suspected	O
@@ -1718,9 +1718,9 @@ old	O
 paintings	O
 in	O
 the	O
-National	B-Location
-Art	I-Location
-Gallery	I-Location
+National	B-Organization
+Art	I-Organization
+Gallery	I-Organization
 ,	O
 no	O
 other	O

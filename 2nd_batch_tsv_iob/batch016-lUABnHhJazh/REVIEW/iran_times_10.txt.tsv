@@ -1323,7 +1323,7 @@ the	O
 framework	O
 of	O
 the	O
-Astana	B-Location
+Astana	B-NORP
 process	O
 by	O
 the	O
@@ -1370,8 +1370,8 @@ possible	O
 opportunity	O
 in	O
 the	O
-Russian	B-Organization	B-NORP
-Federation	I-Organization
+Russian	B-NORP
+Federation	I-NORP
 .	O
 
 16	O
@@ -1380,13 +1380,13 @@ The	O
 Presidents	O
 of	O
 the	O
-Russian	B-Organization
-Federation	I-Organization
+Russian	B-NORP
+Federation	I-NORP
 and	O
 the	O
-Republic	B-Organization
-of	I-Organization
-Turkey	I-Organization	B-Location
+Republic	O
+of	O
+Turkey	B-Location
 expressed	O
 their	O
 sincere	O
@@ -1395,8 +1395,8 @@ to	O
 the	O
 President	O
 of	O
-the	O
-Islamic	B-Organization
+the	B-Organization
+Islamic	I-Organization
 Republic	I-Organization
 of	I-Organization
 Iran	I-Organization

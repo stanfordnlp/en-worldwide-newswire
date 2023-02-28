@@ -22,8 +22,8 @@ Benchamabophit	I-Location
 in	O
 Bangkok	B-Location
 's	O
-Dusit	B-Location
-district	I-Location
+Dusit	B-Organization
+district	O
 on	O
 Monday	B-Misc
 .	O

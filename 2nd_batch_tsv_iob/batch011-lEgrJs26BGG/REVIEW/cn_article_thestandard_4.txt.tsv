@@ -48,10 +48,10 @@ made	O
 up	O
 entirely	O
 of	O
-J	B-Organization
--	I-Organization
-League	I-Organization
-players	O
+J	B-NORP	B-Organization
+-	I-NORP	I-Organization
+League	I-NORP	I-Organization
+players	I-NORP
 .	O
 
 Yuki	B-Person
@@ -337,7 +337,7 @@ Korea	I-Location
 meet	O
 China	B-Location
 in	O
-Toyota	B-Location
+Toyota	B-Organization
 .	O
 
 China	B-Location

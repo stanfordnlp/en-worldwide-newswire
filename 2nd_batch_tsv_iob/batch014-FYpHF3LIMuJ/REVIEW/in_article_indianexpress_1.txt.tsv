@@ -566,9 +566,9 @@ across	O
 Gujarat	B-Location
 by	O
 one	O
-Gujarat	B-Organization	B-Location
-Relief	I-Organization
-Committee	I-Organization
+Gujarat	B-Misc	B-Location
+Relief	I-Misc
+Committee	I-Misc
 .	O
 The	O
 presence	O
@@ -1110,8 +1110,8 @@ his	O
 deposition	O
 before	O
 the	O
-Nanavati	B-Organization	B-Person
-Commission	I-Organization
+Nanavati	B-Misc	B-Person
+Commission	I-Misc
 (	O
 probing	O
 the	O

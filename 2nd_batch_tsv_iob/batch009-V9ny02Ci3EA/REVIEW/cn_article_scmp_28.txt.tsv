@@ -74,8 +74,8 @@ become	O
 chairman	O
 of	O
 the	O
-Elderly	B-Organization
-Commission	I-Organization
+Elderly	B-Misc
+Commission	I-Misc
 on	O
 July	B-Misc
 30	I-Misc

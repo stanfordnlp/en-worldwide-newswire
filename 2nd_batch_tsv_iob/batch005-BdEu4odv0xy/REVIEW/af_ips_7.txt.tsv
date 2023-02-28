@@ -295,10 +295,10 @@ at	O
 Nigeria	B-Location
 ’	O
 s	O
-National	B-Organization
-Programme	I-Organization
-on	I-Organization
-Immunization	I-Organization
+National	B-Misc
+Programme	I-Misc
+on	I-Misc
+Immunization	I-Misc
 ,	O
 I	O
 was	O

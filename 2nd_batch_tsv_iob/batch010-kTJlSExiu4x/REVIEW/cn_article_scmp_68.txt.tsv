@@ -644,9 +644,9 @@ the	O
 deep	O
 pockets	O
 of	O
-Chinese	B-NORP
-investment	O
-banks	O
+Chinese	B-Organization	B-NORP
+investment	I-Organization
+banks	I-Organization
 .	O
 ”	O
 

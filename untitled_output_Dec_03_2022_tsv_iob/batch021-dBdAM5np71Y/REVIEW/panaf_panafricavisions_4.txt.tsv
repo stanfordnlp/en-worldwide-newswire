@@ -566,9 +566,9 @@ a	O
 grant	O
 to	O
 the	O
-Grand	B-Organization
-Africa	I-Organization	B-Location
-Initiative	I-Organization
+Grand	B-Misc
+Africa	I-Misc	B-Location
+Initiative	I-Misc
 to	O
 train	O
 200	O

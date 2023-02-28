@@ -346,9 +346,9 @@ Events	O
 and	O
 Operations	O
 at	O
-Miss	B-Organization
-Tourism	I-Organization
-Ghana	I-Organization	B-Location
+Miss	B-Misc
+Tourism	I-Misc
+Ghana	I-Misc	B-Location
 said	O
 the	O
 2022	B-Misc

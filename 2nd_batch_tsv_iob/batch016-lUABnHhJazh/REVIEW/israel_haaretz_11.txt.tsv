@@ -553,12 +553,12 @@ assaulting	O
 students	O
 at	O
 a	O
-Jewish	B-NORP
-high	O
-school	O
-in	O
-New	B-Location
-Jersey	I-Location
+Jewish	B-Organization	B-NORP
+high	I-Organization
+school	I-Organization
+in	I-Organization
+New	I-Organization	B-Location
+Jersey	I-Organization	I-Location
 while	O
 he	O
 was	O

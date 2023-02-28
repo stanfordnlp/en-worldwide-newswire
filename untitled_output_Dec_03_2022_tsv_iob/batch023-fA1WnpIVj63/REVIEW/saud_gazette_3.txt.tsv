@@ -12,10 +12,10 @@ a	O
 visit	O
 to	O
 the	O
-Kingdom	O
-of	O
-Saudi	B-Location
-Arabia	I-Location
+Kingdom	B-Organization
+of	I-Organization
+Saudi	I-Organization	B-Location
+Arabia	I-Organization	I-Location
 ,	O
 during	O
 which	O

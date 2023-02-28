@@ -1263,8 +1263,8 @@ China	B-Location
 North	B-Location
 Korea	I-Location
 and	O
-Nazi	B-Location	B-NORP
-Germany	I-Location	B-Location
+Nazi	B-Organization	B-NORP
+Germany	I-Organization	B-Location
 .	O
 
 “	O

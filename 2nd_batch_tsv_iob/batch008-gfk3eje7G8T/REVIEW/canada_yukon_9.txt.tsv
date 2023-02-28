@@ -685,8 +685,8 @@ tour	O
 schools	O
 under	O
 a	O
-First	B-NORP
-Nations	I-NORP
+First	B-Organization
+Nations	I-Organization
 school	O
 board	O
 in	O
@@ -844,8 +844,8 @@ is	O
 oh	O
 ,	O
 the	O
-First	B-NORP
-Nations	I-NORP
+First	B-Organization
+Nations	I-Organization
 are	O
 going	O
 to	O

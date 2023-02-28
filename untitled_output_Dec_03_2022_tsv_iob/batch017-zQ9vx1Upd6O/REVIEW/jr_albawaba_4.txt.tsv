@@ -274,11 +274,11 @@ refugees	O
 registered	O
 in	O
 the	O
-West	B-Location
-Bank	I-Location
+West	B-Organization
+Bank	I-Organization
 ,	O
 Gaza	B-Location
-Strip	I-Location
+Strip	O
 ,	O
 and	O
 refugee	O

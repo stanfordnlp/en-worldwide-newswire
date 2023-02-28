@@ -1334,7 +1334,7 @@ class	O
 .	O
 
 “	O
-Tiendas	O
+Tiendas	B-Organization
 ”	O
 are	O
 the	O
@@ -2132,7 +2132,7 @@ of	O
 companies	O
 in	O
 the	O
-LatAm	B-Location
+LatAm	B-Organization
 region	O
 —	O
 the	O
@@ -2502,13 +2502,13 @@ Colombian	B-NORP
 food	O
 delivery	O
 network	O
-Domicilios	B-Organization
+Domicilios	B-Misc
 ,	O
 which	O
 was	O
 acquired	O
 by	O
-DeliveryHero	B-Organization
+DeliveryHero	B-Misc
 .	O
 
 Raising	O

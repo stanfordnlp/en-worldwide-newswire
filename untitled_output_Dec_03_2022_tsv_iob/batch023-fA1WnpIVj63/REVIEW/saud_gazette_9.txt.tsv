@@ -117,13 +117,13 @@ was	O
 allocated	O
 in	O
 the	O
-Agricultural	B-Organization
-Development	I-Organization
-Fund	I-Organization
+Agricultural	B-Misc
+Development	I-Misc
+Fund	I-Misc
 ’	O
 s	O
 (	O
-ADF	B-Organization
+ADF	B-Misc
 )	O
 budget	O
 to	O

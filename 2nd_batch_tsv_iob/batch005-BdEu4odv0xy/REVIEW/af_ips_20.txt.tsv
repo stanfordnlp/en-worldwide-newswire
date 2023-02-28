@@ -107,11 +107,11 @@ recovery	O
 .	O
 
 The	O
-UN	B-Organization
-Environment	I-Organization
-Programme	I-Organization
+UN	B-Misc	B-Organization
+Environment	I-Misc
+Programme	I-Misc
 (	O
-UNEP	B-Organization
+UNEP	B-Misc
 )	O
 shows	O
 that	O
@@ -270,12 +270,12 @@ official	O
 report	O
 by	O
 the	O
-United	B-Organization
-Nations	I-Organization
-Environment	I-Organization
-Programme	I-Organization
+United	B-Misc	B-Organization
+Nations	I-Misc	I-Organization
+Environment	I-Misc
+Programme	I-Misc
 (	O
-UNEP	B-Organization
+UNEP	B-Misc
 )	O
 indicates	O
 that	O

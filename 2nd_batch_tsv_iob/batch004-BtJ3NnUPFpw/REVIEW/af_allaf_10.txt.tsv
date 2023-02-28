@@ -86,8 +86,8 @@ and	O
 David	B-Person
 Kode	I-Person
 for	O
-African	B-Organization
-Arguments	I-Organization
+African	B-NORP
+Arguments	O
 .	O
 
 Since	O

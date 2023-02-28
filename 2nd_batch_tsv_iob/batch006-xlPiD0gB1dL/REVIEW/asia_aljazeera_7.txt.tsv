@@ -117,8 +117,8 @@ of	I-Organization
 India	I-Organization	B-Location
 and	O
 the	O
-Oberoi	B-Location
-Hotel	I-Location
+Oberoi	B-Organization
+Hotel	I-Organization
 in	O
 Mumbai	B-Location
 and	O
@@ -700,8 +700,8 @@ Indians	B-NORP
 ,	O
 besides	O
 the	O
-Oberoi	B-Location
-Hotel	I-Location
+Oberoi	B-Organization
+Hotel	I-Organization
 and	O
 RBI	B-Organization
 ’	O

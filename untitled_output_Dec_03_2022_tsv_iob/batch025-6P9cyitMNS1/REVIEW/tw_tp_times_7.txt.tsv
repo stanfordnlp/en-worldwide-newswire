@@ -397,10 +397,10 @@ was	O
 conducted	O
 by	O
 NTU	B-Organization
-Center	B-Organization
-for	I-Organization
-China	I-Organization	B-Location
-Studies	I-Organization
+Center	B-Misc
+for	I-Misc
+China	I-Misc	B-Location
+Studies	I-Misc
 researcher	O
 Yang	B-Person
 Shi	I-Person

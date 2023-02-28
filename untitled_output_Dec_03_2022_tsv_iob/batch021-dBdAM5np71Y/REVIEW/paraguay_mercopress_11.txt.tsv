@@ -159,8 +159,8 @@ Isaac	B-Person
 Caswell	I-Person
 ,	O
 a	O
-Google	B-Misc
-Translate	I-Misc
+Google	B-Organization
+Translate	O
 researcher	O
 .	O
 
