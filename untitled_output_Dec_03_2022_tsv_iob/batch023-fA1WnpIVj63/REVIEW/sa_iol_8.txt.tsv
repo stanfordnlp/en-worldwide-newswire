@@ -7,9 +7,9 @@ The	O
 investigation	O
 into	O
 the	O
-Phala	B-Location
-Phala	I-Location
-farm	I-Location
+Phala	B-Organization
+Phala	I-Organization
+farm	I-Organization
 matter	O
 had	O
 nothing	O
@@ -126,9 +126,9 @@ the	O
 burglary	O
 at	O
 his	O
-Phala	B-Location
-Phala	I-Location
-farm	I-Location
+Phala	B-Organization
+Phala	I-Organization
+farm	I-Organization
 .	O
 
 Mpofu	B-Person
@@ -330,9 +330,9 @@ grounds	O
 
 On	O
 the	O
-Phala	B-Location
-Phala	I-Location
-farm	I-Location
+Phala	B-Organization
+Phala	I-Organization
+farm	I-Organization
 issue	O
 ,	O
 Budlender	B-Person

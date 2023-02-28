@@ -104,9 +104,9 @@ Shidhani	I-Person
 Ambassador	O
 of	O
 the	O
-Sultanate	B-Organization
-of	I-Organization
-Oman	I-Organization	B-Location
+Sultanate	B-Location
+of	I-Location
+Oman	I-Location
 to	O
 the	O
 United	B-Location

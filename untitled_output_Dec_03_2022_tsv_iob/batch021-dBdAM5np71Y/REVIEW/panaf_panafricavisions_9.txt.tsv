@@ -249,11 +249,11 @@ in	O
 Zimbabwe	B-Location
 ,	O
 the	O
-United	B-Organization
-Bulawayo	I-Organization	B-Location
-Hospital	I-Organization
+United	B-Facility
+Bulawayo	I-Facility	B-Location
+Hospital	I-Facility
 (	O
-UBH	B-Organization
+UBH	B-Facility
 )	O
 issued	O
 a	O

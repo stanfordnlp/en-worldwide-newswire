@@ -158,8 +158,8 @@ Kabir	I-Person
 additional	O
 superintendent	O
 of	O
-Keraniganj	B-Organization	B-Location
-Police	I-Organization
+Keraniganj	B-Location
+Police	O
 ,	O
 confirmed	O
 the	O

@@ -210,9 +210,9 @@ speech	O
 of	O
 Jinnah	B-Person
 in	O
-Pakistan	B-Organization	B-Location
-Constituent	I-Organization
-assembly	I-Organization
+Pakistan	B-Location
+Constituent	O
+assembly	O
 ,	O
 to	O
 show	O

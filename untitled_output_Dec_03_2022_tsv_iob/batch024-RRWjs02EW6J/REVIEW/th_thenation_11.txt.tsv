@@ -100,7 +100,7 @@ Thailand	B-Location
 at	O
 Zipmex	B-Organization
 Global	I-Organization
-Singapore	I-Organization	B-Location
+Singapore	B-Location
 ,	O
 where	O
 Zipmex	B-Organization

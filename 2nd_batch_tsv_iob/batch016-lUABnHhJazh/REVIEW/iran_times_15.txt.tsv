@@ -292,8 +292,8 @@ met	O
 with	O
 Head	O
 of	O
-Iran	B-Organization	B-Location
-Small	I-Organization
+Iran	B-Location
+Small	B-Organization
 Industries	I-Organization
 and	I-Organization
 Industrial	I-Organization

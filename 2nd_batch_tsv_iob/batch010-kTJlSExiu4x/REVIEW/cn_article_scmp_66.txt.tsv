@@ -629,12 +629,12 @@ research	O
 fellow	O
 at	O
 the	O
-Centre	B-Organization
-for	I-Organization
-International	I-Organization
-and	I-Organization
-Comparative	I-Organization
-Politics	I-Organization
+Centre	B-Facility
+for	I-Facility
+International	I-Facility
+and	I-Facility
+Comparative	I-Facility
+Politics	I-Facility
 at	O
 Stellenbosch	B-Organization	B-Location
 University	I-Organization

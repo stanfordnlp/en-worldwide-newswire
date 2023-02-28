@@ -89,10 +89,10 @@ to	O
 Israel	B-Location
 .	O
 The	O
-IDF	B-Organization
-Spokesperson	I-Organization
-'s	I-Organization
-Unit	I-Organization
+IDF	B-Facility	B-Organization
+Spokesperson	I-Facility
+'s	I-Facility
+Unit	I-Facility
 announced	O
 later	O
 in	O

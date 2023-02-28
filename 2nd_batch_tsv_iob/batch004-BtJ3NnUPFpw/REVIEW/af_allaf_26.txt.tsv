@@ -308,8 +308,8 @@ the	O
 Senegalese	B-Organization	B-NORP
 Security	I-Organization
 through	O
-Interpol	B-Organization
-Gambia	I-Organization	B-Location
+Interpol	O
+Gambia	B-Location
 for	O
 their	O
 cooperation	O

@@ -1,11 +1,11 @@
 https://newsghana.com.gh/upper-denkyira-east-seeks-support-to-build-cocoa-by-product-processing-factory/	O
 
 The	O
-Upper	B-Organization	B-Location
-Denkyira	I-Organization	I-Location
-East	I-Organization		I-Location
-Municipal	I-Organization
-Assembly	I-Organization
+Upper	B-Location
+Denkyira	I-Location
+East	I-Location
+Municipal	I-Location
+Assembly	I-Location
 has	O
 rallied	O
 investment	O

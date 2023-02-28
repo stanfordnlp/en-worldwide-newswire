@@ -431,9 +431,9 @@ summit	O
 organized	O
 by	O
 the	O
-Government	B-Organization
-of	I-Organization
-Gujarat	I-Organization	B-Location
+Government	O
+of	O
+Gujarat	B-Location
 ,	O
 is	O
 an	O

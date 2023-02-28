@@ -369,8 +369,8 @@ courtesy	O
 of	O
 Tanqueray	B-Product
 and	O
-Appletiser	B-Organization	B-Product
-South	I-Organization		B-Location
-Africa	I-Organization		I-Location
-.	O
+Appletiser	B-Product
+South	B-Location
+Africa	I-Location
+.	I-Location
 

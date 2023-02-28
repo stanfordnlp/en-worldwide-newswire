@@ -72,9 +72,9 @@ as	O
 part	O
 of	O
 the	O
-State	B-Organization
-of	I-Organization
-Qatar	I-Organization	B-Location
+State	B-Location
+of	I-Location
+Qatar	I-Location
 ’	O
 s	O
 efforts	O
@@ -260,7 +260,7 @@ National	I-Organization
 Research	I-Organization
 Fund	I-Organization
 (	O
-QNRF	B-Organization
+QNRF	B-Location
 )	O
 and	O
 the	O
@@ -281,8 +281,8 @@ a	O
 recent	O
 interview	O
 with	O
-The	B-Organization
-Peninsula	I-Organization
+The	O
+Peninsula	O
 Dr	O
 .	O
 Abdullatif	B-Person

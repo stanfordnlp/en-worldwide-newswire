@@ -643,8 +643,8 @@ US	B-Money	B-Location
 $	I-Money
 200	I-Money
 million	I-Money
-African	B-Facility	B-Organization	B-NORP
-Union	I-Facility	I-Organization
+African	B-Facility	B-NORP
+Union	I-Facility
 headquarters	I-Facility
 in	O
 Addis	B-Location

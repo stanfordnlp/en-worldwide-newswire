@@ -74,9 +74,9 @@ lauded	O
 the	O
 staff	O
 of	O
-Mushroom	B-Organization
-Research	I-Organization
-Facility	I-Organization
+Mushroom	B-Facility
+Research	I-Facility
+Facility	I-Facility
 of	O
 FAREI	B-Organization
 for	O

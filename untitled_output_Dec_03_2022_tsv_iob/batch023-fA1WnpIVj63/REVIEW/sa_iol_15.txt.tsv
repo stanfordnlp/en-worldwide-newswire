@@ -452,9 +452,9 @@ million	I-Money
 Dr	O
 Ruth	B-Person
 Segomotse	I-Person
-Mompati	B-Organization
-District	I-Organization
-Municipality	I-Organization
+Mompati	B-Location
+District	I-Location
+Municipality	I-Location
 R	B-Money
 100	I-Money
 million	I-Money

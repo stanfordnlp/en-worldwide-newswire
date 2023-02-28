@@ -101,9 +101,9 @@ stains	O
 ,	O
 ”	O
 said	O
-Joburg	B-Organization	B-Location
-Central	I-Organization
-police	I-Organization
+Joburg	B-Location
+Central	O
+police	O
 spokesperson	O
 Captain	O
 Xoli	B-Person
@@ -493,8 +493,8 @@ he	O
 was	O
 apprehended	O
 by	O
-Mondeor	B-Organization	B-Location
-SAPS	I-Organization
+Mondeor	B-Location
+SAPS	B-Organization
 on	O
 the	O
 same	O

@@ -189,9 +189,9 @@ act	O
 On	O
 Wednesday	B-Misc
 ,	O
-Iraq	B-Organization	B-Location
-'s	I-Organization
-Cabinet	I-Organization
+Iraq	B-Location
+'s	O
+Cabinet	O
 also	O
 advised	O
 the	O

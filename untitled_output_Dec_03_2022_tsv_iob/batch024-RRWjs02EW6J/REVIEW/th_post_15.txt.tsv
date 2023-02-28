@@ -52,8 +52,8 @@ the	O
 Civil	B-Organization
 Aviation	I-Organization
 Authority	I-Organization
-of	I-Organization
-Thailand	I-Organization	B-Location
+of	O
+Thailand	B-Location
 last	O
 week	O
 and	O

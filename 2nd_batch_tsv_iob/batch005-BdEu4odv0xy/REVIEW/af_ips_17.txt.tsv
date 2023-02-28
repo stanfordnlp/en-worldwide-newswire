@@ -724,8 +724,8 @@ a	O
 company	O
 ,	O
 like	O
-Camvert	B-Organization	
-SA	I-Organization	B-Location
+Camvert	B-Location
+SA	I-Location
 ,	O
 tax	O
 exemptions	O

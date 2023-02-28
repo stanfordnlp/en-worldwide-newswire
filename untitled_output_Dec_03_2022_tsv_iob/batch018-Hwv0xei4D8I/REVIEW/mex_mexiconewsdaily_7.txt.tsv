@@ -953,10 +953,10 @@ Oaxaca	B-Location
 Scientists	O
 working	O
 for	O
-Pronatura	B-Organization
-Península	I-Organization
-de	I-Organization
-Yucatán	I-Organization
+Pronatura	B-Location
+Península	I-Location
+de	I-Location
+Yucatán	I-Location
 —	O
 one	O
 of	O

@@ -89,7 +89,7 @@ had	O
 become	O
 necessary	O
 that	O
-eThekwini	B-Organization
+eThekwini	B-Location
 starts	O
 contributing	O
 to	O
@@ -98,7 +98,7 @@ shedding	O
 .	O
 
 “	O
-eThekwini	B-Organization
+eThekwini	B-Location
 and	O
 Eskom	B-Organization
 are	O

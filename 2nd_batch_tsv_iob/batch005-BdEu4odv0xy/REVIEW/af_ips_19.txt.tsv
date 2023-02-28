@@ -14,9 +14,9 @@ IPS	B-Organization
 Last	O
 June	B-Misc
 ,	O
-Mit	B-Organization
-Al	I-Organization
-Korama	I-Organization
+Mit	B-Location
+Al	I-Location
+Korama	I-Location
 ’	O
 s	O
 youth	O
@@ -178,9 +178,9 @@ ransoms	O
 Fakih	B-Person
 informed	O
 the	O
-Mit	B-Organization
-Al	I-Organization
-Korama	I-Organization
+Mit	B-Location
+Al	I-Location
+Korama	I-Location
 youth	O
 that	O
 spots	O

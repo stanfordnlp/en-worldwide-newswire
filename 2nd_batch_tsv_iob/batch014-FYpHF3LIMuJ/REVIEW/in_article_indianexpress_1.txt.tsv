@@ -1,8 +1,8 @@
 https://indianexpress.com/article/india/at-ahmed-patels-behest-teesta-others-plotted-to-destabilise-gujarat-govt-sit-8032263/	O
 
 THE	O
-GUJARAT	B-Organization	B-Location
-Special	I-Organization
+GUJARAT	B-Location
+Special	B-Organization
 Investigation	I-Organization
 Team	I-Organization
 (	O

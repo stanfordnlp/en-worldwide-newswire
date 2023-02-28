@@ -189,9 +189,9 @@ late	O
 President	O
 at	O
 the	O
-University	B-Organization
-of	I-Organization
-Ghana	I-Organization
+University	B-Facility
+of	I-Facility
+Ghana	I-Facility
 ,	O
 were	O
 members	O
