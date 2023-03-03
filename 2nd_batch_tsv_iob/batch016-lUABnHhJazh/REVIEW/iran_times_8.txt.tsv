@@ -10,8 +10,8 @@ meet	O
 in	O
 Baghdad	B-Location
 :	O
-Iraqi	B-Organization	B-NORP
-FM	I-Organization
+Iraqi	B-NORP
+FM	O
 
 Saudi	B-Location
 Arabia	I-Location
@@ -45,8 +45,8 @@ meetings	O
 facilitated	O
 by	O
 the	O
-Iraqi	B-Organization	B-NORP
-government	I-Organization
+Iraqi	B-NORP
+government	O
 ,	O
 Iraq	B-Location
 ’	O

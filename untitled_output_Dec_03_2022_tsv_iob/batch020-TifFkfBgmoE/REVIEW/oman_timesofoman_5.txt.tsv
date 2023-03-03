@@ -22,9 +22,9 @@ has	O
 recently	O
 introduced	O
 the	O
-Escrow	B-Organization
-Account	I-Organization
-Service	I-Organization
+Escrow	B-Misc
+Account	I-Misc
+Service	I-Misc
 .	O
 T	O
 

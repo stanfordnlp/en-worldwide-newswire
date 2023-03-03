@@ -712,8 +712,8 @@ happy	O
 that	O
 today	O
 the	O
-Israeli	B-Organization	B-NORP
-government	I-Organization
+Israeli	B-NORP
+government	O
 had	O
 taken	O
 its	O

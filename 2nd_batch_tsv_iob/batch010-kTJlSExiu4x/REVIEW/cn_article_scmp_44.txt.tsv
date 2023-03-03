@@ -460,9 +460,9 @@ health	O
 card	O
 ,	O
 or	O
-Kartu	B-Organization
-Jakarta	I-Organization	B-Location
-Sehat	I-Organization
+Kartu	B-Misc
+Jakarta	I-Misc	B-Location
+Sehat	I-Misc
 ,	O
 to	O
 provide	O

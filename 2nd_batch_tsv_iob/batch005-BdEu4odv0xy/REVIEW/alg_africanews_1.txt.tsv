@@ -109,8 +109,8 @@ the	O
 capital	O
 of	O
 a	O
-Numidian	B-Organization	B-NORP
-kingdom	I-Organization
+Numidian	B-NORP
+kingdom	O
 at	O
 the	O
 end	O
@@ -517,8 +517,8 @@ a	O
 home	O
 for	O
 retired	O
-Roman	B-Organization	B-NORP
-soldiers	I-Organization
+Roman	B-NORP
+soldiers	O
 .	O
 
 "	O

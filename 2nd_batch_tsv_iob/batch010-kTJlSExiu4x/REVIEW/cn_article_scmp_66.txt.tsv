@@ -261,14 +261,14 @@ September	B-Misc
 2018	I-Misc
 during	O
 the	O
-Forum	B-Organization
-on	I-Organization
-China	I-Organization	B-Location
--	I-Organization
-Africa	I-Organization	B-Location
-Cooperation	I-Organization
+Forum	B-Misc
+on	I-Misc
+China	I-Misc	B-Location
+-	I-Misc
+Africa	I-Misc	B-Location
+Cooperation	I-Misc
 (	O
-FOCAC	B-Organization
+FOCAC	B-Misc
 )	O
 in	O
 Beijing	B-Location

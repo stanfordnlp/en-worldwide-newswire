@@ -530,8 +530,8 @@ attack	O
 saying	O
 that	O
 the	O
-Turkish	B-Organization	B-NORP
-troops	I-Organization
+Turkish	B-NORP
+troops	O
 have	O
 violated	O
 Iraq	B-Location

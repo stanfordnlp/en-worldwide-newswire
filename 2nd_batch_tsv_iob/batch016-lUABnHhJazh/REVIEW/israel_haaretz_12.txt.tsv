@@ -797,8 +797,8 @@ year	O
 .	O
 
 The	O
-Israeli	B-Organization	B-NORP
-police	I-Organization
+Israeli	B-NORP
+police	O
 do	O
 not	O
 keep	O
@@ -1750,8 +1750,8 @@ Orthodox	I-NORP
 world	O
 .	O
 
-Haredi	B-Organization
-society	I-Organization
+Haredi	B-NORP
+society	O
 is	O
 a	O
 highly	O
@@ -2070,7 +2070,7 @@ Leifer	B-Person
 launched	O
 by	O
 a	O
-Hasidic	B-Organization
+Hasidic	B-NORP
 rabbi	O
 ,	O
 speaks	O
@@ -2082,7 +2082,7 @@ mesirah	O
 ,	O
 with	O
 the	O
-Haredi	B-Organization
+Haredi	B-NORP
 public	O
 being	O
 asked	O

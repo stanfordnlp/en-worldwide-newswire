@@ -104,8 +104,8 @@ in	O
 Baghdad	B-Location
 surrounded	O
 the	O
-Turkish	B-Organization	B-NORP
-embassy	I-Organization
+Turkish	B-NORP
+embassy	O
 and	O
 brought	O
 down	O
@@ -382,8 +382,8 @@ demanded	O
 the	O
 withdrawal	O
 of	O
-Turkish	B-Organization	B-NORP
-troops	I-Organization
+Turkish	B-NORP
+troops	O
 from	O
 Iraqi	B-NORP
 soil	O

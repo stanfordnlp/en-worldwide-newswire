@@ -11,9 +11,9 @@ Galaxy	I-Organization
 of	O
 Botswana	B-Location
 in	O
-CAF	B-Organization
-Champions	I-Organization
-League	I-Organization
+CAF	B-Misc
+Champions	I-Misc
+League	I-Misc
 Group	B-Misc
 C	I-Misc
 on	O

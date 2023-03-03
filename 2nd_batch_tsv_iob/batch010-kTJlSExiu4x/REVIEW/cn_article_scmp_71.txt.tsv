@@ -495,9 +495,9 @@ of	O
 according	O
 to	O
 the	O
-China	B-Organization	B-Location
-Economic	I-Organization
-Weekly	I-Organization
+China	B-Misc	B-Location
+Economic	I-Misc
+Weekly	I-Misc
 ,	O
 a	O
 magazine	O

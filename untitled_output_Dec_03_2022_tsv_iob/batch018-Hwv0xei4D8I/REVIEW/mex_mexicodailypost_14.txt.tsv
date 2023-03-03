@@ -41,9 +41,9 @@ was	O
 .	O
 
 The	O
-Mexican	B-Organization	B-NORP
-culture	I-Organization
-ministry	I-Organization
+Mexican	B-NORP
+culture	O
+ministry	O
 confirmed	O
 her	O
 death	O

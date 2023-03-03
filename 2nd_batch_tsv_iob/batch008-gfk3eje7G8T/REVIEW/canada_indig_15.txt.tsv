@@ -102,8 +102,8 @@ orchard	O
 .	O
 Nicholas	B-Person
 told	O
-CBC	B-Organization
-Let	B-Misc
+CBC	B-Misc
+Let	I-Misc
 's	I-Misc
 Go	I-Misc
 's	I-Misc

@@ -149,8 +149,8 @@ past	O
 and	O
 present	O
 of	O
-First	B-Organization
-Nations	I-Organization
+First	B-NORP
+Nations	I-NORP
 ’	O
 people	O
 in	O
@@ -167,8 +167,8 @@ the	O
 future	O
 .	O
 
-Dreaming	B-Organization
-Roots	I-Organization
+Dreaming	B-Misc
+Roots	I-Misc
 had	O
 an	O
 initial	O
@@ -355,8 +355,8 @@ drum	O
 dance	O
 by	O
 the	O
-Kaska	B-Organization	B-NORP
-Drummers	I-Organization
+Kaska	B-NORP
+Drummers	O
 .	O
 
 Dreaming	B-Misc

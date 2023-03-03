@@ -191,11 +191,11 @@ disabilities	O
 to	O
 benefit	O
 from	O
-Disability	B-Organization
-Inclusive	I-Organization
-Graduation	I-Organization
+Disability	B-Misc
+Inclusive	I-Misc
+Graduation	I-Misc
 (	O
-DIG	B-Organization
+DIG	B-Misc
 )	O
 project	O
 .	O
@@ -265,7 +265,7 @@ Sight	B-Organization
 Savers	I-Organization
 .	O
 
-DIG	B-Organization
+DIG	B-Misc
 is	O
 designed	O
 to	O
@@ -387,7 +387,7 @@ included	O
 .	O
 
 “	O
-DIG	B-Organization
+DIG	B-Misc
 has	O
 helped	O
 us	O
@@ -795,7 +795,7 @@ to	O
 learn	O
 from	O
 the	O
-DIG	B-Organization
+DIG	B-Misc
 model	O
 ,	O
 Baguma	B-Person
@@ -983,7 +983,7 @@ the	O
 report	O
 .	O
 
-DIG	B-Organization
+DIG	B-Misc
 has	O
 also	O
 provided	O
@@ -1064,7 +1064,7 @@ told	O
 IPS	B-Organization
 that	O
 without	O
-DIG	B-Organization
+DIG	B-Misc
 ’	O
 s	O
 intervention	O
@@ -1145,7 +1145,7 @@ as	O
 part	O
 of	O
 the	O
-DIG	B-Organization
+DIG	B-Misc
 program	O
 ,	O
 earning	O
@@ -1295,7 +1295,7 @@ ago	O
 So	O
 ,	O
 if	O
-DIG	B-Organization
+DIG	B-Misc
 had	O
 not	O
 come	O
@@ -1379,7 +1379,7 @@ Senvume	B-Person
 
 While	O
 the	O
-DIG	B-Organization
+DIG	B-Misc
 model	O
 is	O
 relatively	O
@@ -1495,7 +1495,7 @@ who	O
 has	O
 benefitted	O
 from	O
-DIG	B-Organization
+DIG	B-Misc
 is	O
 that	O
 the	O

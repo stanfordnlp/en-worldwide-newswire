@@ -363,7 +363,7 @@ an	O
 online	O
 database	O
 of	O
-Chinese	B-Organization
+Chinese	B-NORP
 companies	O
 .	O
 But	O
@@ -380,7 +380,7 @@ few	O
 years	O
 .	O
 
-Chinese	B-Location
+Chinese	B-NORP
 state	O
 media	O
 has	O

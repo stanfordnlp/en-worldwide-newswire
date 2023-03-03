@@ -408,12 +408,12 @@ UNHCR	B-Organization
 )	O
 and	O
 the	O
-UN	B-Organization
-World	I-Organization
-Food	I-Organization
-Programme	I-Organization
+UN	B-Misc
+World	I-Misc
+Food	I-Misc
+Programme	I-Misc
 (	O
-WFP	B-Organization
+WFP	B-Misc
 )	O
 indicates	O
 that	O

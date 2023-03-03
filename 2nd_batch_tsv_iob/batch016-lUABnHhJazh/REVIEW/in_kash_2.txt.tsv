@@ -91,8 +91,8 @@ the	O
 first	O
 -	O
 ever	O
-Tiranga	B-Organization
-bikers	I-Organization
+Tiranga	B-Misc
+bikers	O
 rally	O
 from	O
 Lal	B-Location
@@ -110,10 +110,10 @@ historic	O
 Ghanta	B-Facility	B-Location
 Ghar	I-Facility	I-Location
 ’	I-Facility
-(	I-Facility
-clock	I-Facility
-tower	I-Facility
-)	I-Facility
+(	O
+clock	O
+tower	O
+)	O
 ,	O
 Surya	B-Person
 said	O

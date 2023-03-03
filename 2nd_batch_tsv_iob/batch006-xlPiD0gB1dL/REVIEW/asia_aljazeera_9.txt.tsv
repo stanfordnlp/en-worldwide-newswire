@@ -445,8 +445,8 @@ tell	O
 Al	B-Organization
 Jazeera	I-Organization
 the	O
-Indian	B-Organization	B-NORP
-government	I-Organization
+Indian	B-NORP
+government	O
 has	O
 deported	O
 17	O

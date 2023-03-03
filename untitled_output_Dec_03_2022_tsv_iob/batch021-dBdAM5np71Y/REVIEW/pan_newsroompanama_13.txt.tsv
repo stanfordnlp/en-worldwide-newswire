@@ -394,8 +394,8 @@ Abramovich	B-Person
 ,	O
 who	O
 anticipated	O
-British	B-Organization	B-NORP
-government	I-Organization
+British	B-NORP
+government	O
 sanctions	O
 targeting	O
 oligarchs	O

@@ -173,11 +173,11 @@ peace	O
 agreement	O
 between	O
 the	O
-Sudanese	B-Organization	B-NORP
-government	I-Organization
+Sudanese	B-NORP
+government	O
 and	O
 the	O
-Sudanese	B-Organization	B-NORP
+Sudanese	B-Organization
 People	I-Organization
 ’	I-Organization
 s	I-Organization
@@ -595,7 +595,7 @@ the	O
 agreement	O
 would	O
 allow	O
-Sudanese	O
+Sudanese	B-NORP
 refugees	O
 to	O
 live	O
@@ -767,7 +767,7 @@ privilege	O
 ”	O
 for	O
 those	O
-Sudanese	B-Organization
+Sudanese	B-NORP
 who	O
 want	O
 to	O

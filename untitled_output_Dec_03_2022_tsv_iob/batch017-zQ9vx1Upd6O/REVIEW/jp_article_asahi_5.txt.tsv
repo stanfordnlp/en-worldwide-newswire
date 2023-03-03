@@ -532,8 +532,8 @@ this	O
 season	O
 and	O
 an	O
-American	B-Organization	B-NORP
-League	I-Organization
+American	B-Misc	B-NORP
+League	I-Misc
 record	O
 for	O
 a	O

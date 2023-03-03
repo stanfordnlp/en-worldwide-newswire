@@ -9,8 +9,8 @@ quick	O
 to	O
 cast	O
 the	O
-Russian	B-Organization	B-NORP
-government	I-Organization
+Russian	B-NORP
+government	O
 ’	O
 s	O
 decision	O

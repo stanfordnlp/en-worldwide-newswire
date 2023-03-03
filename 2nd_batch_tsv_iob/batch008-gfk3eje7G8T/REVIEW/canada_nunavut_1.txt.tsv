@@ -336,9 +336,9 @@ country	O
 for	O
 their	O
 “	O
-Indigenous	B-Organization
-Reconciliation	I-Organization
-Fund	I-Organization
+Indigenous	B-Misc
+Reconciliation	I-Misc
+Fund	I-Misc
 ,	O
 ”	O
 which	O

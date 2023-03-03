@@ -29,11 +29,11 @@ City	I-Location
 organized	O
 by	O
 the	O
-World	B-Organization
-Pride	I-Organization
-Panama	I-Organization	B-Location
-2022	I-Organization	B-Misc
-committee	I-Organization
+World	B-Misc
+Pride	I-Misc
+Panama	I-Misc	B-Location
+2022	I-Misc	B-Misc
+committee	O
 and	O
 the	O
 Fundación	B-Organization

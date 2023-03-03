@@ -127,8 +127,8 @@ coasts	O
 
 Despite	O
 the	O
-Egyptian	B-Organization	B-NORP
-government	I-Organization
+Egyptian	B-NORP
+government	O
 ’	O
 s	O
 warnings	O

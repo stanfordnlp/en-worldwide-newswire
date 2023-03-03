@@ -403,10 +403,10 @@ crackdown	O
 .	O
 
 The	O
-Star	B-Organization
-Market	I-Organization
-50	O
-Index	O
+Star	B-Misc
+Market	I-Misc
+50	I-Misc
+Index	I-Misc
 has	O
 fallen	O
 24	O

@@ -852,8 +852,8 @@ NCT	B-Organization
 so	O
 modular	O
 .	O
-NCT	O
-Dream	B-Organization
+NCT	B-Organization
+Dream	I-Organization
 ’	O
 s	O
 entire	O

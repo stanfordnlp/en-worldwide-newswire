@@ -1469,13 +1469,13 @@ were	O
 added	O
 to	O
 the	O
-UNESCO	B-Organization
-Australian	I-Organization	B-Location
-Memory	I-Organization
-of	I-Organization
-the	I-Organization
-World	I-Organization
-Register	I-Organization
+UNESCO	B-Misc
+Australian	I-Misc	B-NORP
+Memory	I-Misc
+of	I-Misc
+the	I-Misc
+World	I-Misc
+Register	I-Misc
 .	O
 
 And	O

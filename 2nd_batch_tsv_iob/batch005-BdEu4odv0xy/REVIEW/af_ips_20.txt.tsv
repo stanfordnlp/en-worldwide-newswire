@@ -832,9 +832,9 @@ the	O
 three	O
 -	O
 day	O
-UNEA	B-Organization
--	O
-5.2	O
+UNEA	B-Misc
+-	I-Misc
+5.2	I-Misc
 meeting	O
 ,	O
 attended	O

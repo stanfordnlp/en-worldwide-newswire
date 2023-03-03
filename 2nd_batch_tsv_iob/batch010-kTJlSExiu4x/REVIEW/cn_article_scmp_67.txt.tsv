@@ -657,9 +657,9 @@ francophone	O
 editor	O
 at	O
 the	O
-China	B-Organization	B-Location
-Africa	I-Organization	B-Location
-Project	I-Organization
+China	B-Misc	B-Location
+Africa	I-Misc	B-Location
+Project	I-Misc
 .	O
 
 “	O

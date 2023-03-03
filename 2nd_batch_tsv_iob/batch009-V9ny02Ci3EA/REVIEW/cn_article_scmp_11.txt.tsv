@@ -247,9 +247,9 @@ dancer	O
 before	O
 joining	O
 the	O
-K	B-Organization
--	I-Organization
-pop	I-Organization
+K	B-Misc
+-	I-Misc
+pop	I-Misc
 group	O
 ,	O
 out	O
@@ -441,8 +441,8 @@ new	O
 BTS	B-Organization
 -	O
 featuring	O
-Disney	B-Organization
-+	O
+Disney	B-Misc
++	I-Misc
 shows	O
 ,	O
 In	B-Misc

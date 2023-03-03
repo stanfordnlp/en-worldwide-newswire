@@ -873,9 +873,9 @@ near	O
 future	O
 ,	O
 from	O
-K	B-Organization
--	I-Organization
-pop	I-Organization
+K	B-Misc
+-	I-Misc
+pop	I-Misc
 stars	O
 or	O
 other	O

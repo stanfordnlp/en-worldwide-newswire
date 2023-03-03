@@ -52,8 +52,8 @@ peace	O
 negotiations	O
 with	O
 the	O
-Mozambican	B-Organization	B-NORP
-government	I-Organization
+Mozambican	B-NORP
+government	O
 ,	O
 which	O
 led	O

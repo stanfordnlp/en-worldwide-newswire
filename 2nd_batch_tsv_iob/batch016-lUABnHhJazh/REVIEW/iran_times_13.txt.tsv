@@ -540,11 +540,11 @@ Trump	B-Person
 withdrew	O
 from	O
 the	O
-Iran	B-Location
-nuclear	O
-deal	O
+Iran	B-Misc
+nuclear	I-Misc
+deal	I-Misc
 (	O
-JCPOA	B-Organization
+JCPOA	B-Misc
 )	O
 in	O
 order	O

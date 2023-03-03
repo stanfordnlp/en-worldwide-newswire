@@ -256,9 +256,9 @@ last	O
 March	B-Misc
 ,	O
 the	O
-Andean	B-Organization	B-NORP
-financial	I-Organization
-institution	I-Organization
+Andean	B-NORP
+financial	O
+institution	O
 strengthened	O
 its	O
 equity	O

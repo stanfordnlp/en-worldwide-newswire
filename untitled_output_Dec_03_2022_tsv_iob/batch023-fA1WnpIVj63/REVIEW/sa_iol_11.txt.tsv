@@ -221,9 +221,9 @@ also	O
 have	O
 the	O
 BRICS	B-Organization
-Interbank	O
-Cooperation	O
-Mechanism	O
+Interbank	I-Organization
+Cooperation	I-Organization
+Mechanism	I-Organization
 ,	O
 which	O
 was	O

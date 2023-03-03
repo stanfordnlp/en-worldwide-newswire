@@ -154,8 +154,8 @@ the	O
 continent	O
 .	O
 
-Afro	B-Organization
-Nation	I-Organization
+Afro	B-Misc
+Nation	I-Misc
 ’	O
 s	O
 aim	O
@@ -218,18 +218,18 @@ region	O
 
 As	O
 with	O
-Afro	B-Organization
-Nation	I-Organization
-Portugal	I-Organization	B-Location
+Afro	B-Misc
+Nation	I-Misc
+Portugal	I-Misc	B-Location
 and	O
-Afro	B-Organization
-Nation	I-Organization
-Puerto	I-Organization	B-Location
-Rico	I-Organization	I-Location
+Afro	B-Misc
+Nation	I-Misc
+Puerto	I-Misc	B-Location
+Rico	I-Misc	I-Location
 ,	O
-Afro	B-Organization
-Nation	I-Organization
-Ghana	I-Organization	B-Location
+Afro	B-Misc
+Nation	I-Misc
+Ghana	I-Misc	B-Location
 will	O
 work	O
 alongside	O
@@ -440,9 +440,9 @@ and	O
 family	O
 .	O
 
-Afro	B-Organization
-Nation	I-Organization
-Ghana	I-Organization	B-Location
+Afro	B-Misc
+Nation	I-Misc
+Ghana	I-Misc	B-Location
 looks	O
 to	O
 foster	O
@@ -496,8 +496,8 @@ this	O
 year	O
 and	O
 the	O
-Afro	B-Organization
-Nation	I-Organization
+Afro	B-Misc
+Nation	I-Misc
 stage	O
 ,	O
 the	O
@@ -509,8 +509,8 @@ said	O
 “	O
 We	O
 started	O
-Afro	B-Organization
-Nation	I-Organization
+Afro	B-Misc
+Nation	I-Misc
 to	O
 give	O
 a	O
@@ -595,8 +595,8 @@ world	O
 ’	O
 s	O
 first	O
-official	B-Product
-Afrobeats	I-Product	B-Misc
+official	O
+Afrobeats	B-Product	B-Misc
 Chart	I-Product
 with	O
 the	O
@@ -611,9 +611,9 @@ Kingdom	I-Location
 followed	O
 by	O
 the	O
-Billboard	B-Product	B-Organization
-US	I-Product	B-Location
-Afrobeats	I-Product	B-Misc
+Billboard	B-Organization
+US	I-Organization	B-Location
+Afrobeats	B-Product	B-Misc
 Songs	I-Product
 chart	I-Product
 earlier	O
@@ -808,8 +808,8 @@ for	O
 the	O
 culture	O
 ,	O
-Afro	B-Organization
-Nation	I-Organization
+Afro	B-Misc
+Nation	I-Misc
 and	O
 Afrobeats	B-Misc
 is	O
@@ -819,9 +819,9 @@ the	O
 rise	O
 .	O
 
-Afro	B-Organization
-Nation	I-Organization
-Ghana	I-Organization	B-Location
+Afro	B-Misc
+Nation	I-Misc
+Ghana	I-Misc	B-Location
 takes	O
 place	O
 29th	B-Misc

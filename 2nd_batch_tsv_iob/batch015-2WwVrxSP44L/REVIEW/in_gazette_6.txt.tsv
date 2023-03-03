@@ -1023,8 +1023,8 @@ jihad	B-Misc
 series	O
 from	O
 ‘	O
-Corona	O
-Jihad	B-Misc
+Corona	B-Misc
+Jihad	I-Misc
 ’	O
 to	O
 ‘	O
@@ -1033,8 +1033,8 @@ jihad	B-Misc
 ’	O
 to	O
 ‘	O
-UPSC	B-Organization
-jihad	B-Misc
+UPSC	B-Misc
+jihad	I-Misc
 ’	O
 .	O
 The	O

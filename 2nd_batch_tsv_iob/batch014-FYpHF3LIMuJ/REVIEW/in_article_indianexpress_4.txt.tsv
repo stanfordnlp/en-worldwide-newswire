@@ -40,8 +40,8 @@ the	O
 all	O
 -	O
 encompassing	O
-British	B-Misc	B-NORP
-Empire	I-Misc
+British	B-Organization	B-NORP
+Empire	I-Organization
 now	O
 is	O
 a	O
@@ -527,8 +527,8 @@ key	O
 roles	O
 in	O
 the	O
-British	B-Misc	B-NORP
-Empire	I-Misc
+British	B-Organization	B-NORP
+Empire	I-Organization
 within	O
 India	B-Location
 and	O
@@ -600,9 +600,9 @@ per	O
 cent	O
 of	O
 the	O
-British	B-Organization	B-NORP
-Indian	I-Organization	B-NORP
-army	I-Organization
+British	B-NORP
+Indian	B-NORP
+army	O
 ,	O
 and	O
 after	O
@@ -838,8 +838,8 @@ the	O
 collapse	O
 of	O
 the	O
-British	B-Misc	B-NORP
-Empire	I-Misc
+British	B-Organization	B-NORP
+Empire	I-Organization
 .	O
 
 Post	O
@@ -900,9 +900,9 @@ community	O
 fighting	O
 in	O
 the	O
-British	B-Organization	B-NORP
-Indian	I-Organization	I-NORP
-army	I-Organization
+British	B-NORP
+Indian	I-NORP
+army	O
 remained	O
 behind	O
 .	O
@@ -929,8 +929,8 @@ been	O
 employed	O
 by	O
 the	O
-British	B-Organization	B-NORP
-army	I-Organization
+British	B-NORP
+army	O
 or	O
 police	O
 forces	O
@@ -2257,9 +2257,9 @@ India	O
 during	O
 the	O
 1907	B-Misc
-International	B-Organization
-Socialist	I-Organization
-Congress	I-Organization
+International	B-Misc
+Socialist	I-Misc
+Congress	I-Misc
 .	O
 
 However	O

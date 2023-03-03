@@ -1,8 +1,8 @@
 https://todaynicaragua.com/sweat-sulfur-and-climbing-volcanoes-in-majestic-nicaragua/	O
 
-TODAY	B-Organization
-NICARAGUA	I-Organization	B-Location
-TRAVEL	I-Organization
+TODAY	B-Misc
+NICARAGUA	I-Misc	B-Location
+TRAVEL	I-Misc
 –	O
 When	O
 you	O
