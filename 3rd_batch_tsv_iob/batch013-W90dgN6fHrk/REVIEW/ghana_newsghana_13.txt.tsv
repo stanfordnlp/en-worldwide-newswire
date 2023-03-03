@@ -25,10 +25,10 @@ Bibiani	B-Location
 Municipal	I-Location
 and	O
 the	O
-Sefwi	B-Organization	B-Location
-Wiawso	I-Organization	I-Location
-Government	I-Organization
-Hospitals	I-Organization
+Sefwi	B-Location	B-Location
+Wiawso	I-Location	I-Location
+Government	I-Location
+Hospitals	I-Location
 .	O
 
 The	O
@@ -452,15 +452,15 @@ Gyamfi	I-Person
 Medical	O
 Superintendent	O
 of	O
-Bibiani	B-Organization
-Government	I-Organization
-Hospital	I-Organization
+Bibiani	B-Location
+Government	I-Location
+Hospital	I-Location
 ,	O
 expressed	O
 appreciation	O
 to	O
-the	B-Organization
-Liaison	I-Organization
+the	O
+Liaison	B-Organization
 Group	I-Organization
 for	O
 the	O

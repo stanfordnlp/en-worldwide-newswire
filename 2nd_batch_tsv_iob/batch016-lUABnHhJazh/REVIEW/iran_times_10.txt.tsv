@@ -1395,11 +1395,11 @@ to	O
 the	O
 President	O
 of	O
-the	B-Organization
-Islamic	I-Organization
-Republic	I-Organization
-of	I-Organization
-Iran	I-Organization
+the	O
+Islamic	B-Location
+Republic	I-Location
+of	I-Location
+Iran	I-Location
 ,	O
 His	O
 Excellency	O

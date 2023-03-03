@@ -274,8 +274,8 @@ refugees	O
 registered	O
 in	O
 the	O
-West	B-Organization
-Bank	I-Organization
+West	B-Location
+Bank	I-Location
 ,	O
 Gaza	B-Location
 Strip	O

@@ -799,8 +799,8 @@ the	O
 First	B-NORP
 Nation	I-NORP
 ,	O
-Yukon	B-Organization	B-Location
-government	I-Organization
+Yukon	B-Location
+government	O
 and	O
 other	O
 partners	O

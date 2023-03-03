@@ -94,9 +94,9 @@ its	O
 opponents	O
 .	O
 
-Myanmar	B-Organization	B-Location
-'s	I-Organization
-National	I-Organization
+Myanmar	B-Location
+'s	O
+National	B-Organization
 Unity	I-Organization
 Government	I-Organization
 (	O

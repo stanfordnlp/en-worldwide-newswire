@@ -75,7 +75,7 @@ disposal	O
 with	O
 Tehsil	B-Organization
 office	O
-Baramulla	B-Organization
+Baramulla	B-Location
 etc	O
 .	O
 
@@ -89,8 +89,8 @@ case	O
 was	O
 filed	O
 by	O
-Police	B-Facility
-Station	I-Facility
+Police	O
+Station	O
 Baramulla	B-Location
 against	O
 complainant	O

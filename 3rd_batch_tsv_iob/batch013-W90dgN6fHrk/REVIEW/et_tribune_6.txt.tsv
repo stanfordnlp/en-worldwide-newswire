@@ -1572,8 +1572,8 @@ chatting	O
 away	O
 in	O
 the	O
-Ras	B-Organization
-Hotel	I-Organization
+Ras	B-Location
+Hotel	I-Location
 bar	O
 ,	O
 and	O

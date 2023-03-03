@@ -40,9 +40,9 @@ Korea	B-Organization	B-Location
 Sword	I-Organization
 Association	I-Organization
 and	O
-China	B-Organization	B-Location
-'s	I-Organization
-World	I-Organization
+China	B-Location
+'s	O
+World	B-Organization
 Business	I-Organization
 Association	I-Organization
 (	O

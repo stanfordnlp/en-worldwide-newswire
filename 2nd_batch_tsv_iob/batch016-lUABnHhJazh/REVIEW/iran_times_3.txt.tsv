@@ -5,8 +5,8 @@ The	O
 strategy	O
 of	O
 the	O
-Islamic	B-Organization
-Republic	I-Organization
+Islamic	B-Location
+Republic	I-Location
 after	O
 the	O
 end	O
@@ -180,8 +180,8 @@ drone	O
 power	O
 of	O
 the	O
-Islamic	B-Organization
-Republic	I-Organization
+Islamic	B-Location
+Republic	I-Location
 through	O
 the	O
 media	O
@@ -295,8 +295,8 @@ might	O
 ,	O
 and	O
 the	O
-Islamic	B-Organization
-Republic	I-Organization
+Islamic	B-Location
+Republic	I-Location
 can	O
 provide	O
 them	O

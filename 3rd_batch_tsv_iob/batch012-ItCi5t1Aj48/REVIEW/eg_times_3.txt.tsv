@@ -694,11 +694,11 @@ they	O
 cooperate	O
 with	O
 the	O
-U	B-Organization	B-Location
-.	I-Organization	I-Location
-S	I-Organization	I-Location
-.	I-Organization	I-Location
-military	I-Organization
+U	B-Location
+.	I-Location
+S	I-Location
+.	I-Location
+military	O
 ,	O
 but	O
 that	O
@@ -1137,10 +1137,10 @@ Faluja	B-Organization	B-Location
 Protection	I-Organization
 Brigade	I-Organization
 in	O
-U	B-Organization
-.	I-Organization
-S	I-Organization
-.	I-Organization
+U	B-Location
+.	I-Location
+S	I-Location
+.	I-Location
 -	O
 issued	O
 fatigues	O

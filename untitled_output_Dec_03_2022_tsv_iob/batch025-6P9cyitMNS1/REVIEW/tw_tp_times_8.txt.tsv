@@ -274,8 +274,8 @@ Administration	I-Organization
 facility	O
 and	O
 the	O
-Nansha	B-Organization	B-Location
-Hospital	I-Organization
+Nansha	B-Location
+Hospital	I-Location
 ,	O
 the	O
 source	O

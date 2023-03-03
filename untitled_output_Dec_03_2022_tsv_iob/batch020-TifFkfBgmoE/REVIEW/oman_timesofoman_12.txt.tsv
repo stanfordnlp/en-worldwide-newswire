@@ -17,8 +17,8 @@ opened	O
 yesterday	O
 ,	O
 at	O
-Lulu	B-Organization
-Hypermarket	I-Organization
+Lulu	B-Location
+Hypermarket	I-Location
 in	O
 Salalah	B-Location
 ,	I-Location

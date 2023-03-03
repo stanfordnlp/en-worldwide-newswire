@@ -140,9 +140,9 @@ launch	O
 comprehensive	O
 wars	O
 against	O
-the	B-Organization
-Islamic	I-Organization
-Republic	I-Organization
+the	O
+Islamic	B-Location
+Republic	I-Location
 through	O
 military	O
 ,	O

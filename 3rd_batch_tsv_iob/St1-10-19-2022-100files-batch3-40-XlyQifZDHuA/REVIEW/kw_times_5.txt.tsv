@@ -67,9 +67,9 @@ Beijing	B-Location
 with	O
 the	O
 outgoing	O
-State	B-Organization
-of	I-Organization
-Kuwait	I-Organization	B-Location
+State	O
+of	O
+Kuwait	B-Location
 Ambassador	O
 ,	O
 Samih	B-Person
@@ -160,9 +160,9 @@ strategic	O
 partnership	O
 with	O
 the	O
-State	B-Organization
-of	I-Organization
-Kuwait	I-Organization	B-Location
+State	O
+of	O
+Kuwait	B-Location
 .	O
 
 For	O

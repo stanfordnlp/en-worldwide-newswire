@@ -162,8 +162,8 @@ of	I-Organization
 State	I-Organization
 ’	O
 s	O
-Opportunity	O
-Funds	O
+Opportunity	B-Organization
+Funds	I-Organization
 scholarship	O
 program	O
 .	O

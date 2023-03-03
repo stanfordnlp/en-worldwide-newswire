@@ -61,8 +61,8 @@ km	O
 16.8	O
 miles	O
 )	O
-Nairobi	B-Organization	B-Location
-Expressway	I-Organization
+Nairobi	B-Location
+Expressway	I-Location
 linking	O
 the	O
 country	O
@@ -197,8 +197,8 @@ say	O
 .	O
 
 The	O
-Nairobi	B-Organization	B-Location
-Expressway	I-Organization
+Nairobi	B-Location
+Expressway	I-Location
 opened	O
 to	O
 public	O
@@ -856,8 +856,8 @@ the	O
 arrangement	O
 for	O
 the	O
-Nairobi	B-Facility	B-Location
-Expressway	I-Facility
+Nairobi	B-Location
+Expressway	I-Location
 ,	O
 privatised	O
 public	O

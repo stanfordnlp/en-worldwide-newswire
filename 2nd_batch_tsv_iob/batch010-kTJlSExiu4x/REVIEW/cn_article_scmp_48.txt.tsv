@@ -554,9 +554,9 @@ a	O
 mystery	O
 ,	O
 though	O
-Hong	B-Organization	B-Location
-Kong	I-Organization	I-Location
-police	I-Organization
+Hong	B-Location
+Kong	I-Location
+police	O
 said	O
 he	O
 had	O

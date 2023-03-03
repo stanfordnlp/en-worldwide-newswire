@@ -362,7 +362,7 @@ ensure	O
 compliance	O
 .	O
 
-Mexico	B-Organization
+Mexico	B-Location
 addressed	O
 this	O
 problem	O
@@ -400,11 +400,11 @@ has	O
 worked	O
 wonders	O
 ,	O
-Mexico	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
-lower	I-Organization
-house	I-Organization
+Mexico	B-Location
+’	O
+s	O
+lower	O
+house	O
 today	O
 boasts	O
 full	O

@@ -5,9 +5,9 @@ dumping	O
 of	O
 garbage	O
 by	O
-Mymensingh	B-Organization	B-Location
-municipal	I-Organization
-authorities	I-Organization
+Mymensingh	B-Location
+municipal	O
+authorities	O
 into	O
 the	O
 Old	B-Location

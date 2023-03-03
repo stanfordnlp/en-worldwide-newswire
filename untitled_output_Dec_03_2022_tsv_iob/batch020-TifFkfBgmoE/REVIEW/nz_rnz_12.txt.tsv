@@ -15,9 +15,9 @@ making	O
 powers	O
 on	O
 the	O
-Canterbury	B-Organization	B-Location
-regional	I-Organization
-council	I-Organization
+Canterbury	B-Location
+regional	O
+council	O
 .	O
 
 A	O

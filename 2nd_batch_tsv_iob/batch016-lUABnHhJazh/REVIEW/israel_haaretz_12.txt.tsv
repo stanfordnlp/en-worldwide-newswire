@@ -1160,8 +1160,8 @@ Orthodox	I-NORP
 settlement	O
 in	O
 the	O
-West	B-Organization
-Bank	I-Organization
+West	B-Location
+Bank	I-Location
 .	O
 He	O
 was	O

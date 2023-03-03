@@ -24,8 +24,8 @@ from	O
 Ethiopia	B-Location
 .	O
 The	O
-Asmara	B-Organization	B-Location
-government	I-Organization
+Asmara	B-Location
+government	O
 reports	O
 of	O
 large	O
@@ -1416,9 +1416,9 @@ Idi	B-Person
 Amin	I-Person
 ,	O
 the	O
-Central	B-Organization	B-NORP
-African	I-Organization	I-NORP
-Empire	I-Organization
+Central	B-Location	B-NORP
+African	I-Location	I-NORP
+Empire	I-Location
 's	O
 Jean	B-Person
 -	I-Person

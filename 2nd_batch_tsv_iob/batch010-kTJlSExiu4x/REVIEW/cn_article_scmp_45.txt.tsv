@@ -265,8 +265,8 @@ prime	O
 minister	O
 of	O
 the	O
-Majapahit	B-Organization	B-Location
-empire	I-Organization
+Majapahit	B-Location
+empire	O
 during	O
 the	O
 14th	O

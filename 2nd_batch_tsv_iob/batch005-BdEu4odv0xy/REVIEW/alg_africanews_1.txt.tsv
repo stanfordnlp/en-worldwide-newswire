@@ -279,10 +279,10 @@ last	O
 Bey	B-Person
 of	O
 the	O
-Beylicat	B-Organization
-of	I-Organization
-Eastern	I-Organization	B-Location
-Algeria	I-Organization	I-Location
+Beylicat	B-NORP
+of	O
+Eastern	B-Location
+Algeria	I-Location
 .	O
 The	O
 architecture	O

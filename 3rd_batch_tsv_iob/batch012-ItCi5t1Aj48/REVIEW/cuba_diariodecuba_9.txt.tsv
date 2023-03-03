@@ -524,9 +524,9 @@ scourge	O
 Thus	O
 ,	O
 though	O
-Cuba	B-Organization	B-Location
-'s	I-Organization
-TSP	I-Organization
+Cuba	B-Location
+'s	O
+TSP	B-Organization
 is	O
 ,	O
 supposedly	O

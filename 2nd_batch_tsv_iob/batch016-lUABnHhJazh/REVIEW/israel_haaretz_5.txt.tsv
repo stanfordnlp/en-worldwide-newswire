@@ -34,10 +34,10 @@ on	O
 Thursday	B-Misc
 by	O
 the	O
-intelligence	B-Organization
-organization	I-Organization
-of	I-Organization
-Iran	I-Organization	B-Location
+intelligence	O
+organization	O
+of	O
+Iran	B-Location
 's	O
 law	O
 enforcement	O

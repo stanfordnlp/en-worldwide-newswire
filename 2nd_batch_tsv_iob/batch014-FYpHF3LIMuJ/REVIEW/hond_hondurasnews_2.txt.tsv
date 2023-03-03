@@ -310,11 +310,11 @@ Sula	I-Location
 •	O
 Address	O
 :	O
-Bo	B-Organization
-.	I-Organization
-Rio	I-Organization
-de	I-Organization
-Piedras	I-Organization
+Bo	B-Location
+.	I-Location
+Rio	I-Location
+de	I-Location
+Piedras	I-Location
 8	B-Location
 calle	I-Location
 18	I-Location

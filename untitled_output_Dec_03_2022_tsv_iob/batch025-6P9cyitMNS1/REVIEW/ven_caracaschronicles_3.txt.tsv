@@ -14,11 +14,11 @@ headed	O
 Sotheby	B-Organization
 ’	O
 s	O
-Department	B-Misc
-of	I-Misc
-Latin	I-Misc	B-NORP
-American	I-Misc	I-NORP
-Art	I-Misc
+Department	B-Organization
+of	I-Organization
+Latin	I-Organization	B-NORP
+American	I-Organization	I-NORP
+Art	I-Organization
 ,	O
 didn	O
 ’	O
@@ -49,10 +49,10 @@ of	O
 his	O
 death	O
 (	O
-Gallery	B-Organization
-of	I-Organization
-National	I-Organization
-Art	I-Organization
+Gallery	B-Location
+of	I-Location
+National	I-Location
+Art	I-Location
 in	O
 1998	B-Misc
 )	O
@@ -1718,9 +1718,9 @@ old	O
 paintings	O
 in	O
 the	O
-National	B-Organization
-Art	I-Organization
-Gallery	I-Organization
+National	B-Location
+Art	I-Location
+Gallery	I-Location
 ,	O
 no	O
 other	O

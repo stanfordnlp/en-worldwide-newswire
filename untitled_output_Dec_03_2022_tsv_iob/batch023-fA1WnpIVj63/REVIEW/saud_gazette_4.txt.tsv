@@ -96,8 +96,8 @@ diplomatic	O
 initiative	O
 .	O
 
-Saudi	B-Organization
-Arabia	I-Organization
+Saudi	B-Location
+Arabia	I-Location
 ’	O
 s	O
 diplomacy	O
@@ -122,8 +122,8 @@ was	O
 evident	O
 that	O
 the	O
-United	B-Organization
-States	I-Organization
+United	B-Location
+States	I-Location
 decided	O
 to	O
 align	O
@@ -136,9 +136,9 @@ and	O
 historical	O
 relations	O
 between	O
-Riyadh	B-Organization
+Riyadh	B-Location
 and	O
-Washington	B-Organization
+Washington	B-Location
 ,	O
 instead	O
 of	O
@@ -157,7 +157,7 @@ the	O
 great	O
 role	O
 that	O
-Riyadh	B-Organization
+Riyadh	B-Location
 plays	O
 in	O
 the	O
@@ -244,15 +244,15 @@ first	O
 ,	O
 and	O
 that	O
-Saudi	B-Organization
-Arabia	I-Organization
+Saudi	B-Location
+Arabia	I-Location
 is	O
 the	O
 partner	O
 that	O
 the	O
-United	B-Organization
-States	I-Organization
+United	B-Location
+States	I-Location
 needs	O
 in	O
 finding	O
@@ -461,8 +461,8 @@ on	O
 Tuesday	B-Misc
 ,	O
 before	O
-Saudi	B-Organization
-Arabia	I-Organization
+Saudi	B-Location
+Arabia	I-Location
 spoke	O
 about	O
 its	O

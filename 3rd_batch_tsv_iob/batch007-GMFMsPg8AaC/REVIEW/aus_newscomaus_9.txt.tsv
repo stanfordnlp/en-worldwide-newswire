@@ -749,8 +749,8 @@ James	B-Person
 Bond	I-Person
 film	O
 and	O
-Nazi	B-Organization	B-NORP
-Germany	I-Organization	B-Location
+Nazi	B-Location	B-NORP
+Germany	I-Location	B-Location
 .	O
 
 “	O
@@ -822,8 +822,8 @@ about	O
 what	O
 happened	O
 in	O
-Nazi	B-Organization	B-NORP
-Germany	I-Organization	B-Location
+Nazi	B-Location	B-NORP
+Germany	I-Location	B-Location
 and	O
 how	O
 that	O
@@ -1263,8 +1263,8 @@ China	B-Location
 North	B-Location
 Korea	I-Location
 and	O
-Nazi	B-Organization	B-NORP
-Germany	I-Organization	B-Location
+Nazi	B-Location	B-NORP
+Germany	I-Location	B-Location
 .	O
 
 “	O

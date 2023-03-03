@@ -207,9 +207,9 @@ Muslim	B-NORP
 students	O
 union	O
 at	O
-Kanpur	B-Organization	B-Location
-Agricultural	I-Organization
-College	I-Organization
+Kanpur	B-B-Location
+Agricultural	I-Location
+College	I-Location
 to	O
 mobilize	O
 the	O
@@ -764,9 +764,9 @@ compiled	O
 a	O
 biography	O
 of	O
-India	B-Organization	B-Location
-'s	I-Organization
-Muslim	I-Organization	B-NORP
+India	B-Location
+'s	O
+Muslim	B-Organization	B-NORP
 Freedom	I-Organization
 Fighters	I-Organization
 ,	O

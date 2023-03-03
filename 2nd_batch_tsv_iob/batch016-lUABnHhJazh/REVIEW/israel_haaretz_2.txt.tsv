@@ -1820,8 +1820,8 @@ of	O
 informants	O
 from	O
 the	O
-West	B-Organization
-Bank	I-Organization
+West	B-Location
+Bank	I-Location
 in	O
 Israel	B-Location
 ,	O

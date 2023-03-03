@@ -442,8 +442,8 @@ greener	O
 pastures	O
 .	O
 The	O
-UK	B-Organization	B-Location
-government	I-Organization
+UK	B-Location
+government	O
 in	O
 its	O
 recent	O

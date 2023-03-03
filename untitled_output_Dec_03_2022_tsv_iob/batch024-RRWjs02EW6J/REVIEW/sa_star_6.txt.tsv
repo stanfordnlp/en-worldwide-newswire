@@ -64,9 +64,9 @@ company	O
 in	O
 partnership	O
 with	O
-Mall	B-Organization
-of	I-Organization
-Africa	I-Organization	B-Location
+Mall	B-Location
+of	I-Location
+Africa	I-Location
 ,	O
 will	O
 also	O
@@ -86,9 +86,9 @@ on	O
 August	B-Misc
 6	I-Misc
 in	O
-Mall	B-Organization
-of	I-Organization
-Africa	I-Organization	B-Location
+Mall	B-Location
+of	I-Location
+Africa	I-Location
 ,	O
 is	O
 set	O

@@ -535,8 +535,8 @@ Hall	B-Person
 then	O
 at	O
 the	O
-Ridge	B-Organization
-Hospital	I-Organization
+Ridge	B-Location
+Hospital	I-Location
 ,	O
 Professor	O
 Eastmond	B-Person
@@ -554,9 +554,9 @@ his	O
 former	O
 teacher	O
 in	O
-Tamale	B-Organization	B-Location
-Secondary	I-Organization
-school	I-Organization
+Tamale	B-Location
+Secondary	I-Location
+school	I-Location
 for	O
 encouraging	O
 him	O

@@ -38,11 +38,10 @@ Sulaiti	I-Person
 acting	O
 director	O
 of	O
-Qatarâ	B-Organization
-€	I-Organization
-™	I-Organization
-s	O
-Office	O
+Qatar	B-Organization
+'	I-Organization
+s	I-Organization
+Office	I-Organization
 to	O
 the	O
 World	B-Organization
@@ -120,7 +119,7 @@ from	O
 the	O
 great	O
 attention	O
-Qatar	B-Organization
+Qatar	B-Location
 pays	O
 to	O
 the	O

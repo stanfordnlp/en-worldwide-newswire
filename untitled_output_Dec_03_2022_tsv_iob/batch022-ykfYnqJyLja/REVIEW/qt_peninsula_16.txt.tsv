@@ -324,12 +324,12 @@ Hamaq	I-Person
 also	O
 appreciated	O
 the	O
-Al	B-Organization
-Meera	I-Organization
+Al	B-Location
+Meera	I-Location
 and	O
-Mall	B-Organization
-Hayat	I-Organization
-Plaza	I-Organization
+Mall	B-Location
+Hayat	I-Location
+Plaza	I-Location
 for	O
 their	O
 effective	O

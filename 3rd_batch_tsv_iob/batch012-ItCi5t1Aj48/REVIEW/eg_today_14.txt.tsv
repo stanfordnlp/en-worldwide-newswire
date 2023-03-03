@@ -39,9 +39,9 @@ major	O
 neighborhoods	O
 in	O
 the	O
-New	B-Organization
-Administrative	I-Organization
-Capital	I-Organization
+New	B-Location
+Administrative	I-Location
+Capital	I-Location
 ,	O
 which	O
 is	O

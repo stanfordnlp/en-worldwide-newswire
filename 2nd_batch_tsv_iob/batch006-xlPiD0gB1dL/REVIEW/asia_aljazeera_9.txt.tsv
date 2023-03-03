@@ -1516,10 +1516,10 @@ they	O
 are	O
 legitimising	O
 the	O
-Myanmar	B-Organization	B-Location
-military	I-Organization
-coup	I-Organization
-group	I-Organization
+Myanmar	B-Location
+military	O
+coup	O
+group	O
 who	O
 are	O
 an	O

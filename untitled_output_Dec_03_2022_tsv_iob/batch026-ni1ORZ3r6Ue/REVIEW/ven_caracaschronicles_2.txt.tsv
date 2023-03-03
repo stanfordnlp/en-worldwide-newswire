@@ -1951,7 +1951,7 @@ which	O
 the	O
 governorship	O
 of	O
-Sucre	B-Organization
+Sucre	B-Location
 transferred	O
 to	O
 a	O
@@ -1972,14 +1972,14 @@ It	O
 also	O
 mentions	O
 the	O
-Alba	B-Organization
-Caracas	I-Organization	B-Location
-Hotel	I-Organization
+Alba	B-Location
+Caracas	I-Location	B-Location
+Hotel	I-Location
 ,	O
 previously	O
 the	O
-Caracas	B-Organization	B-Location
-Hilton	I-Organization
+Caracas	B-Location	B-Location
+Hilton	I-Location
 expropriated	O
 by	O
 Hugo	B-Person

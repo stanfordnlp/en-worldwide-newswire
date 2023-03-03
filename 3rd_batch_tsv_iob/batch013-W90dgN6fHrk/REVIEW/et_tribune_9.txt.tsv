@@ -314,8 +314,8 @@ great	O
 Shawan	B-NORP
 monastery	O
 of	O
-Debra	B-Organization
-Libanos	I-Organization
+Debra	B-Location
+Libanos	I-Location
 .	O
 There	O
 he	O
@@ -698,8 +698,8 @@ post	O
 as	O
 Abbot	O
 of	O
-Debra	B-Organization
-Libanos	I-Organization
+Debra	B-Location
+Libanos	I-Location
 ,	O
 he	O
 refused	O

@@ -204,10 +204,10 @@ July	B-Misc
 as	O
 planned	O
 by	O
-Kenya	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
-Ministry	I-Organization
+Kenya	B-Location
+’	O
+s	O
+Ministry	B-Organization
 of	I-Organization
 Sports	I-Organization
 and	I-Organization

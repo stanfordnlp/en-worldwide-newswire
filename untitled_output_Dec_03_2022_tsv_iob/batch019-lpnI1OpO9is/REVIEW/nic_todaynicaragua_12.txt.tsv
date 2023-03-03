@@ -133,7 +133,7 @@ Guevara	I-Person
 -	I-Person
 Rosas	I-Person
 ,	O
-Americas	B-Organization
+Americas	B-Location
 director	O
 at	O
 Amnesty	B-Organization
