@@ -14,7 +14,7 @@ the	O
 resignation	O
 of	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 and	O
 asking	O
 it	O
@@ -27,7 +27,7 @@ government	O
 until	O
 a	O
 new	O
-Cabinet	O
+Cabinet	B-Organization
 is	O
 formed	O
 .	O
@@ -96,7 +96,7 @@ matters	O
 until	O
 a	O
 new	O
-Cabinet	O
+Cabinet	B-Organization
 is	O
 formed	O
 .	O
@@ -104,9 +104,8 @@ Sheikh	O
 Sabah	B-Person
 submitted	O
 the	O
-Cabinetâ	O
-€	O
-™	O
+Cabinet	B-Organization
+'	O
 s	O
 resignation	O
 to	O
@@ -147,7 +146,7 @@ the	O
 resignation	O
 of	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 and	O
 relieve	O
 the	O
@@ -209,7 +208,7 @@ to	O
 form	O
 the	O
 new	O
-Cabinet	O
+Cabinet	B-Organization
 or	O
 name	O
 a	O
@@ -323,7 +322,7 @@ Tuesday	B-Misc
 ,	O
 the	O
 caretaker	O
-Cabinet	O
+Cabinet	B-Organization
 is	O
 allowed	O
 to	O
@@ -337,7 +336,7 @@ grant	O
 and	O
 accordingly	O
 the	O
-Assembly	O
+Assembly	B-Organization
 session	O
 is	O
 likely	O

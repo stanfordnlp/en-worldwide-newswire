@@ -89,7 +89,7 @@ meeting	O
 Spokesman	O
 for	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 Nader	B-Person
 Saad	I-Person
 said	O

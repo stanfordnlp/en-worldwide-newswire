@@ -4,7 +4,7 @@ KUWAIT	B-Location
 :	O
 A	O
 new	O
-Cabinet	O
+Cabinet	B-Organization
 will	O
 be	O
 formed	O
@@ -83,7 +83,7 @@ to	O
 form	O
 a	O
 new	O
-Cabinet	O
+Cabinet	B-Organization
 within	O
 a	O
 week	O
@@ -155,7 +155,7 @@ while	O
 being	O
 a	O
 caretaker	O
-Cabinet	O
+Cabinet	B-Organization
 ,	O
 as	O
 constitutional	O
@@ -309,7 +309,7 @@ needs	O
 until	O
 a	O
 new	O
-Cabinet	O
+Cabinet	B-Organization
 is	O
 formed	O
 ,	O
@@ -431,7 +431,7 @@ and	O
 state	O
 minister	O
 for	O
-Cabinet	O
+Cabinet	B-Organization
 affairs	O
 and	O
 includes	O

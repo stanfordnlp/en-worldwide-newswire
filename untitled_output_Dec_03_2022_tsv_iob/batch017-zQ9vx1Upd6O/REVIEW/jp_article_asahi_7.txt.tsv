@@ -2,7 +2,7 @@ https://www.asahi.com/ajw/articles/14611407	O
 
 When	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 of	O
 Prime	O
 Minister	O
@@ -29,7 +29,7 @@ rating	O
 for	O
 a	O
 new	O
-Cabinet	O
+Cabinet	B-Organization
 in	O
 the	O
 past	O
@@ -40,7 +40,7 @@ decades	O
 However	O
 ,	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 ’	O
 s	O
 approval	O
@@ -109,7 +109,7 @@ the	O
 key	O
 to	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 ’	O
 s	O
 successful	O
@@ -150,7 +150,7 @@ administration	O
 .	O
 
 The	O
-Cabinet	O
+Cabinet	B-Organization
 ’	O
 s	O
 approval	O
@@ -212,8 +212,8 @@ approval	O
 rating	O
 for	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Oranization	B-Person
+Cabinet	I-Organization
 at	O
 55	O
 percent	O
@@ -267,7 +267,7 @@ Koizumi	I-Person
 have	O
 formed	O
 15	O
-Cabinets	O
+Cabinets	B-Organization
 under	O
 10	O
 administrations	O
@@ -301,8 +301,8 @@ was	O
 percent	O
 for	O
 the	O
-Koizumi	B-Person
-Cabinet	O
+Koizumi	B-Organiaation	B-Person
+Cabinet	I-Organization
 (	O
 2001-2006	B-Misc
 )	O
@@ -313,7 +313,7 @@ for	O
 Abe	B-Person
 ’	O
 s	O
-Cabinet	O
+Cabinet	B-Organization
 in	O
 his	O
 second	O
@@ -330,8 +330,8 @@ s	O
 .	O
 
 The	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 set	O
 out	O
 with	O
@@ -366,7 +366,7 @@ of	O
 percent	O
 for	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 of	O
 Prime	O
 Minister	O
@@ -389,8 +389,8 @@ approval	O
 rating	O
 for	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 has	O
 been	O
 on	O
@@ -623,8 +623,8 @@ AMONG	O
 WOMEN	O
 
 The	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 is	O
 characterized	O
 by	O
@@ -687,8 +687,8 @@ approval	O
 ratings	O
 for	O
 the	O
-Koizumi	B-Person
-Cabinet	O
+Koizumi	B-Organization	B-Person
+Cabinet	I-Organization
 were	O
 about	O
 the	O
@@ -751,8 +751,8 @@ approval	O
 rating	O
 for	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 was	O
 54	O
 percent	O
@@ -826,7 +826,7 @@ their	O
 support	O
 for	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 because	O
 of	O
 mudslinging	O
@@ -877,8 +877,8 @@ defense	O
 ,	O
 which	O
 the	O
-Abe	B-Person
-Cabinet	O
+Abe	B-Organization	B-Person
+Cabinet	I-Organization
 lifted	O
 in	O
 2014	B-Misc
@@ -925,8 +925,8 @@ parties	O
 .	O
 
 The	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 has	O
 possibly	O
 maintained	O
@@ -1262,8 +1262,8 @@ disapproval	O
 ratings	O
 for	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 .	O
 
 The	O
@@ -1279,8 +1279,8 @@ totaled	O
 percent	O
 when	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 was	O
 starting	O
 out	O
@@ -1296,7 +1296,7 @@ for	O
 the	O
 just	O
 inaugurated	O
-Cabinet	O
+Cabinet	B-Organization
 of	O
 Prime	O
 Minister	O
@@ -1330,8 +1330,8 @@ to	O
 rate	O
 what	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 is	O
 doing	O
 and	O
@@ -1368,8 +1368,8 @@ into	O
 existence	O
 ,	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 saw	O
 its	O
 DK	O
@@ -1425,8 +1425,8 @@ NA	O
 rate	O
 for	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 among	O
 those	O
 unaffiliated	O
@@ -1459,7 +1459,7 @@ their	O
 stance	O
 toward	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 ,	O
 with	O
 an	O
@@ -1519,7 +1519,7 @@ or	O
 disapprove	O
 of	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 .	O
 
 During	O
@@ -1538,8 +1538,8 @@ they	O
 approve	O
 of	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 ,	O
 at	O
 55	O
@@ -1551,7 +1551,7 @@ do	O
 so	O
 because	O
 his	O
-Cabinet	O
+Cabinet	B-Organization
 “	O
 appears	O
 to	O
@@ -1596,13 +1596,13 @@ grounds	O
 for	O
 disapproving	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 .	O
 
 When	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 had	O
 just	O
 started	O
@@ -1764,7 +1764,7 @@ and	O
 disapproval	O
 for	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 in	O
 power	O
 .	O
@@ -1839,8 +1839,8 @@ six	O
 percent	O
 of	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 disapprovers	O
 don	O
 ’	O
@@ -1984,7 +1984,7 @@ as	O
 percent	O
 of	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 disapprovers	O
 said	O
 they	O
@@ -2010,8 +2010,8 @@ survey	O
 shows	O
 that	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 may	O
 be	O
 keeping	O

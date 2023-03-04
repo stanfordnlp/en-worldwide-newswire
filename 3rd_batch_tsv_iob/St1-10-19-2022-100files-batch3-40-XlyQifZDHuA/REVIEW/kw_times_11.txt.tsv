@@ -91,7 +91,7 @@ resign	O
 along	O
 with	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 members	O
 .	O
 A	O
@@ -145,7 +145,7 @@ to	O
 form	O
 the	O
 next	O
-Cabinet	O
+Cabinet	B-Organization
 ,	O
 or	O
 ,	O
@@ -153,8 +153,8 @@ he	O
 can	O
 dissolve	O
 the	O
-National	O
-Assembly	O
+National	B-Organization
+Assembly	I-Organization
 and	O
 call	O
 for	O

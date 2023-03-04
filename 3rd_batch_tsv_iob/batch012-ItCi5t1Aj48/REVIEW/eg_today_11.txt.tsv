@@ -181,7 +181,7 @@ commodity	O
 prices	O
 ,	O
 said	O
-Cabinet	O
+Cabinet	B-Organization
 Spokesman	O
 Nader	B-Person
 Saad	I-Person

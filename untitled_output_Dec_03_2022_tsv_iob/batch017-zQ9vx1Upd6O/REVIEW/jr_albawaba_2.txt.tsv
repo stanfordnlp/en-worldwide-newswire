@@ -40,7 +40,7 @@ Kuwait	B-Location
 ’	O
 s	O
 new	O
-Cabinet	O
+Cabinet	B-Organization
 .	O
 Sheikh	O
 Ahmad	B-Person
@@ -61,7 +61,7 @@ Kuwait	B-Location
 s	O
 most	O
 recent	O
-Cabinet	O
+Cabinet	B-Organization
 .	O
 
 “	O
@@ -147,7 +147,7 @@ and	O
 form	O
 the	O
 new	O
-Cabinet	O
+Cabinet	B-Organization
 .	O
 ”	O
 
