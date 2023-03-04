@@ -212,7 +212,7 @@ approval	O
 rating	O
 for	O
 the	O
-Kishida	B-Oranization	B-Person
+Kishida	B-Organization	B-Person
 Cabinet	I-Organization
 at	O
 55	O
@@ -301,7 +301,7 @@ was	O
 percent	O
 for	O
 the	O
-Koizumi	B-Organiaation	B-Person
+Koizumi	B-Organization	B-Person
 Cabinet	I-Organization
 (	O
 2001-2006	B-Misc

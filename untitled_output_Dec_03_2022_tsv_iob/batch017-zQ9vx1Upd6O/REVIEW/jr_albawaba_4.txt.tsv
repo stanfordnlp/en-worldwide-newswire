@@ -18,7 +18,7 @@ Palestine	I-Organization	B-Location
 Refugees	I-Organization
 in	I-Organization
 the	I-Organization
-Near	I-Organzation	B-Location
+Near	I-Organization	B-Location
 East	I-Organization	I-Location
 (	O
 UNRWA	B-Organization
