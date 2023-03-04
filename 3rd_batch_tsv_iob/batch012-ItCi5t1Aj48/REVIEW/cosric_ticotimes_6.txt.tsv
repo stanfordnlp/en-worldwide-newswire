@@ -21,7 +21,7 @@ place	O
 game	O
 of	O
 the	O
-CONCACAF	B-Misc
+CONCACAF	B-Organization
 qualifying	O
 tournament	O
 .	O
@@ -325,7 +325,7 @@ acknowledged	O
 the	O
 progress	O
 of	O
-CONCACAF	B-Misc
+CONCACAF	B-Organization
 ’	O
 s	O
 national	O

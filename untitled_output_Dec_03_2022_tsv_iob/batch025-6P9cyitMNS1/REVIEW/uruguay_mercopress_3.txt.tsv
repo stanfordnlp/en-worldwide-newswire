@@ -132,8 +132,8 @@ EEZ	B-Misc
 .	O
 Uruguay	B-Location
 's	O
-Fleet	B-Misc
-Command	I-Misc
+Fleet	B-Organization
+Command	I-Organization
 had	O
 initially	O
 detected	O

@@ -497,8 +497,8 @@ its	O
 ally	O
 .	O
 The	O
-Saudi	B-NORP
-Ministry	B-Organization
+Saudi	B-Organization	B-NORP
+Ministry	I-Organization
 of	I-Organization
 Foreign	I-Organization
 Affairs	I-Organization

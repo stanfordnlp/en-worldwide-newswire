@@ -334,8 +334,8 @@ of	O
 Guatemala	B-Location
 ,	O
 the	O
-Salvadoran	B-NORP
-Government	O
+Salvadoran	B-Organization	B-NORP
+Government	I-Organization
 plans	O
 to	O
 generate	O

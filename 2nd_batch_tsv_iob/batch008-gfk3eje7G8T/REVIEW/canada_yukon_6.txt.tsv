@@ -180,15 +180,15 @@ Maria	B-Person
 Benoit	I-Person
 of	O
 the	O
-Carcross	B-NORP
-/	I-NORP
-Tagish	I-NORP
-First	I-NORP
-Nation	I-NORP
+Carcross	B-Organization
+/	I-Organization
+Tagish	I-Organization
+First	I-Organization
+Nation	I-Organization
 (	O
-C	B-NORP
-/	I-NORP
-TFN	I-NORP
+C	B-Organization
+/	I-Organization
+TFN	I-Organization
 )	O
 .	O
 

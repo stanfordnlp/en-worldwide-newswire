@@ -79,7 +79,7 @@ partnership	O
 will	O
 see	O
 both	O
-AEW	B-Misc
+AEW	B-Organization
 and	O
 Afreximbank	B-Organization
 uniting	O
@@ -289,7 +289,7 @@ the	O
 partnership	O
 ,	O
 both	O
-AEW	B-Misc
+AEW	B-Organization
 and	O
 the	O
 bank	O
@@ -455,7 +455,7 @@ agreement	O
 the	O
 partnership	O
 between	O
-AEW	B-Misc
+AEW	B-Organization
 and	O
 the	O
 Afreximbank	B-Organization
@@ -566,9 +566,9 @@ a	O
 grant	O
 to	O
 the	O
-Grand	B-Misc
-Africa	I-Misc	B-Location
-Initiative	I-Misc
+Grand	B-Organization
+Africa	I-Organization	B-Location
+Initiative	I-Organization
 to	O
 train	O
 200	O
@@ -766,7 +766,7 @@ signing	O
 deals	O
 will	O
 drive	O
-AEW	B-Misc
+AEW	B-Organization
 both	O
 during	O
 this	O
@@ -846,7 +846,7 @@ sectors	O
 The	O
 Afreximbank	B-Organization
 -	O
-AEW	B-Misc
+AEW	B-Organizatio
 partnership	O
 will	O
 strengthen	O

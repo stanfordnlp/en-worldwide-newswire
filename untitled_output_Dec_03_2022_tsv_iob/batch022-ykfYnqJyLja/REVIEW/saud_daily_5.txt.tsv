@@ -2,10 +2,10 @@ http://www.alriyadhdaily.com/article/3ac17d077c8c4b18aed5ab46e38d05fd	O
 
 Presidency	O
 of	O
-Two	B-Misc
-Holy	I-Misc
-Mosques	I-Misc
-Affairs	I-Misc
+Two	B-Organization
+Holy	I-Organization
+Mosques	I-Organization
+Affairs	I-Organization
 provides	O
 women	O
 's	O
@@ -31,9 +31,9 @@ the	O
 Prophet	O
 ’	O
 s	O
-Holy	B-Misc
-Mosque	I-Misc
-Affairs	I-Misc
+Holy	B-Organization
+Mosque	I-Organization
+Affairs	I-Organization
 has	O
 provided	O
 women	O

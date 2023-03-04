@@ -399,7 +399,7 @@ government	O
 More	O
 local	O
 [	O
-AMCs	B-Misc
+AMCs	B-Organization
 ]	O
 may	O
 follow	O
@@ -516,7 +516,7 @@ Bank	I-Organization
 Still	O
 ,	O
 the	O
-AMCs	B-Misc
+AMCs	B-Organization
 face	O
 an	O
 uphill	O

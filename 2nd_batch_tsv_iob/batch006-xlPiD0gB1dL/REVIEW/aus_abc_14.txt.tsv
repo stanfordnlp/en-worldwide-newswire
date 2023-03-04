@@ -494,9 +494,9 @@ doing	O
 "	O
 
 The	O
-Tasmanian	B-Misc	B-NORP
-Aboriginal	I-Misc	I-NORP
-Community	I-Misc
+Tasmanian	B-Organization	B-NORP
+Aboriginal	I-Organization	I-NORP
+Community	I-Organization
 is	O
 urging	O
 more	O

@@ -497,17 +497,17 @@ Voice	I-Organization
 2	O
 .	O
 The	O
-Aboriginal	B-Organization	B-NORP
+Aboriginal	B-Organization	
 and	I-Organization
-Torres	I-Organization	B-NORP
-Strait	I-Organization	I-NORP
-Islander	I-Organization	I-NORP
+Torres	I-Organization	
+Strait	I-Organization	
+Islander	I-Organization	
 Voice	I-Organization
 may	O
 make	O
 representations	O
 to	O
-Parliament	O
+Parliament	B-Organization
 and	O
 the	O
 Executive	B-Organization
@@ -527,7 +527,7 @@ Peoples	I-NORP
 3	O
 .	O
 The	O
-Parliament	O
+Parliament	B-Organization
 shall	O
 ,	O
 subject	O

@@ -59,10 +59,10 @@ referendum	O
 to	O
 enshrine	O
 an	O
-Indigenous	B-Misc
-Voice	I-Misc
-to	O
-Parliament	O
+Indigenous	B-Organization
+Voice	I-Organization
+to	I-Organization
+Parliament	I-Organization
 ,	O
 and	O
 what	O
@@ -414,7 +414,7 @@ so	O
 to	O
 establish	O
 an	O
-Indigenous	O
+Indigenous	B-NORP
 advisory	O
 body	O
 ,	O
@@ -696,13 +696,13 @@ and	O
 Torres	B-NORP
 Strait	I-NORP
 Islander	I-NORP
-Peoples	O
+Peoples	I-NORP
 .	O
 
 3	O
 .	O
 The	O
-Parliament	O
+Parliament	B-Organization
 shall	O
 ,	O
 subject	O

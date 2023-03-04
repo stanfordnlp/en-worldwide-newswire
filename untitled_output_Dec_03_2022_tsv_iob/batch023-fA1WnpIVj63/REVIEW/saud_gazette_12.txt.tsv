@@ -175,11 +175,11 @@ ET	O
 according	O
 to	O
 the	O
-US	B-Misc	B-Location
-Geological	I-Misc
-Survey	I-Misc
+US	B-Organization	B-Location
+Geological	I-Organization
+Survey	I-Organization
 (	O
-USGS	B-Misc
+USGS	B-Organization
 )	O
 .	O
 The	O

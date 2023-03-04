@@ -239,10 +239,10 @@ commander	O
 Milne	B-Person
 said	O
 the	O
-Vasco	B-Misc
-Da	I-Misc
-Gama	I-Misc
-race	O
+Vasco	B-Misc	B-Person
+Da	I-Misc	I-Person
+Gama	I-Misc	I-Person
+race	I-Misc
 committee	O
 are	O
 most	O

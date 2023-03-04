@@ -384,8 +384,8 @@ Asia	I-Location
 
 Named	O
 "	O
-CMC	B-Misc
-Global	I-Misc
+CMC	B-Organization
+Global	I-Organization
 "	O
 his	O
 Cambodian	B-NORP
@@ -411,8 +411,8 @@ It	O
 is	O
 through	O
 "	O
-CMC	B-Misc
-Global	I-Misc
+CMC	B-Organization
+Global	I-Organization
 "	O
 in	O
 Cambodia	B-Location

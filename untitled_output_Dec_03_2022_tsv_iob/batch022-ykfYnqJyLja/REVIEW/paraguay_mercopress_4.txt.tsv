@@ -83,8 +83,8 @@ with	O
 authorities	O
 of	O
 the	O
-Paraguayan	B-NORP
-Ministry	B-Organization
+Paraguayan	B-Organization
+Ministry	I-Organization
 of	I-Organization
 Industry	I-Organization
 and	I-Organization

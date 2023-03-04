@@ -6,9 +6,9 @@ NICARAGUA	I-Organization	B-Location
 EFE	B-Organization
 )	O
 The	O
-Government	O
-of	O
-Nicaragua	B-Location
+Government	B-Organization
+of	I-Organization
+Nicaragua	I-Organization	B-Location
 ,	O
 through	O
 the	O
@@ -153,8 +153,8 @@ Mejor	I-Organization
 According	O
 to	O
 the	O
-Nicaraguan	B-NORP
-Government	O
+Nicaraguan	B-Organization	B-NORP
+Government	I-Organization
 ,	O
 these	O
 six	O

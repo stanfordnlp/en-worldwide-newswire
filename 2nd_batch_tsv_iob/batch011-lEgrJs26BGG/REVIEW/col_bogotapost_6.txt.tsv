@@ -645,7 +645,7 @@ initial	O
 report	O
 from	O
 the	O
-MOE	B-Misc
+MOE	B-Organization
 ,	O
 the	O
 country	O
@@ -688,7 +688,7 @@ Caquetá	B-Location
 According	O
 to	O
 the	O
-MOE	B-Misc
+MOE	B-Organization
 ,	O
 the	O
 soldier	O
@@ -713,7 +713,7 @@ the	O
 day	O
 ,	O
 the	O
-MOE	B-Misc
+MOE	B-Organization
 reported	O
 that	O
 another	O
@@ -742,7 +742,7 @@ three	O
 soldiers	O
 .	O
 The	O
-MOE	B-Misc
+MOE	B-Organization
 also	O
 said	O
 there	O

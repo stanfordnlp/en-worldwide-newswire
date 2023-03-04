@@ -19,13 +19,9 @@ participation	O
 rates	O
 among	O
 more	O
-w	B-NORP
-ā	I-NORP
-hine	I-NORP
+wāhine	B-NORP
 and	O
-k	B-NORP
-ō	I-NORP
-tiro	I-NORP
+kōtiro	B-NORP
 for	O
 the	O
 sport	O
@@ -47,9 +43,7 @@ Kahurangi	B-Person
 Peters	I-Person
 of	O
 Te	B-Location
-Aup	I-Location
-ō	I-Location
-uri	I-Location
+Aupōuri	I-Location
 .	O
 
 The	O
@@ -77,9 +71,7 @@ Women	I-Misc
 Premiership	I-Misc
 and	O
 the	O
-M	B-Organization	B-NORP
-ā	I-Organization	I-NORP
-ori	I-Organization	I-NORP
+Māori	B-Organization	B-NORP
 All	I-Organization
 Stars	I-Organization
 .	O
@@ -131,28 +123,21 @@ Te	B-Location
 Kao	I-Location
 and	O
 Te	B-Location
-P	I-Location
-ū	I-Location
-o	I-Location
-te	I-Location
+Pūote	I-Location
 Wheke	I-Location
 .	O
 
 Former	O
-New	B-Misc	B-Location
-Zealand	I-Misc	I-Location
-M	I-Misc	B-NORP
-ā	I-Misc	I-NORP
-ori	I-Misc	I-NORP
-Rugby	I-Misc
-League	I-Misc
+New	B-Organization	B-Location
+Zealand	I-Organization	I-Location
+Māori	I-Organization	B-NORP
+Rugby	I-Organization
+League	I-Organization
 player	O
 now	O
-T	B-Location
-ū	I-Location
-horonuku	I-Location
-Mid	I-Location
-North	I-Location
+Tūhoronuku	B-Organization
+Mid	I-Organization
+North	I-Organization
 coach	O
 Awaroa	B-Person
 Waikai	I-Person
@@ -169,9 +154,7 @@ last	O
 league	O
 competition	O
 for	O
-w	O
-ā	O
-hine	O
+wāhine	O
 was	O
 held	O
 in	O
@@ -581,9 +564,9 @@ home	O
 .	O
 "	O
 
-Rugby	B-Misc
-League	I-Misc
-Northland	I-Misc
+Rugby	B-Organization
+League	I-Organization
+Northland	I-Organization
 board	O
 member	O
 Kath	B-Person

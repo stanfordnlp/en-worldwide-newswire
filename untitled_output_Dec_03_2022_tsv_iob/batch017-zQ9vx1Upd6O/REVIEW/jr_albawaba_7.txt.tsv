@@ -20,7 +20,7 @@ in	O
 Afghanistan	B-Location
 ,	O
 the	O
-Taliban	B-NORP
+Taliban	B-Organization
 has	O
 signed	O
 a	O
@@ -42,7 +42,7 @@ said	O
 citing	O
 the	O
 Taliban	B-Organization	B-NORP
-'s	I-Organization
+'s	O
 Ministry	I-Organization
 of	I-Organization
 Finance	I-Organization
@@ -101,7 +101,7 @@ ranking	O
 officials	O
 from	O
 the	O
-Taliban	B-NORP
+Taliban	B-Organization
 's	O
 finance	O
 ministry	O

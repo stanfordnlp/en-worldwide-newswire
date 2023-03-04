@@ -74,8 +74,8 @@ become	O
 chairman	O
 of	O
 the	O
-Elderly	B-Misc
-Commission	I-Misc
+Elderly	B-Organization
+Commission	I-Organization
 on	O
 July	B-Misc
 30	I-Misc
@@ -823,8 +823,8 @@ incoming	O
 chairman	O
 of	O
 the	O
-Elderly	B-Misc
-Commission	I-Misc
+Elderly	B-Organization
+Commission	I-Organization
 said	O
 boosting	O
 the	O

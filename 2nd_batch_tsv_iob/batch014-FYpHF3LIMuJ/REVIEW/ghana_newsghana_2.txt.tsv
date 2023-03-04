@@ -169,8 +169,8 @@ on	O
 -	O
 lending	O
 of	O
-IMF	B-Misc	B-Organization
-SDR	I-Misc	B-Misc
+IMF	B-Organization
+SDR	B-Misc
 resources	O
 .	O
 In	O

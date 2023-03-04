@@ -41,11 +41,11 @@ award	O
 at	O
 the	O
 24th	B-Misc
-National	I-Misc
-Science	I-Misc
-and	I-Misc
-Technology	I-Misc
-Forum	I-Misc
+National	I-Misc	B-Organization
+Science	I-Misc	I-Organization
+and	I-Misc	I-Organization
+Technology	I-Misc	I-Organization
+Forum	I-Misc	I-Organization
 (	I-Misc
 NSTF	I-Misc
 )	I-Misc
@@ -78,8 +78,8 @@ live	O
 broadcast	O
 on	O
 the	O
-NSTF	B-Misc
-YouTube	B-Organization
+NSTF	B-Organization
+YouTube	B-Product
 channel	O
 .	O
 
@@ -202,7 +202,7 @@ enabler	O
 ”	O
 according	O
 to	O
-NSTF	B-Misc
+NSTF	B-Organization
 .	O
 
 SAHPRA	B-Organization
@@ -420,7 +420,7 @@ since	O
 1997	B-Misc
 ,	O
 ”	O
-NSTF	B-Misc
+NSTF	B-Organization
 said	O
 .	O
 

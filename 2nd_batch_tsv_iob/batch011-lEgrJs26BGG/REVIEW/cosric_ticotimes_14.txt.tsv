@@ -204,11 +204,11 @@ Channel	B-Organization
 13	I-Organization
 of	O
 the	O
-National	B-Misc
-Radio	I-Misc
-and	I-Misc
-Television	I-Misc
-System	I-Misc
+National	B-Organization
+Radio	I-Organization
+and	I-Organization
+Television	I-Organization
+System	I-Organization
 (	O
 Sinart	B-Organization
 )	O

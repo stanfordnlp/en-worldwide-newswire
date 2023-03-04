@@ -20,9 +20,7 @@ of	O
 being	O
 unfair	O
 to	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 in	O
 the	O
 way	O
@@ -50,9 +48,7 @@ between	O
 the	O
 Crown	B-Organization
 and	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 are	O
 perpetuating	O
 injustice	O
@@ -404,7 +400,7 @@ the	O
 machinery	O
 of	O
 the	O
-Crown	B-Misc
+Crown	B-Organization
 .	O
 
 For	O

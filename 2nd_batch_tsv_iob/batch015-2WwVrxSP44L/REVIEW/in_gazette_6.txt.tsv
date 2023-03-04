@@ -1226,8 +1226,8 @@ It	O
 explains	O
 reservations	O
 of	O
-Indian	B-NORP
-Government	O
+Indian	B-Organization	B-NORP
+Government	I-Organization
 to	O
 wholeheartedly	O
 endorse	O

@@ -17,8 +17,8 @@ Papal	B-Misc
 visit	O
 –	O
 the	O
-Cree	B-Location	B-NORP
-Nation	I-Location
+Cree	B-Organization	B-NORP
+Nation	I-Organization
 at	O
 Chisasibi	B-Location
 is	O
@@ -278,8 +278,8 @@ grand	O
 chief	O
 of	O
 the	O
-Cree	B-NORP
-Nation	O
+Cree	B-Organization
+Nation	I-Organization
 of	O
 Eeyou	B-Location
 Istchee	I-Location

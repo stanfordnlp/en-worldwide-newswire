@@ -185,10 +185,10 @@ face	O
 Santiago	B-Person
 Peña	I-Person
 of	O
-Cartés'	B-Misc
-Honor	I-Misc
+Cartés'	B-Person
+Honor	B-Misc
 Colorado	I-Misc	B-Location
-movement	I-Misc
+movement	O
 and	O
 /	O
 or	O

@@ -6,7 +6,7 @@ NICARAGUA	I-Organization	B-Location
 EFE	B-Organization
 )	O
 The	O
-Government	O
+Government	B-Organization
 of	O
 President	O
 Daniel	B-Person
@@ -56,10 +56,10 @@ is	O
 owned	O
 by	O
 the	O
-Episcopal	B-Misc
-Conference	I-Misc
-of	I-Misc
-Nicaragua	I-Misc	B-Location
+Episcopal	B-Organization
+Conference	I-Organization
+of	I-Organization
+Nicaragua	I-Organization	B-Location
 .	O
 
 “	O
@@ -170,10 +170,10 @@ area	O
 of	O
 ​​	O
 the	O
-Episcopal	B-Misc
-Conference	I-Misc
-of	I-Misc
-Nicaragua	I-Misc	B-Location
+Episcopal	B-Organization
+Conference	I-Organization
+of	I-Organization
+Nicaragua	I-Organization	B-Location
 and	O
 is	O
 in	O

@@ -293,11 +293,11 @@ was	O
 suffered	O
 by	O
 the	O
-Costa	B-Misc	B-NORP
-Rican	I-Misc	I-NORP
-Social	I-Misc
-Security	I-Misc
-Fund	I-Misc
+Costa	B-Organization	B-NORP
+Rican	I-Organization	I-NORP
+Social	I-Organization
+Security	I-Organization
+Fund	I-Organization
 (	O
 Caja	B-Organization
 Costarricense	I-Organization

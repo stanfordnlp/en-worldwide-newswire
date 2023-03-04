@@ -436,15 +436,15 @@ region	O
 The	O
 Management	B-Organization
 Unit	I-Organization
-of	I-Organization
-the	I-Organization
-Historic	I-Organization
-Sanctuary	I-Organization
-of	I-Organization
-Machu	I-Organization	B-Location
-Picchu	I-Organization	I-Location
+of	O
+the	O
+Historic	B-Location
+Sanctuary	I-Location
+of	I-Location
+Machu	I-Location	B-Location
+Picchu	I-Location	I-Location
 (	O
-UGM	B-Misc
+UGM	B-Organization
 )	O
 has	O
 confirmed	O
@@ -456,10 +456,10 @@ to	O
 the	O
 Llaqta	B-NORP
 or	O
-Inca	B-Location	B-NORP
-citadel	I-Location
-of	I-Location
-Machu	I-Location
+Inca	B-NORP
+citadel	O
+of	O
+Machu	B-Location
 Picchu	I-Location
 ;	O
 that	O

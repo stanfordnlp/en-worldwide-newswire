@@ -580,9 +580,9 @@ and	O
 even	O
 from	O
 the	O
-UNES	B-Misc	B-Organization
-Security	I-Misc
-University	I-Misc
+UNES	B-Organization	B-Organization
+Security	I-Organization
+University	I-Organization
 
 Telefónica	B-Organization
 recognizes	O

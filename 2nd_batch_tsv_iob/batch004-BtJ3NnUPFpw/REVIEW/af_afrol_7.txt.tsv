@@ -748,11 +748,11 @@ UNHCR	B-Organization
 )	O
 and	O
 the	O
-World	B-Misc
-Food	I-Misc
-Programme	I-Misc
+World	B-Organization
+Food	I-Organization
+Programme	I-Organization
 (	O
-WFP	B-Misc
+WFP	B-Organization
 )	O
 this	O
 week	O

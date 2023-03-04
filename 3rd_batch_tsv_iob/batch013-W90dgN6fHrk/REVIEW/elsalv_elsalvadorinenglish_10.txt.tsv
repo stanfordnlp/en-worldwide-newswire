@@ -41,8 +41,8 @@ The	O
 head	O
 of	O
 the	O
-Nuevas	B-Misc
-Ideas	I-Misc
+Nuevas	B-Organization
+Ideas	I-Organization
 faction	O
 ,	O
 Christian	B-Person
@@ -232,8 +232,8 @@ the	O
 president	O
 of	O
 the	O
-Salvadoran	B-NORP
-Congress	O
+Salvadoran	B-Organization	B-NORP
+Congress	I-Organization
 ,	O
 Ernesto	B-Person
 Castro	I-Person

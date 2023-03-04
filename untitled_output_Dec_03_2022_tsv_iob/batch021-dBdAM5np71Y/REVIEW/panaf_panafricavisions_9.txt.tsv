@@ -699,8 +699,8 @@ aid	O
 However	O
 ,	O
 starting	O
-from	B-Misc
-April	I-Misc
+from	O
+April	B-Misc
 2022	I-Misc
 ,	O
 the	O
@@ -711,7 +711,7 @@ body	O
 in	O
 the	O
 country	O
-PSMI	B-NORP
+PSMI	B-Organization
 which	O
 is	O
 owned	O

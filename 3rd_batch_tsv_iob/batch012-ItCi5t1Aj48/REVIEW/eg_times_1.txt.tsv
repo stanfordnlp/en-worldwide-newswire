@@ -355,8 +355,8 @@ Al	I-Person
 Zoheiry	I-Person
 ,	O
 a	O
-Muslim	B-NORP
-Brotherhood	O
+Muslim	B-Organization
+Brotherhood	I-Organization
 member	O
 ,	O
 died	O
@@ -389,8 +389,8 @@ involved	O
 members	O
 of	O
 the	O
-Muslim	B-NORP
-Brotherhood	O
+Muslim	B-Organization
+Brotherhood	I-Organization
 ,	O
 the	O
 EAAT	B-Organization

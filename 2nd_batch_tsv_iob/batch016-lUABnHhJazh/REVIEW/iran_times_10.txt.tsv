@@ -1370,8 +1370,8 @@ possible	O
 opportunity	O
 in	O
 the	O
-Russian	B-NORP
-Federation	I-NORP
+Russian	B-Organization
+Federation	I-Organization
 .	O
 
 16	O
@@ -1380,13 +1380,13 @@ The	O
 Presidents	O
 of	O
 the	O
-Russian	B-NORP
-Federation	I-NORP
+Russian	B-Organization
+Federation	I-Organization
 and	O
 the	O
-Republic	O
-of	O
-Turkey	B-Location
+Republic	B-Organization
+of	I-Organization
+Turkey	I-Organization	B-Location
 expressed	O
 their	O
 sincere	O

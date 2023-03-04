@@ -1920,8 +1920,8 @@ of	O
 Bitabs	B-Organization
 also	O
 started	O
-HashHouse	B-Misc
-Club	I-Misc
+HashHouse	B-Organization
+Club	I-Organization
 ,	O
 a	O
 successful	O
@@ -2502,13 +2502,13 @@ Colombian	B-NORP
 food	O
 delivery	O
 network	O
-Domicilios	B-Misc
+Domicilios	B-Organization
 ,	O
 which	O
 was	O
 acquired	O
 by	O
-DeliveryHero	B-Misc
+DeliveryHero	B-Organization
 .	O
 
 Raising	O

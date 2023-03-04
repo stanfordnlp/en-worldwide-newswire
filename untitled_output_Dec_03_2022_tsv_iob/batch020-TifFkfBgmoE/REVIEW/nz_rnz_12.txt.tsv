@@ -539,8 +539,8 @@ Selwyn	B-Location
 ,	O
 and	O
 Hurunui	B-Location
-District	B-Misc
-Councils	I-Misc
+District	B-Organization
+Councils	I-Organization
 ,	O
 and	O
 Crown	B-Organization

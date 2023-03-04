@@ -200,8 +200,8 @@ the	O
 Global	B-Misc
 New	I-Misc
 Light	I-Misc
-of	O
-Myanmar	B-Location
+of	I-Misc
+Myanmar	I-Misc	B-Location
 newspaper	O
 said	O
 .	O
@@ -609,11 +609,11 @@ Santiago	I-Person
 chair	O
 of	O
 the	O
-ASEAN	B-Misc	B-Organization
-Parliamentarians	I-Misc
-for	I-Misc
-Human	I-Misc
-Rights	I-Misc
+ASEAN	B-Organization
+Parliamentarians	I-Organization
+for	I-Organization
+Human	I-Organization
+Rights	I-Organization
 .	O
 
 "	O

@@ -1414,8 +1414,8 @@ the	I-Organization
 United	I-Organization	B-Location
 States	I-Organization	I-Location
 Daughters	I-Organization
-of	O
-1812	B-Misc
+of	I-Organization
+1812	I-Organization	B-Misc
 and	O
 Stein	B-Person
 suspected	O

@@ -126,9 +126,9 @@ and	O
 sent	O
 to	O
 the	O
-Costa	B-NORP
-Rican	I-NORP
-Institute	B-Organization
+Costa	B-Organization	B-NORP
+Rican	I-Organization	I-NORP
+Institute	I-Organization
 for	I-Organization
 Research	I-Organization
 and	I-Organization

@@ -633,8 +633,8 @@ Tramm	I-Person
 quoted	O
 in	O
 a	O
-Health	B-Misc
-Canada	I-Misc	B-Location
+Health	B-Organization
+Canada	I-Organization	B-Location
 study	O
 on	O
 the	O
@@ -643,8 +643,8 @@ of	O
 climate	O
 change	O
 on	O
-Indigenous	O
-Peoples	O
+Indigenous	B-NORP
+Peoples	I-NORP
 in	O
 Canada	B-Location
 ,	O
