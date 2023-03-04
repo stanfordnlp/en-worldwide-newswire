@@ -161,15 +161,15 @@ modernisation	O
 
 Touring	O
 the	O
-Prince	O
-Al	O
-Hussein	B-Person
-Bin	I-Person
-Abdullah	I-Person
-II	O
-Aerial	B-Location
-Reconnaissance	I-Location
-Wing	I-Location
+Prince	B-Organization
+Al	I-Organization
+Hussein	I-Organization	B-Person
+Bin	I-Organization	I-Person
+Abdullah	I-Organization	I-Person
+II	I-Organization
+Aerial	I-Organization	B-Location
+Reconnaissance	I-Organization	I-Location
+Wing	I-Organization	I-Location
 ,	O
 His	O
 Majesty	O
@@ -191,7 +191,7 @@ was	O
 briefed	O
 on	O
 the	O
-Wing	O
+Wing	B-Organization
 ’	O
 s	O
 various	O

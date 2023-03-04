@@ -383,7 +383,7 @@ at	O
 –	O
 Linetzky	B-Person
 ,	O
-AMIA	B-Location
+AMIA	B-Organization
 employee	O
 and	O
 survivor	O
@@ -500,8 +500,8 @@ ex	O
 -	O
 mayor	O
 and	O
-Colón	B-Facility
-Theatre	I-Facility
+Colón	B-Organization
+Theatre	I-Organization
 director	O
 Jorge	B-Person
 Telerman	I-Person

@@ -366,9 +366,9 @@ expressed	O
 gratitude	O
 to	O
 the	O
-Government	O
-of	O
-Mauritius	B-Location
+Government	B-Organization
+of	I-Organization
+Mauritius	I-Organization	B-Location
 ,	O
 who	O
 is	O

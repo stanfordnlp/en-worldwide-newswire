@@ -60,7 +60,7 @@ Movement	I-Organization
 MMM	B-Organization
 )	O
 from	O
-Parliament	O
+Parliament	B-Organization
 ,	O
 judging	O
 her	O
@@ -374,7 +374,7 @@ for	O
 her	O
 resignation	O
 from	O
-Parliament	O
+Parliament	B-Organization
 .	O
 “	O
 Joanna	B-Person

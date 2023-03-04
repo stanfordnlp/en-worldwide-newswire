@@ -991,11 +991,11 @@ Leah	B-Person
 Gazan	I-Person
 ,	O
 a	O
-Manitoba	B-Location
-NDP	B-Organization
+Manitoba	B-Organization	B-Location
+NDP	I-Organization
 member	O
 of	O
-Parliament	O
+Parliament	B-Organization
 ,	O
 tabled	O
 a	O
@@ -1091,8 +1091,8 @@ schools	O
 ,	O
 and	O
 the	O
-Catholic	B-Facility	B-NORP
-Church	I-Facility
+Catholic	B-Organization	B-NORP
+Church	I-Organization
 ran	O
 60	O
 per	O

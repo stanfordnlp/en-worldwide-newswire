@@ -501,7 +501,7 @@ broke	O
 out	O
 against	O
 the	O
-Government	O
+Government	B-Organization
 of	O
 President	O
 Daniel	B-Person
@@ -563,15 +563,15 @@ dead	O
 according	O
 to	O
 the	O
-Inter	O
--	O
-American	B-Location
-Commission	I-Location
-on	I-Location
-Human	I-Location
-Rights	I-Location
+Inter	B-Organization
+-	I-Organization
+American	I-Organization	B-NORP
+Commission	I-Organization
+on	I-Organization
+Human	I-Organization
+Rights	I-Organization
 (	O
-IACHR	B-Facility
+IACHR	B-Organization
 )	O
 ,	O
 although	O

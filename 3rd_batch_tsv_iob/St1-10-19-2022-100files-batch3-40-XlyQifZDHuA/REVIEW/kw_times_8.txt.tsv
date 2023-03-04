@@ -28,9 +28,9 @@ sit	O
 in	O
 at	O
 the	O
-National	B-Facility
-Assembly	I-Facility
-building	I-Facility
+National	B-Organization
+Assembly	I-Organization
+building	O
 ,	O
 while	O
 prominent	O
@@ -59,13 +59,13 @@ force	O
 the	O
 resumption	O
 of	O
-Assembly	O
+Assembly	B-Organization
 sessions	O
 ,	O
 suspended	O
 since	O
 the	O
-Cabinet	O
+Cabinet	B-Organization
 resigned	O
 on	O
 April	B-Misc
@@ -90,7 +90,7 @@ been	O
 without	O
 a	O
 proper	O
-Cabinet	O
+Cabinet	B-Organization
 for	O
 almost	O
 the	O
@@ -160,7 +160,7 @@ the	O
 premier	O
 and	O
 the	O
-Cabinet	O
+Cabinet B-Organization
 to	O
 continue	O
 to	O
@@ -177,7 +177,7 @@ the	O
 resignation	O
 ,	O
 the	O
-Assembly	O
+Assembly	B-Organization
 has	O
 not	O
 convened	O
@@ -243,7 +243,7 @@ sit	O
 in	O
 at	O
 the	O
-Assembly	O
+Assembly	B-Organization
 building	O
 ,	O
 including	O

@@ -24,12 +24,12 @@ to	O
 tackle	O
 them	O
 ,	O
-Hong	B-Location
-Kong	I-Location
-and	O
-Macau	B-Location
-Affairs	O
-Office	O
+Hong	B-Organization	B-Location
+Kong	I-Organization	I-Location
+and	I-Organization
+Macau	I-Organization	B-Location
+Affairs	I-Organization
+Office	I-Organization
 director	O
 Xia	B-Person
 Baolong	I-Person

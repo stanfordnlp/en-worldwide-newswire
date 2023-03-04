@@ -249,11 +249,11 @@ in	O
 Zimbabwe	B-Location
 ,	O
 the	O
-United	B-Facility
-Bulawayo	I-Facility	B-Location
-Hospital	I-Facility
+United	B-Organization
+Bulawayo	I-Organization	B-Location
+Hospital	I-Organization
 (	O
-UBH	B-Facility
+UBH	B-Organization
 )	O
 issued	O
 a	O
@@ -365,7 +365,7 @@ reads	O
 The	O
 statement	O
 by	O
-UBH	B-Facility
+UBH	B-Organization
 just	O
 shows	O
 how	O

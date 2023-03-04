@@ -349,7 +349,7 @@ Mel	B-Person
 Dean	I-Person
 ,	O
 and	O
-Rempapa	B-Person
+Rempapa	B-Organization
 ,	O
 where	O
 chef	O
@@ -1333,7 +1333,7 @@ D	B-Person
 Silva	I-Person
 ’	O
 s	O
-Rempapa	B-Location
+Rempapa	B-Organization
 restaurant	O
 ,	O
 the	O
@@ -1452,7 +1452,7 @@ in	O
 August	B-Misc
 ,	O
 the	O
-Rempapa	B-Location
+Rempapa	B-Organization
 team	O
 is	O
 collaborating	O

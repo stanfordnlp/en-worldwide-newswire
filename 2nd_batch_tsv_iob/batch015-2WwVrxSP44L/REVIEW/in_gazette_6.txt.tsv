@@ -968,7 +968,7 @@ Paryushan	B-Misc
 
 Wellness	B-Organization
 Company	I-Organization
-Himalaya	B-Location
+Himalaya	I-Organization	B-Location
 is	O
 being	O
 targeted	O

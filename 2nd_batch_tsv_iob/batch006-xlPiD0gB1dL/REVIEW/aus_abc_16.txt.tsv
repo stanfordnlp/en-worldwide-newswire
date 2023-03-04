@@ -723,8 +723,8 @@ by	O
 the	O
 Royal	B-Organization
 Society	I-Organization
-of	O
-Tasmania	B-Location
+of	I-Organization
+Tasmania	I-Organization	B-Location
 at	O
 the	O
 Great	B-Misc

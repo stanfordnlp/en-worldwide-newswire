@@ -189,9 +189,9 @@ late	O
 President	O
 at	O
 the	O
-University	B-Facility
-of	I-Facility
-Ghana	I-Facility
+University	B-Organization
+of	I-Organization
+Ghana	I-Organization
 ,	O
 were	O
 members	O
@@ -208,7 +208,7 @@ played	O
 in	O
 the	O
 same	O
-University	O
+University	B-Organization
 football	O
 team	O
 .	O

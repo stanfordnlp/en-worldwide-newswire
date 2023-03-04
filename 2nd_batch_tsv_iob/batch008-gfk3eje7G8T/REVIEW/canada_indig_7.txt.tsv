@@ -308,8 +308,8 @@ relations	O
 officer	O
 with	O
 the	O
-Manitoba	B-Location
-RCMP	B-Organization
+Manitoba	B-Organization	B-Location
+RCMP	I-Organization	B-Organization
 ,	O
 said	O
 a	O

@@ -413,9 +413,9 @@ public	O
 bodies	O
 ;	O
 the	O
-Procurement	B-Facility
-Policy	I-Facility
-Office	I-Facility
+Procurement	B-Organization
+Policy	I-Organization
+Office	I-Organization
 ,	O
 which	O
 serves	O

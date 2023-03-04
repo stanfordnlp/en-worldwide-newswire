@@ -108,9 +108,9 @@ On	O
 July	B-Misc
 2	I-Misc
 ,	O
-Uruguay	B-Organization	B-Location
-'s	I-Organization
-Navy	I-Organization
+Uruguay	B-Location
+'s	O
+Navy	B-Organization
 seized	O
 a	O
 Chinese	B-NORP
@@ -123,11 +123,11 @@ within	O
 the	O
 country	O
 's	O
-exclusive	B-Misc
-economic	I-Misc
-zone	I-Misc
+exclusive	O
+economic	O
+zone	O
 (	O
-EEZ	B-Misc
+EEZ	O
 )	O
 .	O
 Uruguay	B-Location

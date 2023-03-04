@@ -24,8 +24,8 @@ the	O
 Royal	B-Organization
 Air	I-Organization
 Force	I-Organization
-of	O
-Oman	B-Location
+of	I-Organization
+Oman	I-Organization	B-Location
 .	O
 
 Upon	O

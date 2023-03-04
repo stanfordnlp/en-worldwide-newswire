@@ -249,8 +249,8 @@ is	O
 part	O
 of	O
 the	O
-Miss	O
-Namibia	B-Location
+Miss	B-Organization
+Namibia	I-Organization	B-Location
 organisation	O
 ,	O
 ”	O

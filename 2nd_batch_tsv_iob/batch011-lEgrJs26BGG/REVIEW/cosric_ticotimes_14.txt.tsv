@@ -5,9 +5,9 @@ Vulcanological	B-Organization
 and	I-Organization
 Seismological	I-Organization
 Observatory	I-Organization
-of	O
-Costa	B-Location
-Rica	I-Location
+of	I-Organization
+Costa	I-Organization	B-Location
+Rica	I-Organization	I-Location
 (	O
 Ovsicori	B-Organization
 )	O

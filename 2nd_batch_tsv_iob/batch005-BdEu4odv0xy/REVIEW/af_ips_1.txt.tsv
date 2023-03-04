@@ -1042,9 +1042,9 @@ in	O
 .	O
 
 The	O
-Hamburg	B-Location
-G	B-Organization
-20	I-Organization
+Hamburg	B-Misc	B-Location
+G	I-Misc	B-Organization
+20	I-Misc	I-Organization
 ’	O
 s	O
 2017	B-Misc

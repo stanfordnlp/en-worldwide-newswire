@@ -38,10 +38,10 @@ s	O
 (	O
 FAREI	B-Organization
 )	O
-Mushroom	B-Facility
-Unit	I-Facility
-,	I-Facility
-Experimental	I-Facility
+Mushroom	B-Organization
+Unit	I-Organization
+,	O
+Experimental	B-Facility
 Station	I-Facility
 at	O
 La	B-Location
@@ -74,9 +74,9 @@ lauded	O
 the	O
 staff	O
 of	O
-Mushroom	B-Facility
-Research	I-Facility
-Facility	I-Facility
+Mushroom	B-Organization
+Research	I-Organization
+Facility	I-Organization
 of	O
 FAREI	B-Organization
 for	O

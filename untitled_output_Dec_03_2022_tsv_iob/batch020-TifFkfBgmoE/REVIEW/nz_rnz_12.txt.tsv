@@ -38,7 +38,7 @@ its	O
 third	O
 reading	O
 in	O
-Parliament	O
+Parliament	B-Organization
 on	O
 Wednesday	B-Misc
 night	O
@@ -84,7 +84,7 @@ O'Regan	I-Person
 ,	O
 were	O
 at	O
-Parliament	O
+Parliament	B-Organization
 to	O
 celebrate	O
 .	O
@@ -238,7 +238,7 @@ brought	O
 the	O
 bill	O
 to	O
-Parliament	O
+Parliament	B-Organization
 at	O
 the	O
 request	O
@@ -259,7 +259,7 @@ representation	O
 
 He	O
 told	O
-Parliament	O
+Parliament	B-Organization
 the	O
 bill	O
 recognised	O

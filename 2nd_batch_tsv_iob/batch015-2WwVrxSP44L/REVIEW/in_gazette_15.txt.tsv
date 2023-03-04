@@ -210,9 +210,9 @@ speech	O
 of	O
 Jinnah	B-Person
 in	O
-Pakistan	B-Location
-Constituent	O
-assembly	O
+Pakistan	B-Organization	B-Location
+Constituent	I-Organization
+assembly	I-Organization
 ,	O
 to	O
 show	O
@@ -673,9 +673,9 @@ of	O
 his	O
 11th	B-Misc
 August	I-Misc
-Pakistan	B-Location
-Constituent	O
-Assembly	O
+Pakistan	B-Organization	B-Location
+Constituent	I-Organization
+Assembly	I-Organization
 speech	O
 (	O
 state	O

@@ -334,7 +334,7 @@ opportunities	O
 
 About	O
 Gujarat	B-Location
-State	O
+State	I-Location
 
 Gujarat	B-Location
 is	O
@@ -431,9 +431,9 @@ summit	O
 organized	O
 by	O
 the	O
-Government	O
-of	O
-Gujarat	B-Location
+Government	B-Organization
+of	I-Organization
+Gujarat	I-Organization	B-Location
 ,	O
 is	O
 an	O

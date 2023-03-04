@@ -147,8 +147,8 @@ opposition	O
 Constitutional	B-Organization
 Democratic	I-Organization
 Party	I-Organization
-of	O
-Japan	B-Location
+of	I-Organization
+Japan	I-Organization	B-Location
 .	O
 
 Izumi	B-Person
