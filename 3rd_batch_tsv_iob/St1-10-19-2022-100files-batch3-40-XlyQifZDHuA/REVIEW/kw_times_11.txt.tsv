@@ -192,7 +192,7 @@ political	O
 disputes	O
 between	O
 the	O
-Assembly	O
+Assembly	B-Organization
 and	O
 the	O
 government	O
@@ -221,8 +221,8 @@ Ghanem	I-Person
 said	O
 that	O
 the	O
-National	O
-Assembly	O
+National	B-Organization
+Assembly	I-Organization
 will	O
 not	O
 hold	O
@@ -265,8 +265,8 @@ press	O
 statement	O
 at	O
 the	O
-National	O
-Assembly	O
+National	B-Organization
+Assembly	I-Organization
 Tuesday	B-Misc
 that	O
 he	O

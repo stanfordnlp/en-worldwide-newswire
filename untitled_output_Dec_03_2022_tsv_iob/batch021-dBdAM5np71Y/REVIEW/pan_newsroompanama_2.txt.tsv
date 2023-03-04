@@ -371,7 +371,7 @@ the	O
 president	O
 of	O
 the	O
-Assembly	O
+Assembly	B-Organization
 ,	O
 Crispiano	B-Person
 Adames	I-Person
@@ -413,7 +413,7 @@ and	O
 172	O
 of	O
 the	O
-Assembly	O
+Assembly	B-Organization
 to	O
 eliminate	O
 nepotism	O

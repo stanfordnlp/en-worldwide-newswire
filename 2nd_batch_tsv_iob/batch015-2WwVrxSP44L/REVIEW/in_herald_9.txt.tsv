@@ -293,7 +293,7 @@ Naik	I-Person
 said	O
 .	O
 
-Assembly	O
+Assembly	B-Organization
 Speaker	O
 Vishveshwar	B-Person
 Hegde	I-Person

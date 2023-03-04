@@ -719,8 +719,8 @@ Al	I-Person
 Sabah	I-Person
 .	O
 
-National	O
-Assembly	O
+National	B-Organization
+Assembly	I-Organization
 Speaker	O
 Marzouq	B-Person
 Al	I-Person
@@ -731,7 +731,7 @@ all	O
 members	O
 of	O
 the	O
-Assembly	O
+Assembly	B-Organization
 have	O
 expressed	O
 satisfaction	O

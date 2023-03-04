@@ -376,7 +376,7 @@ CPM	B-Organization
 in	O
 the	O
 last	O
-Assembly	O
+Assembly	B-Organization
 elections	O
 .	O
 So	O
@@ -1029,7 +1029,7 @@ Even	O
 before	O
 the	O
 last	O
-Assembly	O
+Assembly	B-Organization
 elections	O
 in	O
 2019	B-Misc

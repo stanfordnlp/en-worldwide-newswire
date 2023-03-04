@@ -120,8 +120,8 @@ marathon	O
 grilling	O
 in	O
 the	O
-National	O
-Assembly	O
+National	B-Organization
+Assembly	I-Organization
 by	O
 three	O
 opposition	O
@@ -156,8 +156,8 @@ minister	O
 or	O
 dissolve	O
 the	O
-National	O
-Assembly	O
+National	B-Organization
+Assembly	I-Organization
 and	O
 call	O
 for	O
@@ -248,7 +248,7 @@ urgent	O
 session	O
 of	O
 the	O
-Assembly	O
+Assembly	B-Organization
 to	O
 debate	O
 and	O
@@ -278,9 +278,8 @@ resignation	O
 ,	O
 but	O
 the	O
-Assemblyâ	O
-€	O
-™	O
+Assembly	B-Organization
+'	O
 s	O
 approval	O
 was	O
@@ -291,7 +290,7 @@ the	O
 grant	O
 .	O
 The	O
-Assembly	O
+Assembly	B-Organization
 could	O
 not	O
 hold	O

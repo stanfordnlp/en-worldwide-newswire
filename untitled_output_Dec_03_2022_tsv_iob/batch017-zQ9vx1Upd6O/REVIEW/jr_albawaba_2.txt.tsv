@@ -231,8 +231,8 @@ Minister	O
 to	O
 inform	O
 the	O
-National	O
-Assembly	O
+National	B-Organization
+Assembly	I-Organization
 about	O
 the	O
 order	O

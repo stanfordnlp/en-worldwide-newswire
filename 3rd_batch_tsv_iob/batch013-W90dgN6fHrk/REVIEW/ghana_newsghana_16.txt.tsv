@@ -154,7 +154,7 @@ waste	O
 ,	O
 hence	O
 the	O
-Assembly	O
+Assembly	B-Organization
 ’	O
 s	O
 appeal	O
@@ -248,8 +248,8 @@ Metropolitan	O
 ,	O
 Municipal	O
 and	O
-District	O
-Assemblies	O
+District	B-Organization
+Assemblies	I-Organization
 in	O
 the	O
 Region	O

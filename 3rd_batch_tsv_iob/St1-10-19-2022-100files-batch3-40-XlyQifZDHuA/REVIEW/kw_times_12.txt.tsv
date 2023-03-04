@@ -173,7 +173,7 @@ Wasmi	I-Person
 head	O
 of	O
 the	O
-Assembly	O
+Assembly	B-Organization
 ’	O
 s	O
 legal	O
@@ -188,7 +188,7 @@ does	O
 not	O
 permit	O
 the	O
-Assembly	O
+Assembly	B-Organization
 to	O
 invite	O
 these	O

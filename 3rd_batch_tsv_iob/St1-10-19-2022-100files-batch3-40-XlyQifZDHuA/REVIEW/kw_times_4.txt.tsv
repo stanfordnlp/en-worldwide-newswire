@@ -97,7 +97,7 @@ this	O
 government	O
 will	O
 attend	O
-Assembly	O
+Assembly	B-Organization
 sessions	O
 and	O
 start	O
@@ -224,7 +224,7 @@ it	O
 is	O
 expected	O
 the	O
-Assembly	O
+Assembly	B-Organization
 will	O
 be	O
 dissolved	O
@@ -266,7 +266,7 @@ decree	O
 ,	O
 otherwise	O
 the	O
-Assembly	O
+Assembly	B-Organization
 that	O
 was	O
 dissolved	O

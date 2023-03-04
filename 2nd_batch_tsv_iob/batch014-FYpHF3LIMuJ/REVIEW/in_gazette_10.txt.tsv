@@ -425,8 +425,8 @@ who	O
 resigned	O
 from	O
 the	O
-Legislative	O
-Assembly	O
+Legislative	B-Organization
+Assembly	I-Organization
 in	O
 solidarity	O
 with	O
