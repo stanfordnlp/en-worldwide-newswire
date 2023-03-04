@@ -96,7 +96,7 @@ was	O
 political	O
 advisor	O
 to	O
-Congress	O
+Congress	B-Organization
 chief	O
 Sonia	B-Person
 Gandhi	I-Person
@@ -1056,7 +1056,7 @@ reveal	O
 that	O
 “	O
 top	O
-Congress	O
+Congress	B-Organization
 leaders	O
 of	O
 Gujarat	B-Location
@@ -1086,7 +1086,7 @@ personal	O
 meetings	O
 with	O
 senior	O
-Congress	O
+Congress	B-Organization
 leaders	O
 as	O
 well	O

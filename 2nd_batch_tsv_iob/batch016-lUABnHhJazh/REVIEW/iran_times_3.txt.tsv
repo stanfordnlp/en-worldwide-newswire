@@ -517,7 +517,7 @@ Iranian	B-NORP
 experts	O
 in	O
 the	O
-Army	O
+Army	B-Organization
 and	O
 the	O
 Ministry	B-Organization
