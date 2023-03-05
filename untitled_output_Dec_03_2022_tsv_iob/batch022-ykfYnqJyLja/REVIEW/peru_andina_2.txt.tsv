@@ -18,8 +18,8 @@ Foreign	O
 Affairs	O
 of	O
 the	O
-Portuguese	B-NORP
-Republic	O
+Portuguese	B-Organization	B-NORP
+Republic	I-Organization
 ,	O
 João	B-Person
 Gomes	I-Person

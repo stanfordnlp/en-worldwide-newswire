@@ -35,8 +35,8 @@ create	O
 a	O
 rapprochement	O
 between	O
-Arab	B-Location	B-NORP
-states	I-Location
+Arab	B-NORP
+states	O
 and	O
 Israel	B-Location
 will	O
@@ -1136,8 +1136,8 @@ be	O
 able	O
 to	O
 unite	O
-Arab	B-Location
-States	I-Location
+Arab	B-Organization	B-NORP
+States	I-Organization
 to	O
 form	O
 an	O

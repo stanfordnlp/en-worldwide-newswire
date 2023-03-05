@@ -201,12 +201,8 @@ later	O
 Te	B-Organization
 Taura	I-Organization
 Whiri	I-Organization
-i	I-Organization
-te	I-Organization
-reo	I-Organization
-M	I-Organization
-ā	I-Organization
-ori	I-Organization
+itereo	I-Organization
+Māori	I-Organization
 chief	O
 executive	O
 Ngahiwi	B-Person
@@ -389,9 +385,7 @@ parliament	O
 acknowledged	O
 te	O
 reo	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 .	O
 But	O
 since	O
@@ -410,13 +404,10 @@ and	O
 acknowledgment	O
 .	O
 
-Te	B-NORP
-R	I-NORP
-ū	I-NORP
-nanganui	I-NORP
-of	O
-Ng	B-Organization
-ā	I-Organization
+Te	B-Organization	B-NORP
+Rūnanganui	I-Organization	I-NORP
+of	I-Organization
+Ngā	I-Organization
 Kura	I-Organization
 Kaupapa	I-Organization
 chair	O

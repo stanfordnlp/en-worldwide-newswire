@@ -301,10 +301,10 @@ General	O
 Manager	O
 of	O
 the	O
-Joint	B-Misc
-National	I-Misc
-Mapping	I-Misc
-Project	I-Misc
+Joint	B-Organization
+National	I-Organization
+Mapping	I-Organization
+Project	I-Organization
 ,	O
 was	O
 on	O

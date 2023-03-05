@@ -390,8 +390,8 @@ the	O
 School	B-Organization
 and	O
 its	O
-Murrow	B-Misc	B-Person
-Center	I-Misc
+Murrow	B-Organization	B-Person
+Center	I-Organization
 can	O
 serve	O
 President	O

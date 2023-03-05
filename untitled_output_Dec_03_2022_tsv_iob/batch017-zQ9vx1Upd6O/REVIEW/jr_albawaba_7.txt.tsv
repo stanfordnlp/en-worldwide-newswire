@@ -422,7 +422,7 @@ many	O
 countries	O
 .	O
 The	O
-Taliban	B-NORP
+Taliban	B-Organization
 takeover	O
 in	O
 Afghanistan	B-Location

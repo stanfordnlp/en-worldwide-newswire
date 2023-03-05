@@ -116,10 +116,10 @@ in	O
 Argentina	B-Location
 .	O
 The	O
-Liga	B-Misc
-Profesional	I-Misc
-de	I-Misc
-Fútbol	I-Misc
+Liga	B-Organization
+Profesional	I-Organization
+de	I-Organization
+Fútbol	I-Organization
 is	O
 in	O
 full	O

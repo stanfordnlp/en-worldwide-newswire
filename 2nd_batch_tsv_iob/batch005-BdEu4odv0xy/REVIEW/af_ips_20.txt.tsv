@@ -720,9 +720,9 @@ fifth	O
 session	O
 of	O
 the	O
-UN	B-Misc	B-Organization
-Environment	I-Misc
-Assembly	I-Misc
+UN	B-Organization	B-Organization
+Environment	I-Organization
+Assembly	I-Organization
 ,	O
 which	O
 took	O
@@ -851,9 +851,9 @@ online	O
 participants	O
 from	O
 175	O
-UN	B-Misc	B-Organization
-Member	I-Misc
-States	I-Misc
+UN	B-Organization	B-Organization
+Member	I-Organization
+States	I-Organization
 ,	O
 including	O
 79	O

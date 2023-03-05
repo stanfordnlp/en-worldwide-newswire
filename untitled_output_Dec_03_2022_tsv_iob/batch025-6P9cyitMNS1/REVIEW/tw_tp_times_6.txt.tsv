@@ -65,11 +65,11 @@ s	O
 (	O
 TRA	B-Organization
 )	O
-Mountain	B-Misc
-and	I-Misc
-Western	I-Misc
-Trunk	I-Misc
-lines	I-Misc
+Mountain	B-Location
+and	I-Location
+Western	I-Location
+Trunk	I-Location
+lines	O
 on	O
 the	O
 west	O

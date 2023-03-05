@@ -184,9 +184,9 @@ state	O
 ,	O
 ”	O
 the	O
-US	B-Misc	B-Location
-Seventh	I-Misc
-Fleet	I-Misc
+US	B-Organization	B-Location
+Seventh	I-Organization
+Fleet	I-Organization
 said	O
 in	O
 a	O
@@ -348,9 +348,9 @@ Strait	I-Location
 ,	O
 ”	O
 the	O
-Eastern	B-Misc
-Theatre	I-Misc
-Command	I-Misc
+Eastern	B-Organization
+Theatre	I-Organization
+Command	I-Organization
 said	O
 in	O
 a	O

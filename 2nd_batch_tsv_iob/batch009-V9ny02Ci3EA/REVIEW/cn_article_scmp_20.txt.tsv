@@ -5,9 +5,9 @@ pgtype	O
 homepage	O
 
 The	O
-Shanghai	B-Misc	B-Location
-Stock	I-Misc
-Exchange	I-Misc
+Shanghai	B-Organization	B-Location
+Stock	I-Organization
+Exchange	I-Organization
 is	O
 set	O
 to	O
@@ -27,7 +27,7 @@ stocks	O
 listed	O
 on	O
 its	O
-Nasdaq	B-Misc
+Nasdaq	B-Organization
 -	O
 like	O
 technology	O
@@ -458,9 +458,9 @@ months	O
 .	O
 
 The	O
-Shanghai	B-Misc	B-Location
-Stock	I-Misc
-Exchange	I-Misc
+Shanghai	B-Organization	B-Location
+Stock	I-Organization
+Exchange	I-Organization
 will	O
 approve	O
 the	O

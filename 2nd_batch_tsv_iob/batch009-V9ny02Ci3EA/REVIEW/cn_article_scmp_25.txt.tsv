@@ -512,9 +512,9 @@ Communist	B-Organization	B-NORP
 Party	I-Organization
 ’	O
 s	O
-China	B-Misc	B-Location
-Youth	I-Misc
-Daily	I-Misc
+China	B-Organization	B-Location
+Youth	I-Organization
+Daily	I-Organization
 in	O
 March	B-Misc
 of	O

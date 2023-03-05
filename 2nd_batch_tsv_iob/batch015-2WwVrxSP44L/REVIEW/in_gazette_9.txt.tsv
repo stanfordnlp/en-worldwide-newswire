@@ -43,16 +43,16 @@ The	O
 session	O
 of	O
 the	O
-UN	B-Misc	B-Organization
-Commission	I-Misc
-on	I-Misc
-the	I-Misc
-Status	I-Misc
-of	I-Misc
-Women	I-Misc
-(	I-Misc
-CSW	I-Misc
-)	I-Misc
+UN	B-Organization	B-Organization
+Commission	I-Organization
+on	I-Organization
+the	I-Organization
+Status	I-Organization
+of	I-Organization
+Women	I-Organization
+(	O
+CSW	B-Organization
+)	O
 ,	O
 is	O
 taking	O

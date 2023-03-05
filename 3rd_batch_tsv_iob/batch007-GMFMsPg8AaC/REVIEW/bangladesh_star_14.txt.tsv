@@ -284,9 +284,9 @@ murder	O
 Later	O
 ,	O
 a	O
-RAB	B-Misc
--	O
-4	O
+RAB	B-Organization
+-	I-Organization
+4	I-Organization
 team	O
 detained	O
 neighbours	O

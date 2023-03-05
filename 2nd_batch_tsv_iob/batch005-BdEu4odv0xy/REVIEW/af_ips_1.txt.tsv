@@ -987,8 +987,8 @@ reneged	O
 on	O
 their	O
 2005	B-Misc
-Gleneagles	B-Misc	B-Organization
-pledge	I-Misc
+Gleneagles	B-Misc	
+pledge	O
 –	O
 to	O
 give	O

@@ -95,10 +95,10 @@ grieve	O
 ,	O
 ”	O
 says	O
-Vuntut	B-NORP
-Gwitchin	I-NORP
-First	I-NORP
-Nation	I-NORP
+Vuntut	B-Organization	B-NORP
+Gwitchin	I-Organization	I-NORP
+First	I-Organization
+Nation	I-Organization
 citizen	O
 Yudii	B-Person
 Mercredi	I-Person
@@ -113,8 +113,8 @@ hip	O
 -	O
 hop	O
 duo	O
-Vision	B-Misc
-Quest	I-Misc
+Vision	B-Organization
+Quest	I-Organization
 ,	O
 who	O
 will	O

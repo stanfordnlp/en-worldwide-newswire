@@ -24,9 +24,7 @@ A	O
 bill	O
 ensuring	O
 two	O
-Ng	B-NORP
-ā	I-NORP
-i	I-NORP
+Ngāi	B-NORP
 Tahu	I-NORP
 members	O
 sit	O
@@ -105,9 +103,7 @@ means	O
 the	O
 iwi	B-NORP
 's	O
-r	B-Organization
-ū	I-Organization
-nanga	I-Organization
+rūnanga	B-Organization
 can	O
 appoint	O
 two	O

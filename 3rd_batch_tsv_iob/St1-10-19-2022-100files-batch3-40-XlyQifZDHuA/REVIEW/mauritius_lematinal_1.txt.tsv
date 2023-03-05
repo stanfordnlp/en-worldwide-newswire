@@ -616,8 +616,8 @@ take	O
 off	O
 of	O
 the	O
-Dornier	B-Product	B-Organization
-aircraft	I-Product
+Dornier	B-Organization
+aircraft	O
 became	O
 a	O
 challenging	O
@@ -1594,12 +1594,12 @@ the	O
 United	B-Misc	B-Organization
 Nations	I-Misc	I-Organization
 Convention	I-Misc
-on	O
-the	O
-Law	O
-of	O
-the	O
-Sea	O
+on	I-Misc
+the	I-Misc
+Law	I-Misc
+of	I-Misc
+the	I-Misc
+Sea	I-Misc
 .	O
 ”	O
 

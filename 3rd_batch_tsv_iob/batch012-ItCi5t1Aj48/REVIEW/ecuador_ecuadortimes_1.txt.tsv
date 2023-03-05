@@ -128,8 +128,8 @@ Colombian	B-NORP
 subsidiary	O
 of	O
 the	O
-British	B-NORP
-JLT	B-Organization
+British	B-Organization	B-NORP
+JLT	I-Organization
 and	O
 the	O
 reinsurance	O

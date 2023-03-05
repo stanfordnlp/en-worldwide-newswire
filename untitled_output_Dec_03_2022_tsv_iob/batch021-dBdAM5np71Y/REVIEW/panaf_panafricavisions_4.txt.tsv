@@ -806,9 +806,9 @@ Afreximbank	B-Organization
 alongside	O
 initiatives	O
 like	O
-Team	B-Misc
-Energy	I-Misc
-Africa	I-Misc	B-Location
+Team	B-Organization
+Energy	I-Organization
+Africa	I-Organization	B-Location
 –	O
 aimed	O
 at	O

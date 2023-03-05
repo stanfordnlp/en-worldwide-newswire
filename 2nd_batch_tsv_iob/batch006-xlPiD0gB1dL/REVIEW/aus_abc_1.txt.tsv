@@ -161,7 +161,7 @@ reasons	O
 for	O
 enshrining	O
 a	O
-Voice	O
+Voice	B-Organization
 into	O
 the	O
 Constitution	O
@@ -682,7 +682,7 @@ may	O
 make	O
 representations	O
 to	O
-Parliament	O
+Parliament	B-Organization
 and	O
 the	O
 Executive	B-Organization
@@ -757,9 +757,9 @@ to	O
 deliver	O
 on	O
 a	O
-Voice	B-Misc
-to	I-Misc
-Parliament	I-Misc
+Voice	B-Organization
+to	I-Organization
+Parliament	I-Organization
 ?	O
 
 Professor	O
@@ -773,9 +773,9 @@ legislative	O
 version	O
 of	O
 a	O
-Voice	B-Misc
-to	I-Misc
-Parliament	I-Misc
+Voice	B-Organization
+to	I-Organization
+Parliament	I-Organization
 ,	O
 which	O
 has	O
@@ -783,8 +783,8 @@ been	O
 addressed	O
 in	O
 a	O
-Indigenous	B-Misc
-Voice	I-Misc
+Indigenous	B-Organization
+Voice	I-Organization
 discussion	O
 paper	O
 by	O

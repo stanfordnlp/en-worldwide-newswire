@@ -626,10 +626,10 @@ Custody	I-Misc
 and	O
 the	O
 1997	B-Misc
-Bringing	O
-them	O
-Home	O
-Report	O
+Bringing	B-Misc
+them	I-Misc
+Home	I-Misc
+Report	I-Misc
 implemented	O
 by	O
 the	O

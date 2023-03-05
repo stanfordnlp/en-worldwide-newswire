@@ -25,12 +25,12 @@ landscape	O
 according	O
 to	O
 the	O
-National	B-Misc
-Institutional	I-Misc
-Ranking	I-Misc
-Framework	I-Misc
+National	B-Organization
+Institutional	I-Organization
+Ranking	I-Organization
+Framework	I-Organization
 (	O
-NIRF	B-Misc
+NIRF	B-Organization
 )	O
 2022	B-Misc
 released	O
@@ -231,7 +231,7 @@ In	O
 a	O
 way	O
 ,	O
-NIRF	B-Misc
+NIRF	B-Organization
 is	O
 also	O
 helping	O
@@ -273,7 +273,7 @@ placed	O
 second	O
 in	O
 the	O
-NIRF	B-Misc
+NIRF	B-Organization
 rankings	O
 like	O
 last	O
@@ -670,7 +670,7 @@ factored	O
 in	O
 while	O
 preparing	O
-NIRF	B-Misc
+NIRF	B-Organization
 are	O
 teaching	O
 ,	O
@@ -762,7 +762,7 @@ international	O
 faculty	O
 )	O
 ,	O
-NIRF	B-Misc
+NIRF	B-Organization
 relies	O
 on	O
 ranking	O
@@ -852,7 +852,7 @@ have	O
 NAAC	B-Organization
 grading	O
 or	O
-NIRF	B-Misc
+NIRF	B-Organization
 ranking	O
 will	O
 be	O
@@ -890,7 +890,7 @@ that	O
 from	O
 next	O
 year	O
-NIRF	B-Misc
+NIRF	B-Organization
 ranking	O
 categories	O
 will	O

@@ -153,8 +153,8 @@ which	O
 was	O
 labeled	O
 the	O
-Nicaraguan	B-NORP
-Catholic	B-Organization	B-NORP
+Nicaraguan	B-Organization	B-NORP
+Catholic	I-Organization	B-NORP
 Church	I-Organization
 as	O
 an	O

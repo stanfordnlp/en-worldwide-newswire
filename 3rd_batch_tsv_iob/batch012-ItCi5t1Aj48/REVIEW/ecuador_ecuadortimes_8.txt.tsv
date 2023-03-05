@@ -20,12 +20,12 @@ are	O
 the	O
 American	B-NORP
 brands	O
-Michael	B-Product
-Kors	I-Product
+Michael	B-Organization
+Kors	I-Organization
 and	O
-Polo	B-Product
-Ralph	I-Product
-Lauren	I-Product
+Polo	B-Organization
+Ralph	I-Organization
+Lauren	I-Organization
 .	O
 
 Both	O

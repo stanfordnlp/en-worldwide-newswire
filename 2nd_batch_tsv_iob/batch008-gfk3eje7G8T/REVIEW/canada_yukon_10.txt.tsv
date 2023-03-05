@@ -264,9 +264,9 @@ approaches	O
 collaboration	O
 with	O
 other	O
-Yukon	B-Location
-First	B-NORP
-Nations	I-NORP
+Yukon	B-Organization	B-Location
+First	I-Organization	B-NORP
+Nations	I-Organization	I-NORP
 and	O
 orders	O
 of	O

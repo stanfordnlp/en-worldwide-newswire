@@ -2096,11 +2096,11 @@ an	O
 Imperial	B-Organization
 Japanese	I-Organization	B-NORP
 Navy	I-Organization
-Kairyu	B-Product
--	I-Product
-class	I-Product
-midget	I-Product
-submarine	I-Product
+Kairyu	B-Misc
+-	O
+class	O
+midget	O
+submarine	O
 off	O
 the	O
 coast	O

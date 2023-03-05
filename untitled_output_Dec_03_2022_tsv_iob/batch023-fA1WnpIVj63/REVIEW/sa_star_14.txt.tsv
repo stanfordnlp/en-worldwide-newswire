@@ -166,9 +166,9 @@ you	O
 go	O
 to	O
 the	O
-Johannesburg	B-Misc	B-Location
-Stock	I-Misc
-Exchange	I-Misc
+Johannesburg	B-Organization	B-Location
+Stock	I-Organization
+Exchange	I-Organization
 ,	O
 they	O
 are	O

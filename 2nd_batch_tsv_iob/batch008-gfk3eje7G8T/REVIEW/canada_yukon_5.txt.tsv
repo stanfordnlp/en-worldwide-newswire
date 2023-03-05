@@ -138,9 +138,9 @@ newly	O
 formed	O
 business	O
 ,	O
-Kaska	B-NORP
-Dena	I-NORP
-Designs	O
+Kaska	B-Organization	B-NORP
+Dena	I-Organization	I-NORP
+Designs	I-Organization
 ,	O
 can	O
 hardly	O

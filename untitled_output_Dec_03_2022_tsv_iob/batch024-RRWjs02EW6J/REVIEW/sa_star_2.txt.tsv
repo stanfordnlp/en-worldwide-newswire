@@ -574,10 +574,10 @@ Latib	B-Person
 said	O
 .	O
 
-MMC	O
-for	O
-Economic	B-Misc
-Development	I-Misc
+MMC	B-Organization
+for	I-Organization
+Economic	I-Organization	
+Development	I-Organization
 Nkululeko	B-Person
 Mbundu	I-Person
 said	O

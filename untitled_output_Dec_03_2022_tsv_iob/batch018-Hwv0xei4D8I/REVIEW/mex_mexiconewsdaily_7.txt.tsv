@@ -1178,9 +1178,9 @@ senior	O
 officer	O
 at	O
 the	O
-UN	B-Misc	B-Organization
-Environment	I-Misc
-Program	I-Misc
+UN	B-Organization
+Environment	I-Organization
+Program	I-Organization
 and	O
 the	O
 former	O

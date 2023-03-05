@@ -365,11 +365,11 @@ co	O
 director	O
 of	O
 the	O
-African	B-Misc	B-NORP
-Leadership	I-Misc
-in	I-Misc
-Vaccinology	I-Misc
-Expertise	I-Misc
+African	B-Organization	B-NORP
+Leadership	I-Organization
+in	I-Organization
+Vaccinology	I-Organization
+Expertise	I-Organization
 ,	O
 Professor	O
 Shabir	B-Person

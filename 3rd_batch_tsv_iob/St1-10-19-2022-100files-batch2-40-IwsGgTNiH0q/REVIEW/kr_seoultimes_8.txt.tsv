@@ -66,8 +66,8 @@ principal	O
 secretary	O
 of	O
 the	O
-Indian	B-NORP
-State	O
+Indian	B-Organization	B-NORP
+State	I-Organization
 .	O
 
 The	O

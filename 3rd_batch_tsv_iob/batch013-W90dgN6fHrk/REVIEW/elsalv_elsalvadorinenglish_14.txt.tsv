@@ -20,9 +20,9 @@ Catholic	B-Organization	B-NORP
 School	I-Organization
 Center	O
 ‹‹	O
-Corazón	B-Misc
-de	I-Misc
-María	I-Misc
+Corazón	B-Organization
+de	I-Organization
+María	I-Organization
 ››	O
 ,	O
 in	O

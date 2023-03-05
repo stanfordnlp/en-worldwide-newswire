@@ -114,8 +114,8 @@ a	O
 report	O
 emerged	O
 that	O
-US	B-Location
-House	O
+US	B-Organization	B-Location
+House	I-Organization
 Speaker	O
 Nancy	B-Person
 Pelosi	I-Person

@@ -1,9 +1,9 @@
 https://www.aptnnews.ca/national-news/iqaluit-residents-say-fuel-odour-has-returned-to-their-tap-water/	O
 
 The	O
-City	O
-of	O
-Iqaluit	B-Location
+City	B-Location
+of	I-Location
+Iqaluit	I-Location	B-Location
 says	O
 trace	O
 amounts	O
@@ -131,10 +131,10 @@ in	O
 the	O
 Facebook	B-Organization
 group	O
-Iqaluit	B-Misc	B-Location
-Public	I-Misc
-Service	I-Misc
-Announcements	I-Misc
+Iqaluit	B-Organization	B-Location
+Public	I-Organization
+Service	I-Organization
+Announcements	I-Organization
 Thursday	B-Misc
 night	O
 .	O

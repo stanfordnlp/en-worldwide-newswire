@@ -8,10 +8,10 @@ incident	O
 weighing	O
 heavily	O
 on	O
-Vuntut	B-NORP
-Gwitchin	I-NORP
-First	I-NORP
-Nation	I-NORP
+Vuntut	B-Organization	B-NORP
+Gwitchin	I-Organization	I-NORP
+First	I-Organization		
+Nation	I-Organization
 Chief	O
 Dana	B-Person
 Tizya	I-Person

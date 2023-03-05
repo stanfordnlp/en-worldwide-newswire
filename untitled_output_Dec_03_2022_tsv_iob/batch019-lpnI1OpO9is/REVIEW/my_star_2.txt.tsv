@@ -572,11 +572,11 @@ right	O
 foot	O
 .	O
 –	O
-The	B-Misc
-Straits	I-Misc
-Times	I-Misc
-/	I-Misc
-Asia	I-Misc
-News	I-Misc
-Network	I-Misc
+The	B-Organization
+Straits	I-Organization
+Times	I-Organization
+/	O
+Asia	B-Organization
+News	I-Organization
+Network	I-Organization
 

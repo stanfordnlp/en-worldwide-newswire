@@ -48,12 +48,12 @@ media	O
 and	O
 interviews	O
 with	O
-Women	B-Misc
-’	I-Misc
-s	I-Misc
-Wear	I-Misc
-Daily	I-Misc
-Korea	I-Misc	B-Location
+Women	B-Organization
+’	I-Organization
+s	I-Organization
+Wear	I-Organization
+Daily	I-Organization
+Korea	I-Organization	B-Location
 ,	O
 the	O
 trio	O
@@ -128,8 +128,8 @@ all	O
 ,	O
 as	O
 some	O
-SM	B-NORP	B-Organization
-Rookies	I-NORP
+SM	B-Organization	B-Organization
+Rookies	I-Organization
 haven	O
 ’	O
 t	O
