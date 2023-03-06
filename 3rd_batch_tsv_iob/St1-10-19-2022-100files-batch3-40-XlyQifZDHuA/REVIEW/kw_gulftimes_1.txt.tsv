@@ -443,8 +443,8 @@ second	O
 race	O
 in	O
 the	O
-World	O
-Cup	O
+World	B-Misc
+Cup	I-Misc
 .	O
 My	O
 first	O

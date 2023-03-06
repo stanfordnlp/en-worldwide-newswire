@@ -60,11 +60,11 @@ Thailand	B-Location
 .	O
 
 The	O
-Pak	O
-Chong	O
--	O
-Khao	O
-Yai	O
+Pak	B-Misc
+Chong	I-Misc
+-	I-Misc
+Khao	I-Misc
+Yai	I-Misc
 cultivar	O
 ,	O
 a	O
@@ -72,8 +72,8 @@ variety	O
 of	O
 the	O
 popular	O
-Mon	O
-Thong	O
+Mon	B-Misc
+Thong	I-Misc
 strain	O
 grown	O
 in	O
@@ -157,11 +157,11 @@ Thailand	I-Organization	B-Location
 .	O
 
 The	O
-Pak	O
-Chong	O
--	O
-Khao	O
-Yai	O
+Pak	B-Misc
+Chong	I-Misc
+-	I-Misc
+Khao	I-Misc
+Yai	I-Misc
 variety	O
 was	O
 approved	O

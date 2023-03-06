@@ -172,7 +172,7 @@ rule	O
 in	O
 the	O
 former	O
-Soviet	O
+Soviet	B-NORP
 satellite	O
 state	O
 .	O

@@ -9,8 +9,8 @@ find	O
 an	O
 extra	O
 few	O
-hundred	O
-dollars	O
+hundred	B-Money
+dollars	I-Money
 a	O
 month	O
 to	O
@@ -20,8 +20,8 @@ mortgage	O
 ,	O
 after	O
 the	O
-Reserve	O
-Bank	O
+Reserve	B-Organization
+Bank	I-Organization
 hiked	O
 up	O
 interest	O

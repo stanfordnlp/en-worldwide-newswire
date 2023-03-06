@@ -300,7 +300,7 @@ like	O
 grip	O
 of	O
 conservative	O
-Maulanas	O
+Maulanas	B-NORP
 .	O
 The	O
 extreme	O
@@ -364,7 +364,7 @@ in	O
 the	O
 name	O
 of	O
-Islam	O
+Islam	B-Misc
 provide	O
 much	O
 needed	O
@@ -868,7 +868,7 @@ cut	O
 in	O
 accordance	O
 with	O
-Islamic	O
+Islamic	B-NORP
 laws	O
 and	O
 although	O
@@ -1241,7 +1241,7 @@ March	I-Misc
 as	O
 “	O
 Combat	O
-Islamophobia	B-Misc
+Islamophobia	O
 ’	O
 day	O
 .	O

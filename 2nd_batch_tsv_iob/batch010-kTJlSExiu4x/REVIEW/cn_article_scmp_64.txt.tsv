@@ -180,8 +180,8 @@ s	O
 Belt	B-Misc
 and	I-Misc
 Road	I-Misc
-infrastructure	I-Misc
-initiative	I-Misc
+infrastructure	O
+initiative	O
 ,	O
 the	O
 bridge	O
@@ -241,9 +241,9 @@ that	O
 connects	O
 with	O
 other	O
-Belt	O
-and	O
-Road	O
+Belt	B-Misc
+and	I-Misc
+Road	I-Misc
 projects	O
 and	O
 will	O

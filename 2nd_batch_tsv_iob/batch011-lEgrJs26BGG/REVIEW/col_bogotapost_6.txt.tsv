@@ -436,9 +436,9 @@ it	O
 also	O
 elected	O
 an	O
-Afro	O
--	O
-Colombian	B-NORP
+Afro	B-NORP
+-	I-NORP
+Colombian	I-NORP	B-NORP
 woman	O
 to	O
 the	O
@@ -525,7 +525,7 @@ race	O
 ,	O
 a	O
 devout	O
-catholic	O
+catholic	B-NORP
 and	O
 –	O
 until	O

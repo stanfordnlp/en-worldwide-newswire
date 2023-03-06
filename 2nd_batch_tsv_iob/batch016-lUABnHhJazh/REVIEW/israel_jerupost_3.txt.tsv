@@ -287,10 +287,10 @@ textbooks	O
 In	O
 the	O
 "	O
-Citizenship	O
-and	O
-Social	O
-Studies	O
+Citizenship	B-Misc
+and	I-Misc
+Social	I-Misc
+Studies	I-Misc
 "	O
 textbook	O
 for	O
@@ -483,9 +483,9 @@ Another	O
 textbook	O
 ,	O
 "	O
-Sciences	O
-and	O
-Life	O
+Sciences	B-Misc
+and	I-Misc
+Life	I-Misc
 "	O
 for	O
 fifth	O
@@ -524,8 +524,8 @@ Palestine	B-Location
 
 A	O
 "	O
-Social	O
-Studies	O
+Social	B-Misc
+Studies	I-Misc
 "	O
 textbook	O
 for	O

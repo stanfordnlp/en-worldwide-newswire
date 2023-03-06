@@ -947,7 +947,7 @@ near	O
 300	B-Money
 pesos	I-Money
 per	O
-greenback	O
+greenback	B-Money
 and	O
 the	O
 ruling	O

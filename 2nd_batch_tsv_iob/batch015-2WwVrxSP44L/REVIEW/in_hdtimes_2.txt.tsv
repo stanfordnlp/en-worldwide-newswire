@@ -51,7 +51,7 @@ With	O
 four	O
 cases	O
 of	O
-monkeypox	O
+monkeypox	B-Misc
 confirmed	O
 across	O
 the	O
@@ -145,7 +145,7 @@ Apollo	I-Facility
 Hospital	I-Facility
 ,	O
 said	O
-monkeypox	O
+monkeypox	B-Misc
 is	O
 known	O
 to	O

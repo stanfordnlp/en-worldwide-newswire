@@ -243,8 +243,8 @@ and	O
 safeguards	O
 of	O
 the	O
-IT	O
-Rules	O
+IT	B-Misc
+Rules	I-Misc
 2009	B-Misc
 require	O
 the	O
@@ -254,7 +254,7 @@ be	O
 recorded	O
 and	O
 since	O
-Twitter	O
+Twitter	B-Organization
 will	O
 be	O
 answerable	O

@@ -656,8 +656,8 @@ Labor	B-Organization
 about	O
 justice	O
 for	O
-First	O
-Nations	O
+First	B-NORP
+Nations	I-NORP
 people	O
 ,	O
 ”	O

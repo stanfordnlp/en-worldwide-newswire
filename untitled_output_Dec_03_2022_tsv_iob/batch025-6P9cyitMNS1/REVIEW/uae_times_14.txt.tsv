@@ -181,9 +181,9 @@ off	O
 government	O
 funds	O
 worth	O
-millions	O
-of	O
-dollars	O
+millions	B-Money
+of	I-Money
+dollars	I-Money
 .	O
 
 Court	O

@@ -85,11 +85,11 @@ the	O
 feature	O
 film	O
 ”	O
-Black	O
-Panther	O
-:	O
-Wakanda	O
-forever	O
+Black	B-Misc
+Panther	I-Misc
+:	I-Misc
+Wakanda	I-Misc
+forever	I-Misc
 “	O
 ,	O
 which	O

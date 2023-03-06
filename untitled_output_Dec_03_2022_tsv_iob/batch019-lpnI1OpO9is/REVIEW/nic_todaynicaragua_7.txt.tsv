@@ -354,12 +354,12 @@ the	O
 approval	O
 of	O
 the	O
-Law	O
-for	O
-the	O
-Regulation	O
-of	O
-Foreign	B-Misc
+Law	B-Misc
+for	I-Misc
+the	I-Misc
+Regulation	I-Misc
+of	I-Misc
+Foreign	I-Misc
 Agents	I-Misc
 and	O
 declared	O
@@ -430,7 +430,7 @@ US	B-Money	B-Location
 $	I-Money
 25.5	I-Money
 million	I-Money
-dollars	O
+dollars	I-Money
 to	O
 benefit	O
 550,000	O
@@ -447,7 +447,7 @@ country	O
 
 Almost	O
 250	O
-Nicaraguan	O
+Nicaraguan	B-NORP
 NGOs	O
 have	O
 been	O

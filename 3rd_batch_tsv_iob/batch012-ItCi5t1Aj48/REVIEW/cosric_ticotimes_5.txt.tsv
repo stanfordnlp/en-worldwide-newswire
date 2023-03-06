@@ -10,8 +10,8 @@ the	O
 first	O
 case	O
 of	O
-simian	O
-smallpox	O
+simian	B-Misc
+smallpox	I-Misc
 ,	O
 a	O
 34	O
@@ -113,7 +113,7 @@ his	O
 tonsils	O
 compatible	O
 with	O
-monkeypox	O
+monkeypox	B-Misc
 .	O
 
 Therefore	O

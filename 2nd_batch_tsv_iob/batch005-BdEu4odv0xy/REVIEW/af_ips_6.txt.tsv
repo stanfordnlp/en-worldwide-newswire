@@ -204,7 +204,7 @@ the	O
 GBF	B-Misc
 .	O
 
-Indigenous	O
+Indigenous	B-NORP
 communities	O
 worry	O
 that	O
@@ -343,7 +343,7 @@ deal	O
 for	O
 nature	O
 
-Indigenous	O
+Indigenous	B-NORP
 groups	O
 are	O
 calling	O
@@ -430,7 +430,7 @@ post	O
 framework	O
 ,	O
 ”	O
-Indigenous	O
+Indigenous	B-NORP
 lawyer	O
 and	O
 global	O
@@ -651,7 +651,7 @@ genetic	O
 diversity	O
 .	O
 
-Indigenous	O
+Indigenous	B-NORP
 leaders	O
 say	O
 the	O
@@ -725,7 +725,7 @@ and	O
 restored	O
 by	O
 [	O
-Indigenous	O
+Indigenous	B-NORP
 peoples	O
 and	O
 local	O
@@ -865,10 +865,10 @@ peoples	O
 Nature	O
 managed	O
 by	O
-Indigenous	B-Organization
-Peoples	I-Organization
-and	I-Organization
-Local	I-Organization
+Indigenous	B-NORP
+Peoples	I-NORP
+and	O
+Local	B-Organization
 Communities	I-Organization
 is	O
 under	O
@@ -895,10 +895,10 @@ developed	O
 and	O
 used	O
 by	O
-Indigenous	B-Organization
-Peoples	I-Organization
-and	I-Organization
-Local	I-Organization
+Indigenous	B-NORP
+Peoples	I-NORP
+and	O
+Local	B-Organization
 Communities	I-Organization
 show	O
 the	O
@@ -950,8 +950,8 @@ which	O
 large	O
 concentrations	O
 of	O
-Indigenous	O
-Peoples	O
+Indigenous	B-NORP
+Peoples	I-NORP
 and	O
 many	O
 of	O

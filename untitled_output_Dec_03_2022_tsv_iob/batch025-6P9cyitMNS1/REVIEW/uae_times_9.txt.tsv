@@ -66,9 +66,9 @@ high	O
 demand	O
 for	O
 the	O
-million	O
--	O
-dirham	O
+million	B-Money
+-	I-Money
+dirham	I-Money
 fund	O
 in	O
 the	O
@@ -1091,8 +1091,8 @@ fuel	O
 price	O
 increases	O
 over	O
-Dh	O
-2.1	O
+Dh	B-Money
+2.1	I-Money
 per	O
 litre	O
 .	O

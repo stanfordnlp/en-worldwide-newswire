@@ -1214,7 +1214,7 @@ forbade	O
 employment	O
 discrimination	O
 towards	O
-Indians	O
+Indians	B-NORP
 born	O
 in	O
 the	O
@@ -1799,7 +1799,7 @@ we	O
 can	O
 extrapolate	O
 that	O
-Indians	O
+Indians	B-NORP
 are	O
 successful	O
 in	O
@@ -2057,7 +2057,7 @@ whereas	O
 Bhownaggree	B-Person
 believed	O
 that	O
-British	O
+British	B-NORP
 rule	O
 was	O
 best	O
@@ -2190,7 +2190,7 @@ for	O
 the	O
 rights	O
 of	O
-Indians	O
+Indians	B-NORP
 living	O
 under	O
 British	B-NORP
@@ -2267,7 +2267,7 @@ However	O
 unlike	O
 those	O
 early	O
-Indians	O
+Indians	B-NORP
 ,	O
 current	O
 British	B-NORP
@@ -3256,7 +3256,7 @@ a	O
 theory	O
 in	O
 which	O
-Indians	O
+Indians	B-NORP
 would	O
 always	O
 be	O
@@ -4125,7 +4125,7 @@ in	O
 opportunities	O
 offered	O
 to	O
-Indians	O
+Indians	B-NORP
 born	O
 in	O
 the	O
@@ -4607,7 +4607,7 @@ non	O
 -	O
 UK	B-Location
 born	O
-Indians	O
+Indians	B-NORP
 earn	O
 4	O
 per	O
@@ -5278,7 +5278,7 @@ a	O
 campaign	O
 video	O
 in	O
-Hindi	O
+Hindi	B-NORP
 on	O
 behalf	O
 of	O

@@ -91,9 +91,9 @@ by	O
 Americans	B-NORP
 as	O
 a	O
-Mexican	B-NORP
-Independence	O
-Day	O
+Mexican	B-Misc	B-NORP
+Independence	I-Misc
+Day	I-Misc
 .	O
 
 The	O
@@ -269,7 +269,7 @@ resources	O
 As	O
 some	O
 6,000	O
-French	O
+French	B-NORP
 troops	O
 and	O
 2,000	O
@@ -526,7 +526,7 @@ new	O
 emperor	O
 faced	O
 stiff	O
-Liberal	O
+Liberal	B-NORP
 opposition	O
 .	O
 Though	O

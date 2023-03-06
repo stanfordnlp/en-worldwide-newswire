@@ -514,7 +514,7 @@ average	O
 people	O
 into	O
 anti	O
-British	O
+British	B-NORP
 struggle	O
 ,	O
 he	O
@@ -770,7 +770,7 @@ not	O
 be	O
 safe	O
 with	O
-Hindu	B-Person
+Hindu	B-NORP
 dominated	O
 Congress	B-Organization
 ruling	O

@@ -94,8 +94,8 @@ May	B-Misc
 ,	O
 according	O
 to	O
-Tourism	O
-Analytics	O
+Tourism	B-Organization
+Analytics	I-Organization
 ,	O
 is	O
 313,548	O

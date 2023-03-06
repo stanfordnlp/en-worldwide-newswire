@@ -340,8 +340,8 @@ a	O
 net	O
 loss	O
 of	O
-S	O
-$	B-Money
+S	B-Money
+$	I-Money
 7.4	I-Money
 billion	I-Money
 for	O
@@ -824,8 +824,8 @@ October	B-Misc
 to	O
 strengthen	O
 the	O
-Singapore	B-Location
-dollar	O
+Singapore	B-Money	B-Location
+dollar	I-Money
 in	O
 a	O
 bid	O

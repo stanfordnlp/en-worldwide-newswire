@@ -534,9 +534,9 @@ meritorious	O
 service	O
 during	O
 a	O
-Prize	O
-Giving	O
-Ceremony	O
+Prize	B-Misc
+Giving	I-Misc
+Ceremony	I-Misc
 .	O
 A	O
 Souvenir	B-Organization

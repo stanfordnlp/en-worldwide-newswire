@@ -196,7 +196,7 @@ student	O
 teacher	O
 ratios	O
 ,	O
-Israeli	O
+Israeli	B-NORP
 students	O
 test	O
 poorly	O
@@ -484,9 +484,9 @@ Arab	B-NORP
 students	O
 ,	O
 but	O
-ultra	O
--	O
-Orthodox	O
+ultra	B-NORP
+-	I-NORP
+Orthodox	I-NORP
 students	O
 aren	O
 ’	O
@@ -635,7 +635,7 @@ that	O
 into	O
 account	O
 ,	O
-Israeli	O
+Israeli	B-NORP
 school	O
 spending	O
 is	O
@@ -1570,7 +1570,7 @@ and	O
 numeracy	O
 skills	O
 ,	O
-Israeli	O
+Israeli	B-NORP
 teachers	O
 rank	O
 at	O

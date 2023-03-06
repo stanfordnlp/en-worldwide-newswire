@@ -841,9 +841,9 @@ guidelines	O
 that	O
 regulate	O
 this	O
-multimillion	O
--	O
-dollar	O
+multimillion	B-Money
+-	I-Money
+dollar	I-Money
 industry	O
 .	O
 

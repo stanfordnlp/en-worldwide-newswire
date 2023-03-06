@@ -196,12 +196,12 @@ as	O
 part	O
 of	O
 the	O
-Saudi	B-NORP
-Program	O
-for	O
-Separating	O
-Conjoined	O
-Twins	O
+Saudi	B-Organization	B-NORP
+Program	I-Organization
+for	I-Organization
+Separating	I-Organization
+Conjoined	I-Organization
+Twins	I-Organization
 that	O
 included	O
 studying	O

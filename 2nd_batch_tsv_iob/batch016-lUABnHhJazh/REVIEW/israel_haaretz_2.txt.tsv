@@ -80,10 +80,10 @@ new	O
 documentary	O
 ,	O
 “	O
-Living	O
-in	O
-the	O
-Shadow	B-Misc
+Living	B-Misc
+in	I-Misc
+the	I-Misc
+Shadow	I-Misc
 of	I-Misc
 Death	I-Misc
 ,	O
@@ -1402,7 +1402,7 @@ if	O
 those	O
 murdered	O
 were	O
-Jews	O
+Jews	B-NORP
 .	O
 ”	O
 

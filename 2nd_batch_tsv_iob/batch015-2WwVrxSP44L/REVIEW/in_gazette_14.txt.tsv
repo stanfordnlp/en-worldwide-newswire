@@ -617,7 +617,7 @@ August	B-Misc
 2019	I-Misc
 ,	O
 the	O
-Indian	O
+Indian	B-NORP
 authorities	O
 have	O
 clamped	O
@@ -964,7 +964,7 @@ mandates	O
 wrote	O
 to	O
 the	O
-Indian	O
+Indian	B-NORP
 government	O
 seeking	O
 information	O

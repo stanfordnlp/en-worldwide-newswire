@@ -121,8 +121,8 @@ torn	O
 apart	O
 by	O
 the	O
-Algerian	B-NORP
-War	O
+Algerian	B-Misc	B-NORP
+War	I-Misc
 ,	O
 she	O
 played	O

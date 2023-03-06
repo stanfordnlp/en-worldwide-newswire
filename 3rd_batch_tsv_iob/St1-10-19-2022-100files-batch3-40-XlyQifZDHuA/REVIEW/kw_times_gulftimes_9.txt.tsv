@@ -93,8 +93,8 @@ British	B-NORP
 fans	O
 in	O
 the	O
-World	O
-Cup	O
+World	B-Misc
+Cup	I-Misc
 ,	O
 noting	O
 the	O

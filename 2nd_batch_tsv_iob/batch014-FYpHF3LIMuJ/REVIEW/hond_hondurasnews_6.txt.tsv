@@ -1339,9 +1339,9 @@ A	O
 good	O
 website	O
 is	O
-Honduras	B-Location
-Tourist	O
-Options	O
+Honduras	B-Product	B-Location
+Tourist	I-Product
+Options	I-Product
 for	O
 more	O
 information	O

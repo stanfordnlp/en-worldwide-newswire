@@ -657,9 +657,9 @@ in	O
 Israel	B-Location
 ’	O
 s	O
-Law	O
-of	O
-Return	O
+Law	B-Misc
+of	I-Misc
+Return	I-Misc
 ,	O
 which	O
 gives	O

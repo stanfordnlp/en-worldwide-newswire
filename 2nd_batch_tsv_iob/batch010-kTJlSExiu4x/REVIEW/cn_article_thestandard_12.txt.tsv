@@ -379,8 +379,8 @@ cue	O
 sports	O
 from	O
 the	O
-Asian	B-NORP
-Games	O
+Asian	B-Misc	B-NORP
+Games	I-Misc
 ,	O
 the	O
 World	B-Misc

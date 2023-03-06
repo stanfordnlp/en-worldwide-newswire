@@ -52,8 +52,8 @@ of	O
 diesel	O
 fuel	O
 was	O
-MNT	O
-3,380	O
+MNT	B-Money
+3,380	I-Money
 per	O
 liter	O
 during	O
@@ -66,8 +66,8 @@ However	O
 ,	O
 it	O
 is	O
-MNT	O
-4,030	O
+MNT	B-Money
+4,030	I-Money
 today	O
 ,	O
 increasing	O

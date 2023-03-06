@@ -45,8 +45,8 @@ first	O
 reports	O
 of	O
 the	O
-Statistical	O
-Yearbook	O
+Statistical	B-Misc
+Yearbook	I-Misc
 ,	O
 containing	O
 figures	O

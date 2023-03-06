@@ -34,9 +34,9 @@ authorities	O
 seizing	O
 contraband	O
 worth	O
-millions	O
-of	O
-dollars	O
+millions	B-Money
+of	I-Money
+dollars	I-Money
 in	O
 recent	O
 years	O

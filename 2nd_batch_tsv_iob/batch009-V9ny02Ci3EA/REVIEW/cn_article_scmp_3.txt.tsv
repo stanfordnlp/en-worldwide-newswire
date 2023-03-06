@@ -418,8 +418,8 @@ Han	B-Person
 Li	I-Person
 Guang	I-Person
 and	O
-Mustard	O
-Seed	O
+Mustard	B-Location
+Seed	I-Location
 by	O
 chef	O
 Gan	B-Person

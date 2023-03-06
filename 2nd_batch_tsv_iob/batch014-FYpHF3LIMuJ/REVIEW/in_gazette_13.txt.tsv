@@ -438,9 +438,9 @@ happen	O
 would	O
 not	O
 the	O
-thousands	O
-of	O
-crores	O
+thousands	B-Money
+of	I-Money
+crores	I-Money
 spent	O
 on	O
 advertising	O
@@ -787,8 +787,8 @@ set	O
 on	O
 the	O
 2024	B-Misc
-General	O
-Elections	O
+General	I-Misc
+Elections	I-Misc
 .	O
 Towards	O
 that	O

@@ -326,7 +326,7 @@ year	O
 because	O
 of	O
 the	O
-coronavirus	O
+coronavirus	B-Misc
 .	O
 
 Costa	B-Location

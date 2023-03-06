@@ -387,9 +387,9 @@ symbol	O
 associated	O
 with	O
 the	O
-church	O
-of	O
-Satan	O
+church	B-Organization
+of	I-Organization
+Satan	I-Organization
 .	O
 
 “	O
@@ -444,7 +444,7 @@ with	O
 this	O
 type	O
 of	O
-Satanic	O
+Satanic	B-NORP
 rites	O
 ,	O
 since	O
@@ -559,7 +559,7 @@ leader	O
 but	O
 from	O
 the	O
-Protestant	O
+Protestant	B-NORP
 church	O
 ,	O
 is	O

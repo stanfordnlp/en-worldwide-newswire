@@ -50,11 +50,11 @@ top	O
 officials	O
 of	O
 embezzling	O
-tens	O
-of	O
-millions	O
-of	O
-dinars	O
+tens	B-Money
+of	I-Money
+millions	I-Money
+of	I-Money
+dinars	I-Money
 .	O
 
 The	O

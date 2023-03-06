@@ -901,7 +901,7 @@ Greek	B-NORP
 Cuisine	O
 –	O
 Santorini	B-Location
-Greek	O
+Greek	B-NORP
 
 Italian	B-NORP
 Cuisine	O

@@ -495,7 +495,7 @@ was	O
 one	O
 of	O
 the	O
-Inuit	O
+Inuit	B-NORP
 extending	O
 the	O
 invitation	O
@@ -768,7 +768,7 @@ trip	O
 .	O
 
 Some	O
-Indigenous	O
+Indigenous	B-NORP
 people	O
 said	O
 they	O
@@ -899,8 +899,8 @@ the	O
 attempts	O
 at	O
 destroying	O
-Indigenous	O
-Peoples	O
+Indigenous	B-NORP
+Peoples	I-NORP
 through	O
 assimilation	O
 and	O
@@ -1143,8 +1143,8 @@ many	O
 Christians	B-NORP
 against	O
 the	O
-Indigenous	O
-Peoples	O
+Indigenous	B-NORP
+Peoples	I-NORP
 ,	O
 ”	O
 he	O

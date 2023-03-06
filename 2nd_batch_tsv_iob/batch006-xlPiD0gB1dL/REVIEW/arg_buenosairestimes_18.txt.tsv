@@ -82,7 +82,7 @@ Colombia	B-Location
 flags	O
 a	O
 social	O
-democratic	O
+democratic	B-NORP
 moderation	O
 which	O
 Buenos	B-Location

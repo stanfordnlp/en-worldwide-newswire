@@ -261,7 +261,7 @@ little	O
 .	O
 Although	O
 the	O
-Iraqi	O
+Iraqi	B-NORP
 public	O
 knows	O
 that	O
@@ -348,7 +348,7 @@ and	O
 enjoy	O
 immunity	O
 from	O
-Iraqi	O
+Iraqi	B-NORP
 courts	O
 .	O
 
@@ -2211,7 +2211,7 @@ government	O
 regulated	O
 by	O
 nominally	O
-democratic	O
+democratic	B-NORP
 rules	O
 ,	O
 wherein	O
@@ -2379,7 +2379,7 @@ will	O
 be	O
 much	O
 more	O
-democratic	O
+democratic	B-NORP
 and	O
 responsive	O
 than	O

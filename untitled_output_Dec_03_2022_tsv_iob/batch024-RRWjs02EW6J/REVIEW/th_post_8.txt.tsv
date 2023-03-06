@@ -7,7 +7,7 @@ its	O
 first	O
 case	O
 of	O
-monkeypox	O
+monkeypox	B-Misc
 ,	O
 and	O
 the	O
@@ -78,7 +78,7 @@ of	O
 its	O
 patients	O
 had	O
-monkeypox	O
+monkeypox	B-Misc
 symptoms	O
 .	O
 
@@ -147,7 +147,7 @@ that	O
 the	O
 man	O
 had	O
-monkeypox	O
+monkeypox	B-Misc
 on	O
 Tuesday	B-Misc
 .	O
@@ -213,7 +213,7 @@ s	O
 first	O
 case	O
 of	O
-monkeypox	O
+monkeypox	B-Misc
 .	O
 
 The	O
@@ -236,7 +236,7 @@ has	O
 not	O
 yet	O
 declared	O
-monkeypox	O
+monkeypox	B-Misc
 as	O
 a	O
 global	O
@@ -282,7 +282,7 @@ now	O
 more	O
 than	O
 15,000	O
-monkeypox	O
+monkeypox	B-Misc
 cases	O
 worldwide	O
 ,	O

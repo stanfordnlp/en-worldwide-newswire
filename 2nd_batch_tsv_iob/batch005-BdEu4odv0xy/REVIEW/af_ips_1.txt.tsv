@@ -1001,9 +1001,9 @@ to	O
 Africa	B-Location
 to	O
 ‘	O
-Make	O
-Poverty	O
-History	O
+Make	B-Misc
+Poverty	I-Misc
+History	I-Misc
 ’	O
 –	O
 within	O

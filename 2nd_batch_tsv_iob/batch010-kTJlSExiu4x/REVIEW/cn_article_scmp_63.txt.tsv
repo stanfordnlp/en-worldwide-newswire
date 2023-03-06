@@ -1040,10 +1040,10 @@ said	O
 that	O
 at	O
 the	O
-EU	B-Organization
--	O
-Africa	B-Location
-Summit	O
+EU	B-Misc	B-Organization
+-	I-Misc
+Africa	I-Misc	B-Location
+Summit	I-Misc
 ,	O
 “	O
 African	B-NORP
@@ -1565,14 +1565,14 @@ the	O
 Chinese	B-NORP
 -	O
 sponsored	O
-Pakistan	B-Location
-&	O
-East	B-Location
-Africa	I-Location
-Connecting	O
-Europe	B-Location
+Pakistan	B-Misc	B-Location
+&	I-Misc	O
+East	I-Misc	B-Location
+Africa	I-Misc	I-Location
+Connecting	I-Misc
+Europe	I-Misc	B-Location
 (	O
-Peace	O
+Peace	B-Misc
 )	O
 cable	O
 that	O

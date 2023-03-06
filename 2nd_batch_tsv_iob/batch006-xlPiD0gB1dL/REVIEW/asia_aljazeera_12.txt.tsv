@@ -167,8 +167,8 @@ ritual	O
 involved	O
 pulling	O
 a	O
-five	O
-rupee	O
+five	B-Money
+rupee	I-Money
 coin	O
 out	O
 of	O

@@ -90,7 +90,7 @@ has	O
 Israel	B-Location
 joined	O
 the	O
-Western	O
+Western	B-NORP
 sanctions	O
 on	O
 Russia	B-Location

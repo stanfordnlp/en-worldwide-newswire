@@ -74,7 +74,7 @@ in	O
 .	O
 The	O
 benchmark	O
-Taiex	O
+Taiex	B-Misc
 index	O
 rose	O
 45	O
@@ -120,10 +120,10 @@ wealth	O
 The	O
 complete	O
 2021	B-Misc
-Forbes	B-Organization
-Taiwan	B-Location
-Rich	O
-List	O
+Forbes	B-Misc	B-Organization
+Taiwan	I-Misc	B-Location
+Rich	I-Misc
+List	I-Misc
 can	O
 be	O
 found	O
@@ -367,7 +367,7 @@ services	O
 were	O
 the	O
 biggest	O
-dollar	O
+dollar	B-Money
 gainers	O
 with	O
 a	O

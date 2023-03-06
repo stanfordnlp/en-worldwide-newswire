@@ -796,8 +796,8 @@ to	O
 be	O
 paid	O
 with	O
-Indian	B-NORP
-rupees	O
+Indian	B-Money	B-NORP
+rupees	I-Money
 ,	O
 thereby	O
 circumventing	O

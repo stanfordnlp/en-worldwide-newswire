@@ -190,7 +190,7 @@ mission	O
 at	O
 the	O
 2018	B-Misc
-Commonwealth	I-Misc
+Commonwealth	B-Misc
 Games	I-Misc
 at	O
 the	O
@@ -395,8 +395,8 @@ know	O
 that	O
 come	O
 the	O
-2024	B-Location
-Olympics	O
+2024	B-Misc
+Olympics	B-Misc
 in	O
 Paris	B-Location
 ,	O

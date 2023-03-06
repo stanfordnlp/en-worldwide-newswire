@@ -114,7 +114,7 @@ historian	O
 of	O
 the	O
 notable	O
-Adal	O
+Adal	B-NORP
 leader	O
 Imam	B-Person
 Ahmed	I-Person
@@ -321,9 +321,9 @@ Ethiopian	B-NORP
 synaxarium	O
 ,	O
 or	O
-Lives	O
-of	O
-Saints	O
+Lives	B-Misc
+of	I-Misc
+Saints	I-Misc
 .	O
 
 A	O
@@ -586,7 +586,7 @@ now	O
 available	O
 in	O
 the	O
-Stenhouse	O
+Stenhouse	B-Person
 translation	O
 ,	O
 for	O
@@ -774,7 +774,7 @@ permanently	O
 .	O
 
 The	O
-FUTUH	O
+FUTUH	B-Misc
 then	O
 proceeds	O
 to	O

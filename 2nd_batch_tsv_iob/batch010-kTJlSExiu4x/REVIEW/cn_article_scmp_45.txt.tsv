@@ -995,10 +995,10 @@ which	O
 was	O
 seen	O
 by	O
-This	O
-Week	O
-in	O
-Asia	B-Location
+This	B-Organization
+Week	I-Organization
+in	I-Organization
+Asia	I-Organization	B-Location
 ,	O
 stipulates	O
 that	O
@@ -1206,10 +1206,10 @@ Jakarta	B-Location
 ”	O
 Suryadi	B-Person
 told	O
-This	O
-Week	O
-in	O
-Asia	B-Location
+This	B-Organization
+Week	I-Organization
+in	I-Organization
+Asia	I-Organization	B-Location
 on	O
 Tuesday	B-Misc
 .	O

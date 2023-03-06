@@ -1164,7 +1164,7 @@ wrists	O
 ,	O
 unlike	O
 the	O
-Indians	O
+Indians	B-NORP
 .	O
 Or	O
 in	O
@@ -1297,7 +1297,7 @@ distinctively	O
 different	O
 to	O
 how	O
-Indians	O
+Indians	B-NORP
 have	O
 done	O
 for	O

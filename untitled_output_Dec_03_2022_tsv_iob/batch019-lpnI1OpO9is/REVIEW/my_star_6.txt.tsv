@@ -56,8 +56,8 @@ TNG	B-Organization
 Digital	I-Organization
 has	O
 raised	O
-RM	O
-750	B-Money
+RM	B-Money
+750	I-Money
 mil	I-Money
 from	O
 its	O

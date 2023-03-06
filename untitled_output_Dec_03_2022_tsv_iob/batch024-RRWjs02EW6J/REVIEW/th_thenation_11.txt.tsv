@@ -64,7 +64,7 @@ that	O
 the	O
 withdrawal	O
 of	O
-baht	O
+baht	B-Money
 and	O
 digital	O
 assets	O
@@ -341,7 +341,7 @@ assets	O
 .	O
 And	O
 the	O
-baht	O
+baht	B-Money
 deposited	O
 in	O
 it	O
