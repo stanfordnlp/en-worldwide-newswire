@@ -39,11 +39,11 @@ Paul	B-Person
 Stenhouse	I-Person
 ’	O
 s	O
-English	B-Misc	B-NORP
-translation	I-Misc
-of	I-Misc
-the	I-Misc
-FUTUH	I-Misc
+English	B-NORP
+translation	O
+of	O
+the	O
+FUTUH	B-Misc
 AL	I-Misc
 -	I-Misc
 HABASHA	I-Misc

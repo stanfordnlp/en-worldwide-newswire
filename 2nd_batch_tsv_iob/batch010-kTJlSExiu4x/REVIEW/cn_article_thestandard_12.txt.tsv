@@ -324,11 +324,11 @@ well	O
 
 Secretary	O
 for	O
-Culture	B-Misc
-,	I-Misc
-Sports	I-Misc
-and	I-Misc
-Tourism	I-Misc
+Culture	O
+,	O
+Sports	O
+and	O
+Tourism	O
 Kevin	B-Person
 Yeung	I-Person
 Yun	I-Person

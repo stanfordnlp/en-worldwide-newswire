@@ -55,9 +55,9 @@ turn	O
 ,	O
 the	O
 Peruvian	B-NORP
-Head	B-Misc
-of	I-Misc
-State	I-Misc
+Head	O
+of	O
+State	O
 was	O
 joined	O
 by	O

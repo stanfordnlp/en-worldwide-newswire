@@ -48,9 +48,9 @@ the	O
 founders	O
 of	O
 the	O
-Klondike	B-Misc	B-Location
-gold	I-Misc
-rush	I-Misc
+Klondike	B-Location
+gold	O
+rush	O
 .	O
 
 Keish	B-Person

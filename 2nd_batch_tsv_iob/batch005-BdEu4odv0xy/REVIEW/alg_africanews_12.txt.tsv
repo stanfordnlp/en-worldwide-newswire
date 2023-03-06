@@ -299,8 +299,8 @@ a	O
 $	B-Money
 30	I-Money
 million	I-Money
-Series	B-Misc
-A	I-Misc
+Series	O
+A	O
 round	O
 capital	O
 in	O
@@ -313,8 +313,8 @@ Lechaa	I-Person
 ,	O
 is	O
 a	O
-Customer	B-Misc
-Support	I-Misc
+Customer	O
+Support	O
 employee	O
 at	O
 the	O

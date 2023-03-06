@@ -419,8 +419,8 @@ many	O
 leaders	O
 began	O
 as	O
-Indian	B-NORP	B-NORP
-nationalists	I-NORP
+Indian	B-NORP	
+nationalists	O
 and	O
 later	O
 got	O
@@ -506,7 +506,7 @@ of	O
 Non	B-Misc
 -	I-Misc
 Cooperation	I-Misc
-movement	I-Misc
+movement	O
 ,	O
 drawing	O
 the	O
@@ -598,7 +598,7 @@ the	O
 ‘	O
 Non	B-Misc
 Cooperation	I-Misc
-movement	I-Misc
+movement	O
 ’	O
 based	O
 on	O
@@ -1040,7 +1040,7 @@ picture	O
 On	O
 similar	O
 grounds	O
-Hindu	O
+Hindu	B-NORP
 nationalists	O
 present	O
 Savarkar	B-Person

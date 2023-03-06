@@ -338,12 +338,12 @@ Mirning	B-NORP
 people	O
 .	O
 
-Southern	B-Misc
-right	I-Misc
-whales	I-Misc
+Southern	O
+right	O
+whales	O
 ,	O
-Eubalaena	B-Misc
-australis	I-Misc
+Eubalaena	O
+australis	O
 ,	O
 annually	O
 migrate	O

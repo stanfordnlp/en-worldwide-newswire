@@ -316,7 +316,7 @@ source	O
 RISC	B-Product
 -	I-Product
 V	I-Product
-chip	I-Product
+chip	O
 architecture	O
 has	O
 been	O
@@ -578,9 +578,9 @@ China	B-Location
 ’s	O
 weakness	O
 in	O
-electronic	B-Product
-design	I-Product
-automation	I-Product
+electronic	O
+design	O
+automation	O
 (	O
 EDA	B-Product
 )	O
@@ -613,7 +613,7 @@ considerable	O
 lead	O
 in	O
 EDA	B-Product
-software	I-Product
+software	O
 ,	O
 which	O
 is	O

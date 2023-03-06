@@ -10,8 +10,8 @@ Xinhua	B-Organization
 )	O
 -	O
 -	O
-The	B-Misc
-Regional	I-Misc
+The	O
+Regional	B-Misc
 Comprehensive	I-Misc
 Economic	I-Misc
 Partnership	I-Misc

@@ -84,8 +84,8 @@ province	I-Location
 ,	O
 was	O
 accorded	O
-geographical	B-Misc
-indication	I-Misc
+geographical	O
+indication	O
 (	O
 GI	B-Misc
 )	O

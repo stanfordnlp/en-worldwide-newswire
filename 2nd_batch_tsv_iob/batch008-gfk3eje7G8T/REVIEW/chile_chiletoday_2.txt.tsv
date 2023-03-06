@@ -12,8 +12,8 @@ detected	O
 across	O
 central	O
 and	O
-northern	B-Location
-Chile	I-Location
+northern	O
+Chile	B-Location
 .	O
 Despite	O
 the	O
@@ -195,8 +195,8 @@ proximity	O
 to	O
 the	O
 Nazca	B-Location
-and	I-Location
-Antarctic	I-Location
+and	O
+Antarctic	B-Location
 plates	O
 .	O
 The	O

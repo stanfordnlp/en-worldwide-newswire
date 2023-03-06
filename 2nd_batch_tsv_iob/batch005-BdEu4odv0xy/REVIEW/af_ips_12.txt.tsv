@@ -1244,7 +1244,7 @@ provide	O
 weather	O
 information	O
 using	O
-SMS	B-Misc
+SMS	O
 and	O
 integrated	O
 voice	O

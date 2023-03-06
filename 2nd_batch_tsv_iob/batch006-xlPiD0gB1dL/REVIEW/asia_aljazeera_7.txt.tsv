@@ -353,8 +353,8 @@ basically	O
 illiquid	O
 .	O
 
-Early	B-Misc
-Partners	I-Misc
+Early	O
+Partners	O
 
 The	O
 family	O
@@ -959,8 +959,8 @@ in	O
 2004	B-Misc
 .	O
 
-Boardroom	B-Misc
-Coup	I-Misc
+Boardroom	O
+Coup	O
 
 Cyrus	B-Person
 became	O

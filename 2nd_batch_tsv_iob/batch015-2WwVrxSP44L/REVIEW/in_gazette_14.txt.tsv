@@ -1152,9 +1152,9 @@ Special	I-Misc
 Powers	I-Misc
 )	I-Misc
 Act	I-Misc
-(	I-Misc
-AFSPA	I-Misc
-)	I-Misc
+(	O
+AFSPA	B-Misc
+)	O
 ,	O
 which	O
 gives	O

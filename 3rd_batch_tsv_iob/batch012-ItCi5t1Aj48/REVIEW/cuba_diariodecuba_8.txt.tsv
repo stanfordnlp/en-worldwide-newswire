@@ -196,14 +196,14 @@ Stoner	I-Person
 ,	O
 Russia	B-Misc	B-Location
 Resurrected	I-Misc
-:	O
-Its	O
-Power	B-Misc
+:	I-Misc
+Its	I-Misc
+Power	I-Misc
 and	I-Misc
 Purpose	I-Misc
-in	O
-a	O
-New	B-Misc
+in	I-Misc
+a	I-Misc
+New	I-Misc
 Global	I-Misc
 Order	I-Misc
 ,	O

@@ -743,7 +743,7 @@ rising	O
 tensions	O
 with	O
 the	O
-West	O
+West	B-Organization
 ,	O
 with	O
 homosexuality	O
@@ -895,8 +895,8 @@ achieve	O
 equality	O
 by	O
 imitating	O
-the	B-NORP
-West	I-NORP
+the	O
+West	B-Organization
 ,	O
 ”	O
 Wang	B-Person
@@ -921,8 +921,8 @@ have	O
 to	O
 emphasise	O
 how	O
-the	B-NORP
-West	I-NORP
+the	O
+West	B-Organization
 is	O
 supposedly	O
 more	O

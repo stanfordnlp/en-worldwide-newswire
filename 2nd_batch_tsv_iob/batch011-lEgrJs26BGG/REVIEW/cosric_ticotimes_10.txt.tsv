@@ -334,7 +334,7 @@ a	O
 few	O
 !	O
 
-Fishing	B-Misc
+Fishing	O
 
 Coco	B-Location
 is	O
@@ -444,7 +444,7 @@ go	O
 down	O
 .	O
 
-Sailing	B-Misc
+Sailing	O
 
 The	O
 best	O
@@ -845,7 +845,7 @@ the	O
 hotel	O
 !	O
 
-Restaurants	B-Misc
+Restaurants	O
 :	O
 Where	O
 to	O

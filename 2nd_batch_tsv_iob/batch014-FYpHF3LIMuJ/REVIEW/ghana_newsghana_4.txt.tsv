@@ -136,10 +136,10 @@ agency	O
 for	O
 developing	O
 the	O
-Zongo	B-Misc	B-NORP
-and	I-Misc
-Inner	I-Misc
-cities	I-Misc
+Zongo	B-Location	B-NORP
+and	O
+Inner	O
+cities	O
 .	O
 
 Currently	O

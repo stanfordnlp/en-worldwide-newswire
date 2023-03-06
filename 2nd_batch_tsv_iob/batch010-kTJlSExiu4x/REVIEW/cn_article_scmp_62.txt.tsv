@@ -732,9 +732,9 @@ are	O
 part	O
 of	O
 the	O
-Chinese	B-Misc	B-Organization	B-NORP
-trading	I-Misc	I-Organization
-community	I-Misc	I-Organization
+Chinese	B-NORP
+trading	O
+community	O
 .	O
 ”	O
 

@@ -55,11 +55,11 @@ our	O
 Savar	B-Location
 correspondent	O
 quoting	O
-Sub	B-Misc
--	I-Misc
-Inspector	I-Misc
+Sub	O
+-	O
+Inspector	O
 (	O
-SI	B-Misc
+SI	O
 )	O
 of	O
 Ashulia	B-Facility	B-Location
@@ -309,7 +309,7 @@ the	O
 murder	O
 .	O
 
-ASI	B-Misc
+ASI	O
 Masud	B-Person
 said	O
 the	O

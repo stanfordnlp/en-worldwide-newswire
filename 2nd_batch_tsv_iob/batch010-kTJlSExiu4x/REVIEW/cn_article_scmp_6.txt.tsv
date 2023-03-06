@@ -25,7 +25,7 @@ China	B-Location
 ’s	O
 Long	B-Product
 March	I-Product
-rockets	I-Product
+rockets	O
 in	O
 a	O
 planetarium	O
@@ -85,7 +85,7 @@ the	O
 Long	B-Product
 March	I-Product
 3	I-Product
-rocket	I-Product
+rocket	O
 with	O
 the	O
 number	O

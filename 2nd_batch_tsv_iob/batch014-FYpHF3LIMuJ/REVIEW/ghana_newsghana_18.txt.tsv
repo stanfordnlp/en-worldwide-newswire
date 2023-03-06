@@ -96,9 +96,9 @@ debate	O
 on	O
 the	O
 2022	B-Misc
-Mid	I-Misc
--	I-Misc
-Year	I-Misc
+Mid	O
+-	O
+Year	O
 review	O
 budget	O
 and	O

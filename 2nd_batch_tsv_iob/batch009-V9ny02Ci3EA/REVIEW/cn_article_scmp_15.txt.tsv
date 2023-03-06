@@ -911,10 +911,10 @@ month	O
 ,	O
 the	O
 popular	O
-water	B-Misc
--	I-Misc
-splashing	I-Misc
-festival	I-Misc
+water	O
+-	O
+splashing	O
+festival	O
 of	O
 Xishuangbanna	B-Location
 was	O

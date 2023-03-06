@@ -1427,7 +1427,7 @@ produce	O
 its	O
 ­	O
 CoronaVac	B-Misc
-vaccine	I-Misc
+vaccine	O
 –	O
 Brazil	B-Location
 ’	O
@@ -1531,7 +1531,7 @@ first	O
 dismissed	O
 the	O
 CoronaVac	B-Misc
-vaccine	I-Misc
+vaccine	O
 and	O
 prevented	O
 his	O

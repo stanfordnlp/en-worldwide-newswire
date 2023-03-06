@@ -21,7 +21,7 @@ University	I-Organization
 Alvarado	B-Person
 will	O
 teach	O
-Diplomacy	B-Misc
+Diplomacy	O
 at	O
 the	O
 Faculty	B-Organization
@@ -42,9 +42,9 @@ faculty	O
 as	O
 Professor	O
 of	O
-Practice	B-Misc
-in	I-Misc
-Diplomacy	I-Misc
+Practice	O
+in	O
+Diplomacy	O
 and	O
 Senior	O
 Fellow	O

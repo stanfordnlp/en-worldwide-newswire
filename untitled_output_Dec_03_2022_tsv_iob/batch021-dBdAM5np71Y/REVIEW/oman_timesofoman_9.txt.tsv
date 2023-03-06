@@ -64,15 +64,15 @@ vital	O
 sport	O
 .	O
 
-International	B-Misc
-shooting	I-Misc
-sport	I-Misc
+International	O
+shooting	O
+sport	O
 is	O
 one	O
 of	O
 the	O
-Olympic	B-Misc
-sports	I-Misc
+Olympic	B-MISC
+sports	O
 exercised	O
 in	O
 most	O
