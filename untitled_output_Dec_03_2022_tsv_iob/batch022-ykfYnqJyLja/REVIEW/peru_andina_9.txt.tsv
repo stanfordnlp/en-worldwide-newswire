@@ -68,10 +68,10 @@ been	O
 making	O
 from	O
 President	O
-Pedro	B-Organization	B-Person
-Castillo	I-Organization	I-Person
-'s	I-Organization
-Government	I-Organization
+Pedro	B-Person
+Castillo	I-Person
+'s	O
+Government	B-Organization
 along	O
 with	O
 the	O
@@ -82,8 +82,8 @@ all	O
 tour	O
 operators	O
 in	O
-Cusco	B-Location	B-Location
-region	I-Location
+Cusco	B-Location	
+region	O
 ,	O
 seeking	O
 to	O

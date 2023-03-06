@@ -332,8 +332,8 @@ from	O
 Thanachart	B-Organization
 Bank	I-Organization
 .	O
-The	B-Organization
-Department	I-Organization
+The	O
+Department	B-Organization
 of	I-Organization
 Business	I-Organization
 Development	I-Organization

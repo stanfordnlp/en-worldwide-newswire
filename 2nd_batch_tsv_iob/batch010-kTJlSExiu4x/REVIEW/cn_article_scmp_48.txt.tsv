@@ -21,10 +21,10 @@ Jianhua	I-Person
 ,	O
 according	O
 to	O
-Ottawa	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
-embassy	I-Organization
+Ottawa	B-Location
+’	O
+s	O
+embassy	O
 in	O
 Beijing	B-Location
 .	O

@@ -321,8 +321,8 @@ Costa	B-Organization	B-NORP
 Rican	I-Organization	I-NORP
 Electricity	I-Organization
 Institute	I-Organization
-’	I-Organization
-s	I-Organization
+’	O
+s	O
 (	O
 ICE	B-Organization
 )	O

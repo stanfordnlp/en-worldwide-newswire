@@ -56,7 +56,7 @@ Shohoz	B-Organization
 and	O
 Bangladesh	B-Organization	B-Facility	B-Location
 Railway	I-Organization	I-Facility
-authorities	I-Organization
+authorities	O
 .	O
 
 Maliha	B-Person

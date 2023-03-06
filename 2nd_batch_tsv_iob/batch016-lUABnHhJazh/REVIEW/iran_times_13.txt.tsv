@@ -790,9 +790,9 @@ The	O
 Arab	B-NORP
 states	O
 are	O
-non	B-Organization
--	I-Organization
-democratic	I-Organization
+non	O
+-	O
+democratic	B-NORP
 and	O
 are	O
 ruled	O

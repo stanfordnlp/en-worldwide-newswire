@@ -798,8 +798,8 @@ Vice	O
 President	O
 of	O
 the	O
-Castro	B-Organization	B-Person
-government	I-Organization
+Castro	B-Person
+government	O
 ,	O
 went	O
 to	O

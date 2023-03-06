@@ -92,9 +92,9 @@ the	O
 ruling	O
 Communist	B-Organization	B-NORP
 Party	I-Organization
-and	I-Organization
-public	I-Organization
-office	I-Organization
+and	O
+public	O
+office	O
 for	O
 “	O
 serious	O

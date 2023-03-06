@@ -95,7 +95,7 @@ March	B-Misc
 Honduras	B-Organization	B-Location
 National	I-Organization
 Soccer	I-Organization
-team	I-Organization
+team	O
 will	O
 face	O
 off	O

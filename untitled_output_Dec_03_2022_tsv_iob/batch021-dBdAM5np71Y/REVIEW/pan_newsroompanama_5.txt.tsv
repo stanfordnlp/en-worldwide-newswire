@@ -10,10 +10,10 @@ Tuesday	B-Misc
 for	O
 another	O
 demonstration	O
-Panama	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
-Chamber	I-Organization
+Panama	B-Location
+’	O
+s	O
+Chamber	B-Organization
 of	I-Organization
 Commerce	I-Organization
 ,	I-Organization

@@ -471,11 +471,11 @@ Ghenam	I-Person
 ,	O
 Head	O
 of	O
-Heritage	B-Organization
-for	I-Organization
-Batna	I-Organization	B-Location
-'s	I-Organization
-Directorate	I-Organization
+Heritage	O
+for	O
+Batna	B-Location
+'s	O
+Directorate	B-Organization
 of	I-Organization
 Culture	I-Organization
 .	O

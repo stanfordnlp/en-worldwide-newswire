@@ -1799,10 +1799,10 @@ political	O
 science	O
 researcher	O
 from	O
-Jerusalem	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
-Hebrew	I-Organization
+Jerusalem	B-Location
+’	O
+s	O
+Hebrew	B-Organization
 University	I-Organization
 ,	O
 who	O

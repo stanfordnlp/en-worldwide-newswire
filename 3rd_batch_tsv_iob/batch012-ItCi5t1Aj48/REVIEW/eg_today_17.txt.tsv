@@ -55,15 +55,15 @@ Ashmawy	I-Person
 Vice	O
 Minister	O
 of	O
-Supply	B-Organization
-&	I-Organization
-Internal	I-Organization
-Trade	I-Organization
+Supply	O
+&	O
+Internal	O
+Trade	O
 ,	O
 Chairman	O
 of	O
 the	O
-Board	O
+Board	B-Organization
 ,	O
 Internal	B-Organization
 Trade	I-Organization
@@ -73,7 +73,7 @@ Authority	I-Organization
 Chairman	O
 of	O
 the	O
-Board	O
+Board	B-Organization
 ,	O
 Egyptian	B-Organization	B-NORP
 Mercantile	I-Organization

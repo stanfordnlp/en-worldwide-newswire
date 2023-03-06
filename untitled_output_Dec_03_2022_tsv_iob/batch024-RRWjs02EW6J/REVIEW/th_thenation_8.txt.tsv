@@ -151,9 +151,9 @@ Buri	I-Location
 Organised	O
 by	O
 the	O
-ministry	B-Organization
-and	I-Organization
-Highways	I-Organization
+ministry	O
+and	O
+Highways	B-Organization
 Department	I-Organization
 ,	O
 the	O

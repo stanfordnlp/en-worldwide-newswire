@@ -510,8 +510,8 @@ while	O
 Assistant	O
 Undersecretary	O
 for	O
-Financial	B-Organization
-Affairs	I-Organization
+Financial	O
+Affairs	O
 Youssef	B-Person
 Al	I-Person
 -	I-Person

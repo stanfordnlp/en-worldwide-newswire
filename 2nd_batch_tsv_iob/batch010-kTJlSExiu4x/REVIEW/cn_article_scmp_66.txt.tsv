@@ -502,11 +502,11 @@ director	O
 general	O
 of	O
 the	O
-foreign	B-Organization
-ministry	I-Organization
-’	I-Organization
-s	I-Organization
-department	I-Organization
+foreign	O
+ministry	O
+’	O
+s	O
+department	B-Organization
 of	I-Organization
 African	I-Organization	B-NORP
 affairs	I-Organization

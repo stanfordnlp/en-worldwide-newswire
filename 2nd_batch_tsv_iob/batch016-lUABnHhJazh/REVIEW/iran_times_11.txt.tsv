@@ -327,8 +327,8 @@ summit	O
 
 Underlining	O
 the	O
-Raisi	B-Organization	B-Person
-administration	I-Organization
+Raisi	B-Person
+administration	O
 ’	O
 s	O
 foreign	O

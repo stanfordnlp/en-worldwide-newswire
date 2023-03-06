@@ -777,8 +777,8 @@ and	O
 the	O
 Goethe	B-Organization
 Institut	I-Organization
-.	I-Organization
-Media	I-Organization
+.	O
+Media	O
 coverage	O
 in	O
 Germany	B-Location

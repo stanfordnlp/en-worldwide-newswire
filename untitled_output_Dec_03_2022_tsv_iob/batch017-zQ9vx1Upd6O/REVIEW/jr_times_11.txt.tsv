@@ -40,9 +40,9 @@ Al	B-Organization
 Balqa	I-Organization
 Applied	I-Organization
 University	I-Organization
-(	I-Organization
-BAU	I-Organization
-)	I-Organization
+(	O
+BAU	B-Organization
+)	O
 in	O
 Karak	B-Location
 and	O

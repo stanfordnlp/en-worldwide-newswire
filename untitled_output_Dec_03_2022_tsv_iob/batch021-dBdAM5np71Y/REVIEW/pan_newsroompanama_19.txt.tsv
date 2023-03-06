@@ -430,15 +430,15 @@ the	O
 IMF	B-Organization
 groups	O
 as	O
-Central	B-Organization	B-Location
-America	I-Organization	I-Location
-,	I-Organization
-Panama	I-Organization	B-Location
-,	I-Organization
-and	I-Organization
-the	I-Organization
-Dominican	I-Organization	B-Location
-Republic	I-Organization	I-Location
+Central	B-Location
+America	I-Location
+,	O
+Panama	B-Location
+,	O
+and	O
+the	O
+Dominican	B-Location
+Republic	I-Location
 (	O
 CAPRD	B-Organization
 )	O

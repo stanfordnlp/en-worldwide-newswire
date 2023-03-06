@@ -150,10 +150,7 @@ co	O
 chairs	O
 the	O
 Te	B-Organization
-R	I-Organization
-ō	I-Organization
-p	I-Organization
-ū	I-Organization
+Rōpū	I-Organization
 Tuia	I-Organization
 collective	O
 ,	O
@@ -162,9 +159,7 @@ represents	O
 the	O
 10	O
 Papatipu	O
-R	B-Organization
-ū	I-Organization
-nanga	I-Organization
+Rūnanga	B-Organization
 within	O
 the	O
 regional	O
@@ -177,8 +172,8 @@ In	O
 2010	B-Misc
 ,	O
 the	O
-National	O
-Party	O
+National	B-Organization
+Party	I-Organization
 replaced	O
 the	O
 regional	O
@@ -259,9 +254,7 @@ Parliament	B-Organization
 the	O
 bill	O
 recognised	O
-Ng	B-NORP
-ā	I-NORP
-i	I-NORP
+Ngāi	B-NORP
 Tahu	I-NORP
 's	O
 mana	O
@@ -270,10 +263,8 @@ rangatiratanga	B-Misc
 .	O
 
 "	O
-Ng	B-Location
-ā	I-Location
-i	I-Location
-Tahu	I-Location
+Ngāi	B-NORP
+Tahu	I-NORP
 are	O
 entitled	O
 to	O
@@ -411,13 +402,9 @@ name	O
 "	O
 
 Te	B-Organization
-P	I-Organization
-ā	I-Organization
-ti	I-Organization
-M	I-Organization
-ā	I-Organization
-ori	I-Organization
-co	I-Organization
+Pāti	I-Organization
+Māori	I-Organization
+co	O
 -	O
 leader	O
 Debbie	B-Person
@@ -425,9 +412,7 @@ Ngarewa	I-Person
 -	I-Person
 Packer	I-Person
 said	O
-Ng	B-NORP
-ā	I-NORP
-i	I-NORP
+Ngāi	B-NORP
 Tahu	I-NORP
 has	O
 looked	O

@@ -136,8 +136,8 @@ top	O
 supplier	O
 .	O
 
-The	B-Organization
-International	I-Organization
+The	O
+International	B-Organization
 Criminal	I-Organization
 Police	I-Organization
 Organization	I-Organization

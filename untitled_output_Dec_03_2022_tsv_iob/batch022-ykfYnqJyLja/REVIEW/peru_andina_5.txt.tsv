@@ -17,9 +17,9 @@ of	I-Organization
 the	I-Organization
 United	I-Organization	B-Organization
 Nations	I-Organization	I-Organization
-(	I-Organization
-FAO	I-Organization	B-Organization
-)	I-Organization
+(	O
+FAO	B-Organization	
+)	O
 endorsed	O
 the	O
 Peruvian	B-NORP

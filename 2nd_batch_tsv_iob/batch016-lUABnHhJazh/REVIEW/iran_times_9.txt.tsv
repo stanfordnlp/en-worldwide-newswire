@@ -79,8 +79,8 @@ as	O
 well	O
 as	O
 the	O
-Iraqi	B-Organization	B-NORP
-government	I-Organization
+Iraqi	B-NORP
+government	O
 and	O
 nation	O
 ,	O
@@ -145,14 +145,14 @@ mountain	O
 resort	O
 in	O
 the	O
-northern	B-Location
-region	I-Location
-of	I-Location
-Dohuk	I-Location
+northern	O
+region	O
+of	O
+Dohuk	B-Location
 ,	O
 the	O
-Iraqi	B-Organization	B-NORP
-government	I-Organization
+Iraqi	B-NORP
+government	O
 announced	O
 it	O
 will	O
@@ -374,8 +374,8 @@ the	O
 leader	O
 of	O
 the	O
-Sadrist	B-Organization	B-NORP
-movement	I-Organization
+Sadrist	B-NORP
+movement	O
 .	O
 
 Sadr	B-Person

@@ -345,8 +345,8 @@ category	O
 people	O
 in	O
 the	O
-Union	B-Organization
-Territory	I-Organization
+Union	B-Location
+Territory	I-Location
 .	O
 
 We	O

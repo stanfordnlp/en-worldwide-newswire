@@ -377,7 +377,7 @@ also	O
 includes	O
 the	O
 Adani	B-Organization
-company	I-Organization
+company	O
 that	O
 won	O
 the	O
@@ -409,8 +409,8 @@ Israel	B-Location
 s	O
 Elbit	B-Organization
 Systems	I-Organization
-and	I-Organization
-Alpha	I-Organization
+and	O
+Alpha	B-Organization
 Design	I-Organization
 Technologies	I-Organization
 ,	O

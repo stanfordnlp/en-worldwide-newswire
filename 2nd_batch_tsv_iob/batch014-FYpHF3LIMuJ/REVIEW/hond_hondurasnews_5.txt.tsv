@@ -182,9 +182,9 @@ party	O
 Freedom	B-Organization
 and	I-Organization
 Refoundation	I-Organization
-(	I-Organization
-Libre	I-Organization
-)	I-Organization
+(	O
+Libre	B-Organization
+)	O
 ,	O
 after	O
 another	O
@@ -401,8 +401,8 @@ his	O
 alliance	O
 with	O
 the	O
-parties	B-Organization
-Anticorruption	I-Organization
+parties	O
+Anticorruption	B-Organization
 (	O
 PAC	B-Organization
 )	O

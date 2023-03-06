@@ -293,7 +293,7 @@ Amnesty	B-Organization
 International	I-Organization
 .	O
 
-STARPICKS	B-Organization
+STARPICKS	O
 
 PERKESO	B-Organization
 LAUNCHES	O

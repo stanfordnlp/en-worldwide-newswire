@@ -681,8 +681,8 @@ are	O
 demanding	O
 consequences	O
 .	O
-The	B-Organization
-Department	I-Organization
+The	O
+Department	B-Organization
 of	I-Organization
 Public	I-Organization
 Enterprises	I-Organization

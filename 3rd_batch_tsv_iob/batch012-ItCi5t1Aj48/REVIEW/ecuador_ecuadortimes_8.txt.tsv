@@ -60,8 +60,8 @@ center	O
 and	O
 the	O
 Botris	B-Organization
-business	I-Organization
-group	I-Organization
+business	O
+group	O
 ,	O
 representative	O
 in	O

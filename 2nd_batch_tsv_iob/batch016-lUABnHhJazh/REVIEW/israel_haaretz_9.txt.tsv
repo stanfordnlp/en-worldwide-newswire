@@ -490,8 +490,8 @@ in	O
 favor	O
 of	O
 the	O
-Assad	B-Organization	B-Person
-regime	I-Organization
+Assad	B-Person
+regime	O
 )	O
 ,	O
 Israel	B-Location

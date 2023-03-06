@@ -678,7 +678,7 @@ an	O
 Ethiopian	B-Organization	B-NORP
 Orthodox	I-Organization	B-NORP
 Church	I-Organization
-association	I-Organization
+association	O
 ,	O
 is	O
 planning	O

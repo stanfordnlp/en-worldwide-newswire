@@ -792,8 +792,8 @@ this	O
 to	O
 SEC	B-Organization
 (	O
-The	B-Organization
-Securities	I-Organization
+The	O
+Securities	B-Organization
 and	I-Organization
 Exchange	I-Organization
 Commission	I-Organization

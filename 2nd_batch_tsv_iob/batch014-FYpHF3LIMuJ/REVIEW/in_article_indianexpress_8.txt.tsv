@@ -313,8 +313,8 @@ service	O
 by	O
 2023	B-Misc
 .	O
-The	B-Organization
-Navy	I-Organization
+The	O
+Navy	B-Organization
 has	O
 one	O
 Arihant	B-Misc

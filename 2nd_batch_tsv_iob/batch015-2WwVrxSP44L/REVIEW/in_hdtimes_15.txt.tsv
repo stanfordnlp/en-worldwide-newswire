@@ -56,8 +56,8 @@ of	O
 Katekalyan	B-Organization	B-Location
 Area	I-Organization
 Committee	I-Organization
-of	I-Organization
-CPI	I-Organization
+of	O
+CPI	B-Organization
 (	O
 Maoist	B-NORP
 )	O

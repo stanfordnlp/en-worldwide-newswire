@@ -842,9 +842,9 @@ rice	O
 varieties	O
 .	O
 The	O
-Senegalese	B-Organization	B-NORP
-research	I-Organization
-organization	I-Organization
+Senegalese	B-NORP
+research	O
+organization	O
 ,	O
 ISRA	B-Organization
 and	O

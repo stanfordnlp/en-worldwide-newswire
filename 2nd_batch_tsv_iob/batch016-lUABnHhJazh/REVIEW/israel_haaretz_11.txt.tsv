@@ -700,7 +700,7 @@ S	I-Organization	I-Location
 Sex	I-Organization
 Offender	I-Organization
 Registry	I-Organization
-,	I-Organization
+,	O
 ”	O
 the	O
 letter	O
@@ -761,8 +761,8 @@ A	O
 probe	O
 by	O
 the	O
-rabbinical	B-Organization
-council	I-Organization
+rabbinical	O
+council	O
 -	O
 affiliated	O
 Orthodox	B-Organization

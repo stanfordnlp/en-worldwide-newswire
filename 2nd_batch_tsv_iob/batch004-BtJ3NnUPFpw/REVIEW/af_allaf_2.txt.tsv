@@ -43,7 +43,7 @@ Ruto	I-Person
 's	O
 Kenya	B-Organization	B-Location
 Kwanza	I-Organization
-coalitions	I-Organization
+coalitions	O
 .	O
 
 The	O

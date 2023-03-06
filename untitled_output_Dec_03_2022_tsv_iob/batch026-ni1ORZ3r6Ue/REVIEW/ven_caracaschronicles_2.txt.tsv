@@ -907,11 +907,11 @@ of	I-Organization
 the	I-Organization
 Republic	I-Organization
 (	O
-Colombia	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
-central	I-Organization
-bank	I-Organization
+Colombia	B-Location
+’	O
+s	O
+central	O
+bank	O
 )	O
 and	O
 adapted	O

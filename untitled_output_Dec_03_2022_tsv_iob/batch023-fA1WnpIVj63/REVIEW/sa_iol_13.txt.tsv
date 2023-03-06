@@ -180,7 +180,7 @@ Assembly	I-Organization
 (	O
 Section	B-Organization
 194	I-Organization
-committee	I-Organization
+committee	O
 )	O
 made	O
 a	O
@@ -440,8 +440,8 @@ that	O
 even	O
 if	O
 the	O
-parliamentary	B-Organization
-committee	I-Organization
+parliamentary	O
+committee	O
 was	O
 a	O
 properly	O

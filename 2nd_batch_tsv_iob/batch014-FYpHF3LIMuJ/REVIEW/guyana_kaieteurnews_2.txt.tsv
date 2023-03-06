@@ -377,8 +377,8 @@ will	O
 be	O
 wondering	O
 whether	O
-Vice	O
-News	O
+Vice	B-Organization
+News	I-Organization
 is	O
 waiting	O
 for	O
@@ -765,7 +765,7 @@ act	O
 on	O
 the	O
 VICE	B-Organization
-news	I-Organization
+news	O
 report	O
 including	O
 the	O

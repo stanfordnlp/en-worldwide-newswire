@@ -373,8 +373,8 @@ of	O
 Wales	B-Location
 visit	O
 to	O
-the	B-Organization
-Islamic	I-Organization	B-NORP
+the	O
+Islamic	B-Organization	B-NORP
 Foundation	I-Organization
 at	O
 Markfield	B-Location
@@ -397,8 +397,8 @@ of	O
 the	O
 community	O
 .	O
-The	B-Organization
-Muslim	I-Organization	B-NORP
+The	O
+Muslim	B-Organization	B-NORP
 News	I-Organization
 awarded	O
 him	O

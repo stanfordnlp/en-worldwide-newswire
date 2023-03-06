@@ -132,8 +132,8 @@ country	O
 Officially	O
 ,	O
 the	O
-Iraqi	B-Organization	B-NORP
-government	I-Organization
+Iraqi	B-NORP
+government	O
 summoned	O
 the	O
 Turkish	B-NORP
@@ -409,7 +409,7 @@ what	O
 it	O
 calls	O
 PKK	B-Organization
-forces	I-Organization
+forces	O
 .	O
 
 The	O
@@ -422,8 +422,8 @@ for	O
 the	O
 withdrawal	O
 of	O
-Turkish	B-Organization	B-NORP
-troops	I-Organization
+Turkish	B-NORP
+troops	O
 .	O
 It	O
 revealed	O
@@ -431,8 +431,8 @@ the	O
 tenuous	O
 nature	O
 of	O
-Turkish	B-Organization	B-NORP
-military	I-Organization
+Turkish	B-NORP
+military	O
 presence	O
 in	O
 Iraq	B-Location

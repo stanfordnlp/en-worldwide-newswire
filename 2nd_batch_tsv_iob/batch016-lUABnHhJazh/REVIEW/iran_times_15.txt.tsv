@@ -282,9 +282,9 @@ Medium	I-Organization
 Enterprises	I-Organization
 Development	I-Organization
 Organization	I-Organization
-(	I-Organization
-KOSGEB	I-Organization
-)	I-Organization
+(	O
+KOSGEB	B-Organization
+)	O
 Hasan	B-Person
 Basri	I-Person
 Kurt	I-Person

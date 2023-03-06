@@ -2703,9 +2703,9 @@ more	O
 common	O
 ground	O
 with	O
-the	B-Organization
-Conservative	I-Organization	B-NORP
-party	I-Organization
+the	O
+Conservative	B-NORP
+party	O
 .	O
 
 Written	O
@@ -3475,9 +3475,9 @@ per	O
 cent	O
 of	O
 the	O
-British	B-Organization	B-NORP	B-NORP
-Indian	I-Organization	I-NORP	B-NORP
-army	I-Organization
+British	B-NORP	B-NORP
+Indian	I-NORP	B-NORP
+army	O
 ,	O
 and	O
 after	O

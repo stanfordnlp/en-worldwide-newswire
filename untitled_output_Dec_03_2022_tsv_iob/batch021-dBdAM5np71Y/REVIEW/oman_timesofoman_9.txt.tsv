@@ -608,11 +608,11 @@ the	O
 establishment	O
 of	O
 the	O
-international	B-Organization
-Olympic	I-Organization
-private	I-Organization
-shooting	I-Organization
-clubs	I-Organization
+international	O
+Olympic	B-Misc
+private	O
+shooting	O
+clubs	O
 in	O
 the	O
 Sultanate	O

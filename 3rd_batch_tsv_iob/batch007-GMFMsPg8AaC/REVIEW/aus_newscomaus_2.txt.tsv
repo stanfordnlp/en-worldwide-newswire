@@ -296,8 +296,8 @@ to	O
 offer	O
 solutions	O
 the	O
-Albanese	B-Organization	B-Person
-government	I-Organization
+Albanese	B-NORP	B-Person
+government	O
 could	O
 take	O
 on	O

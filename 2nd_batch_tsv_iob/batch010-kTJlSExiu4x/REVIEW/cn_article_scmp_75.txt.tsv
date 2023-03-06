@@ -542,9 +542,9 @@ document	O
 and	O
 report	O
 ,	O
-Chinese	B-Organization	B-NORP
-foreign	I-Organization
-ministry	I-Organization
+Chinese	B-NORP
+foreign	O
+ministry	O
 spokesman	O
 Wang	B-Person
 Wenbin	I-Person

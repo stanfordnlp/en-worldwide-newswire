@@ -389,11 +389,11 @@ head	O
 of	O
 Nippon	B-Organization
 Ishin	I-Organization
-(	I-Organization
-Japan	I-Organization	B-Location
+(	O
+Japan	B-Organization	B-Location
 Innovation	I-Organization
 Party	I-Organization
-)	I-Organization
+)	O
 ,	O
 said	O
 ,	O

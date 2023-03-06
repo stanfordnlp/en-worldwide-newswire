@@ -45,8 +45,8 @@ reported	O
 by	O
 the	O
 AFP	B-Organization
-news	I-Organization
-agency	I-Organization
+news	O
+agency	O
 .	O
 
 AFP	B-Organization

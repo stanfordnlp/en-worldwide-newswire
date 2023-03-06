@@ -56,9 +56,9 @@ on	O
 Wednesday	B-Misc
 and	O
 the	O
-national	B-Organization
-soccer	I-Organization
-federation	I-Organization
+national	O
+soccer	O
+federation	O
 (	O
 FMF	B-Organization
 )	O

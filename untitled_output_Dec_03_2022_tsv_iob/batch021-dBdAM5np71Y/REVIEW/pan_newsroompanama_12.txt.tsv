@@ -215,10 +215,10 @@ fossil	O
 fuels	O
 ,	O
 "	O
-National	B-Organization
-Secretary	I-Organization
-of	I-Organization
-Energy	I-Organization
+National	O
+Secretary	O
+of	O
+Energy	O
 ,	O
 Jorge	B-Person
 Rivera	I-Person

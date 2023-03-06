@@ -1258,8 +1258,8 @@ won	O
 ’	O
 t	O
 be	O
-Indian	B-Organization	B-NORP
-military	I-Organization
+Indian	B-NORP
+military	O
 troops	O
 on	O
 the	O

@@ -500,9 +500,9 @@ the	O
 party	O
 ’	O
 s	O
-central	B-Organization
-executive	I-Organization
-committee	I-Organization
+central	O
+executive	O
+committee	O
 (	O
 CEC	B-Organization
 )	O
