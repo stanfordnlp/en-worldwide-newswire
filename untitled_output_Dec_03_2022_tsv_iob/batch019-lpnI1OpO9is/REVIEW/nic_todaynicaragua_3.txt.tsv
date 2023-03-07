@@ -498,9 +498,9 @@ that	O
 according	O
 to	O
 the	O
-Inter	O
--	O
-American	B-Organization	B-NORP
+Inter	B-Organization
+-	I-Organization
+American	I-Organization	B-NORP
 Commission	I-Organization
 on	I-Organization
 Human	I-Organization

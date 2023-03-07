@@ -679,8 +679,8 @@ hyun	I-Person
 of	O
 the	O
 ruling	O
-People	O
-Power	B-Organization
+People	B-Organization
+Power	I-Organization
 Party	I-Organization
 said	O
 the	O

@@ -67,8 +67,8 @@ and	O
 Ranking	O
 Member	O
 ,	O
-Finance	O
-Committee	O
+Finance	B-Organization
+Committee	I-Organization
 ,	O
 he	O
 stated	O
@@ -81,8 +81,8 @@ outset	O
 the	O
 NDC	B-Organization	B-Organization
 Caucus	I-Organization
-in	I-Organization
-Parliament	I-Organization
+in	O
+Parliament	B-Organization
 stands	O
 firmly	O
 by	O

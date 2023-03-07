@@ -343,7 +343,7 @@ To	O
 get	O
 before	O
 the	O
-Tribunal	O
+Tribunal	B-Organization
 often	O
 involves	O
 a	O
@@ -419,8 +419,8 @@ from	O
 Te	B-Organization
 Arawhiti	I-Organization
 or	O
-Legal	O
-Aid	O
+Legal	B-Organization
+Aid	I-Organization
 ,	O
 of	O
 cumbersome	O

@@ -478,7 +478,7 @@ required	O
 information	O
 ,	O
 the	O
-Shohoz	O
+Shohoz	B-Organization
 statement	O
 also	O
 read	O
@@ -496,7 +496,7 @@ wallet	O
 without	O
 entering	O
 his	O
-PIN	B-Misc
+PIN	O
 is	O
 also	O
 untrue	O

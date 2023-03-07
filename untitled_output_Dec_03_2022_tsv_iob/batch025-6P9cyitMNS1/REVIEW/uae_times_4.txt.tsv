@@ -120,8 +120,8 @@ of	I-Misc
 2018	I-Misc
 regarding	O
 the	O
-Central	O
-Bank	O
+Central	B-Organization
+Bank	I-Organization
 and	O
 organisation	O
 of	O

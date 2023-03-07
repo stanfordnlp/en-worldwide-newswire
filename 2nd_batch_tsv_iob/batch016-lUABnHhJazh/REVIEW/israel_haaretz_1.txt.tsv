@@ -133,7 +133,7 @@ other	O
 people	O
 in	O
 the	O
-PMO	O
+PMO	B-Organization
 who	O
 were	O
 informed	O
@@ -951,10 +951,10 @@ minister	O
 ,	O
 attended	O
 by	O
-Shin	B-Person
-Bet	I-Person
-Chief	I-Person
-Ronen	I-Person
+Shin	B-Organization
+Bet	I-Organization
+Chief	O
+Ronen	B-Person
 Bar	I-Person
 ,	O
 Meir	B-Person
@@ -1366,8 +1366,8 @@ something	O
 
 “	O
 The	O
-Shin	O
-Bet	O
+Shin	B-Organization
+Bet	I-Organization
 press	O
 conference	O
 is	O

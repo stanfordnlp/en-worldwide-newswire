@@ -93,7 +93,7 @@ logistics	O
 support	O
 for	O
 PLA	B-Organization
-Army	O
+Army	I-Organization
 combat	O
 at	O
 times	O

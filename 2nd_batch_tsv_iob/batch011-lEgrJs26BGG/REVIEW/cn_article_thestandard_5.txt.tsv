@@ -171,16 +171,16 @@ Po	I-Person
 kam	I-Person
 in	O
 the	O
-High	O
-Court	O
+High	B-Organization
+Court	I-Organization
 on	O
 Tuesday	B-Misc
 morning	O
 .	O
 
-The	B-Organization
-Standard	I-Organization
-Channel	I-Organization
+The	O
+Standard	O
+Channel	O
 
 More	O
 >	O

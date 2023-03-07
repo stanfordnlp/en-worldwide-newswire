@@ -150,8 +150,8 @@ and	O
 Ukur	B-Person
 Yatani	I-Person
 (	O
-National	O
-Treasury	O
+National	B-Organization
+Treasury	I-Organization
 )	O
 .	O
 

@@ -172,8 +172,8 @@ and	I-Organization
 Prevention	I-Organization
 ;	O
 the	O
-Presidential	O
-Court	O
+Presidential	B-Organization
+Court	I-Organization
 ;	O
 the	O
 Ministry	B-Organization

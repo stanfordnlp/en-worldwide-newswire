@@ -95,8 +95,8 @@ community	O
 according	O
 to	O
 a	O
-Royal	O
-Court	O
+Royal	B-Organization
+Court	I-Organization
 statement	O
 .	O
 

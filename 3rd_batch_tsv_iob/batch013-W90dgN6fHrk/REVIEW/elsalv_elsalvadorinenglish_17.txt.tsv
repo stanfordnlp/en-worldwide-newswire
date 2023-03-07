@@ -4,11 +4,11 @@ Salvadoran	B-NORP
 authorities	O
 from	O
 the	O
-Ministries	O
-of	O
-Economy	O
-and	O
-Finance	O
+Ministries	B-Organization
+of	I-Organization
+Economy	I-Organization
+and	I-Organization
+Finance	I-Organization
 participated	O
 ,	O
 along	O

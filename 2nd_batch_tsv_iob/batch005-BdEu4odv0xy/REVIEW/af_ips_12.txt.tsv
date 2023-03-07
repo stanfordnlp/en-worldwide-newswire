@@ -423,13 +423,13 @@ founder	O
 and	O
 coordinator	O
 of	O
-Startup	O
--	O
-sociale	O
+Startup	B-Organization
+-	I-Organization
+sociale	I-Organization
 in	O
 the	O
 Sedhiou	B-Location
-Region	O
+Region	I-Location
 ,	O
 says	O
 the	O

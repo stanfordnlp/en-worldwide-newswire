@@ -1221,8 +1221,8 @@ was	O
 in	O
 charge	O
 of	O
-Interior	O
-Ministry	O
+Interior	B-Organization
+Ministry	I-Organization
 ;	O
 so	O
 he	O

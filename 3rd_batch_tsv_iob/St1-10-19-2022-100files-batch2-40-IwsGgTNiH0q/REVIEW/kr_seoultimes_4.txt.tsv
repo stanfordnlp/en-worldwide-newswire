@@ -597,8 +597,8 @@ $	B-Money
 billion	I-Money
 )	O
 of	O
-On	O
-Land	O
+On	B-Organization
+Land	I-Organization
 and	O
 Vivien	B-Person
 Chen	I-Person

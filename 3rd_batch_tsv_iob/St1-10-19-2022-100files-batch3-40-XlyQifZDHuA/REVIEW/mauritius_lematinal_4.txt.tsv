@@ -251,7 +251,7 @@ country	O
 So	O
 is	O
 its	O
-Parliament	O
+Parliament	B-Organization
 .	O
 Therefore	O
 ,	O
@@ -268,7 +268,7 @@ kind	O
 of	O
 information	O
 from	O
-Parliament	O
+Parliament	B-Organization
 ,	O
 ”	O
 he	O

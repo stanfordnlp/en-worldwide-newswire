@@ -2,11 +2,11 @@ https://ticotimes.net/2022/07/19/a-brief-history-of-costa-ricas-national-park-sy
 
 Costa	B-Location
 Rica	I-Location
-’	I-Location
-s	I-Location
-National	I-Location
-Park	I-Location
-System	I-Location
+’	O
+s	O
+National	B-Organization
+Park	I-Organization
+System	I-Organization
 was	O
 created	O
 in	O
@@ -2014,9 +2014,9 @@ be	O
 coordinated	O
 with	O
 the	O
-Santa	O
-Rosa	O
-Sector	O
+Santa	B-Organization
+Rosa	I-Organization
+Sector	I-Organization
 
 Costa	B-NORP
 Ricans	I-NORP

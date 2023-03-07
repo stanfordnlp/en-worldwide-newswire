@@ -481,8 +481,8 @@ charges	O
 went	O
 to	O
 a	O
-Superior	O
-Court	O
+Superior	B-Organization
+Court	I-Organization
 in	O
 Ontario	B-Location
 ,	I-Location

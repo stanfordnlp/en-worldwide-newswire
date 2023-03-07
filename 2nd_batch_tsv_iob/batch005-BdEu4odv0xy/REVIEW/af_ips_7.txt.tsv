@@ -390,7 +390,7 @@ president	O
 of	O
 the	O
 Rotaract	B-Organization
-Club	O
+Club	I-Organization
 at	O
 the	O
 Nnamdi	B-Organization	B-Person

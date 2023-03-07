@@ -89,9 +89,9 @@ case	O
 was	O
 filed	O
 by	O
-Police	O
-Station	O
-Baramulla	B-Location
+Police	B-Organization
+Station	I-Organization
+Baramulla	I-Organization	B-Location
 against	O
 complainant	O
 and	O

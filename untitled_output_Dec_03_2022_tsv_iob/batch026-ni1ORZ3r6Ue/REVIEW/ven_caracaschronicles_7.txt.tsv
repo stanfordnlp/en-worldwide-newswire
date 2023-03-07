@@ -628,8 +628,8 @@ country	O
 include	O
 :	O
 the	O
-Public	O
-Ministry	O
+Public	B-Organization
+Ministry	I-Organization
 (	O
 the	O
 General	O

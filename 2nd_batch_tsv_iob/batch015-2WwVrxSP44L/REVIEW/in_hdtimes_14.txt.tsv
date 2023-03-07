@@ -462,7 +462,7 @@ the	O
 well	O
 of	O
 the	O
-House	O
+House	B-Organization
 holding	O
 placards	O
 were	O
@@ -478,7 +478,7 @@ utter	O
 disregard	O
 of	O
 the	O
-House	O
+House	B-Organization
 and	O
 the	O
 authority	O
@@ -521,7 +521,7 @@ s	O
 statue	O
 in	O
 the	O
-Parliament	O
+Parliament	B-Organization
 complex	O
 ,	O
 alleging	O

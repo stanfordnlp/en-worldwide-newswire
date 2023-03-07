@@ -1098,10 +1098,10 @@ congress	O
 where	O
 Morales	B-Person
 ’	O
-Movement	O
-for	O
-Socialism	B-Organization
-party	I-Organization
+Movement	B-Organization
+for	I-Organization
+Socialism	I-Organization
+party	O
 controls	O
 both	O
 houses	O

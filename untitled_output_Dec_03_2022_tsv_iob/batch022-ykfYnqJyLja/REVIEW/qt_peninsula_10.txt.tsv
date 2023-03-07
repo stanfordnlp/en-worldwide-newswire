@@ -281,8 +281,8 @@ a	O
 recent	O
 interview	O
 with	O
-The	O
-Peninsula	O
+The	B-Organization
+Peninsula	I-Organization
 Dr	O
 .	O
 Abdullatif	B-Person

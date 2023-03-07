@@ -75,8 +75,8 @@ a	O
 recent	O
 interview	O
 with	O
-The	O
-Seoul	B-Organization	B-Location
+The	B-Organization
+Seoul	I-Organization	B-Location
 Times	I-Organization
 .	O
 Here	O

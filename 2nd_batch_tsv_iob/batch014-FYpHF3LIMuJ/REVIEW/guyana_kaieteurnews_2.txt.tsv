@@ -610,9 +610,9 @@ The	O
 establishment	O
 of	O
 the	O
-National	O
-Coordinating	O
-Committee	O
+National	B-Organization
+Coordinating	I-Organization
+Committee	I-Organization
 on	O
 June	B-Misc
 8	I-Misc
@@ -769,8 +769,8 @@ news	O
 report	O
 including	O
 the	O
-Parliamentary	O
-Opposition	O
+Parliamentary	B-Organization
+Opposition	I-Organization
 .	O
 In	O
 fact	O
@@ -790,7 +790,7 @@ seeking	O
 to	O
 have	O
 the	O
-House	O
+House	B-Organization
 debate	O
 the	O
 VICE	B-Organization

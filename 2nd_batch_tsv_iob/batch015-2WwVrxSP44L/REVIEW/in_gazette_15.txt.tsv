@@ -872,7 +872,7 @@ In	O
 in	O
 Muslim	B-Organization	B-NORP
 League	I-Organization
-Convention	O
+Convention	I-Organization
 Sir	O
 Mohammad	B-Person
 Iqbal	I-Person

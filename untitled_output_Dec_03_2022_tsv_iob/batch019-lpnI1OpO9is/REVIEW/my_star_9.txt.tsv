@@ -305,8 +305,8 @@ be	O
 referred	O
 to	O
 the	O
-Immigration	O
-Department	O
+Immigration	B-Organization
+Department	I-Organization
 once	O
 their	O
 jail	O

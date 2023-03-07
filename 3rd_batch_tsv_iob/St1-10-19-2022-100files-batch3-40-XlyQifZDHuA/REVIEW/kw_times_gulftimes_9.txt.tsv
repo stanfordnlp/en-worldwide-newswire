@@ -36,8 +36,8 @@ via	O
 videoconferencing	O
 with	O
 the	O
-UK	B-Location
-Government	O
+UK	B-Organization	B-Location
+Government	I-Organization
 Spokesperson	O
 to	O
 the	O

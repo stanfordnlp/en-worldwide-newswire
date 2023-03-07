@@ -1036,8 +1036,8 @@ fame	O
 .	O
 For	O
 his	O
-Gando	O
-School	O
+Gando	B-Organization
+School	I-Organization
 ,	O
 he	O
 was	O

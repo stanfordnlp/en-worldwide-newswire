@@ -223,8 +223,8 @@ was	O
 heard	O
 at	O
 the	O
-District	O
-Court	O
+District	B-Location
+Court	I-Location
 ,	O
 which	O
 could	O

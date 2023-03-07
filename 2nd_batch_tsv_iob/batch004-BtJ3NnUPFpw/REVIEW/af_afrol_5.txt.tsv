@@ -425,8 +425,8 @@ first	O
 started	O
 publishing	O
 the	O
-Electoral	O
-Commission	O
+Electoral	B-Organization
+Commission	I-Organization
 's	O
 results	O
 .	O

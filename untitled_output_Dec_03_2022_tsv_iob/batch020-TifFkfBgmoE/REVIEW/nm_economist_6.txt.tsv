@@ -231,10 +231,10 @@ reporting	O
 function	O
 within	O
 the	O
-Nedbank	B-Organization
-Namibia	I-Organization	B-Location
-Finance	O
-Department	O
+Nedbank	B-Organization	B-Organization
+Namibia	I-Organization	I-Organization	B-Location
+Finance	I-Organization
+Department	I-Organization
 ,	O
 which	O
 involves	O

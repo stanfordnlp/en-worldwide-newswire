@@ -91,7 +91,7 @@ the	O
 disconnection	O
 ,	O
 the	O
-MEP	O
+MEP	B-Organization
 offices	O
 were	O
 left	O
@@ -128,7 +128,7 @@ following	O
 up	O
 with	O
 the	O
-MEP	O
+MEP	B-Organization
 ’	O
 s	O
 technology	O
@@ -164,7 +164,7 @@ addition	O
 Otto	B-Person
 Vargas	I-Person
 ,	O
-MEP	O
+MEP	B-Organization
 ’	O
 s	O
 press	O
@@ -220,7 +220,7 @@ the	O
 servers	O
 ,	O
 ”	O
-MEP	O
+MEP	B-Organization
 authorities	O
 added	O
 .	O
@@ -236,7 +236,7 @@ actions	O
 were	O
 implemented	O
 .	O
-MEP	O
+MEP	B-Organization
 authorities	O
 analyzed	O
 the	O

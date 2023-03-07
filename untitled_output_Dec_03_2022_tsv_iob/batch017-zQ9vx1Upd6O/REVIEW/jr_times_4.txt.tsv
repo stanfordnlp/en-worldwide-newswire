@@ -70,7 +70,7 @@ Jordanian	I-Organization	B-NORP
 Air	I-Organization
 Force	I-Organization
 (	O
-RJAF	O
+RJAF	B-Organization
 )	O
 Brig	O
 .	O

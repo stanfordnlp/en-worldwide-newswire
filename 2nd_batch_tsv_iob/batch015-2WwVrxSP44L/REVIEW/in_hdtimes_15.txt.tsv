@@ -93,7 +93,7 @@ district	O
 reserve	O
 guard	O
 (	O
-DRG	O
+DRG	B-Organization
 )	O
 ,	O
 which	O

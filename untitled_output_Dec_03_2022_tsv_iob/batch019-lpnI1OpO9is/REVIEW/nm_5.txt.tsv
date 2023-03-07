@@ -79,11 +79,11 @@ able	O
 to	O
 establish	O
 the	O
-Michelle	B-Person
-McLean	I-Person
-Children	O
-'s	O
-Trust	O
+Michelle	B-Organization	B-Person
+McLean	I-Organization		I-Person
+Children	I-Organization
+'s	I-Organization
+Trust	I-Organization
 .	O
 This	O
 is	O

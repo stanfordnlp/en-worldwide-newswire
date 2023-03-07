@@ -304,7 +304,7 @@ Akufo	B-Person
 Addo	I-Person
 ’	O
 s	O
-Government	O
+Government	B-Organization
 was	O
 indisputably	O
 unprecedented	O
@@ -461,7 +461,7 @@ communities	O
 He	O
 said	O
 the	O
-Government	O
+Government	B-Organization
 had	O
 implemented	O
 a	O
@@ -647,10 +647,10 @@ Owusu	I-Person
 Ekuful	I-Person
 said	O
 the	O
-Akufo	B-Person
--	I-Person
-Addo	I-Person
-Government	O
+Akufo	B-Organization	B-Person
+-	I-Organization	I-Person
+Addo	I-Organization	I-Person
+Government	I-Organization
 did	O
 not	O
 discriminate	O

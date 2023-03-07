@@ -206,8 +206,8 @@ state	O
 owned	O
 hotels	O
 in	O
-Stock	O
-Exchange	O
+Stock	B-Organization
+Exchange	I-Organization
 under	O
 the	O
 State	B-Misc

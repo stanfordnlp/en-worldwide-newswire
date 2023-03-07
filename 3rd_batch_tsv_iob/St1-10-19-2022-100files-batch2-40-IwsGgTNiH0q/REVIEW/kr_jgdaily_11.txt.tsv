@@ -21,8 +21,8 @@ plan	O
 to	O
 sue	O
 the	O
-Presidential	O
-Archives	O
+Presidential	B-Organization
+Archives	I-Organization
 to	O
 obtain	O
 information	O
@@ -133,8 +133,8 @@ July	B-Misc
 20	I-Misc
 against	O
 the	O
-Presidential	O
-Archives	O
+Presidential	B-Organization
+Archives	I-Organization
 under	O
 Article	O
 20	O
@@ -310,8 +310,8 @@ necessary	O
 including	O
 suing	O
 the	O
-Presidential	O
-Archives	O
+Presidential	B-Organization
+Archives	I-Organization
 .	O
 
 The	O
@@ -451,8 +451,8 @@ chance	O
 to	O
 force	O
 the	O
-Presidential	O
-Archives	O
+Presidential	B-Organization
+Archives	I-Organization
 to	O
 reveal	O
 sealed	O

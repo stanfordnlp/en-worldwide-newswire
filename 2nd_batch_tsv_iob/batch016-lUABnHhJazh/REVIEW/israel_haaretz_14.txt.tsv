@@ -238,8 +238,8 @@ in	O
 Birger	B-Person
 heads	O
 the	O
-Prison	O
-Service	O
+Prison	B-Organization
+Service	I-Organization
 ’	O
 s	O
 mental	O
@@ -435,8 +435,8 @@ Litzman	B-Person
 briefly	O
 left	O
 the	O
-Health	O
-Ministry	O
+Health	B-Organization
+Ministry	I-Organization
 during	O
 Yael	B-Person
 German	I-Person

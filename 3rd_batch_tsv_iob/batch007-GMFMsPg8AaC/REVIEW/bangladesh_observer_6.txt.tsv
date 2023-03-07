@@ -4,8 +4,8 @@ A	O
 foreign	O
 ship	O
 named	O
-Maersk	B-Organization
-Nesna	O
+Maersk	B-Facility
+Nesna	I-Facility
 left	O
 the	O
 Mongla	B-Facility	B-Location
@@ -307,8 +307,8 @@ Bagerhat	B-Organization	B-Location
 Chamber	I-Organization
 of	I-Organization
 Commerce	I-Organization
-and	O
-Industry	O
+and	I-Organization
+Industry	I-Organization
 President	O
 Sheikh	O
 Liakat	B-Person

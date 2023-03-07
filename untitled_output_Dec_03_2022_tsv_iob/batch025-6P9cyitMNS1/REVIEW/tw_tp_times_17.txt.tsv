@@ -58,9 +58,9 @@ to	O
 be	O
 filled	O
 by	O
-Hospital	O
-and	O
-Social	B-Organization
+Hospital	B-Organization
+and	I-Organization
+Social	I-Organization
 Welfare	I-Organization
 Organizations	I-Organization
 Administration	I-Organization

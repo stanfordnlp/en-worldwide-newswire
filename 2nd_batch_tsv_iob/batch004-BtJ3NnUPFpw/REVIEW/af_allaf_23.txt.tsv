@@ -236,9 +236,9 @@ Chief	O
 Judge	O
 of	O
 the	O
-Federal	O
-High	O
-Court	O
+Federal	B-Organization
+High	I-Organization
+Court	I-Organization
 ,	O
 Justice	O
 John	B-Person

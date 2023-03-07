@@ -263,8 +263,8 @@ accepted	O
 unreservedly	O
 into	O
 the	O
-Ethiopian	B-NORP
-Church	O
+Ethiopian	B-Organization	B-NORP
+Church	I-Organization
 .	O
 And	O
 ,	O

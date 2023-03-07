@@ -147,8 +147,8 @@ take	O
 a	O
 look	O
 at	O
-The	O
-Bogotá	B-Organization	B-Location
+The	B-Organization
+Bogotá	I-Organization	B-Location
 Post	I-Organization
 ’s	O
 top	O
@@ -2881,7 +2881,7 @@ freedom	O
 and	O
 flexibility	O
 .	O
-Liftit	O
+Liftit	B-Organization
 provides	O
 .	O
 

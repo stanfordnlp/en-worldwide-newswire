@@ -89,7 +89,7 @@ the	O
 comment	O
 when	O
 the	O
-House	O
+House	B-Organization
 started	O
 the	O
 debate	O
@@ -145,9 +145,9 @@ and	O
 economic	O
 policy	O
 of	O
-Government	O
+Government	B-Organization
 in	O
-Parliament	O
+Parliament	B-Organization
 .	O
 
 The	O
@@ -216,7 +216,7 @@ cedis	I-Money
 without	O
 recourse	O
 to	O
-Parliament	O
+Parliament	B-Organization
 .	O
 
 He	O
@@ -473,7 +473,7 @@ it	O
 clear	O
 to	O
 the	O
-House	O
+House	B-Organization
 to	O
 ensure	O
 fiscal	O

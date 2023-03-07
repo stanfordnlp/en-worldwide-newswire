@@ -31,8 +31,8 @@ violence	O
 in	O
 Ranisankail	B-Location
 upazila	I-Location
-of	I-Location
-Thakurgaon	I-Location
+of	O
+Thakurgaon	B-Location
 last	O
 evening	O
 .	O
@@ -89,7 +89,7 @@ the	O
 villagers	O
 .	O
 
-Upazila	O
+Upazila	B-Location
 Vice	O
 -	O
 Chairman	O

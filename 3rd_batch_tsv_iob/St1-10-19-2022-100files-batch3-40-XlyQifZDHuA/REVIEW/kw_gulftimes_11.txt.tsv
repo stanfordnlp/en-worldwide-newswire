@@ -1,9 +1,9 @@
 https://www.gulf-times.com/story/721584/Fire-Station-announces-Youth-Summer-Programme	O
 
 The	O
-Doha	B-Location
-Fire	O
-Station	O
+Doha	B-Organization	B-Location
+Fire	I-Organization	
+Station	I-Organization
 has	O
 announced	O
 that	O

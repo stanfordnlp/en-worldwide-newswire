@@ -204,7 +204,7 @@ protest	O
 march	O
 from	O
 the	O
-Parliament	O
+Parliament	B-Organization
 to	O
 Vijay	B-Location
 Chowk	I-Location

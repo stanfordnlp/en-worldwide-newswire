@@ -323,10 +323,10 @@ official	O
 residences	O
 for	O
 the	O
-House	O
+House	B-Organization
 speaker	O
 and	O
-Senate	O
+Senate	B-Organization
 president	O
 will	O
 also	O

@@ -472,7 +472,7 @@ Announces	O
 to	O
 challenge	O
 amended	O
-NAB	O
+NAB	B-Organization
 laws	O
 in	O
 court	O
@@ -559,7 +559,7 @@ power	O
 they	O
 amended	O
 the	O
-NAB	O
+NAB	B-Organization
 law	O
 in	O
 order	O
@@ -583,13 +583,13 @@ he	O
 would	O
 challenge	O
 the	O
-NAB	O
+NAB	B-Organization
 amendment	O
 bill	O
 in	O
 the	O
-Supreme	O
-Court	O
+Supreme	B-Organization
+Court	I-Organization
 today	O
 (	O
 Tuesday	B-Misc
@@ -858,8 +858,8 @@ the	O
 orders	O
 of	O
 the	O
-Supreme	O
-Court	O
+Supreme	B-Organization
+Court	I-Organization
 .	O
 
 The	O

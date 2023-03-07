@@ -194,9 +194,9 @@ an	O
 ecosystem	O
 together	O
 with	O
-Belt	O
-and	O
-Road	O
+Belt	B-Misc
+and	I-Misc
+Road	I-Misc
 countries	O
 ,	O
 ”	O

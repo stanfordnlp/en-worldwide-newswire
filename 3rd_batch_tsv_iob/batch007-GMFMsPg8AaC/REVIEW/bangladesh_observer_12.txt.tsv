@@ -145,8 +145,8 @@ China	I-Organization	B-Location
 (	O
 CPC	B-Organization
 )	O
-Central	O
-Committee	O
+Central	B-Organization
+Committee	I-Organization
 ,	O
 State	O
 Councilor	O
@@ -157,11 +157,11 @@ of	O
 the	O
 Leading	O
 CPC	B-Organization
-Members	O
-Group	O
+Members	I-Organization
+Group	I-Organization
 of	O
 the	O
-State	O
-Council	O
+State	B-Organization
+Council	I-Organization
 .	O
 

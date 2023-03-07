@@ -2001,7 +2001,7 @@ only	O
 one	O
 Member	O
 of	O
-Parliament	O
+Parliament	B-Organization
 .	O
 
 That	O
@@ -2040,7 +2040,7 @@ to	O
 be	O
 elected	O
 to	O
-Parliament	O
+Parliament	B-Organization
 .	O
 While	O
 both	O
@@ -4291,8 +4291,8 @@ result	O
 ,	O
 according	O
 to	O
-Gateway	O
-House	O
+Gateway	B-Organization
+House	I-Organization
 ,	O
 there	O
 was	O
@@ -4798,8 +4798,8 @@ a	O
 citizen	O
 of	O
 a	O
-Commonwealth	B-NORP
-Nation	O
+Commonwealth	B-Organization
+Nation	I-Organization
 and	O
 have	O
 indefinite	O
@@ -4915,7 +4915,7 @@ to	O
 be	O
 elected	O
 to	O
-Parliament	O
+Parliament	B-Organization
 .	O
 While	O
 both	O

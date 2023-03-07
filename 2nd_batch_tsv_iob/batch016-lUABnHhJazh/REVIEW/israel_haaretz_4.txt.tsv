@@ -1096,8 +1096,8 @@ staff	O
 According	O
 to	O
 the	O
-Education	O
-Ministry	O
+Education	B-Organization
+Ministry	I-Organization
 ,	O
 there	O
 are	O
@@ -1468,8 +1468,8 @@ few	O
 countries	O
 where	O
 the	O
-Education	O
-Ministry	O
+Education	B-Organization
+Ministry	I-Organization
 makes	O
 all	O
 the	O
@@ -1735,11 +1735,11 @@ OECD	B-Organization
 director	O
 for	O
 the	O
-Directorate	O
-of	O
-Education	O
-and	O
-Skills	O
+Directorate	B-Organization
+of	I-Organization
+Education	I-Organization
+and	I-Organization
+Skills	I-Organization
 ,	O
 said	O
 in	O
@@ -1747,8 +1747,8 @@ a	O
 2020	B-Misc
 interview	O
 with	O
-The	O
-Jerusalem	B-Organization	B-Location
+The	B-Organization
+Jerusalem	I-Organization	B-Location
 Post	I-Organization
 that	O
 teaching	O

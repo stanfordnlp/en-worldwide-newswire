@@ -198,8 +198,8 @@ a	O
 day	O
 after	O
 the	O
-Supreme	O
-Court	O
+Supreme	B-Organization
+Court	I-Organization
 dismissed	O
 a	O
 plea	O

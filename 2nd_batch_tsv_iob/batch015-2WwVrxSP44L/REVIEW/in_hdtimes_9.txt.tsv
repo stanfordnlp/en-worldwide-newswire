@@ -23,7 +23,7 @@ orders	O
 issued	O
 by	O
 the	O
-Union	O
+Union	B-Organization
 government	O
 before	O
 it	O
@@ -54,7 +54,7 @@ orders	O
 issued	O
 by	O
 the	O
-Union	O
+Union	B-Organization
 government	O
 before	O
 it	O
@@ -91,12 +91,12 @@ the	O
 advocate	O
 for	O
 the	O
-Union	O
+Union	B-Organization
 government	O
 .	O
 
 The	O
-Centre	O
+Centre	B-Organization
 ’	O
 s	O
 advocate	O
@@ -164,8 +164,8 @@ orders	O
 issued	O
 by	O
 the	O
-Union	O
-Ministry	B-Organization
+Union	B-Organization
+Ministry	I-Organization
 of	I-Organization
 Electronics	I-Organization
 and	I-Organization

@@ -206,8 +206,8 @@ kwok	I-Person
 ,	O
 the	O
 former	O
-Consumer	O
-Council	O
+Consumer	B-Organization
+Council	I-Organization
 Chairman	O
 who	O
 has	O

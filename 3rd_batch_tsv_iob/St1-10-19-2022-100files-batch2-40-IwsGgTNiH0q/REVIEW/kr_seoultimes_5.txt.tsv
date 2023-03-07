@@ -309,8 +309,8 @@ to	O
 anybody	O
 .	O
 
-The	O
-Seoul	B-Organization	B-Location
+The	B-Organization
+Seoul	I-Organization	B-Location
 Times	I-Organization
 recently	O
 met	O
@@ -349,8 +349,8 @@ interview	O
 he	O
 had	O
 with	O
-The	O
-Seoul	B-Organization	B-Location
+The	B-Organization
+Seoul	I-Organization	B-Location
 Times	I-Organization
 .	O
 
@@ -971,7 +971,7 @@ AA	O
 according	O
 to	O
 Fitch	B-Organization
-Ratings	O
+Ratings	I-Organization
 .	O
 
 I	O

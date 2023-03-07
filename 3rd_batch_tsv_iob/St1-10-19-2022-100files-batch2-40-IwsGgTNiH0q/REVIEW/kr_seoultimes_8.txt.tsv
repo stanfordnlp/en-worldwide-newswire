@@ -245,10 +245,10 @@ business	O
 executives	O
 from	O
 the	O
-Indian	B-NORP
-State	O
-of	O
-Gujarat	B-Location
+Indian	B-Location	B-NORP
+State	I-Location
+of	I-Location
+Gujarat	I-Location	B-Location
 .	O
 
 The	O

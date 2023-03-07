@@ -125,10 +125,10 @@ from	O
 the	O
 State	B-Organization
 Attorney	I-Organization
-General	O
-’	O
-s	O
-Office	O
+General	I-Organization
+’	I-Organization
+s	I-Organization
+Office	I-Organization
 ,	O
 the	O
 Judicial	B-Organization

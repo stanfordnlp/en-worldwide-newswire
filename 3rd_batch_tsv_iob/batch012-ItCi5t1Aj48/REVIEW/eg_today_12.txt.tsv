@@ -5,7 +5,7 @@ CAIRO	B-Location
 July	B-Misc
 19	I-Misc
 (	O
-MENA	B-Misc
+MENA	B-Location
 )	O
 –	O
 President	O
@@ -127,8 +127,8 @@ Authority	I-Organization
 for	I-Organization
 Unified	I-Organization
 Procurement	I-Organization
-,	O
-Medical	B-Organization
+,	I-Organization
+Medical	I-Organization
 Supply	I-Organization
 and	I-Organization
 Technology	I-Organization

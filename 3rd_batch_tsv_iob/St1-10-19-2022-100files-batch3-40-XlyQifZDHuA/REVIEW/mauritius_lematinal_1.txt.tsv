@@ -910,7 +910,7 @@ on	O
 several	O
 occasions	O
 in	O
-Parliament	O
+Parliament	B-Organization
 ,	O
 he	O
 has	O
@@ -1135,9 +1135,9 @@ Rs	B-Money
 billion	I-Money
 for	O
 the	O
-Agalega	B-Location
-Fishing	O
-Industry	O
+Agalega	B-Organization	B-Location
+Fishing	I-Organization
+Industry	I-Organization
 .	O
 It	O
 is	O

@@ -468,8 +468,8 @@ yee	I-Person
 convenor	O
 of	O
 the	O
-Executive	O
-Council	O
+Executive	B-Organization
+Council	I-Organization
 ,	O
 Hong	B-Location
 Kong	I-Location
