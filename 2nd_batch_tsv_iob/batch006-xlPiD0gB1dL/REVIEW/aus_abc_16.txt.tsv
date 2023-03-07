@@ -283,8 +283,8 @@ all	O
 the	O
 collections	O
 in	O
-Paris	B-Facility	B-Location
-museums	I-Facility
+Paris	B-Location
+museums	O
 .	O
 "	O
 

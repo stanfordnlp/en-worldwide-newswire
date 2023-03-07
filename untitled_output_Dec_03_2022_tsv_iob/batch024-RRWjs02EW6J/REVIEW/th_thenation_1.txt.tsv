@@ -170,8 +170,8 @@ in	O
 Songkhla	B-Location
 ’	O
 s	O
-Rattaphum	B-Location	B-Location
-district	I-Location
+Rattaphum	B-Location
+district	O
 on	O
 Friday	B-Misc
 night	O
@@ -308,7 +308,7 @@ Pathom	I-Location
 s	O
 Bang	B-Location	B-Location
 Len	I-Location	I-Location
-district	I-Location
+district	O
 and	O
 were	O
 delivering	O
@@ -318,9 +318,9 @@ a	O
 contact	O
 in	O
 Narathiwat	B-Location
-’	I-Location
-s	I-Location
-Sungai	I-Location
+’	O
+s	O
+Sungai	B-Location
 Kolok	I-Location
 district	O
 .	O

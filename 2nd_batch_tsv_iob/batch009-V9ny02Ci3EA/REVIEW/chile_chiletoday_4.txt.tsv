@@ -71,12 +71,12 @@ to	O
 have	O
 the	O
 only	O
-Bahá	B-Location	B-NORP
-’	I-Location	I-NORP
-í	I-Location	I-NORP
-temple	I-Location
-in	I-Location
-South	I-Location
+Bahá	B-NORP
+’	I-NORP
+í	I-NORP
+temple	O
+in	O
+South	B-Location
 America	I-Location
 .	O
 The	O
@@ -161,10 +161,10 @@ explained	O
 .	O
 
 The	O
-Bahá	B-Organization	B-NORP
-’	I-Organization	I-NORP
-í	I-Organization	I-NORP
-faith	I-Organization
+Bahá	B-NORP
+’	I-NORP
+í	I-NORP
+faith	O
 (	O
 also	O
 known	O

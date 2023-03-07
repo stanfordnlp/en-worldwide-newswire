@@ -913,8 +913,8 @@ no	O
 reason	O
 to	O
 outflank	O
-Western	B-Location
-countries	I-Location
+Western	B-NORP
+countries	O
 from	O
 the	O
 right	O

@@ -320,9 +320,9 @@ he	O
 worked	O
 in	O
 the	O
-mountains	B-Location
-of	I-Location
-Durango	I-Location
+mountains	O
+of	O
+Durango	B-Location
 state	O
 sparked	O
 protests	O

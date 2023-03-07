@@ -35,8 +35,8 @@ State	I-Facility
 Building	I-Facility
 .	O
 
-The	B-Location
-Mirror	I-Location
+The	O
+Mirror	B-Location
 Line	I-Location
 will	O
 be	O
@@ -121,8 +121,8 @@ the	O
 time	O
 .	O
 
-The	B-Location
-Mirror	I-Location
+The	O
+Mirror	B-Location
 Line	I-Location
 will	O
 consist	O
@@ -675,8 +675,8 @@ with	O
 the	O
 Mirror	B-Location
 Line	I-Location
-and	I-Location
-Neom	I-Location
+and	O
+Neom	B-Location
 ,	O
 as	O
 it	O

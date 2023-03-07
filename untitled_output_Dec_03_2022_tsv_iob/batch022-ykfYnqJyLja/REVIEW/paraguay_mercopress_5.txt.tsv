@@ -8,10 +8,10 @@ Grande	I-Facility	I-Location
 in	O
 the	O
 Brazilian	B-NORP
-southernmost	B-Location
-state	I-Location
-of	I-Location
-Rio	I-Location
+southernmost	O
+state	O
+of	O
+Rio	B-Location
 Grande	I-Location
 do	I-Location
 sul	I-Location
@@ -193,8 +193,8 @@ ports	O
 in	O
 the	O
 '	O
-gaucho'	B-Location
-state	I-Location
+gaucho'	O
+state	O
 ,	O
 Porto	B-Location
 Alegre	I-Location

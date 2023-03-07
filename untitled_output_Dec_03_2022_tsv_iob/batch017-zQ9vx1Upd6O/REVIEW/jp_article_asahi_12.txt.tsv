@@ -25,7 +25,7 @@ to	O
 invade	O
 the	O
 Japanese	B-Location	B-NORP
-archipelago	I-Location
+archipelago	O
 —	O
 the	O
 second	O
@@ -54,8 +54,8 @@ seas	O
 and	O
 islands	O
 of	O
-northern	B-Location
-Kyushu	I-Location
+northern	O
+Kyushu	B-Location
 ,	O
 with	O
 fierce	O
@@ -2831,7 +2831,7 @@ shellfish	O
 at	O
 the	O
 Kozaki	B-Location
-coast	I-Location
+coast	O
 on	O
 Takashima	B-Location
 .	O

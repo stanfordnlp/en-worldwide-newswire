@@ -28,9 +28,9 @@ Co	I-Organization
 in	O
 Nantou	B-Location
 County	I-Location
-’	I-Location
-s	I-Location
-Caotun	I-Location
+’	O
+s	O
+Caotun	B-Location
 Township	I-Location
 (	O
 草屯	O

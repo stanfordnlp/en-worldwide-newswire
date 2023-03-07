@@ -45,8 +45,8 @@ incident	O
 happened	O
 in	O
 Kodenchery	B-Location
-in	I-Location
-Kozhikode	I-Location
+in	O
+Kozhikode	B-Location
 district	O
 which	O
 is	O

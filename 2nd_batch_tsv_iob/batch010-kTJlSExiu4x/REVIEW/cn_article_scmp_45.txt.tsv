@@ -314,7 +314,7 @@ now	O
 known	O
 as	O
 Java	B-Location
-island	I-Location
+island	O
 ,	O
 ruled	O
 from	O
@@ -484,8 +484,8 @@ region	O
 encompassing	O
 much	O
 of	O
-maritime	B-Location
-SEA	I-Location
+maritime	O
+SEA	B-Location
 .	O
 In	O
 a	O
@@ -522,10 +522,10 @@ and	O
 culture	O
 in	O
 the	O
-Indo	B-Location	B-NORP
--	I-Location
-Malaysian	I-Location	B-NORP
-archipelago	I-Location
+Indo	B-NORP
+-	I-NORP
+Malaysian	I-NORP	B-NORP
+archipelago	O
 before	O
 the	O
 16th	O
@@ -741,9 +741,9 @@ its	O
 location	O
 on	O
 the	O
-island	B-Location
-of	I-Location
-Borneo	I-Location
+island	O
+of	O
+Borneo	B-Location
 –	O
 which	O
 Indonesia	B-Location

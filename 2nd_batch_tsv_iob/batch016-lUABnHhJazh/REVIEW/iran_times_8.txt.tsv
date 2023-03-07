@@ -104,9 +104,9 @@ after	O
 the	O
 kingdom	O
 executed	O
-Shiite	B-Person
-cleric	I-Person
-Nimr	I-Person
+Shiite	B-NORP
+cleric	O
+Nimr	B-Person
 al	I-Person
 -	I-Person
 Nimr	I-Person
@@ -302,8 +302,8 @@ of	O
 Saudi	B-Location
 Arabia	I-Location
 and	O
-the	B-Location
-Islamic	I-Location
+the	O
+Islamic	B-Location
 Republic	I-Location
 of	I-Location
 Iran	I-Location

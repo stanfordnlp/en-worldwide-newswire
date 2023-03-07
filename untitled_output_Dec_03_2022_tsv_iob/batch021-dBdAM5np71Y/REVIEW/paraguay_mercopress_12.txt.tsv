@@ -29,9 +29,9 @@ trip	O
 on	O
 the	O
 Colombian	B-NORP
-island	B-Location
-of	I-Location
-Baru	I-Location
+island	O
+of	O
+Baru	B-Location
 near	O
 the	O
 city	O

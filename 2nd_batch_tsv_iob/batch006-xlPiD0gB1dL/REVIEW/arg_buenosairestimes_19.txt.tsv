@@ -403,9 +403,9 @@ the	O
 island	O
 of	O
 Lesbos	B-Location
-(	I-Location
-Greece	I-Location
-)	I-Location
+(	O
+Greece	B-Location
+)	O
 and	O
 episodes	O
 of	O
@@ -503,18 +503,18 @@ a	O
 mural	O
 in	O
 the	O
-cathedral	B-Facility
-of	I-Facility
-Riobamba	I-Facility	B-Location
-(	I-Facility	I-Location
-Ecuador	I-Facility	I-Location
-)	I-Facility	I-Location
+cathedral	O
+of	O
+Riobamba	B-Location
+(	O	
+Ecuador	B-Location
+)	O	
 another	O
 in	O
 Curitiba	B-Location
-(	I-Location
-Brazil	I-Location
-)	I-Location
+(	O
+Brazil	B-Location
+)	O
 and	O
 a	O
 sculpture	O
@@ -524,9 +524,9 @@ to	O
 Gandhi	B-Person
 in	O
 Barcelona	B-Location
-(	I-Location
-Spain	I-Location
-)	I-Location
+(	O
+Spain	B-Location
+)	O
 ,	O
 among	O
 other	O

@@ -114,8 +114,8 @@ current	O
 state	O
 of	O
 the	O
-Suame	B-Facility	B-Location
-intersection	I-Facility
+Suame	B-Location
+intersection	O
 was	O
 characterized	O
 by	O
@@ -231,16 +231,16 @@ include	O
 the	O
 Offinso	B-Facility	B-Location
 Road	I-Facility
-(	I-Facility
-N	I-Facility
-10	I-Facility
-)	I-Facility
+(	O
+N	B-Location
+10	I-Location
+)	O
 3	O
 km	O
-Suame	B-Location	B-Facility
-roundabout	I-Location	I-Facility
--	I-Location
-Abusuakuruwa	I-Location
+Suame	B-Location	
+roundabout	O	
+-	O
+Abusuakuruwa	B-Location
 ,	O
 Western	B-Location
 Bypass	I-Location
@@ -256,10 +256,10 @@ Interchange	I-Facility
 Mampong	B-Facility	B-Location
 Road	I-Facility
 South	I-Facility
-(	I-Facility
-N	I-Facility
-10	I-Facility
-)	I-Facility
+(	O
+N	B-Location
+10	I-Location
+)	O
 1.2	O
 KM	O
 Suame	B-Facility	B-Location

@@ -740,8 +740,8 @@ the	O
 state	O
 including	O
 Warrnambool	B-Location
-,	I-Location
-Ballarat	I-Location
+,	O
+Ballarat	B-Location
 and	O
 Falls	B-Location
 Creek	I-Location

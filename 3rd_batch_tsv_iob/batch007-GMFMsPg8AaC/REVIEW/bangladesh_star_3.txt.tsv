@@ -50,12 +50,12 @@ Babul	B-Person
 Mia	I-Person
 of	O
 Rampurdasha	B-Location
-village	I-Location
+village	O
 in	O
 Barhatta	B-Location
 upazila	I-Location
-of	I-Location
-Netrakona	I-Location
+of	O
+Netrakona	B-Location
 ,	O
 reports	O
 our	O

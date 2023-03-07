@@ -619,8 +619,8 @@ and	O
 arrived	O
 neighbouring	O
 Congo	B-Location
-(	I-Location
-Kinshasa	I-Location
+(	O
+Kinshasa	B-Location
 )	O
 ,	O
 while	O

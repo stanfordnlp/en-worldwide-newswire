@@ -302,29 +302,29 @@ San	B-Location
 Miguel	I-Location
 de	I-Location
 Allende	I-Location
-,	I-Location
-Mexico	I-Location
+,	O
+Mexico	B-Location
 City	I-Location
 ,	O
 and	O
-Merida	B-Location	B-Location
-in	I-Location
-Mexico	I-Location	B-Location
+Merida	B-Location
+in	O
+Mexico	B-Location
 ;	O
-Cusco	B-Location	B-Location
-in	I-Location
-Peru	I-Location	B-Location
+Cusco	B-Location
+in	O
+Peru	B-Location	
 ;	O
 and	O
-Charleston	B-Location	B-Location
-(	I-Location
-South	I-Location	B-Location
-Carolina	I-Location	I-Location
-)	I-Location
-in	I-Location
-the	I-Location
-United	I-Location	B-Location
-States	I-Location	I-Location
+Charleston	B-Location	
+(	O
+South	B-Location
+Carolina	I-Location
+)	O
+in	O
+the	O
+United	B-Location
+States	I-Location
 .	O
 
 "	O

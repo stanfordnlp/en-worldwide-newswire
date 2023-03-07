@@ -153,12 +153,12 @@ should	O
 continue	O
 using	O
 the	O
-Guosheng	B-Facility
-and	I-Facility
-Maanshan	I-Facility	B-Location
-nuclear	I-Facility
-power	I-Facility
-plants	I-Facility
+Guosheng	B-Location
+and	O
+Maanshan	B-Location
+nuclear	O
+power	O
+plants	O
 past	O
 2025	B-Misc
 ,	O

@@ -559,7 +559,7 @@ Aoraki	B-Location
 /	O
 Mt	B-Location
 Cook	I-Location
-village	I-Location
+village	O
 on	O
 18	B-Misc
 July	I-Misc

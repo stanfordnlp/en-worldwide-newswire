@@ -8,8 +8,8 @@ the	O
 bush	O
 in	O
 far	O
-western	B-Location
-Queensland	I-Location
+western	O
+Queensland	B-Location
 ,	O
 a	O
 lone	O
@@ -248,10 +248,10 @@ meagre	O
 shanty	O
 on	O
 the	O
-western	B-Location
-bank	I-Location
-of	I-Location
-Quilberry	I-Location
+western	O
+bank	O
+of	O
+Quilberry	B-Location
 Creek	I-Location
 .	O
 

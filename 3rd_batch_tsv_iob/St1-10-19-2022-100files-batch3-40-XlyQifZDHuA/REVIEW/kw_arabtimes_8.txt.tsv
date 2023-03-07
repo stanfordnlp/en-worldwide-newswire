@@ -230,8 +230,8 @@ Al	B-Location
 Firdous	I-Location
 areas	O
 ,	O
-old	B-Location
-Farwaniya	I-Location
+old	O
+Farwaniya	B-Location
 ,	O
 Andalusia	B-Location
 ,	O

@@ -710,9 +710,9 @@ traffic	O
 jams	O
 in	O
 Taipei	B-Location
-’	I-Location
-s	I-Location
-Neihu	I-Location
+’	O
+s	O
+Neihu	B-Location
 District	I-Location
 (	O
 內湖	O

@@ -97,8 +97,8 @@ Macrozone	I-Location
 which	O
 comprises	O
 the	O
-Central	O
-South	O
+Central	B-Location
+South	I-Location
 regions	O
 of	O
 La	B-Location
@@ -152,7 +152,7 @@ place	O
 in	O
 the	O
 Biobío	B-Location
-region	I-Location
+region	O
 .	O
 
 “	O

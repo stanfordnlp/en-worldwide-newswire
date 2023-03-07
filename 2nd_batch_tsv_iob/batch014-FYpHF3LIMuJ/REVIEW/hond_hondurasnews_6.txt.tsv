@@ -492,8 +492,8 @@ within	O
 them	O
 .	O
 
-The	B-Location
-Cayos	I-Location
+The	O
+Cayos	B-Location
 consist	O
 of	O
 two	O
@@ -1331,9 +1331,9 @@ exist	O
 on	O
 the	O
 other	O
-island	B-Location
-of	I-Location
-Róatan	I-Location
+island	O
+of	O
+Róatan	B-Location
 .	O
 A	O
 good	O

@@ -137,9 +137,9 @@ among	O
 them	O
 ,	O
 the	O
-Avanzalia	B-Facility
-Panama	I-Facility
-generator	I-Facility
+Avanzalia	B-Location
+Panama	I-Location
+generator	O
 ,	O
 the	O
 largest	O
@@ -153,7 +153,7 @@ in	O
 Penonomé	B-Location
 ,	I-Location
 Coclé	I-Location
-province	I-Location
+province	O
 ,	O
 with	O
 120	O

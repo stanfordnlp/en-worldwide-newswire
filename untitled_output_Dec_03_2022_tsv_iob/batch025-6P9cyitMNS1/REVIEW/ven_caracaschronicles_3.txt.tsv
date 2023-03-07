@@ -1255,8 +1255,8 @@ Ringling	I-Location
 Museum	I-Location
 of	I-Location
 Art	I-Location
-in	I-Location
-Sarasota	I-Location
+in	O
+Sarasota	B-Location
 .	O
 
 Stein	B-Person

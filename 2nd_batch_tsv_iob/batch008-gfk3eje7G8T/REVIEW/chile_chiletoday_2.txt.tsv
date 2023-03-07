@@ -234,9 +234,9 @@ the	O
 interaction	O
 between	O
 the	O
-Nazca	B-NORP
-and	I-NORP
-South	I-NORP
+Nazca	B-Location
+and	O
+South	B-NORP
 American	I-NORP
 plates	O
 is	O

@@ -68,8 +68,8 @@ municipalities	O
 of	O
 Beaufort	B-Location
 West	I-Location
-,	I-Location
-Kannaland	I-Location
+,	O
+Kannaland	B-Location
 ,	O
 and	O
 Laingsburg	B-Location

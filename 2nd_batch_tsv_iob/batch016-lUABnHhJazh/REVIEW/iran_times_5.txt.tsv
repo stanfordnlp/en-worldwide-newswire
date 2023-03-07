@@ -213,11 +213,11 @@ IRGC	B-Organization
 officers	O
 at	O
 the	O
-Quds	B-Location
-headquarters	I-Location
+Quds	B-Organization
+headquarters	O
 in	O
-southeast	B-Location
-Iran	I-Location
+southeast	O
+Iran	B-Location
 .	O
 
 Emphasizing	O
@@ -278,8 +278,8 @@ IRGC	B-Organization
 commanders	O
 visited	O
 the	O
-eastern	B-Location
-borders	I-Location
+eastern	O
+borders	O
 and	O
 appreciated	O
 the	O

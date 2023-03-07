@@ -200,9 +200,9 @@ Midlands	I-Location
 —	O
 an	O
 area	O
-south	B-Location
-of	I-Location
-Launceston	I-Location
+south	O
+of	O
+Launceston	B-Location
 —	O
 because	O
 of	O

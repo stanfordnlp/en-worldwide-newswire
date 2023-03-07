@@ -70,8 +70,8 @@ new	O
 capital	O
 of	O
 Nusantara	B-Location
-in	I-Location
-East	I-Location
+in	O
+East	B-Location
 Kalimantan	I-Location
 .	O
 

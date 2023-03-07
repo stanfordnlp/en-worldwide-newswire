@@ -390,10 +390,10 @@ veld	O
 next	O
 to	O
 Jackson	B-Location	B-Person
-squatter	I-Location
-camp	I-Location
-in	I-Location
-Eikenhof	I-Location	B-Location
+squatter	O
+camp	O
+in	O
+Eikenhof	B-Location
 on	O
 the	O
 13th	B-Misc

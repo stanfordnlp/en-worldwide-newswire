@@ -273,10 +273,10 @@ to	O
 Akwamu	B-Location
 -	I-Location
 Korankye	I-Location
-(	I-Location
-Eastern	I-Location
-region	I-Location
-)	I-Location
+(	O
+Eastern	B-Location
+region	O
+)	O
 and	O
 then	O
 loaded	O
@@ -351,18 +351,18 @@ Roads	I-Misc
 
 “	O
 This	O
-$	B-Facility	B-Money
-200	I-Facility	I-Money
-million	I-Facility	I-Money
-inland	I-Facility
-marine	I-Facility
-port	I-Facility
+$	B-Money
+200	I-Money
+million	I-Money
+inland	O
+marine	O
+port	O
 and	O
 the	O
-$	B-Facility	B-Money
-250	I-Facility	I-Money
-million	I-Facility	I-Money
-Industrial	I-Facility
+$	B-Money
+250	I-Money
+million	I-Money
+Industrial	B-Facility
 Park	I-Facility
 will	O
 address	O

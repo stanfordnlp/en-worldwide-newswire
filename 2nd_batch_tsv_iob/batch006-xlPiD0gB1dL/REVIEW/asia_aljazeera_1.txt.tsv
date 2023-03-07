@@ -16,9 +16,9 @@ this	O
 month	O
 in	O
 the	O
-republic	B-Location
-of	I-Location
-Karakalpakstan	I-Location
+republic	O
+of	O
+Karakalpakstan	B-Location
 over	O
 a	O
 proposal	O

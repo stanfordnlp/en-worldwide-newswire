@@ -134,12 +134,12 @@ the	O
 construction	O
 work	O
 for	O
-220	B-Facility
-MW	I-Facility
-Eg	I-Facility
-River	I-Facility
-hydropower	I-Facility
-plant	I-Facility
+220	O
+MW	O
+Eg	B-Location
+River	I-Location
+hydropower	O
+plant	O
 .	O
 
 There	O

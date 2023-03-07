@@ -417,10 +417,10 @@ cost	O
 smaller	O
 version	O
 of	O
-Russia	B-Facility	B-Location
-’	I-Facility
-s	I-Facility
-Poseidon	I-Facility
+Russia	B-Location
+’	O
+s	O
+Poseidon	B-Misc
 nuclear	O
 -	O
 powered	O
@@ -452,10 +452,10 @@ cost	O
 smaller	O
 version	O
 of	O
-Russia	B-Facility	B-Location
-’	I-Facility
-s	I-Facility
-Poseidon	I-Facility
+Russia	B-Location
+’	O
+s	O
+Poseidon	B-Misc
 nuclear	O
 -	O
 powered	O
@@ -516,8 +516,8 @@ mini	O
 version	O
 of	O
 the	O
-Russian	B-Facility	B-NORP
-Poseidon	I-Facility
+Russian	B-NORP
+Poseidon	B-Misc
 unmanned	O
 submarine	O
 –	O
@@ -537,7 +537,7 @@ energy	O
 
 Unlike	O
 the	O
-Poseidon	B-Facility
+Poseidon	B-Misc
 ,	O
 which	O
 cannot	O
@@ -656,7 +656,7 @@ between	O
 the	O
 design	O
 and	O
-Poseidon	B-Facility
+Poseidon	B-Misc
 ,	O
 in	O
 a	O
@@ -746,7 +746,7 @@ media	O
 reports	O
 ,	O
 the	O
-Poseidon	B-Facility
+Poseidon	B-Misc
 ’	O
 s	O
 two	O
@@ -807,7 +807,7 @@ built	O
 Instead	O
 ,	O
 the	O
-Poseidon	B-Facility
+Poseidon	B-Misc
 mainly	O
 serves	O
 as	O

@@ -8,9 +8,9 @@ MONTSAME	B-Organization
 Chairman	O
 of	O
 the	O
-State	B-Location
-Great	I-Location
-Khural	I-Location
+State	B-Organization
+Great	I-Organization
+Khural	I-Organization
 G	B-Person
 .	I-Person
 Zandanshatar	I-Person

@@ -364,10 +364,10 @@ potentially	O
 shut	O
 down	O
 the	O
-Newport	B-Location	B-Facility
-plant	I-Location	I-Facility
-in	I-Location
-South	I-Location
+Newport	B-Location
+plant	O	
+in	O
+South	B-Location
 Wales	I-Location
 and	O
 move	O

@@ -103,8 +103,8 @@ He	O
 added	O
 ,	O
 “	O
-The	B-Location
-Islamic	I-Location
+The	O
+Islamic	B-Location
 Republic	I-Location
 of	I-Location
 Iran	I-Location
@@ -486,7 +486,7 @@ country	O
 and	O
 the	O
 Kurdistan	B-Location
-region	I-Location
+region	O
 from	O
 inside	O
 and	O

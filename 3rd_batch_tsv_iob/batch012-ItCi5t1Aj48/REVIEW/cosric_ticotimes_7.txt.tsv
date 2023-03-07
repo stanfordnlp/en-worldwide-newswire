@@ -773,8 +773,8 @@ Paris	B-Location
 s	O
 Pompidou	B-Location	B-Person
 Centre	I-Location
-—	I-Location
-Europe	I-Location
+—	O
+Europe	B-Location
 ’	O
 s	O
 largest	O

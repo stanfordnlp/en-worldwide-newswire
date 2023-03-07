@@ -14,16 +14,16 @@ into	O
 a	O
 nallah	O
 near	O
-bus	B-Facility
-stand	I-Facility
-Mandi	I-Facility	B-Location
+bus	O
+stand	O
+Mandi	B-Location
 in	O
-Poonch	B-Location	B-Location
-district	I-Location
+Poonch	B-Location	
+district	O
 of	O
 Jammu	B-Location
-and	I-Location
-Kashmir	I-Location
+and	O
+Kashmir	B-Location
 .	O
 
 10	O

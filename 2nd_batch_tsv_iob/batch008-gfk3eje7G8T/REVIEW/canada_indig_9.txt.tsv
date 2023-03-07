@@ -493,8 +493,8 @@ then	O
 to	O
 Fort	B-Location
 Chipewyan	I-Location
-in	I-Location
-Alberta	I-Location
+in	O
+Alberta	B-Location
 .	O
 
 Student	O

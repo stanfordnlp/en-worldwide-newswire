@@ -390,8 +390,8 @@ Mufti	B-Person
 s	O
 ruled	O
 Jammu	B-Location
-and	I-Location
-Kashmir	I-Location
+and	O
+Kashmir	B-Location
 for	O
 the	O
 past	O

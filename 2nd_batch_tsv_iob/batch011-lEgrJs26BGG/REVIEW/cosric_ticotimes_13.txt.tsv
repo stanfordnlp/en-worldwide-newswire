@@ -22,10 +22,10 @@ Rica	I-Location
 It	O
 was	O
 called	O
-Costa	B-Location
-Rica	I-Location
-from	O
-Space	B-Location
+Costa	B-Misc	B-Location
+Rica	I-Misc	I-Location
+from	I-Misc
+Space	I-Misc
 and	O
 was	O
 written	O
@@ -62,10 +62,10 @@ and	O
 UNESCO	B-Organization
 .	O
 
-Costa	B-Location
-Rica	I-Location
-from	O
-Space	B-Location
+Costa	B-Misc	B-Location
+Rica	I-Misc	I-Location
+from	I-Misc
+Space	I-Misc	
 was	O
 an	O
 unprecedented	O

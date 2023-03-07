@@ -1223,10 +1223,10 @@ makeshift	O
 house	O
 in	O
 Jammu	B-Location
-’	I-Location
-s	I-Location
-Narwal	I-Location
-area	I-Location
+’	O
+s	O
+Narwal	B-Location
+area	O
 .	O
 
 Begum	B-Person

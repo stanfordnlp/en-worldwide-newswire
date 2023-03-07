@@ -114,8 +114,8 @@ to	O
 ,	O
 between	O
 Séptima	B-Location
-and	I-Location
-Carrera	I-Location
+and	O
+Carrera	B-Location
 13	O
 .	O
 EAAB	B-Organization

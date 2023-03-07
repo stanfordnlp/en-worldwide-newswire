@@ -884,7 +884,7 @@ way	O
 to	O
 the	O
 Iranian	B-Facility	B-NORP
-port	I-Facility
+port	O
 of	O
 Bandar	B-Location
 Abbas	I-Location
@@ -1196,8 +1196,8 @@ Port	I-Facility
 ,	O
 even	O
 though	O
-Adani	B-Facility	B-Organization
-ports	I-Facility
+Adani	B-Organization
+ports	O
 in	O
 India	B-Location
 handle	O

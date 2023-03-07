@@ -19,9 +19,9 @@ Mutual	I-Organization
 Israeli	I-Organization	B-NORP
 Argentina	I-Organization	B-Location
 )	O
-Jewish	B-Facility	B-NORP
-community	I-Facility
-centre	I-Facility
+Jewish	B-NORP
+community	O
+centre	O
 last	O
 Monday	B-Misc
 had	O

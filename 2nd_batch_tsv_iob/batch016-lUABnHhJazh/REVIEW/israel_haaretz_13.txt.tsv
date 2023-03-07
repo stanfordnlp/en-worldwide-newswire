@@ -916,9 +916,9 @@ Court	O
 justice	O
 for	O
 the	O
-state	B-Location
-of	I-Location
-Victoria	I-Location
+state	O
+of	O
+Victoria	B-Location
 ,	O
 faulted	O
 the	O

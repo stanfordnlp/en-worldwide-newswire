@@ -529,10 +529,10 @@ company	O
 has	O
 built	O
 a	O
-space	B-Facility
-mission	I-Facility
-control	I-Facility
-centre	I-Facility
+space	O
+mission	O
+control	O
+centre	O
 .	O
 
 Juan	B-Person
@@ -700,11 +700,11 @@ talking	O
 about	O
 ,	O
 a	O
-300	B-Facility
--	I-Facility
-megawatt	I-Facility
-solar	I-Facility
-park	I-Facility
+300	O
+-	O
+megawatt	O
+solar	O
+park	O
 ,	O
 was	O
 impossible	O

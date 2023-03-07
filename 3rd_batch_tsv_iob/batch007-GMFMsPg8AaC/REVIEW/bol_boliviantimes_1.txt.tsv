@@ -794,8 +794,8 @@ a	O
 small	O
 town	O
 in	O
-central	B-Location
-Bolivia	I-Location
+central	O
+Bolivia	B-Location
 .	O
 Luis	B-Person
 Fernando	I-Person

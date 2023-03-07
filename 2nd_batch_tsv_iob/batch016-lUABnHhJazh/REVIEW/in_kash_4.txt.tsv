@@ -14,8 +14,8 @@ Diwas	I-Misc
 ,	O
 the	O
 Jammu	B-Location
-and	I-Location
-Kashmir	I-Location
+and	O
+Kashmir	B-Location
 Lieutenant	O
 Governor	O
 ,	O

@@ -111,12 +111,12 @@ the	O
 Estadio	B-Facility
 Olímpico	I-Facility
 Metropolitano	I-Facility
-(	B-Location
-San	I-Location
+(	O
+San	B-Location
 Pedro	I-Location
 Sula	I-Location
-)	I-Location
-Honduras	I-Location
+)	O
+Honduras	B-Location
 at	O
 8:00 PM.	O
 

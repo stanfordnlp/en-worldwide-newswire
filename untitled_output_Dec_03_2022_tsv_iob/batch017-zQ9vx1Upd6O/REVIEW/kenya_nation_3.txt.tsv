@@ -235,8 +235,8 @@ notable	O
 ones	O
 are	O
 Alupe	B-Location
-in	I-Location
-Busia	I-Location
+in	O
+Busia	B-Location
 County	I-Location
 ,	O
 Kenya	B-Organization	B-Location

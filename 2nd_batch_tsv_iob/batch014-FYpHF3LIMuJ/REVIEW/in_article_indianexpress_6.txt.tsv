@@ -199,9 +199,9 @@ grew	O
 up	O
 in	O
 Delhi	B-Location
-’	I-Location
-s	I-Location
-West	I-Location
+’	O
+s	O
+West	B-Location
 Patel	I-Location
 Nagar	I-Location
 .	O

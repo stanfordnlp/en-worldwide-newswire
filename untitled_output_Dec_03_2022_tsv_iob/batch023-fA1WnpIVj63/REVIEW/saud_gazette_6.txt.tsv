@@ -446,8 +446,8 @@ not	O
 want	O
 to	O
 devour	O
-the	B-Location
-Gulf	I-Location
+the	O
+Gulf	B-Location
 and	O
 the	O
 Arabs	B-NORP

@@ -66,8 +66,8 @@ in	O
 its	O
 occupation	O
 of	O
-Palestinian	B-Location	B-NORP
-lands	I-Location
+Palestinian	B-NORP
+lands	O
 .	O
 
 “	O
@@ -200,7 +200,7 @@ resistance	O
 of	O
 the	O
 Western	B-Location
-world	I-Location
+world	O
 against	O
 the	O
 Russian	B-NORP
@@ -1232,8 +1232,8 @@ with	O
 Iran	B-Location
 .	O
 The	O
-Arab	B-Location
-states	I-Location
+Arab	B-NORP
+states	O
 which	O
 are	O
 closer	O
@@ -1283,8 +1283,8 @@ on	O
 how	O
 willing	O
 these	O
-Arab	B-Location
-states	I-Location
+Arab	B-NORP
+states	O
 are	O
 to	O
 put	O

@@ -12,7 +12,7 @@ Sudan	B-Location
 's	I-Location
 Blue	I-Location
 Nile	I-Location
-state	I-Location
+state	O
 have	O
 killed	O
 105	O
