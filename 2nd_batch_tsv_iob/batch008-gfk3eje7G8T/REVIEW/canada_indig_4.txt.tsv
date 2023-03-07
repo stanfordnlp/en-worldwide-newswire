@@ -706,9 +706,9 @@ other	O
 personal	O
 belongings	O
 at	O
-Chief	O
-Whitecap	B-Person
-Park	I-Person
+Chief	B-Location	
+Whitecap	I-Location	B-Person
+Park	I-Location	I-Person
 ,	O
 just	O
 south	O

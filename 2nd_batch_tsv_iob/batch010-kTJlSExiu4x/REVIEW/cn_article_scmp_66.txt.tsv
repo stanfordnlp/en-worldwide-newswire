@@ -241,7 +241,7 @@ traffic	O
 congestion	O
 on	O
 Mombasa	B-Location
-Road	O
+Road	I-Location
 ,	O
 which	O
 runs	O

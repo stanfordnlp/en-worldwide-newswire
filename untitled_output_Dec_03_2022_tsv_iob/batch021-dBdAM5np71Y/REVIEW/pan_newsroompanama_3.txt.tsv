@@ -340,7 +340,7 @@ district	O
 of	O
 Arraiján	B-Location
 in	O
-West	O
-Panama	B-Location
+West	B-Location
+Panama	I-Location
 .	O
 

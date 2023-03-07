@@ -19,7 +19,7 @@ canopy	O
 of	O
 the	O
 Congo	B-Location
-Basin	O
+Basin	I-Location
 rainforest	O
 ,	O
 the	O
@@ -169,14 +169,14 @@ diseases	O
 The	O
 Congo	B-Location	B-Location
 Basin	I-Location
-rainforest	I-Location
+rainforest	O
 ,	O
 larger	O
 than	O
 the	O
 US	B-Location	B-Location
-state	I-Location
-of	I-Location
+state	O
+of	O
 Alaska	I-Location
 ,	O
 refers	O
@@ -275,7 +275,7 @@ And	O
 the	O
 Congo	B-Location	B-Location
 Basin	I-Location
-forest	I-Location
+forest	O
 is	O
 one	O
 of	O
@@ -451,7 +451,7 @@ especially	O
 those	O
 from	O
 Congo	B-Location
-Basin	O
+Basin	I-Location
 ,	O
 to	O
 act	O

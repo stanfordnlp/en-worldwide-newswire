@@ -32,7 +32,7 @@ two	O
 countries	O
 held	O
 in	O
-Islamabad	O
+Islamabad	B-Location
 under	O
 the	O
 Permanent	B-Organization
@@ -598,7 +598,7 @@ gives	O
 the	O
 right	O
 to	O
-Pakistan	O
+Pakistan	B-Location
 to	O
 raise	O
 objections	O

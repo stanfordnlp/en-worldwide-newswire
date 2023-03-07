@@ -20,8 +20,8 @@ people	O
 at	O
 the	O
 notorious	O
-Nithi	B-Facility
-bridge	I-Facility
+Nithi	B-Location
+bridge	O
 on	O
 Sunday	B-Misc
 evening	O
@@ -446,8 +446,8 @@ boarded	O
 On	O
 reaching	O
 the	O
-Nithi	B-Facility
-bridge	I-Facility
+Nithi	B-Location
+bridge	O
 ,	O
 the	O
 driver	O
@@ -850,7 +850,7 @@ not	O
 even	O
 at	O
 the	O
-Nithi	O
+Nithi	B-Location
 bridge	O
 when	O
 it	O

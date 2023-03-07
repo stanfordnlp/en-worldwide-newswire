@@ -23,7 +23,7 @@ Amazon	B-Location
 route	O
 (	O
 the	O
-Hidroelectrica	O
+Hidroelectrica	B-Location
 area	O
 )	O
 —	O
@@ -164,10 +164,10 @@ into	O
 the	O
 llaqta	B-NORP
 or	O
-Inca	B-Location	B-NORP
-citadel	I-Location
-of	I-Location
-Machu	I-Location
+Inca	B-NORP
+citadel	O
+of	O
+Machu	B-Location
 Picchu	I-Location
 ,	O
 visitors	O
@@ -309,7 +309,7 @@ for	O
 admission	O
 to	O
 the	O
-Inca	O
+Inca	B-NORP
 sanctuary	O
 will	O
 increase	O

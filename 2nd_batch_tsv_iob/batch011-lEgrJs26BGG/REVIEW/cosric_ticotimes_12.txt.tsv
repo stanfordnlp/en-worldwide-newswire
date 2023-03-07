@@ -189,7 +189,7 @@ outside	O
 of	O
 rural	O
 and	O
-Indigenous	O
+Indigenous	B-NORP
 communities	O
 ,	O
 having	O
@@ -584,7 +584,7 @@ $	B-Money
 per	O
 kilo	O
 in	O
-Brazil	O
+Brazil	B-Location
 ,	O
 compared	O
 to	O

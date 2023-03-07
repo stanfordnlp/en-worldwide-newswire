@@ -13,16 +13,16 @@ Growing	O
 up	O
 in	O
 Samoya	B-Location
-Village	O
+Village	I-Location
 of	O
 Bungoma	B-Location
 County	I-Location
 in	O
 the	O
-Western	B-Location
-part	I-Location
-of	I-Location
-Kenya	I-Location	B-Location
+Western	B-Misc
+part	O
+of	O
+Kenya	B-Location	B-Location
 ,	O
 Elvis	B-Person
 Wanjala	I-Person
@@ -571,7 +571,7 @@ in	O
 December	B-Misc
 2020	I-Misc
 when	O
-Kenya	O
+Kenya	B-Location
 became	O
 the	O
 first	O

@@ -284,8 +284,8 @@ onto	O
 barges	O
 to	O
 the	O
-Debre	O
-Inland	B-Facility
+Debre	B-Facility
+Inland	I-Facility
 Port	I-Facility
 .	O
 In	O

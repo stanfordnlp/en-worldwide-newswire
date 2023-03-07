@@ -523,7 +523,7 @@ and	O
 students	O
 .	O
 In	O
-Israel	O
+Israel	B-Location
 ,	O
 she	O
 was	O
@@ -571,7 +571,7 @@ hearings	O
 She	O
 remains	O
 in	O
-Israel	O
+Israel	B-Location
 awaiting	O
 her	O
 next	O
@@ -948,7 +948,7 @@ Leifer	B-Person
 s	O
 flight	O
 to	O
-Israel	O
+Israel	B-Location
 just	O
 hours	O
 after	O

@@ -630,7 +630,7 @@ neon	O
 sunglasses	O
 in	O
 the	O
-Sahara	O
+Sahara	B-Location
 desert	O
 .	O
 ”	O

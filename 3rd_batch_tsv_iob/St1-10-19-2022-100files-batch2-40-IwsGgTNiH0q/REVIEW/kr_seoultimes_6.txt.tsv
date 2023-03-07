@@ -155,12 +155,12 @@ major	O
 trade	O
 city	O
 in	O
-Eastern	O
-Province	O
+Eastern	B-Location
+Province	I-Location
 of	O
 the	O
-Middle	O
-East	O
+Middle	B-Location
+East	I-Location
 country	O
 on	O
 Feb	B-Misc
@@ -266,10 +266,10 @@ named	O
 IMI	O
 in	O
 the	O
-King	O
-Salman	B-Person
-Shipbuilding	O
-Complex	O
+King	B-Location
+Salman	I-Location	B-Person
+Shipbuilding	I-Location
+Complex	I-Location
 including	O
 a	O
 gigantic	O

@@ -792,7 +792,7 @@ at	O
 a	O
 time	O
 when	O
-Tehran	O
+Tehran	B-Location
 is	O
 negotiating	O
 with	O
@@ -832,7 +832,7 @@ it	O
 will	O
 not	O
 allow	O
-Iran	O
+Iran	B-Location
 to	O
 bite	O
 it	O

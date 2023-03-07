@@ -931,8 +931,8 @@ Court	I-Organization
 ICC	B-Organization
 )	O
 in	O
-The	O
-Hague	B-Organization
+The	B-Location
+Hague	I-Location
 yesterday	O
 voiced	O
 its	O

@@ -333,7 +333,7 @@ Catholic	B-NORP
 Bishop	O
 of	O
 Tamale	B-Location
-Archdiocese	O
+Archdiocese	I-Location
 ,	O
 both	O
 encouraged	O

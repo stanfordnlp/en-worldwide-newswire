@@ -99,7 +99,7 @@ social	O
 development	O
 for	O
 Riyadh	B-Location
-Region	O
+Region	I-Location
 .	O
 
 Remat	B-Organization
@@ -608,7 +608,7 @@ life	O
 ,	O
 thus	O
 turning	O
-Riyadh	O
+Riyadh	B-Location
 into	O
 an	O
 ideal	O

@@ -783,7 +783,7 @@ higher	O
 education	O
 system	O
 like	O
-India	O
+India	B-Location
 ,	O
 where	O
 perception	O

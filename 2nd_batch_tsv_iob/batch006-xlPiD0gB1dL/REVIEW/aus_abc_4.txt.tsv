@@ -1,6 +1,6 @@
 https://www.abc.net.au/news/2022-08-02/flood-inquiry-receives-scathing-bundjalung-nation-contribution/101293114	O
 
-Indigenous	O
+Indigenous	B-NORP
 community	O
 leaders	O
 on	O
@@ -131,7 +131,7 @@ Arrabella	B-Person
 Dougles	I-Person
 from	O
 the	O
-Tweed	O
+Tweed	B-Location
 -	O
 based	O
 Currie	B-Organization

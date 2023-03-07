@@ -150,7 +150,7 @@ to	O
 migrate	O
 illegally	O
 to	O
-Italy	O
+Italy	B-Location
 via	O
 Libya	B-Location
 .	O

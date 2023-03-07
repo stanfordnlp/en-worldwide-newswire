@@ -139,7 +139,7 @@ trial	O
 to	O
 the	O
 Lagos	B-Location
-State	O
+State	I-Location
 division	O
 of	O
 the	O
@@ -224,7 +224,7 @@ transfer	O
 the	O
 trial	O
 to	O
-Lagos	O
+Lagos	B-Location
 ,	O
 on	O
 the	O

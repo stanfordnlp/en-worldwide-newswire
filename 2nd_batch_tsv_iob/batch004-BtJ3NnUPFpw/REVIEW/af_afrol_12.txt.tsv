@@ -292,8 +292,8 @@ the	O
 money	O
 from	O
 his	O
-Capital	O
-Hill	O
+Capital	B-Location
+Hill	I-Location
 office	O
 with	O
 a	O
@@ -806,7 +806,7 @@ her	O
 party	O
 ,	O
 "	O
-Malawi	O
+Malawi	B-Location
 's	O
 chief	O
 journalist	O

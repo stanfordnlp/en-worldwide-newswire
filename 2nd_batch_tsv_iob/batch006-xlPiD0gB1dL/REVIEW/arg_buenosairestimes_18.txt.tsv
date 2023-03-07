@@ -87,7 +87,7 @@ moderation	O
 which	O
 Buenos	B-Location
 Aires	I-Location
-Province	O
+Province	I-Location
 Development	O
 Minister	O
 Andrés	B-Person

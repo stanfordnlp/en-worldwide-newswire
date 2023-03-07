@@ -12,8 +12,8 @@ raid	O
 in	O
 the	O
 occupied	O
-West	O
-Bank	O
+West	B-Location
+Bank	I-Location
 ,	O
 officials	O
 on	O
@@ -160,8 +160,8 @@ daily	O
 operations	O
 in	O
 the	O
-West	O
-Bank	O
+West	B-Location
+Bank	I-Location
 following	O
 a	O
 spate	O
@@ -179,8 +179,8 @@ state	O
 has	O
 occupied	O
 the	O
-West	O
-Bank	O
+West	B-Location
+Bank	I-Location
 since	O
 1967	B-Misc
 .	O

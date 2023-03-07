@@ -314,9 +314,9 @@ Andaman	B-Location
 Sea	I-Location
 ,	O
 the	O
-South	O
+South	B-Location
 and	O
-Gulf	O
+Gulf	B-Location
 is	O
 weakening	O
 .	O

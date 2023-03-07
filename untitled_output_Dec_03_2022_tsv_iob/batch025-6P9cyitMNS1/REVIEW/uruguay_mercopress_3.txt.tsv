@@ -127,7 +127,7 @@ exclusive	O
 economic	O
 zone	O
 (	O
-EEZ	O
+EEZ	B-Location
 )	O
 .	O
 Uruguay	B-Location

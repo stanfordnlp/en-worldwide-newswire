@@ -597,7 +597,7 @@ for	O
 secondary	O
 schools	O
 .	O
-Israel	O
+Israel	B-Location
 devotes	O
 5.8	O
 percent	O
@@ -1397,7 +1397,7 @@ so	O
 successfully	O
 ,	O
 and	O
-Israel	O
+Israel	B-Location
 too	O
 in	O
 other	O

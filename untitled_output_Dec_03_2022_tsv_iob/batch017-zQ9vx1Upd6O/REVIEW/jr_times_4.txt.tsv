@@ -23,10 +23,10 @@ on	O
 Monday	B-Misc
 visited	O
 the	O
-King	O
-Abdullah	B-Person
-II	O
-Airbase	O
+King	B-Location
+Abdullah	I-Location	B-Person
+II	I-Location
+Airbase	I-Location
 .	O
 
 King	O

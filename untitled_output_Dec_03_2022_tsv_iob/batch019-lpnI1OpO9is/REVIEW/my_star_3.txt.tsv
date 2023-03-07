@@ -111,8 +111,8 @@ Level	O
 Housing	O
 Unit	O
 ,	O
-Old	O
-Building	O
+Old	B-Location
+Building	I-Location
 ,	O
 MoRA	B-Organization
 ’	O

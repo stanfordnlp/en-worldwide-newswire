@@ -559,7 +559,7 @@ no	O
 legal	O
 way	O
 for	O
-Israel	O
+Israel	B-Location
 to	O
 impose	O
 supervision	O
@@ -974,7 +974,7 @@ to	O
 enforce	O
 that	O
 in	O
-Israel	O
+Israel	B-Location
 ,	O
 because	O
 it	O
@@ -1140,7 +1140,7 @@ News	I-Organization
 he	O
 immigrated	O
 to	O
-Israel	O
+Israel	B-Location
 from	O
 the	O
 United	B-Location

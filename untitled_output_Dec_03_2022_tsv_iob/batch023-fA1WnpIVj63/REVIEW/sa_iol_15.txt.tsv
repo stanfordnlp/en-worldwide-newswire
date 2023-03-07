@@ -96,8 +96,8 @@ NPA	B-Organization
 spokesperson	O
 in	O
 the	O
-North	O
-West	O
+North	B-Location
+West	I-Location
 division	O
 .	O
 

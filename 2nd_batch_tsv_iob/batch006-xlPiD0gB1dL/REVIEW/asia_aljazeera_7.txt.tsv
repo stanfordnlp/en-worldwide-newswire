@@ -164,7 +164,7 @@ the	O
 richest	O
 men	O
 in	O
-India	O
+India	B-Location
 and	O
 in	O
 Europe	B-Location
@@ -885,7 +885,7 @@ the	O
 Phantom	O
 of	O
 Bombay	B-Location
-House	O
+House	I-Location
 ,	O
 ”	O
 the	O

@@ -157,8 +157,8 @@ painter	O
 born	O
 in	O
 Valencia	B-Location
-,	O
-Venezuela	B-Location
+,	I-Location
+Venezuela	I-Location
 won	O
 a	O
 scholarship	O
@@ -233,8 +233,8 @@ Elliptical	B-Location
 Hall	I-Location
 of	O
 the	O
-Legislative	O
-Palace	O
+Legislative	B-Location
+Palace	I-Location
 and	O
 was	O
 returning	O

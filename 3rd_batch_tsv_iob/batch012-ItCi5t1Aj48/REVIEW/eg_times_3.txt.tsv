@@ -1205,7 +1205,7 @@ wreaking	O
 destruction	O
 on	O
 an	O
-Iraqi	O
+Iraqi	B-NORP
 town	O
 ,	O
 were	O
@@ -2316,7 +2316,7 @@ government	O
 that	O
 could	O
 see	O
-Iraq	O
+Iraq	B-Location
 heading	O
 toward	O
 failed	O

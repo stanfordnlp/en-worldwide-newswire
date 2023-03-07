@@ -161,9 +161,9 @@ thing	O
 .	O
 
 The	O
-City	O
-of	O
-Iqaluit	B-Location
+City	B-Location
+of	I-Location
+Iqaluit	I-Location	B-Location
 has	O
 just	O
 come	O

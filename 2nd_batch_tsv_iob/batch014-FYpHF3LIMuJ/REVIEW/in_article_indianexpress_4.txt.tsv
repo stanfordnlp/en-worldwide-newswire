@@ -1018,7 +1018,7 @@ north	B-Location
 west	I-Location
 London	I-Location
 and	O
-Leicester	O
+Leicester	B-Location
 .	O
 Harrow	B-Location
 alone	O
@@ -2253,7 +2253,7 @@ a	O
 British	B-NORP
 withdrawal	O
 from	O
-India	O
+India	B-Location
 during	O
 the	O
 1907	B-Misc
@@ -2534,7 +2534,7 @@ about	O
 political	O
 relations	O
 with	O
-India	O
+India	B-Location
 and	O
 about	O
 Indian	B-NORP
@@ -5409,7 +5409,7 @@ about	O
 political	O
 relations	O
 with	O
-India	O
+India	B-Location
 and	O
 about	O
 Indian	B-NORP

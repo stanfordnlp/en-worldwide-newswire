@@ -258,8 +258,8 @@ overs	O
 
 Barbados	B-Location
 defeated	O
-Leeward	O
-Islands	O
+Leeward		B-Location
+Islands	I-Location
 by	O
 115	O
 runs	O

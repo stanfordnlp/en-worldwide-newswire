@@ -171,7 +171,7 @@ Washington	B-Location
 D	I-Location
 .	I-Location
 C	I-Location
-.	O
+.	I-Location
 ,	O
 López	B-Person
 Obrador	I-Person
@@ -331,13 +331,13 @@ the	O
 U	B-Location
 .	I-Location
 K	I-Location
-.	O
+.	I-Location
 to	O
 the	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 
 Tuesday	B-Misc
 
@@ -666,7 +666,7 @@ claimed	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 President	O
 Joe	B-Person
 Biden	I-Person
@@ -738,7 +738,7 @@ the	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 Responding	O
 to	O
 criticism	O

@@ -376,7 +376,7 @@ lower	O
 income	O
 groups	O
 in	O
-Indonesia	O
+Indonesia	B-Location
 ,	O
 Jokowi	B-Person
 managed	O

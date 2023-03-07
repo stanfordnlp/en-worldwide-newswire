@@ -170,8 +170,8 @@ the	O
 town	O
 ,	O
 the	O
-Centre	O
-Ville	O
+Centre	B-Location
+Ville	I-Location
 .	O
 Ironically	O
 there	O

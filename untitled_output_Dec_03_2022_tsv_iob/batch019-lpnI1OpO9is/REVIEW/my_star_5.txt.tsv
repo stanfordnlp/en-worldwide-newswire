@@ -391,7 +391,7 @@ the	O
 colonial	O
 -	O
 era	O
-Insein	O
+Insein	B-Location
 prison	O
 and	O
 a	O
@@ -671,7 +671,7 @@ executions	O
 which	O
 go	O
 against	O
-Japan	O
+Japan	B-Location
 's	O
 repeated	O
 urging	O

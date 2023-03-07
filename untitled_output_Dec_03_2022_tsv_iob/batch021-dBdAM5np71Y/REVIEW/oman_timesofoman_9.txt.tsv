@@ -195,15 +195,15 @@ the	O
 concept	O
 of	O
 the	O
-international	B-Misc
-Olympic	I-Misc
-shooting	I-Misc
+international	O
+Olympic	B-Misc
+shooting	O
 at	O
 the	O
 level	O
 of	O
 the	O
-Sultanate	O
+Sultanate	B-Location
 .	O
 Vice	O
 Admiral	O
@@ -306,7 +306,7 @@ capable	O
 or	O
 representing	O
 the	O
-Sultanate	O
+Sultanate	B-Location
 in	O
 the	O
 regional	O
@@ -384,7 +384,7 @@ and	O
 added	O
 to	O
 the	O
-Sultanate	O
+Sultanate	B-Location
 ’	O
 s	O
 status	O
@@ -486,9 +486,9 @@ Shooting	I-Organization
 Club	I-Organization
 in	O
 the	O
-Sultanate	O
-of	O
-Oman	B-Location
+Sultanate	B-Location
+of	I-Location
+Oman	I-Location
 ,	O
 which	O
 he	O
@@ -518,7 +518,7 @@ cultural	O
 heritage	O
 of	O
 the	O
-Sultanate	O
+Sultanate	B-Location
 .	O
 
 He	O
@@ -540,7 +540,7 @@ the	O
 aspirations	O
 of	O
 the	O
-Sultanate	O
+Sultanate	B-Location
 ’	O
 s	O
 shooters	O
@@ -615,7 +615,7 @@ shooting	O
 clubs	O
 in	O
 the	O
-Sultanate	O
+Sultanate	B-Locatio
 would	O
 contribute	O
 to	O

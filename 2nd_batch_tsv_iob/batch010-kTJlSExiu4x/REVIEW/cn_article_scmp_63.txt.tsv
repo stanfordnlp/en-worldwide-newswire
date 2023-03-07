@@ -209,8 +209,8 @@ China	B-Location
 s	O
 rivalry	O
 with	O
-the	B-Location
-West	I-Location
+the	O
+West	B-Organization
 ,	O
 then	O
 this	O
@@ -290,7 +290,7 @@ programme	O
 coming	O
 from	O
 the	O
-West	O
+West	B-Organization
 ,	O
 there	O
 will	O
@@ -565,7 +565,7 @@ the	O
 first	O
 time	O
 the	O
-West	O
+West	B-Organization
 has	O
 tried	O
 to	O

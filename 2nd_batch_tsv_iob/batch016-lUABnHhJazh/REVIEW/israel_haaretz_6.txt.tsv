@@ -791,7 +791,7 @@ big	O
 trade	O
 deals	O
 with	O
-Iran	O
+Iran	B-Location
 to	O
 be	O
 paid	O

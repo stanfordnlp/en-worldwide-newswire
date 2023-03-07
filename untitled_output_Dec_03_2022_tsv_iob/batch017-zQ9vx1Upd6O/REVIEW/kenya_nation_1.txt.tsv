@@ -111,8 +111,8 @@ Dr	O
 Joseph	B-Person
 Kinyua	I-Person
 at	O
-State	O
-House	O
+State	B-Location
+House	I-Location
 ,	O
 Nakuru	B-Location
 .	O

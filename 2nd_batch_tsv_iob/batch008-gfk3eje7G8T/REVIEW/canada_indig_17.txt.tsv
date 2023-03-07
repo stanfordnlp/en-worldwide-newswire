@@ -161,9 +161,9 @@ earth	O
 according	O
 to	O
 the	O
-Prince	O
-of	O
-Wales	B-Facility	B-Location
+Prince	B-Facility
+of	I-Facility
+Wales	I-Facility	B-Location
 Northern	I-Facility
 Heritage	I-Facility
 Centre	I-Facility

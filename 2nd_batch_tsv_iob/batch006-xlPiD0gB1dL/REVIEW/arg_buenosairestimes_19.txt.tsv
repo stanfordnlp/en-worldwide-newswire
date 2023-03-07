@@ -305,7 +305,7 @@ in	O
 in	O
 Buenos	B-Location
 Aires	I-Location
-City	O
+City	I-Location
 ,	O
 Pérez	B-Person
 Esquivel	I-Person

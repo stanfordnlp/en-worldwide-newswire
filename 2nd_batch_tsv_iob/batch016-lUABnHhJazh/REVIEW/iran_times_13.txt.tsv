@@ -708,7 +708,7 @@ to	O
 Iran	B-Location
 ,	O
 making	O
-Iran	O
+Iran	B-Location
 a	O
 regional	O
 power	O
@@ -716,10 +716,10 @@ in	O
 the	O
 Middle	B-Location
 East	I-Location
-(	I-Location
+(	O
 West	I-Location
 Asia	I-Location
-)	I-Location
+)	O
 .	O
 
 Q	O

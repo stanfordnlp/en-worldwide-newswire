@@ -259,10 +259,10 @@ temperatures	O
 with	O
 both	O
 the	O
-North	O
-and	O
-South	O
-Islands	O
+North	B-Location
+and	
+South	B-Location
+Islands	I-Location
 experiencing	O
 record	O
 or	O
