@@ -725,7 +725,7 @@ country	O
 s	O
 remote	O
 Bongha	B-Location
-village	I-Location
+village	O
 .	O
 
 Asked	O
@@ -807,9 +807,9 @@ office	O
 
 During	O
 the	O
-June	B-Misc	B-Misc
-Nato	I-Misc
-summit	I-Misc
+June	B-Misc
+Nato	B-Organization
+summit	O
 in	O
 Spain	B-Location
 ,	O

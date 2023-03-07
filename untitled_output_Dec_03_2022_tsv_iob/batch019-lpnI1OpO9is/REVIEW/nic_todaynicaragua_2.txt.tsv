@@ -10,8 +10,8 @@ made	O
 landfall	O
 in	O
 the	O
-southern	B-Location	B-NORP
-Caribbean	I-Location	I-NORP	B-Location
+southern	O	
+Caribbean	B-Location	B-Location
 of	I-Location
 Nicaragua	I-Location	B-Location
 at	O
@@ -66,11 +66,11 @@ was	O
 located	O
 130	O
 kilometers	O
-south	B-Location
--	I-Location
-southwest	I-Location
-of	I-Location
-Bluefields	I-Location	B-Location
+south	O
+-	O
+southwest	O
+of	O
+Bluefields	B-Location
 ,	O
 with	O
 sustained	O
@@ -116,10 +116,10 @@ as	O
 it	O
 enters	O
 the	O
-southern	B-Location
-part	I-Location
-of	I-Location
-Nicaragua	I-Location	B-Location
+southern	O
+part	O
+of	O
+Nicaragua	B-Location
 .	O
 
 This	O
@@ -413,12 +413,12 @@ be	O
 monitored	O
 along	O
 the	O
-Caribbean	B-NORP
+Caribbean	B-Location	B-NORP
 and	O
 Pacific	B-Location
-coasts	I-Location
-of	I-Location
-Nicaragua	I-Location	B-Location
+coasts	O
+of	O
+Nicaragua	B-Location
 and	O
 Costa	B-Location
 Rica	I-Location
@@ -428,9 +428,9 @@ well	O
 as	O
 the	O
 Pacific	B-Location
-coasts	I-Location
-of	I-Location
-El	I-Location
+coasts	O
+of	O
+El	B-Location
 Salvador	I-Location
 ,	O
 Guatemala	B-Location
@@ -449,12 +449,12 @@ The	O
 spokesman	O
 for	O
 the	O
-Red	B-Misc
-Cross	I-Misc
-of	O
-the	O
-South	B-NORP
-Caribbean	I-NORP
+Red	B-Organization
+Cross	I-Organization
+of	I-Organization
+the	I-Organization
+South	I-Organization	B-Location
+Caribbean	I-Organization	I-Location
 ,	O
 Denis	B-Person
 Bravo	I-Person

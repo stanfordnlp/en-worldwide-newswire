@@ -533,12 +533,12 @@ In	O
 response	O
 ,	O
 the	O
-Conservative	B-Organization
-party	I-Organization
+Conservative	B-NORP
+party	O
 ,	O
 nicknamed	O
 the	O
-Pelucones	B-NORP
+Pelucones	B-Organization
 (	O
 because	O
 they	O
@@ -789,7 +789,7 @@ south	O
 ,	O
 but	O
 the	O
-Pelucones	B-NORP
+Pelucones	B-Organization
 anticipated	O
 the	O
 attack	O
@@ -839,7 +839,7 @@ when	O
 Freire	B-Person
 saw	O
 the	O
-Pelucones	B-NORP
+Pelucones	B-Organization
 army	O
 approaching	O
 ,	O
@@ -879,7 +879,7 @@ hours	O
 ,	O
 with	O
 the	O
-Pelucones	B-NORP
+Pelucones	B-Organization
 winning	O
 an	O
 overwhelming	O

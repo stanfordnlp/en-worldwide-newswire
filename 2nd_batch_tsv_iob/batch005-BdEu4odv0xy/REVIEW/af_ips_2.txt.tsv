@@ -676,10 +676,10 @@ are	O
 part	O
 of	O
 the	O
-Central	B-Misc	B-NORP
-African	I-Misc	I-NORP
-Forest	I-Misc
-Initiative	I-Misc
+Central	B-Organization	B-NORP
+African	I-Organization	I-NORP
+Forest	I-Organization
+Initiative	I-Organization
 that	O
 is	O
 paying	O

@@ -254,8 +254,8 @@ Dandi	B-Misc
 Yatra	I-Misc
 against	O
 the	O
-draconian	B-NORP
-British	I-NORP
+draconian	O
+British	B-NORP
 laws	O
 that	O
 limited	O
@@ -324,8 +324,8 @@ to	O
 inaugurate	O
 the	O
 ‘	O
-Forest	B-Misc
-Satyagraha	I-Misc
+Forest	B-Location
+Satyagraha	I-Location
 ’	O
 .	O
 With	O
@@ -374,8 +374,8 @@ spreading	O
 in	O
 Central	B-Location
 Provinces	I-Location
-and	I-Location
-Berar	I-Location
+and	O
+Berar	B-Location
 .	O
 The	O
 Gond	B-NORP
@@ -490,7 +490,7 @@ sent	O
 information	O
 that	O
 the	O
-Sangh	B-NORP
+Sangh	B-Organization
 will	O
 not	O
 participate	O
@@ -1035,8 +1035,8 @@ the	O
 votaries	O
 of	O
 the	O
-Sangh	B-Misc
-Parivar	I-Misc
+Sangh	B-Organization
+Parivar	I-Organization
 may	O
 claim	O
 ,	O

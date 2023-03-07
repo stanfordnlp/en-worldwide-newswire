@@ -188,8 +188,8 @@ Konanykhin	I-Person
 ,	O
 CEO	O
 of	O
-Unicorn	B-Misc
-Hunters	I-Misc
+Unicorn	B-Organization
+Hunters	I-Organization
 .	O
 “	O
 We	O
@@ -246,8 +246,8 @@ thrilled	O
 to	O
 partner	O
 with	O
-Unicorn	B-Location
-Hunters	I-Location
+Unicorn	B-Organization
+Hunters	I-Organization
 to	O
 broadcast	O
 this	O
@@ -315,8 +315,8 @@ dreams	O
 .	O
 ”	O
 
-Unicorn	B-Misc
-Hunters	I-Misc
+Unicorn	B-Organization
+Hunters	I-Organization
 ,	O
 a	O
 global	O
@@ -424,8 +424,8 @@ of	O
 this	O
 year	O
 ,	O
-Unicorn	B-Misc
-Hunters	I-Misc
+Unicorn	B-Organization
+Hunters	I-Organization
 launched	O
 Unicoin	B-Misc
 ,	O
@@ -543,18 +543,18 @@ is	O
 streaming	O
 now	O
 on	O
-UnicornHunters	B-Misc
-.	I-Misc
-com	I-Misc
+UnicornHunters	B-Organization
+.	O
+com	O
 ,	O
-LinkedIn	B-Misc	B-Organization
-Broadcast	I-Misc
+LinkedIn	B-Organization
+Broadcast	I-Organization
 ,	O
-Binge	B-Misc	B-Organization
-Networks	I-Misc
+Binge	B-Organization
+Networks	I-Organization
 ,	O
-Facebook	B-Misc	B-Organization
-Video	I-Misc
+Facebook	B-Organization
+Video	I-Organization
 ,	O
 YouTube	B-Organization
 ,	O
@@ -562,8 +562,8 @@ and	O
 Vimeo	B-Organization
 .	O
 In	O
-Latin	B-Misc
-America	I-Misc
+Latin	B-Location
+America	I-Location
 ,	O
 it	O
 also	O
@@ -720,8 +720,8 @@ are	O
 part	O
 of	O
 the	O
-Unicorn	B-Misc
-Hunters	I-Misc
+Unicorn	B-Organization
+Hunters	I-Organization
 platform	O
 .	O
 

@@ -64,8 +64,8 @@ MBI	B-Organization
 Group	I-Organization
 office	O
 in	O
-Sadao	B-Location	B-Location
-district	I-Location
+Sadao	B-Location
+district	O
 on	O
 the	O
 Thai	B-NORP

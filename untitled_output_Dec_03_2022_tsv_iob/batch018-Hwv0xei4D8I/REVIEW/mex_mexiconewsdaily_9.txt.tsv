@@ -1,8 +1,8 @@
 https://mexiconewsdaily.com/mexicolife/san-miguel-de-allende-known-for-hiking/	O
 
-Travel	B-Misc
-+	I-Misc
-Leisure	I-Misc
+Travel	B-Organization
++	I-Organization
+Leisure	I-Organization
 magazine	I-Misc
 calls	O
 San	B-Location
@@ -151,8 +151,8 @@ to	O
 get	O
 to	O
 know	O
-el	B-Location
-campo	I-Location
+el	O
+campo	O
 ,	O
 the	O
 countryside	O

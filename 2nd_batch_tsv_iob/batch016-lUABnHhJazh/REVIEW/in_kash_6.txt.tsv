@@ -31,8 +31,8 @@ most	O
 places	O
 of	O
 Jammu	B-Location
-and	I-Location
-Kashmir	I-Location
+and	O
+Kashmir	B-Location
 .	O
 
 “	O
@@ -48,8 +48,8 @@ scattered	O
 places	O
 of	O
 Jammu	B-Location
-and	I-Location
-Kashmir	I-Location
+and	O
+Kashmir	B-Location
 till	O
 forenoon	O
 and	O
@@ -95,8 +95,8 @@ most	O
 parts	O
 of	O
 Jammu	B-Location
-and	I-Location
-Kashmir	I-Location
+and	O
+Kashmir	B-Location
 with	O
 Katra	B-Location
 recording	O
@@ -306,7 +306,7 @@ said	O
 World	O
 famous	O
 Gulmarg	B-Location
-resort	I-Location
+resort	O
 recorded	O
 a	O
 low	O
@@ -328,8 +328,8 @@ above	O
 normal	O
 for	O
 the	O
-north	B-Location
-Kashmir	I-Location
+north	O
+Kashmir	B-Location
 place	O
 .	O
 

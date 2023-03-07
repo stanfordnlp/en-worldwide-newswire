@@ -16,8 +16,8 @@ houses	O
 concerned	O
 as	O
 the	O
-Legitimate	O
-Apagyahene	O
+Legitimate	B-Misc
+Apagyahene	I-Misc
 of	O
 the	O
 King	O
@@ -123,9 +123,9 @@ royal	O
 Asona	B-NORP
 section	O
 of	O
-Gomoa	B-Misc	B-Location
-State	I-Misc
-Kingdom	I-Misc
+Gomoa	B-Location
+State	I-Location
+Kingdom	I-Location
 as	O
 part	O
 of	O
@@ -140,9 +140,9 @@ to	O
 the	O
 state	O
 of	O
-Gomoa	B-Misc	B-Location
-State	I-Misc
-Kingdom	I-Misc
+Gomoa	B-Location
+State	I-Location
+Kingdom	I-Location
 have	O
 with	O
 all	O
@@ -307,13 +307,13 @@ and	O
 status	O
 in	O
 the	O
-Gomoa	B-Misc	B-Location
-State	I-Misc
-Kingdom	I-Misc
+Gomoa	B-Location
+State	I-Location
+Kingdom	I-Location
 with	O
 the	O
-Royal	O
-United	B-Location
+Royal	B-Location
+United	I-Location
 Kingdom	I-Location
 .	O
 
@@ -339,9 +339,9 @@ on	O
 behalf	O
 of	O
 the	O
-Gomoa	B-Misc	B-Location
-State	I-Misc
-Kingdom	I-Misc
+Gomoa	B-Location
+State	I-Location
+Kingdom	I-Location
 and	O
 none	O
 other	O
@@ -369,8 +369,8 @@ action	O
 BRIEF	O
 HISTORY	O
 OF	O
-GOMOA	B-Misc	B-Location
-STATE	I-Misc
+GOMOA	B-Location
+STATE	I-Location
 ,	O
 KING	O
 KUSAE	B-Person
@@ -444,8 +444,8 @@ and	O
 headman	O
 fought	O
 the	O
-Sasabro	B-Misc
-war	I-Misc
+Sasabro	B-NORP
+war	O
 to	O
 liberate	O
 Gomoa	B-Location
@@ -470,7 +470,7 @@ the	O
 war	O
 the	O
 Gomoa	B-Location
-State	O
+State	B-Location
 Sword	O
 (	O
 Akomfona	O
@@ -487,9 +487,9 @@ black	O
 stool	O
 )	O
 for	O
-Gomoa	B-Misc	B-Location
-State	I-Misc
-Kingdom	I-Misc
+Gomoa	B-Location
+State	I-Location
+Kingdom	I-Location
 (	O
 Akunwa	O
 kese	O
@@ -507,7 +507,7 @@ Gomuafos	B-NORP
 and	O
 the	O
 Gomoa	B-Location
-Land	O
+Land	I-Location
 through	O
 all	O
 his	O
@@ -644,8 +644,8 @@ Pantsir	B-Location
 Dabon	I-Location
 .	O
 The	O
-Adonten	B-Misc	B-Location
-Division	I-Misc
+Adonten	B-Organization	B-Location
+Division	I-Organization
 -	O
 Town	O
 -	O
@@ -666,10 +666,10 @@ Division	O
 .	O
 Assan	B-Person
 at	O
-Assin	B-Misc	B-Location
-–	I-Misc	I-Location
-Gyaase	I-Misc	I-Location
-Division	I-Misc
+Assin	B-Organization	B-Location
+–	I-Organization	I-Location
+Gyaase	I-Organization	I-Location
+Division	I-Organization
 -	O
 Gomoa	B-Location	B-Location
 Assin	I-Location
@@ -695,13 +695,13 @@ Edwumako	I-Location
 .	O
 Tekyi	B-Person
 at	O
-Atekyi	B-Misc	B-Location
-(	I-Misc	I-Location
-Akropong	I-Misc	I-Location
-)	I-Misc	I-Location
--	I-Misc	I-Location
-Benkum	I-Misc	I-Location
-Division	I-Misc
+Atekyi	B-Organization	B-Location
+(	O
+Akropong	B-Organization
+)	O
+-	O
+Benkum	B-Organization
+Division	I-Organization
 .	O
 
 6	O
@@ -723,14 +723,14 @@ Osahen	I-Location
 Oguan	B-Person
 Arku	I-Person
 founded	O
-Gomoa	B-Location
-Wassa	I-Location
+Gomoa	B-Organization
+Wassa	I-Organization
 .	O
 
 8	O
 .	O
-Twafo	B-Misc	B-Location
-Division	I-Misc
+Twafo	B-Organization	B-Location
+Division	I-Organization
 Abor	B-NORP
 Awusi	I-NORP
 Gomoa	B-Location
@@ -798,30 +798,30 @@ Gomoa	B-Organization	B-Location
 State	I-Organization
 Army	I-Organization
 for	O
-Sasabro	B-Misc
-war	I-Misc
+Sasabro	B-NORP
+war	O
 was	O
 constituted	O
 as	O
 follows	O
 :	O
 
-Opentsir	O
+Opentsir	B-Organization	
 ,	O
-Nkyidom	O
+Nkyidom	B-Organization
 (	O
-Rear	O
-Guard	O
+Rear	B-Organization
+Guard	I-Organization
 )	O
 
-Asanmba	O
-Edwumaku	O
+Asanmba	B-Organization
+Edwumaku	I-Organization
 ,	O
-Dontsidan	O
+Dontsidan	B-Organization
 or	O
-Adontsimdon	O
+Adontsimdon	B-Organization
 (	O
-Centre	O
+Centre	B-Organization
 or	O
 man	O
 body	O
@@ -839,8 +839,8 @@ as	O
 Gomoa	B-Location
 Hene	O
 for	O
-Gomoa	B-Misc	B-Location
-State	I-Misc
+Gomoa	B-Location	B-Location
+State	I-Location
 .	O
 
 From	O
@@ -869,8 +869,8 @@ years	O
 .	O
 They	O
 ruled	O
-Gomoa	B-Misc	B-Location
-State	I-Misc
+Gomoa	B-Location
+State	I-Location
 from	O
 1619	B-Misc
 to	O
@@ -888,8 +888,8 @@ then	O
 Government	O
 and	O
 the	O
-Gomoa	B-Misc	B-Location
-State	I-Misc
+Gomoa	B-Location
+State	I-Location
 which	O
 necessitated	O
 the	O
@@ -897,9 +897,9 @@ setting	O
 up	O
 of	O
 a	O
-Commission	B-Misc
-of	I-Misc
-Inquiry	I-Misc
+Commission	B-Organization
+of	I-Organization
+Inquiry	I-Organization
 into	O
 the	O
 unrest	O
@@ -916,7 +916,7 @@ Stool	I-Misc
 
 After	O
 the	O
-Commission	O
+Commission	B-Organization
 of	O
 inquiry	O
 report	O
@@ -946,8 +946,8 @@ The	O
 Crowther	B-Person
 report	O
 on	O
-Gomoa	B-Misc	B-Location
-State	I-Misc
+Gomoa	B-Location
+State	I-Location
 on	O
 5th	B-Misc
 October	I-Misc
@@ -975,13 +975,13 @@ Stool	I-Misc
 .	O
 
 THE	O
-COMMISSION	O
-OF	O
-INQUIRY	O
+COMMISSION	B-Organization
+OF	I-Organization
+INQUIRY	I-Organization
 
-Gomoa	B-Misc	B-Location
-Assin	I-Misc	I-Location
-State	I-Misc
+Gomoa	B-Location
+Assin	I-Location
+State	I-Location
 Affairs	O
 
 It	O
@@ -993,19 +993,19 @@ information	O
 
 That	O
 the	O
-Committee	O
-of	O
-Enquiry	O
+Committee	B-Organization
+of	I-Organization
+Enquiry	I-Organization
 appointed	O
 under	O
 section	O
 8	O
 of	O
 the	O
-State	O
-Councils	O
+State	B-Organization
+Councils	I-Organization
 (	O
-Colony	O
+Colony	B-Location
 and	O
 Southern	B-Location
 Togoland	I-Location
@@ -1024,9 +1024,9 @@ constitutional	O
 nature	O
 in	O
 the	O
-Gomoa	B-Misc	B-Location
-Assin	I-Misc	I-Location
-State	I-Misc
+Gomoa	B-Location
+Assin	I-Location
+State	I-Location
 arising	O
 from	O
 a	O
@@ -1172,9 +1172,9 @@ in	O
 ICT	B-Misc
 Day	O
 :	O
-Coding	O
-for	O
-employment	O
+Coding	B-Organization
+for	I-Organization
+employment	I-Organization
 ’	O
 s	O
 new	O
@@ -1192,9 +1192,9 @@ in	O
 technology	O
 fields	O
 
-GOMOA	B-Misc	B-Location
-STATE	I-Misc
-KINGDOM	I-Misc
+GOMOA	B-Location
+STATE	I-Location
+KINGDOM	I-Location
 
 Refer	O
 to	O
@@ -1203,18 +1203,18 @@ and	O
 the	O
 History	O
 of	O
-GOMOA	B-Misc	B-Location
-STATE	I-Misc
+GOMOA	B-Location
+STATE	I-Location
 by	O
-Crowther	B-Misc	B-Person
-Commission	I-Misc
+Crowther	B-Organization	B-Person
+Commission	I-Organization
 in	O
 1922	B-Misc
 from	O
 the	O
-Archives	B-Facility
-Department	I-Facility
-Accra	I-Facility	B-Location
+Archives	B-Organization
+Department	I-Organization
+Accra	I-Organization	B-Location
 .	O
 
 That	O
@@ -1379,10 +1379,10 @@ between	O
 Kwa	B-Person
 Ahunako	I-Person
 and	O
-King	B-Person
-Kusae	I-Person
-Edu	I-Person
-Stool	O
+King	B-Misc	B-Person
+Kusae	I-Misc	I-Person
+Edu	I-Misc	I-Person
+Stool	I-Misc
 ,	O
 King	O
 Kusae	B-Person
@@ -1585,7 +1585,7 @@ AMPOFO	I-Person
 and	O
 his	O
 ROYAL	B-Organization
-Organization	O
+Organization	I-Organization
 {	O
 RUK	B-Organization
 }	O
@@ -1608,7 +1608,7 @@ and	O
 to	O
 enable	O
 the	O
-Stool	O
+Stool	B-Misc
 to	O
 govern	O
 its	O
@@ -1725,13 +1725,13 @@ needed	O
 to	O
 work	O
 with	O
-APAGYAHENE	O
+APAGYAHENE	B-Organization
 .	O
 
 Interact	O
 with	O
 the	O
-GOVERNMENT	O
+GOVERNMENT	B-Organization
 and	O
 claim	O
 all	O
@@ -1994,8 +1994,8 @@ ASONA	B-Misc	B-NORP
 ROYAL	I-Misc
 STOOL	I-Misc
 {	O
-HEADS	O
-CABINET	O
+HEADS	B-Organization
+CABINET	I-Organization
 }	O
 
 MAIN	O
@@ -2015,7 +2015,7 @@ Kusae	B-Person
 Edu	I-Person
 Over	O
 all	O
-Abusuapanyin	O
+Abusuapanyin	B-Location
 {	O
 5	O
 gate	O
@@ -2088,8 +2088,8 @@ Stool	I-Misc
 Over	O
 All	O
 {	O
-Abusua	O
-Baatan	O
+Abusua	B-Location
+Baatan	I-Location
 )	O
 
 4	O
@@ -2129,6 +2129,6 @@ stool	I-Misc
 Over	O
 all	O
 {	O
-Obaapanyin	O
+Obaapanyin	B-Location
 }	O
 

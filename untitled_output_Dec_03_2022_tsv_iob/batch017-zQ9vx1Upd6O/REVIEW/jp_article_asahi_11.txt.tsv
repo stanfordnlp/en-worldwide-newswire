@@ -320,7 +320,7 @@ Japanese	B-NORP
 -	O
 controlled	O
 Senkaku	B-Location
-islands	I-Location
+islands	O
 ,	O
 which	O
 China	B-Location
@@ -475,7 +475,7 @@ cooperate	O
 in	O
 supporting	O
 Pacific	B-Location
-island	I-Location
+island	O
 nations	O
 .	O
 
@@ -509,7 +509,7 @@ personnel	O
 to	O
 the	O
 Pacific	B-Location
-island	I-Location
+island	O
 nation	O
 while	O
 also	O

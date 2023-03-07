@@ -57,12 +57,12 @@ directly	O
 ,	O
 but	O
 said	O
-Alibaba	B-Misc	B-Organization
-’	I-Misc
-s	I-Misc
-Taobao	I-Misc
-Live	I-Misc
-platform	I-Misc
+Alibaba	B-Organization
+’	O
+s	O
+Taobao	B-Product
+Live	I-Product
+platform	O
 treated	O
 all	O
 online	O
@@ -111,8 +111,8 @@ fell	O
 behind	O
 rivals	O
 Douyin	B-Organization
-and	I-Organization
-Kuaishou	I-Organization
+and	O
+Kuaishou	B-Organization
 in	O
 sales	O
 during	O
@@ -143,12 +143,12 @@ represented	O
 their	O
 clients	O
 via	O
-Alibaba	B-Misc	B-Organization
-’	I-Misc
-s	I-Misc
-Taobao	I-Misc
-Live	I-Misc
-platform	I-Misc
+Alibaba	B-Organization
+’	O
+s	O
+Taobao	B-Product
+Live	I-Product
+platform	O
 ,	O
 were	O
 once	O

@@ -123,8 +123,8 @@ spot	O
 inspections	O
 at	O
 Neelanakoppal	B-Location
-in	I-Location
-Srirangapatna	I-Location
+in	O
+Srirangapatna	B-Location
 taluk	O
 and	O
 Bebi	B-Location

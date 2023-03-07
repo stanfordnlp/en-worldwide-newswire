@@ -66,7 +66,7 @@ part	O
 .	O
 
 The	O
-IMO	B-Misc
+IMO	B-Organization
 team	O
 of	O
 six	O
@@ -271,9 +271,9 @@ $	I-Money
 billion	I-Money
 into	O
 the	O
-Gifted	B-Misc
-Education	I-Misc
-Fund	I-Misc
+Gifted	B-Organization
+Education	I-Organization
+Fund	I-Organization
 to	O
 support	O
 the	O

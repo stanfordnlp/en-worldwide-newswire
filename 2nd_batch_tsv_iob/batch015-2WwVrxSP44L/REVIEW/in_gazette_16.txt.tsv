@@ -520,7 +520,7 @@ in	O
 Everywhere	O
 ,	O
 in	O
-Indian	O
+Indian	B-NORP
 conditions	O
 most	O
 certainly	O
@@ -634,10 +634,10 @@ At	O
 the	O
 confederation	O
 of	O
-Indian	B-NORP
-Industry	O
+Indian	B-Organization	B-NORP
+Industry	I-Organization
 (	O
-CII	B-Misc
+CII	B-Organization
 )	O
 in	O
 2013	B-Money
@@ -701,8 +701,8 @@ cities	O
 .	O
 
 The	O
-Panchayati	B-Misc
-Raj	I-Misc
+Panchayati	B-Organization
+Raj	I-Organizatio
 system	O
 had	O
 to	O

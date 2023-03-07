@@ -29,49 +29,49 @@ Spa	I-Facility
 &	I-Facility
 Nature	I-Facility
 Park	I-Facility
-of	I-Facility
-Grupo	I-Facility
-Sunset	I-Facility
-World	I-Facility
+of	O
+Grupo	B-Location
+Sunset	I-Location
+World	I-Location
 is	O
 nominated	O
 in	O
 four	O
 categories	O
 :	O
-Leading	B-Misc
-All	I-Misc
--	I-Misc
-Inclusive	I-Misc
-Resort	I-Misc
-in	I-Misc
-Mexico	I-Misc	B-Location
-and	I-Misc
-Central	I-Misc	B-Location
-America	I-Misc	I-Location
+Leading	O
+All	O
+-	O
+Inclusive	O
+Resort	O
+in	O
+Mexico	B-Location
+and	O
+Central	B-Location
+America	I-Location
 ,	O
-Leading	B-Misc
-Family	I-Misc
-Resort	I-Misc
-in	I-Misc
-Mexico	I-Misc	B-Location
-and	I-Misc
-Central	I-Misc	B-Location
-America	I-Misc	I-Location
+Leading	O
+Family	O
+Resort	O
+in	O
+Mexico	B-Location
+and	O
+Central	B-Location
+America	I-Location
 ,	O
-Leading	B-Misc
-All	I-Misc
--	I-Misc
-Inclusive	I-Misc
-Resort	I-Misc
-in	I-Misc
-Mexico	I-Misc	B-Location
-and	I-Misc
-Leading	I-Misc
-Family	I-Misc
-Resort	I-Misc
-in	I-Misc
-Mexico	I-Misc	B-Location
+Leading	O
+All	O
+-	O
+Inclusive	O
+Resort	O
+in	O
+Mexico	B-Location
+and	O
+Leading	O
+Family	O
+Resort	O
+in	O
+Mexico	B-Location
 .	O
 It	O
 is	O
@@ -515,9 +515,9 @@ February	B-Misc
 2020	I-Misc
 ,	O
 all	O
-Sunset	B-Facility
-World	I-Facility
-hotels	I-Facility
+Sunset	B-Organization
+World	I-Organization
+hotels	O
 are	O
 supplied	O
 with	O

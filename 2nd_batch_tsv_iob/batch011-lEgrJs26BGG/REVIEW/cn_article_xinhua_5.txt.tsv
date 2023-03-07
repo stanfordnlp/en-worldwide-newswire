@@ -50,12 +50,12 @@ the	O
 18th	B-Misc
 National	I-Misc
 Congress	I-Misc
-of	I-Misc
-the	I-Misc
-Communist	I-Misc	B-NORP
-Party	I-Misc
 of	O
-China	B-Location
+the	O
+Communist	B-Organization	B-NORP
+Party	I-Organization
+of	I-Organization
+China	I-Organization	B-Location
 in	O
 late	O
 2012	B-Misc

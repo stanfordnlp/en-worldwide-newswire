@@ -12,10 +12,10 @@ a	O
 motorcycle	O
 at	O
 Sadar	B-Location
-upazila	I-Location
+upazila	O
 in	O
 Bogura	B-Location
-district	I-Location
+district	O
 on	O
 Thursday	B-Misc
 .	O
@@ -50,7 +50,7 @@ Olirbazar	B-Location
 area	O
 in	O
 the	O
-upazla	B-Location
+upazla	O
 .	O
 
 Among	O

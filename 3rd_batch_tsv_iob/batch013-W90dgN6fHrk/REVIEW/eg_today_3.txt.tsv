@@ -292,9 +292,9 @@ House	B-Organization
 of	I-Organization
 Representatives	I-Organization
 ’	O
-Foreign	B-Misc
-Affairs	I-Misc
-Committee	I-Misc
+Foreign	B-Organization
+Affairs	I-Organization
+Committee	I-Organization
 .	O
 
 Over	O

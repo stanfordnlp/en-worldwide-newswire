@@ -79,9 +79,9 @@ Algeria	B-Location
 preparations	O
 for	O
 the	O
-Arab	B-Misc	B-Organization	B-NORP
-League	I-Misc	I-Organization
-summit	I-Misc
+Arab	B-Organization	B-NORP
+League	I-Organization
+summit	O
 .	O
 
 Early	O

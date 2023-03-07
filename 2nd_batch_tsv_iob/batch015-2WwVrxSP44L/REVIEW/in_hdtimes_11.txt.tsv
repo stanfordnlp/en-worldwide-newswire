@@ -34,8 +34,8 @@ lower	O
 court	O
 in	O
 Vellore	B-Location
-in	I-Location
-Tamil	I-Location
+in	O
+Tamil	B-Location
 Nadu	I-Location
 .	O
 

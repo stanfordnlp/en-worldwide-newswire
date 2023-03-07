@@ -367,8 +367,8 @@ of	O
 goods	O
 choice	O
 from	O
-OK	B-Facility
-shops	I-Facility
+OK	B-Organization
+shops	O
 .	O
 Juliet	B-Person
 puts	O
@@ -465,7 +465,7 @@ executive	O
 at	O
 the	O
 OK	B-Organization
-group	I-Organization
+group	O
 who	O
 says	O
 ,	O

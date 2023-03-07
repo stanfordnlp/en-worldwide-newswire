@@ -78,8 +78,8 @@ On	O
 behalf	O
 of	O
 the	O
-Iraqi	B-NORP
-Ministry	B-Organization
+Iraqi	B-Organization	B-NORP
+Ministry	I-Organization
 of	I-Organization
 Finance	I-Organization
 ,	O

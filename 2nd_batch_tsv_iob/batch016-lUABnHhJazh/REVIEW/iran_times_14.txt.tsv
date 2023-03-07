@@ -7,18 +7,18 @@ British	B-NORP
 political	O
 expert	O
 says	O
-Arab	B-Location
-states	I-Location
+Arab	B-NORP
+states	O
 ,	O
 specifically	O
 those	O
 on	O
 the	O
-southern	B-Location
-shores	I-Location
-of	I-Location
-the	I-Location
-Persian	I-Location
+southern	O
+shores	O
+of	O
+the	O
+Persian	B-Location
 Gulf	I-Location
 ,	O
 “	O
@@ -33,8 +33,8 @@ U	B-Location
 S	I-Location
 .	I-Location
 -	O
-Israeli	B-Organization	B-NORP
-military	I-Organization
+Israeli	B-NORP
+military	O
 confrontation	O
 with	O
 Iran	B-Location
@@ -1154,7 +1154,7 @@ did	O
 not	O
 conclude	O
 a	O
-GCC	B-NORP
+GCC	B-Organization
 air	O
 -	O
 defense	O
@@ -1237,7 +1237,7 @@ regimes	I-Organization
 ,	O
 specifically	O
 the	O
-GCC	B-NORP
+GCC	B-Organization
 countries	O
 ,	O
 understand	O
@@ -1251,8 +1251,8 @@ U	B-Location
 S	I-Location
 .	I-Location
 -	O
-Israeli	B-Organization	B-NORP
-military	I-Organization
+Israeli	B-NORP
+military	O
 confrontation	O
 with	O
 Iran	B-Location
@@ -1262,7 +1262,7 @@ horrible	O
 idea	O
 .	O
 The	O
-GCC	B-NORP
+GCC	B-Organization
 nations	O
 are	O
 focused	O
@@ -1435,7 +1435,7 @@ I	O
 'm	O
 sure	O
 the	O
-GCC	B-NORP
+GCC	B-Organization
 nations	O
 have	O
 taken	O
@@ -1485,7 +1485,7 @@ a	O
 lesson	O
 that	O
 the	O
-GCC	B-NORP
+GCC	B-Organization
 appears	O
 to	O
 be	O

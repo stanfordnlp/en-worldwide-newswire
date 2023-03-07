@@ -17,8 +17,8 @@ Justice	I-Organization
 ICJ	B-Organization
 )	O
 in	O
-the	B-Location
-Hague	I-Location
+the	O
+Hague	B-Location
 to	O
 litigate	O
 their	O
