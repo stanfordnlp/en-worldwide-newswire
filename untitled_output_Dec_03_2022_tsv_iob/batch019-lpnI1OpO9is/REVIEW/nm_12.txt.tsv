@@ -295,8 +295,8 @@ report	O
 highlighted	O
 .	O
 
-The	B-Organization
-University	I-Organization
+The	O
+University	B-Organization
 of	I-Organization
 Namibia	I-Organization	B-Location
 (	O

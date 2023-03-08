@@ -6,9 +6,9 @@ The	O
 Aqaba	B-Organization	B-Location
 Development	I-Organization
 Corporation	I-Organization
-(	I-Organization
-ADC	I-Organization
-)	I-Organization
+(	O
+ADC	B-Organization
+)	O
 and	O
 Orbit	B-Organization
 Aluminum	I-Organization
@@ -36,9 +36,9 @@ Special	I-Organization
 Economic	I-Organization
 Zone	I-Organization
 Authority	I-Organization
-(	I-Organization
-ASEZA	I-Organization
-)	I-Organization
+(	O
+ASEZA	B-Organization
+)	O
 .	O
 
 The	O

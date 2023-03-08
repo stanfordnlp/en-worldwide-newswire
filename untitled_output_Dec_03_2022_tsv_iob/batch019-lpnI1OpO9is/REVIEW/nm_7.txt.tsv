@@ -1,8 +1,8 @@
 https://www.namibian.com.na/114644/read/Education-ministry-suspends-school-for-two-days	O
 
 THE	O
-education	B-Organization
-ministry	I-Organization
+education	O
+ministry	O
 has	O
 suspended	O
 school	O
@@ -31,8 +31,8 @@ on	O
 Wednesday	B-Misc
 by	O
 the	O
-education	B-Organization
-ministry	I-Organization
+education	O
+ministry	O
 executive	O
 director	O
 ,	O

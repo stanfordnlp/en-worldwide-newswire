@@ -87,9 +87,9 @@ Conference	I-Organization
 of	I-Organization
 Synagogue	I-Organization
 Youth	I-Organization
-(	I-Organization
-NCSY	I-Organization
-)	I-Organization
+(	O
+NCSY	B-Organization
+)	O
 –	O
 to	O
 immigrate	O
@@ -122,9 +122,9 @@ as	O
 principal	O
 of	O
 a	O
-yeshiva	B-Organization
-high	I-Organization
-school	I-Organization
+yeshiva	B-NORP
+high	O
+school	O
 in	O
 the	O
 1990	B-Misc
@@ -678,12 +678,12 @@ of	O
 an	O
 ultra	O
 -	O
-Orthodox	B-Organization
-girls	I-Organization
-’	I-Organization
-school	I-Organization
-in	I-Organization
-Melbourne	I-Organization	B-Location
+Orthodox	B-NORP
+girls	O
+’	O
+school	O
+in	O
+Melbourne	B-Location
 who	O
 fled	O
 to	O
@@ -1665,8 +1665,8 @@ good	O
 reason	O
 .	O
 The	O
-Israeli	B-Organization	B-NORP
-government	I-Organization
+Israeli	B-NORP
+government	O
 only	O
 decides	O
 someone	O

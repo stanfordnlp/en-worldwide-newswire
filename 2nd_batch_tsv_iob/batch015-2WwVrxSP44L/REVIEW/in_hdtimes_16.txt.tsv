@@ -83,8 +83,8 @@ the	O
 country	O
 to	O
 celebrate	O
-the	B-Organization
-Indian	I-Organization	B-NORP
+the	O
+Indian	B-Organization	B-NORP
 Army	I-Organization
 's	O
 contributions	O

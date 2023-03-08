@@ -190,8 +190,8 @@ on	O
 facebook	B-Product
 from	O
 where	O
-Lalbagh	B-Organization	B-Location
-police	I-Organization
+Lalbagh	B-Location
+police	O
 came	O
 to	O
 know	O
@@ -201,9 +201,9 @@ matter	O
 
 Members	O
 from	O
-Lalbagh	B-Facility	B-Organization	B-Location
-police	I-Facility	I-Organization
-station	I-Facility
+Lalbagh	B-Location
+police	O
+station	O
 identified	O
 the	O
 victim	O

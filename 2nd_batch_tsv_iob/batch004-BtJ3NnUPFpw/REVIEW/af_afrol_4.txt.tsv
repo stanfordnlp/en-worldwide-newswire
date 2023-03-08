@@ -379,9 +379,9 @@ commission	O
 .	O
 
 The	O
-Central	B-Organization	B-NORP
-African	I-Organization	I-NORP
-government	I-Organization
+Central	B-NORP
+African	I-NORP
+government	O
 has	O
 reacted	O
 sourly	O

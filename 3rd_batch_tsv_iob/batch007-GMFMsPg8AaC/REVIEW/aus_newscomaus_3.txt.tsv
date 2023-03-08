@@ -167,8 +167,8 @@ Mr	O
 Pocock	B-Person
 hoping	O
 the	O
-Albanese	B-Organization	B-Person
-government	I-Organization
+Albanese	B-NORP
+government	O
 will	O
 consider	O
 forgiving	O
@@ -536,10 +536,10 @@ for	O
 her	O
 work	O
 on	O
-the	B-Organization
-Voice	I-Organization
-to	I-Organization
-parliament	I-Organization
+the	O
+Voice	B-Organization
+to	O
+parliament	O
 .	O
 
 Race	O

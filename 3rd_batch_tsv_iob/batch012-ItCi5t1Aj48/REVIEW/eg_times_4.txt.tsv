@@ -496,10 +496,10 @@ for	O
 liberation	O
 from	O
 the	O
-American	B-Organization	B-NORP
--	I-Organization	I-NORP
-Zionist	I-Organization	I-NORP
-alliance	I-Organization
+American	B-NORP
+-	O
+Zionist	B-NORP
+alliance	O
 .	O
 This	O
 only	O

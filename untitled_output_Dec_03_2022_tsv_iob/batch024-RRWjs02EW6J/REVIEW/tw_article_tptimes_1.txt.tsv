@@ -92,8 +92,8 @@ until	O
 Monday	B-Misc
 .	O
 
-The	B-Organization
-Central	I-Organization
+The	O
+Central	B-Organization
 Weather	I-Organization
 Bureau	I-Organization
 said	O

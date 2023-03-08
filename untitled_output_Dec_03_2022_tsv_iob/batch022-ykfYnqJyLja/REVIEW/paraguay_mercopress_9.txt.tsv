@@ -1,9 +1,9 @@
 https://en.mercopress.com/2022/06/17/chilavert-launches-bid-for-president-of-paraguay	O
 
 Former	O
-Paraguay	B-Organization	B-Location
-national	I-Organization
-team	I-Organization
+Paraguay	B-Location
+national	O
+team	O
 captain	O
 José	B-Person
 Luis	I-Person

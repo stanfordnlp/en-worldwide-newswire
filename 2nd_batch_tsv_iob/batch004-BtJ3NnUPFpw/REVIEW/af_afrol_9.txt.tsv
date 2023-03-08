@@ -15,8 +15,8 @@ West	B-Location
 Africa	I-Location
 after	O
 the	O
-health	B-Organization
-ministry	I-Organization
+health	O
+ministry	O
 in	O
 Guinea	B-Location
 confirmed	O

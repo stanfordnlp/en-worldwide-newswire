@@ -196,11 +196,11 @@ national	O
 survey	O
 taken	O
 by	O
-The	B-Organization
-Asahi	I-Organization
+The	O
+Asahi	B-Organization
 Shimbun	I-Organization
 Co	I-Organization
-.	O
+.	I-Organization
 on	O
 April	B-Misc
 16	I-Misc

@@ -1281,8 +1281,8 @@ author	O
 -	O
 journalist	O
 in	O
-Jansatta	B-Organization
-newspaper	I-Organization
+Jansatta	B-Location
+newspaper	O
 on	O
 28	B-Misc
 June	I-Misc

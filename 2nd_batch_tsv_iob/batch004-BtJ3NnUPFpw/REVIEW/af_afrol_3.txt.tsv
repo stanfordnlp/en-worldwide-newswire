@@ -45,8 +45,8 @@ statement	O
 today	O
 declaring	O
 the	O
-DRC	B-Organization	B-Location
-government	I-Organization
+DRC	B-Location
+government	O
 would	O
 suspend	O
 any	O
@@ -338,7 +338,7 @@ the	O
 unique	O
 park	O
 .	O
-Government	O
+Government	B-Organization
 permission	O
 had	O
 been	O

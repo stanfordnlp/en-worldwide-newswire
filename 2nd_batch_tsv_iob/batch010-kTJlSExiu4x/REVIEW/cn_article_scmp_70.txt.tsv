@@ -121,9 +121,9 @@ an	O
 official	O
 with	O
 the	O
-Shanghai	B-Organization	B-Location
-health	I-Organization
-bureau	I-Organization
+Shanghai	B-Location
+health	O
+bureau	O
 ,	O
 and	O
 continued	O

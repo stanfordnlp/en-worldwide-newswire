@@ -155,7 +155,7 @@ afternoon	O
 The	O
 director	O
 of	O
-Meteorology	B-Organization
+Meteorology	O
 of	O
 the	O
 Nicaraguan	B-Organization	B-NORP
@@ -182,7 +182,7 @@ Prevention	I-Organization
 Mitigation	I-Organization
 and	I-Organization
 Attention	I-Organization
-(	I-Organization
+(	O
 Sinapred	B-Facility
 )	O
 ,	O

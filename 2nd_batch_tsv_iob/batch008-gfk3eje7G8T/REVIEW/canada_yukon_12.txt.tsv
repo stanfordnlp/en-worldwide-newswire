@@ -45,9 +45,9 @@ Natural	B-Organization
 Resources	I-Organization
 Canada	I-Organization	B-Location
 and	O
-Yukon	B-Organization	B-Location
-territorial	I-Organization
-government	I-Organization
+Yukon	B-Location
+territorial	O
+government	O
 ,	O
 decision	O
 -	O

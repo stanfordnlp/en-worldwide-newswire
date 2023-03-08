@@ -42,8 +42,8 @@ four	O
 representatives	O
 of	O
 the	O
-Mauritian	B-Organization	B-NORP
-government	I-Organization
+Mauritian	B-NORP
+government	O
 ,	O
 namely	O
 Dheeren	B-Person

@@ -192,8 +192,8 @@ cigarettes	O
 from	O
 the	O
 Tabesa	B-Organization
-tobacco	I-Organization
-company	I-Organization
+tobacco	O
+company	O
 owned	O
 by	O
 former	O
@@ -207,9 +207,9 @@ to	O
 Aruba	B-Location
 .	O
 
-Paraguay	B-Organization	B-Location
-'s	I-Organization
-National	I-Organization
+Paraguay	B-Location
+'s	O
+National	B-Organization
 Police	I-Organization
 also	O
 confirmed	O

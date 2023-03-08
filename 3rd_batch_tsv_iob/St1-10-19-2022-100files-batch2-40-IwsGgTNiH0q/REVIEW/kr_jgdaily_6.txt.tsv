@@ -220,9 +220,9 @@ several	O
 times	O
 during	O
 the	O
-Barack	B-Organization	B-Person
-Obama	I-Organization	I-Person
-administration	I-Organization
+Barack	B-Person
+Obama	I-Person
+administration	O
 when	O
 Burns	B-Person
 was	O

@@ -1,7 +1,7 @@
 https://www.bangkokpost.com/business/2353236/tour-operators-jittery-despite-easing-restrictions	O
 
-Outbound	B-Organization
-travel	I-Organization
+Outbound	O
+travel	O
 has	O
 shown	O
 early	O
@@ -91,8 +91,8 @@ especially	O
 Japan	B-Location
 .	O
 
-Outbound	B-Organization
-travel	I-Organization
+Outbound	O
+travel	O
 to	O
 Europe	B-Location
 also	O
@@ -391,8 +391,8 @@ more	O
 expensive	O
 .	O
 
-Outbound	B-Organization
-travel	I-Organization
+Outbound	O
+travel	O
 currently	O
 seems	O
 to	O

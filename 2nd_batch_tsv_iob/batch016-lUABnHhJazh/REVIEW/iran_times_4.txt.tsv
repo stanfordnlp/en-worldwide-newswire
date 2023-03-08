@@ -2,8 +2,8 @@ https://www.tehrantimes.com/news/475010/Iran-denounces-Israeli-missile-strike-on
 
 “	O
 The	O
-Zionist	B-Organization	B-NORP
-regime	I-Organization
+Zionist	B-NORP
+regime	O
 's	O
 continuous	O
 aggression	O
@@ -77,8 +77,8 @@ risk	O
 behavior	O
 of	O
 the	O
-Zionist	B-Organization	B-NORP
-regime	I-Organization
+Zionist	B-NORP
+regime	O
 .	O
 
 “	O
@@ -153,8 +153,8 @@ illegal	O
 behaviors	O
 by	O
 the	O
-Israeli	B-Organization	B-NORP
-regime	I-Organization
+Israeli	B-NORP
+regime	O
 .	O
 
 According	O
@@ -279,9 +279,9 @@ the	O
 Israeli	B-NORP
 attack	O
 ,	O
-Syria	B-Organization	B-Location
-'s	I-Organization
-Foreign	I-Organization
+Syria	B-Location
+'s	O
+Foreign	B-Organization
 Ministry	I-Organization
 stated	O
 that	O
@@ -409,8 +409,8 @@ stop	O
 and	O
 denounce	O
 the	O
-Israeli	B-Organization	B-NORP
-regime	I-Organization
+Israeli	B-NORP
+regime	O
 's	O
 repeated	O
 attacks	O
@@ -542,8 +542,8 @@ Syria	B-Location
 .	O
 
 The	O
-Israeli	B-Organization	B-NORP
-regime	I-Organization
+Israeli	B-NORP
+regime	O
 ,	O
 together	O
 with	O
@@ -571,7 +571,7 @@ organizations	O
 acting	O
 against	O
 the	O
-Damascus	B-Organization	B-Location
-government	I-Organization
+Damascus	B-Location
+government	O
 .	O
 

@@ -1,8 +1,9 @@
+
 https://kashmirobserver.net/2022/07/25/weather-to-remain-cloudy-in-jk-met/	O
 
 Srinagar	B-Organization
 -	O
-Weatherman	B-Organization
+Weatherman	O
 on	O
 Monday	B-Misc
 said	O
@@ -165,7 +166,7 @@ division	O
 
 The	O
 MeT	B-Organization
-official	I-Organization
+official	O
 said	O
 that	O
 Srinagar	B-Location

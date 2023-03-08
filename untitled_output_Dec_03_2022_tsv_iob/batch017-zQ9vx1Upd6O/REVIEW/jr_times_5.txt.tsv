@@ -37,9 +37,9 @@ Food	I-Organization
 and	I-Organization
 Drug	I-Organization
 Administration	I-Organization
-(	I-Organization
-JFDA	I-Organization
-)	I-Organization
+(	O
+JFDA	B-Organization
+)	O
 ,	O
 the	O
 Administration	O

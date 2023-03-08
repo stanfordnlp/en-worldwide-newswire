@@ -359,8 +359,8 @@ forces	O
 ,	O
 as	O
 the	O
-Zionist	B-Organization	B-NORP
-regime	I-Organization
+Zionist	B-NORP
+regime	O
 prepares	O
 itself	O
 for	O
@@ -1232,8 +1232,8 @@ demonstrates	O
 is	O
 that	O
 the	O
-Arab	B-Organization	B-NORP
-regimes	I-Organization
+Arab	B-NORP
+regimes	O
 ,	O
 specifically	O
 the	O
@@ -1561,8 +1561,8 @@ conflict	O
 A	O
 :	O
 The	O
-Obama	B-Organization	B-Person
-administration	I-Organization
+Obama	B-Person
+administration	O
 did	O
 not	O
 seem	O
@@ -1703,8 +1703,8 @@ destroy	O
 it	O
 .	O
 The	O
-Biden	B-Organization	B-Person
-administration	I-Organization
+Biden	B-Person
+administration	O
 now	O
 pursues	O
 an	O
@@ -1749,8 +1749,8 @@ policy	O
 positions	O
 that	O
 the	O
-Obama	B-Organization	B-Person
-administration	I-Organization
+Obama	B-Person
+administration	O
 took	O
 ,	O
 whilst	O
@@ -1785,9 +1785,9 @@ administrations	O
 '	O
 positions	O
 ,	O
-Biden	B-Organization	B-Person
-'s	I-Organization
-government	I-Organization
+Biden	B-Person
+'s	O
+government	O
 seems	O
 to	O
 be	O

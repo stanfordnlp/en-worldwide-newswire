@@ -1,7 +1,7 @@
 https://www.tehrantimes.com/news/474963/Oman-navy-chief-hails-Iran-s-indigenous-defense-technology	O
 
-Oman	B-Organization	B-Location
-navy	I-Organization
+Oman	B-Location
+navy	O
 chief	O
 hails	O
 Iran	B-Location
@@ -545,7 +545,7 @@ themselves	O
 ”	O
 the	O
 IRGC	B-Organization
-navy	I-Organization
+navy	O
 commander	O
 reiterated	O
 .	O
@@ -719,8 +719,8 @@ commander	O
 added	O
 ,	O
 the	O
-Iranian	B-Organization	B-NORP
-military	I-Organization
+Iranian	B-NORP
+military	O
 has	O
 been	O
 able	O

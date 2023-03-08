@@ -821,8 +821,8 @@ donor	O
 countries	O
 like	O
 the	O
-UK	B-Organization	B-Location
-government	I-Organization
+UK	B-Location
+government	O
 ,	O
 as	O
 host	O

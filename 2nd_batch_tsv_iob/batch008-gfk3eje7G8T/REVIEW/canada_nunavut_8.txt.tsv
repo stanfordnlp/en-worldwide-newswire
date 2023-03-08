@@ -435,8 +435,8 @@ alternative	O
 in	O
 Nunavut	B-Location
 .	O
-The	B-Organization
-North	I-Organization
+The	O
+North	B-Organization
 West	I-Organization
 Company	I-Organization
 ’	O

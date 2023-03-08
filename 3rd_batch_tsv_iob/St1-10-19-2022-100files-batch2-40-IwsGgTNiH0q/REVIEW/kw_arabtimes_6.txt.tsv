@@ -6,8 +6,8 @@ CITY	I-Location
 July	B-Misc
 25	O
 :	O
-The	B-Organization
-Public	I-Organization
+The	O
+Public	B-Organization
 Anti	I-Organization
 -	I-Organization
 Corruption	I-Organization

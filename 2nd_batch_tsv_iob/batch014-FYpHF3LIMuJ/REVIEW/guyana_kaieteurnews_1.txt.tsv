@@ -952,10 +952,10 @@ National	I-Organization
 Offshore	I-Organization
 Oil	I-Organization
 Corporation	I-Organization
-(	I-Organization
-CNOOC	I-Organization
-)	I-Organization
-Petroleum	I-Organization
+(	O
+CNOOC	B-Organization
+)	O
+Petroleum	B-Organization
 Guyana	I-Organization	B-Location
 Limited	I-Organization
 ,	O

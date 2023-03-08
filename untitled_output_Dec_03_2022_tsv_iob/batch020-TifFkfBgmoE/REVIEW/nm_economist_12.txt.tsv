@@ -225,8 +225,8 @@ Nauyoma	B-Person
 Ndeulita	I-Person
 said	O
 the	O
-Crypto	B-Organization
-kiosk	I-Organization
+Crypto	B-Money
+kiosk	O
 allows	O
 users	O
 to	O

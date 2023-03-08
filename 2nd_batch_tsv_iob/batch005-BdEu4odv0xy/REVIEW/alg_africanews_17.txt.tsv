@@ -271,7 +271,7 @@ of	O
 the	O
 then	O
 Sonatrach	B-Organization
-group	I-Organization
+group	O
 ,	O
 who	O
 were	O
@@ -283,8 +283,8 @@ In	O
 2013	B-Misc
 ,	O
 the	O
-Algerian	B-Organization	B-NORP
-judiciary	I-Organization
+Algerian	B-NORP
+judiciary	O
 ,	O
 then	O
 headed	O

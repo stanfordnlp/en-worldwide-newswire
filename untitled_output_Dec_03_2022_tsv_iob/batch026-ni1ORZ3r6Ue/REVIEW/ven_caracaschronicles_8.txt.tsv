@@ -2546,8 +2546,8 @@ also	O
 the	O
 initials	O
 for	O
-Palestine	B-Organization	B-NORP
-liberation	I-Organization
+Palestine	B-Location
+liberation	O
 ,	O
 so	O
 for	O

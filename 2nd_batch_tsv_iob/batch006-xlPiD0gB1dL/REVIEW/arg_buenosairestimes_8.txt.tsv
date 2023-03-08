@@ -340,9 +340,9 @@ fastest	O
 pace	O
 of	O
 the	O
-Alberto	B-Organization	B-Person
-Fernández	I-Organization	I-Person
-administration	I-Organization
+Alberto	B-Person
+Fernández	I-Person
+administration	O
 but	O
 continued	O
 to	O

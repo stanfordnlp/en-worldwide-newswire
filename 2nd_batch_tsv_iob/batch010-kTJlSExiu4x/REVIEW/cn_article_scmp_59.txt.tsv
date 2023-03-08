@@ -32,10 +32,10 @@ under	O
 Beijing	B-Location
 ’	O
 s	O
-Belt	O
-and	O
-Road	O
-Initiative	O
+Belt	B-Misc
+and	I-Misc
+Road	I-Misc
+Initiative	I-Misc
 at	O
 a	O
 time	O
@@ -192,11 +192,11 @@ Zhongying	I-Person
 chair	O
 professor	O
 in	O
-international	B-Organization
-and	I-Organization
-regional	I-Organization
-political	I-Organization
-economy	I-Organization
+international	O
+and	O
+regional	O
+political	O
+economy	O
 at	O
 Sichuan	B-Organization	B-Location
 University	I-Organization
@@ -281,9 +281,9 @@ policy	O
 On	O
 Monday	B-Misc
 ,	O
-Chinese	B-Organization	B-NORP
-foreign	I-Organization
-ministry	I-Organization
+Chinese	B-NORP
+foreign	O
+ministry	O
 spokesman	O
 Wang	B-Person
 Wenbin	I-Person
@@ -352,9 +352,9 @@ start	O
 .	O
 
 China	B-Organization	B-Location
-’	I-Organization
-s	I-Organization
-embassy	I-Organization
+’	O
+s	O
+embassy	O
 in	O
 Manila	B-Location
 on	O

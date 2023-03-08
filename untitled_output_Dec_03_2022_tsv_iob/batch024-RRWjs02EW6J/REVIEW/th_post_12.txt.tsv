@@ -374,8 +374,8 @@ other	O
 agencies	O
 .	O
 
-The	B-Organization
-Labour	I-Organization
+The	O
+Labour	B-Organization
 Ministry	I-Organization
 has	O
 to	O

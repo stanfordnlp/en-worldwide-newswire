@@ -236,9 +236,9 @@ of	O
 the	O
 Janata	B-Organization
 Dal	I-Organization
-(	I-Organization
-United	I-Organization
-)	I-Organization
+(	O
+United	B-Organization
+)	O
 said	O
 the	O
 number	O

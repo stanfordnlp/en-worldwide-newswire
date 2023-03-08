@@ -15,18 +15,18 @@ container	O
 liner	O
 route	O
 linking	O
-Taicang	B-Location	B-Location
-in	I-Location
-east	I-Location
-China	I-Location	B-Location	B-Location
-'s	I-Location	I-Location
-Jiangsu	I-Location	I-Location
-Province	I-Location	I-Location
+Taicang	B-Location	
+in	O
+east	O
+China	B-Location	
+'s	O	
+Jiangsu	B-Location	
+Province	I-Location	
 and	O
-Rotterdam	B-Location	B-Location
-in	I-Location
-the	I-Location
-Netherlands	I-Location	B-Location
+Rotterdam	B-Location	
+in	O
+the	O
+Netherlands	B-Location
 was	O
 launched	O
 on	O
@@ -135,10 +135,10 @@ is	O
 a	O
 subsidiary	O
 of	O
-German	B-Organization	B-NORP
-supermarket	I-Organization
-chain	I-Organization
-Lidl	I-Organization
+German	B-NORP
+supermarket	O
+chain	O
+Lidl	B-Organization
 .	O
 In	O
 order	O

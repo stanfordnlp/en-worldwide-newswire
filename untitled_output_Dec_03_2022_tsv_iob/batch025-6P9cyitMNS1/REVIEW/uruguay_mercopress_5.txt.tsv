@@ -317,9 +317,9 @@ laboratory	O
 Sinovac	B-Organization
 ,	O
 the	O
-Anglo	B-Organization	B-NORP
--	I-Organization
-Swedish	I-Organization	B-NORP
+Anglo	B-NORP
+-	O
+Swedish	B-NORP
 company	O
 AstraZeneca	B-Organization
 and	O
