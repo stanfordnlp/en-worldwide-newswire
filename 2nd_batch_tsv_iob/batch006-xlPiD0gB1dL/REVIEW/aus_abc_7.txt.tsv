@@ -132,9 +132,9 @@ when	O
 he	O
 described	O
 a	O
-Voice	B-Misc
-to	I-Misc
-Parliament	I-Misc
+Voice	B-Organization
+to	I-Organization
+Parliament	I-Organization
 as	O
 a	O
 so	O
