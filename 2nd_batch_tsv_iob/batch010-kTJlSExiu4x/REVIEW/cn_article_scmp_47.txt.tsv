@@ -83,13 +83,13 @@ been	O
 building	O
 its	O
 own	O
-Vietnam	B-Facility	B-Location
-campus	I-Facility
+Vietnam	B-Location
+campus	O
 in	O
-northern	B-Location
-Thai	I-Location	B-NORP
+northern	O
+Thai	B-Location	B-NORP
 Nguyen	I-Location
-province	I-Location
+province	O
 with	O
 the	O
 aim	O

@@ -17,7 +17,7 @@ security	O
 situation	O
 in	O
 Kashmir	B-Location
-valley	I-Location
+valley	O
 and	O
 impressed	O
 upon	O
@@ -144,7 +144,7 @@ situation	O
 in	O
 the	O
 Kashmir	B-Location
-valley	I-Location
+valley	O
 ,	O
 the	O
 spokesman	O

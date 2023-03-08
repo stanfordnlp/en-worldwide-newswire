@@ -261,8 +261,8 @@ n't	O
 notified	O
 .	O
 
-Cuban	B-Facility	B-NORP
-prison	I-Facility
+Cuban	B-NORP
+prison	O
 system	O
 regulations	O
 do	O
@@ -2080,8 +2080,8 @@ style	O
 as	O
 in	O
 most	O
-Cuban	B-Facility	B-NORP
-prisons	I-Facility
+Cuban	B-NORP
+prisons	O
 ,	O
 but	O
 there	O

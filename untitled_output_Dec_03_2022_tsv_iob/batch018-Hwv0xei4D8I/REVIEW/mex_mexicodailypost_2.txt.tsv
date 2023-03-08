@@ -359,11 +359,11 @@ and	O
 sidewalks	O
 of	O
 the	O
-José	B-Facility
-Castillo	I-Facility
-Tielemans	I-Facility
-public	I-Facility
-market	I-Facility
+José	B-Person
+Castillo	I-Person
+Tielemans	I-Person
+public	O
+market	O
 they	O
 are	O
 also	O
@@ -600,9 +600,9 @@ who	O
 was	O
 in	O
 the	O
-Santo	B-Location	B-Location
-Domingo	I-Location	I-Location
-walkway	I-Location
+Santo	B-Location
+Domingo	I-Location
+walkway	O
 on	O
 the	O
 corner	O

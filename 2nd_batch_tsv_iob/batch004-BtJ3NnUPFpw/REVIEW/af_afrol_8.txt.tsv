@@ -888,8 +888,8 @@ lead	O
 on	O
 the	O
 entire	O
-African	B-Location	B-NORP
-continent	I-Location
+African	B-NORP
+continent	O
 ,	O
 where	O
 only	O

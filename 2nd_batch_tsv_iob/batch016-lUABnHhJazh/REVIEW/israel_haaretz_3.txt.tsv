@@ -1336,12 +1336,12 @@ the	O
 construction	O
 of	O
 the	O
-Shemen	B-Facility
-factory	I-Facility
+Shemen	B-Organization
+factory	O
 on	O
 the	O
 Haifa	B-Location
-coast	I-Location
+coast	O
 .	O
 Other	O
 projects	O

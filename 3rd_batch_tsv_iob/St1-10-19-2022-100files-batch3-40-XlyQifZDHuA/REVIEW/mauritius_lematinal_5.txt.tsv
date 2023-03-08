@@ -31,8 +31,8 @@ care	O
 unit	O
 of	O
 the	O
-northern	B-Facility
-hospital	I-Facility
+northern	O
+hospital	O
 on	O
 Monday	B-Misc
 evening	O
@@ -66,9 +66,9 @@ police	O
 officers	O
 from	O
 the	O
-Piton	B-Facility	B-Location
-police	I-Facility
-station	I-Facility
+Piton	B-Location
+police	O
+station	O
 went	O
 to	O
 the	O
@@ -150,8 +150,8 @@ injured	O
 man	O
 to	O
 the	O
-northern	B-Facility
-hospital	I-Facility
+northern	O
+hospital	O
 .	O
 After	O
 first	O

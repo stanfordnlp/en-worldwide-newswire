@@ -1815,11 +1815,11 @@ very	O
 good	O
 relationship	O
 with	O
-Beijing	B-Facility	B-Location
-zoo	I-Facility
+Beijing	B-Location
+zoo	O
 and	O
-Shanghai	B-Facility	B-Location
-zoo	I-Facility
+Shanghai	B-Location
+zoo	O
 where	O
 every	O
 year	O

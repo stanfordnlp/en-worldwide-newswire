@@ -1166,10 +1166,10 @@ campaigns	O
 in	O
 the	O
 Kaieteur	B-Location
-and	I-Location
-Canje	I-Location
-oil	I-Location
-blocks	I-Location
+and	O
+Canje	B-Location
+oil	O
+blocks	O
 for	O
 which	O
 environmental	O

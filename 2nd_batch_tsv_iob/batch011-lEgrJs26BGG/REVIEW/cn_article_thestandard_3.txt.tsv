@@ -94,9 +94,9 @@ a	O
 meal	O
 at	O
 a	O
-Sheung	B-Facility	B-Location
-Shui	I-Facility	I-Location
-restaurant	I-Facility
+Sheung	B-Location
+Shui	I-Location
+restaurant	O
 last	O
 Friday	B-Misc
 and	O

@@ -50,8 +50,8 @@ La	B-Location
 Ciudad	I-Location
 Blanca	I-Location
 Honduras	I-Location
-in	I-Location
-Miskito	I-Location
+in	O
+Miskito	B-Location
 )	O
 .	O
 
@@ -513,8 +513,8 @@ the	O
 Arctic	B-Location
 North	I-Location
 Pole	I-Location
-in	I-Location
-Canada	I-Location
+in	O
+Canada	B-Location
 .	O
 ”	O
 

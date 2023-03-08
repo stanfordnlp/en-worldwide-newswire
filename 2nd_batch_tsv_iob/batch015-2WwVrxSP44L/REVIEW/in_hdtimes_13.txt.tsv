@@ -126,8 +126,8 @@ bring	O
 him	O
 to	O
 Tura	B-Location
-in	I-Location
-Meghalaya	I-Location
+in	O
+Meghalaya	B-Location
 .	O
 
 Marak	B-Person
@@ -163,9 +163,9 @@ his	O
 farmhouse	O
 at	O
 Tura	B-Location
-in	I-Location
-the	I-Location
-West	I-Location
+in	O
+the	O
+West	B-Location
 Garo	I-Location
 Hills	I-Location
 district	O

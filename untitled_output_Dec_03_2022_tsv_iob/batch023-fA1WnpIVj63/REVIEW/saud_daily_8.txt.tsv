@@ -271,8 +271,8 @@ US	B-Location
 ,	O
 Europe	B-Location
 ,	O
-the	B-Location
-Mediterranean	I-Location
+the	O
+Mediterranean	B-Location
 ,	O
 the	O
 Middle	B-Location

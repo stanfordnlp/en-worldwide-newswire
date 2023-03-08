@@ -40,12 +40,12 @@ her	O
 job	O
 in	O
 Sholdhara	B-Location
-village	I-Location
-at	I-Location
-Gior	I-Location	B-Location
-upazila	I-Location	I-Location
-of	I-Location	I-Location
-Manikganj	I-Location	I-Location
+village	O
+at	O
+Gior	B-Location
+upazila	O
+of	O
+Manikganj	B-Location
 .	O
 
 The	O

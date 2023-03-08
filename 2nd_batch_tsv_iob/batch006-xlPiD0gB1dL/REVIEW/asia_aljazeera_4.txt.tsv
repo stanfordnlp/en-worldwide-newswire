@@ -24,11 +24,11 @@ and	O
 elders	O
 in	O
 Afghanistan	B-Location
-’	I-Location
-s	I-Location
-capital	I-Location
-,	I-Location
-Kabul	I-Location
+’	O
+s	O
+capital	O
+,	O
+Kabul	B-Location
 .	O
 
 More	O

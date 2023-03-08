@@ -260,8 +260,8 @@ also	O
 reported	O
 from	O
 Khargone	B-Location
-in	I-Location
-Madhya	I-Location
+in	O
+Madhya	B-Location
 Pradesh	I-Location
 .	O
 Here	O

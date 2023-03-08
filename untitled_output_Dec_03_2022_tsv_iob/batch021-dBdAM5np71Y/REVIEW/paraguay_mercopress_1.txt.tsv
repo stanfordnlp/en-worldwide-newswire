@@ -20,10 +20,10 @@ has	O
 superseded	O
 Buenos	B-Facility	B-Location
 Aires	I-Facility	I-Location
-'	I-Facility
-international	I-Facility
-Ezeiza	I-Facility
-airport	I-Facility
+'	O
+international	O
+Ezeiza	B-Location
+airport	O
 as	O
 the	O
 main	O

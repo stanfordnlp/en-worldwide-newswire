@@ -978,8 +978,8 @@ Inuit	I-Organization	B-NORP
 Association	I-Organization
 ]	O
 and	O
-Crown	B-Location
-land	I-Location
+Crown	B-Organization
+land	O
 ,	O
 "	O
 which	O

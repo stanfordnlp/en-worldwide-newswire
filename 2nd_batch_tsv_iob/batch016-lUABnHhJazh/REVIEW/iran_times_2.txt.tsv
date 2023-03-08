@@ -49,9 +49,9 @@ Division	I-Organization
 Hajizadeh	B-Person
 said	O
 the	O
-Qaem	B-Facility	B-Location
-satellite	I-Facility
-carrier	I-Facility
+Qaem	B-Location
+satellite	O
+carrier	O
 will	O
 be	O
 used	O

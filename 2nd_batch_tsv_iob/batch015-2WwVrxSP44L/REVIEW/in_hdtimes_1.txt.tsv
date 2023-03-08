@@ -69,8 +69,8 @@ died	O
 by	O
 suicide	O
 in	O
-Tiruvallur	B-Location	B-Location
-district	I-Location
+Tiruvallur	B-Location	
+district	O
 in	O
 her	O
 hostel	O
@@ -89,11 +89,11 @@ class	O
 12	O
 girl	O
 in	O
-Tamil	B-Location	B-Location
-Nadu	I-Location	I-Location
-’	I-Location
-s	I-Location
-Cuddalore	I-Location	B-Location
+Tamil	B-Location
+Nadu	I-Location	
+’	O
+s	O
+Cuddalore	B-Location
 was	O
 found	O
 dead	O
@@ -130,8 +130,8 @@ at	O
 Virudhachalam	B-Location
 in	O
 the	O
-Cuddalore	B-Location	B-Location
-district	I-Location
+Cuddalore	B-Location
+district	O
 .	O
 
 A	O
@@ -221,8 +221,8 @@ died	O
 by	O
 suicide	O
 in	O
-Tiruvallur	B-Location	B-Location
-district	I-Location
+Tiruvallur	B-Location
+district	O
 in	O
 her	O
 hostel	O
@@ -418,8 +418,8 @@ earlier	O
 incident	O
 in	O
 the	O
-Tiruvallur	B-Location	B-Location
-district	I-Location
+Tiruvallur	B-Location
+district	O
 ,	O
 the	O
 girl	O
@@ -430,12 +430,12 @@ was	O
 taken	O
 to	O
 the	O
-Tiruvallur	B-Location	B-Location
-government	I-Location
-medical	I-Location
-college	I-Location
-and	I-Location
-hospital	I-Location
+Tiruvallur	B-Location
+government	O
+medical	O
+college	O
+and	O
+hospital	O
 for	O
 postmortem	O
 .	O

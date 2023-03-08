@@ -206,9 +206,9 @@ Institut	B-Organization
 Pasteur	I-Organization
 in	O
 Lyon	B-Location
-(	I-Location
-France	I-Location
-)	I-Location
+(	O
+France	B-Location
+)	O
 .	O
 This	O
 strain	O

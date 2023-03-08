@@ -61,14 +61,14 @@ opening	O
 of	O
 a	O
 new	O
-Iranian	B-Facility	B-NORP
-drone	I-Facility
-factory	I-Facility
+Iranian	B-NORP
+drone	O
+factory	O
 in	O
 the	O
-Tajik	B-Location
-capital	I-Location
-Dushanbe	I-Location
+Tajik	B-NORP
+capital	O
+Dushanbe	B-Location
 two	O
 weeks	O
 earlier	O
@@ -505,11 +505,11 @@ sees	O
 Iran	B-Location
 ’	O
 s	O
-Chabahar	B-Facility	B-Location
-and	I-Facility
-Bandar	I-Facility	B-Location
-Abbas	I-Facility	I-Location
-ports	I-Facility
+Chabahar	B-Location
+and	O
+Bandar	B-Location
+Abbas	I-Location
+ports	O
 as	O
 critical	O
 to	O

@@ -120,8 +120,8 @@ said	O
 
 The	O
 new	O
-Orbit	B-Facility	B-Organization
-factory	I-Facility
+Orbit	B-Organization
+factory	O
 ,	O
 to	O
 be	O
@@ -134,9 +134,9 @@ dunum	O
 plot	O
 in	O
 the	O
-South	B-Misc
-Industrial	I-Misc
-Complex	I-Misc
+South	B-Location
+Industrial	I-Location
+Complex	I-Location
 area	O
 of	O
 ASEZA	B-Organization

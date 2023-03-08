@@ -63,8 +63,8 @@ armoured	O
 vehicles	O
 rolled	O
 through	O
-central	B-Location
-Algiers	I-Location
+central	O
+Algiers	B-Location
 ,	O
 during	O
 the	O

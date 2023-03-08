@@ -242,9 +242,9 @@ lodged	O
 a	O
 complaint	O
 with	O
-Lalbagh	B-Facility	B-Organization	B-Location
-police	I-Facility	I-Organization
-station	I-Facility
+Lalbagh	B-Location
+police	O
+station	O
 in	O
 this	O
 regard	O

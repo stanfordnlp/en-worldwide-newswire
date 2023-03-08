@@ -108,8 +108,8 @@ when	O
 Chile	B-Location
 invaded	O
 the	O
-Antofagasta	B-Facility	B-Location
-port	I-Facility
+Antofagasta	B-Location
+port	O
 city	O
 on	O
 its	O

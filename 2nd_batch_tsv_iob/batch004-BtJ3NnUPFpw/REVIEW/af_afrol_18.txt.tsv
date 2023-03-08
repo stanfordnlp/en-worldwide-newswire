@@ -1087,9 +1087,9 @@ his	O
 famous	O
 Chez	B-Location
 Batista	I-Location
-restaurant	I-Location
-and	I-Location
-lodge	I-Location
+restaurant	O
+and	O
+lodge	O
 at	O
 wonderful	O
 Takamaka	B-Location
@@ -1944,11 +1944,11 @@ quality	O
 ingredients	O
 .	O
 
-Paradise	B-Location
+Paradise	O
 assessed	O
 
 "	O
-Paradise	B-Location
+Paradise	O
 "	O
 is	O
 the	O
@@ -2225,7 +2225,7 @@ locals	O
 from	O
 all	O
 Mahé	B-Location
-island	I-Location
+island	O
 flock	O
 together	O
 to	O
@@ -2332,14 +2332,14 @@ from	O
 the	O
 Anse	B-Location
 Gouvernement	I-Location
-beach	I-Location
-,	I-Location
-Baie	I-Location
+beach	O
+,	O
+Baie	B-Location
 Lazare	I-Location
-,	I-Location
-south	I-Location
-on	I-Location
-Mahé	I-Location
+,	O
+south	O
+on	O
+Mahé	B-Location
 island	I-Location
 .	O
 The	O

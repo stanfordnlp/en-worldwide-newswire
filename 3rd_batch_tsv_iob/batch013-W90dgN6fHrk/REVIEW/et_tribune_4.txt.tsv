@@ -237,9 +237,9 @@ the	O
 service	O
 of	O
 the	O
-Khedive	O
-of	O
-Egypt	B-Location
+Khedive	B-Organization
+of	I-Organization
+Egypt	I-Organization	B-Location
 .	O
 The	O
 Khedive	O
@@ -275,9 +275,9 @@ about	O
 equally	O
 between	O
 former	O
-Union	O
+Union	B-Organization
 and	O
-Confederate	O
+Confederate	B-Organization
 personnel	O
 .	O
 Concerned	O
@@ -297,10 +297,10 @@ punitive	O
 expedition	O
 to	O
 Massawa	B-Location
-on	I-Location
-the	I-Location
-Eritrean	I-Location	B-NORP
-coast	I-Location
+on	O
+the	O
+Eritrean	B-NORP
+coast	O
 in	O
 1875	B-Misc
 .	O

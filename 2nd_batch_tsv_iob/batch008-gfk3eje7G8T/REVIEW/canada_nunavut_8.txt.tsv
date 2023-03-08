@@ -803,11 +803,11 @@ to	O
 open	O
 a	O
 new	O
-FNBC	B-Facility	B-Organization
-banking	I-Facility
-centre	I-Facility
+FNBC	B-Organization
+banking	O
+centre	O
 in	O
-Taloyoak	O
+Taloyoak	B-Location
 are	O
 waiting	O
 for	O

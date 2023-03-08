@@ -320,8 +320,8 @@ the	O
 criminal	O
 wing	O
 of	O
-Gilboa	B-Facility	B-Location
-prison	I-Facility
+Gilboa	B-Location
+prison	O
 ,	O
 per	O
 Atallah	B-Person
@@ -997,8 +997,8 @@ lawyer	O
 representing	O
 the	O
 former	O
-Gilboa	B-Facility	B-Location
-prison	I-Facility
+Gilboa	B-Location
+prison	O
 guards	O
 ,	O
 Keren	B-Person
@@ -1026,9 +1026,9 @@ the	O
 establishment	O
 of	O
 the	O
-state	B-Location
-of	I-Location
-Israel	I-Location
+state	O
+of	O
+Israel	B-Location
 of	O
 sexual	O
 assault	O
@@ -1153,10 +1153,10 @@ MK	O
 Ram	B-Person
 Ben	I-Person
 Barak	I-Person
-(	I-Person
-Yesh	I-Person
+(	O
+Yesh	B-Person
 Atid	I-Person
-)	I-Person
+)	O
 will	O
 convene	O
 next	O
@@ -1168,14 +1168,14 @@ from	O
 the	O
 IPS	B-Organization
 ,	O
-Shin	B-Person
-Bet	I-Person
+Shin	B-Organization
+Bet	I-Organization
 ,	O
 and	O
-Attorney	O
-General	O
-'s	O
-Office	O
+Attorney	B-Organization
+General	I-Organization
+'s	I-Organization
+Office	I-Organization
 also	O
 expected	O
 to	O

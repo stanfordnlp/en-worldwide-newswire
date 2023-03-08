@@ -337,8 +337,8 @@ an	O
 inch	O
 on	O
 Jammu	B-Location
-and	I-Location
-Kashmir	I-Location
+and	O
+Kashmir	B-Location
 .	O
 All	O
 the	O

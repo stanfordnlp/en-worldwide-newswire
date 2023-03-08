@@ -340,9 +340,9 @@ being	O
 made	O
 by	O
 the	O
-state	B-Location
-of	I-Location
-Qatar	I-Location
+state	O
+of	O
+Qatar	B-Location
 in	O
 providing	O
 events	O

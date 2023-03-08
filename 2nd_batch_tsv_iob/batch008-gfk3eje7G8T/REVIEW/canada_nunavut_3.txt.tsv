@@ -484,8 +484,8 @@ Argentina	B-Location
 to	O
 Juno	B-Location
 Beach	I-Location
-in	I-Location
-France	I-Location
+in	O
+France	B-Location
 .	O
 
 But	O

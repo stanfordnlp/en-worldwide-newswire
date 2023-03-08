@@ -253,10 +253,10 @@ village	O
 located	O
 in	O
 the	O
-Marsabit	B-Location	B-Location
-sub	I-Location
--	I-Location
-county	I-Location
+Marsabit	B-Location
+sub	O
+-	O
+county	O
 .	O
 Because	O
 of	O
@@ -271,8 +271,8 @@ move	O
 to	O
 the	O
 nearby	O
-Samburu	B-Location	B-Location
-county	I-Location
+Samburu	B-Location
+county	O
 ,	O
 searching	O
 for	O

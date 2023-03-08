@@ -46,9 +46,9 @@ report	O
 for	O
 Latin	B-Location
 America	I-Location
-and	I-Location
-the	I-Location
-Caribbean	I-Location
+and	O
+the	O
+Caribbean	B-Location
 (	O
 LAC	B-Location
 )	O
