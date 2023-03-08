@@ -586,15 +586,15 @@ He	O
 graduated	O
 with	O
 his	O
-MA	B-Misc
-in	I-Misc
-Sociology	I-Misc
+MA	O
+in	O
+Sociology	O
 and	O
 earned	O
 his	O
-BA	B-Misc
-in	I-Misc
-Development	I-Misc
+BA	O
+in	O
+Development	O
 at	O
 the	O
 London	B-Organization	B-Location

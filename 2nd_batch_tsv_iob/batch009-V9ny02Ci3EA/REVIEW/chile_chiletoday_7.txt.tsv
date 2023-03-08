@@ -153,8 +153,8 @@ fit	O
 resulting	O
 in	O
 the	O
-1833	B-Misc	B-Misc
-Constitution	I-Misc
+1833	B-Misc	
+Constitution	O
 .	O
 The	O
 document	O
@@ -723,7 +723,7 @@ winner	O
 or	O
 loser	O
 .	O
-Liberal	O
+Liberal	B-NORP
 leaders	O
 fled	O
 to	O

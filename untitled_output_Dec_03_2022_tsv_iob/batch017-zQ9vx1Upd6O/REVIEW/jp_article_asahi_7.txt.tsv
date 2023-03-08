@@ -888,10 +888,10 @@ the	O
 so	O
 -	O
 called	O
-anti	B-Misc
--	I-Misc
-conspiracy	I-Misc
-law	I-Misc
+anti	O
+-	O
+conspiracy	O
+law	O
 ,	O
 which	O
 was	O
@@ -905,10 +905,10 @@ major	O
 scandals	O
 concerned	O
 the	O
-Moritomo	B-Person
-Gakuen	I-Person
-and	O
-Kake	B-Organization
+Moritomo	B-Organization	B-Person
+Gakuen	I-Organization		I-Person
+and	I-Organization
+Kake	I-Organization
 Educational	I-Organization
 Institution	I-Organization
 and	O
@@ -952,7 +952,7 @@ decisions	O
 ,	O
 handling	O
 of	O
-Diet	B-Misc
+Diet	B-Organization
 affairs	O
 and	O
 other	O
@@ -995,7 +995,7 @@ offering	O
 responses	O
 in	O
 the	O
-Diet	B-Misc
+Diet	B-Organization
 and	O
 at	O
 news	O

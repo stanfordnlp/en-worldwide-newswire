@@ -230,7 +230,7 @@ the	O
 night	O
 was	O
 “	O
-Anita	B-Person
+Anita	B-Misc
 ,	O
 ”	O
 a	O
@@ -242,7 +242,7 @@ Mui	B-Person
 .	I-Person
 
 “	O
-Anita	O
+Anita	B-Misc
 ,	O
 ”	O
 which	O
@@ -332,7 +332,7 @@ weeks	O
 .	O
 
 “	O
-Anita	B-Person
+Anita	B-Misc
 ”	O
 also	O
 earned	O

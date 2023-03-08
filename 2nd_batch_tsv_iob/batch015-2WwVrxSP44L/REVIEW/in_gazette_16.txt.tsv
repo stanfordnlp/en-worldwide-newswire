@@ -235,8 +235,8 @@ like	O
 us	O
 for	O
 a	O
-Chintan	O
-Baithak	O
+Chintan	B-Misc
+Baithak	I-Misc
 ,	O
 or	O
 brainstorming	O
@@ -248,7 +248,7 @@ occasion	O
 for	O
 the	O
 “	O
-Chintan	O
+Chintan	B-Misc
 ”	O
 was	O
 the	O
@@ -299,8 +299,8 @@ five	O
 After	O
 the	O
 “	O
-Chintan	O
-Baithak	O
+Chintan	B-Misc
+Baithak	I-Misc
 ”	O
 led	O
 by	O

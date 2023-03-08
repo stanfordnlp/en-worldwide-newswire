@@ -208,14 +208,14 @@ Mumford	I-Person
 )	O
 ;	O
 
-Abusuapayin	O
+Abusuapayin	B-Misc
 ,	O
-Obaapanyin	O
-Efua	B-Person
+Obaapanyin	B-Person
+Efua	I-Person
 Esurogyan	I-Person
 ;	O
 
-Abusua	O
+Abusua	B-Misc
 Baatan	B-Person
 Abass	I-Person
 Assopiah	I-Person
@@ -1166,11 +1166,11 @@ and	O
 
 ALSO	O
 READ	O
-International	O
-Girls	O
-in	O
-ICT	B-Misc
-Day	O
+International	B-Misc
+Girls	I-Misc
+in	I-Misc
+ICT	I-Misc
+Day	I-Misc
 :	O
 Coding	B-Organization
 for	I-Organization

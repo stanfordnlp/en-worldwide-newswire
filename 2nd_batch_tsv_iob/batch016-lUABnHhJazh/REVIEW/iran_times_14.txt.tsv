@@ -1148,8 +1148,8 @@ official	O
 accounts	O
 .	O
 The	O
-Arab	B-NORP
-Summit	O
+Arab	B-Misc	B-NORP
+Summit	I-Misc
 did	O
 not	O
 conclude	O
@@ -1656,9 +1656,9 @@ Trump	B-Person
 years	O
 ,	O
 the	O
-neo	O
--	O
-Conservative	O
+neo	B-NORP
+-	I-NORP
+Conservative	I-NORP
 hardline	O
 approach	O
 was	O

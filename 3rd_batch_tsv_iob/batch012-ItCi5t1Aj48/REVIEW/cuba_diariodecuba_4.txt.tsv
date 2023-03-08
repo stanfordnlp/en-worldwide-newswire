@@ -75,9 +75,9 @@ special	O
 regulations	O
 like	O
 the	O
-Criminal	O
-Procedure	O
-Law	O
+Criminal	B-Misc
+Procedure	I-Misc
+Law	I-Misc
 ,	O
 linked	O
 to	O
@@ -117,8 +117,8 @@ offence	O
 ,	O
 under	O
 the	O
-Criminal	O
-Code	O
+Criminal	B-Misc
+Code	I-Misc
 ,	O
 or	O
 certain	O
@@ -215,8 +215,8 @@ arbitrary	O
 ,	O
 according	O
 to	O
-International	O
-Law	O
+International	B-Misc
+Law	I-Misc
 .	O
 "	O
 
@@ -1052,11 +1052,11 @@ Cuba	B-Location
 ,	O
 as	O
 per	O
-Article	B-Misc
-5	I-Misc
-of	I-Misc
-the	I-Misc
-Constitution	I-Misc
+Article	O
+5	O
+of	O
+the	O
+Constitution	O
 ,	O
 "	O
 he	O
@@ -1630,7 +1630,7 @@ is	O
 nominally	O
 ,	O
 an	O
-NGO	B-Misc
+NGO	O
 ,	O
 "	O
 he	O

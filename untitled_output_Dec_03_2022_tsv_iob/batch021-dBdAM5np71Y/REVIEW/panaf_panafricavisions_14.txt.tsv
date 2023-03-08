@@ -13,9 +13,9 @@ scheduled	O
 for	O
 4	B-Misc
 june	I-Misc
-on	I-Misc
-a	I-Misc
-saturday	I-Misc
+on	O
+a	O
+saturday	B-Misc
 .	O
 A	O
 total	O
@@ -63,8 +63,8 @@ coordination	O
 OK	B-Misc
 Grand	I-Misc
 Challenge	I-Misc
-jackpot	I-Misc
-promotion	I-Misc
+jackpot	O
+promotion	O
 is	O
 an	O
 annual	O

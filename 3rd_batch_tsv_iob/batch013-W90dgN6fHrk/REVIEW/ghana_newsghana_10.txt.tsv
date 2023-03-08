@@ -84,7 +84,7 @@ and	O
 access	O
 pre	O
 -	O
-IPO	B-Misc
+IPO	O
 opportunities	O
 that	O
 were	O
@@ -106,7 +106,7 @@ in	O
 Hollywood	B-Location
 by	O
 reality	O
-TV	B-Misc
+TV	O
 icon	O
 Craig	B-Person
 Plestis	I-Person
@@ -150,7 +150,7 @@ world	O
 .	O
 Entering	O
 the	O
-African	O
+African	B-NORP
 continent	O
 ,	O
 which	O
@@ -213,7 +213,7 @@ to	O
 select	O
 pre	O
 -	O
-IPO	B-Misc
+IPO	O
 companies	O
 ,	O
 and	O

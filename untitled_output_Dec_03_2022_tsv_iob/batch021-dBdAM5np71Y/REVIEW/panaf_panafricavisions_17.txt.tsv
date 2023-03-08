@@ -684,13 +684,13 @@ and	O
 was	O
 crowned	O
 “	O
-Miss	O
-Freedom	O
-Of	O
-The	O
-World	O
-Africa	B-Misc
-2022	B-Misc
+Miss	B-Misc
+Freedom	I-Misc
+Of	I-Misc
+The	I-Misc
+World	I-Misc
+Africa	I-Misc	B-Misc
+2022	I-Misc	B-Misc
 ”	O
 .	O
 She	O

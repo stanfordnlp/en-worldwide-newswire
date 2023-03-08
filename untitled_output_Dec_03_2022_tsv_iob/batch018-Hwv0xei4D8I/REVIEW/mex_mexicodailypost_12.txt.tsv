@@ -24,14 +24,14 @@ with	O
 the	O
 outbreak	O
 of	O
-monkeypox	O
+monkeypox	B-Misc
 cases	O
 in	O
 Mexico	B-Location
 ,	O
-Civil	O
-Society	O
-Organizations	O
+Civil	B-Organization
+Society	I-Organization
+Organizations	I-Organization
 ,	O
 groups	O
 and	O
@@ -40,7 +40,7 @@ against	O
 the	O
 rights	O
 of	O
-LGBT	O
+LGBT	B-NORP
 +	O
 people	O
 ,	O

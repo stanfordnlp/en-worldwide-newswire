@@ -154,9 +154,9 @@ when	O
 the	O
 events	O
 of	O
-La	B-Misc	B-Location
-Vega	I-Misc	I-Location
-massacre	I-Misc
+La	B-Location
+Vega	I-Location
+massacre	O
 ,	O
 where	O
 her	O
@@ -1103,7 +1103,7 @@ is	O
 the	O
 evolution	O
 of	O
-Venezuelan	O
+Venezuelan	B-NORP
 police	O
 culture	O
 from	O

@@ -459,7 +459,7 @@ movement	O
 despite	O
 prodding	O
 by	O
-swayamsevaks	O
+swayamsevaks	B-NORP
 ,	O
 whom	O
 he	O
@@ -735,7 +735,7 @@ what	O
 Hedgewar	B-Person
 told	O
 aspiring	O
-swayamsevaks	O
+swayamsevaks	B-NORP
 keen	O
 to	O
 join	O

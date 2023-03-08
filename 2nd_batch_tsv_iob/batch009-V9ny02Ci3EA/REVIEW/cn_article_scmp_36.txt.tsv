@@ -1009,12 +1009,12 @@ voted	O
 against	O
 extending	O
 the	O
-Mandate	B-Misc
-of	I-Misc
-the	I-Misc
-UN	I-Misc	B-Organization
-Independent	I-Misc
-Expert	I-Misc
+Mandate	O
+of	O
+the	O
+UN	B-Organization
+Independent	O
+Expert	O
 on	O
 protection	O
 from	O

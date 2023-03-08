@@ -117,7 +117,7 @@ UNESCO	B-Organization
 prestigious	O
 World	B-Misc
 Heritage	I-Misc
-list	I-Misc
+list	O
 .	O
 
 Congolese	B-NORP
@@ -428,9 +428,9 @@ national	O
 park	O
 ,	O
 a	O
-World	O
-Heritage	O
-Site	O
+World	B-Misc
+Heritage	I-Misc
+Site	I-Misc
 ,	O
 and	O
 is	O

@@ -908,8 +908,8 @@ insurer	O
 that	O
 offers	O
 a	O
-few	B-Money
-hundred	I-Money
+few	O
+hundred	B-Money
 yuan	I-Money
 worth	O
 of	O

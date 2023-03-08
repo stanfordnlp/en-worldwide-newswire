@@ -75,7 +75,7 @@ SARS	B-Misc
 CoV	I-Misc
 -	I-Misc
 2	I-Misc
-virus	I-Misc
+virus	O
 ,	O
 including	O
 continuous	O
@@ -133,7 +133,7 @@ SARS	B-Misc
 COV	I-Misc
 -	I-Misc
 2	I-Misc
-virus	I-Misc
+virus	O
 ,	O
 it	O
 said	O
@@ -167,7 +167,7 @@ SARS	B-Misc
 CoV	I-Misc
 -	I-Misc
 2	I-Misc
-virus	I-Misc
+virus	O
 evolution	O
 and	O
 its	O
@@ -198,9 +198,9 @@ expansion	O
 of	O
 the	O
 existing	O
-Viral	O
-BSL	O
-3	O
+Viral	B-Misc
+BSL	I-Misc
+3	I-Misc
 facility	O
 at	O
 IISc	B-Organization
@@ -234,9 +234,9 @@ Sunday	B-Misc
 "	O
 The	O
 expanded	O
-Viral	O
-BSL	O
-3	O
+Viral	B-Misc
+BSL	I-Misc
+3	I-Misc
 facility	O
 will	O
 support	O

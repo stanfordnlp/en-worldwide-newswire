@@ -343,7 +343,7 @@ the	O
 Kudz	B-Misc
 Ze	I-Misc
 Kayah	I-Misc
-project	I-Misc
+project	O
 and	O
 fully	O
 considered	O
@@ -656,8 +656,8 @@ assurances	O
 provided	O
 by	O
 the	O
-Decision	B-Misc
-Bodies	I-Misc
+Decision	B-Organization
+Bodies	I-Organization
 during	O
 the	O
 June	B-Misc
@@ -681,8 +681,8 @@ the	O
 process	O
 that	O
 the	O
-Decision	B-Misc
-Bodies	I-Misc
+Decision	B-Organization
+Bodies	I-Organization
 would	O
 follow	O
 in	O
@@ -739,8 +739,8 @@ issues	O
 raised	O
 by	O
 the	O
-Decision	B-Misc
-Bodies	I-Misc
+Decision	B-Organization
+Bodies	I-Organization
 ”	O
 regarding	O
 the	O
@@ -766,8 +766,8 @@ accommodation	O
 failures	O
 by	O
 the	O
-Decision	B-Misc
-Bodies	I-Misc
+Decision	B-Organization
+Bodies	I-Organization
 on	O
 the	O
 Project	O
@@ -811,8 +811,8 @@ information	O
 known	O
 to	O
 the	O
-Decision	B-Misc
-Bodies	I-Misc
+Decision	B-Organization
+Bodies	I-Organization
 .	O
 ”	O
 
@@ -864,8 +864,8 @@ It	O
 alleges	O
 “	O
 the	O
-Decision	B-Misc
-Bodies	I-Misc
+Decision	B-Organization
+Bodies	I-Organization
 ’	O
 failure	O
 to	O

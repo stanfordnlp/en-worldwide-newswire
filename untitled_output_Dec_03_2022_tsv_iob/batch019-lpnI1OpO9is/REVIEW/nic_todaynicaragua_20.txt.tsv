@@ -27,8 +27,8 @@ during	O
 Semana	B-Misc
 Santa	I-Misc
 .	O
-The	B-Organization
-Nicaraguan	I-Organization	B-NORP
+The	O
+Nicaraguan	B-Organization	B-NORP
 National	I-Organization
 Chamber	I-Organization
 of	I-Organization
@@ -101,7 +101,7 @@ bleak	O
 
 While	O
 the	O
-coronavirus	O
+coronavirus	B-Misc
 cases	O
 continue	O
 to	O

@@ -173,7 +173,7 @@ case	O
 of	O
 Covid	B-Misc
 -	I-Misc
-19	O
+19	I-Misc
 .	O
 “	O
 The	O
@@ -1048,8 +1048,8 @@ unemployed	O
 Funides	B-Organization
 ’	O
 August	B-Misc
-Situation	O
-Report	O
+Situation	I-Misc
+Report	I-Misc
 reveals	O
 that	O
 the	O
@@ -1107,7 +1107,7 @@ day	O
 ”	O
 ,	O
 the	O
-NGO	B-Misc
+NGO	O
 warned	O
 in	O
 a	O

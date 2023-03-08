@@ -46,9 +46,9 @@ at	O
 :	O
 10	O
 .	O
-Flight	B-Misc
-AV	I-Misc
-662	I-Misc
+Flight	O
+AV	O
+662	O
 was	O
 headed	O
 non	O
@@ -103,9 +103,9 @@ DC	I-Location
 –	O
 San	B-Location
 José	I-Location
-Flight	B-Misc
-AV	I-Misc
-663	I-Misc
+Flight	O
+AV	O
+663	O
 IAD	O
 02	O
 :	O
@@ -130,9 +130,9 @@ José	I-Location
 –	O
 Washington	B-Location
 DC	I-Location
-Flight	B-Misc
-AV	I-Misc
-662	I-Misc
+Flight	O
+AV	O
+662	O
 SJO	B-Location
 17	O
 :	O
@@ -221,8 +221,8 @@ arrival	O
 of	O
 690	O
 ,	O
-249 Am	O
-ericans	O
+249 	O
+Americans	B-NORP
 was	O
 registered	O
 ,	O

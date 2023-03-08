@@ -223,8 +223,8 @@ action	O
 ,	O
 coming	O
 after	O
-Pride	O
-Month	O
+Pride	B-Misc
+Month	I-Misc
 in	O
 June	B-Misc
 ,	O
@@ -250,9 +250,9 @@ accounts	O
 of	O
 dozens	O
 of	O
-LGBT	B-Misc	B-NORP
-student	I-Misc
-organisations	I-Misc
+LGBT	B-NORP
+student	O
+organisations	O
 were	O
 shut	O
 down	O
@@ -465,9 +465,9 @@ said	O
 The	O
 Tsinghua	B-Organization	B-Organization
 University	I-Organization	I-Organization
-student	I-Organization
-affairs	I-Organization
-office	I-Organization
+student	O
+affairs	O
+office	O
 could	O
 not	O
 be	O
@@ -1005,12 +1005,12 @@ voted	O
 against	O
 extending	O
 the	O
-Mandate	B-Misc
-of	I-Misc
-the	I-Misc
-UN	I-Misc	B-Organization
-Independent	I-Misc
-Expert	I-Misc
+Mandate	O
+of	O
+the	O
+UN	O	B-Organization
+Independent	O
+Expert	O
 on	O
 protection	O
 from	O
@@ -1029,8 +1029,8 @@ identity	O
 In	O
 2020	B-Misc
 ,	O
-Shanghai	B-Location
-Pride	O
+Shanghai	B-Misc	B-Location
+Pride	I-Misc
 was	O
 cancelled	O
 after	O

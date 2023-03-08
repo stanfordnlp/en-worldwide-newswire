@@ -51,11 +51,11 @@ of	O
 2021	B-Misc
 in	O
 the	O
-Copa	B-Misc
-Liga	I-Misc
-Profesional	I-Misc
-and	I-Misc
-Sudamericana	I-Misc
+Copa	B-Organization
+Liga	I-Organization
+Profesional	I-Organization
+and	O
+Sudamericana	B-Organization
 was	O
 followed	O
 by	O
