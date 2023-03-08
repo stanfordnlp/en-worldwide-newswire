@@ -346,8 +346,8 @@ provided	O
 an	O
 opening	O
 to	O
-central	B-Location
-Asia	I-Location
+central	O
+Asia	B-Location
 and	O
 the	O
 reinvigoration	O
@@ -1212,8 +1212,8 @@ sold	O
 them	O
 to	O
 other	O
-central	B-NORP
-Asian	I-NORP
+central	O
+Asian	B-NORP
 states	O
 ;	O
 Iran	B-Location
@@ -1256,8 +1256,8 @@ is	O
 a	O
 part	O
 of	O
-central	B-Location
-Asia	I-Location
+central	O
+Asia	B-Location
 where	O
 Tehran	B-Location
 has	O

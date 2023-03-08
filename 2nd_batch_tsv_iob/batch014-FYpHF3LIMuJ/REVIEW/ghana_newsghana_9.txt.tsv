@@ -54,9 +54,9 @@ Hammond	I-Person
 Nikki	B-Person
 Samonas	I-Person
 ,	O
-40	B-Misc
-and	I-Misc
-Single	I-Misc
+40	O
+and	O
+Single	O
 )	O
 ,	O
 a	O

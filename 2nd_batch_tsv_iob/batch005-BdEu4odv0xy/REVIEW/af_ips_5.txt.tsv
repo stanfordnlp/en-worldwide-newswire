@@ -1771,8 +1771,8 @@ young	O
 people	O
 want	O
 a	O
-Polo	B-Product
-shirt	I-Product
+Polo	B-Organization
+shirt	O
 and	O
 an	O
 Apple	B-Product	B-Organization

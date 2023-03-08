@@ -15,18 +15,18 @@ preparation	O
 ahead	O
 of	O
 the	O
-2022	B-Misc	B-Misc
-Federation	I-Misc	B-Organization
-of	I-Misc	I-Organization
-International	I-Misc	I-Organization
-Football	I-Misc	I-Organization
-Association	I-Misc	I-Organization
-(	I-Misc
-FIFA	I-Misc	B-Organization
-)	I-Misc
-U	I-Misc	B-Misc
--	I-Misc	I-Misc
-20	I-Misc	I-Misc
+2022	B-Misc
+Federation	B-Organization
+of	I-Organization
+International	I-Organization
+Football	I-Organization
+Association	I-Organization
+(	O
+FIFA	B-Organization
+)	O
+U	B-Misc
+-	I-Misc
+20	I-Misc
 Women	I-Misc
 ’	I-Misc
 s	I-Misc

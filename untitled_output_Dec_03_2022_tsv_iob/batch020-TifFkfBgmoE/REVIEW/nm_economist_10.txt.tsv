@@ -45,11 +45,11 @@ report	O
 According	O
 to	O
 the	O
-Building	B-Misc
-Statistics	I-Misc
-June	I-Misc	B-Misc
-2022	I-Misc	I-Misc
-report	I-Misc
+Building	B-Organization
+Statistics	I-Organization
+June	B-Misc
+2022	I-Misc
+report	O
 ,	O
 SSS	B-Organization
 said	O

@@ -101,13 +101,13 @@ qualifying	O
 berth	O
 to	O
 the	O
-Paris	B-Misc	B-Misc	B-Location
-Games	I-Misc	I-Misc
-women	I-Misc
-’	I-Misc
-s	I-Misc
-football	I-Misc
-tournament	I-Misc
+Paris	B-Misc	B-Location
+Games	I-Misc	
+women	O
+’	O
+s	O
+football	O
+tournament	O
 .	O
 
 Against	O

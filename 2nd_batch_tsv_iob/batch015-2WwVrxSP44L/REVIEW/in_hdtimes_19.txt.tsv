@@ -13,10 +13,10 @@ on	O
 government	O
 ’	O
 s	O
-e	B-Product	B-Misc
--	I-Product	I-Misc
-Shram	I-Product	I-Misc
-portal	I-Product
+e	B-Misc
+-	I-Misc
+Shram	I-Misc
+portal	O
 as	O
 of	O
 January	B-Misc

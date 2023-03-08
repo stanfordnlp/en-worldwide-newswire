@@ -37,7 +37,7 @@ ANC	I-Misc	B-Organization
 KwaZulu	I-Misc	B-Location
 -	I-Misc	I-Location
 Natal	I-Misc	I-Location
-conference	I-Misc
+conference	O
 .	O
 
 Now	O

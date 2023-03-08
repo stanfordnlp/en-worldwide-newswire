@@ -272,7 +272,7 @@ rabbis	O
 in	O
 the	O
 Orthodox	B-NORP
-movement	I-NORP
+movement	O
 ,	O
 but	O
 was	O
@@ -1180,7 +1180,7 @@ the	O
 2000	B-Misc
 Jewish	I-Misc
 Week	I-Misc
-article	I-Misc
+article	O
 .	O
 Before	O
 he	O

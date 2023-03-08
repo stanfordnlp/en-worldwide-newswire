@@ -21,9 +21,9 @@ Cuba	B-Location
 yesterday	O
 for	O
 the	O
-Qatari	B-Misc	B-NORP
-Public	I-Misc
-Diplomacy	I-Misc
+Qatari	B-NORP
+Public	O
+Diplomacy	O
 in	O
 Latin	B-Location
 America	I-Location

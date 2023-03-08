@@ -162,10 +162,10 @@ talks	O
 about	O
 an	O
 enshrined	O
-Voice	B-Misc
-in	I-Misc
-the	I-Misc
-Constitution	I-Misc
+Voice	B-Organization
+in	O
+the	O
+Constitution	O
 ,	O
 but	O
 it	O

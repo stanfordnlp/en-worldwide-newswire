@@ -419,7 +419,7 @@ those	O
 fresh	O
 to	O
 the	O
-Opposition	O
+Opposition	B-Organization
 benches	O
 that	O
 the	O
@@ -686,9 +686,9 @@ concern	O
 that	O
 perhaps	O
 the	O
-Peter	B-Misc	B-Person
-Dutton	I-Misc	I-Person
-Opposition	I-Misc
+Peter	B-Organization	B-Person
+Dutton	I-Organization	I-Person
+Opposition	I-Organization
 may	O
 not	O
 deliver	O
@@ -729,8 +729,8 @@ Festival	I-Misc
 also	O
 invited	O
 the	O
-Opposition	B-Misc
-Leader	I-Misc
+Opposition	B-Organization
+Leader	O
 ,	O
 but	O
 he	O

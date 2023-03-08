@@ -747,10 +747,10 @@ user	O
 locations	O
 based	O
 on	O
-internet	B-Misc
-protocol	I-Misc
+internet	O
+protocol	O
 (	O
-IP	B-Misc
+IP	O
 )	O
 addresses	O
 in	O

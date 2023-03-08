@@ -349,15 +349,15 @@ a	O
 recommendation	O
 from	O
 the	O
-National	B-Misc
-Panel	I-Misc
-reports	I-Misc
+National	B-Organization
+Panel	I-Organization
+reports	O
 .	O
 
 "	O
 The	O
-Manawhenua	B-Misc	B-NORP
-Panel	I-Misc
+Manawhenua	B-Organization	B-NORP
+Panel	I-Organization
 are	O
 not	O
 recommending	O

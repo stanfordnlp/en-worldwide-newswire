@@ -23,7 +23,7 @@ CII	B-Organization
 -	O
 Exim	B-Organization
 Bank	I-Organization
-Conclave	O
+Conclave	I-Organization
 on	O
 India	B-Misc	B-Location
 -	I-Misc
@@ -97,7 +97,7 @@ Africa	B-Location
 .	O
 
 The	O
-Conclave	B-Misc
+Conclave	B-Organization
 provided	O
 a	O
 platform	O
@@ -250,7 +250,7 @@ brief	O
 participants	O
 of	O
 the	O
-Conclave	O
+Conclave	B-Organization
 about	O
 the	O
 business	O

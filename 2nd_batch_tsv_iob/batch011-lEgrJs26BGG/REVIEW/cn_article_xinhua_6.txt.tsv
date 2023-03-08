@@ -193,8 +193,8 @@ splendid	O
 Beijing	B-Misc	B-Location
 Winter	I-Misc
 Olympics	I-Misc
-and	I-Misc
-Paralympics	I-Misc
+and	O
+Paralympics	B-Misc
 that	O
 China	B-Location
 has	O

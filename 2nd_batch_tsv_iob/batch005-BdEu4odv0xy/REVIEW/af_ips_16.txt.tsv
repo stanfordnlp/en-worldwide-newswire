@@ -679,8 +679,8 @@ of	O
 he	O
 and	O
 other	O
-Nobel	B-NORP
-laureates	I-NORP
+Nobel	B-Misc
+laureates	O
 and	O
 world	O
 leaders	O
@@ -703,8 +703,8 @@ as	O
 a	O
 group	O
 of	O
-Nobel	B-NORP
-laureates	I-NORP
+Nobel	B-Misc
+laureates	O
 and	O
 world	O
 leaders	O
@@ -999,11 +999,11 @@ soon	O
 .	O
 With	O
 the	O
-Laureates	B-NORP
+Laureates	O
 and	O
-Leaders	O
-For	O
-Children	O
+Leaders	B-Organization
+For	I-Organization
+Children	I-Organization
 project	O
 ,	O
 he	O

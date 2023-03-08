@@ -641,8 +641,8 @@ result	O
 of	O
 a	O
 Franco	B-NORP
--	I-NORP
-Algerian	I-NORP
+-	O
+Algerian	B-NORP
 cooperation	O
 ,	O
 it	O

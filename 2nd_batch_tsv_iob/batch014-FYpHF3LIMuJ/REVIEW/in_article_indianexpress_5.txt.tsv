@@ -1,8 +1,8 @@
 https://indianexpress.com/article/cities/delhi/from-next-academic-session-aadhaar-must-for-ews-admissions-at-delhis-private-schools-8037701/	O
 
 An	O
-Aadhaar	B-Product	B-Misc
-card	I-Product
+Aadhaar	B-Misc
+card	O
 will	O
 be	O
 mandatory	O
@@ -157,8 +157,8 @@ for	O
 candidates	O
 to	O
 provide	O
-Aadhaar	B-Product	B-Misc
-card	I-Product
+Aadhaar	B-Misc
+card	O
 details	O
 during	O
 online	O
@@ -172,8 +172,8 @@ has	O
 stated	O
 that	O
 the	O
-Aadhaar	B-Product	B-Misc
-card	I-Product
+Aadhaar	B-Misc
+card	O
 is	O
 a	O
 “	O
@@ -258,8 +258,8 @@ of	O
 production	O
 of	O
 original	O
-Aadhaar	B-Product	B-Misc
-card	I-Product
+Aadhaar	B-Misc
+card	O
 at	O
 the	O
 time	O
@@ -346,8 +346,8 @@ also	O
 states	O
 that	O
 the	O
-Aadhaar	B-Product	B-Misc
-card	I-Product
+Aadhaar	B-Misc
+card	O
 details	O
 collected	O
 in	O
@@ -412,8 +412,8 @@ for	O
 want	O
 of	O
 an	O
-Aadhaar	B-Product	B-Misc
-card	I-Product
+Aadhaar	B-Misc
+card	O
 .	O
 “	O
 Some	O

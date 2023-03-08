@@ -141,7 +141,7 @@ spot	O
 ,	O
 said	O
 the	O
-IO	B-Misc
+IO	O
 .	O
 
 Rupak	B-Person
@@ -358,7 +358,7 @@ the	O
 press	O
 conference	O
 ,	O
-IO	B-Misc
+IO	O
 Monir	B-Person
 told	O
 The	B-Organization

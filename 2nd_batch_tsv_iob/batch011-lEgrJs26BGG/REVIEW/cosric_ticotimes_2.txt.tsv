@@ -201,8 +201,8 @@ In	O
 1812	B-Misc
 ,	O
 the	O
-Spanish	B-Misc	B-NORP
-Constitution	I-Misc
+Spanish	B-NORP
+Constitution	O
 divided	O
 the	O
 Kingdom	B-Location
@@ -733,10 +733,10 @@ like	O
 “	O
 El	B-Misc
 Torito	I-Misc
-,	I-Misc
-”	I-Misc
-“	I-Misc
-Pasión	I-Misc
+,	O
+”	O
+“	O
+Pasión	B-Misc
 ,	O
 ”	O
 “	O

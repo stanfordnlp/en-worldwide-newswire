@@ -490,8 +490,8 @@ repeated	O
 a	O
 year	O
 of	O
-Physical	B-Misc
-Education	I-Misc
+Physical	O
+Education	O
 ,	O
 he	O
 never	O
@@ -975,8 +975,8 @@ will	O
 be	O
 crawling	O
 with	O
-Special	B-Misc
-Troops	I-Misc
+Special	B-Organization
+Troops	I-Organization
 ,	O
 like	O
 it	O
@@ -2934,8 +2934,8 @@ in	O
 Colón	B-Location
 ’	O
 s	O
-Public	B-Misc
-Health	I-Misc
+Public	O
+Health	O
 system	O
 .	O
 sar	O

@@ -86,12 +86,12 @@ senior	O
 officials	O
 of	O
 the	O
-BBMP	B-Misc	B-Organization
-’	I-Misc
-s	I-Misc
-solid	I-Misc
-waste	I-Misc
-management	I-Misc
+BBMP	B-Organization
+’	O
+s	O
+solid	O
+waste	O
+management	O
 (	O
 SWM	B-Misc
 )	O

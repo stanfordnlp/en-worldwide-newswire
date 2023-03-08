@@ -257,11 +257,11 @@ includes	O
 processes	O
 for	O
 municipal	O
-independent	B-Misc
-power	I-Misc
-producer	I-Misc
+independent	O
+power	O
+producer	O
 (	O
-IPP	B-Misc
+IPP	O
 )	O
 procurement	O
 .	O

@@ -178,10 +178,10 @@ of	O
 a	O
 programme	O
 for	O
-Female	B-Misc
-Entrepreneurship	I-Misc
-and	I-Misc
-Empowerment	I-Misc
+Female	O
+Entrepreneurship	O
+and	O
+Empowerment	O
 in	O
 the	O
 Middle	B-Location
@@ -287,11 +287,11 @@ participation	O
 according	O
 to	O
 the	O
-World	B-Misc	B-Organization
-Bank	I-Misc	I-Organization
-’	I-Misc
-s	I-Misc
-2021	I-Misc
+World	B-Organization
+Bank	I-Organization
+’	O
+s	O
+2021	B-Misc
 Gender	I-Misc
 Gap	I-Misc
 Report	I-Misc

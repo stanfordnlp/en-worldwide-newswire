@@ -59,12 +59,12 @@ army	O
 to	O
 cross	O
 the	O
-Line	B-Misc
-of	I-Misc
-Control	I-Misc
-(	I-Misc
-LoC	I-Misc
-)	I-Misc
+Line	B-Location
+of	I-Location
+Control	I-Location
+(	O
+LoC	B-Location
+)	O
 in	O
 Mushkoh	B-Location
 -	O
@@ -431,8 +431,8 @@ the	O
 IAF	B-Organization
 joined	O
 the	O
-Kargil	B-Misc	B-Location
-war	I-Misc
+Kargil	B-Location
+war	O
 a	O
 week	O
 later	O
@@ -466,8 +466,8 @@ at	O
 the	O
 time	O
 of	O
-Kargil	B-Misc	B-Location
-war	I-Misc
+Kargil	B-Location
+war	O
 as	O
 it	O
 coincidentally	O

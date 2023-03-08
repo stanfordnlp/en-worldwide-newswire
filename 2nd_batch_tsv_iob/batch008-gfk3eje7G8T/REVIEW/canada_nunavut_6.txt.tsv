@@ -244,14 +244,14 @@ rejected	O
 the	O
 law	O
 .	O
-The	B-Misc
-Crown	I-Misc
+The	O
+Crown	B-Organization
 then	O
 appealed	O
 to	O
 the	O
-Supreme	O
-Court	O
+Supreme	B-Organization
+Court	I-Organization
 .	O
 
 Eva	B-Person
@@ -260,9 +260,9 @@ Tache	I-Person
 Green	I-Person
 ,	O
 a	O
-Nunavut	B-Misc	B-Location
-Legal	I-Misc
-Aid	I-Misc
+Nunavut	B-Organization	B-Location
+Legal	I-Organization
+Aid	I-Organization
 lawyer	O
 leading	O
 the	O

@@ -42,9 +42,9 @@ EVER	O
 TO	O
 COMPLY	O
 WITH	O
-THE	B-Misc
-PEACE	I-Misc
-ACCORDS	I-Misc
+THE	O
+PEACE	O
+ACCORDS	O
 ,	O
 AND	O
 THIS	O
@@ -1343,7 +1343,7 @@ American	B-NORP
 astronaut	O
 on	O
 the	O
-Moon	B-Misc
+Moon	B-Location
 mean	O
 politically	O
 ?	O

@@ -432,29 +432,29 @@ with	O
 horses	O
 .	O
 
-Finchatton	B-Person
+Finchatton	B-Misc
 33/10	O
 
-Lily	B-Person
-Blue	I-Person
+Lily	B-Misc
+Blue	I-Misc
 4/1	O
 
-Holly	B-Person
-Land	I-Person
+Holly	B-Misc
+Land	I-Misc
 5/1	O
 
-Mr	B-Person
-Greenlight	I-Person
+Mr	B-Misc
+Greenlight	I-Misc
 20/1	O
 
-Only	B-Person
-Him	I-Person
+Only	B-Misc
+Him	I-Misc
 3/1	O
 
-Wantage	B-Location
+Wantage	B-Misc
 14/1	O
 
-Armstrong	B-Person
+Armstrong	B-Misc
 123/1	O
 
 BUGATTI	B-Product

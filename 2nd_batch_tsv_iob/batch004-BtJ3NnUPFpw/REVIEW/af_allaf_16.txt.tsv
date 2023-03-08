@@ -10,8 +10,8 @@ three	O
 nation	O
 tour	O
 of	O
-west	B-NORP
-African	I-NORP
+west	O
+African	B-NORP
 states	O
 on	O
 Monday	B-Misc

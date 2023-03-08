@@ -410,7 +410,7 @@ prepaid	O
 debit	O
 cards	O
 ,	O
-ATMs	B-Misc
+ATMs	O
 and	O
 cheque	O
 -	O

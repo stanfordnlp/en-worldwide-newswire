@@ -217,7 +217,7 @@ artificial	O
 intelligence	O
 and	O
 human	O
-AI	B-Misc
+AI	O
 teaming	O
 ,	O
 "	O
@@ -450,7 +450,7 @@ beneficial	O
 for	O
 AI	O
 
-Study	B-Misc
+Study	O
 co	O
 -	O
 author	O

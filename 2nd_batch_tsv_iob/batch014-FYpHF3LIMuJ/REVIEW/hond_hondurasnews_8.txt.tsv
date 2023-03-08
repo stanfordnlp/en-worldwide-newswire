@@ -741,10 +741,10 @@ to	O
 record	O
 images	O
 in	O
-RAW	B-Misc
-4	I-Misc
-K	I-Misc
-format	I-Misc
+RAW	O
+4	O
+K	O
+format	O
 ,	O
 which	O
 is	O

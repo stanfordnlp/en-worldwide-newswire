@@ -849,7 +849,7 @@ each	O
 troupe	O
 has	O
 an	O
-Alpha	B-Misc
+Alpha	O
 male	O
 under	O
 constant	O
@@ -1111,7 +1111,7 @@ more	O
 luck	O
 with	O
 the	O
-Simien	B-NORP
+Simien	O
 wolf	O
 ,	O
 they	O
@@ -1159,8 +1159,8 @@ should	O
 be	O
 called	O
 the	O
-Bale	B-Misc
-wolf	I-Misc
+Bale	O
+wolf	O
 )	O
 .	O
 The	O
@@ -1172,7 +1172,7 @@ variety	O
 of	O
 names	O
 –	O
-Simien	B-NORP
+Simien	O
 fox	O
 for	O
 one	O

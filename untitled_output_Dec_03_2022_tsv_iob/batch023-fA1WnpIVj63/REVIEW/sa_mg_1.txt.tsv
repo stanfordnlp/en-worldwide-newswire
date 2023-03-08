@@ -105,9 +105,9 @@ allies	O
 known	O
 as	O
 the	O
-Chris	B-NORP	B-Person
-Hani	I-NORP	I-Person
-cabal	I-NORP
+Chris	B-Person
+Hani	I-Person
+cabal	O
 ,	O
 went	O
 to	O
@@ -402,9 +402,9 @@ close	O
 links	O
 to	O
 the	O
-Chris	B-NORP	B-Person
-Hani	I-NORP	I-Person
-cabal	I-NORP
+Chris	B-Person
+Hani	I-Person
+cabal	O
 said	O
 it	O
 was	O
@@ -672,9 +672,9 @@ not	O
 come	O
 and	O
 the	O
-Chris	B-NORP	B-Person
-Hani	I-NORP	I-Person
-cabal	I-NORP
+Chris	B-Person
+Hani	I-Person
+cabal	O
 saying	O
 that	O
 if	O
@@ -951,9 +951,9 @@ regions	O
 .	O
 
 The	O
-Chris	B-NORP	B-Person
-Hani	I-NORP	I-Person
-cabal	I-NORP
+Chris	B-Person
+Hani	I-Person
+cabal	O
 and	O
 those	O
 linked	O

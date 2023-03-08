@@ -416,9 +416,9 @@ this	O
 programme	O
 .	O
 
-Wocational	B-Misc
-training	I-Misc
-centres	I-Misc
+Wocational	O
+training	O
+centres	O
 (	O
 VTC	B-Misc
 )	O

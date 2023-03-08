@@ -66,11 +66,11 @@ Activities	I-Misc
 SANE	B-Misc
 )	O
 in	O
-Wildlife	B-Misc
-Protected	I-Misc
-Areas	I-Misc
+Wildlife	B-Location
+Protected	I-Location
+Areas	I-Location
 (	O
-WPAs	B-Misc
+WPAs	B-Location
 )	O
 .	O
 
@@ -258,12 +258,12 @@ through	O
 the	O
 strengthening	O
 of	O
-National	B-Misc
-Parks	I-Misc
+National	B-Location
+Parks	I-Location
 and	O
-Protected	B-Misc
-Wildlife	I-Misc
-Areas	I-Misc
+Protected	B-Location
+Wildlife	I-Location
+Areas	I-Location
 hand	O
 in	O
 hand	O
@@ -280,8 +280,8 @@ s	O
 natural	O
 resources	O
 and	O
-Natural	B-Misc
-Heritage	I-Misc
+Natural	O
+Heritage	O
 ,	O
 ”	O
 said	O
