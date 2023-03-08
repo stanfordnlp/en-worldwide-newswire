@@ -31,8 +31,8 @@ for	O
 anticipated	O
 win	O
 .	O
-OK	O
-Zimbabwe	B-Location
+OK	B-Organization
+Zimbabwe	I-Organization	B-Location
 ,	O
 the	O
 largest	O

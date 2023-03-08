@@ -204,7 +204,7 @@ Rab	I-Organization
 ,	O
 Bangladesh	B-Organization	B-Location
 Kalyan	I-Organization
-Party	O
+Party	I-Organization
 ,	O
 Bangladesh	B-Organization	B-Location
 Muslim	I-Organization	B-NORP

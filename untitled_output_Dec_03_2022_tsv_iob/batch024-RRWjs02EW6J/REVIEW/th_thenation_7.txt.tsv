@@ -44,8 +44,8 @@ a	O
 team	O
 led	O
 by	O
-National	O
-Police	O
+National	B-Organization
+Police	I-Organization
 assistant	O
 chief	O
 Pol	O

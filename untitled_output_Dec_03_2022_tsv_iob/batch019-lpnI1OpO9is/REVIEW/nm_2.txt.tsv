@@ -33,7 +33,7 @@ championship	O
 points	O
 ,	O
 CFC	B-Organization
-1	O
+1	I-Organization
 is	O
 currently	O
 sitting	O
@@ -52,15 +52,15 @@ are	O
 followed	O
 by	O
 CFC	B-Organization
-2	O
+2	I-Organization
 and	O
 Sport	B-Organization
 Klub	I-Organization
 Windhoek	I-Organization	B-Location
-3	O
+3	I-Organization
 (	O
 SKW	B-Organization
-3	O
+3	I-Organization
 )	O
 ,	O
 jointly	O
@@ -77,18 +77,18 @@ respectively	O
 
 Regarding	O
 the	O
-League	B-Misc
-A	I-Misc
+League	B-Organization
+A	I-Organization
 play	O
 -	O
 offs	O
 qualification	O
 ,	O
 SKW	B-Organization
-3	O
+3	I-Organization
 ,	O
 CFC	B-Organization
-2	O
+2	I-Organization
 and	O
 Swakopmund	B-Organization	B-Location
 Fistball	I-Organization
@@ -96,11 +96,11 @@ Club	I-Organization
 (	O
 SFC	B-Organization
 )	O
-1	O
+1	I-Organization
 will	O
 join	O
 CFC	B-Organization
-1	O
+1	I-Organization
 in	O
 the	O
 play	O
@@ -120,15 +120,15 @@ record	O
 champions	O
 ,	O
 SKW	B-Organization
-1	O
+1	I-Organization
 ,	O
 did	O
 not	O
 qualify	O
 for	O
 the	O
-League	B-Misc
-A	I-Misc
+League	B-Organization
+A	I-Organization
 play	O
 -	O
 offs	O
@@ -139,13 +139,13 @@ the	O
 final	O
 ,	O
 CFC	B-Organization
-1	O
+1	I-Organization
 won	O
 the	O
 encounter	O
 against	O
 SKW	B-Organization
-3	O
+3	I-Organization
 with	O
 a	O
 score	O
@@ -167,7 +167,7 @@ sides	O
 .	O
 
 CFC	B-Organization
-1	O
+1	I-Organization
 also	O
 won	O
 the	O
@@ -176,7 +176,7 @@ semi	O
 final	O
 against	O
 SFC	B-Organization
-1	O
+1	I-Organization
 with	O
 2-0	O
 .	O
@@ -188,10 +188,10 @@ semi	O
 final	O
 between	O
 SKW	B-Organization
-3	O
+3	I-Organization
 and	O
 CFC	B-Organization
-2	O
+2	I-Organization
 was	O
 a	O
 nail	O
@@ -199,7 +199,7 @@ biter	O
 .	O
 
 CFC	B-Organization
-2	O
+2	I-Organization
 won	O
 the	O
 first	O
@@ -208,7 +208,7 @@ relatively	O
 clearly	O
 before	O
 SKW	B-Organization
-3	O
+3	I-Organization
 equalised	O
 .	O
 
@@ -218,7 +218,7 @@ deciding	O
 set	O
 ,	O
 SKW	B-Organization
-3	O
+3	I-Organization
 finally	O
 prevailed	O
 with	O
@@ -230,13 +230,13 @@ Group	O
 A	O
 ,	O
 CFC	B-Organization
-1	O
+1	I-Organization
 ,	O
 CFC	B-Organization
-2	O
+2	I-Organization
 and	O
 SKW	B-Organization
-1	O
+1	I-Organization
 faced	O
 each	O
 other	O
@@ -246,7 +246,7 @@ Without	O
 problems	O
 ,	O
 CFC	B-Organization
-1	O
+1	I-Organization
 entered	O
 the	O
 semi	O
@@ -264,10 +264,10 @@ exciting	O
 match	O
 between	O
 SKW	B-Organization
-1	O
+1	I-Organization
 and	O
 CFC	B-Organization
-2	O
+2	I-Organization
 ,	O
 the	O
 teams	O
@@ -287,7 +287,7 @@ ball	O
 difference	O
 ,	O
 CFC	B-Organization
-2	O
+2	I-Organization
 followed	O
 their	O
 club	O
@@ -304,14 +304,14 @@ Group	O
 B	O
 ,	O
 SKW	B-Organization
-3	O
+3	I-Organization
 defeated	O
 hosts	O
 SFC	B-Organization
-1	O
+1	I-Organization
 and	O
 SFC	B-Organization
-2	O
+2	I-Organization
 by	O
 2-0	O
 to	O
@@ -321,7 +321,7 @@ group	O
 .	O
 
 SFC	B-Organization
-1	O
+1	I-Organization
 defeated	O
 their	O
 reserve	O
@@ -352,7 +352,7 @@ turf	O
 advantage	O
 ,	O
 SFC	B-Organization
-A	O
+A	I-Organization
 was	O
 again	O
 the	O
@@ -368,7 +368,7 @@ tournament	O
 .	O
 
 SKW	B-Organization
-A	O
+A	I-Organization
 lined	O
 up	O
 second	O
@@ -376,26 +376,26 @@ second	O
 followed	O
 by	O
 SFC	B-Organization
-B	O
+B	I-Organization
 and	O
 SKW	B-Organization
-B	O
+B	I-Organization
 .	O
 
 SFC	B-Organization
-A	O
+A	I-Organization
 will	O
 meet	O
 SKW	B-Organization
-B	O
+B	I-Organization
 ,	O
 and	O
 SKW	B-Organization
-A	O
+A	I-Organization
 will	O
 play	O
 SFC	B-Organization
-B	O
+B	I-Organization
 in	O
 the	O
 two	O
@@ -410,7 +410,7 @@ finals	O
 .	O
 
 SFC	B-Organization
-A	O
+A	I-Organization
 won	O
 the	O
 under	O
@@ -423,7 +423,7 @@ tournament	O
 .	O
 
 SKW	B-Organization
-A	O
+A	I-Organization
 was	O
 second	O
 ,	O
@@ -432,11 +432,11 @@ by	O
 club	O
 mates	O
 SKW	B-Organization
-B	O
+B	I-Organization
 .	O
 
 SFC	B-Organization
-B	O
+B	I-Organization
 had	O
 to	O
 be	O

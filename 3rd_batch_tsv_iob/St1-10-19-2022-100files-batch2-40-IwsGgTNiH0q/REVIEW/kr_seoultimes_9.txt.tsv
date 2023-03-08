@@ -890,8 +890,8 @@ jobs	O
 .	O
 According	O
 to	O
-Select	O
-USA	B-Location
+Select	B-Organization
+USA	I-Organization	B-Location
 the	O
 average	O
 yearly	O

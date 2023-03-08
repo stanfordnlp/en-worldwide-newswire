@@ -68,9 +68,9 @@ the	O
 policy	O
 of	O
 the	O
-Government	O
-of	O
-Mongolia	B-Location
+Government	B-Organization
+of	I-Organization
+Mongolia	I-Organization	B-Location
 .	O
 
 During	O

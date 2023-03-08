@@ -204,8 +204,8 @@ world	O
 We	O
 applaud	O
 the	O
-Environment	O
-Ministry	O
+Environment	B-Organization
+Ministry	I-Organization
 for	O
 recognizing	O
 the	O

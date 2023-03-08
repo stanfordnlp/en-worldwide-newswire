@@ -389,7 +389,7 @@ being	O
 member	O
 of	O
 the	O
-House	O
+House	B-Organization
 would	O
 spell	O
 disaster	O
@@ -776,7 +776,7 @@ The	O
 drumbeating	O
 for	O
 the	O
-Trinity	O
+Trinity	B-Organization
 continues	O
 regardless	O
 .	O

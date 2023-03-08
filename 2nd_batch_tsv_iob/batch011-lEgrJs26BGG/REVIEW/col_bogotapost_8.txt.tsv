@@ -1260,8 +1260,8 @@ for	O
 profit	O
 company	O
 called	O
-60	O
-Decibels	O
+60	B-Organization
+Decibels	I-Organization
 to	O
 make	O
 lean	O

@@ -118,9 +118,9 @@ a	O
 correspondent	O
 for	O
 NGO	O
-Reporters	O
-Without	O
-Borders	O
+Reporters	B-Organization
+Without	I-Organization
+Borders	I-Organization
 and	O
 French	B-NORP
 -	O

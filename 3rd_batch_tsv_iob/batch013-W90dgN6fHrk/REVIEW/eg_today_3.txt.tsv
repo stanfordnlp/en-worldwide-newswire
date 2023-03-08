@@ -291,8 +291,8 @@ the	O
 House	B-Organization
 of	I-Organization
 Representatives	I-Organization
-’	O
-Foreign	B-Organization
+’	I-Organization
+Foreign	I-Organization
 Affairs	I-Organization
 Committee	I-Organization
 .	O

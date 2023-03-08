@@ -14,8 +14,8 @@ launched	O
 a	O
 lawsuit	O
 in	O
-Federal	O
-Court	O
+Federal	B-Organization
+Court	I-Organization
 over	O
 the	O
 recent	O

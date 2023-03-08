@@ -204,8 +204,8 @@ still	O
 negotiating	O
 with	O
 the	O
-Tax	O
-Authority	O
+Tax	B-Organization
+Authority	I-Organization
 over	O
 the	O
 amount	O
@@ -217,8 +217,8 @@ In	O
 contrast	O
 ,	O
 the	O
-Tax	O
-Authority	O
+Tax	B-Organization
+Authority	I-Organization
 rejected	O
 damage	O
 compensation	O
@@ -330,8 +330,8 @@ the	O
 decision	O
 with	O
 the	O
-Tax	O
-Authority	O
+Tax	B-Organization
+Authority	I-Organization
 appeals	O
 committee	O
 ,	O
@@ -424,8 +424,8 @@ only	O
 and	O
 after	O
 the	O
-Interior	O
-Ministry	O
+Interior	B-Organization
+Ministry	I-Organization
 has	O
 spearheaded	O
 an	O

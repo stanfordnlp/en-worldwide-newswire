@@ -1,8 +1,8 @@
 https://www.thedailystar.net/news/bangladesh/rights/news/petition-seeking-odhikars-reg-dismissed-3081236	O
 
 The	O
-High	O
-Court	O
+High	B-Organization
+Court	I-Organization
 yesterday	O
 dismissed	O
 a	O
@@ -118,7 +118,7 @@ victims	O
 Yesterday	O
 ,	O
 the	O
-HC	O
+HC	B-Organization
 bench	O
 of	O
 Justice	O
@@ -164,7 +164,7 @@ secretary	O
 concerned	O
 of	O
 the	O
-PMO	O
+PMO	B-Organization
 .	O
 
 Replying	O
@@ -288,13 +288,13 @@ the	O
 petition	O
 with	O
 the	O
-HC	O
+HC	B-Organization
 in	O
 2019	B-Misc
 .	O
 
 The	O
-HC	O
+HC	B-Organization
 on	O
 May	B-Misc
 13	I-Misc

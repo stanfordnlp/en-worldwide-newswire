@@ -1452,9 +1452,9 @@ the	O
 state	O
 -	O
 backed	O
-All	O
--	O
-China	B-Organization	B-Location
+All	B-Organization
+-	I-Organization
+China	I-Organization	B-Location
 Youth	I-Organization
 Federation	I-Organization
 .	O

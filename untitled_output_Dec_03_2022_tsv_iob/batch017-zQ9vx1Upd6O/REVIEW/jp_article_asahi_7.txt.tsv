@@ -568,8 +568,8 @@ evokes	O
 similarity	O
 to	O
 the	O
-Kishida	B-Person
-Cabinet	O
+Kishida	B-Organization	B-Person
+Cabinet	I-Organization
 ,	O
 although	O
 no	O
@@ -1109,17 +1109,17 @@ the	O
 Constitutional	B-Organization
 Democratic	I-Organization	B-NORP
 Party	I-Organization
-of	O
-Japan	B-Location
+of	I-Organization
+Japan	I-Organization	B-Location
 and	O
 of	O
 Nippon	B-Organization
 Ishin	I-Organization
-(	I-Organization
-Japan	I-Organization	B-Location
+(	O
+Japan	B-Organization	B-Location
 Innovation	I-Organization
 Party	I-Organization
-)	I-Organization
+)	O
 said	O
 they	O
 have	O

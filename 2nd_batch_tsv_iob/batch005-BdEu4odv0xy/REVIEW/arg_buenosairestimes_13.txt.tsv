@@ -449,7 +449,7 @@ top	O
 flight	O
 .	O
 The	O
-River	O
+River	B-Organization
 coach	O
 recently	O
 celebrated	O
@@ -495,7 +495,7 @@ is	O
 no	O
 doubt	O
 that	O
-River	O
+River	B-Organization
 are	O
 at	O
 their	O
@@ -607,7 +607,7 @@ him	O
 stay	O
 ,	O
 ”	O
-Rive	O
+River	B-Organization
 Vice	O
 -	O
 President	O
@@ -673,7 +673,7 @@ most	O
 successful	O
 periods	O
 in	O
-River	O
+River	B-Organization
 history	O
 ,	O
 the	O

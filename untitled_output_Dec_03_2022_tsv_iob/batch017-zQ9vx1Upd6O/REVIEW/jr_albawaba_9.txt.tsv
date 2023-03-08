@@ -16,8 +16,8 @@ their	O
 interest	O
 in	O
 getting	O
-Dubai	B-Location
-Police	O
+Dubai	B-Organization	B-Location
+Police	I-Organization
 's	O
 first	O
 collection	O
