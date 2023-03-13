@@ -819,7 +819,7 @@ later	O
 breaks	O
 out	O
 between	O
-Iran	O
+Iran	B-Location
 and	O
 the	O
 Taliban	B-Organization
@@ -1046,7 +1046,7 @@ Tajikistan	B-Location
 s	O
 relations	O
 with	O
-Iran	O
+Iran	B-Location
 are	O
 on	O
 the	O

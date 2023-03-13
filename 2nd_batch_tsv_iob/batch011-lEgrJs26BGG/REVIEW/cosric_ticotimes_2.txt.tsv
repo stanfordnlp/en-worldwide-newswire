@@ -108,7 +108,7 @@ History	O
 of	O
 the	O
 Nicoya	B-Location
-Territory	O
+Territory	I-Location
 
 The	O
 original	O
@@ -162,7 +162,7 @@ In	O
 the	O
 independent	O
 Nicoya	B-Location
-Territory	O
+Territory	I-Location
 joined	O
 with	O
 Costa	B-Location

@@ -17,12 +17,12 @@ has	O
 built	O
 up	O
 in	O
-Aboriginal	B-Organization
-and	I-Organization
-Torres	I-Organization	B-NORP
-Strait	I-Organization	I-NORP
-Islander	I-Organization	I-NORP
-Australia	O
+Aboriginal	B-NORP
+and	I-NORP
+Torres	I-NORP	B-NORP
+Strait	I-NORP	I-NORP
+Islander	I-NORP	I-NORP
+Australia	B-Location
 as	O
 government	O
 after	O

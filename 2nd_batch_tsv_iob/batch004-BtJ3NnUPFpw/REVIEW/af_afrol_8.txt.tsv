@@ -765,22 +765,22 @@ Umurenge	B-Organization
 SACCO	I-Organization
 in	O
 Kamonyi	B-Location
-,	O
-Rwanda	B-Location
+,	I-Location
+Rwanda	I-Location
 
 The	O
 Umurenge	B-Organization
 SACCO	I-Organization
 in	O
 Kamonyi	B-Location
-,	O
-Rwanda	B-Location
+,	I-Location
+Rwanda	I-Location
 
 ©	O
 Orinfor	B-Organization
 /	O
-Rwanda	B-Organization	B-Location
-govt	I-Organization
+Rwanda	B-Location
+govt	O
 /	O
 afrol	B-Organization
 News	I-Organization
@@ -921,9 +921,9 @@ formal	O
 financial	O
 services	O
 in	O
-sub	O
--	O
-Saharan	B-Location
+sub	B-Location
+-	I-Location
+Saharan	I-Location
 Africa	I-Location
 ,	O
 where	O

@@ -2587,8 +2587,8 @@ every	O
 afternoon	O
 .	O
 
-Chez	O
-Batista	O
+Chez	B-Location
+Batista	I-Location
 is	O
 the	O
 best	O
