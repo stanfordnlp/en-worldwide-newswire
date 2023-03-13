@@ -565,11 +565,11 @@ MTC	B-Organization
 )	O
 and	O
 the	O
-Office	O
-of	O
-the	O
-Prime	O
-Minister	O
+Office	B-Organization
+of	I-Organization
+the	I-Organization
+Prime	I-Organization
+Minister	I-Organization
 will	O
 collectively	O
 contribute	O

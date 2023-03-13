@@ -45,8 +45,8 @@ Hakeem	I-Person
 Al	I-Person
 Hindi	I-Person
 told	O
-The	O
-Jordan	B-Organization	B-Location
+The	B-Organization
+Jordan	I-Organization	B-Location
 Times	I-Organization
 that	O
 hotel	O
@@ -274,8 +274,8 @@ Dead	B-Location
 Sea	I-Location
 ,	O
 told	O
-The	O
-Jordan	B-Organization	B-Location
+The	B-Organization
+Jordan	I-Organization	B-Location
 Times	I-Organization
 that	O
 the	O

@@ -6,7 +6,7 @@ May	B-Misc
 20	I-Misc
 2022	I-Misc
 (	O
-IPS	O
+IPS	B-Organization
 )	O
 -	O
 Governments	O
@@ -1055,9 +1055,9 @@ activist	O
 and	O
 representative	O
 of	O
-100	O
-million	O
-March	O
+100	B-Organization
+million	I-Organization
+March	I-Organizationxs
 (	O
 Namibia	B-Location
 )	O

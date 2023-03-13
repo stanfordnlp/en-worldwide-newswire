@@ -239,8 +239,8 @@ query	O
 Teli	B-NORP
 informed	O
 the	O
-Lower	O
-House	O
+Lower	B-Organization
+House	I-Organization
 that	O
 as	O
 of	O

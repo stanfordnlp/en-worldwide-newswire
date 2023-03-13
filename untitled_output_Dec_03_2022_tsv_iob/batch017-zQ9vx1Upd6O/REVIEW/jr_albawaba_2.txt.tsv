@@ -250,8 +250,8 @@ statement	O
 adds	O
 .	O
 
-National	O
-Assembly	O
+National	B-Organization
+Assembly	I-Organization
 Speaker	O
 Marzouq	B-Person
 Al	I-Person

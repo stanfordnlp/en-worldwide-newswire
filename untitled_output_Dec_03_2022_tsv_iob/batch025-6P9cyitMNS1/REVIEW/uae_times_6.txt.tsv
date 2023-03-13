@@ -549,8 +549,8 @@ the	O
 DNA	B-Misc
 of	O
 the	O
-UAE	B-Location
-Government	O
+UAE	B-Organization	B-Location
+Government	I-Organization
 ’	O
 s	O
 green	O

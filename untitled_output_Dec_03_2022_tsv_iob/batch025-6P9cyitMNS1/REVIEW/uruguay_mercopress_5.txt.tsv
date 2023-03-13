@@ -243,8 +243,8 @@ children	O
 ”	O
 
 The	O
-Uruguayan	B-NORP
-Government	O
+Uruguayan	B-Organization	B-NORP
+Government	I-Organization
 Monday	B-Misc
 filed	O
 an	O

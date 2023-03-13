@@ -63,8 +63,8 @@ was	O
 reported	O
 .	O
 
-Amambay	B-Location
-Police	O
+Amambay	B-Organization	B-Location
+Police	I-Organization
 Commissioner	O
 Éver	B-Person
 Caballero	I-Person
@@ -394,8 +394,8 @@ could	O
 not	O
 trust	O
 the	O
-National	O
-Police	O
+National	B-Organization
+Police	I-Organization
 .	O
 
 ”	O

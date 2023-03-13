@@ -708,8 +708,8 @@ against	O
 Ghasemi	B-Person
 .	O
 
-Paraguayan	B-NORP
-Senate	O
+Paraguayan	B-Organization	B-NORP
+Senate	I-Organization
 Speaker	O
 Óscar	B-Person
 Salomón	I-Person

@@ -145,7 +145,7 @@ in	O
 The	O
 decision	O
 of	O
-TE	O
+TE	B-Organization
 the	O
 plenary	O
 session	O
@@ -184,7 +184,7 @@ plenary	O
 session	O
 of	O
 the	O
-TE	O
+TE	B-Organization
 on	O
 Monday	B-Misc
 is	O
@@ -301,8 +301,8 @@ as	O
 unconstitutional	O
 before	O
 the	O
-Supreme	O
-Court	O
+Supreme	B-Organization
+Court	I-Organization
 and	O
 Juncá	B-Person
 and	O

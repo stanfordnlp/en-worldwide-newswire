@@ -150,16 +150,16 @@ of	O
 the	O
 other	O
 25	O
-Territorial	B-Misc
-Spaces	I-Misc
-for	I-Misc
-Training	I-Misc
-,	I-Misc
-Reintegration	I-Misc
-and	I-Misc
-Reincorporation	I-Misc
+Territorial	B-Location
+Spaces	I-Location
+for	I-Location
+Training	I-Location
+,	I-Location
+Reintegration	I-Location
+and	I-Location
+Reincorporation	I-Location
 (	O
-ETCR	B-Misc
+ETCR	B-Location
 in	O
 Spanish	O
 )	O
@@ -2683,7 +2683,7 @@ the	O
 Pondores	B-NORP
 camp	O
 (	O
-ETCR	O
+ETCR	B-Location
 Amaury	B-Person
 Rodríguez	I-Person
 )	O
@@ -3968,16 +3968,16 @@ the	O
 Icononzo	O
 camp	O
 (	O
-ETCR	O
-Antonio	B-Person
-Nariño	I-Person
+ETCR	B-Location
+Antonio	I-Location	B-Person
+Nariño	I-Location	I-Person
 )	O
 in	O
 the	O
 Andean	B-Location
 region	O
 of	O
-Tolima	B-Organization
+Tolima	B-Location
 .	O
 “	O
 I	O
@@ -4066,7 +4066,7 @@ Esteban	B-Person
 Torres	I-Person
 from	O
 the	O
-Pondores	O
+Pondores	B-NORP
 camp	O
 :	O
 “	O

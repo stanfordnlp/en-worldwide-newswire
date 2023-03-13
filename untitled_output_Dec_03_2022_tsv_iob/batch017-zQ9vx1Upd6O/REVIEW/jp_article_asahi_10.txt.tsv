@@ -193,8 +193,8 @@ an	O
 aide	O
 to	O
 a	O
-Lower	O
-House	O
+Lower	B-Organization
+House	I-Organization
 member	O
 .	O
 

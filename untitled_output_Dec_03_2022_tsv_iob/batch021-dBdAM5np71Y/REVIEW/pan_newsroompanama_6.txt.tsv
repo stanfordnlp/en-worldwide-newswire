@@ -166,8 +166,8 @@ three	O
 powers	O
 of	O
 the	O
-Panamanian	B-NORP
-State	O
+Panamanian	B-Organization	B-NORP
+State	I-Organization
 .	O
 
 Another	O

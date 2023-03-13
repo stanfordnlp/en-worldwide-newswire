@@ -200,9 +200,9 @@ of	O
 .	O
 
 A	O
-Council	O
-of	O
-Ministers	O
+Council	B-Organization
+of	I-Organization
+Ministers	I-Organization
 session	O
 ,	O
 chaired	O

@@ -93,8 +93,8 @@ National	I-Organization
 Liberation	I-Organization
 and	O
 the	O
-Federal	O
-Government	O
+Federal	B-Organization
+Government	I-Organization
 ,	O
 invasions	O
 began	O

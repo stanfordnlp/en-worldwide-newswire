@@ -519,8 +519,8 @@ is	O
 debatable	O
 if	O
 the	O
-Majlis	O
-Amla	O
+Majlis	B-Organization
+Amla	I-Organization
 of	O
 AIMMM	B-Organization
 is	O
@@ -614,8 +614,8 @@ office	O
 ,	O
 including	O
 the	O
-Majlis	O
-Amla	O
+Majlis	B-Organization
+Amla	I-Organization
 ,	O
 during	O
 the	O

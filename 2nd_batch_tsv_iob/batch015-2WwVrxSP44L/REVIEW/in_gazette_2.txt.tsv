@@ -1147,7 +1147,7 @@ fold	O
 either	O
 by	O
 the	O
-Left	O
+Left	B-NORP
 LDF	B-Organization
 or	O
 the	O

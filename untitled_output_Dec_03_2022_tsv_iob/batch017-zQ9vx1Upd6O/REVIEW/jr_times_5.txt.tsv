@@ -345,8 +345,8 @@ a	O
 Jordanian	B-NORP
 expat	O
 told	O
-The	O
-Jordan	B-Organization	B-Location
+The	B-Organization
+Jordan	I-Organization	B-Location
 Times	I-Organization
 that	O
 she	O
@@ -580,10 +580,10 @@ side	O
 effects	O
 ,	O
 ”	O
-Khamees	O
+Khamees	B-Person
 told	O
-The	O
-Jordan	B-Organization	B-Person
+The	B-Organization
+Jordan	I-Organization	B-Person
 Times	I-Organization
 .	O
 

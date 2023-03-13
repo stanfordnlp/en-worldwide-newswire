@@ -1257,9 +1257,9 @@ her	O
 .	O
 "	O
 
-Religious	O
-Zionist	B-NORP
-Party	O
+Religious	B-Organization	B-NORP
+Zionist	I-Organization	I-NORP
+Party	I-Organization
 chair	O
 MK	O
 Bezalel	B-Person

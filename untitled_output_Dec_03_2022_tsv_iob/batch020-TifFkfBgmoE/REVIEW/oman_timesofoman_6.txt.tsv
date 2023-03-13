@@ -283,8 +283,8 @@ youth	O
 .	O
 We	O
 thank	O
-bp	O
-Oman	O
+bp	B-Organization
+Oman	I-Organization	B-Location
 for	O
 partnering	O
 with	O

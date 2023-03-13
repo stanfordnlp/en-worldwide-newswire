@@ -251,11 +251,11 @@ December	B-Misc
 
 At	O
 the	O
-My	O
-Father	O
-’	O
-s	O
-Cigars	B-Organization
+My	B-Organization
+Father	I-Organization
+’	I-Organization
+s	I-Organization
+Cigars	I-Organization
 factory	O
 ,	O
 the	O

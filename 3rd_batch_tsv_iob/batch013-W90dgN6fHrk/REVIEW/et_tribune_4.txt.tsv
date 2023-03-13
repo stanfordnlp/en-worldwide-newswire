@@ -242,7 +242,7 @@ of	I-Organization
 Egypt	I-Organization	B-Location
 .	O
 The	O
-Khedive	O
+Khedive	B-Organization
 hired	O
 48	O
 former	O
@@ -332,7 +332,7 @@ soundly	O
 defeated	O
 .	O
 The	O
-Khedive	O
+Khedive	B-Organization
 also	O
 employed	O
 Americans	B-NORP
@@ -398,7 +398,7 @@ Mason	I-Person
 served	O
 as	O
 the	O
-Khedive	O
+Khedive	B-Organization
 ’	O
 s	O
 Governor	O

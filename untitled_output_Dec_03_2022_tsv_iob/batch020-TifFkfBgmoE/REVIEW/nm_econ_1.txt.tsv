@@ -21,16 +21,16 @@ the	O
 outcome	O
 of	O
 the	O
-Supreme	O
-Court	O
+Supreme	B-Organization
+Court	I-Organization
 case	O
 between	O
 them	O
 and	O
 the	O
-City	O
-of	O
-Windhoek	B-Location
+City	B-Location
+of	I-Location
+Windhoek	I-Location	B-Location
 .	O
 
 Harmse	B-Person
@@ -50,9 +50,9 @@ the	O
 attempt	O
 by	O
 the	O
-City	O
-of	O
-Windhoek	B-Location
+City	B-Location
+of	I-Location
+Windhoek	I-Location	B-Location
 to	O
 disrupt	O
 the	O
@@ -89,9 +89,9 @@ injunction	O
 to	O
 prevent	O
 the	O
-City	O
-of	O
-Wlindhoek	B-Location
+City	B-Location
+of	I-Location
+Windhoek	I-Location	B-Location
 from	O
 interfering	O
 with	O
@@ -100,7 +100,7 @@ trenching	O
 operations	O
 .	O
 The	O
-City	O
+City	B-Location
 lodged	O
 an	O
 appeal	O
@@ -164,7 +164,7 @@ bad	O
 feelings	O
 towards	O
 the	O
-City	O
+City	B-Location
 ,	O
 we	O
 will	O
@@ -227,15 +227,15 @@ The	O
 intimidation	O
 by	O
 the	O
-City	O
-Police	O
+City	B-Organization
+Police	I-Organization
 on	O
 behalf	O
 of	O
 the	O
-City	O
-of	O
-Windhoek	B-Location
+City	B-Location
+of	I-Location
+Windhoek	I-Location	B-Location
 caused	O
 us	O
 to	O
@@ -342,9 +342,9 @@ Paratus	B-Organization	B-Location
 Namibia	I-Organization	B-Location
 ,	O
 the	O
-City	O
-of	O
-Windhoek	B-Location
+City	B-Location
+of	I-Location
+Windhoek	I-Location	B-Location
 said	O
 they	O
 were	O

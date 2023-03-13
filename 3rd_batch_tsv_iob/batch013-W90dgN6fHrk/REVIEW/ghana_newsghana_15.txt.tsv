@@ -22,7 +22,7 @@ Asuboe	I-Location
 in	O
 the	O
 Kadjebi	B-Location
-District	O
+District	I-Location
 of	O
 the	O
 Oti	B-Location
@@ -37,9 +37,9 @@ the	O
 Kadjebi	B-Location
 and	O
 Jasikan	B-Location
-Districts	O
+Districts	I-Location
 ’	O
-Division	O
+Division	B-Organization
 of	O
 the	O
 Ghana	B-Organization	B-Location
@@ -57,8 +57,8 @@ Control	I-Organization
 Commission	I-Organization
 of	O
 the	O
-Regional	O
-Headquarters	O
+Regional	B-Location
+Headquarters	I-Location
 in	O
 Oti	B-Location
 .	O
@@ -107,11 +107,11 @@ Act	I-Misc
 ,	I-Misc
 Act	I-Misc
 1019	I-Misc
-,	I-Misc
-Section	I-Misc
-(	I-Misc
-39	I-Misc
-)	I-Misc
+,	O
+Section	O
+(	O
+39	O
+)	O
 ,	O
 it	O
 is	O

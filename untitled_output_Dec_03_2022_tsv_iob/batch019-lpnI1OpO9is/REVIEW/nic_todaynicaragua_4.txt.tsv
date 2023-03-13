@@ -4,9 +4,9 @@ TODAY	B-Organization
 NICARAGUA	I-Organization	B-Location
 –	O
 The	O
-Government	O
-of	O
-Nicaragua	B-Location
+Government	B-Organization
+of	I-Organization
+Nicaragua	I-Organization	B-Location
 expressed	O
 solidarity	O
 with	O

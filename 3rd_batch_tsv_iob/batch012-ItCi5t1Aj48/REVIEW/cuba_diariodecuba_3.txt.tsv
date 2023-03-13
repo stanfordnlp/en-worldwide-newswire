@@ -67,7 +67,7 @@ is	O
 also	O
 obvious	O
 that	O
-Castroism	B-Misc
+Castroism	B-NORP
 is	O
 reluctant	O
 to	O
@@ -187,7 +187,7 @@ bureaucracies	O
 ,	O
 in	O
 2013	B-Misc
-Castroism	B-Misc
+Castroism	B-NORP
 inaugurated	O
 the	O
 Mariel	B-Location	B-Person
@@ -936,7 +936,7 @@ investments	O
 that	O
 arrive	O
 ,	O
-Castroism	O
+Castroism	B-NORP
 blocks	O
 more	O
 than	O

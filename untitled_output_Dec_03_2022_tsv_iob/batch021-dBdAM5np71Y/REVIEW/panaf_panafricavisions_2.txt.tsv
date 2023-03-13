@@ -62,9 +62,9 @@ First	O
 Lady	O
 of	O
 the	O
-Republic	O
-of	O
-Kenya	B-Location
+Republic	B-Organization
+of	I-Organization
+Kenya	I-Organization	B-Location
 .	O
 
 The	O

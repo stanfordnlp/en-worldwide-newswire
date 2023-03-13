@@ -20,10 +20,10 @@ a	O
 post	O
 at	O
 the	O
-National	B-Facility
-Theatre	I-Facility
-of	I-Facility
-China	I-Facility	B-Location
+National	B-Organization
+Theatre	I-Organization
+of	I-Organization
+China	I-Organization	B-Location
 on	O
 Sunday	B-Misc
 after	O
@@ -147,8 +147,8 @@ the	O
 teachers	O
 of	O
 the	O
-National	O
-Theatre	O
+National	B-Organization
+Theatre	I-Organization
 ,	O
 nor	O
 did	O
@@ -229,8 +229,8 @@ and	O
 also	O
 affected	O
 the	O
-National	O
-Theatre	O
+National	B-Organization
+Theatre	I-Organization
 ,	O
 which	O
 is	O
@@ -266,8 +266,8 @@ up	O
 on	O
 joining	O
 the	O
-National	O
-Theatre	O
+National	B-Organization
+Theatre	I-Organization
 .	O
 ”	O
 
@@ -793,8 +793,8 @@ Zhang	B-Person
 Yixing	I-Person
 joined	O
 the	O
-National	O
-Theatre	O
+National	B-Organization
+Theatre	I-Organization
 .	O
 In	O
 2020	B-Misc

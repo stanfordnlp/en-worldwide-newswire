@@ -46,7 +46,7 @@ laws	O
 on	O
 the	O
 Kuwait	B-Location
-Municipality	O
+Municipality	I-Location
 ,	O
 the	O
 municipal	O
@@ -136,7 +136,7 @@ supervisory	O
 team	O
 in	O
 Ahmadi	B-Location
-Municipality	O
+Municipality	I-Location
 issued	O
 72	O
 citations	O

@@ -773,9 +773,9 @@ Honduras	B-Location
 ,	O
 and	O
 the	O
-National	O
-Investment	O
-Council	O
+National	B-Organization
+Investment	I-Organization
+Council	I-Organization
 under	O
 the	O
 coordination	O

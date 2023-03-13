@@ -169,7 +169,7 @@ great	O
 interest	O
 that	O
 the	O
-Foundation	O
+Foundation	B-Organization
 gives	O
 to	O
 charitable	O
@@ -216,7 +216,7 @@ Foundation	I-Organization
 confirmed	O
 that	O
 the	O
-Foundation	O
+Foundation	B-Organization
 continues	O
 to	O
 make	O
@@ -327,7 +327,7 @@ Hajri	I-Person
 added	O
 that	O
 the	O
-Foundation	O
+Foundation	B-Organization
 's	O
 vision	O
 ‘	O
@@ -406,7 +406,7 @@ the	O
 vision	O
 of	O
 the	O
-Foundation	O
+Foundation	B-Organization
 ,	O
 the	O
 first	O
@@ -790,13 +790,13 @@ needy	O
 families	O
 through	O
 the	O
-Department	O
-of	O
-Charitable	O
-Operations	O
+Department	B-Organization
+of	I-Organization
+Charitable	I-Organization
+Operations	I-Organization
 in	O
 the	O
-Foundation	O
+Foundation	B-Organization
 after	O
 conducting	O
 an	O

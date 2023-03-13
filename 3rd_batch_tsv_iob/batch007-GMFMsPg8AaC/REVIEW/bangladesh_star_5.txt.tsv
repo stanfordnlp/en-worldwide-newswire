@@ -1,8 +1,8 @@
 https://www.thedailystar.net/news/bangladesh/crime-justice/news/embezzling-tk-2-crore-regent-hospital-chairman-shahed-gets-permanent-bail-3081926	O
 
 The	O
-High	O
-Court	O
+High	B-Organization
+Court	I-Organization
 today	O
 (	O
 July	B-Misc
@@ -50,7 +50,7 @@ machine	O
 .	O
 
 The	O
-HC	O
+HC	B-Organization
 bench	O
 of	O
 Justice	O
@@ -165,7 +165,7 @@ Supreme	I-Organization	B-Facility
 Court	I-Organization	I-Facility
 challenging	O
 the	O
-HC	O
+HC	B-Organization
 verdict	O
 ,	O
 said	O

@@ -204,7 +204,7 @@ things	O
 "	O
 with	O
 "	O
-Indigenous	O
+Indigenous	B-NORP
 people	O
 not	O
 "	O
@@ -289,7 +289,7 @@ country	O
 
 And	O
 so	O
-Indigenous	O
+Indigenous	B-NORP
 leaders	O
 and	O
 communities	O
@@ -713,8 +713,8 @@ new	O
 shadow	O
 minister	O
 for	O
-Indigenous	O
-Australians	B-NORP
+Indigenous	B-NORP
+Australians	I-NORP
 Julian	B-Person
 Leeser	I-Person
 on	O

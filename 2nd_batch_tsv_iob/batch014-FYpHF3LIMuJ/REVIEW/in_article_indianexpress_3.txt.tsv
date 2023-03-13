@@ -715,7 +715,7 @@ by	O
 the	O
 Rajya	B-Organization
 Sabha	I-Organization
-Secretariat	O
+Secretariat	B-Organization
 banning	O
 demonstrations	O
 ,	O
@@ -729,8 +729,8 @@ the	O
 precincts	O
 of	O
 the	O
-Parliament	O
-House	O
+Parliament	B-Organization
+House	I-Organization
 backfired	O
 when	O
 it	O
@@ -783,7 +783,7 @@ They	O
 were	O
 all	O
 in	O
-Parliament	O
+Parliament	B-Organization
 before	O
 the	O
 Modi	B-Person
@@ -831,7 +831,7 @@ emblem	O
 atop	O
 the	O
 new	O
-Parliament	O
+Parliament	B-Organization
 building	O
 .	O
 The	O
