@@ -334,8 +334,8 @@ tourist	O
 corridor	O
 across	O
 the	O
-Triple	O
-Frontier	O
+Triple	B-Location
+Frontier	I-Location
 .	O
 
 The	O

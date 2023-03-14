@@ -155,8 +155,8 @@ late	O
 19th	B-Misc
 century	I-Misc
 from	O
-White	O
-Russia	B-Location
+White	B-Location
+Russia	I-Location
 ,	O
 was	O
 one	O
@@ -742,7 +742,7 @@ Shertok	I-Person
 later	I-Person
 Sharett	I-Person
 ,	O
-Israel	O
+Israel	B-Location
 ’	O
 s	O
 first	O

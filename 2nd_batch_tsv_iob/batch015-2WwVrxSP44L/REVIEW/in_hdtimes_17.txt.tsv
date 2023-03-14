@@ -546,7 +546,7 @@ top	O
 brass	O
 believes	O
 that	O
-India	O
+India	B-Location
 is	O
 one	O
 theatre	O
@@ -710,7 +710,7 @@ major	O
 intelligence	O
 services	O
 of	O
-India	O
+India	B-Location
 should	O
 join	O
 hands	O

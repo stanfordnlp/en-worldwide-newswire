@@ -179,7 +179,7 @@ of	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 military	O
 facilities	O
 in	O
@@ -207,7 +207,7 @@ the	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 military	O
 presence	O
 has	O
@@ -267,7 +267,7 @@ the	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 base	O
 issue	O
 ,	O
@@ -325,7 +325,7 @@ the	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 base	O
 relocation	O
 plan	O
@@ -435,7 +435,7 @@ his	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 counterpart	O
 ,	O
 Lloyd	B-Person
@@ -462,9 +462,9 @@ the	O
 relocation	O
 of	O
 the	O
-Futenma	B-Facility	B-Location
-air	I-Facility
-station	I-Facility
+Futenma	B-Location
+air	O
+station	O
 .	O
 
 REPEATED	O
@@ -494,9 +494,9 @@ the	O
 closure	O
 of	O
 the	O
-Futenma	B-Facility	B-Location
-air	I-Facility
-station	I-Facility
+Futenma	B-Location
+air	O
+station	O
 in	O
 densely	O
 populated	O
@@ -558,7 +558,7 @@ hosting	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 military	O
 bases	O
 .	O
@@ -666,8 +666,8 @@ in	O
 to	O
 close	O
 the	O
-Futenma	B-Facility	B-Location
-base	I-Facility
+Futenma	B-Location
+base	O
 .	O
 
 Hashimoto	B-Person
@@ -902,7 +902,7 @@ new	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 base	O
 off	O
 the	O
@@ -954,7 +954,7 @@ and	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 governments	O
 over	O
 the	O
@@ -1143,7 +1143,7 @@ the	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 military	O
 in	O
 Japan	B-Location
@@ -1170,7 +1170,7 @@ gives	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 military	O
 personnel	O
 preferential	O

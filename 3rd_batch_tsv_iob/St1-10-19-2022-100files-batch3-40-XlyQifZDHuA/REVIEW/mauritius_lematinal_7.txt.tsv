@@ -236,8 +236,8 @@ Mauritius	B-Location
 While	O
 touring	O
 the	O
-Exhibition	O
-Hall	O
+Exhibition	B-Location
+Hall	I-Location
 ,	O
 the	O
 Vice	O

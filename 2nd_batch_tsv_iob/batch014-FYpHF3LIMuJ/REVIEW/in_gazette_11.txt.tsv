@@ -260,7 +260,7 @@ long	O
 time	O
 supporter	O
 of	O
-Israel	O
+Israel	B-Location
 himself	O
 ,	O
 did	O
@@ -344,7 +344,7 @@ declared	O
 triumphantly	O
 at	O
 an	O
-Israeli	O
+Israeli	B-NORP
 government	O
 cabinet	O
 meeting	O
@@ -480,7 +480,7 @@ a	O
 peaceful	O
 resolution	O
 to	O
-Israel	O
+Israel	B-Location
 ’	O
 s	O
 illegal	O
@@ -503,7 +503,7 @@ the	O
 Arab	B-Organization	B-NORP
 League	I-Organization
 ,	O
-Israel	B-Person
+Israel	B-Location
 ’	O
 s	O
 massive	O
@@ -643,7 +643,7 @@ law	O
 is	O
 absent	O
 from	O
-Israeli	O
+Israeli	B-NORP
 media	O
 coverage	O
 .	O
@@ -993,7 +993,7 @@ of	O
 challenge	O
 to	O
 the	O
-Israeli	O
+Israeli	B-NORP
 occupation	O
 .	O
 Another	O
@@ -1095,7 +1095,7 @@ for	O
 future	O
 talks	O
 involving	O
-Israel	O
+Israel	B-Location
 ,	O
 the	O
 Palestinians	B-NORP
@@ -1216,7 +1216,7 @@ initiated	O
 at	O
 times	O
 when	O
-Israel	O
+Israel	B-Location
 assumed	O
 that	O
 it	O

@@ -188,7 +188,7 @@ the	O
 Greater	B-Misc
 Tortue	I-Misc
 Ahmeyim	I-Misc
-Project	O
+Project	I-Misc
 .	O
 This	O
 is	O
@@ -278,7 +278,7 @@ for	O
 BP	B-Organization
 ’	O
 s	O
-BirAllah	O
+BirAllah	B-Misc
 project	O
 in	O
 Mauritania	B-Location

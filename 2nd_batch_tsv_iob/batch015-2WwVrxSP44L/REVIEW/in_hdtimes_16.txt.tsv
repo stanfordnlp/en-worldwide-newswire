@@ -224,7 +224,7 @@ bilateral	O
 solution	O
 to	O
 the	O
-Kashmir	O
+Kashmir	B-Location
 conflict	O
 .	O
 
@@ -417,7 +417,7 @@ withdraw	O
 troops	O
 from	O
 the	O
-LoC	O
+LoC	B-Location
 .	O
 
 A	O

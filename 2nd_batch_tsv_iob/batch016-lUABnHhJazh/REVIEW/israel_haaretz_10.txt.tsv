@@ -539,7 +539,7 @@ mechanism	O
 in	O
 place	O
 in	O
-Israel	O
+Israel	B-Location
 to	O
 monitor	O
 their	O
@@ -890,7 +890,7 @@ other	O
 jurisdictions	O
 from	O
 entering	O
-Israel	O
+Israel	B-Location
 and	O
 ,	O
 when	O
@@ -1214,7 +1214,7 @@ of	O
 their	O
 communities	O
 in	O
-Israel	O
+Israel	B-Location
 after	O
 it	O
 was	O

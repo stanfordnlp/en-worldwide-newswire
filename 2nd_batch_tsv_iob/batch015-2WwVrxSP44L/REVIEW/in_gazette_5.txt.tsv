@@ -98,7 +98,7 @@ the	O
 country	O
 suggests	O
 that	O
-India	O
+India	B-Location
 is	O
 grappling	O
 with	O
@@ -163,7 +163,7 @@ in	O
 different	O
 parts	O
 of	O
-India	O
+India	B-Location
 during	O
 the	O
 Ram	B-Misc
@@ -1069,7 +1069,7 @@ Violent	O
 images	O
 from	O
 across	O
-India	O
+India	B-Location
 on	O
 the	O
 pretext	O
@@ -1157,7 +1157,7 @@ fact	O
 that	O
 the	O
 new	O
-India	O
+India	B-Location
 has	O
 come	O
 out	O

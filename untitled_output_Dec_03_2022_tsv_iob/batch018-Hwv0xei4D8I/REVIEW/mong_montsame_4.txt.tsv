@@ -5,7 +5,7 @@ the	O
 mysterious	O
 continent	O
 of	O
-Africa	O
+Africa	B-Location
 lies	O
 one	O
 of	O
@@ -18,7 +18,7 @@ world	O
 ,	O
 the	O
 Congo	B-Location
-River	O
+River	I-Location
 .	O
 This	O
 totemic	O
@@ -69,7 +69,7 @@ jungle	O
 where	O
 the	O
 Congo	B-Location
-River	O
+River	I-Location
 borders	O
 the	O
 Lualaba	B-Location

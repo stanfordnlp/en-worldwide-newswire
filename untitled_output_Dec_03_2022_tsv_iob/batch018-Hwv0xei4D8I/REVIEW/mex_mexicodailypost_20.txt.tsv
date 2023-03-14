@@ -89,7 +89,7 @@ the	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 after	O
 the	O
 overturn	O
@@ -103,7 +103,7 @@ One	O
 U	B-Location
 .	I-Location
 K	I-Location
-.	O
+.	I-Location
 company	O
 that	O
 helps	O
@@ -428,7 +428,7 @@ of	O
 U	B-Location
 .	I-Location
 S	I-Location
-.	O
+.	I-Location
 employees	O
 who	O
 make	O
