@@ -794,8 +794,8 @@ the	O
 appreciation	O
 of	O
 the	O
-US	B-Location
-dollar	O
+US	B-Money	B-Location
+dollar	I-Money
 has	O
 also	O
 increased	O

@@ -751,7 +751,7 @@ minister	O
 )	O
 ,	O
 the	O
-Orientalist	O
+Orientalist	B-NORP
 Dr	O
 .	O
 Yosef	B-Person
@@ -1062,7 +1062,7 @@ streets	O
 Toxic	O
 hatred	O
 of	O
-Jews	O
+Jews	B-NORP
 ’	O
 
 One	O
@@ -1150,7 +1150,7 @@ the	O
 toxic	O
 hatred	O
 of	O
-Jews	O
+Jews	B-NORP
 welled	O
 up	O
 in	O

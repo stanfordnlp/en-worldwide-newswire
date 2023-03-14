@@ -1074,7 +1074,7 @@ $	B-Money
 -	O
 worth	O
 of	O
-yuan	O
+yuan	B-Money
 into	O
 foreign	O
 currency	O
@@ -1131,7 +1131,7 @@ counterpart	O
 looking	O
 to	O
 send	O
-yuan	O
+yuan	B-Money
 onshore	O
 .	O
 However	O

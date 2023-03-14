@@ -27,8 +27,8 @@ their	O
 communities	O
 to	O
 mark	O
-International	O
-Nelson	B-Misc	B-Person
+International	B-Misc
+Nelson	I-Misc	B-Person
 Mandela	I-Misc	I-Person
 Day	I-Misc
 .	O
@@ -48,7 +48,7 @@ the	O
 country	O
 's	O
 first	O
-Black	O
+Black	B-NORP
 leader	O
 ,	O
 died	O

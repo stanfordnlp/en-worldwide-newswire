@@ -98,7 +98,7 @@ engagement	O
 with	O
 non	O
 -	O
-Western	B-Location
+Western	B-NORP
 countries	O
 .	O
 
@@ -318,7 +318,7 @@ poorest	O
 of	O
 the	O
 former	O
-Soviet	O
+Soviet	B-NORP
 republics	O
 ,	O
 Tajikistan	B-Location

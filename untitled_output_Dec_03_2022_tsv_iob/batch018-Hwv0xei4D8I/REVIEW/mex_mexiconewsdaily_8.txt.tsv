@@ -354,7 +354,7 @@ the	O
 maguey	O
 plant	O
 that	O
-Mesoamericans	O
+Mesoamericans	B-NORP
 brought	O
 here	O
 in	O
@@ -852,7 +852,7 @@ the	O
 Navas	B-Person
 are	O
 native	O
-English	O
+English	B-NORP
 speakers	O
 .	O
 This	O

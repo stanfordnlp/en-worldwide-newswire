@@ -26,7 +26,7 @@ rapidly	O
 rising	O
 number	O
 of	O
-coronavirus	O
+coronavirus	B-Misc
 patients	O
 .	O
 
@@ -96,7 +96,7 @@ transmissible	O
 BA	B-Misc
 .	I-Misc
 5	I-Misc
-omicron	O
+omicron	I-Misc
 subvariant	O
 .	O
 Over	O

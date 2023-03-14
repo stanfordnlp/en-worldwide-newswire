@@ -846,7 +846,7 @@ album	O
 a	O
 collaboration	O
 with	O
-Senegalese	O
+Senegalese	B-NORP
 singer	O
 Youssou	B-Person
 N	I-Person

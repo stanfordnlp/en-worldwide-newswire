@@ -53,7 +53,7 @@ including	O
 K	B-Misc
 -	I-Misc
 On	I-Misc
-!	O
+!	I-Misc
 "	O
 and	O
 "	O
@@ -380,9 +380,9 @@ in	O
 "	O
 Violet	B-Misc
 Evergarden	I-Misc
-:	O
-The	O
-Movie	O
+:	I-Misc
+The	I-Misc
+Movie	I-Misc
 ,	O
 "	O
 and	O

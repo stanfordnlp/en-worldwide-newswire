@@ -19,13 +19,13 @@ participated	O
 in	O
 the	O
 17th	O
-CII	B-Organization
--	O
-Exim	B-Organization
-Bank	I-Organization
-Conclave	I-Organization
-on	O
-India	B-Misc	B-Location
+CII	B-Misc
+-	I-Misc
+Exim	I-Misc
+Bank	I-Misc
+Conclave	I-Misc
+on	I-Misc
+India	I-Misc	B-Location
 -	I-Misc
 Africa	I-Misc	B-Location
 Growth	I-Misc

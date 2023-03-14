@@ -18,7 +18,7 @@ needed	O
 for	O
 a	O
 creative	O
-Creole	O
+Creole	B-NORP
 dish	O
 .	O
 Fish	O
@@ -338,7 +338,7 @@ were	O
 too	O
 much	O
 into	O
-French	O
+French	B-NORP
 fries	O
 and	O
 other	O
@@ -1400,7 +1400,7 @@ dishes	O
 and	O
 flavours	O
 with	O
-French	O
+French	B-NORP
 techniques	O
 and	O
 presentation	O

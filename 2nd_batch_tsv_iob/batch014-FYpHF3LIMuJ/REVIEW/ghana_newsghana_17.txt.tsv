@@ -362,8 +362,8 @@ to	O
 such	O
 as	O
 the	O
-OGP	B-Organization
-Initiative	O
+OGP	B-Misc
+Initiative	I-Misc
 ,	O
 the	O
 EITI	B-Organization
@@ -440,9 +440,9 @@ the	O
 passage	O
 of	O
 a	O
-Right	O
-to	O
-Information	O
+Right	B-Misc
+to	I-Misc
+Information	I-Misc
 law	O
 ;	O
 the	O

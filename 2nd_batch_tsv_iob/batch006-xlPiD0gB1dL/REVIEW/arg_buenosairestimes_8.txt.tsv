@@ -52,7 +52,7 @@ topped	O
 300	B-Money
 pesos	I-Money
 per	O
-dollar	O
+dollar	B-Money
 on	O
 Tuesday	B-Misc
 ,	O
@@ -93,7 +93,7 @@ to	O
 308	B-Money
 pesos	I-Money
 per	O
-dollar	O
+dollar	B-Money
 ,	O
 also	O
 a	O

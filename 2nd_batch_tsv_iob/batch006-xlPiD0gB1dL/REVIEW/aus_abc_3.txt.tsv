@@ -3,8 +3,8 @@ https://www.abc.net.au/news/2022-07-31/linda-burney-flags-makarrata-commission-f
 Federal	O
 Minister	O
 for	O
-Indigenous	O
-Australians	B-NORP
+Indigenous	B-NORP
+Australians	I-NORP
 Linda	B-Person
 Burney	I-Person
 has	O

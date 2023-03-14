@@ -71,7 +71,7 @@ who	O
 have	O
 had	O
 the	O
-coronavirus	O
+coronavirus	B-Misc
 was	O
 prohibited	O
 and	O
@@ -181,7 +181,7 @@ economy	O
 .	O
 
 Widespread	O
-coronavirus	O
+coronavirus	B-Misc
 restrictions	O
 and	O
 lockdowns	O

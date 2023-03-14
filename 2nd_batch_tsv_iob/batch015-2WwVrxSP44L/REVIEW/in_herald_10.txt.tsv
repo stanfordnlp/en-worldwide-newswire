@@ -183,9 +183,9 @@ Rs	B-Money
 crore	I-Money
 under	O
 the	O
-15th	O
-Finance	O
-Commission	O
+15th	B-Organization
+Finance	I-Organization
+Commission	I-Organization
 ,	O
 another	O
 Rs	B-Money

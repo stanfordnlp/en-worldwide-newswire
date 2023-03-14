@@ -633,10 +633,10 @@ pelted	O
 stones	O
 at	O
 a	O
-Sri	O
-Rama	B-Person
-Shobha	I-Person
-Yatra	I-Person
+Sri	B-Misc
+Rama	I-Misc
+Shobha	I-Misc
+Yatra	I-Misc
 procession	O
 on	O
 the	O

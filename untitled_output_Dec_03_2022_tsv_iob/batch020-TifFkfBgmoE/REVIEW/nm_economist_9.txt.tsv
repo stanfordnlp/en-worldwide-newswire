@@ -36,9 +36,9 @@ a	O
 copy	O
 of	O
 the	O
-Trafficking	O
-in	O
-Persons	O
+Trafficking	B-Misc
+in	I-Misc
+Persons	I-Misc
 report	O
 ,	O
 compiled	O

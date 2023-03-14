@@ -537,7 +537,7 @@ in	O
 Mushawarat	B-Organization
 ’	O
 s	O
-Dastoor	O
+Dastoor	B-Misc
 says	O
 that	O
 the	O
@@ -594,7 +594,7 @@ the	O
 lame	O
 excuse	O
 of	O
-Covid	O
+Covid	B-Misc
 lockdown	O
 but	O
 this	O

@@ -569,7 +569,7 @@ silent	O
 silence	O
 of	O
 the	O
-Sphinx	O
+Sphinx	B-Misc
 in	O
 the	O
 face	O

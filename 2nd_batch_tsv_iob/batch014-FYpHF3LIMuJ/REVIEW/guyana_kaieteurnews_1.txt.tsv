@@ -192,8 +192,8 @@ EPA	B-Organization
 stated	O
 in	O
 its	O
-Screening	O
-Report	O
+Screening	B-Misc
+Report	I-Misc
 for	O
 the	O
 project	O
@@ -528,8 +528,8 @@ any	O
 EIA	B-Misc
 or	O
 EPA	B-Organization
-Screening	O
-Report	O
+Screening	B-Misc
+Report	I-Misc
 for	O
 waived	O
 EIAs	B-Misc

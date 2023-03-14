@@ -758,9 +758,9 @@ aliyah	O
 .	O
 Under	O
 the	O
-Law	O
-of	O
-Return	O
+Law	B-Misc
+of	I-Misc
+Return	I-Misc
 ,	O
 potential	O
 olim	O
@@ -1034,7 +1034,7 @@ in	O
 the	O
 ultra	O
 -	O
-Orthodox	O
+Orthodox	B-NORP
 community	O
 .	O
 Ultimately	O

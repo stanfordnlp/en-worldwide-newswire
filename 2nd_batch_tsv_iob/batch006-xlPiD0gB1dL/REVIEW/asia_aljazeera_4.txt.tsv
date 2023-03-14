@@ -388,7 +388,7 @@ were	O
 quickly	O
 eliminated	O
 by	O
-mujahideen	O
+mujahideen	B-Organization
 with	O
 the	O
 help	O
@@ -738,7 +738,7 @@ Ulema	I-Misc
 the	O
 term	O
 in	O
-Islam	O
+Islam	B-NORP
 for	O
 religious	O
 scholars	O

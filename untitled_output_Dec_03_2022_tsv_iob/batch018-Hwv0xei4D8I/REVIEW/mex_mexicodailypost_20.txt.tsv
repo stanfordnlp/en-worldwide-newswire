@@ -246,8 +246,8 @@ This	O
 year	O
 ’	O
 s	O
-Expat	O
-Insider	O
+Expat	B-Misc
+Insider	I-Misc
 surveyed	O
 11,970	O
 expats	O
@@ -434,8 +434,8 @@ who	O
 make	O
 salaries	O
 of	O
-$	O
-100,000	O
+$	B-Money
+100,000	I-Money
 or	O
 more	O
 ,	O

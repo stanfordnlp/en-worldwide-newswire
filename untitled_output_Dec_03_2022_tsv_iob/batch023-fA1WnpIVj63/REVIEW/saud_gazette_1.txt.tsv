@@ -222,12 +222,11 @@ the	O
 objectives	O
 of	O
 the	O
-Kingdomâ	O
-€	O
-™	O
+Kingdom	B-Organization
+'	O
 s	O
-Vision	O
-2030	B-Misc
+Vision	B-Misc
+2030	I-Misc
 and	O
 the	O
 Greek	B-Misc	B-NORP
