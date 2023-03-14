@@ -1243,7 +1243,7 @@ hand	O
 Down	O
 with	O
 the	O
-PCC	B-Misc
+PCC	B-Organization
 !	O
 "	O
 shouted	O
@@ -1664,8 +1664,8 @@ list	O
 drawn	O
 up	O
 by	O
-Prisoner	B-NORP
-Defenders	I-NORP
+Prisoner	B-Organization
+Defenders	I-Organization
 of	O
 the	O
 1,236	O
@@ -2326,9 +2326,9 @@ years	O
 when	O
 Agüica	B-Location
 obtained	O
-Colectivo	B-Misc
-Vanguardia	I-Misc
-Nacional	I-Misc
+Colectivo	B-Organization
+Vanguardia	I-Organization
+Nacional	I-Organization
 status	O
 ;	O
 there	O

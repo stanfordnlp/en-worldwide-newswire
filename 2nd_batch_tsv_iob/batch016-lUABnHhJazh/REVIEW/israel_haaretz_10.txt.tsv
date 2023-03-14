@@ -299,10 +299,10 @@ source	O
 in	O
 the	O
 breakthrough	O
-New	B-NORP	B-Location
-York	I-NORP	I-Location
-Jewish	I-NORP	B-NORP
-Week	I-NORP
+New	B-Organization	B-Location
+York	I-Organization	I-Location
+Jewish	I-Organization	B-NORP
+Week	I-Organization
 exposé	O
 about	O
 him	O
@@ -340,8 +340,8 @@ against	O
 him	O
 and	O
 the	O
-Orthodox	B-NORP
-Union	I-NORP
+Orthodox	B-Organization
+Union	I-Organization
 .	O
 He	O
 has	O
@@ -1178,8 +1178,8 @@ sources	O
 in	O
 the	O
 2000	B-Misc
-Jewish	I-Misc
-Week	I-Misc
+Jewish	B-Organization
+Week	I-Organization
 article	O
 .	O
 Before	O

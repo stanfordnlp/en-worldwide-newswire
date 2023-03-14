@@ -140,9 +140,9 @@ law	O
 and	O
 at	O
 the	O
-Nunavut	B-Misc	B-Location
-Law	I-Misc
-Program	I-Misc
+Nunavut	B-Organization	B-Location
+Law	I-Organization
+Program	I-Organization
 .	O
 
 The	O
@@ -246,8 +246,8 @@ July	B-Misc
 12	I-Misc
 ,	O
 the	O
-Land	B-Misc
-Guardians	I-Misc
+Land	B-Organization
+Guardians	I-Organization
 filed	O
 their	O
 statement	O
@@ -716,8 +716,8 @@ to	O
 collectively	O
 as	O
 the	O
-Land	B-Misc
-Guardians	I-Misc
+Land	B-Organization
+Guardians	I-Organization
 .	O
 Crawford	B-Person
 said	O
@@ -814,8 +814,8 @@ activities	O
 Their	O
 [	O
 the	O
-Land	B-Misc
-Guardians	I-Misc
+Land	B-Organization
+Guardians	I-Organization
 ]	O
 real	O
 goal	O
@@ -854,8 +854,8 @@ impacted	O
 .	O
 
 The	O
-Land	B-Misc
-Guardians	I-Misc
+Land	B-Organization
+Guardians	I-Organization
 '	O
 claims	O
 ,	O

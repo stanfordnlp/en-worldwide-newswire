@@ -538,11 +538,11 @@ and	O
 director	O
 of	O
 the	O
-Research	B-Misc
-Unit	I-Misc
-for	I-Misc
-Indigenous	I-Misc
-Language	I-Misc
+Research	B-Organization
+Unit	I-Organization
+for	I-Organization
+Indigenous	I-Organization
+Language	I-Organization
 .	O
 
 She	O

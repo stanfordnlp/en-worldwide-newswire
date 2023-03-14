@@ -287,9 +287,9 @@ Human	O
 Resources	O
 Director	O
 in	O
-Qatar	B-Misc	B-Location
-Stars	I-Misc
-League	I-Misc
+Qatar	B-Organization	B-Location
+Stars	I-Organization
+League	I-Organization
 ,	O
 and	O
 Project	O

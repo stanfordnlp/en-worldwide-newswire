@@ -242,12 +242,12 @@ Meanwhile	O
 ,	O
 Paraguay	B-Location
 's	O
-Money	B-Misc
-Laundering	I-Misc
-Prevention	I-Misc
-Secretariat	I-Misc
+Money	B-Organization
+Laundering	I-Organization
+Prevention	I-Organization
+Secretariat	I-Organization
 (	O
-Seprelad	B-Misc
+Seprelad	B-Organization
 )	O
 hopes	O
 these	O

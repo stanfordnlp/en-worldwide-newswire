@@ -244,11 +244,11 @@ be	O
 funded	O
 by	O
 the	O
-Saudi	B-NORP
-Arabian	I-NORP
-Public	B-Misc
-Investment	I-Misc
-Fund	I-Misc
+Saudi	B-Organization
+Arabian	I-Organization
+Public	I-Organization
+Investment	I-Organization
+Fund	I-Organization
 ,	O
 as	O
 well	O

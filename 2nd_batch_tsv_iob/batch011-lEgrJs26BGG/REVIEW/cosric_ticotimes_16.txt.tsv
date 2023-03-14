@@ -324,11 +324,11 @@ and	O
 developed	O
 in	O
 the	O
-Protected	B-Misc
-Wildlife	I-Misc
-Areas	I-Misc
+Protected	B-Location
+Wildlife	I-Location
+Areas	I-Location
 (	O
-ASP	B-Misc
+ASP	B-Location
 )	O
 of	O
 Costa	B-Location

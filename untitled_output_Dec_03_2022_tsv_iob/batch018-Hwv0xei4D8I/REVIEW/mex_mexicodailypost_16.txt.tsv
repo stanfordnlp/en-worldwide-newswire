@@ -118,8 +118,8 @@ the	O
 World	B-Money
 Cup	I-Money
 with	O
-El	B-NORP
-Tri	I-NORP
+El	B-Organization
+Tri	I-Organization
 ,	O
 was	O
 supposed	O
@@ -187,8 +187,8 @@ Tata	B-Person
 Martino	I-Person
 will	O
 leave	O
-El	B-NORP
-Tri	I-NORP
+El	B-Organization
+Tri	I-Organization
 .	O
 
 The	O
@@ -241,8 +241,8 @@ lack	O
 of	O
 talent	O
 in	O
-El	B-NORP
-Tri	I-NORP
+El	B-Organization
+Tri	I-Organization
 .	O
 He	O
 assured	O
@@ -299,8 +299,8 @@ to	O
 replace	O
 Martino	B-Person
 at	O
-El	B-NORP
-Tri	I-NORP
+El	B-Organization
+Tri	I-Organization
 .	O
 However	O
 ,	O

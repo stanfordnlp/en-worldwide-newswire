@@ -159,8 +159,8 @@ Maha	I-Misc
 Sammelan	I-Misc
 ,	O
 a	O
-Sangh	B-NORP
-Parivar	I-NORP
+Sangh	B-Organization
+Parivar	I-Organization
 event	O
 inaugurated	O
 by	O
@@ -413,8 +413,8 @@ Karanataka	B-Location
 Muraleedharan	B-Person
 ’	O
 s	O
-Dharam	B-Misc
-Sansad	I-Misc
+Dharam	B-Organization
+Sansad	I-Organization
 brothers	O
 are	O
 objecting	O
@@ -428,8 +428,8 @@ Bible	O
 .	O
 
 The	O
-Sangh	B-NORP
-Parivar	I-NORP
+Sangh	B-Organization
+Parivar	I-Organization
 has	O
 been	O
 for	O

@@ -489,8 +489,8 @@ The	O
 First	O
 Lady	O
 said	O
-Beyond	B-NORP
-Zero	I-NORP
+Beyond	B-Organization
+Zero	I-Organization
 will	O
 continue	O
 advocacy	O
@@ -511,9 +511,9 @@ of	O
 the	O
 Linda	B-Misc	B-Person
 Mama	I-Misc	I-Person
-maternal	I-Misc
-health	I-Misc
-programme	I-Misc
+maternal	O
+health	O
+programme	O
 as	O
 well	O
 as	O

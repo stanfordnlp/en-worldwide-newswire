@@ -228,7 +228,7 @@ construction	O
 of	O
 the	O
 Project	B-Misc
-Deziwa	I-Misc
+Deziwa	I-Miscx
 with	O
 a	O
 high	O
@@ -253,10 +253,10 @@ and	O
 commissioning	O
 conference	O
 of	O
-CNMC	B-Misc
+CNMC	B-Organization
 's	O
-Project	B-Location
-Deziwa	I-Location
+Project	B-Organization
+Deziwa	I-Organization
 was	O
 organized	O
 .	O
@@ -309,7 +309,7 @@ Global	O
 development	O
 strategy	O
 of	O
-CNMC	B-Misc
+CNMC	B-Organization
 .	O
 
 It	O

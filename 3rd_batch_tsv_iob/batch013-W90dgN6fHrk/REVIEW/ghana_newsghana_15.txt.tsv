@@ -47,9 +47,9 @@ Police	I-Organization
 Service	I-Organization
 and	O
 the	O
-Drug	B-Misc
-Law	I-Misc
-Enforcement	I-Misc
+Drug	B-Organization
+Law	I-Organization
+Enforcement	I-Organization
 at	O
 the	O
 Narcotic	B-Organization
@@ -74,9 +74,9 @@ Commander	O
 in	O
 charge	O
 of	O
-Drug	B-Misc
-Law	I-Misc
-Enforcement	I-Misc
+Drug	B-Organization
+Law	I-Organization
+Enforcement	I-Organization
 confirmed	O
 this	O
 to	O

@@ -16,10 +16,10 @@ on	O
 their	O
 merger	O
 of	O
-Derech	B-Misc
-Eretz	I-Misc
+Derech	B-Organization
+Eretz	I-Organization
 and	O
-Yamina	B-Misc
+Yamina	B-Organization
 differed	O
 slightly	O
 from	O
@@ -802,8 +802,8 @@ the	O
 Right	B-Organization
 and	O
 perhaps	O
-Yesh	B-NORP
-Atid	I-NORP
+Yesh	B-Organization
+Atid	I-Organization
 on	O
 the	O
 Left	B-Organization

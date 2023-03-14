@@ -32,11 +32,11 @@ the	O
 closing	O
 of	O
 the	O
-9th	B-Misc
-ANC	I-Misc	B-Organization
-KwaZulu	I-Misc	B-Location
--	I-Misc	I-Location
-Natal	I-Misc	I-Location
+9th	O
+ANC	B-Organization
+KwaZulu	I-Organization	B-Location
+-	I-Organization	I-Location
+Natal	I-Organization	I-Location
 conference	O
 .	O
 

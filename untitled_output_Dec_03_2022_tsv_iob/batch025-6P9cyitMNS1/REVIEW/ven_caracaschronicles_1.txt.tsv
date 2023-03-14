@@ -266,11 +266,11 @@ released	O
 a	O
 documentary	O
 about	O
-Gorgeous	B-Misc
-Gaming	I-Misc
+Gorgeous	B-Organization
+Gaming	I-Organization
 ,	O
 a	O
-Margarita	B-Misc
+Margarita	B-Location
 -	O
 based	O
 team	O
@@ -327,10 +327,10 @@ Committee	I-Organization
 and	O
 even	O
 an	O
-FVF	B-Misc
+FVF	B-Organization
 -	O
 sponsored	O
-eVinotinto	B-Misc
+eVinotinto	B-Organization
 soccer	O
 team	O
 .	O
@@ -481,7 +481,7 @@ team	O
 members	O
 of	O
 the	O
-eVinotinto	B-Misc
+eVinotinto	B-Organization
 team	O
 and	O
 their	O
@@ -564,11 +564,11 @@ under	O
 the	O
 banner	O
 of	O
-Lobos	B-Misc
-UCAB	I-Misc	B-Organization
+Lobos	B-Organization
+UCAB	I-Organization	B-Organization
 (	O
-UCAB	B-Misc	B-Organization
-Wolves	I-Misc
+UCAB	B-Organization	B-Organization
+Wolves	I-Organization
 )	O
 and	O
 a	O
@@ -725,11 +725,11 @@ under	O
 the	O
 banner	O
 of	O
-Lobos	B-Misc
-UCAB	I-Misc	B-Organization
+Lobos	B-Organization
+UCAB	I-Organization	B-Organization
 (	O
-UCAB	B-Misc	B-Organization
-Wolves	I-Misc
+UCAB	B-Organization	B-Organization
+Wolves	I-Organization
 )	O
 and	O
 a	O

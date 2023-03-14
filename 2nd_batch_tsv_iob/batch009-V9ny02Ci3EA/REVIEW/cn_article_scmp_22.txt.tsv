@@ -218,7 +218,7 @@ K	B-Misc
 -	I-Misc
 pop	I-Misc
 group	O
-Astro	B-Misc
+Astro	B-Organization
 under	O
 Fantagio	B-Organization
 Entertainment	I-Organization
@@ -936,8 +936,8 @@ delight	O
 Cha	B-Person
 revealed	O
 to	O
-Ceci	B-Misc
-Korea	I-Misc	B-Location
+Ceci	B-Organization
+Korea	I-Organization	B-Location
 back	O
 in	O
 2017	B-Misc

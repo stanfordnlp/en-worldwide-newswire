@@ -87,9 +87,9 @@ I	I-Misc
 he	O
 assumed	O
 the	O
-Throne	B-Misc
-of	I-Misc
-Transjordan	I-Misc	B-Location
+Throne	B-Organization
+of	I-Organization
+Transjordan	I-Organization	B-Location
 ,	O
 which	O
 was	O
