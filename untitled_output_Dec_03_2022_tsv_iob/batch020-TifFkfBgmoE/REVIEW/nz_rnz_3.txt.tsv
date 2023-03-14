@@ -260,7 +260,7 @@ with	O
 both	O
 the	O
 North	B-Location
-and	
+and	O	
 South	B-Location
 Islands	I-Location
 experiencing	O

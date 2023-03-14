@@ -71,7 +71,7 @@ is	O
 one	O
 of	O
 the	O
-Olympic	B-MISC
+Olympic	B-Misc
 sports	O
 exercised	O
 in	O
@@ -615,7 +615,7 @@ shooting	O
 clubs	O
 in	O
 the	O
-Sultanate	B-Locatio
+Sultanate	B-Location
 would	O
 contribute	O
 to	O
