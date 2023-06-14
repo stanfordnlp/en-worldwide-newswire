@@ -70,7 +70,7 @@ across	O
 the	O
 street	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 when	O
 he	O
 heard	O
@@ -155,7 +155,7 @@ by	O
 local	O
 police	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 The	O

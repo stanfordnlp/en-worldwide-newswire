@@ -53,10 +53,10 @@ over	O
 the	O
 phone	O
 on	O
-May	B-Misc
-28	I-Misc
-,	I-Misc
-2016	I-Misc
+May	B-Date
+28	I-Date
+,	I-Date
+2016	I-Date
 .	O
 
 The	O
@@ -148,9 +148,9 @@ several	O
 threats	O
 made	O
 between	O
-2016	B-Misc
+2016	B-Date
 and	O
-2022	B-Misc
+2022	B-Date
 .	O
 
 Due	O
@@ -200,7 +200,7 @@ lifelong	O
 home	O
 .	O
 Since	O
-June	B-Misc
+June	B-Date
 ,	O
 they	O
 ’	O
@@ -375,10 +375,10 @@ threat	O
 ,	O
 received	O
 on	O
-May	B-Misc
-13	I-Misc
-,	I-Misc
-2022	I-Misc
+May	B-Date
+13	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 that	O
 made	O
@@ -596,8 +596,8 @@ interview	O
 for	O
 them	O
 on	O
-June	B-Misc
-10	I-Misc
+June	B-Date
+10	I-Date
 ,	O
 and	O
 were	O
@@ -650,7 +650,7 @@ States	I-Location
 .	O
 Since	O
 late	O
-June	B-Misc
+June	B-Date
 ,	O
 they	O
 ’	O

@@ -5,7 +5,7 @@ Presidential	O
 Candidates	O
 Chosen	O
 during	O
-2017	B-Misc
+2017	B-Date
 Primary	O
 Elections	O
 -	O
@@ -49,7 +49,7 @@ the	O
 general	O
 elections	O
 of	O
-November	B-Misc
+November	B-Date
 ,	O
 once	O
 the	O
@@ -92,7 +92,7 @@ remarked	O
 ,	O
 presenting	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 the	O
 initial	O
 report	O
@@ -271,8 +271,8 @@ the	O
 general	O
 elections	O
 of	O
-November	B-Misc
-26	I-Misc
+November	B-Date
+26	I-Date
 .	O
 
 Preliminary	O
@@ -395,7 +395,7 @@ could	O
 be	O
 provided	O
 in	O
-November	B-Misc
+November	B-Date
 by	O
 his	O
 alliance	O

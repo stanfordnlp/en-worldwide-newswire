@@ -407,7 +407,7 @@ professor	O
 David	B-Person
 Patterson	I-Person
 in	O
-1980	B-Misc
+1980	B-Date
 and	O
 were	O
 made	O
@@ -420,7 +420,7 @@ technology	O
 fifth	O
 generation	O
 in	O
-2015	B-Misc
+2015	B-Date
 as	O
 RISC	B-Product
 -	I-Product

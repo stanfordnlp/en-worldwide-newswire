@@ -10,7 +10,7 @@ System	I-Organization
 was	O
 created	O
 in	O
-1970	B-Misc
+1970	B-Date
 with	O
 efforts	O
 to	O
@@ -541,7 +541,7 @@ to	O
 Costa	B-Location
 Rica	I-Location
 in	O
-2021	B-Misc
+2021	B-Date
 according	O
 to	O
 Tourism	B-Organization
@@ -566,7 +566,7 @@ biodiversity	O
 .	O
 
 In	O
-1970	B-Misc
+1970	B-Date
 ,	O
 it	O
 was	O
@@ -603,7 +603,7 @@ parks	O
 Alongside	O
 Poas	B-Location
 in	O
-1970	B-Misc
+1970	B-Date
 by	O
 executive	O
 decree	O
@@ -631,7 +631,7 @@ habitat	O
 .	O
 
 In	O
-1994	B-Misc
+1994	B-Date
 ,	O
 the	O
 National	B-Organization
@@ -734,7 +734,7 @@ visitors	O
 
 Founded	O
 in	O
-1972	B-Misc
+1972	B-Date
 it	O
 is	O
 hard	O
@@ -1456,9 +1456,9 @@ the	O
 dry	O
 season	O
 (	O
-December	B-Misc
-to	I-Misc
-April	I-Misc
+December	B-Date
+to	I-Date
+April	I-Date
 )	O
 and	O
 8:00 a.m.	O
@@ -1469,9 +1469,9 @@ the	O
 rainy	O
 season	O
 (	O
-May	B-Misc
-to	I-Misc
-November	I-Misc
+May	B-Date
+to	I-Date
+November	I-Date
 )	O
 .	O
 
@@ -1491,9 +1491,9 @@ Absolute	I-Location
 Natural	I-Location
 Reserve	I-Location
 
-Wednesday	B-Misc
+Wednesday	B-Date
 -	O
-Sunday	B-Misc
+Sunday	B-Date
 from	O
 8:00 a.m.	O
 to	O
@@ -1546,22 +1546,22 @@ during	O
 high	O
 period	O
 (	O
-December	B-Misc
-to	I-Misc
-April	I-Misc
+December	B-Date
+to	I-Date
+April	I-Date
 )	O
 .	O
 
 Closed	O
-Mondays	B-Misc
+Mondays	B-Date
 during	O
 the	O
 low	O
 period	O
 (	O
-July	B-Misc
-to	I-Misc
-November	I-Misc
+July	B-Date
+to	I-Date
+November	I-Date
 )	O
 .	O
 Open	O
@@ -1681,7 +1681,7 @@ the	O
 entire	O
 month	O
 of	O
-October	B-Misc
+October	B-Date
 due	O
 to	O
 heavy	O
@@ -2038,9 +2038,9 @@ Park	I-Location
 Sector	B-Location
 Pailas	I-Location
 
-Tuesday	B-Misc
+Tuesday	B-Date
 to	O
-Sunday	B-Misc
+Sunday	B-Date
 from	O
 7:00 a.m.	O
 to	O

@@ -18,7 +18,7 @@ Al	I-Person
 -	I-Person
 Sabah	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 received	O
 a	O
 letter	O
@@ -173,7 +173,7 @@ Al	I-Person
 -	I-Person
 Sabah	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 received	O
 a	O
 letter	O
@@ -317,7 +317,7 @@ Al	I-Person
 -	I-Person
 Sabah	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 sent	O
 a	O
 letter	O
@@ -473,11 +473,11 @@ an	O
 Amiri	O
 order	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 .	O
 Born	O
 in	O
-1956	B-Misc
+1956	B-Date
 ,	O
 Sheikh	O
 Ahmad	B-Person
@@ -544,8 +544,8 @@ and	O
 interior	O
 minister	O
 since	O
-March	B-Misc
-2022	I-Misc
+March	B-Date
+2022	I-Date
 .	O
 
 Stints	O
@@ -617,8 +617,8 @@ Hawalli	B-Location
 Governorate	I-Location
 .	O
 In	O
-November	B-Misc
-2020	I-Misc
+November	B-Date
+2020	I-Date
 ,	O
 an	O
 Amiri	O
@@ -666,7 +666,7 @@ at	O
 Bayan	B-Facility
 Palace	I-Facility
 on	O
-Monday	B-Misc
+Monday	B-Date
 His	O
 Highness	O
 Sheikh	O

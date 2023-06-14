@@ -130,7 +130,7 @@ city	O
 government	O
 was	O
 in	O
-2015	B-Misc
+2015	B-Date
 ,	O
 a	O
 year	O
@@ -180,8 +180,8 @@ $	I-Money
 .	O
 
 In	O
-April	B-Misc
-2016	I-Misc
+April	B-Date
+2016	I-Date
 ,	O
 Ko	B-Person
 excluded	O
@@ -257,7 +257,7 @@ people	O
 .	O
 
 On	O
-Wednesday	B-Misc
+Wednesday	B-Date
 last	O
 week	O
 ,	O
@@ -361,7 +361,7 @@ annually	O
 .	O
 
 In	O
-November	B-Misc
+November	B-Date
 last	O
 year	O
 ,	O

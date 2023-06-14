@@ -37,12 +37,12 @@ two	O
 nations	O
 held	O
 this	O
-Wednesday	B-Misc
-,	I-Misc
-July	I-Misc
-13	I-Misc
-,	I-Misc
-2022	I-Misc
+Wednesday	B-Date
+,	I-Date
+July	I-Date
+13	I-Date
+,	I-Date
+2022	I-Date
 .	O
 
 This	O
@@ -58,7 +58,7 @@ being	O
 inactive	O
 ,	O
 since	O
-2014	B-Misc
+2014	B-Date
 .	O
 The	O
 delegations	O

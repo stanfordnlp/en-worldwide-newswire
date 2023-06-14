@@ -231,11 +231,11 @@ Israel	B-Location
 against	O
 Syria	B-Location
 since	O
-2018	B-Misc
+2018	B-Date
 .	O
 
 After	O
-2011	B-Misc
+2011	B-Date
 ,	O
 as	O
 Syria	B-Location

@@ -290,8 +290,8 @@ like	O
 as	O
 soon	O
 as	O
-May	B-Misc
-1	I-Misc
+May	B-Date
+1	I-Date
 came	O
 everybody	O
 wanted	O
@@ -410,7 +410,7 @@ t	O
 fully	O
 opened	O
 since	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 “	O

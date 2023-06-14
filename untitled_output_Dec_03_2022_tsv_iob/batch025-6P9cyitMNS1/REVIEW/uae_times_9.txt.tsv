@@ -18,8 +18,8 @@ applications	O
 from	O
 today	O
 (	O
-July	B-Misc
-5	I-Misc
+July	B-Date
+5	I-Date
 )	O
 ,	O
 with	O
@@ -33,8 +33,8 @@ be	O
 rolled	O
 out	O
 in	O
-September	B-Misc
-2022	I-Misc
+September	B-Date
+2022	I-Date
 ,	O
 announced	O
 Hessa	B-Person
@@ -57,7 +57,7 @@ Abu	B-Organization	B-Location
 Dhabi	I-Organization	I-Location
 Radio	I-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 the	O
 Minister	O
@@ -198,13 +198,13 @@ would	O
 take	O
 effect	O
 in	O
-September	B-Misc
+September	B-Date
 this	O
 year	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 state	O
 news	O
@@ -863,8 +863,8 @@ ministry	O
 's	O
 website	O
 from	O
-July	B-Misc
-5	I-Misc
+July	B-Date
+5	I-Date
 .	O
 Eligibility	O
 criteria	O
@@ -973,9 +973,9 @@ inmates	O
 in	O
 time	O
 for	O
-Eid	B-Misc
-Al	I-Misc
-Adha	I-Misc
+Eid	B-Date
+Al	I-Date
+Adha	I-Date
 
 Eligible	O
 categories	O

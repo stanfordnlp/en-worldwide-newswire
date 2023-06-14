@@ -2,12 +2,12 @@ https://panafricanvisions.com/2022/04/zimbabwe-has-africas-most-prestigious-cast
 
 This	O
 coming	O
-Saturday	B-Misc
-on	I-Misc
-the	I-Misc
-7th	I-Misc
-of	I-Misc
-May	I-Misc
+Saturday	B-Date
+on	I-Date
+the	I-Date
+7th	I-Date
+of	I-Date
+May	I-Date
 the	O
 boom	O
 of	O
@@ -134,7 +134,7 @@ game	O
 which	O
 started	O
 in	O
-1904	B-Misc
+1904	B-Date
 .	O
 .	O
 Further	O
@@ -259,7 +259,7 @@ tankard	O
 which	O
 started	O
 in	O
-1960	B-Misc
+1960	B-Date
 continues	O
 to	O
 be	O
@@ -296,7 +296,7 @@ Tankard	B-Organization
 which	O
 started	O
 in	O
-1960	B-Misc
+1960	B-Date
 continues	O
 to	O
 be	O

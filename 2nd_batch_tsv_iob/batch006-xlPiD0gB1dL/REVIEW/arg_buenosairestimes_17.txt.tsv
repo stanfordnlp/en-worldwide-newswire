@@ -11,7 +11,7 @@ truckers	O
 ,	O
 were	O
 stranded	O
-Sunday	B-Misc
+Sunday	B-Date
 by	O
 a	O
 fierce	O
@@ -130,7 +130,7 @@ powerful	O
 winter	O
 storm	O
 hit	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 hammering	O
 the	O
@@ -204,7 +204,7 @@ the	O
 remaining	O
 rescues	O
 by	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Weather	O

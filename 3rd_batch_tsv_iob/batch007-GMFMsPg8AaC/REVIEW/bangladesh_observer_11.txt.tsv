@@ -141,13 +141,13 @@ the	O
 district	O
 AL	O
 till	O
-1998	B-Misc
+1998	B-Date
 after	O
-1975	B-Misc
+1975	B-Date
 and	O
 its	O
 convener	O
-1998-2004	B-Misc
+1998-2004	B-Date
 .	O
 
 He	O
@@ -168,7 +168,7 @@ third	O
 national	O
 elections	O
 in	O
-1986	B-Misc
+1986	B-Date
 .	O
 
 His	O

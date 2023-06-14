@@ -1,10 +1,10 @@
 https://mexicodailypost.com/2022/07/25/the-first-group-of-cuban-doctors-hired-by-amlo-arrives-in-nayarit/	O
 
 On	O
-Saturday	B-Misc
-,	I-Misc
-July	I-Misc
-23rd	I-Misc
+Saturday	B-Date
+,	I-Date
+July	I-Date
+23rd	I-Date
 ,	O
 the	O
 group	O
@@ -103,7 +103,7 @@ island	O
 .	O
 
 In	O
-May	B-Misc
+May	B-Date
 ,	O
 López	B-Person
 Obrador	I-Person
@@ -231,6 +231,6 @@ come	O
 López	B-Person
 Obrador	I-Person
 said	O
-Saturday	B-Misc
+Saturday	B-Date
 .	O
 

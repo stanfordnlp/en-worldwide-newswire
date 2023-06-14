@@ -23,7 +23,7 @@ s	B-Location
 Anantnag	I-Location
 district	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 officials	O
 said	O
@@ -59,7 +59,7 @@ s	O
 Anantnag	B-Location
 district	I-Location
 on	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 according	O
 to	O

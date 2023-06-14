@@ -55,7 +55,7 @@ Korea	I-Location
 ,	O
 officials	O
 said	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 Prosecutors	O
@@ -81,8 +81,8 @@ by	O
 North	B-Location
 Korea	I-Location
 in	O
-September	B-Misc
-2020	I-Misc
+September	B-Date
+2020	I-Date
 and	O
 the	O
 repatriation	O
@@ -92,8 +92,8 @@ North	B-NORP
 Korean	I-NORP
 fishermen	O
 in	O
-November	B-Misc
-2019	I-Misc
+November	B-Date
+2019	I-Date
 ,	O
 respectively	O
 .	O

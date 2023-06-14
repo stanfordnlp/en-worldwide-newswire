@@ -42,7 +42,7 @@ Surya	I-Person
 said	O
 here	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Article	O
@@ -66,8 +66,8 @@ by	O
 the	O
 Centre	O
 in	O
-August	B-Misc
-2019	I-Misc
+August	B-Date
+2019	I-Date
 .	O
 
 Surya	B-Person

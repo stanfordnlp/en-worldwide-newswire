@@ -23,7 +23,7 @@ to	O
 study	O
 architecture	O
 in	O
-2017	B-Misc
+2017	B-Date
 ,	O
 it	O
 was	O
@@ -114,7 +114,7 @@ an	O
 annual	O
 affair	O
 until	O
-2020	B-Misc
+2020	B-Date
 ,	O
 but	O
 Wu	B-Person
@@ -256,7 +256,7 @@ in	O
 the	O
 country	O
 in	O
-1997	B-Misc
+1997	B-Date
 and	O
 removed	O
 from	O
@@ -266,7 +266,7 @@ of	O
 mental	O
 disorders	O
 in	O
-2001	B-Misc
+2001	B-Date
 .	O
 
 But	O
@@ -338,7 +338,7 @@ line	O
 according	O
 to	O
 a	O
-2019	B-Misc
+2019	B-Date
 study	O
 by	O
 Wei	B-Person
@@ -474,8 +474,8 @@ Collateral	O
 damage	O
 
 In	O
-July	B-Misc
-2020	I-Misc
+July	B-Date
+2020	I-Date
 ,	O
 the	O
 organisers	O
@@ -856,7 +856,7 @@ soon	O
 the	O
 legislature	O
 in	O
-2020	B-Misc
+2020	B-Date
 acknowledged	O
 petitions	O
 for	O
@@ -1104,7 +1104,7 @@ and	O
 family	O
 in	O
 late	O
-2019	B-Misc
+2019	B-Date
 .	O
 “	O
 In	O

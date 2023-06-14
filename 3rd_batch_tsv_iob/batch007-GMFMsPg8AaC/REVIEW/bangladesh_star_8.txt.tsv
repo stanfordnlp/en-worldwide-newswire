@@ -36,8 +36,8 @@ NGO	B-Organization
 Affairs	I-Organization
 Bureau	I-Organization
 on	O
-June	B-Misc
-5	I-Misc
+June	B-Date
+5	I-Date
 cancelled	O
 Odhikar	B-Organization
 's	O
@@ -46,8 +46,8 @@ registration	O
 which	O
 expired	O
 in	O
-March	B-Misc
-2015	I-Misc
+March	B-Date
+2015	I-Date
 ,	O
 saying	O
 that	O
@@ -247,9 +247,9 @@ Odhikar	B-Organization
 ,	O
 established	O
 in	O
-October	B-Misc
-,	I-Misc
-1994	I-Misc
+October	B-Date
+,	I-Date
+1994	I-Date
 ,	O
 applied	O
 to	O
@@ -261,10 +261,10 @@ NGO	B-Organization
 Affairs	I-Organization
 Bureau	I-Organization
 on	O
-September	B-Misc
-25	I-Misc
-,	I-Misc
-2014	I-Misc
+September	B-Date
+25	I-Date
+,	I-Date
+2014	I-Date
 for	O
 the	O
 renewal	O
@@ -290,14 +290,14 @@ with	O
 the	O
 HC	B-Organization
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 The	O
 HC	B-Organization
 on	O
-May	B-Misc
-13	I-Misc
+May	B-Date
+13	I-Date
 of	O
 that	O
 year	O

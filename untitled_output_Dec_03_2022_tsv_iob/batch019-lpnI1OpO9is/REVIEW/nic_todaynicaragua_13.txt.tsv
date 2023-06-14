@@ -64,10 +64,10 @@ he	O
 was	O
 expelled	O
 on	O
-October	B-Misc
-19	I-Misc
-,	I-Misc
-2020	I-Misc
+October	B-Date
+19	I-Date
+,	I-Date
+2020	I-Date
 ,	O
 for	O
 his	O
@@ -400,7 +400,7 @@ who	O
 were	O
 killed	O
 in	O
-2018	B-Misc
+2018	B-Date
 (	O
 30	O
 )	O
@@ -489,7 +489,7 @@ happened	O
 3	O
 –	O
 In	O
-2018	B-Misc
+2018	B-Date
 there	O
 was	O
 a	O
@@ -684,7 +684,7 @@ He	O
 added	O
 that	O
 in	O
-2020	B-Misc
+2020	B-Date
 she	O
 ,	O
 Murrillo	B-Person
@@ -820,10 +820,10 @@ that	O
 she	O
 made	O
 for	O
-July	B-Misc
-19	I-Misc
-(	I-Misc
-2020	I-Misc
+July	B-Date
+19	I-Date
+(	I-Date
+2020	I-Date
 )	O
 ,	O
 the	O

@@ -136,7 +136,7 @@ Certified	I-Organization
 Public	I-Organization
 Accountants	I-Organization
 in	O
-2014	B-Misc
+2014	B-Date
 .	O
 
 The	B-Organization
@@ -191,7 +191,7 @@ government	O
 spokesman	O
 said	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 The	O

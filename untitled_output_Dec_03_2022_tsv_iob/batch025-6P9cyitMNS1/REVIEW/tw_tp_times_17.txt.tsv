@@ -32,7 +32,7 @@ chung	I-Person
 who	O
 resigned	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 to	O
 focus	O
 on	O
@@ -118,7 +118,7 @@ to	O
 take	O
 effect	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 CECC	B-Organization

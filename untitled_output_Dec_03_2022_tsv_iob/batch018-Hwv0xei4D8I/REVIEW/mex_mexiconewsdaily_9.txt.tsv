@@ -129,7 +129,7 @@ station	O
 at	O
 8 a.m.	O
 on	O
-Sundays	B-Misc
+Sundays	B-Date
 .	O
 I	O
 joined	O
@@ -305,7 +305,7 @@ continent	O
 ,	O
 built	O
 in	O
-1561	B-Misc
+1561	B-Date
 .	O
 
 “	O
@@ -467,7 +467,7 @@ settled	O
 in	O
 town	O
 in	O
-1993	B-Misc
+1993	B-Date
 and	O
 then	O
 toured	O
@@ -485,7 +485,7 @@ Charco	I-Location
 .	O
 
 In	O
-2004	B-Misc
+2004	B-Date
 ,	O
 the	O
 Dalai	B-Person
@@ -977,7 +977,7 @@ dam	O
 was	O
 built	O
 in	O
-1967	B-Misc
+1967	B-Date
 to	O
 provide	O
 water	O
@@ -1579,7 +1579,7 @@ Guadalajara	B-Location
 Jalisco	I-Location
 ,	O
 since	O
-1985	B-Misc
+1985	B-Date
 .	O
 His	O
 most	O

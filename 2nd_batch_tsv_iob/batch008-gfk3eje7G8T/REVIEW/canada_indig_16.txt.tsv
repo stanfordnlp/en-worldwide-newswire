@@ -155,8 +155,8 @@ sued	O
 by	O
 Baffinland	B-Organization
 in	O
-February	B-Misc
-2021	I-Misc
+February	B-Date
+2021	I-Date
 ,	O
 after	O
 the	O
@@ -210,7 +210,7 @@ mischief	O
 .	O
 In	O
 early	O
-March	B-Misc
+March	B-Date
 ,	O
 a	O
 Nunavut	B-Location
@@ -242,8 +242,8 @@ last	O
 month	O
 ,	O
 on	O
-July	B-Misc
-12	I-Misc
+July	B-Date
+12	I-Date
 ,	O
 the	O
 Land	B-Organization
@@ -1027,7 +1027,7 @@ case	O
 from	O
 the	O
 early	O
-2000	B-Misc
+2000	B-Date
 s	O
 when	O
 a	O

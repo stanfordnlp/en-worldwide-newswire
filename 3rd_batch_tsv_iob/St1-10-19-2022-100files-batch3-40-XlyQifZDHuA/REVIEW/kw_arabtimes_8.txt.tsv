@@ -3,8 +3,8 @@ http://www.arabtimesonline.com/news/60-of-schools-ac-units-need-to-be-replaced/	
 KUWAIT	B-Location
 CITY	I-Location
 ,	O
-July	B-Misc
-24	I-Misc
+July	B-Date
+24	I-Date
 :	O
 The	O
 Ministry	B-Organization
@@ -20,7 +20,7 @@ of	O
 the	O
 scholastic	O
 year	O
-2021-2022	B-Misc
+2021-2022	B-Date
 ,	O
 with	O
 the	O
@@ -189,7 +189,7 @@ maintenance	O
 work	O
 began	O
 last	O
-November	B-Misc
+November	B-Date
 ,	O
 stressing	O
 that	O
@@ -503,8 +503,8 @@ areas	O
 will	O
 expire	O
 by	O
-May	B-Misc
-2023	I-Misc
+May	B-Date
+2023	I-Date
 ,	O
 while	O
 Assistant	O
@@ -579,7 +579,7 @@ the	O
 next	O
 academic	O
 year	O
-2022-2023	B-Misc
+2022-2023	B-Date
 ,	O
 as	O
 it	O

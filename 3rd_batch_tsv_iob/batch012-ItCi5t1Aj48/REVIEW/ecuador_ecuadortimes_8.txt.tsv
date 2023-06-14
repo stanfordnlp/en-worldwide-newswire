@@ -5,7 +5,7 @@ international	O
 brands	O
 arrive	O
 in	O
-October	B-Misc
+October	B-Date
 at	O
 the	O
 San	B-Facility	B-Location
@@ -333,7 +333,7 @@ Works	I-Organization
 which	O
 opened	O
 last	O
-November	B-Misc
+November	B-Date
 ;	O
 Victoria	B-Organization
 ’	I-Organization
@@ -341,7 +341,7 @@ s	I-Organization
 Secret	I-Organization
 ,	O
 in	O
-December	B-Misc
+December	B-Date
 ,	O
 and	O
 Muy	B-Organization

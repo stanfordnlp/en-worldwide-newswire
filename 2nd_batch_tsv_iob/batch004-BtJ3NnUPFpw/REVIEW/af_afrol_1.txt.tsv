@@ -3,8 +3,8 @@ http://www.afrol.com/articles/37145	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-27	B-Misc
-January	I-Misc
+27	B-Date
+January	I-Date
 -	O
 David	B-Person
 Kato	I-Person
@@ -194,8 +194,8 @@ homosexuals	O
 The	O
 Court	O
 on	O
-3	B-Misc
-January	I-Misc
+3	B-Date
+January	I-Date
 ruled	O
 that	O
 "	O
@@ -534,7 +534,7 @@ by	O
 US	B-Location
 Evangelicals	B-NORP
 in	O
-2009	B-Misc
+2009	B-Date
 .	O
 The	O
 Ugandan	B-NORP

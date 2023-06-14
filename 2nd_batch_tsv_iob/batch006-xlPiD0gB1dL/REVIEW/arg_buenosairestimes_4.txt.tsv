@@ -445,7 +445,7 @@ rates	O
 since	O
 the	O
 early	O
-1980	B-Misc
+1980	B-Date
 s	O
 ,	O
 prompting	O
@@ -592,11 +592,11 @@ debt	O
 has	O
 tripled	O
 since	O
-2000	B-Misc
+2000	B-Date
 and	O
 doubled	O
 since	O
-2006	B-Misc
+2006	B-Date
 ,	O
 reaching	O
 352	O
@@ -609,12 +609,12 @@ the	O
 first	O
 quarter	O
 of	O
-2022	B-Misc
+2022	B-Date
 (	O
 slightly	O
 below	O
 the	O
-2021	B-Misc
+2021	B-Date
 peak	O
 )	O
 .	O

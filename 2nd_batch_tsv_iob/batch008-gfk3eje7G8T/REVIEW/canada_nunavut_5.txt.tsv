@@ -57,7 +57,7 @@ about	O
 1,500	O
 ,	O
 in	O
-November	B-Misc
+November	B-Date
 .	O
 
 Chris	B-Person
@@ -451,7 +451,7 @@ to	O
 open	O
 in	O
 early	O
-April	B-Misc
+April	B-Date
 ,	O
 Nolan	B-Person
 said	O
@@ -546,7 +546,7 @@ TB	B-Misc
 outbreaks	O
 .	O
 In	O
-2018	B-Misc
+2018	B-Date
 ,	O
 mass	O
 screening	O
@@ -608,7 +608,7 @@ people	O
 ,	O
 says	O
 a	O
-2018	B-Misc
+2018	B-Date
 report	O
 from	O
 the	O
@@ -620,7 +620,7 @@ Canada	I-Organization	B-Location
 .	O
 
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 Prime	O
 Minister	O
@@ -642,10 +642,10 @@ of	O
 TB	B-Misc
 in	O
 the	O
-1940	B-Misc
+1940	B-Date
 s	O
 and	O
-1960	B-Misc
+1960	B-Date
 s	O
 ,	O
 when	O
@@ -675,6 +675,6 @@ in	O
 Inuit	B-NORP
 communities	O
 by	O
-2030	B-Misc
+2030	B-Date
 .	O
 

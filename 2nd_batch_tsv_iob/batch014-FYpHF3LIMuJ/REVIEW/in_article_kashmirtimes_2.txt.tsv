@@ -2,8 +2,8 @@ http://www.kashmirtimes.com/newsdet.aspx?q=114137	O
 
 ISLAMABAD	B-Location
 ,	O
-Mar	B-Misc
-03	I-Misc
+Mar	B-Date
+03	I-Date
 :	O
 India	B-Location
 has	O
@@ -46,7 +46,7 @@ media	O
 report	O
 said	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 The	O
@@ -67,7 +67,7 @@ all	O
 agenda	O
 items	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 The	O
@@ -227,7 +227,7 @@ as	O
 required	O
 under	O
 the	O
-1960	B-Misc
+1960	B-Date
 Indus	B-Misc
 Waters	I-Misc
 Treaty	I-Misc
@@ -281,7 +281,7 @@ believed	O
 ,	O
 violated	O
 the	O
-1960	B-Misc
+1960	B-Date
 treaty	O
 .	O
 These	O
@@ -477,10 +477,10 @@ Commission	O
 was	O
 held	O
 on	O
-March	B-Misc
-23-24	I-Misc
-,	I-Misc
-2021	I-Misc
+March	B-Date
+23-24	I-Date
+,	I-Date
+2021	I-Date
 ,	O
 in	O
 New	B-Location
@@ -498,7 +498,7 @@ India	B-Location
 and	O
 Pakistan	B-Location
 in	O
-1960	B-Misc
+1960	B-Date
 ,	O
 all	O
 the	O

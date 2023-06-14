@@ -2,9 +2,9 @@ https://www.egypttoday.com/Article/3/117903/MCIT-Egypt-targets-upping-foreign-in
 
 CAIRO	B-Location
 -	O
-26	B-Misc
-July	I-Misc
-2022	I-Misc
+26	B-Date
+July	I-Date
+2022	I-Date
 :	O
 Minister	O
 of	O
@@ -15,7 +15,7 @@ Technology	O
 Amr	B-Person
 Talat	I-Person
 asserted	O
-Tuesday	B-Misc
+Tuesday	B-Date
 that	O
 Egypt	B-Location
 was	O
@@ -144,12 +144,12 @@ $	B-Money
 190	I-Money
 million	I-Money
 in	O
-2020	B-Misc
+2020	B-Date
 and	O
 $	B-Money
 490	I-Money
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 noting	O
 that	O

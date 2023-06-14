@@ -122,8 +122,8 @@ online	O
 shopping	O
 festival	O
 on	O
-June	B-Misc
-18	I-Misc
+June	B-Date
+18	I-Date
 after	O
 losing	O
 its	O
@@ -189,14 +189,14 @@ first	O
 day	O
 of	O
 the	O
-2021	B-Misc
+2021	B-Date
 Singles	B-Misc
 ’	I-Misc
 Day	I-Misc
 shopping	O
 festival	O
 last	O
-November	B-Misc
+November	B-Date
 –	O
 equal	O
 to	O
@@ -567,7 +567,7 @@ millions	I-Money
 of	I-Money
 yuan	I-Money
 last	O
-November	B-Misc
+November	B-Date
 .	O
 
 Li	B-Person
@@ -600,8 +600,8 @@ live	O
 streaming	O
 session	O
 on	O
-June	B-Misc
-3	I-Misc
+June	B-Date
+3	I-Date
 .	O
 At	O
 the	O
@@ -672,10 +672,10 @@ pro	O
 democracy	O
 protesters	O
 on	O
-June	B-Misc
-4	I-Misc
-,	I-Misc
-1989	I-Misc
+June	B-Date
+4	I-Date
+,	I-Date
+1989	I-Date
 .	O
 
 “	O
@@ -893,7 +893,7 @@ at	O
 the	O
 end	O
 of	O
-2016	B-Misc
+2016	B-Date
 doubled	O
 to	O
 703	O
@@ -975,8 +975,8 @@ this	O
 year	O
 ’	O
 s	O
-June	B-Misc
-18	I-Misc
+June	B-Date
+18	I-Date
 shopping	O
 festival	O
 ,	O
@@ -1039,8 +1039,8 @@ last	O
 year	O
 ’	O
 s	O
-June	B-Misc
-18	I-Misc
+June	B-Date
+18	I-Date
 event	O
 ,	O
 when	O
@@ -1370,7 +1370,7 @@ live	O
 streaming	O
 session	O
 last	O
-December	B-Misc
+December	B-Date
 to	O
 promote	O
 jasmine	O

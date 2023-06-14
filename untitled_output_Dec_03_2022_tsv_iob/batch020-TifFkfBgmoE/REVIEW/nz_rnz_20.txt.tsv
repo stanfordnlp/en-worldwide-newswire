@@ -40,7 +40,7 @@ the	O
 start	O
 of	O
 the	O
-2023	B-Misc
+2023	B-Date
 season	O
 .	O
 
@@ -69,7 +69,7 @@ of	O
 the	O
 sport	O
 in	O
-2019	B-Misc
+2019	B-Date
 after	O
 suffering	O
 a	O
@@ -208,7 +208,7 @@ boost	O
 our	O
 roster	O
 for	O
-2023	B-Misc
+2023	B-Date
 .	O
 With	O
 his	O
@@ -254,7 +254,7 @@ career	O
 with	O
 Penrith	B-Organization
 in	O
-2016	B-Misc
+2016	B-Date
 .	O
 
 He	O
@@ -264,7 +264,7 @@ North	B-Location
 Queensland	I-Location
 midway	O
 through	O
-2017	B-Misc
+2017	B-Date
 ,	O
 finishing	O
 the	O
@@ -289,9 +289,9 @@ against	O
 the	O
 Bulldogs	B-Organization
 in	O
-April	B-Misc
-,	I-Misc
-2019	I-Misc
+April	B-Date
+,	I-Date
+2019	I-Date
 was	O
 his	O
 last	O

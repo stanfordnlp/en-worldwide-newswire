@@ -71,12 +71,12 @@ an	O
 exclusive	O
 interview	O
 on	O
-Wednesday	B-Misc
-(	I-Misc
-Feb	I-Misc
-.	I-Misc
-24	I-Misc
-)	I-Misc
+Wednesday	B-Date
+(	B-Misc
+Feb	B-Date
+.	I-Date
+24	I-Date
+)	B-Misc
 that	O
 the	O
 first	O
@@ -136,8 +136,8 @@ by	O
 the	O
 end	O
 of	O
-February	B-Misc
-2016	I-Misc
+February	B-Date
+2016	I-Date
 .	O
 
 Ross	B-Person

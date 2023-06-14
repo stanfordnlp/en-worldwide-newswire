@@ -59,9 +59,9 @@ was	O
 brutally	O
 murdered	O
 on	O
-17	B-Misc
-June	I-Misc
-2016	I-Misc
+17	B-Date
+June	I-Date
+2016	I-Date
 ,	O
 leaving	O
 her	O
@@ -324,8 +324,8 @@ boat	O
 cruise	O
 services	O
 in	O
-March	B-Misc
-2020	I-Misc
+March	B-Date
+2020	I-Date
 due	O
 to	O
 the	O
@@ -487,8 +487,8 @@ hands	O
 of	O
 lawyers	O
 in	O
-January	B-Misc
-2021	I-Misc
+January	B-Date
+2021	I-Date
 .	O
 
 Her	O

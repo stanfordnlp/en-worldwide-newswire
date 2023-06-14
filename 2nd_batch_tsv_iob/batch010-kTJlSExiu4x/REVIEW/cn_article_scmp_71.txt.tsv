@@ -86,7 +86,7 @@ told	O
 a	O
 symposium	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 attended	O
 by	O
 local	O
@@ -408,7 +408,7 @@ spending	O
 
 In	O
 late	O
-May	B-Misc
+May	B-Date
 ,	O
 Li	B-Person
 said	O
@@ -448,9 +448,9 @@ by	O
 per	O
 cent	O
 between	O
-January	B-Misc
+January	B-Date
 and	O
-May	B-Misc
+May	B-Date
 ,	O
 according	O
 to	O
@@ -490,7 +490,7 @@ first	O
 five	O
 months	O
 of	O
-2022	B-Misc
+2022	B-Date
 ,	O
 according	O
 to	O
@@ -646,7 +646,7 @@ Nomura	B-Organization
 ,	O
 said	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 “	O

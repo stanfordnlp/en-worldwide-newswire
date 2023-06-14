@@ -149,7 +149,7 @@ girl	O
 was	O
 punished	O
 in	O
-April	B-Misc
+April	B-Date
 but	O
 the	O
 case	O
@@ -611,8 +611,8 @@ a	O
 hangover	O
 from	O
 the	O
-Meiji	B-Misc	B-Person
-Era	I-Misc
+Meiji	B-Date	B-Person
+Era	I-Date
 ,	O
 the	O
 44	O
@@ -627,8 +627,8 @@ rapid	O
 modernisation	O
 up	O
 until	O
-July	B-Misc
-1912	I-Misc
+July	B-Date
+1912	I-Date
 .	O
 
 “	O

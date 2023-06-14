@@ -46,7 +46,7 @@ Ortega	I-Person
 ,	O
 back	O
 in	O
-1990	B-Misc
+1990	B-Date
 ?	O
 
 As	O
@@ -497,7 +497,7 @@ coming	O
 ,	O
 back	O
 in	O
-2007	B-Misc
+2007	B-Date
 ,	O
 was	O
 his	O
@@ -532,7 +532,7 @@ the	O
 surprise	O
 election	O
 of	O
-1990	B-Misc
+1990	B-Date
 .	O
 Polls	O
 at	O
@@ -651,7 +651,7 @@ to	O
 regain	O
 power	O
 in	O
-2007	B-Misc
+2007	B-Date
 by	O
 elections	O
 .	O
@@ -1068,7 +1068,7 @@ of	O
 human	O
 nature	O
 in	O
-1979	B-Misc
+1979	B-Date
 ,	O
 in	O
 a	O

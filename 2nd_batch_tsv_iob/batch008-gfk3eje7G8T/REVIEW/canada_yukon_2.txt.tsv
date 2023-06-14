@@ -177,10 +177,10 @@ two	O
 day	O
 run	O
 from	O
-June	B-Misc
-26	I-Misc
-to	I-Misc
-27	I-Misc
+June	B-Date
+26	I-Date
+to	I-Date
+27	I-Date
 where	O
 it	O
 premiered	O
@@ -384,7 +384,7 @@ international	O
 stages	O
 at	O
 the	O
-2010	B-Misc
+2010	B-Date
 Olympics	B-Misc
 in	O
 Vancouver	B-Location

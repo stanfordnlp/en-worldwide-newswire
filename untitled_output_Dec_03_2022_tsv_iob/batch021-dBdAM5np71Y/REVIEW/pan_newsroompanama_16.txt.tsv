@@ -18,10 +18,10 @@ which	O
 took	O
 place	O
 on	O
-Saturday	B-Misc
-,	I-Misc
-June	I-Misc
-25	I-Misc
+Saturday	B-Date
+,	I-Date
+June	I-Date
+25	I-Date
 ,	O
 in	O
 Panama	B-Location

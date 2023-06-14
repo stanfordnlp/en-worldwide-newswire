@@ -33,7 +33,7 @@ Municipality	I-Organization
 to	O
 court	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 after	O
 being	O
 removed	O
@@ -213,7 +213,7 @@ De	B-Location	B-Person
 Villiers	I-Location	I-Person
 Street	I-Location
 since	O
-2012	B-Misc
+2012	B-Date
 and	O
 have	O
 been	O
@@ -576,7 +576,7 @@ said	O
 
 MMC	B-Organization
 for	I-Organization
-Economic	I-Organization	
+Economic	I-Organization
 Development	I-Organization
 Nkululeko	B-Person
 Mbundu	I-Person

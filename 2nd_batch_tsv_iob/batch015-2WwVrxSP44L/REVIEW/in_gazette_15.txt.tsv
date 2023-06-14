@@ -204,8 +204,8 @@ individual	O
 He	O
 also	O
 quoted	O
-11th	B-Misc
-August	I-Misc
+11th	B-Date
+August	I-Date
 speech	O
 of	O
 Jinnah	B-Person
@@ -419,7 +419,7 @@ many	O
 leaders	O
 began	O
 as	O
-Indian	B-NORP	
+Indian	B-NORP
 nationalists	O
 and	O
 later	O
@@ -588,7 +588,7 @@ a	O
 major	O
 turn	O
 after	O
-1920	B-Misc
+1920	B-Date
 s	O
 ,	O
 when	O
@@ -671,8 +671,8 @@ Jinnah	B-Person
 irrespective	O
 of	O
 his	O
-11th	B-Misc
-August	I-Misc
+11th	B-Date
+August	I-Date
 Pakistan	B-Organization	B-Location
 Constituent	I-Organization
 Assembly	I-Organization
@@ -720,7 +720,7 @@ Bal	I-Person
 Gangadhar	I-Person
 Tilak	I-Person
 (	O
-1916	B-Misc
+1916	B-Date
 )	O
 .	O
 Later	O
@@ -868,7 +868,7 @@ of	O
 Muslims	B-NORP
 .	O
 In	O
-1930	B-Misc
+1930	B-Date
 in	O
 Muslim	B-Organization	B-NORP
 League	I-Organization
@@ -899,7 +899,7 @@ In	O
 Assembly	B-Organization
 elections	O
 (	O
-1937	B-Misc
+1937	B-Date
 )	O
 Muslim	B-Organization	B-NORP
 League	I-Organization
@@ -934,7 +934,7 @@ a	O
 boost	O
 and	O
 in	O
-1940	B-Misc
+1940	B-Date
 in	O
 Muslim	B-Organization	B-NORP
 League	I-Organization

@@ -42,7 +42,7 @@ biggest	O
 tick	O
 came	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 morning	O
 in	O
 his	O
@@ -207,7 +207,7 @@ Australian	B-Misc	B-NORP
 Swimming	I-Misc
 Championships	I-Misc
 in	O
-May	B-Misc
+May	B-Date
 .	O
 
 His	O
@@ -305,7 +305,7 @@ to	O
 move	O
 through	O
 to	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ’	O
 s	O
 final	O
@@ -337,6 +337,6 @@ Australian	B-Misc	B-NORP
 National	I-Misc
 Championshps	I-Misc
 in	O
-May	B-Misc
+May	B-Date
 .	O
 

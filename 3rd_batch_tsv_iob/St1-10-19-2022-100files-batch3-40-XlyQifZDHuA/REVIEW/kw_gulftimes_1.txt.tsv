@@ -40,8 +40,8 @@ round	O
 four	O
 of	O
 the	O
-2022	B-Misc
-FIA	I-Misc
+2022	B-Date
+FIA	B-Misc
 World	I-Misc
 Cup	I-Misc
 for	O
@@ -68,7 +68,7 @@ two	O
 selective	O
 sections	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 in	O
 the	O
 latest	O
@@ -93,7 +93,7 @@ the	O
 final	O
 stage	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 .	O
 The	O
 Qatari	B-NORP
@@ -125,13 +125,13 @@ his	O
 previous	O
 victories	O
 in	O
-2008	B-Misc
+2008	B-Date
 ,	O
-2016	B-Misc
+2016	B-Date
 ,	O
-2017	B-Misc
+2017	B-Date
 and	O
-2021	B-Misc
+2021	B-Date
 .	O
 This	O
 was	O
@@ -577,7 +577,7 @@ muddy	O
 water	O
 crossing	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 afternoon	O
 .	O
 Van	B-Person
@@ -647,7 +647,7 @@ demanding	O
 selective	O
 sections	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 with	O
 the	O
@@ -1098,7 +1098,7 @@ win	O
 in	O
 Spain	B-Location
 since	O
-2008	B-Misc
+2008	B-Date
 .	O
 
 The	O
@@ -1117,7 +1117,7 @@ at	O
 the	O
 start	O
 of	O
-September	B-Misc
+September	B-Date
 .	O
 
 Final	O

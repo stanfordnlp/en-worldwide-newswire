@@ -300,10 +300,10 @@ assembly	O
 ,	O
 elected	O
 on	O
-December	B-Misc
-5	I-Misc
-,	I-Misc
-2020	I-Misc
+December	B-Date
+5	I-Date
+,	I-Date
+2020	I-Date
 ,	O
 remained	O
 divided	O
@@ -333,7 +333,7 @@ political	O
 crisis	O
 intensified	O
 in	O
-March	B-Misc
+March	B-Date
 after	O
 opposition	O
 lawmakers	O
@@ -358,7 +358,7 @@ to	O
 resign	O
 in	O
 early	O
-April	B-Misc
+April	B-Date
 after	O
 26	O
 MPs	O

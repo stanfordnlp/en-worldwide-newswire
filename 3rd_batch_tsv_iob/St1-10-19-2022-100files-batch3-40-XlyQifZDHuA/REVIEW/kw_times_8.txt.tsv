@@ -13,7 +13,7 @@ anti	O
 government	O
 campaign	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 as	O
 about	O
 20	O
@@ -68,8 +68,8 @@ the	O
 Cabinet	B-Organization
 resigned	O
 on	O
-April	B-Misc
-5	I-Misc
+April	B-Date
+5	I-Date
 ,	O
 and	O
 to	O
@@ -79,7 +79,7 @@ attempts	O
 to	O
 undermine	O
 the	O
-1962	B-Misc
+1962	B-Date
 constitution	O
 .	O
 
@@ -338,13 +338,13 @@ is	O
 to	O
 safeguard	O
 the	O
-1962	B-Misc
+1962	B-Date
 constitution	O
 and	O
 democracy	O
 .	O
 
-Monday	B-Misc
+Monday	B-Date
 ’	O
 s	O
 rally	O
@@ -479,10 +479,10 @@ stop	O
 violations	O
 during	O
 the	O
-Dec	B-Misc
-5	I-Misc
-,	I-Misc
-2020	I-Misc
+Dec	B-Date
+5	I-Date
+,	I-Date
+2020	I-Date
 parliamentary	O
 elections	O
 ,	O

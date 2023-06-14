@@ -43,7 +43,7 @@ at	O
 Garma	B-Misc
 Festival	I-Misc
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 .	O
 
 But	O
@@ -516,7 +516,7 @@ with	O
 dancers	O
 at	O
 the	O
-2022	B-Misc
+2022	B-Date
 Garma	B-Misc
 Festival	I-Misc
 opening	O
@@ -532,7 +532,7 @@ at	O
 Garma	B-Misc
 Festival	I-Misc
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 Mr	O
 Albanese	B-Person
@@ -590,7 +590,7 @@ Australia	B-Location
 "	O
 
 On	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 Mr	O
 Albanese	B-Person

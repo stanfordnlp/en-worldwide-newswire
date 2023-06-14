@@ -4,16 +4,16 @@ China	B-Location
 will	O
 host	O
 the	O
-2022	B-Misc	B-Misc
+2022	B-Misc	B-Date
 Asian	I-Misc	B-NORP
 Games	I-Misc
 in	O
-2023	B-Misc
+2023	B-Date
 ,	O
 organisers	O
 said	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 after	O
 postponing	O
@@ -35,12 +35,12 @@ held	O
 in	O
 Hangzhou	B-Location
 from	O
-September	B-Misc
-23	I-Misc
+September	B-Date
+23	I-Date
 to	O
-October	B-Misc
-8	I-Misc
-2023	I-Misc
+October	B-Date
+8	I-Date
+2023	I-Date
 ,	O
 the	O
 Olympic	B-Organization	B-Misc
@@ -62,14 +62,14 @@ to	O
 be	O
 held	O
 in	O
-September	B-Misc
+September	B-Date
 this	O
 year	O
 ,	O
 but	O
 organisers	O
 in	O
-May	B-Misc
+May	B-Date
 postponed	O
 it	O
 as	O
@@ -147,7 +147,7 @@ The	O
 OCA	B-Organization
 said	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 that	O
 the	O
 new	O
@@ -263,7 +263,7 @@ scheduled	O
 to	O
 begin	O
 in	O
-June	B-Misc
+June	B-Date
 in	O
 Chengdu	B-Location
 and	O
@@ -280,6 +280,6 @@ postponed	O
 again	O
 ,	O
 until	O
-2023	B-Misc
+2023	B-Date
 .	O
 

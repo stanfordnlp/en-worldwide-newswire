@@ -3,7 +3,7 @@ https://www.scmp.com/news/asia/south-asia/article/3186104/indias-sonia-gandhi-qu
 Indian	B-NORP
 investigators	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 summoned	O
 Sonia	B-Person
 Gandhi	I-Person
@@ -53,7 +53,7 @@ dominant	O
 party	O
 since	O
 the	O
-1991	B-Misc
+1991	B-Date
 assassination	O
 of	O
 her	O
@@ -191,7 +191,7 @@ stop	O
 ”	O
 Congress	B-Organization
 tweeted	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 Gandhi	B-Person
@@ -242,7 +242,7 @@ for	O
 several	O
 days	O
 in	O
-June	B-Misc
+June	B-Date
 over	O
 the	O
 same	O
@@ -250,7 +250,7 @@ allegations	O
 .	O
 
 On	O
-Thursday	B-Misc
+Thursday	B-Date
 ,	O
 Sonia	B-Person
 was	O
@@ -296,7 +296,7 @@ issued	O
 a	O
 joint	O
 statement	O
-Thursday	B-Misc
+Thursday	B-Date
 condemning	O
 the	O
 investigation	O

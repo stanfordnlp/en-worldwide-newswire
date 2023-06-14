@@ -83,7 +83,7 @@ the	O
 armed	O
 conflict	O
 of	O
-1994	B-Misc
+1994	B-Date
 between	O
 the	O
 Zapatista	B-Organization
@@ -175,9 +175,9 @@ possession	O
 after	O
 7:00 p.m.	O
 from	O
-Monday	B-Misc
+Monday	B-Date
 to	O
-Sunday	B-Misc
+Sunday	B-Date
 and	O
 leave	O
 the	O
@@ -234,9 +234,9 @@ in	O
 the	O
 morning	O
 from	O
-Monday	B-Misc
+Monday	B-Date
 to	O
-Sunday	B-Misc
+Sunday	B-Date
 
 The	O
 three	O
@@ -256,9 +256,9 @@ in	O
 the	O
 morning	O
 from	O
-Monday	B-Misc
+Monday	B-Date
 to	O
-Sunday	B-Misc
+Sunday	B-Date
 and	O
 leave	O
 around	O
@@ -403,9 +403,9 @@ in	O
 the	O
 morning	O
 from	O
-Monday	B-Misc
+Monday	B-Date
 to	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 In	O
@@ -607,8 +607,8 @@ on	O
 the	O
 corner	O
 of	O
-August	B-Misc
-28	I-Misc
+August	B-Date
+28	I-Date
 ,	O
 at	O
 that	O

@@ -154,7 +154,7 @@ Hillcrest	B-Organization
 International	I-Organization
 School	I-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 The	O
@@ -231,8 +231,8 @@ elated	O
 Itoje	B-Person
 ,	O
 the	O
-2019	B-Misc
-Rugby	I-Misc
+2019	B-Date
+Rugby	B-Misc
 World	I-Misc
 Cup	I-Misc
 finalist	O
@@ -350,7 +350,7 @@ KRDA	B-Organization
 ,	O
 founded	O
 in	O
-2014	B-Misc
+2014	B-Date
 ,	O
 will	O
 partner	O

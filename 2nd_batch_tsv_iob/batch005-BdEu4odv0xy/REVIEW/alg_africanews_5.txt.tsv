@@ -5,7 +5,7 @@ Spain	B-Location
 economy	O
 minister	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 linked	O
 Algeria	B-Location
 's	O
@@ -105,7 +105,7 @@ treaty	O
 with	O
 Spain	B-Location
 last	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 The	O
@@ -144,7 +144,7 @@ movement	O
 .	O
 
 On	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 the	O
 EU	B-Organization
@@ -207,7 +207,7 @@ Algerian	B-Organization	B-NORP
 Foreign	I-Organization
 Ministry	I-Organization
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 called	O
 the	O
 European	B-NORP
@@ -430,7 +430,7 @@ annexed	O
 by	O
 Morocco	B-Location
 in	O
-1975	B-Misc
+1975	B-Date
 .	O
 Since	O
 then	O

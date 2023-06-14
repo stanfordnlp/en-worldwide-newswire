@@ -86,7 +86,7 @@ than	O
 110,000	O
 nationwide	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 amid	O
 the	O
 spread	O
@@ -106,7 +106,7 @@ infections	O
 were	O
 reported	O
 nationwide	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 almost	O
 double	O
@@ -132,7 +132,7 @@ The	O
 health	O
 ministry	O
 said	O
-Monday	B-Misc
+Monday	B-Date
 the	O
 number	O
 of	O
@@ -274,7 +274,7 @@ started	O
 increasing	O
 in	O
 late	O
-June	B-Misc
+June	B-Date
 .	O
 The	O
 figure	O
@@ -417,7 +417,7 @@ the	O
 4,000	O
 level	O
 in	O
-February	B-Misc
+February	B-Date
 during	O
 the	O
 sixth	O
@@ -431,7 +431,7 @@ around	O
 in	O
 mid	O
 -	O
-June	B-Misc
+June	B-Date
 ,	O
 but	O
 surged	O
@@ -439,8 +439,8 @@ to	O
 around	O
 2,000	O
 on	O
-July	B-Misc
-12	I-Misc
+July	B-Date
+12	I-Date
 .	O
 The	O
 hospital	O
@@ -598,7 +598,7 @@ level	O
 .	O
 
 On	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 the	O
 number	O
@@ -734,7 +734,7 @@ emergency	O
 news	O
 conference	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 in	O
 the	O
 town	O

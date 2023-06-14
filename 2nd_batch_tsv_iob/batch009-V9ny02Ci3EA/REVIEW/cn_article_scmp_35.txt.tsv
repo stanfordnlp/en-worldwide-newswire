@@ -60,7 +60,7 @@ set	O
 up	O
 booths	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ahead	O
 of	O
 the	O
@@ -436,7 +436,7 @@ years	O
 .	O
 
 In	O
-April	B-Misc
+April	B-Date
 ,	O
 the	O
 founder	O
@@ -465,7 +465,7 @@ illegal	O
 assemblies	O
 during	O
 the	O
-2019	B-Misc
+2019	B-Date
 social	O
 unrest	O
 .	O
@@ -483,7 +483,7 @@ the	O
 city	O
 ’	O
 s	O
-2019	B-Misc
+2019	B-Date
 social	O
 unrest	O
 and	O
@@ -498,7 +498,7 @@ civil	O
 disobedience	O
 movement	O
 in	O
-2014	B-Misc
+2014	B-Date
 .	O
 
 When	O
@@ -647,7 +647,7 @@ event	O
 ,	O
 organisers	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 will	O
 host	O
 a	O
@@ -744,10 +744,10 @@ will	O
 be	O
 held	O
 from	O
-July	B-Misc
-20	I-Misc
-to	I-Misc
-26	I-Misc
+July	B-Date
+20	I-Date
+to	I-Date
+26	I-Date
 ,	O
 alongside	O
 the	O

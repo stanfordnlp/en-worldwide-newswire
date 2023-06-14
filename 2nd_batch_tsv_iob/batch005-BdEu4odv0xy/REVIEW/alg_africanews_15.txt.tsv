@@ -17,7 +17,7 @@ League	I-Misc
 Group	B-Misc
 C	I-Misc
 on	O
-Friday	B-Misc
+Friday	B-Date
 and	O
 on	O
 the	O
@@ -172,8 +172,8 @@ met	O
 in	O
 Francistown	B-Location
 on	O
-26th	B-Misc
-February	I-Misc
+26th	B-Date
+February	I-Date
 in	O
 the	O
 reverse	O

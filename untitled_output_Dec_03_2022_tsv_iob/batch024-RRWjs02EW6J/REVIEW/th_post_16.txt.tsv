@@ -14,7 +14,7 @@ leader	O
 Prawit	B-Person
 Wongsuwon	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 cleared	O
 the	O
 air	O
@@ -147,7 +147,7 @@ actions	O
 
 Before	O
 the	O
-Saturday	B-Misc
+Saturday	B-Date
 vote	O
 took	O
 place	O

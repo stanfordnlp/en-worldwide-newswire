@@ -3,8 +3,8 @@ http://www.afrol.com/articles/38385	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-15	B-Misc
-October	I-Misc
+15	B-Date
+October	I-Date
 -	O
 As	O
 Malawi	B-Location
@@ -401,7 +401,7 @@ time	O
 
 "	O
 Since	O
-2011	B-Misc
+2011	B-Date
 ,	O
 the	O
 country	O

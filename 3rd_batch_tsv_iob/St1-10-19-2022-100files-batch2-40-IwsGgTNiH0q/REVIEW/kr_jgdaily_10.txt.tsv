@@ -32,7 +32,7 @@ suicide	O
 ,	O
 police	O
 said	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 Cho	B-Person
@@ -42,8 +42,8 @@ parents	O
 were	O
 found	O
 dead	O
-June	B-Misc
-29	I-Misc
+June	B-Date
+29	I-Date
 in	O
 a	O
 car	O
@@ -65,8 +65,8 @@ reported	O
 Cho	B-Person
 missing	O
 on	O
-June	B-Misc
-22	I-Misc
+June	B-Date
+22	I-Date
 when	O
 she	O
 didn	O
@@ -97,11 +97,11 @@ trip	O
 to	O
 Jeju	B-Location
 from	O
-May	B-Misc
-19	I-Misc
+May	B-Date
+19	I-Date
 to	O
-June	B-Misc
-15	I-Misc
+June	B-Date
+15	I-Date
 .	O
 
 The	O
@@ -115,8 +115,8 @@ guesthouse	O
 in	O
 Wando	B-Location
 on	O
-May	B-Misc
-30	I-Misc
+May	B-Date
+30	I-Date
 .	O
 
 Footage	O
@@ -129,8 +129,8 @@ on	O
 the	O
 night	O
 of	O
-May	B-Misc
-30	I-Misc
+May	B-Date
+30	I-Date
 showed	O
 Cho	B-Person
 ’	O

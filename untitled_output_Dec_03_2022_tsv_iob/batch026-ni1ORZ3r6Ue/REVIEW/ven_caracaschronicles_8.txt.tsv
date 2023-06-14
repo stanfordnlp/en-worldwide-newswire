@@ -388,7 +388,7 @@ protest	O
 they	O
 hold	O
 every	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 or	O
 twice	O
@@ -1063,11 +1063,11 @@ Centro	B-Organization
 Gumilla	I-Organization
 ,	O
 between	O
-January	B-Misc
-2015	I-Misc
+January	B-Date
+2015	I-Date
 and	O
-June	B-Misc
-2021	I-Misc
+June	B-Date
+2021	I-Date
 ,	O
 7,810	O
 people	O
@@ -1125,7 +1125,7 @@ explains	O
 “	O
 In	O
 the	O
-‘80s	B-Misc
+‘80s	B-Date
 ,	O
 extrajudicial	O
 executions	O
@@ -1264,7 +1264,7 @@ profile	O
 ”	O
 
 In	O
-2013	B-Misc
+2013	B-Date
 ,	O
 the	O
 CICPC	B-Organization
@@ -1487,7 +1487,7 @@ Aracelys	B-Person
 .	O
 
 In	O
-2014	B-Misc
+2014	B-Date
 ,	O
 this	O
 change	O
@@ -1536,7 +1536,7 @@ today	O
 .	O
 
 In	O
-2017	B-Misc
+2017	B-Date
 ,	O
 Guillermo	B-Person
 was	O
@@ -1657,7 +1657,7 @@ first	O
 six	O
 months	O
 of	O
-2019	B-Misc
+2019	B-Date
 ,	O
 according	O
 to	O
@@ -1693,7 +1693,7 @@ semester	O
 ,	O
 and	O
 in	O
-August	B-Misc
+August	B-Date
 of	O
 that	O
 same	O
@@ -1799,7 +1799,7 @@ Venezuela	I-Organization	B-Location
 and	O
 not	O
 Alfavic	B-Organization
-2017	B-Misc
+2017	B-Date
 ,	O
 because	O
 we	O
@@ -1814,7 +1814,7 @@ youngsters	O
 killed	O
 during	O
 the	O
-2017	B-Misc
+2017	B-Date
 protests	O
 .	O
 We	O
@@ -1938,7 +1938,7 @@ killed	O
 ”	O
 
 In	O
-2021	B-Misc
+2021	B-Date
 ,	O
 Lupa	B-Organization
 por	I-Organization
@@ -2588,12 +2588,12 @@ complements	O
 that	O
 of	O
 the	O
-2014	B-Misc
+2014	B-Date
 ,	O
-2015	B-Misc
+2015	B-Date
 ,	O
 and	O
-2017	B-Misc
+2017	B-Date
 protests	O
 .	O
 In	O

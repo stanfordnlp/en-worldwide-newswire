@@ -259,7 +259,7 @@ humiliating	O
 defeat	O
 in	O
 the	O
-2012	B-Misc
+2012	B-Date
 UP	B-Location
 elections	O
 .	O
@@ -344,7 +344,7 @@ rested	O
 Just	O
 when	O
 the	O
-2014	B-Misc
+2014	B-Date
 Lok	B-Person
 Sabha	I-Person
 election	O
@@ -789,7 +789,7 @@ blown	O
 to	O
 smithereens	O
 in	O
-2019	B-Misc
+2019	B-Date
 but	O
 …	O
 …	O
@@ -873,8 +873,8 @@ to	O
 Sonia	B-Person
 Gandhi	I-Person
 in	O
-August	B-Misc
-2020	I-Misc
+August	B-Date
+2020	I-Date
 .	O
 Please	O
 take	O
@@ -901,8 +901,8 @@ will	O
 hold	O
 elections	O
 in	O
-May	B-Misc
-2021	I-Misc
+May	B-Date
+2021	I-Date
 .	O
 Maybe	O
 ,	O
@@ -933,7 +933,7 @@ crossed	O
 .	O
 Come	O
 the	O
-May	B-Misc
+May	B-Date
 elections	O
 and	O
 ,	O
@@ -1012,7 +1012,7 @@ opposition	O
 gameplan	O
 for	O
 the	O
-2024	B-Misc
+2024	B-Date
 general	O
 elections	O
 .	O
@@ -1154,7 +1154,7 @@ no	O
 strategy	O
 for	O
 the	O
-2024	B-Misc
+2024	B-Date
 elections	O
 .	O
 

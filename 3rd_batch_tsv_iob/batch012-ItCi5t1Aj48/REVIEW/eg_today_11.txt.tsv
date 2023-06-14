@@ -2,9 +2,9 @@ https://www.egypttoday.com/Article/3/117777/Gov-t-attaches-prior-attention-to-en
 
 CAIRO	B-Location
 -	O
-21	B-Misc
-July	I-Misc
-2022	I-Misc
+21	B-Date
+July	I-Date
+2022	I-Date
 :	O
 The	O
 government	O
@@ -103,7 +103,7 @@ cabinet	O
 meeting	O
 held	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 The	O
@@ -149,7 +149,7 @@ since	O
 the	O
 beginning	O
 of	O
-2022	B-Misc
+2022	B-Date
 ,	O
 in	O
 light	O

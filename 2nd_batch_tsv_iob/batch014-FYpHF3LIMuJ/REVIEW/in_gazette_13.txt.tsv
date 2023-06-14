@@ -355,7 +355,7 @@ Omicron	B-Misc
 virus	O
 peaking	O
 in	O
-February	B-Location
+February	B-Date
 .	O
 Surely	O
 this	O
@@ -786,8 +786,8 @@ primarily	O
 set	O
 on	O
 the	O
-2024	B-Misc
-General	I-Misc
+2024	B-Date
+General	B-Misc
 Elections	I-Misc
 .	O
 Towards	O
@@ -887,14 +887,14 @@ He	O
 took	O
 charge	O
 on	O
-October	B-Misc
-7	I-Misc
+October	B-Date
+7	I-Date
 as	O
 Chief	O
 Minister	O
 .	O
-October	B-Misc
-7	I-Misc
+October	B-Date
+7	I-Date
 turned	O
 out	O
 to	O
@@ -1138,7 +1138,7 @@ may	O
 loosen	O
 further	O
 as	O
-2024	B-Misc
+2024	B-Date
 approaches	O
 .	O
 

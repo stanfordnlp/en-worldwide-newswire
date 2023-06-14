@@ -17,10 +17,10 @@ and	O
 will	O
 continue	O
 until	O
-August	B-Misc
-10	I-Misc
-,	I-Misc
-2022	I-Misc
+August	B-Date
+10	I-Date
+,	I-Date
+2022	I-Date
 .	O
 
 It	O
@@ -317,7 +317,7 @@ to	O
 daily	O
 .	O
 On	O
-Fridays	B-Misc
+Fridays	B-Date
 ,	O
 it	O
 will	O

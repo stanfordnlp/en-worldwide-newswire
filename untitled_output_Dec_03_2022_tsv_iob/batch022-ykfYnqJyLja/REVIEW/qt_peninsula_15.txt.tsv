@@ -94,8 +94,8 @@ which	O
 is	O
 marked	O
 on	O
-July	B-Misc
-14	I-Misc
+July	B-Date
+14	I-Date
 .	O
 
 “	O
@@ -149,8 +149,8 @@ as	O
 the	O
 Ambassador	O
 since	O
-September	B-Misc
-2021	I-Misc
+September	B-Date
+2021	I-Date
 .	O
 
 “	O
@@ -495,7 +495,7 @@ the	O
 success	O
 of	O
 the	O
-2022	B-Misc	B-Misc
+2022	B-Misc	B-Date
 FIFA	I-Misc	B-Organization
 World	I-Misc
 Cup	I-Misc
@@ -525,7 +525,7 @@ Asian	I-Misc	B-NORP
 Games	I-Misc
 .	O
 During	O
-2022	B-Misc	B-Misc
+2022	B-Misc	B-Date
 FIFA	I-Misc	B-Organization
 World	I-Misc
 Cup	I-Misc
@@ -570,12 +570,12 @@ Rugby	B-Misc
 World	I-Misc
 Cup	I-Misc
 in	O
-2023	B-Misc
+2023	B-Date
 and	O
 Olympic	B-Misc
 games	I-Misc
 in	O
-2024	B-Misc
+2024	B-Date
 )	O
 a	O
 success	O
@@ -884,7 +884,7 @@ Orientalist	B-Location
 Museum	I-Location
 ,	O
 by	O
-2027	B-Misc
+2027	B-Date
 ,	O
 and	O
 the	O
@@ -893,7 +893,7 @@ Mill	I-Location
 Museum	I-Location
 planned	O
 for	O
-2028	B-Misc
+2028	B-Date
 .	O
 We	O
 have	O

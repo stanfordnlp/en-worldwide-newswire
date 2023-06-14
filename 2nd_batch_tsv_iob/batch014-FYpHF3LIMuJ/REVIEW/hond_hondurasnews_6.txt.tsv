@@ -565,7 +565,7 @@ only	O
 108	O
 on	O
 a	O
-2001	B-Misc
+2001	B-Date
 census	O
 .	O
 Managed	O
@@ -906,7 +906,7 @@ begun	O
 during	O
 the	O
 early	O
-1600	B-Misc
+1600	B-Date
 ’	O
 s	O
 on	O
@@ -919,7 +919,7 @@ St	B-Location
 Vincent	I-Location
 .	O
 In	O
-1635	B-Misc
+1635	B-Date
 ,	O
 two	O
 Spanish	B-NORP
@@ -995,10 +995,10 @@ a	O
 final	O
 battle	O
 on	O
-June	B-Misc
-10th	I-Misc
-,	I-Misc
-1796	I-Misc
+June	B-Date
+10th	I-Date
+,	I-Date
+1796	I-Date
 .	O
 The	O
 French	B-NORP
@@ -1066,7 +1066,7 @@ brief	O
 civil	O
 war	O
 in	O
-1832	B-Misc
+1832	B-Date
 found	O
 the	O
 Caribs	B-NORP
@@ -1103,7 +1103,7 @@ nearby	O
 Bay	B-Location
 Islands	I-Location
 in	O
-1965	B-Misc
+1965	B-Date
 .	O
 They	O
 have	O

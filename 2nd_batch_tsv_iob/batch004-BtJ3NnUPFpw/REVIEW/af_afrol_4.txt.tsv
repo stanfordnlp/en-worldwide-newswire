@@ -3,8 +3,8 @@ http://www.afrol.com/articles/37236	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-5	B-Misc
-February	I-Misc
+5	B-Date
+February	I-Date
 -	O
 Central	B-NORP
 African	I-NORP
@@ -51,7 +51,7 @@ African	I-Location	I-NORP
 Republic	I-Location
 already	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 announced	O
 that	O
 incumbent	O
@@ -64,8 +64,8 @@ presidential	O
 elections	O
 outright	O
 in	O
-23	B-Misc
-January	I-Misc
+23	B-Date
+January	I-Date
 first	O
 round	O
 .	O
@@ -152,7 +152,7 @@ general	O
 Bozizé	B-Person
 in	O
 a	O
-2003	B-Misc
+2003	B-Date
 coup	O
 ,	O
 had	O
@@ -242,7 +242,7 @@ suspiciously	O
 close	O
 to	O
 the	O
-2005	B-Misc
+2005	B-Date
 presidential	O
 elections	O
 ,	O

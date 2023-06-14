@@ -45,7 +45,7 @@ the	O
 driver	O
 announced	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 “	O
@@ -387,8 +387,8 @@ up	O
 for	O
 sale	O
 on	O
-March	B-Misc
-2	I-Misc
+March	B-Date
+2	I-Date
 by	O
 Abramovich	B-Person
 ,	O

@@ -66,7 +66,7 @@ in	O
 the	O
 winter	O
 of	O
-2022	B-Misc
+2022	B-Date
 in	O
 KAUST	B-Organization
 ’s	O
@@ -341,7 +341,7 @@ in	O
 the	O
 winter	O
 of	O
-2022	B-Misc
+2022	B-Date
 in	O
 KAUST	B-Organization
 ’	O
@@ -375,8 +375,8 @@ part	O
 of	O
 KAUST	B-Organization
 's	O
-2022	B-Misc
-Winter	I-Misc
+2022	B-Date
+Winter	B-Misc
 Enrichment	I-Misc
 Program	I-Misc
 (	O
@@ -453,7 +453,7 @@ The	O
 WEP	B-Misc
 theme	O
 for	O
-2022	B-Misc
+2022	B-Date
 was	O
 resilience	O
 ,	O
@@ -681,9 +681,9 @@ around	O
 45	O
 percent	O
 between	O
-2005	B-Misc
+2005	B-Date
 and	O
-2020	B-Misc
+2020	B-Date
 ,	O
 "	O
 Omar	B-Person

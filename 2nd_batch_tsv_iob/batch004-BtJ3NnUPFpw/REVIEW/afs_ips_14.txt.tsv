@@ -2,9 +2,9 @@ https://www.ipsnews.net/2022/05/youth-survivors-activists-will-hold-governments-
 
 DURBAN	B-Location
 ,	O
-May	B-Misc
-20	I-Misc
-2022	I-Misc
+May	B-Date
+20	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -114,12 +114,12 @@ in	O
 the	O
 city	O
 from	O
-May	B-Misc
-15	I-Misc
-to	I-Misc
-20	I-Misc
-,	I-Misc
-2022	I-Misc
+May	B-Date
+15	I-Date
+to	I-Date
+20	I-Date
+,	I-Date
+2022	I-Date
 .	O
 Sessions	O
 and	O
@@ -154,7 +154,7 @@ the	O
 closing	O
 ceremony	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 International	B-Location
 Organisation	I-Location
@@ -362,10 +362,10 @@ his	O
 new	O
 position	O
 on	O
-October	B-Misc
-1	I-Misc
-,	I-Misc
-2022	I-Misc
+October	B-Date
+1	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 strategically	O
 positioning	O
@@ -514,7 +514,7 @@ latest	O
 statistics	O
 released	O
 in	O
-2020	B-Misc
+2020	B-Date
 ,	O
 highlighted	O
 at	O

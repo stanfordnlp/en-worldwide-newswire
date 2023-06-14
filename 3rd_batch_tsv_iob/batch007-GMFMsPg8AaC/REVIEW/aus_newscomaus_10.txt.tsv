@@ -339,7 +339,7 @@ the	O
 state	O
 up	O
 until	O
-Wednesday	B-Misc
+Wednesday	B-Date
 bringing	O
 showers	O
 ,	O
@@ -386,14 +386,14 @@ mm	O
 of	O
 rain	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 and	O
 up	O
 to	O
 20	O
 mm	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 with	O
 possible	O
 storms	O
@@ -431,9 +431,9 @@ around	O
 60	O
 mm	O
 between	O
-Tuesday	B-Misc
+Tuesday	B-Date
 and	O
-Thursday	B-Misc
+Thursday	B-Date
 and	O
 some	O
 parts	O
@@ -583,7 +583,7 @@ the	O
 day	O
 and	O
 early	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 and	O
 then	O
@@ -604,7 +604,7 @@ mm	O
 of	O
 rain	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 with	O
 potentially	O
 damaging	O
@@ -624,7 +624,7 @@ less	O
 of	O
 it	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 and	O
 then	O
 the	O
@@ -633,9 +633,9 @@ will	O
 come	O
 through	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 and	O
-Friday	B-Misc
+Friday	B-Date
 bringing	O
 up	O
 to	O
@@ -695,7 +695,7 @@ clear	O
 in	O
 Melbourne	B-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 before	O
 the	O
 wind	O
@@ -769,13 +769,13 @@ cloudy	O
 in	O
 Hobart	B-Location
 in	O
-Tuesday	B-Misc
+Tuesday	B-Date
 with	O
 some	O
 scattered	O
 showers	O
 from	O
-Wednesday	B-Misc
+Wednesday	B-Date
 onwards	O
 .	O
 
@@ -796,7 +796,7 @@ mm	O
 of	O
 rain	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 alone	O
 ,	O
 and	O
@@ -805,7 +805,7 @@ further	O
 15	O
 mm	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 “	O
@@ -819,15 +819,15 @@ southern	B-Location
 Murray	I-Location
 basin	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 and	O
-Thursday	B-Misc
+Thursday	B-Date
 and	O
 by	O
 late	O
-Thursday	B-Misc
+Thursday	B-Date
 or	O
-Friday	B-Misc
+Friday	B-Date
 it	O
 ’	O
 s	O
@@ -869,20 +869,20 @@ at	O
 calm	O
 conditions	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 then	O
 showers	O
 increasing	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 before	O
 downfalls	O
 of	O
 50-70	O
 mm	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 as	O
 that	O
 system	O
@@ -912,13 +912,13 @@ mm	O
 of	O
 rain	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 and	O
 then	O
 20-35	O
 mm	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 Prepare	O
 for	O
@@ -932,9 +932,9 @@ in	O
 Wagga	B-Location
 Wagga	I-Location
 across	O
-Wednesday	B-Misc
+Wednesday	B-Date
 and	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 Sydney	B-Location
@@ -952,7 +952,7 @@ with	O
 some	O
 showers	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 and	O
 then	O
 mostly	O
@@ -983,9 +983,9 @@ see	O
 50	O
 mm	O
 from	O
-Thursday	B-Misc
+Thursday	B-Date
 to	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 Some	O
@@ -1014,7 +1014,7 @@ mm	O
 of	O
 rain	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 Little	O
@@ -1044,7 +1044,7 @@ to	O
 27	O
 C	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 But	O
 some	O

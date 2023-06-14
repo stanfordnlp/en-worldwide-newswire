@@ -477,8 +477,8 @@ SKW	B-Organization
 in	O
 Windhoek	B-Location
 on	O
-24	B-Misc
-September	I-Misc
+24	B-Date
+September	I-Date
 .	O
 
 Meanwhile	O
@@ -487,8 +487,8 @@ in	O
 preparation	O
 of	O
 the	O
-2023	B-Misc
-Fistball	I-Misc
+2023	B-Date
+Fistball	B-Misc
 World	I-Misc
 Championships	I-Misc
 hosted	O
@@ -509,7 +509,7 @@ camp	O
 in	O
 Windhoek	B-Location
 on	O
-20	B-Misc
-August	I-Misc
+20	B-Date
+August	I-Date
 .	O
 

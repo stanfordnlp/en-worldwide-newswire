@@ -1434,8 +1434,8 @@ after	O
 working	O
 a	O
 tiring	O
-Christmas	B-Misc
-Day	I-Misc
+Christmas	B-Date
+Day	I-Date
 at	O
 Mercado	B-Organization
 del	I-Organization

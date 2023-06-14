@@ -76,7 +76,7 @@ debate	O
 in	O
 parliament	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 "	O
@@ -812,7 +812,7 @@ Ratsadon	B-Organization
 protest	O
 group	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 set	O
 up	O
 camp	O

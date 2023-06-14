@@ -26,7 +26,7 @@ research	O
 ,	O
 compared	O
 to	O
-2021	B-Misc
+2021	B-Date
 ,	O
 Esports	O
 audiences	O
@@ -124,8 +124,8 @@ FIFA	B-Organization
 will	O
 hold	O
 the	O
-2022	B-Misc
-FIFAe	I-Misc
+2022	B-Date
+FIFAe	B-Misc
 World	I-Misc
 Cup	I-Misc
 in	O
@@ -467,8 +467,8 @@ kicked	O
 off	O
 activities	O
 on	O
-July	B-Misc
-8th	I-Misc
+July	B-Date
+8th	I-Date
 with	O
 an	O
 exhibition	O
@@ -1044,7 +1044,7 @@ the	O
 Jesuits	B-NORP
 in	O
 the	O
-1950	B-Misc
+1950	B-Date
 s	O
 ,	O
 with	O

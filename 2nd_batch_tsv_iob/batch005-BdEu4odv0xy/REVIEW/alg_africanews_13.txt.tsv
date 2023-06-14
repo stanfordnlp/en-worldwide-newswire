@@ -30,7 +30,7 @@ qualifying	O
 campaign	O
 for	O
 the	O
-2023	B-Misc	B-Misc
+2023	B-Misc	B-Date
 Africa	I-Misc
 Cup	I-Misc
 of	I-Misc
@@ -60,14 +60,14 @@ disastrous	O
 defence	O
 of	O
 their	O
-2019	B-Misc	B-Misc
+2019	B-Misc	B-Date
 AFCON	I-Misc
 title	O
 .	O
 
 At	O
 the	O
-2021	B-Misc
+2021	B-Date
 edition	O
 of	O
 the	O
@@ -98,7 +98,7 @@ Looking	O
 ahead	O
 to	O
 the	O
-2023	B-Misc
+2023	B-Date
 tournament	O
 ,	O
 Belmadi	B-Person
@@ -253,7 +253,7 @@ to	O
 qualify	O
 for	O
 the	O
-2022	B-Misc	B-Misc
+2022	B-Misc	B-Date
 FIFA	I-Misc	B-Organization
 World	I-Misc
 Cup	I-Misc

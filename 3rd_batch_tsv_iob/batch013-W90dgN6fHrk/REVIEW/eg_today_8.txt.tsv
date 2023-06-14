@@ -2,9 +2,9 @@ https://www.egypttoday.com/Article/3/117868/PM-urges-private-sector-to-benefit-f
 
 CAIRO	B-Location
 -	O
-25	B-Misc
-July	I-Misc
-2022	I-Misc
+25	B-Date
+July	I-Date
+2022	I-Date
 :	O
 The	O
 private	O
@@ -52,7 +52,7 @@ Minister	O
 Mostafa	B-Person
 Madbouli	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Madbouli	B-Person

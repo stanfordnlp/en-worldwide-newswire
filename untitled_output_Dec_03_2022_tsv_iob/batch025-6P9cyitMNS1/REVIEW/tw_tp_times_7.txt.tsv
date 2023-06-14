@@ -61,9 +61,9 @@ mayoral	O
 candidate	O
 for	O
 the	O
-Nov	B-Misc
-.	I-Misc
-26	I-Misc
+Nov	B-Date
+.	I-Date
+26	I-Date
 election	O
 ,	O
 obtained	O
@@ -370,7 +370,7 @@ are	O
 taken	O
 from	O
 a	O
-2014	B-Misc
+2014	B-Date
 study	O
 titled	O
 “	O

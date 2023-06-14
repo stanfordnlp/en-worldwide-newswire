@@ -12,8 +12,8 @@ appear	O
 before	O
 court	O
 on	O
-August	B-Misc
-27	I-Misc
+August	B-Date
+27	I-Date
 in	O
 relation	O
 to	O
@@ -36,7 +36,7 @@ charge	O
 sheet	O
 against	O
 the	O
-National	B-Organization	
+National	B-Organization
 Conference	I-Organization
 (	O
 NC	B-Organization
@@ -100,8 +100,8 @@ before	O
 the	O
 court	O
 on	O
-August	B-Misc
-27	I-Misc
+August	B-Date
+27	I-Date
 .	O
 
 Divulging	O
@@ -140,7 +140,7 @@ PC	B-Misc
 under	O
 PMLA	B-Misc
 ,	I-Misc
-2002	I-Misc
+2002	B-Date
 ,	O
 before	O
 the	O
@@ -158,9 +158,9 @@ Abdullah	I-Person
 and	O
 others	O
 on	O
-4/6	B-Misc
-/	I-Misc
-2022	I-Misc
+4/6	B-Date
+/	I-Date
+2022	I-Date
 .	O
 Court	O
 has	O
@@ -182,7 +182,7 @@ before	O
 the	O
 court	O
 on	O
-27.08.2022	B-Misc
+27.08.2022	B-Date
 .	O
 ”	O
 
@@ -196,7 +196,7 @@ during	O
 the	O
 probe	O
 in	O
-May	B-Misc
+May	B-Date
 ,	O
 with	O
 the	O
@@ -228,9 +228,9 @@ in	O
 Jammu	B-Location
 back	O
 in	O
-2019	B-Misc
+2019	B-Date
 and	O
-2020	B-Misc
+2020	B-Date
 .	O
 
 The	O
@@ -344,8 +344,8 @@ worth	O
 ₹	B-Money
 11.86	I-Money
 in	O
-December	B-Misc
-2020	I-Misc
+December	B-Date
+2020	I-Date
 ,	O
 prompting	O
 the	O
@@ -445,6 +445,6 @@ Delhi	I-Location
 ,	O
 back	O
 in	O
-May	B-Misc
+May	B-Date
 .	O
 

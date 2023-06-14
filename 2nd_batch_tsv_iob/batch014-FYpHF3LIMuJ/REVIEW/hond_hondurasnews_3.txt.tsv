@@ -148,7 +148,7 @@ made	O
 in	O
 the	O
 year	O
-1100	B-Misc
+1100	B-Date
 ,	O
 which	O
 is	O
@@ -193,7 +193,7 @@ in	O
 Holy	B-Misc
 Week	I-Misc
 (	O
-Easter	B-Misc
+Easter	B-Date
 or	O
 as	O
 we	O
@@ -295,7 +295,7 @@ before	O
 the	O
 time	O
 of	O
-Christ	B-Person
+Christ	B-Date
 ;	O
 just	O
 minutes	O

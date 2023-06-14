@@ -92,10 +92,10 @@ the	O
 magnificant	O
 painting	O
 on	O
-April	B-Misc
-9	I-Misc
-,	I-Misc
-2022	I-Misc
+April	B-Date
+9	I-Date
+,	I-Date
+2022	I-Date
 .	O
 
 Lama	B-Person

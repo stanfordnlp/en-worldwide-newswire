@@ -10,7 +10,7 @@ Court	I-Organization
 in	O
 Pretoria	B-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 dismissed	O
 an	O
 urgent	O
@@ -279,7 +279,7 @@ Isandlwana	I-Misc	B-Location
 in	I-Misc	I-Location
 Nquthu	I-Misc	I-Location
 in	O
-January	B-Misc
+January	B-Date
 this	O
 year	O
 .	O

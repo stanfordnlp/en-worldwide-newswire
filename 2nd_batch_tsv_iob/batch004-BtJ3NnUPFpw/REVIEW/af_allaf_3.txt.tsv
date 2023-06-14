@@ -13,10 +13,10 @@ voters	O
 in	O
 Tunisia	B-Location
 's	O
-July	B-Misc
-25	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+25	I-Date
+,	I-Date
+2022	I-Date
 referendum	O
 backed	O
 a	O
@@ -159,7 +159,7 @@ whom	O
 polling	O
 began	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 .	O
 
 Opposition	O

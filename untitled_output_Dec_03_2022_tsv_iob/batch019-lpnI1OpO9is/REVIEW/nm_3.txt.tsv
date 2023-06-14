@@ -124,7 +124,7 @@ the	O
 following	O
 :	O
 In	O
-2014	B-Misc
+2014	B-Date
 at	O
 the	O
 Commonwealth	B-Misc
@@ -145,7 +145,7 @@ the	O
 same	O
 at	O
 the	O
-2015	B-Misc
+2015	B-Date
 Youth	B-Misc
 Olympic	I-Misc
 Games	I-Misc
@@ -165,7 +165,7 @@ Tokyo	I-Misc	B-Location
 Olympics	I-Misc
 .	I-Misc
 In	O
-2016	B-Misc
+2016	B-Date
 Advocate	O
 Jesse	B-Person
 Schickerling	I-Person
@@ -189,7 +189,7 @@ de	O
 mission	O
 at	O
 the	O
-2018	B-Misc
+2018	B-Date
 Commonwealth	B-Misc
 Games	I-Misc
 at	O
@@ -310,7 +310,7 @@ Hamhola	I-Person
 said	O
 that	O
 a	O
-2017	B-Misc
+2017	B-Date
 investigation	O
 into	O
 racism	O
@@ -356,7 +356,7 @@ will	O
 know	O
 that	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 the	O
 whole	O
 board	O
@@ -452,9 +452,9 @@ Shikongo	B-Person
 “	O
 On	O
 the	O
-14th	B-Misc
-of	I-Misc
-June	I-Misc
+14th	B-Date
+of	I-Date
+June	I-Date
 the	O
 Namibia	B-Organization	B-Location
 Paralympic	I-Organization
@@ -616,7 +616,7 @@ the	O
 Namibian	B-NORP
 team	O
 in	O
-2004	B-Misc
+2004	B-Date
 to	O
 the	O
 Athens	B-Misc
@@ -661,7 +661,7 @@ London	B-Misc	B-Location
 Olympic	I-Misc
 Games	I-Misc
 in	O
-2012	B-Misc
+2012	B-Date
 was	O
 cancelled	O
 for	O

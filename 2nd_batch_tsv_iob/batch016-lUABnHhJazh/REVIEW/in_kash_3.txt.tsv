@@ -10,7 +10,7 @@ Bureau	I-Organization
 ACB	B-Organization
 )	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 arrested	O
 a	O
 Junior	O
@@ -105,7 +105,7 @@ tehsil	B-Organization
 office	O
 Baramulla	B-Location
 on	O
-05-08-2021	B-Misc
+05-08-2021	B-Date
 which	O
 was	O
 pending	O
@@ -207,7 +207,7 @@ Act	O
 as	O
 amended	O
 in	O
-2018	B-Misc
+2018	B-Date
 )	O
 ,	O
 a	O

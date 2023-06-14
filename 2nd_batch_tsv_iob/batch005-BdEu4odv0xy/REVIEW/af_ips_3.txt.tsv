@@ -4,9 +4,9 @@ DAKAR	B-Location
 ,	I-Location
 Senegal	I-Location
 ,	O
-Jul	B-Misc
-25	I-Misc
-2022	I-Misc
+Jul	B-Date
+25	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -328,7 +328,7 @@ regional	O
 organisation	O
 established	O
 in	O
-2014	B-Misc
+2014	B-Date
 by	O
 the	O
 five	O
@@ -676,7 +676,7 @@ to	O
 million	O
 people	O
 by	O
-2050	B-Misc
+2050	B-Date
 .	O
 How	O
 will	O
@@ -761,7 +761,7 @@ least	O
 3	O
 degrees	O
 by	O
-2050	B-Misc
+2050	B-Date
 ,	O
 there	O
 is	O
@@ -902,7 +902,7 @@ approaches	O
 Under	O
 implementation	O
 since	O
-2021	B-Misc
+2021	B-Date
 ,	O
 the	O
 program	O
@@ -910,7 +910,7 @@ will	O
 continue	O
 up	O
 to	O
-2027	B-Misc
+2027	B-Date
 and	O
 expand	O
 to	O

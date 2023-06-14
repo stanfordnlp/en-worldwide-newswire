@@ -240,9 +240,9 @@ It	O
 all	O
 started	O
 on	O
-Friday	B-Misc
-22	I-Misc
-July	I-Misc
+Friday	B-Date
+22	I-Date
+July	I-Date
 ,	O
 the	O
 first	O
@@ -508,7 +508,7 @@ a	O
 media	O
 briefing	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 when	O
 he	O
 said	O
@@ -659,7 +659,7 @@ a	O
 fight	O
 [	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 ]	O
 with	O
 Mafu	B-Person

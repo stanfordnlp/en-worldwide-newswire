@@ -16,7 +16,7 @@ community	O
 was	O
 chosen	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 as	O
 India	B-Location
 ’	O
@@ -57,7 +57,7 @@ in	O
 voting	O
 held	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 making	O
 her	O
@@ -94,7 +94,7 @@ as	O
 the	O
 president	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Murmu	B-Person
@@ -116,7 +116,7 @@ of	O
 Jharkhand	B-Location
 state	O
 from	O
-2015-2021	B-Misc
+2015-2021	B-Date
 ,	O
 is	O
 a	O
@@ -396,7 +396,7 @@ has	O
 been	O
 president	O
 since	O
-2017	B-Misc
+2017	B-Date
 .	O
 
 Murmu	B-Person
@@ -424,7 +424,7 @@ on	O
 economic	O
 issues	O
 in	O
-2018	B-Misc
+2018	B-Date
 .	O
 Since	O
 then	O
@@ -456,6 +456,6 @@ vice	O
 -	O
 president	O
 in	O
-August	B-Misc
+August	B-Date
 .	O
 

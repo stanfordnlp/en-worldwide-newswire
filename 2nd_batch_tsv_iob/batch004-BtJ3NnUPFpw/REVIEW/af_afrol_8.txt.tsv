@@ -3,8 +3,8 @@ http://www.afrol.com/articles/38449	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-26	B-Misc
-March	I-Misc
+26	B-Date
+March	I-Date
 -	O
 It	O
 is	O
@@ -30,7 +30,7 @@ is	O
 that	O
 ,	O
 by	O
-2020	B-Misc
+2020	B-Date
 ,	O
 90	O
 percent	O
@@ -73,7 +73,7 @@ percent	O
 financial	O
 inclusion	O
 by	O
-2020	B-Misc
+2020	B-Date
 and	O
 the	O
 evidence	O
@@ -168,7 +168,7 @@ years	O
 ago	O
 ,	O
 the	O
-2008	B-Misc
+2008	B-Date
 FinScope	B-Organization
 survey	O
 found	O
@@ -283,7 +283,7 @@ support	O
 .	O
 
 By	O
-2012	B-Misc
+2012	B-Date
 ,	O
 FinScope	B-Organization
 data	O

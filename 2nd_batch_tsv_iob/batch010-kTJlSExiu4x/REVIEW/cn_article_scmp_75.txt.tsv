@@ -355,7 +355,7 @@ his	O
 first	O
 visit	O
 since	O
-2014	B-Misc
+2014	B-Date
 ,	O
 the	O
 year	O
@@ -448,7 +448,7 @@ State	B-Organization
 Department	I-Organization
 spokesperson	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 said	O
 the	O
 international	O
@@ -556,7 +556,7 @@ briefing	O
 in	O
 Beijing	B-Location
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 that	O
 people	O
 in	O
@@ -617,8 +617,8 @@ set	O
 to	O
 end	O
 on	O
-August	B-Misc
-31	I-Misc
+August	B-Date
+31	I-Date
 .	O
 
 “	O
@@ -650,7 +650,7 @@ trip	O
 to	O
 Xinjiang	B-Location
 in	O
-May	B-Misc
+May	B-Date
 .	O
 
 Afterwards	O
@@ -783,7 +783,7 @@ fashion	O
 companies	O
 published	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 more	O
 than	O
@@ -884,7 +884,7 @@ studies	O
 
 Also	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 the	O
 Hong	B-Location

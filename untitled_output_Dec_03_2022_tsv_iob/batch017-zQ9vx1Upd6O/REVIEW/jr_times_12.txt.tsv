@@ -154,7 +154,7 @@ till	I-Organization
 Kvinna	I-Organization
 Foundation	I-Organization
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 titled	O
 ,	O
 “	O
@@ -230,7 +230,7 @@ value	O
 of	O
 GDP	B-Misc
 in	O
-2018	B-Misc
+2018	B-Date
 .	O
 
 She	O
@@ -291,8 +291,8 @@ World	B-Organization
 Bank	I-Organization
 ’	O
 s	O
-2021	B-Misc
-Gender	I-Misc
+2021	B-Date
+Gender	B-Misc
 Gap	I-Misc
 Report	I-Misc
 ,	O
@@ -547,7 +547,7 @@ by	O
 the	O
 end	O
 of	O
-2021	B-Misc
+2021	B-Date
 reached	O
 30.7	O
 per	O

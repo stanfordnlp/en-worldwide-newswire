@@ -31,7 +31,7 @@ Organization	I-Organization
 Olade	B-Organization
 )	O
 published	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 The	O
@@ -337,7 +337,7 @@ also	O
 showed	O
 that	O
 during	O
-2020	B-Misc
+2020	B-Date
 a	O
 total	O
 of	O
@@ -389,7 +389,7 @@ Plan	O
 for	O
 the	O
 period	O
-2021-2040	B-Misc
+2021-2040	B-Date
 ,	O
 ”	O
 to	O

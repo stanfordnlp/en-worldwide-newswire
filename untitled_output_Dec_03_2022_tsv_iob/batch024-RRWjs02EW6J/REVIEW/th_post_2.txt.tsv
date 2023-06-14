@@ -53,7 +53,7 @@ general	O
 Niwatchai	B-Person
 Kasemmongkol	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 said	O
 the	O
 commission	O
@@ -130,7 +130,7 @@ receipts	O
 first	O
 circulated	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 after	O
 Capt	O
 Thamanat	B-Person
@@ -189,7 +189,7 @@ for	O
 Bangkok	B-Location
 return	O
 in	O
-December	B-Misc
+December	B-Date
 
 New	O
 campaign	O
@@ -343,7 +343,7 @@ leader	O
 Prawit	B-Person
 Wongsuwon	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 responded	O
 to	O
 reports	O
@@ -406,7 +406,7 @@ said	O
 referring	O
 to	O
 his	O
-2018	B-Misc
+2018	B-Date
 luxury	O
 watch	O
 scandal	O

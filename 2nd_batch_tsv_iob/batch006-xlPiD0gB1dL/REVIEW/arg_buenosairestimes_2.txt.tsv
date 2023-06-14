@@ -266,7 +266,7 @@ invariably	O
 draws	O
 from	O
 my	O
-1983-2017	B-Misc
+1983-2017	B-Date
 Buenos	B-Organization
 Aires	I-Organization
 Herald	I-Organization
@@ -614,7 +614,7 @@ employee	O
 (	O
 on	O
 a	O
-1977-1979	B-Misc
+1977-1979	B-Date
 project	O
 to	O
 devise	O
@@ -676,7 +676,7 @@ much	O
 of	O
 his	O
 spectacular	O
-2019	B-Misc
+2019	B-Date
 electoral	O
 landslide	O
 to	O
@@ -752,7 +752,7 @@ the	O
 G	B-Organization
 20	I-Organization
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 then	O
 Foreign	O
@@ -761,7 +761,7 @@ Johnson	B-Person
 was	O
 here	O
 that	O
-May	B-Misc
+May	B-Date
 for	O
 the	O
 meeting	O
@@ -818,7 +818,7 @@ tower	I-Facility
 known	O
 until	O
 the	O
-1982	B-Misc
+1982	B-Date
 South	B-Location
 Atlantic	I-Location
 war	O
@@ -851,7 +851,7 @@ any	O
 further	O
 up	O
 the	O
-1916	B-Misc
+1916	B-Date
 construction	O
 could	O
 be	O

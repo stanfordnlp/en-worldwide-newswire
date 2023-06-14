@@ -91,7 +91,7 @@ its	O
 plastic	O
 trash	O
 by	O
-2027	B-Misc
+2027	B-Date
 .	O
 The	O
 country	O
@@ -130,7 +130,7 @@ Varawut	B-Person
 was	O
 speaking	O
 at	O
-Thursday	B-Misc
+Thursday	B-Date
 ’	O
 s	O
 launch	O
@@ -191,7 +191,7 @@ Bangkok	B-Location
 .	O
 
 In	O
-October	B-Misc
+October	B-Date
 ,	O
 Suphanburi	B-Organization
 Provincial	I-Organization

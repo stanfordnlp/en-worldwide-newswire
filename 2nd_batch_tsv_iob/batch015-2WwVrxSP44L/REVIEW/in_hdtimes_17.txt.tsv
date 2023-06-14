@@ -46,8 +46,8 @@ Pakistan	B-Location
 ,	O
 who	O
 threw	O
-February	B-Misc
-1999	I-Misc
+February	B-Date
+1999	I-Date
 Lahore	B-Misc	B-Location
 Declaration	I-Misc
 into	O
@@ -214,8 +214,8 @@ the	O
 Pakistani	B-NORP
 intruders	O
 in	O
-May	B-Misc
-1999	I-Misc
+May	B-Date
+1999	I-Date
 .	O
 
 While	O
@@ -283,8 +283,8 @@ a	O
 military	O
 coup	O
 in	O
-October	B-Misc
-1999	I-Misc
+October	B-Date
+1999	I-Date
 )	O
 for	O
 a	O
@@ -293,8 +293,8 @@ dialogue	O
 at	O
 Agra	B-Location
 in	O
-July	B-Misc
-2001	I-Misc
+July	B-Date
+2001	I-Date
 .	O
 The	O
 talks	O
@@ -570,7 +570,7 @@ Singh	I-Person
 s	O
 statement	O
 last	O
-Sunday	B-Misc
+Sunday	B-Date
 in	O
 Jammu	B-Location
 ,	O
@@ -697,7 +697,7 @@ head	O
 of	O
 government	O
 in	O
-2014	B-Misc
+2014	B-Date
 ,	O
 there	O
 was	O

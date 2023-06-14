@@ -14,7 +14,7 @@ Raza	I-Person
 Gilani	I-Person
 said	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 that	O
 leaders	O
 of	O
@@ -35,8 +35,8 @@ in	O
 the	O
 backdrop	O
 of	O
-July	B-Misc
-17	I-Misc
+July	B-Date
+17	I-Date
 Punjab	B-Location
 bye	O
 polls	O
@@ -65,7 +65,7 @@ thin	O
 in	O
 Lahore	B-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 Addressing	O
@@ -111,7 +111,7 @@ Bilalwal	B-Location	B-Location
 House	I-Location
 Karachi	I-Location	B-Location
 on	O
-Monday	B-Misc
+Monday	B-Date
 evening	O
 where	O
 all	O
@@ -130,8 +130,8 @@ decisions	O
 and	O
 particularly	O
 the	O
-July	B-Misc
-17	I-Misc
+July	B-Date
+17	I-Date
 Punjab	B-Location
 bye	O
 polls	O
@@ -274,7 +274,7 @@ important	O
 PDM	B-Organization
 meeting	O
 scheduled	O
-Tuesday	B-Misc
+Tuesday	B-Date
 to	O
 discuss	O
 the	O

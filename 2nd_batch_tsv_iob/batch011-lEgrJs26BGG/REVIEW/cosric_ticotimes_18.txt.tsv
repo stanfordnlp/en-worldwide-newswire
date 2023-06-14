@@ -39,7 +39,7 @@ play	O
 -	O
 off	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 Former	O
@@ -102,7 +102,7 @@ starts	O
 in	O
 Qatar	B-Location
 in	O
-November	B-Misc
+November	B-Date
 .	O
 
 Victory	O
@@ -135,7 +135,7 @@ quarter	O
 -	O
 finals	O
 in	O
-2014	B-Misc
+2014	B-Date
 .	O
 
 New	B-Location
@@ -337,13 +337,13 @@ Ruiz	I-Person
 went	O
 down	O
 with	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 two	O
 weeks	O
 before	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ’	O
 s	O
 game	O
@@ -363,7 +363,7 @@ players	O
 against	O
 Jamaica	B-Location
 in	O
-January	B-Misc
+January	B-Date
 .	O
 
 New	B-Location
@@ -382,7 +382,7 @@ the	O
 same	O
 stadium	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 when	O
 they	O
 beat	O

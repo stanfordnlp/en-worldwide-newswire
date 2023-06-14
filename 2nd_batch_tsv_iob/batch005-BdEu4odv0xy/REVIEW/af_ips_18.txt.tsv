@@ -2,9 +2,9 @@ https://www.ipsnews.net/2022/05/give-edible-insects-chance-alternative-high-qual
 
 Nairobi	B-Location
 ,	O
-May	B-Misc
-6	I-Misc
-2022	I-Misc
+May	B-Date
+6	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -267,15 +267,15 @@ by	O
 20	O
 percent	O
 in	O
-January	B-Misc
-2022	I-Misc
+January	B-Date
+2022	I-Date
 compared	O
 to	O
 the	O
 same	O
 period	O
 in	O
-2021	B-Misc
+2021	B-Date
 .	O
 
 Dr	O
@@ -427,7 +427,7 @@ $	B-Money
 110	I-Money
 billion	I-Money
 by	O
-2025	B-Misc
+2025	B-Date
 .	O
 
 A	O
@@ -568,8 +568,8 @@ issues	O
 were	O
 resolved	O
 in	O
-December	B-Misc
-2020	I-Misc
+December	B-Date
+2020	I-Date
 when	O
 Kenya	B-Location
 became	O
@@ -885,7 +885,7 @@ $	B-Money
 112	I-Money
 million	I-Money
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 could	O
 reach	O
@@ -893,7 +893,7 @@ $	B-Money
 1.5	I-Money
 billion	I-Money
 by	O
-2026	B-Misc
+2026	B-Date
 .	O
 
 There	O

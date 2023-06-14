@@ -7,7 +7,7 @@ of	O
 the	O
 third	O
 quarter	O
-2022	B-Misc
+2022	B-Date
 will	O
 go	O
 down	O
@@ -410,8 +410,8 @@ for	O
 the	O
 landing	O
 on	O
-01	B-Misc
-July	I-Misc
+01	B-Date
+July	I-Date
 ,	O
 a	O
 cable	O
@@ -422,7 +422,7 @@ completed	O
 last	O
 year	O
 in	O
-September	B-Misc
+September	B-Date
 and	O
 the	O
 internal	O
@@ -430,7 +430,7 @@ furnishings	O
 and	O
 fit	O
 in	O
-January	B-Misc
+January	B-Date
 this	O
 year	O
 .	O

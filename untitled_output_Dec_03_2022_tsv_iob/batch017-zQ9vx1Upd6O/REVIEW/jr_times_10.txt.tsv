@@ -24,7 +24,7 @@ woman	O
 in	O
 Zarqa	B-Location
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 senior	O
 official	O
@@ -51,7 +51,7 @@ at	O
 his	O
 shop	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 a	O
 senior	O
@@ -147,7 +147,7 @@ reported	O
 her	O
 missing	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 according	O
 to	O
@@ -280,7 +280,7 @@ forward	O
 to	O
 police	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 claiming	O
 that	O
 she	O

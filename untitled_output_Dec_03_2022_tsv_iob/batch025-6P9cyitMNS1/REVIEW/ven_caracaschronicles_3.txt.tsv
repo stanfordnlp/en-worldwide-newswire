@@ -41,7 +41,7 @@ of	O
 Arturo	B-Person
 Michelena	I-Person
 ,	O
-1863-1898	B-Misc
+1863-1898	B-Date
 on	O
 the	O
 Centenary	O
@@ -54,7 +54,7 @@ of	I-Location
 National	I-Location
 Art	I-Location
 in	O
-1998	B-Misc
+1998	B-Date
 )	O
 would	O
 take	O
@@ -93,7 +93,7 @@ The	B-Misc
 Sick	I-Misc
 Child	I-Misc
 (	O
-1886	B-Misc
+1886	B-Date
 )	O
 ,	O
 by	O
@@ -170,7 +170,7 @@ of	O
 Joaquín	B-Person
 Crespo	I-Person
 in	O
-1883	B-Misc
+1883	B-Date
 to	O
 commemorate	O
 the	O
@@ -198,10 +198,10 @@ years	O
 later	O
 ,	O
 on	O
-March	B-Misc
-6	I-Misc
-,	I-Misc
-1885	I-Misc
+March	B-Date
+6	I-Date
+,	I-Date
+1885	I-Date
 ,	O
 he	O
 embarked	O
@@ -304,7 +304,7 @@ s	O
 talent	O
 .	O
 In	O
-1887	B-Misc
+1887	B-Date
 ,	O
 Laurens	B-Person
 proposed	O
@@ -613,8 +613,8 @@ York	I-Location
 socialite	O
 of	O
 the	O
-Gilded	B-Misc
-Age	I-Misc
+Gilded	B-Date
+Age	I-Date
 ,	O
 wife	O
 of	O
@@ -737,7 +737,7 @@ Caroline	B-Person
 passed	O
 away	O
 in	O
-1908	B-Misc
+1908	B-Date
 and	O
 her	O
 son	O
@@ -819,7 +819,7 @@ the	O
 .	O
 
 In	O
-1938	B-Misc
+1938	B-Date
 ,	O
 gallerists	O
 Otto	B-Person
@@ -843,7 +843,7 @@ And	O
 then	O
 ,	O
 in	O
-1964	B-Misc
+1964	B-Date
 ,	O
 the	O
 English	B-NORP
@@ -1037,10 +1037,10 @@ from	O
 the	O
 auction	O
 on	O
-June	B-Misc
-21st	I-Misc
-,	I-Misc
-1926	I-Misc
+June	B-Date
+21st	I-Date
+,	I-Date
+1926	I-Date
 .	O
 The	O
 catalog	O
@@ -1380,7 +1380,7 @@ the	O
 Burns	B-Person
 home	O
 until	O
-1937	B-Misc
+1937	B-Date
 ,	O
 when	O
 it	O
@@ -1463,7 +1463,7 @@ World	B-Misc
 War	I-Misc
 II	I-Misc
 in	O
-1941	B-Misc
+1941	B-Date
 .	O
 
 Accompanied	O
@@ -1501,7 +1501,7 @@ there	O
 ,	O
 in	O
 early	O
-2004	B-Misc
+2004	B-Date
 ,	O
 he	O
 finally	O
@@ -1764,8 +1764,8 @@ then	O
 auctioned	O
 off	O
 in	O
-November	B-Misc
-2004	I-Misc
+November	B-Date
+2004	I-Date
 and	O
 purchased	O
 by	O
@@ -1836,8 +1836,8 @@ Michelena	B-Person
 participated	O
 in	O
 the	O
-1889	B-Misc
-Universal	I-Misc
+1889	B-Date
+Universal	B-Misc
 Exposition	I-Misc
 was	O
 yet	O
@@ -1875,7 +1875,7 @@ and	O
 reproduced	O
 in	O
 a	O
-1973	B-Misc
+1973	B-Date
 book	O
 by	O
 the	O
@@ -1932,7 +1932,7 @@ which	O
 was	O
 founded	O
 in	O
-1872	B-Misc
+1872	B-Date
 by	O
 his	O
 great	O
@@ -2010,10 +2010,10 @@ This	O
 is	O
 how	O
 on	O
-May	B-Misc
-24th	I-Misc
-,	I-Misc
-2005	I-Misc
+May	B-Date
+24th	I-Date
+,	I-Date
+2005	I-Date
 ,	O
 The	B-Misc
 Electoral	I-Misc
@@ -2060,7 +2060,7 @@ Exposition	I-Misc
 in	O
 Paris	B-Location
 in	O
-1889	B-Misc
+1889	B-Date
 .	O
 
 A	O
@@ -2146,7 +2146,7 @@ Sarasota	B-Location
 ,	O
 and	O
 in	O
-2004	B-Misc
+2004	B-Date
 it	O
 went	O
 back	O

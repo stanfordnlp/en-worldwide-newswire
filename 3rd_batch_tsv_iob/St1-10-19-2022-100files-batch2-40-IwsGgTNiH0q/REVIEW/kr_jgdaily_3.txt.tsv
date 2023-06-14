@@ -7,7 +7,7 @@ Sang	I-Person
 -	I-Person
 min	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 blasted	O
 top	O
 police	O
@@ -88,7 +88,7 @@ Asan	B-Location
 South	I-Location
 Chungcheong	I-Location
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 .	O
 
 “	O
@@ -146,11 +146,11 @@ d	O
 ’	O
 etat	O
 of	O
-Dec	B-Misc
-.	I-Misc
-12	I-Misc
-,	I-Misc
-1979	I-Misc
+Dec	B-Date
+.	I-Date
+12	I-Date
+,	I-Date
+1979	I-Date
 ,	O
 ”	O
 he	O
@@ -225,9 +225,9 @@ establish	O
 a	O
 bureau	O
 by	O
-Aug	B-Misc
-.	I-Misc
-2	I-Misc
+Aug	B-Date
+.	I-Date
+2	I-Date
 to	O
 oversee	O
 the	O
@@ -285,7 +285,7 @@ the	O
 meeting	O
 and	O
 the	O
-1979	B-Misc
+1979	B-Date
 coup	O
 sparked	O
 outrage	O
@@ -369,7 +369,7 @@ in	O
 a	O
 phone	O
 interview	O
-Monday	B-Misc
+Monday	B-Date
 with	O
 the	O
 JoongAng	B-Organization
@@ -496,7 +496,7 @@ s	O
 investigative	O
 powers	O
 in	O
-September	B-Misc
+September	B-Date
 .	O
 
 Through	O
@@ -545,7 +545,7 @@ general	O
 
 Police	O
 at	O
-Saturday	B-Misc
+Saturday	B-Date
 ’	O
 s	O
 conference	O
@@ -554,7 +554,7 @@ it	O
 a	O
 reversal	O
 of	O
-1991	B-Misc
+1991	B-Date
 reforms	O
 that	O
 made	O
@@ -603,7 +603,7 @@ dictatorship	O
 which	O
 ended	O
 in	O
-1987	B-Misc
+1987	B-Date
 .	O
 
 Speaking	O
@@ -625,7 +625,7 @@ District	I-Location
 central	I-Location
 Seoul	I-Location
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 President	O
 Yoon	B-Person
@@ -694,7 +694,7 @@ the	O
 controversy	O
 at	O
 a	O
-Sunday	B-Misc
+Sunday	B-Date
 press	O
 briefing	O
 ,	O

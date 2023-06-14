@@ -49,7 +49,7 @@ TRT	B-Organization
 Haber	I-Organization
 ,	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 Erdogan	B-Person
 said	O
@@ -222,8 +222,8 @@ sides	O
 for	O
 the	O
 next	O
-25	B-Misc
-years	I-Misc
+25	B-Date
+years	I-Date
 .	O
 
 On	O

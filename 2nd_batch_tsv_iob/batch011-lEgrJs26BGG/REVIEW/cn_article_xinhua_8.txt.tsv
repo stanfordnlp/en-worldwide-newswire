@@ -2,8 +2,8 @@ https://english.news.cn/20220715/7b9072a3905b42c5bb61f476c3460401/c.html	O
 
 NANCHANG	B-Location
 ,	O
-July	B-Misc
-15	I-Misc
+July	B-Date
+15	I-Date
 (	O
 Xinhua	B-Organization
 )	O
@@ -11,7 +11,7 @@ Xinhua	B-Organization
 -	O
 As	O
 of	O
-June	B-Misc
+June	B-Date
 ,	O
 Jiangling	B-Organization
 Group	I-Organization
@@ -83,7 +83,7 @@ the	O
 European	B-NORP
 market	O
 in	O
-February	B-Misc
+February	B-Date
 and	O
 the	O
 company	O
@@ -173,7 +173,7 @@ JMEV	B-Organization
 was	O
 founded	O
 in	O
-2015	B-Misc
+2015	B-Date
 ,	O
 specializing	O
 in	O
@@ -185,7 +185,7 @@ and	O
 sales	O
 .	O
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 French	B-NORP
 automaker	O
@@ -268,7 +268,7 @@ At	O
 the	O
 end	O
 of	O
-2020	B-Misc
+2020	B-Date
 ,	O
 a	O
 new	O
@@ -542,7 +542,7 @@ NEV	O
 models	O
 globally	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 and	O
 six	O
@@ -578,7 +578,7 @@ seven	O
 consecutive	O
 years	O
 since	O
-2015	B-Misc
+2015	B-Date
 .	O
 The	O
 country	O
@@ -596,7 +596,7 @@ by	O
 the	O
 end	O
 of	O
-May	B-Misc
+May	B-Date
 ,	O
 compared	O
 to	O
@@ -605,7 +605,7 @@ at	O
 the	O
 end	O
 of	O
-2012	B-Misc
+2012	B-Date
 .	O
 
 "	O

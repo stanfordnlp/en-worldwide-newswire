@@ -75,10 +75,10 @@ s	O
 Court	O
 here	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 (	O
-July	B-Misc
-25	I-Misc
+July	B-Date
+25	I-Date
 )	O
 .	O
 
@@ -118,8 +118,8 @@ NRD	B-Organization
 office	O
 here	O
 on	O
-July	B-Misc
-21	I-Misc
+July	B-Date
+21	I-Date
 .	O
 
 Nor	B-Person

@@ -66,7 +66,7 @@ India	B-Location
 and	O
 Pakistan	B-Location
 in	O
-1947	B-Misc
+1947	B-Date
 .	O
 
 The	O
@@ -240,7 +240,7 @@ judging	O
 panel	O
 ,	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 said	O
 the	O
 judges	O
@@ -498,7 +498,7 @@ Smith	I-Person
 who	O
 won	O
 the	O
-2016	B-Misc
+2016	B-Date
 International	B-Misc
 Booker	I-Misc
 for	O

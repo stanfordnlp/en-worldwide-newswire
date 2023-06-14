@@ -27,13 +27,13 @@ D	B-Person
 .	I-Person
 Ankhbayar	I-Person
 on	O
-July	B-Misc
-5	I-Misc
+July	B-Date
+5	I-Date
 .	O
 
 On	O
-June	B-Misc
-12-18	I-Misc
+June	B-Date
+12-18	I-Date
 this	O
 year	O
 ,	O
@@ -77,7 +77,7 @@ were	O
 built	O
 in	O
 the	O
-1260	B-Misc
+1260	B-Date
 s	O
 by	O
 a	O
@@ -161,9 +161,9 @@ summer	O
 palace	O
 built	O
 between	O
-1261	B-Misc
+1261	B-Date
 and	O
-1265	B-Misc
+1265	B-Date
 in	O
 the	O
 fertile	O

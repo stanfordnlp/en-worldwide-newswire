@@ -19,7 +19,7 @@ in	O
 Veracruz	B-Location
 .	O
 
-Monday	B-Misc
+Monday	B-Date
 
 AMLO	B-Person
 opened	O
@@ -339,7 +339,7 @@ U	B-Location
 S	I-Location
 .	I-Location
 
-Tuesday	B-Misc
+Tuesday	B-Date
 
 The	O
 president	O
@@ -414,7 +414,7 @@ left	O
 inmates	O
 dead	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 The	O
@@ -578,7 +578,7 @@ and	O
 ambiguity	O
 .	O
 
-Wednesday	B-Misc
+Wednesday	B-Date
 
 In	O
 the	O
@@ -645,8 +645,8 @@ in	I-Misc
 the	I-Misc
 lies	I-Misc
 of	I-Misc
-the	I-Misc
-week	I-Misc
+the	B-Date
+week	I-Date
 ”	O
 section	O
 .	O
@@ -816,7 +816,7 @@ and	O
 viewers	O
 .	O
 
-Thursday	B-Misc
+Thursday	B-Date
 
 The	O
 USMCA	B-Organization
@@ -825,7 +825,7 @@ to	O
 the	O
 conference	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 after	O
 U	B-Location
 .	I-Location
@@ -1077,7 +1077,7 @@ both	O
 hands	O
 .	O
 
-Friday	B-Misc
+Friday	B-Date
 
 The	O
 president	O
@@ -1092,7 +1092,7 @@ Vallarta	I-Location
 Jalisco	I-Location
 ,	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 He	O
 wished	O
@@ -1213,7 +1213,7 @@ U	B-Location
 S	I-Location
 .	I-Location
 in	O
-1848	B-Misc
+1848	B-Date
 .	O
 He	O
 later	O

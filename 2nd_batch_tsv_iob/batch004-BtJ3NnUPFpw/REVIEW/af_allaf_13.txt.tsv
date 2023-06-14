@@ -28,11 +28,11 @@ Abdulla	B-Person
 Shahid	I-Person
 said	O
 on	O
-Monday	B-Misc
-July	I-Misc
-18	I-Misc
-,	I-Misc
-2022	I-Misc
+Monday	B-Date
+July	I-Date
+18	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 at	O
 a	O
@@ -107,8 +107,8 @@ year	O
 
 Earlier	O
 in	O
-July	B-Misc
-2022	I-Misc
+July	B-Date
+2022	I-Date
 ,	O
 Voice	B-Organization
 of	I-Organization

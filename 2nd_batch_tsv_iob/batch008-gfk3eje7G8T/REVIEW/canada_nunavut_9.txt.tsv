@@ -43,9 +43,9 @@ entered	O
 the	O
 water	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 and	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 It	O
@@ -188,7 +188,7 @@ their	O
 tap	O
 water	O
 in	O
-October	B-Misc
+October	B-Date
 because	O
 of	O
 fuel	O
@@ -204,15 +204,15 @@ advisory	O
 was	O
 lifted	O
 on	O
-Dec	B-Misc
-.	I-Misc
-10	I-Misc
+Dec	B-Date
+.	I-Date
+10	I-Date
 .	O
 
 On	O
-Jan	B-Misc
-.	I-Misc
-6	I-Misc
+Jan	B-Date
+.	I-Date
+6	I-Date
 ,	O
 the	O
 city	O
@@ -242,9 +242,9 @@ treated	O
 water	O
 tanks	O
 on	O
-Dec	B-Misc
-.	I-Misc
-16	I-Misc
+Dec	B-Date
+.	I-Date
+16	I-Date
 .	O
 
 The	O

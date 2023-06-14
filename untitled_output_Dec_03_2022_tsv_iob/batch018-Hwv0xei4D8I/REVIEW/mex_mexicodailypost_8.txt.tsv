@@ -87,7 +87,7 @@ holding	O
 a	O
 meeting	O
 this	O
-Friday	B-Misc
+Friday	B-Date
 in	O
 the	O
 “	O
@@ -107,10 +107,10 @@ neighbors	O
 reported	O
 that	O
 on	O
-Tuesday	B-Misc
-,	I-Misc
-June	I-Misc
-28	I-Misc
+Tuesday	B-Date
+,	I-Date
+June	I-Date
+28	I-Date
 ,	O
 personnel	O
 from	O
@@ -305,7 +305,7 @@ on	O
 loan	O
 in	O
 the	O
-1940	B-Misc
+1940	B-Date
 s	O
 since	O
 it	O

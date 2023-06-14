@@ -1,12 +1,12 @@
 https://allafrica.com/stories/202207260416.html	O
 
 On	O
-Monday	B-Misc
-,	I-Misc
-February	I-Misc
-14	I-Misc
-,	I-Misc
-2022	I-Misc
+Monday	B-Date
+,	I-Date
+February	I-Date
+14	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 while	O
 the	O
@@ -183,10 +183,10 @@ Chicago	B-Location
 .	O
 
 On	O
-November	B-Misc
-28	I-Misc
-,	I-Misc
-1990	I-Misc
+November	B-Date
+28	I-Date
+,	I-Date
+1990	I-Date
 ,	O
 a	O
 member	O
@@ -317,7 +317,7 @@ the	O
 US	B-Location
 government	O
 in	O
-1993	B-Misc
+1993	B-Date
 .	O
 A	O
 colossal	O
@@ -645,10 +645,10 @@ lived	O
 in	O
 the	O
 late	O
-eighties	B-Misc
+eighties	B-Date
 and	O
 early	O
-nineties	B-Misc
+nineties	B-Date
 is	O
 so	O
 ingrained	O
@@ -672,9 +672,9 @@ Governor	O
 under	O
 Tinubu	B-Person
 between	O
-1999	B-Misc
+1999	B-Date
 and	O
-2003	B-Misc
+2003	B-Date
 has	O
 described	O
 working	O
@@ -1418,10 +1418,10 @@ candidate	O
 will	O
 win	O
 on	O
-February	B-Misc
-25	I-Misc
-,	I-Misc
-2023	I-Misc
+February	B-Date
+25	I-Date
+,	I-Date
+2023	I-Date
 .	O
 Do	O
 you	O
@@ -1706,10 +1706,10 @@ the	O
 polling	O
 unit	O
 on	O
-February	B-Misc
-25	I-Misc
-,	I-Misc
-2023	I-Misc
+February	B-Date
+25	I-Date
+,	I-Date
+2023	I-Date
 .	O
 
 #BBNaija	B-Misc

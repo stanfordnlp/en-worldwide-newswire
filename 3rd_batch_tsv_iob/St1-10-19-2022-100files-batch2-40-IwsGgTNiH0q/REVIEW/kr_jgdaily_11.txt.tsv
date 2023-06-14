@@ -13,9 +13,9 @@ North	B-NORP
 Korean	I-NORP
 soldiers	O
 in	O
-2020	B-Misc
+2020	B-Date
 said	O
-Tuesday	B-Misc
+Tuesday	B-Date
 they	O
 plan	O
 to	O
@@ -87,11 +87,11 @@ when	O
 he	O
 disappeared	O
 on	O
-Sept	B-Misc
-.	I-Misc
-22	I-Misc
-,	I-Misc
-2020	I-Misc
+Sept	B-Date
+.	I-Date
+22	I-Date
+,	I-Date
+2020	I-Date
 .	O
 He	O
 was	O
@@ -129,8 +129,8 @@ an	O
 administrative	O
 lawsuit	O
 on	O
-July	B-Misc
-20	I-Misc
+July	B-Date
+20	I-Date
 against	O
 the	O
 Presidential	B-Organization
@@ -165,7 +165,7 @@ Kim	B-Person
 passed	O
 away	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 after	O
 a	O
 long	O
@@ -251,7 +251,7 @@ the	O
 JoongAng	B-Organization
 Ilbo	I-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 “	O
 Whenever	O
@@ -320,8 +320,8 @@ told	O
 the	O
 family	O
 on	O
-June	B-Misc
-22	I-Misc
+June	B-Date
+22	I-Date
 that	O
 it	O
 “	O
@@ -465,7 +465,7 @@ death	O
 
 “	O
 In	O
-November	B-Misc
+November	B-Date
 last	O
 year	O
 ,	O
@@ -538,8 +538,8 @@ concerning	O
 the	O
 case	O
 on	O
-June	B-Misc
-16	I-Misc
+June	B-Date
+16	I-Date
 —	O
 the	O
 same	O

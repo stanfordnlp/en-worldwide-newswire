@@ -298,8 +298,8 @@ Mexico	I-Misc	B-Location
 
 In	O
 the	O
-19th	B-Misc
-century	I-Misc
+19th	B-Date
+century	I-Date
 we	O
 had	O
 vice	O
@@ -346,9 +346,9 @@ held	O
 the	O
 position	O
 from	O
-1824	B-Misc
+1824	B-Date
 to	O
-1827	B-Misc
+1827	B-Date
 .	O
 After	O
 trying	O
@@ -484,7 +484,7 @@ it	O
 was	O
 not	O
 until	O
-1904	B-Misc
+1904	B-Date
 when	O
 the	O
 first	O
@@ -504,7 +504,7 @@ position	O
 .	O
 
 In	O
-1911	B-Misc
+1911	B-Date
 ,	O
 the	O
 last	O
@@ -545,7 +545,7 @@ positions	O
 ,	O
 since	O
 in	O
-1913	B-Misc
+1913	B-Date
 they	O
 were	O
 assassinated	O
@@ -577,8 +577,8 @@ subsequent	O
 enactment	O
 of	O
 the	O
-1917	B-Misc
-Constitution	I-Misc
+1917	B-Date
+Constitution	B-Misc
 ,	O
 the	O
 position	O

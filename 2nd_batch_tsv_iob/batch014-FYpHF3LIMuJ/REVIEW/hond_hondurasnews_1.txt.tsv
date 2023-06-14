@@ -3,11 +3,11 @@ https://www.hondurasnews.com/official-list-of-the-23-players-representing-hondur
 Concacaf	B-Organization
 announced	O
 on	O
-Thursday	B-Misc
-June	I-Misc
-6	I-Misc
-,	I-Misc
-2019	I-Misc
+Thursday	B-Date
+June	I-Date
+6	I-Date
+,	I-Date
+2019	I-Date
 the	O
 list	O
 of	O
@@ -22,7 +22,7 @@ represent	O
 Honduras	B-Location
 during	O
 the	O
-2019	B-Misc
+2019	B-Date
 Concacaf	B-Misc
 Gold	I-Misc
 Cup	I-Misc
@@ -48,10 +48,10 @@ on	O
 a	O
 list	O
 received	O
-Monday	B-Misc
-,	I-Misc
-June	I-Misc
-3	I-Misc
+Monday	B-Date
+,	I-Date
+June	I-Date
+3	I-Date
 ,	O
 but	O
 there	O
@@ -66,10 +66,10 @@ list	O
 by	O
 last	O
 night	O
-June	B-Misc
-5	I-Misc
-,	I-Misc
-2019	I-Misc
+June	B-Date
+5	I-Date
+,	I-Date
+2019	I-Date
 .	O
 
 Among	O
@@ -122,7 +122,7 @@ Selection	I-Misc
 debuts	O
 in	O
 the	O
-2019	B-Misc
+2019	B-Date
 Gold	B-Misc
 Cup	I-Misc
 against	O
@@ -131,8 +131,8 @@ Kingston	B-Location
 ,	I-Location
 Jamaica	I-Location
 on	O
-June	B-Misc
-17	I-Misc
+June	B-Date
+17	I-Date
 ,	O
 then	O
 on	O
@@ -291,7 +291,7 @@ routing	O
 for	O
 a	O
 successful	O
-2019	B-Misc
+2019	B-Date
 Soccer	O
 Season	O
 .	O

@@ -19,7 +19,7 @@ has	O
 left	O
 Greece	B-Location
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 following	O
 a	O
 visit	O
@@ -201,7 +201,7 @@ two	O
 countries	O
 signed	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 an	O
 agreement	O
 to	O

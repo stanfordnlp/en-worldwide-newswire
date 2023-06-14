@@ -24,7 +24,7 @@ Spain	B-Location
 emergency	O
 services	O
 said	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 Two	O
@@ -43,7 +43,7 @@ struck	O
 by	O
 bulls	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 at	O
 a	O
 bull	O
@@ -94,11 +94,11 @@ village	O
 near	O
 Alicante	B-Location
 on	O
-July	B-Misc
-8	I-Misc
+July	B-Date
+8	I-Date
 died	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 the	O
 spokesman	O
@@ -153,7 +153,7 @@ city	O
 of	O
 Pamplona	B-Location
 in	O
-July	B-Misc
+July	B-Date
 .	O
 
 The	O
@@ -207,8 +207,8 @@ year	O
 which	O
 ended	O
 on	O
-July	B-Misc
-14	I-Misc
+July	B-Date
+14	I-Date
 .	O
 Sixteen	O
 people	O
@@ -220,6 +220,6 @@ Pamplona	B-Location
 bull	O
 runs	O
 since	O
-1911	B-Misc
+1911	B-Date
 .	O
 

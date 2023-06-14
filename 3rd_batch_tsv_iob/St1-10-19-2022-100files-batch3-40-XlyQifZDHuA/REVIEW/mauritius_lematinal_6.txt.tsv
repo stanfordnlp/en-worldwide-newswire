@@ -20,10 +20,10 @@ a	O
 press	O
 conference	O
 this	O
-Monday	B-Misc
-,	I-Misc
-July	I-Misc
-25	I-Misc
+Monday	B-Date
+,	I-Date
+July	I-Date
+25	I-Date
 ,	O
 Jose	B-Person
 Moirt	I-Person

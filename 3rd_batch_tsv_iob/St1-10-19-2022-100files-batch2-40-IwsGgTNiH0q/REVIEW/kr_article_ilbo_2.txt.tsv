@@ -5,7 +5,7 @@ defeated	O
 China	B-Location
 3-0	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 in	O
 its	O
 first	O
@@ -98,11 +98,11 @@ title	O
 Korea	B-Location
 won	O
 in	O
-2015	B-Misc
+2015	B-Date
 ,	O
-2017	B-Misc
+2017	B-Date
 and	O
-2019	B-Misc
+2019	B-Date
 and	O
 faces	O
 off	O
@@ -110,13 +110,13 @@ against	O
 Hong	B-Location
 Kong	I-Location
 on	O
-July	B-Misc
-24	I-Misc
+July	B-Date
+24	I-Date
 and	O
 Japan	B-Location
 on	O
-July	B-Misc
-27	I-Misc
+July	B-Date
+27	I-Date
 .	O
 
 The	O
@@ -178,13 +178,13 @@ the	O
 roster	O
 for	O
 the	O
-2022	B-Misc	B-Misc
+2022	B-Misc	B-Date
 FIFA	I-Misc	B-Organization
 World	I-Misc
 Cup	I-Misc
 in	O
 Qatar	B-Location
 in	O
-November	B-Misc
+November	B-Date
 .	O
 

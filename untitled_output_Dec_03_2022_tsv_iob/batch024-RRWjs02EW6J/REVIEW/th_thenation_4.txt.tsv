@@ -27,7 +27,7 @@ government	O
 spokesman	O
 said	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Spokesman	O
@@ -52,7 +52,7 @@ Committee	I-Organization
 NWRC	B-Organization
 )	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 to	O
 discuss	O
 the	O
@@ -145,7 +145,7 @@ said	O
 that	O
 as	O
 of	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 the	O
 overall	O
@@ -295,7 +295,7 @@ the	O
 department	O
 said	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 that	O
 Thailand	B-Location
 will	O
@@ -322,9 +322,9 @@ weakening	O
 .	O
 
 On	O
-Friday	B-Misc
+Friday	B-Date
 and	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 however	O
 ,	O

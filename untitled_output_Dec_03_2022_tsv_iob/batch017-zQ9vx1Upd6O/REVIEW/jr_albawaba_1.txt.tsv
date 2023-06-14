@@ -17,7 +17,7 @@ local	O
 media	O
 said	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Unidentified	O
@@ -28,7 +28,7 @@ al	I-Person
 -	I-Person
 Shammari	I-Person
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 to	O
 one	O
 of	O

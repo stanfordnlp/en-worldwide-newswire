@@ -25,7 +25,7 @@ top	O
 prosecutor	O
 said	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 The	O
@@ -78,7 +78,7 @@ Xu	B-Person
 .	O
 
 In	O
-June	B-Misc
+June	B-Date
 ,	O
 the	O
 prosecutor	O

@@ -155,7 +155,7 @@ requested	O
 British	B-Organization	B-NORP
 Airways	I-Organization
 '	O
-2022	B-Misc
+2022	B-Date
 winter	O
 schedule	O
 was	O
@@ -181,7 +181,7 @@ for	O
 this	O
 route	O
 until	O
-2023	B-Misc
+2023	B-Date
 .	O
 
 Prior	O
@@ -227,7 +227,7 @@ struck	O
 .	O
 
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 Thailand	B-Location
 had	O
@@ -244,12 +244,12 @@ to	O
 14.8	O
 million	O
 in	O
-2020	B-Misc
+2020	B-Date
 and	O
 4.9	O
 million	O
 in	O
-2021	B-Misc
+2021	B-Date
 .	O
 
 Tassapon	B-Person
@@ -302,9 +302,9 @@ slashed	O
 their	O
 workforce	O
 during	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 ,	O
 "	O
 said	O

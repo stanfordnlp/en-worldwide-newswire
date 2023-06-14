@@ -177,7 +177,7 @@ for	O
 overall	O
 growth	O
 in	O
-2022	B-Misc
+2022	B-Date
 is	O
 still	O
 “	O
@@ -189,7 +189,7 @@ clients	O
 are	O
 revising	O
 their	O
-2022	B-Misc
+2022	B-Date
 performance	O
 targets	O
 ,	O
@@ -323,9 +323,9 @@ stable	O
 production	O
 output	O
 during	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 .	O
 
 US	B-Location
@@ -394,7 +394,7 @@ Xiaomi	B-Organization
 in	O
 India	B-Location
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 The	O
 Indian	B-NORP
@@ -433,7 +433,7 @@ DBG	B-Organization
 .	O
 
 In	O
-2021	B-Misc
+2021	B-Date
 the	O
 company	O
 further	O

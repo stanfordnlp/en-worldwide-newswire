@@ -45,7 +45,7 @@ funding	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 Ramaphosa	B-Person
 announced	O
@@ -149,7 +149,7 @@ hosted	O
 a	O
 webinar	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 to	O
 share	O
 ideas	O
@@ -189,7 +189,7 @@ clean	O
 energy	O
 projects	O
 since	O
-2016	B-Misc
+2016	B-Date
 ,	O
 with	O
 the	O
@@ -229,7 +229,7 @@ which	O
 was	O
 introduced	O
 in	O
-2017	B-Misc
+2017	B-Date
 ,	O
 ”	O
 said	O

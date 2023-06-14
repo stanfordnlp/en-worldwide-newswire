@@ -388,7 +388,7 @@ in	O
 his	O
 speech	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 talked	O
 of	O
@@ -497,11 +497,11 @@ Voice	I-Organization
 2	O
 .	O
 The	O
-Aboriginal	B-Organization	
+Aboriginal	B-Organization
 and	I-Organization
-Torres	I-Organization	
-Strait	I-Organization	
-Islander	I-Organization	
+Torres	I-Organization
+Strait	I-Organization
+Islander	I-Organization
 Voice	I-Organization
 may	O
 make	O

@@ -2,8 +2,8 @@ https://english.news.cn/20220719/c169581f61a94b2b9c2657391c6ac1df/c.html	O
 
 BEIJING	B-Location
 ,	O
-July	B-Misc
-18	I-Misc
+July	B-Date
+18	I-Date
 (	O
 Xinhua	B-Organization
 )	O
@@ -39,7 +39,7 @@ decade	O
 senior	O
 prosecutors	O
 said	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Reviewing	O
@@ -58,7 +58,7 @@ of	I-Organization
 China	I-Organization	B-Location
 in	O
 late	O
-2012	B-Misc
+2012	B-Date
 ,	O
 Tong	B-Person
 Jianming	I-Person
@@ -105,10 +105,10 @@ CRIMINAL	O
 OFFENCES	O
 
 From	O
-2013	B-Misc
+2013	B-Date
 to	O
 this	O
-June	B-Misc
+June	B-Date
 ,	O
 Chinese	B-NORP
 prosecutors	O
@@ -155,11 +155,11 @@ dropped	O
 from	O
 108,000	O
 in	O
-2013	B-Misc
+2013	B-Date
 to	O
 59,000	O
 in	O
-2021	B-Misc
+2021	B-Date
 .	O
 
 Prosecutors	O
@@ -180,10 +180,10 @@ said	O
 .	O
 
 From	O
-2018	B-Misc
+2018	B-Date
 to	O
 this	O
-June	B-Misc
+June	B-Date
 ,	O
 256,000	O
 people	O
@@ -229,10 +229,10 @@ public	O
 interest	O
 lawsuits	O
 on	O
-July	B-Misc
-1	I-Misc
-,	I-Misc
-2017	I-Misc
+July	B-Date
+1	I-Date
+,	I-Date
+2017	I-Date
 .	O
 
 As	O
@@ -374,7 +374,7 @@ By	O
 the	O
 end	O
 of	O
-June	B-Misc
+June	B-Date
 this	O
 year	O
 ,	O

@@ -667,7 +667,7 @@ Mohammed	B-Person
 left	O
 DD	B-Location
 in	O
-1976	B-Misc
+1976	B-Date
 just	O
 before	O
 the	O
@@ -932,7 +932,7 @@ site	O
 in	O
 the	O
 early	O
-1970	B-Misc
+1970	B-Date
 ’	O
 s	O
 .	O

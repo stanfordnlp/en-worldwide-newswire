@@ -3,7 +3,7 @@ https://www.albawaba.com/news/jordan-king-meets-palestinian-president-amman-1485
 King	O
 Abdullah	B-Person
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 received	O
 Palestinian	B-NORP
 President	O
@@ -72,7 +72,7 @@ General	I-Organization
 Assembly	I-Organization
 meetings	O
 in	O
-September	B-Misc
+September	B-Date
 ,	O
 highlighting	O
 Jordan	B-Location

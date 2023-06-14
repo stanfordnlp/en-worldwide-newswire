@@ -2,8 +2,8 @@ https://english.news.cn/20220718/f656697865544f30a2c2a16597b1eebd/c.html	O
 
 BEIJING	B-Location
 ,	O
-July	B-Misc
-18	I-Misc
+July	B-Date
+18	I-Date
 (	O
 Xinhua	B-Organization
 )	O
@@ -15,7 +15,7 @@ Premier	O
 Liu	B-Person
 He	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 called	O
 for	O
 efforts	O

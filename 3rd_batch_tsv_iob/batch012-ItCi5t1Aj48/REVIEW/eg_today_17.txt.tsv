@@ -4,8 +4,8 @@ Egypt	B-Location
 ,	I-Location
 Cairo	I-Location
 ,	O
-June	B-Misc
-2022	I-Misc
+June	B-Date
+2022	I-Date
 :	O
 As	O
 part	O
@@ -216,7 +216,7 @@ of	O
 Egypt	B-Location
 ’	O
 s	O
-2030	B-Misc
+2030	B-Date
 strategy	O
 .	O
 
@@ -622,9 +622,9 @@ under	O
 the	O
 slogan	O
 “	O
-Ten	B-Misc
-Years	I-Misc
-Together	I-Misc
+Ten	B-Date
+Years	I-Date
+Together	I-Date
 ,	O
 ”	O
 Jumia	B-Organization

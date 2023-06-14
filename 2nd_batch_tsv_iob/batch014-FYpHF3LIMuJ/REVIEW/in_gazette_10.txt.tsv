@@ -27,7 +27,7 @@ in	O
 memory	O
 of	O
 the	O
-1930	B-Misc
+1930	B-Date
 Jungle	B-Misc
 Satyagraha	I-Misc
 .	O
@@ -310,9 +310,9 @@ their	O
 protests	O
 .	O
 On	O
-10	B-Misc
-July	I-Misc
-1930	I-Misc
+10	B-Date
+July	I-Date
+1930	I-Date
 ,	O
 Bapuji	B-Person
 Aney	I-Person
@@ -686,7 +686,7 @@ Maker	I-Misc
 ,	O
 published	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 edited	O
 by	O
@@ -837,7 +837,7 @@ Sadhana	I-Organization
 Nagpur	B-Location
 ,	O
 in	O
-1974	B-Misc
+1974	B-Date
 ,	O
 is	O
 described	O
@@ -1284,9 +1284,9 @@ in	O
 Jansatta	B-Location
 newspaper	O
 on	O
-28	B-Misc
-June	I-Misc
-2003	I-Misc
+28	B-Date
+June	I-Date
+2003	I-Date
 .	O
 According	O
 to	O

@@ -17,7 +17,7 @@ the	O
 chief	O
 justice	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 following	O
 the	O
@@ -148,8 +148,8 @@ parliament	O
 will	O
 convene	O
 on	O
-July	B-Misc
-16	I-Misc
+July	B-Date
+16	I-Date
 and	O
 he	O
 requested	O

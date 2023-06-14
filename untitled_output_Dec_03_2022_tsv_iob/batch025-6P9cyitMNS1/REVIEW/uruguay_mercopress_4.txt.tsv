@@ -1,7 +1,7 @@
 https://en.mercopress.com/2022/07/12/lacalle-pou-gave-an-uruguayan-mare-to-the-emir-of-qatar-as-a-gift-and-left-on-monday-why-is-it-important	O
 
 This	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 a	O
 Criollo	B-Misc
@@ -39,7 +39,7 @@ for	O
 Qatar	B-Location
 .	O
 Last	O
-February	B-Misc
+February	B-Date
 ,	O
 the	O
 South	B-NORP
@@ -90,7 +90,7 @@ Uruguay	I-Organization	B-Location
 SCCCU	B-Organization
 )	O
 last	O
-January	B-Misc
+January	B-Date
 .	O
 
 The	O
@@ -107,8 +107,8 @@ visit	O
 to	O
 Qatar	B-Location
 in	O
-December	B-Misc
-2021	I-Misc
+December	B-Date
+2021	I-Date
 ,	O
 commissioned	O
 the	O
@@ -168,7 +168,7 @@ to	O
 be	O
 held	O
 in	O
-November	B-Misc
+November	B-Date
 ,	O
 where	O
 Uruguay	B-Location

@@ -3,8 +3,8 @@ http://www.afrol.com/articles/37619	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-24	B-Misc
-March	I-Misc
+24	B-Date
+March	I-Date
 -	O
 After	O
 banning	O
@@ -113,8 +113,8 @@ Bata	B-Location
 for	O
 yesterday	O
 ,	O
-23	B-Misc
-March	I-Misc
+23	B-Date
+March	I-Date
 ,	O
 at	O
 ten	O
@@ -131,7 +131,7 @@ pressure	O
 the	O
 UP	B-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 the	O
 day	O
@@ -198,7 +198,7 @@ Bata	B-Location
 .	O
 
 On	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 Equatoguinean	B-NORP
 Interior	O
@@ -273,7 +273,7 @@ political	O
 parties	O
 today	O
 ,	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 According	O
 to	O
@@ -374,7 +374,7 @@ mainland	O
 local	O
 sources	O
 since	O
-Sunday	B-Misc
+Sunday	B-Date
 have	O
 reported	O
 of	O
@@ -430,9 +430,9 @@ to	O
 the	O
 streets	O
 on	O
-Sunday	B-Misc
-20	I-Misc
-March	I-Misc
+Sunday	B-Date
+20	I-Date
+March	I-Date
 .	O
 The	O
 party	O
@@ -462,7 +462,7 @@ were	O
 no	O
 demonstrations	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 police	O
 in	O
@@ -478,7 +478,7 @@ a	O
 possible	O
 protest	O
 on	O
-Monday	B-Location
+Monday	B-Date
 ,	O
 further	O
 increasing	O
@@ -555,7 +555,7 @@ Macias	B-Person
 Nguema	I-Person
 after	O
 a	O
-1979	B-Misc
+1979	B-Date
 coup	O
 .	O
 All	O

@@ -126,7 +126,7 @@ Ezeiza	B-Location
 ,	O
 Moreno	B-Person
 explained	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 “	O
 We	O
@@ -599,9 +599,9 @@ been	O
 raised	O
 sometime	O
 between	O
-2015	B-Misc
+2015	B-Date
 and	O
-2016	B-Misc
+2016	B-Date
 ,	O
 but	O
 it	O

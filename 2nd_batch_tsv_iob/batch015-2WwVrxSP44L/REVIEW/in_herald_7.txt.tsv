@@ -48,7 +48,7 @@ media	O
 persons	O
 here	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 the	O
 former	O
@@ -173,7 +173,7 @@ on	O
 candidates	O
 for	O
 the	O
-2023	B-Misc
+2023	B-Date
 assembly	O
 polls	O
 .	O

@@ -97,7 +97,7 @@ Tama	B-Person
 Talum	I-Person
 was	O
 in	O
-2015	B-Misc
+2015	B-Date
 sentenced	O
 to	O
 three	O
@@ -195,7 +195,7 @@ yu	I-Person
 ,	O
 who	O
 in	O
-2015	B-Misc
+2015	B-Date
 initiated	O
 an	O
 investigation	O

@@ -30,7 +30,7 @@ pro	O
 democracy	O
 protesters	O
 in	O
-2019	B-Misc
+2019	B-Date
 after	O
 two	O
 decades	O
@@ -50,7 +50,7 @@ to	O
 state	O
 television	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 The	O
@@ -93,12 +93,13 @@ suffered	O
 a	O
 stroke	O
 in	O
-2013	B-Misc
+2013	B-Date
 that	O
 badly	O
 weakened	O
 him	O
 .	O
+
 Concerns	O
 about	O
 his	O
@@ -128,6 +129,7 @@ corruption	O
 tarnished	O
 rule	O
 .	O
+
 Mass	O
 public	O
 protests	O
@@ -166,10 +168,10 @@ ruler	O
 France	B-Location
 in	O
 the	O
-1950	B-Misc
+1950	B-Date
 s	O
 and	O
-1960	B-Misc
+1960	B-Date
 s	O
 .	O
 
@@ -206,7 +208,7 @@ taken	O
 hostage	O
 in	O
 a	O
-1975	B-Misc
+1975	B-Date
 attack	O
 on	O
 OPEC	B-Organization
@@ -268,7 +270,7 @@ first	O
 presidential	O
 victory	O
 in	O
-1999	B-Misc
+1999	B-Date
 ,	O
 after	O
 a	O
@@ -318,10 +320,10 @@ era	O
 '	O
 
 Born	O
-March	B-Misc
-2	I-Misc
-,	I-Misc
-1937	I-Misc
+March	B-Date
+2	I-Date
+,	I-Date
+1937	I-Date
 ,	O
 to	O
 Algerian	B-NORP
@@ -346,7 +348,7 @@ politicians	O
 .	O
 
 In	O
-1956	B-Misc
+1956	B-Date
 ,	O
 Bouteflika	B-Person
 entered	O
@@ -364,6 +366,7 @@ bloody	O
 independence	O
 war	O
 .	O
+
 He	O
 commanded	O
 the	O
@@ -457,6 +460,7 @@ Non	B-Organization
 Aligned	I-Organization
 Movements	I-Organization
 .	O
+
 He	O
 was	O
 active	O
@@ -469,18 +473,16 @@ and	O
 presided	O
 over	O
 the	O
-U	B-Organization
-.	I-Organization
-N	I-Organization
-.	I-Organization
+U.	B-Organization
+N.	I-Organization
 General	I-Organization
 Assembly	I-Organization
 in	O
-1974	B-Misc
+1974	B-Date
 .	O
 
 In	O
-1978	B-Misc
+1978	B-Date
 ,	O
 slipped	O
 from	O
@@ -519,6 +521,7 @@ throughout	O
 that	O
 time	O
 .	O
+
 The	O
 National	B-Organization
 Liberation	I-Organization
@@ -533,7 +536,7 @@ party	O
 that	O
 ruled	O
 until	O
-1989	B-Misc
+1989	B-Date
 ,	O
 when	O
 a	O
@@ -570,7 +573,7 @@ party	O
 legislative	O
 elections	O
 in	O
-1992	B-Misc
+1992	B-Date
 to	O
 thwart	O
 a	O
@@ -581,6 +584,7 @@ the	O
 Muslim	B-NORP
 fundamentalists	O
 .	O
+
 An	O
 insurgency	O
 erupted	O
@@ -600,7 +604,7 @@ Bouteflika	B-Person
 took	O
 office	O
 in	O
-1999	B-Misc
+1999	B-Date
 ,	O
 Algeria	B-Location
 's	O
@@ -613,6 +617,7 @@ than	O
 three	O
 decades	O
 .	O
+
 He	O
 managed	O
 to	O
@@ -635,7 +640,7 @@ a	O
 bold	O
 program	O
 in	O
-2005	B-Misc
+2005	B-Date
 to	O
 reconcile	O
 the	O
@@ -699,11 +704,10 @@ against	O
 terrorism	O
 after	O
 the	O
-Sept	B-Misc
-.	I-Misc
-11	I-Misc
-,	I-Misc
-2001	I-Misc
+Sept.	B-Date
+11	I-Date
+,	I-Date
+2001	I-Date
 ,	O
 attacks	O
 ,	O
@@ -716,6 +720,7 @@ and	O
 military	O
 cooperation	O
 .	O
+
 It	O
 marked	O
 a	O
@@ -766,6 +771,7 @@ two	O
 term	O
 limit	O
 .	O
+
 He	O
 was	O
 then	O
@@ -773,9 +779,9 @@ re	O
 -	O
 elected	O
 in	O
-2009	B-Misc
+2009	B-Date
 and	O
-2013	B-Misc
+2013	B-Date
 ,	O
 amid	O
 charges	O
@@ -807,6 +813,7 @@ once	O
 charismatic	O
 figure	O
 .	O
+
 Corruption	O
 scandals	O
 over	O
@@ -826,6 +833,7 @@ his	O
 closest	O
 associates	O
 .	O
+
 His	O
 brother	O
 ,	O
@@ -858,7 +866,7 @@ change	O
 embodied	O
 by	O
 the	O
-2011	B-Misc
+2011	B-Date
 Arab	B-Misc	B-NORP
 Spring	I-Misc
 revolutions	O
@@ -870,6 +878,7 @@ to	O
 his	O
 east	O
 .	O
+
 Bouteflika	B-Person
 tamped	O
 down	O
@@ -895,6 +904,7 @@ country	O
 's	O
 opposition	O
 .	O
+
 He	O
 also	O
 failed	O
@@ -947,6 +957,7 @@ suffering	O
 a	O
 stroke	O
 .	O
+
 The	O
 extent	O
 to	O
@@ -960,6 +971,7 @@ army	O
 remained	O
 unclear	O
 .	O
+
 He	O
 once	O
 said	O
@@ -971,7 +983,7 @@ job	O
 of	O
 president	O
 in	O
-1994	B-Misc
+1994	B-Date
 because	O
 he	O
 was	O
@@ -1001,7 +1013,7 @@ a	O
 fifth	O
 term	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 and	O
 it	O
@@ -1022,6 +1034,7 @@ with	O
 the	O
 demonstrators	O
 .	O
+
 Bouteflika	B-Person
 had	O
 no	O
@@ -1053,8 +1066,7 @@ recently	O
 cracked	O
 down	O
 on	O
-dissen	O
-t	O
+dissent	O
 ,	O
 notably	O
 among	O

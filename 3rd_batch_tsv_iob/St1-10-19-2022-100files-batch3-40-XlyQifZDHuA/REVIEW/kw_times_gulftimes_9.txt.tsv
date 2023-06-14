@@ -31,7 +31,7 @@ al	I-Person
 Ansari	I-Person
 ,	O
 met	O
-Monday	B-Misc
+Monday	B-Date
 via	O
 videoconferencing	O
 with	O
@@ -68,7 +68,7 @@ the	O
 media	O
 and	O
 the	O
-2022	B-Misc
+2022	B-Date
 FIFA	B-Misc	B-Organization
 World	I-Misc
 Cup	I-Misc

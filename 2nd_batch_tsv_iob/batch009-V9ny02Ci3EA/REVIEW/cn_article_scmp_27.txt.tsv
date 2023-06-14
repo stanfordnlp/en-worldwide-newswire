@@ -56,7 +56,7 @@ locally	O
 transmitted	O
 cases	O
 for	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 a	O
 slow	O
@@ -168,7 +168,7 @@ Covid	B-Misc
 control	O
 meeting	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 Nationwide	O
@@ -195,7 +195,7 @@ areas	O
 .	O
 
 On	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 826	O
 new	O
@@ -303,7 +303,7 @@ to	O
 an	O
 outbreak	O
 in	O
-March	B-Misc
+March	B-Date
 with	O
 a	O
 “	O
@@ -380,7 +380,7 @@ high	O
 -	O
 risk	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 and	O
 many	O
 neighbours	O
@@ -456,7 +456,7 @@ the	O
 cases	O
 recorded	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 but	O
 Carrot	B-Person
 Zhang	I-Person

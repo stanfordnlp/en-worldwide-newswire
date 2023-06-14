@@ -31,8 +31,8 @@ Torture	I-Organization
 EAAT	B-Organization
 )	O
 on	O
-21	B-Misc
-June	I-Misc
+21	B-Date
+June	I-Date
 provides	O
 evidence	O
 of	O
@@ -91,8 +91,8 @@ the	O
 letter	O
 ,	O
 issued	O
-29	B-Misc
-February	I-Misc
+29	B-Date
+February	I-Date
 ,	O
 the	O
 ministry	O
@@ -341,8 +341,8 @@ recent	O
 accusation	O
 came	O
 on	O
-9	B-Misc
-June	I-Misc
+9	B-Date
+June	I-Date
 ,	O
 when	O
 40	O
@@ -503,7 +503,7 @@ official	O
 NGO	O
 status	O
 last	O
-August	B-Misc
+August	B-Date
 ,	O
 the	O
 group	O

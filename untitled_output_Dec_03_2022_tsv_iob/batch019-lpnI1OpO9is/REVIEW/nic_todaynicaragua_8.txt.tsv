@@ -27,12 +27,12 @@ Telcor	B-Organization
 ,	O
 ordered	O
 on	O
-Friday	B-Misc
-,	I-Misc
-May	I-Misc
-20	I-Misc
-,	I-Misc
-2022	I-Misc
+Friday	B-Date
+,	B-Misc
+May	B-Date
+20	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 to	O
 take	O
@@ -380,8 +380,8 @@ the	O
 social	O
 outbreak	O
 of	O
-April	B-Misc
-2018	I-Misc
+April	B-Date
+2018	I-Date
 that	O
 left	O
 hundreds	O
@@ -392,7 +392,7 @@ was	O
 until	O
 yesterday	O
 ,	O
-Thursday	B-Misc
+Thursday	B-Date
 ,	O
 that	O
 he	O
@@ -590,7 +590,7 @@ has	O
 been	O
 experiencing	O
 since	O
-2018	B-Misc
+2018	B-Date
 .	O
 
 Ortega	B-Person
@@ -663,8 +663,8 @@ and	O
 social	O
 crisis	O
 since	O
-April	B-Misc
-2018	I-Misc
+April	B-Date
+2018	I-Date
 ,	O
 which	O
 has	O
@@ -676,8 +676,8 @@ controversial	O
 general	O
 elections	O
 on	O
-November	B-Misc
-7	I-Misc
+November	B-Date
+7	I-Date
 ,	O
 in	O
 which	O

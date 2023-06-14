@@ -3,7 +3,7 @@ https://www.scmp.com/lifestyle/k-pop/artists-celebrities/article/3184173/how-big
 The	O
 start	O
 of	O
-July	B-Misc
+July	B-Date
 saw	O
 some	O
 fresh	O
@@ -176,7 +176,7 @@ by	O
 SM	B-Organization
 Entertainment	I-Organization
 in	O
-2016	B-Misc
+2016	B-Date
 after	O
 the	O
 label	O
@@ -258,7 +258,7 @@ Shotaro	B-Person
 and	O
 Seungchan	B-Person
 in	O
-2020	B-Misc
+2020	B-Date
 ,	O
 neither	O
 of	O
@@ -921,7 +921,7 @@ Super	B-Organization
 Junior	I-Organization
 debuted	O
 in	O
-2005	B-Misc
+2005	B-Date
 with	O
 a	O
 rotating	O
@@ -949,7 +949,7 @@ up	O
 Exo	B-Organization
 debuted	O
 in	O
-2012	B-Misc
+2012	B-Date
 split	O
 into	O
 two	O

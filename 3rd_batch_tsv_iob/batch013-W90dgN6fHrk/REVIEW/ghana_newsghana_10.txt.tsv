@@ -56,12 +56,12 @@ show	O
 will	O
 premiere	O
 on	O
-August	B-Misc
-6th	I-Misc
+August	B-Date
+6th	I-Date
 and	O
 air	O
 on	O
-Saturdays	B-Misc
+Saturdays	B-Date
 at	O
 5:30 pm	O
 local	O
@@ -171,7 +171,7 @@ in	O
 known	O
 funding	O
 in	O
-2021	B-Misc
+2021	B-Date
 -	O
 propels	O
 our	O
@@ -419,7 +419,7 @@ guests	O
 .	O
 
 In	O
-February	B-Misc
+February	B-Date
 of	O
 this	O
 year	O
@@ -600,7 +600,7 @@ episodes	O
 premiere	O
 in	O
 late	O
-July	B-Misc
+July	B-Date
 .	O
 
 About	O

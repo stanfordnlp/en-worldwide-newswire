@@ -180,7 +180,7 @@ relations	O
 with	O
 Israel	B-Location
 in	O
-1992	B-Misc
+1992	B-Date
 ,	O
 but	O
 strategic	O
@@ -262,7 +262,7 @@ $	B-Money
 76	I-Money
 billion	I-Money
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 making	O
 it	O
@@ -294,12 +294,12 @@ from	O
 4.7	O
 percent	O
 in	O
-2010-15	B-Misc
+2010-15	B-Date
 to	O
 13	O
 percent	O
 in	O
-2015-20	B-Misc
+2015-20	B-Date
 .	O
 The	O
 Indian	B-NORP
@@ -322,7 +322,7 @@ elected	O
 prime	O
 minister	O
 in	O
-2014	B-Misc
+2014	B-Date
 to	O
 42	O
 percent	O
@@ -442,7 +442,7 @@ with	O
 Iran	B-Location
 .	O
 In	O
-June	B-Misc
+June	B-Date
 ,	O
 Iranian	B-NORP
 Foreign	O
@@ -694,7 +694,7 @@ port	O
 As	O
 recently	O
 as	O
-2019	B-Misc
+2019	B-Date
 ,	O
 Iran	B-Location
 was	O
@@ -727,7 +727,7 @@ the	O
 terms	O
 of	O
 the	O
-2015	B-Misc
+2015	B-Date
 nuclear	O
 accord	O
 ,	O
@@ -869,7 +869,7 @@ at	O
 the	O
 end	O
 of	O
-June	B-Misc
+June	B-Date
 left	O
 from	O
 the	O

@@ -41,7 +41,7 @@ gathered	O
 in	O
 Tehran	B-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 to	O
 participate	O
 in	O
@@ -127,10 +127,10 @@ heads	O
 of	O
 state	O
 on	O
-July	B-Misc
-11	I-Misc
-,	I-Misc
-2019	I-Misc
+July	B-Date
+11	I-Date
+,	I-Date
+2019	I-Date
 ,	O
 and	O
 once	O
@@ -1329,7 +1329,7 @@ by	O
 the	O
 end	O
 of	O
-2022	B-Misc
+2022	B-Date
 .	O
 
 15	O

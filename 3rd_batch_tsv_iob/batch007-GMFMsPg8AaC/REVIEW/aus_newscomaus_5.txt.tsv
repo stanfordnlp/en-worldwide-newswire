@@ -27,7 +27,7 @@ cent	O
 reduction	O
 target	O
 by	O
-2030	B-Misc
+2030	B-Date
 in	O
 law	O
 as	O
@@ -311,7 +311,7 @@ Scott	B-Person
 Morrison	I-Person
 lost	O
 the	O
-2022	B-Misc
+2022	B-Date
 election	O
 on	O
 a	O
@@ -320,7 +320,7 @@ of	O
 net	O
 zero	O
 by	O
-2050	B-Misc
+2050	B-Date
 and	O
 an	O
 “	O
@@ -335,7 +335,7 @@ reduction	O
 in	O
 emissions	O
 by	O
-2030	B-Misc
+2030	B-Date
 .	O
 
 At	O
@@ -693,7 +693,7 @@ emissions	O
 reduction	O
 target	O
 for	O
-2030	B-Misc
+2030	B-Date
 is	O
 a	O
 floor	O

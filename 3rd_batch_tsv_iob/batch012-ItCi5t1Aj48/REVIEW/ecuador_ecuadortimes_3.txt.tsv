@@ -23,17 +23,17 @@ mouth	O
 disease	O
 began	O
 this	O
-Monday	B-Misc
-,	I-Misc
-July	I-Misc
-18	I-Misc
+Monday	B-Date
+,	I-Date
+July	I-Date
+18	I-Date
 ,	O
 which	O
 will	O
 last	O
 until	O
-August	B-Misc
-31	I-Misc
+August	B-Date
+31	I-Date
 and	O
 is	O
 in	O
@@ -243,7 +243,7 @@ OIE	B-Organization
 )	O
 ,	O
 since	O
-2015	B-Misc
+2015	B-Date
 .	O
 
 According	O

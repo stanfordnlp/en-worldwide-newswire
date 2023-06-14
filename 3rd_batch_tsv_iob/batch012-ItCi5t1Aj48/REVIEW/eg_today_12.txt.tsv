@@ -2,8 +2,8 @@ https://www.egypttoday.com/Article/3/117716/Sisi-inks-laws-linking-budget-of-num
 
 CAIRO	B-Location
 ,	O
-July	B-Misc
-19	I-Misc
+July	B-Date
+19	I-Date
 (	O
 MENA	B-Location
 )	O
@@ -33,7 +33,7 @@ no	O
 .	O
 127	O
 of	O
-2022	B-Misc
+2022	B-Date
 on	O
 the	O
 budget	O
@@ -46,7 +46,7 @@ authority	O
 with	O
 fiscal	O
 year	O
-2022-2023	B-Misc
+2022-2023	B-Date
 .	O
 
 Sisi	B-Person
@@ -57,7 +57,7 @@ no	O
 .	O
 128	O
 of	O
-2022	B-Misc
+2022	B-Date
 linking	O
 the	O
 budget	O
@@ -70,14 +70,14 @@ with	O
 the	O
 fiscal	O
 year	O
-2022-2023	B-Misc
+2022-2023	B-Date
 ,	O
 law	O
 no	O
 .	O
 129	O
 of	O
-2022	B-Misc
+2022	B-Date
 linking	O
 the	O
 budget	O
@@ -89,14 +89,14 @@ with	O
 the	O
 fiscal	O
 year	O
-2022-2023	B-Misc
+2022-2023	B-Date
 ,	O
 law	O
 no	O
 .	O
 130	O
 of	O
-2022	B-Misc
+2022	B-Date
 linking	O
 the	O
 budget	O
@@ -109,14 +109,14 @@ authority	O
 with	O
 fiscal	O
 year	O
-2022-2023	B-Misc
+2022-2023	B-Date
 and	O
 law	O
 no	O
 .	O
 131	O
 of	O
-2022	B-Misc
+2022	B-Date
 linking	O
 the	O
 budget	O
@@ -139,7 +139,7 @@ AUPP	B-Organization
 with	O
 fiscal	O
 year	O
-2022-2023	B-Misc
+2022-2023	B-Date
 .	O
 
 He	O
@@ -150,7 +150,7 @@ no	O
 .	O
 132	O
 of	O
-2022	B-Misc
+2022	B-Date
 linking	O
 the	O
 budget	O
@@ -161,14 +161,14 @@ authority	O
 with	O
 fiscal	O
 year	O
-2022-2023	B-Misc
+2022-2023	B-Date
 ,	O
 law	O
 no	O
 .	O
 134	O
 of	O
-2022	B-Misc
+2022	B-Date
 linking	O
 the	O
 budget	O
@@ -190,7 +190,7 @@ no	O
 .	O
 135	O
 of	O
-2022	B-Misc
+2022	B-Date
 linking	O
 budget	O
 of	O
@@ -200,14 +200,14 @@ Museum	I-Facility
 with	O
 fiscal	O
 year	O
-2022-2023	B-Misc
+2022-2023	B-Date
 and	O
 law	O
 no	O
 .	O
 136	O
 of	O
-2022	B-Misc
+2022	B-Date
 linking	O
 the	O
 budget	O
@@ -222,7 +222,7 @@ stadium	O
 with	O
 fiscal	O
 year	O
-2022-2023	B-Misc
+2022-2023	B-Date
 .	O
 
 The	O

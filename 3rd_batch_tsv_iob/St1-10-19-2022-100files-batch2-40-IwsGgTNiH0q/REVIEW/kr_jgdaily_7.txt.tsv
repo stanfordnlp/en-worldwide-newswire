@@ -80,7 +80,7 @@ Police	I-Organization
 Agency	I-Organization
 announced	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 "	O
 Through	O
@@ -101,16 +101,16 @@ Kim	B-Person
 was	O
 arrested	O
 on	O
-July	B-Misc
-17	I-Misc
+July	B-Date
+17	I-Date
 and	O
 sent	O
 back	O
 to	O
 Korea	B-Location
 on	O
-July	B-Misc
-19	I-Misc
+July	B-Date
+19	I-Date
 .	O
 "	O
 
@@ -151,8 +151,8 @@ Notice	O
 for	O
 Kim	B-Person
 in	O
-June	B-Misc
-2019	I-Misc
+June	B-Date
+2019	I-Date
 ,	O
 which	O
 started	O
@@ -231,10 +231,10 @@ police	O
 The	O
 team	O
 planned	O
-July	B-Misc
-17	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+17	I-Date
+,	I-Date
+2022	I-Date
 as	O
 the	O
 D	O
@@ -271,8 +271,8 @@ City	I-Location
 around	O
 2 p.m.	O
 on	O
-July	B-Misc
-17	I-Misc
+July	B-Date
+17	I-Date
 and	O
 arrested	O
 him	O
@@ -314,7 +314,7 @@ $	B-Money
 in	O
 Korea	B-Location
 since	O
-2018	B-Misc
+2018	B-Date
 .	O
 
 “	O
@@ -390,8 +390,8 @@ in	O
 the	O
 Philippines	B-Location
 in	O
-October	B-Misc
-2020	I-Misc
+October	B-Date
+2020	I-Date
 .	O
 
 Along	O
@@ -411,7 +411,7 @@ in	O
 the	O
 Philippines	B-Location
 in	O
-2016	B-Misc
+2016	B-Date
 .	O
 
 Managing	O
@@ -449,8 +449,8 @@ service	O
 was	O
 arrested	O
 in	O
-January	B-Misc
-2021	I-Misc
+January	B-Date
+2021	I-Date
 ,	O
 his	O
 cover	O
@@ -471,8 +471,8 @@ arrested	O
 in	O
 Cambodia	B-Location
 in	O
-April	B-Misc
-2022	I-Misc
+April	B-Date
+2022	I-Date
 and	O
 sent	O
 back	O
@@ -487,7 +487,7 @@ fleeing	O
 North	B-Location
 Korea	I-Location
 in	O
-2011	B-Misc
+2011	B-Date
 ,	O
 Choi	B-Person
 became	O

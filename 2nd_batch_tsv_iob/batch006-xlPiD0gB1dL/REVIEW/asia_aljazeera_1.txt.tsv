@@ -70,7 +70,7 @@ the	O
 deadliest	O
 unrest	O
 since	O
-2005	B-Misc
+2005	B-Date
 in	O
 the	O
 Central	B-NORP
@@ -161,8 +161,8 @@ behind	O
 bars	O
 as	O
 of	O
-July	B-Misc
-20	I-Misc
+July	B-Date
+20	I-Date
 .	O
 
 ODF	B-Organization
@@ -240,7 +240,7 @@ reform	O
 .	O
 
 On	O
-Thursday	B-Misc
+Thursday	B-Date
 ,	O
 the	O
 president	O

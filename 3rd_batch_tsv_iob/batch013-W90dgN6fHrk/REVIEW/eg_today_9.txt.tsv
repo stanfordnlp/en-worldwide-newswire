@@ -20,9 +20,9 @@ economy	O
 
 CAIRO	B-Location
 –	O
-25	B-Misc
-July	I-Misc
-2022	I-Misc
+25	B-Date
+July	I-Date
+2022	I-Date
 :	O
 The	O
 Egyptian	B-Organization
@@ -59,7 +59,7 @@ the	O
 new	O
 fiscal	O
 year	O
-2022/2023	B-Misc
+2022/2023	B-Date
 .	O
 
 The	O
@@ -228,7 +228,7 @@ El	I-Location
 -	I-Location
 Sheikh	I-Location
 next	O
-November	B-Misc
+November	B-Date
 ,	O
 under	O
 the	O
@@ -569,7 +569,7 @@ to	O
 be	O
 held	O
 in	O
-November	B-Misc
+November	B-Date
 ,	O
 the	O
 upcoming	O

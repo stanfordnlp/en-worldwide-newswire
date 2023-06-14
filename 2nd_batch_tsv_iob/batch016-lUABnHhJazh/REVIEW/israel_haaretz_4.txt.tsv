@@ -69,8 +69,8 @@ are	O
 threatening	O
 to	O
 strike	O
-September	B-Misc
-1	I-Misc
+September	B-Date
+1	I-Date
 ,	O
 when	O
 classes	O
@@ -590,7 +590,7 @@ been	O
 rising	O
 steadily	O
 since	O
-1990	B-Misc
+1990	B-Date
 –	O
 especially	O
 for	O
@@ -755,7 +755,7 @@ $	B-Money
 a	O
 month	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 versus	O
 a	O
@@ -1107,7 +1107,7 @@ unfilled	O
 ahead	O
 of	O
 the	O
-2022-23	B-Misc
+2022-23	B-Date
 school	O
 year	O
 ,	O
@@ -1744,7 +1744,7 @@ Skills	I-Organization
 said	O
 in	O
 a	O
-2020	B-Misc
+2020	B-Date
 interview	O
 with	O
 The	B-Organization

@@ -25,7 +25,7 @@ Bangkok	B-Location
 Dusit	B-Location
 district	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 The	O
@@ -64,14 +64,14 @@ will	O
 be	O
 held	O
 on	O
-July	B-Misc
-27	I-Misc
+July	B-Date
+27	I-Date
 and	O
 the	O
 final	O
 on	O
-July	B-Misc
-30	I-Misc
+July	B-Date
+30	I-Date
 at	O
 Iconsiam	B-Location
 .	O

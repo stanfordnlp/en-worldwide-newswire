@@ -18,7 +18,7 @@ S	I-Location
 .	I-Location
 prison	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 Ismael	B-Person
@@ -79,12 +79,12 @@ extradited	O
 from	O
 Mexico	B-Location
 in	O
-December	B-Misc
-2019	I-Misc
+December	B-Date
+2019	I-Date
 .	O
 In	O
-April	B-Misc
-2021	I-Misc
+April	B-Date
+2021	I-Date
 ,	O
 he	O
 pleaded	O
@@ -109,8 +109,8 @@ years	O
 in	O
 prison	O
 on	O
-June	B-Misc
-24	I-Misc
+June	B-Date
+24	I-Date
 .	O
 Thanks	O
 to	O
@@ -142,8 +142,8 @@ was	O
 originally	O
 arrested	O
 in	O
-November	B-Misc
-2014	I-Misc
+November	B-Date
+2014	I-Date
 in	O
 Culiacán	B-Location
 ,	I-Location
@@ -278,7 +278,7 @@ arrested	O
 in	O
 Mexico	B-Location
 in	O
-2009	B-Misc
+2009	B-Date
 and	O
 extradited	O
 to	O
@@ -295,8 +295,8 @@ He	O
 was	O
 sentenced	O
 in	O
-May	B-Misc
-2019	I-Misc
+May	B-Date
+2019	I-Date
 to	O
 15	O
 years	O
@@ -349,8 +349,8 @@ He	O
 was	O
 arrested	O
 in	O
-November	B-Misc
-2013	I-Misc
+November	B-Date
+2013	I-Date
 after	O
 trying	O
 to	O
@@ -381,8 +381,8 @@ and	O
 was	O
 released	O
 in	O
-September	B-Misc
-2018	I-Misc
+September	B-Date
+2018	I-Date
 .	O
 
 U	B-Location
@@ -403,7 +403,7 @@ of	O
 Zambada	B-Person
 García	I-Person
 in	O
-September	B-Misc
+September	B-Date
 .	O
 The	O
 whereabouts	O

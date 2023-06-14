@@ -58,10 +58,10 @@ is	O
 taking	O
 place	O
 from	O
-March	B-Misc
-4	I-Misc
-to	I-Misc
-15	I-Misc
+March	B-Date
+4	I-Date
+to	I-Date
+15	I-Date
 at	O
 UN	B-Organization
 headquarters	O

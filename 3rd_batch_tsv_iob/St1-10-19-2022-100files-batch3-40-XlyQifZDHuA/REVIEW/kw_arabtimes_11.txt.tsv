@@ -2,14 +2,14 @@ http://www.arabtimesonline.com/news/eu-usa-slams-reprehensible-executions-in-mya
 
 WASHINGTON	B-Location
 ,	O
-July	B-Misc
-25	I-Misc
+July	B-Date
+25	I-Date
 :	O
 The	O
 United	B-Location
 States	I-Location
 condemned	O
-Monday	B-Misc
+Monday	B-Date
 in	O
 the	O
 strongest	O
@@ -110,8 +110,8 @@ freedoms	O
 “	O
 Since	O
 the	O
-February	B-Misc
-2021	I-Misc
+February	B-Date
+2021	I-Date
 coup	O
 ,	O
 the	O
@@ -286,7 +286,7 @@ The	O
 European	B-Organization	B-NORP
 Union	I-Organization
 on	O
-Monday	B-Misc
+Monday	B-Date
 strongly	O
 condemned	O
 the	O

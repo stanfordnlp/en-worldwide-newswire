@@ -72,9 +72,9 @@ adventurer	O
 who	O
 lived	O
 from	O
-1855	B-Misc
+1855	B-Date
 to	O
-1916	B-Misc
+1916	B-Date
 .	O
 
 He	O
@@ -90,7 +90,7 @@ who	O
 discovered	O
 gold	O
 in	O
-1897	B-Misc
+1897	B-Date
 in	O
 the	O
 Bonanza	B-Location

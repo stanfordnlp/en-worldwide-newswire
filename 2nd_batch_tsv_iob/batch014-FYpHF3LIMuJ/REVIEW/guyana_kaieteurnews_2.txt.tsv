@@ -73,7 +73,7 @@ In	O
 a	O
 press	O
 statement	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 TIGI	B-Organization
 said	O
@@ -427,9 +427,9 @@ framework	O
 .	O
 ”	O
 On	O
-Saturday	B-Misc
-June	I-Misc
-25	I-Misc
+Saturday	B-Date
+June	I-Date
+25	I-Date
 ,	O
 last	O
 ,	O
@@ -526,8 +526,8 @@ Cap	I-Misc
 05	I-Misc
 ,	I-Misc
 (	I-Misc
-2003	I-Misc
-)	I-Misc
+2003	B-Date
+)	B-Misc
 ,	O
 the	O
 Access	B-Misc
@@ -553,7 +553,7 @@ No	I-Misc
 .	I-Misc
 1	I-Misc
 of	I-Misc
-2015	I-Misc
+2015	B-Date
 .	O
 ”	O
 
@@ -614,10 +614,10 @@ National	B-Organization
 Coordinating	I-Organization
 Committee	I-Organization
 on	O
-June	B-Misc
-8	I-Misc
-,	I-Misc
-2021	I-Misc
+June	B-Date
+8	I-Date
+,	I-Date
+2021	I-Date
 which	O
 includes	O
 16	O
@@ -776,7 +776,7 @@ In	O
 fact	O
 ,	O
 last	O
-Thursday	B-Misc
+Thursday	B-Date
 Leader	O
 of	O
 the	O

@@ -82,10 +82,10 @@ Conference	I-Misc
 NPC	B-Misc
 )	O
 from	O
-28	B-Misc
-to	I-Misc
-31	I-Misc
-July	I-Misc
+28	B-Date
+to	I-Date
+31	I-Date
+July	I-Date
 .	O
 
 Those	O
@@ -326,9 +326,9 @@ not	O
 yet	O
 paid	O
 their	O
-June	B-Misc
+June	B-Date
 and	O
-July	B-Misc
+July	B-Date
 salaries	O
 .	O
 
@@ -353,9 +353,9 @@ paid	O
 ,	O
 but	O
 our	O
-June	B-Misc
+June	B-Date
 and	O
-July	B-Misc
+July	B-Date
 salaries	O
 are	O
 still	O

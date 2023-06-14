@@ -90,10 +90,10 @@ around	O
 7:45pm	O
 yesterday	O
 (	O
-July	B-Misc
-25	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+25	I-Date
+,	I-Date
+2022	I-Date
 )	O
 ,	O
 Bulbul	B-Person

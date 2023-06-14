@@ -18,7 +18,7 @@ coach	O
 ahead	O
 of	O
 the	O
-2022/2023	B-Misc
+2022/2023	B-Date
 season	O
 .	O
 
@@ -94,7 +94,7 @@ former	O
 Kenyan	B-NORP
 champions	O
 in	O
-February	B-Misc
+February	B-Date
 and	O
 signed	O
 a	O
@@ -105,8 +105,8 @@ contract	O
 that	O
 lapsed	O
 on	O
-June	B-Misc
-30	I-Misc
+June	B-Date
+30	I-Date
 .	O
 
 “	O
@@ -117,10 +117,10 @@ of	O
 the	O
 agreement	O
 on	O
-June	B-Misc
-30	I-Misc
-,	I-Misc
-22	I-Misc
+June	B-Date
+30	I-Date
+,	I-Date
+22	I-Date
 ,	O
 the	O
 club	O

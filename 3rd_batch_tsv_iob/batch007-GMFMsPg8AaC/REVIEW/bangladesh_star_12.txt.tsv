@@ -87,8 +87,8 @@ taskforce	O
 was	O
 formed	O
 in	O
-October	B-Misc
-2019	I-Misc
+October	B-Date
+2019	I-Date
 to	O
 implement	O
 111	O
@@ -174,11 +174,11 @@ a	O
 week	O
 (	O
 from	O
-July	B-Misc
-7	I-Misc
+July	B-Date
+7	I-Date
 to	O
-July	B-Misc
-13	I-Misc
+July	B-Date
+13	I-Date
 )	O
 ,	O
 aiming	O
@@ -188,7 +188,7 @@ road	O
 safety	O
 during	O
 the	O
-Eid	B-Misc
+Eid	B-Date
 rush	O
 .	O
 
@@ -221,11 +221,11 @@ of	O
 this	O
 year	O
 's	O
-Eid	B-Misc
--	I-Misc
-ul	I-Misc
--	I-Misc
-Fitr	I-Misc
+Eid	B-Date
+-	I-Date
+ul	I-Date
+-	I-Date
+Fitr	I-Date
 .	O
 
 For	O

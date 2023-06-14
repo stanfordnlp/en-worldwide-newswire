@@ -29,7 +29,7 @@ his	O
 breakout	O
 role	O
 in	O
-2012	B-Misc
+2012	B-Date
 retro	O
 hit	O
 Answer	B-Misc
@@ -59,7 +59,7 @@ a	O
 singer	O
 on	O
 the	O
-2009	B-Misc
+2009	B-Date
 talent	O
 search	O
 programme	O
@@ -68,8 +68,8 @@ K	I-Misc
 ,	O
 and	O
 on	O
-June	B-Misc
-14	I-Misc
+June	B-Date
+14	I-Date
 he	O
 released	O
 a	O
@@ -89,7 +89,7 @@ new	O
 music	O
 since	O
 his	O
-2017	B-Misc
+2017	B-Date
 single	O
 Better	B-Misc
 Together	I-Misc
@@ -218,7 +218,7 @@ of	O
 last	O
 year	O
 [	O
-2021	B-Misc
+2021	B-Date
 ]	O
 and	O
 earlier	O
@@ -237,8 +237,8 @@ to	O
 go	O
 live	O
 on	O
-June	B-Misc
-27	I-Misc
+June	B-Date
+27	I-Date
 ,	O
 to	O
 avoid	O
@@ -610,7 +610,7 @@ famous	O
 for	O
 :	O
 in	O
-2012	B-Misc
+2012	B-Date
 ,	O
 he	O
 appeared	O
@@ -869,7 +869,7 @@ series	O
 and	O
 films	O
 since	O
-2018	B-Misc
+2018	B-Date
 ,	O
 and	O
 to	O

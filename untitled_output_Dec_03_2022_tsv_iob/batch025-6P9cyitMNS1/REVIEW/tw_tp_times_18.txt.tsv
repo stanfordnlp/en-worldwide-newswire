@@ -140,10 +140,10 @@ on	O
 a	O
 motorboat	O
 on	O
-March	B-Misc
-7	I-Misc
-,	I-Misc
-1987	I-Misc
+March	B-Date
+7	I-Date
+,	I-Date
+1987	I-Date
 .	O
 
 They	O
@@ -389,8 +389,8 @@ investigation	O
 which	O
 concluded	O
 in	O
-September	B-Misc
-1987	I-Misc
+September	B-Date
+1987	I-Date
 ,	O
 he	O
 said	O
@@ -543,7 +543,7 @@ have	O
 been	O
 retelling	O
 the	O
-1987	B-Misc
+1987	B-Date
 incident	O
 ,	O
 creating	O
@@ -641,7 +641,7 @@ islands	O
 Up	O
 to	O
 early	O
-1980	B-Misc
+1980	B-Date
 s	O
 ,	O
 Taiwan	B-Location

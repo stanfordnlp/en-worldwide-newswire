@@ -262,9 +262,9 @@ for	O
 five	O
 years	O
 from	O
-2016	B-Misc
+2016	B-Date
 to	O
-2021	B-Misc
+2021	B-Date
 .	O
 Niti	B-Person
 has	O
@@ -326,6 +326,6 @@ the	O
 first	O
 week	O
 of	O
-September	B-Misc
+September	B-Date
 .	O
 

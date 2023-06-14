@@ -40,7 +40,7 @@ in	O
 the	O
 mid	O
 -	O
-1990	B-Misc
+1990	B-Date
 s	O
 .	O
 On	O
@@ -95,7 +95,7 @@ the	O
 height	O
 of	O
 the	O
-1997	B-Misc
+1997	B-Date
 financial	O
 crisis	O
 .	O
@@ -138,7 +138,7 @@ Fast	O
 -	O
 forward	O
 to	O
-2017	B-Misc
+2017	B-Date
 .	O
 The	O
 days	O
@@ -475,7 +475,7 @@ the	O
 world	O
 .	O
 Since	O
-2011	B-Misc
+2011	B-Date
 ,	O
 Korea	B-Location
 ’	O
@@ -732,9 +732,9 @@ of	O
 87,000	O
 jobs	O
 between	O
-2009	B-Misc
+2009	B-Date
 and	O
-2015	B-Misc
+2015	B-Date
 ;	O
 bringing	O
 the	O
@@ -752,7 +752,7 @@ to	O
 (	O
 as	O
 of	O
-2015	B-Misc
+2015	B-Date
 )	O
 .	O
 That	O
@@ -831,7 +831,7 @@ States	I-Location
 ,	O
 with	O
 its	O
-2015	B-Misc
+2015	B-Date
 position	O
 at	O
 $	B-Money
@@ -857,9 +857,9 @@ growing	O
 17.3	O
 %	O
 between	O
-2010	B-Misc
+2010	B-Date
 and	O
-2015	B-Misc
+2015	B-Date
 .	O
 This	O
 growth	O
@@ -999,9 +999,9 @@ $	B-Money
 12-14	I-Money
 billion	I-Money
 between	O
-2013	B-Misc
+2013	B-Date
 and	O
-2016	B-Misc
+2016	B-Date
 –	O
 there	O
 are	O

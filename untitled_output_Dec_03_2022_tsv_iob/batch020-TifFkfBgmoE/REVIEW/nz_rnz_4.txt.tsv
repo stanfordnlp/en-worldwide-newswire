@@ -69,8 +69,8 @@ two	O
 storey	O
 home	O
 in	O
-December	B-Misc
-2021	I-Misc
+December	B-Date
+2021	I-Date
 ,	O
 has	O
 noticed	O
@@ -298,7 +298,7 @@ ENGEO	B-Organization
 report	O
 released	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 showed	O
 about	O
 two	O
@@ -362,7 +362,7 @@ temporary	O
 ,	O
 and	O
 a	O
-1966	B-Misc
+1966	B-Date
 study	O
 into	O
 the	O
@@ -450,7 +450,7 @@ at	O
 a	O
 meeting	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 for	O
 another	O
 report	O

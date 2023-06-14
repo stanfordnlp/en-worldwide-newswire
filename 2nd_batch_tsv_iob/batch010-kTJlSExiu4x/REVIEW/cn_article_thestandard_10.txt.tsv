@@ -69,7 +69,7 @@ domestically	O
 transmitted	O
 infections	O
 for	O
-Monday	B-Misc
+Monday	B-Date
 after	O
 around	O
 a	O
@@ -82,7 +82,7 @@ official	O
 data	O
 showed	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 Tianjin	B-Organization	B-Location
@@ -109,7 +109,7 @@ a	O
 representative	O
 said	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 Caseloads	O
@@ -256,7 +256,7 @@ in	O
 a	O
 note	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 that	O
 an	O
 estimated	O
@@ -305,8 +305,8 @@ domestically	O
 transmitted	O
 infections	O
 for	O
-July	B-Misc
-18	I-Misc
+July	B-Date
+18	I-Date
 ,	O
 of	O
 which	O
@@ -324,13 +324,13 @@ Health	I-Organization
 Commission	I-Organization
 said	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 The	O
 majority	O
 of	O
-Monday	B-Misc
+Monday	B-Date
 's	O
 new	O
 cases	O
@@ -368,7 +368,7 @@ entered	O
 a	O
 lockdown	O
 from	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 during	O
 which	O
@@ -407,8 +407,8 @@ has	O
 been	O
 extended	O
 to	O
-July	B-Misc
-24	I-Misc
+July	B-Date
+24	I-Date
 .	O
 
 In	O
@@ -544,13 +544,13 @@ new	O
 local	O
 cases	O
 for	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 began	O
 mass	O
 testing	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 in	O
 many	O
 of	O
@@ -584,7 +584,7 @@ at	O
 
 As	O
 of	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 mainland	O
 China	B-Location

@@ -37,7 +37,7 @@ prison	O
 guard	O
 stated	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 that	O
 she	O
 was	O
@@ -149,7 +149,7 @@ pimping	O
 affair	O
 "	O
 
-Thursday	B-Misc
+Thursday	B-Date
 's	O
 testimony	O
 is	O
@@ -165,7 +165,7 @@ case	O
 first	O
 publicized	O
 in	O
-2018	B-Misc
+2018	B-Date
 by	O
 Liran	B-Person
 Levi	I-Person
@@ -175,8 +175,8 @@ was	O
 then	O
 closed	O
 in	O
-October	B-Misc
-2019	I-Misc
+October	B-Date
+2019	I-Date
 due	O
 to	O
 "	O
@@ -234,7 +234,7 @@ However	O
 ,	O
 in	O
 late	O
-2021	B-Misc
+2021	B-Date
 ,	O
 the	O
 affair	O
@@ -1343,8 +1343,8 @@ reckoning	O
 "	O
 
 In	O
-December	B-Misc
-2021	I-Misc
+December	B-Date
+2021	I-Date
 ,	O
 a	O
 proposal	O

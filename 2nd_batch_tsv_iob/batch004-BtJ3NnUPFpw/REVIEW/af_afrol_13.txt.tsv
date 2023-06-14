@@ -3,8 +3,8 @@ http://www.afrol.com/articles/38306	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-26	B-Misc
-June	I-Misc
+26	B-Date
+June	I-Date
 -	O
 Four	O
 hangings	O
@@ -31,7 +31,7 @@ on	O
 state	O
 executions	O
 in	O
-2006	B-Misc
+2006	B-Date
 ,	O
 but	O
 governors	O
@@ -538,7 +538,7 @@ human	O
 right	O
 dialogue	O
 in	O
-March	B-Misc
+March	B-Date
 this	O
 year	O
 ,	O

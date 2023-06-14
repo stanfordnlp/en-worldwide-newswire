@@ -63,7 +63,7 @@ appear	O
 in	O
 Ottawa	B-Location
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 to	O
 intervene	O
 in	O
@@ -128,7 +128,7 @@ Sharma	B-Person
 pleaded	O
 guilty	O
 in	O
-2016	B-Misc
+2016	B-Date
 to	O
 smuggling	O
 two	O
@@ -172,7 +172,7 @@ custody	O
 .	O
 
 In	O
-2018	B-Misc
+2018	B-Date
 ,	O
 the	O
 Ontario	B-Organization	B-Location
@@ -195,7 +195,7 @@ the	O
 decision	O
 on	O
 a	O
-2012	B-Misc
+2012	B-Date
 change	O
 to	O
 the	O
@@ -726,7 +726,7 @@ nearly	O
 per	O
 cent	O
 since	O
-2012	B-Misc
+2012	B-Date
 ,	O
 while	O
 the	O

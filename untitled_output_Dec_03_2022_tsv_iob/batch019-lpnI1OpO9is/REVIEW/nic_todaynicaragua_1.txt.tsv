@@ -198,8 +198,8 @@ explained	O
 Authorization	O
 
 On	O
-June	B-Misc
-14	I-Misc
+June	B-Date
+14	I-Date
 ,	O
 the	O
 Nicaraguan	B-Organization	B-NORP
@@ -445,7 +445,7 @@ fourth	O
 consecutive	O
 term	O
 in	O
-November	B-Misc
+November	B-Date
 with	O
 his	O
 rivals	O

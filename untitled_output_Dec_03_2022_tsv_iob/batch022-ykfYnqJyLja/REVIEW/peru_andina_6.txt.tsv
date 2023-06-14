@@ -1,8 +1,8 @@
 https://andina.pe/ingles/noticia-peru-access-to-machu-picchu-via-amazon-route-available-through-authorized-travel-agencies-902392.aspx	O
 
 Starting	O
-August	B-Misc
-1	I-Misc
+August	B-Date
+1	I-Date
 this	O
 year	O
 ,	O
@@ -153,8 +153,8 @@ been	O
 implemented	O
 as	O
 of	O
-July	B-Misc
-20	I-Misc
+July	B-Date
+20	I-Date
 .	O
 
 To	O
@@ -245,7 +245,7 @@ Agencies	B-Misc
 .	O
 
 Last	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 the	O
 Ministry	B-Organization
@@ -269,10 +269,10 @@ will	O
 be	O
 valid	O
 thru	O
-December	B-Misc
-31	I-Misc
-,	I-Misc
-2022	I-Misc
+December	B-Date
+31	I-Date
+,	I-Date
+2022	I-Date
 .	O
 
 This	O

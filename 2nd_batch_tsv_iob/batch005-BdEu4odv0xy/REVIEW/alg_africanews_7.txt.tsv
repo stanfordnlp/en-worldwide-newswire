@@ -5,7 +5,7 @@ prosecutor	O
 in	O
 Algiers	B-Location
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 demanded	O
 18	O
 months	O
@@ -130,8 +130,8 @@ will	O
 be	O
 delivered	O
 on	O
-9	B-Misc
-June	I-Misc
+9	B-Date
+June	I-Date
 .	O
 
 Rabah	B-Person
@@ -148,7 +148,7 @@ he	O
 made	O
 during	O
 the	O
-1987	B-Misc	B-Misc
+1987	B-Misc	B-Date
 Champions	I-Misc
 Cup	I-Misc
 with	O
@@ -185,8 +185,8 @@ at	O
 the	O
 end	O
 of	O
-June	B-Misc
-2018	I-Misc
+June	B-Date
+2018	I-Date
 after	O
 a	O
 series	O

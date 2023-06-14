@@ -70,8 +70,8 @@ its	O
 third	O
 anniversary	O
 on	O
-July	B-Misc
-22	I-Misc
+July	B-Date
+22	I-Date
 .	O
 The	O
 board	O
@@ -326,7 +326,7 @@ yuan	I-Money
 a	O
 day	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 according	O
 data	O
@@ -386,8 +386,8 @@ was	O
 abruptly	O
 foiled	O
 in	O
-November	B-Misc
-2020	I-Misc
+November	B-Date
+2020	I-Date
 in	O
 a	O
 precursor	O
@@ -490,7 +490,7 @@ the	O
 Securities	B-Organization
 Daily	I-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 citing	O
 people	O

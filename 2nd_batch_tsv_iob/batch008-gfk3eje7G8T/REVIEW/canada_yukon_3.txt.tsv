@@ -38,8 +38,8 @@ pandemic	O
 Kicking	O
 off	O
 on	O
-June	B-Misc
-29	I-Misc
+June	B-Date
+29	I-Date
 ,	O
 the	O
 festival	O
@@ -132,7 +132,7 @@ was	O
 initially	O
 founded	O
 in	O
-2011	B-Misc
+2011	B-Date
 and	O
 was	O
 set	O
@@ -144,7 +144,7 @@ tenth	O
 year	O
 anniversary	O
 in	O
-2021	B-Misc
+2021	B-Date
 .	O
 Johnson	B-Person
 says	O
@@ -607,8 +607,8 @@ Adäka	B-Misc
 wraps	O
 up	O
 on	O
-July	B-Misc
-5	I-Misc
+July	B-Date
+5	I-Date
 .	O
 
 Johnson	B-Person

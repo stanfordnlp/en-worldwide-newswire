@@ -79,7 +79,7 @@ opened	O
 in	O
 Shanghai	B-Location
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 five	O
 years	O
@@ -223,8 +223,8 @@ from	O
 Hong	B-Location
 Kong	I-Location
 in	O
-January	B-Misc
-2017	I-Misc
+January	B-Date
+2017	I-Date
 ,	O
 before	O
 being	O
@@ -264,7 +264,7 @@ elite	O
 .	O
 
 In	O
-2007	B-Misc
+2007	B-Date
 ,	O
 Caijing	B-Organization
 magazine	I-Organization
@@ -303,7 +303,7 @@ Luneng	I-Organization
 .	O
 
 A	O
-2014	B-Misc
+2014	B-Date
 report	O
 by	O
 The	B-Organization
@@ -427,7 +427,7 @@ him	O
 .	O
 
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 China	B-Location
 ’	O

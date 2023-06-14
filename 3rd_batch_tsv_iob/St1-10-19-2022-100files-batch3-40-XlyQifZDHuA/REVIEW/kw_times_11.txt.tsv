@@ -229,7 +229,7 @@ hold	O
 a	O
 session	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 after	O
 His	O
@@ -267,7 +267,7 @@ at	O
 the	O
 National	B-Organization
 Assembly	I-Organization
-Tuesday	B-Misc
+Tuesday	B-Date
 that	O
 he	O
 was	O

@@ -317,9 +317,9 @@ alone	O
 
 Days	O
 after	O
-Nov	B-Misc
-.	I-Misc
-22	I-Misc
+Nov	B-Date
+.	I-Date
+22	I-Date
 ,	O
 when	O
 the	O

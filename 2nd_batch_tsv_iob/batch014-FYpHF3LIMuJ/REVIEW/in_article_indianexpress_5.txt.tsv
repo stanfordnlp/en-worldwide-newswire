@@ -53,7 +53,7 @@ for	O
 admissions	O
 for	O
 the	O
-2023-2024	B-Misc
+2023-2024	B-Date
 academic	O
 session	O
 and	O
@@ -387,10 +387,10 @@ agency	O
 .	O
 
 On	O
-September	B-Misc
-5	I-Misc
-,	I-Misc
-2018	I-Misc
+September	B-Date
+5	I-Date
+,	I-Date
+2018	I-Date
 ,	O
 the	O
 Ministry	B-Organization

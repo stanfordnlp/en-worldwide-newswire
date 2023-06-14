@@ -50,7 +50,7 @@ harmful	O
 food	O
 ”	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Her	O
@@ -127,7 +127,7 @@ The	B-Organization
 Paper	I-Organization
 reported	O
 in	O
-April	B-Misc
+April	B-Date
 .	O
 
 The	O
@@ -136,7 +136,7 @@ received	O
 a	O
 tip	O
 in	O
-December	B-Misc
+December	B-Date
 that	O
 some	O
 people	O
@@ -251,7 +251,7 @@ material	O
 .	O
 
 In	O
-August	B-Misc
+August	B-Date
 ,	O
 the	O
 Shanghai	B-Location
@@ -421,7 +421,7 @@ prison	O
 
 Born	O
 in	O
-1991	B-Misc
+1991	B-Date
 in	O
 Hunan	B-Location
 province	I-Location
@@ -451,7 +451,7 @@ scandals	O
 .	O
 
 In	O
-2011	B-Misc
+2011	B-Date
 ,	O
 she	O
 posted	O
@@ -511,7 +511,7 @@ officials	O
 .	O
 
 In	O
-2014	B-Misc
+2014	B-Date
 ,	O
 Guo	B-Person
 was	O
@@ -539,7 +539,7 @@ Cup	I-Misc
 .	O
 
 In	O
-2015	B-Misc
+2015	B-Date
 ,	O
 Guo	B-Person
 was	O
@@ -558,7 +558,7 @@ She	O
 was	O
 released	O
 in	O
-July	B-Misc
-2019	I-Misc
+July	B-Date
+2019	I-Date
 .	O
 

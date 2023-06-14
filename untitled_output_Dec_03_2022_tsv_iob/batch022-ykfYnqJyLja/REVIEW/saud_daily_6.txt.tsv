@@ -65,10 +65,10 @@ the	O
 Fintech	B-Misc
 Accelerator	I-Misc
 on	O
-Tuesday	B-Misc
-26/07	B-Misc
-/	I-Misc
-2022	I-Misc
+Tuesday	B-Date
+26/07	I-Date
+/	I-Date
+2022	I-Date
 .	O
 
 The	O
@@ -474,7 +474,7 @@ Fintech	B-Misc
 Accelerator	I-Misc
 Program	I-Misc
 (	O
-2021	B-Misc
+2021	B-Date
 )	O
 .	O
 
@@ -764,8 +764,8 @@ Saudi	B-Organization	B-NORP
 Central	I-Organization
 Bank	I-Organization
 in	O
-April	B-Misc
-2018	I-Misc
+April	B-Date
+2018	I-Date
 in	O
 collaboration	O
 with	O

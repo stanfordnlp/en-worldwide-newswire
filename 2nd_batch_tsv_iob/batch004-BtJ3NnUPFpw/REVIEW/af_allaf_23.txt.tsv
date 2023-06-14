@@ -14,7 +14,7 @@ in	O
 Abuja	B-Location
 ,	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 issued	O
 a	O
 seven	O
@@ -193,8 +193,8 @@ would	O
 be	O
 adopted	O
 on	O
-October	B-Misc
-31	I-Misc
+October	B-Date
+31	I-Date
 ,	O
 during	O
 which	O

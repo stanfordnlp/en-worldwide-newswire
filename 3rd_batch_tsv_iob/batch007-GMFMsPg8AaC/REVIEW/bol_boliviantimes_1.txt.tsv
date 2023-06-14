@@ -3,7 +3,7 @@ https://time.com/5723753/bolivia-evo-morales-resigns/	O
 In	O
 a	O
 dramatic	O
-Sunday	B-Misc
+Sunday	B-Date
 in	O
 Bolivia	B-Location
 ,	O
@@ -63,7 +63,7 @@ had	O
 led	O
 Bolivia	B-Location
 since	O
-2006	B-Misc
+2006	B-Date
 ,	O
 making	O
 him	O
@@ -140,9 +140,9 @@ the	O
 results	O
 of	O
 the	O
-Oct	B-Misc
-.	I-Misc
-20	I-Misc
+Oct	B-Date
+.	I-Date
+20	I-Date
 national	O
 elections	O
 .	O
@@ -226,7 +226,7 @@ calls	O
 for	O
 his	O
 resignation	O
-Sunday	B-Misc
+Sunday	B-Date
 .	O
 
 Morales	B-Person
@@ -306,7 +306,7 @@ his	O
 first	O
 election	O
 in	O
-2005	B-Misc
+2005	B-Date
 ,	O
 Bolivia	B-Location
 ’	O
@@ -327,7 +327,7 @@ population	O
 according	O
 to	O
 the	O
-2012	B-Misc
+2012	B-Date
 census	O
 (	O
 the	O
@@ -460,12 +460,12 @@ from	O
 60	O
 %	O
 in	O
-2006	B-Misc
+2006	B-Date
 to	O
 36	O
 %	O
 in	O
-2017	B-Location
+2017	B-Date
 ,	O
 while	O
 per	O
@@ -496,7 +496,7 @@ began	O
 to	O
 sour	O
 in	O
-2016	B-Misc
+2016	B-Date
 ,	O
 when	O
 he	O
@@ -591,9 +591,9 @@ after	O
 national	O
 elections	O
 on	O
-Oct	B-Misc
-.	I-Misc
-20	I-Misc
+Oct	B-Date
+.	I-Date
+20	I-Date
 showed	O
 Morales	B-Person
 in	O
@@ -626,7 +626,7 @@ a	O
 second	O
 round	O
 in	O
-December	B-Misc
+December	B-Date
 ,	O
 in	O
 which	O
@@ -832,7 +832,7 @@ down	O
 .	O
 
 On	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 Williams	B-Person
 Kaliman	I-Person

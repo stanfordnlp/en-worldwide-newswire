@@ -4,7 +4,7 @@ A	O
 Tokyo	B-Location
 court	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ordered	O
 former	O
 executives	O
@@ -19,7 +19,7 @@ plant	I-Facility
 involved	O
 in	O
 the	O
-2011	B-Misc
+2011	B-Date
 disaster	O
 to	O
 pay	O
@@ -154,7 +154,7 @@ a	O
 press	O
 conference	O
 in	O
-2012	B-Misc
+2012	B-Date
 .	O
 
 “	O
@@ -334,10 +334,10 @@ a	O
 devastating	O
 tsunami	O
 on	O
-March	B-Misc
-11	I-Misc
-,	I-Misc
-2011	I-Misc
+March	B-Date
+11	I-Date
+,	I-Date
+2011	I-Date
 .	O
 
 They	O
@@ -477,7 +477,7 @@ exposure	O
 .	O
 
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 a	O
 court	O

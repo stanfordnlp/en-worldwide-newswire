@@ -2,8 +2,8 @@ https://english.news.cn/20220718/5d0e302130794049bf77b4eed887faab/c.html	O
 
 HEFEI	B-Location
 ,	O
-July	B-Misc
-18	I-Misc
+July	B-Date
+18	I-Date
 (	O
 Xinhua	B-Organization
 )	O
@@ -43,9 +43,9 @@ affected	O
 by	O
 the	O
 latest	O
-COVID	B-Misc
--	I-Misc
-19	I-Misc
+COVID	B-Date
+-	I-Date
+19	I-Date
 resurgence	O
 .	O
 
@@ -67,7 +67,7 @@ reported	O
 in	O
 Anhui	B-Location
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 with	O
 the	O

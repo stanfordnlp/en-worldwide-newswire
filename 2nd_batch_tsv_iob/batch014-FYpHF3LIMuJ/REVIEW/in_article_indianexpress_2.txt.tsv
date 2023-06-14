@@ -32,9 +32,9 @@ Framework	I-Organization
 (	O
 NIRF	B-Organization
 )	O
-2022	B-Misc
+2022	B-Date
 released	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 Be	O
@@ -317,7 +317,7 @@ in	O
 a	O
 repeat	O
 of	O
-2021	B-Misc
+2021	B-Date
 ,	O
 followed	O
 by	O
@@ -875,7 +875,7 @@ the	O
 UGC	B-Misc
 Act	I-Misc
 ,	I-Misc
-1956	I-Misc
+1956	B-Date
 for	O
 receiving	O
 financial	O

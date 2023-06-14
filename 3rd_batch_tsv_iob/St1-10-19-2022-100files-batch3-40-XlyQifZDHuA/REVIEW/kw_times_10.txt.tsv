@@ -8,7 +8,7 @@ order	O
 was	O
 issued	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 accepting	O
 the	O
 resignation	O
@@ -317,7 +317,7 @@ resignation	O
 was	O
 accepted	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 the	O
 caretaker	O

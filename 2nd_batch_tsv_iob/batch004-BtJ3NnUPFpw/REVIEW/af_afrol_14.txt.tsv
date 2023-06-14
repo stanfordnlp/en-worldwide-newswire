@@ -3,8 +3,8 @@ http://www.afrol.com/articles/38308	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-26	B-Misc
-June	I-Misc
+26	B-Date
+June	I-Date
 -	O
 In	O
 Madagascar	B-Location
@@ -22,7 +22,7 @@ development	O
 ,	O
 which	O
 by	O
-September	B-Misc
+September	B-Date
 is	O
 expected	O
 to	O
@@ -177,8 +177,8 @@ issued	O
 various	O
 warnings	O
 since	O
-August	B-Misc
-2012	I-Misc
+August	B-Date
+2012	I-Date
 calling	O
 for	O
 financial	O

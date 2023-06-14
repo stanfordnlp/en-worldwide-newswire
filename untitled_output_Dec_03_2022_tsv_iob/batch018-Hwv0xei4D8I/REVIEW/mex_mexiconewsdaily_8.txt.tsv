@@ -183,7 +183,7 @@ up	O
 for	O
 rent	O
 in	O
-2010	B-Misc
+2010	B-Date
 .	O
 The	O
 brothers	O
@@ -206,7 +206,7 @@ building	O
 which	O
 opened	O
 in	O
-2011	B-Misc
+2011	B-Date
 .	O
 At	O
 first	O
@@ -270,7 +270,7 @@ late	O
 as	O
 the	O
 early	O
-2010	B-Misc
+2010	B-Date
 s	O
 ,	O
 it	O
@@ -695,7 +695,7 @@ them	O
 .	O
 
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 a	O
 friend	O
@@ -1198,7 +1198,7 @@ and	I-Misc
 Fiesta	I-Misc
 (	O
 Schiffer	B-Person
-2019	B-Misc
+2019	B-Date
 )	O
 .	O
 Her	O

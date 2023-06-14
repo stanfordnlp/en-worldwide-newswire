@@ -173,7 +173,7 @@ rare	O
 books	O
 auction	O
 in	O
-August	B-Misc
+August	B-Date
 .	O
 
 The	O
@@ -183,7 +183,7 @@ winning	O
 author	O
 died	O
 last	O
-December	B-Misc
+December	B-Date
 at	O
 the	O
 age	O
@@ -200,7 +200,7 @@ Her	O
 novel	O
 won	O
 the	O
-1984	B-Misc
+1984	B-Date
 New	B-Misc	B-Location
 Zealand	I-Misc	I-Location
 Book	I-Misc
@@ -235,7 +235,7 @@ prestigious	O
 Booker	B-Misc
 Prize	I-Misc
 in	O
-1985	B-Misc
+1985	B-Date
 in	O
 Britain	B-Location
 ,	O
@@ -376,7 +376,7 @@ eventually	O
 picked	O
 up	O
 in	O
-1983	B-Misc
+1983	B-Date
 by	O
 the	O
 small	O

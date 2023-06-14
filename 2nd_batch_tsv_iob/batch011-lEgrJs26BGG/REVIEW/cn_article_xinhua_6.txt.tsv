@@ -2,8 +2,8 @@ https://english.news.cn/20220715/56fd2860a39a423eacf1234a24cd230b/c.html	O
 
 BANGKOK	B-Location
 ,	O
-July	B-Misc
-15	I-Misc
+July	B-Date
+15	I-Date
 (	O
 Xinhua	B-Organization
 )	O
@@ -26,7 +26,7 @@ MoU	O
 )	O
 here	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 to	O
 promote	O
 exchange	O

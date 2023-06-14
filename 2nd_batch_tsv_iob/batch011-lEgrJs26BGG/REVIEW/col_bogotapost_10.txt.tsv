@@ -16,7 +16,7 @@ apartment	O
 ,	O
 it	O
 was	O
-Wednesday	B-Misc
+Wednesday	B-Date
 morning	O
 .	O
 Over	O
@@ -26,7 +26,7 @@ later	O
 it	O
 ’	O
 s	O
-Monday	B-Misc
+Monday	B-Date
 and	O
 there	O
 ’	O
@@ -71,10 +71,10 @@ badly	O
 .	O
 
 On	O
-Wednesday	B-Misc
-,	I-Misc
-March	I-Misc
-16	I-Misc
+Wednesday	B-Date
+,	I-Date
+March	I-Date
+16	I-Date
 ,	O
 it	O
 seems	O
@@ -121,7 +121,7 @@ Carrera	B-Location
 EAAB	B-Organization
 announced	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 that	O
 the	O
 immediate	O
@@ -834,7 +834,7 @@ has	O
 drinkable	O
 water	O
 by	O
-2030	B-Misc
+2030	B-Date
 .	O
 But	O
 after	O

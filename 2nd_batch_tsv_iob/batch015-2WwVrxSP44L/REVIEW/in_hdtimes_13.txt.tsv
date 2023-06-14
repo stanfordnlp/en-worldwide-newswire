@@ -38,7 +38,7 @@ in	O
 Uttar	B-Location
 Pradesh	I-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 a	O
 senior	O
@@ -182,7 +182,7 @@ people	O
 were	O
 arrested	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 .	O
 
 Police	O
@@ -212,7 +212,7 @@ arrest	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 a	O
 court	O
@@ -251,7 +251,7 @@ Prevention	I-Misc
 )	I-Misc
 Act	I-Misc
 ,	I-Misc
-1956	I-Misc
+1956	B-Date
 .	O
 
 The	O
@@ -453,7 +453,7 @@ Mawrie	I-Person
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 CM	O
 Sangma	B-Person

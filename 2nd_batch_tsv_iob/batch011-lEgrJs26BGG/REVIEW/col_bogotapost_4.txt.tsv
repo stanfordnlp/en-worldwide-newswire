@@ -25,8 +25,8 @@ València	I-Misc	I-Misc	B-Location
 music	I-Misc
 festival	I-Misc
 this	O
-July	B-Misc
-23rd	I-Misc
+July	B-Date
+23rd	I-Date
 .	O
 
 The	O
@@ -39,10 +39,10 @@ will	O
 take	O
 place	O
 from	O
-July	B-Misc
-21	I-Misc
-to	I-Misc
-23	I-Misc
+July	B-Date
+21	I-Date
+to	I-Date
+23	I-Date
 in	O
 the	O
 emblematic	O
@@ -104,8 +104,8 @@ It	O
 will	O
 be	O
 on	O
-July	B-Misc
-23	I-Misc
+July	B-Date
+23	I-Date
 ,	O
 and	O
 she	O
@@ -276,10 +276,10 @@ will	O
 celebrate	O
 diversity	O
 from	O
-July	B-Misc
-21	I-Misc
-to	I-Misc
-23	I-Misc
+July	B-Date
+21	I-Date
+to	I-Date
+23	I-Date
 in	O
 the	O
 emblematic	O

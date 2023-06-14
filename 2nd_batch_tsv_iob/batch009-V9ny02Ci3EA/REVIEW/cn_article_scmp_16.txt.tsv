@@ -42,9 +42,9 @@ sanctioned	O
 medicine	O
 for	O
 treating	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 and	O
 the	O
 government	O
@@ -68,7 +68,7 @@ not	O
 viewable	O
 ”	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 removed	O
 due	O
@@ -347,7 +347,7 @@ large	O
 followings	O
 .	O
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 Wang	B-Person
 refrained	O
@@ -360,7 +360,7 @@ several	O
 months	O
 and	O
 in	O
-November	B-Misc
+November	B-Date
 last	O
 year	O
 he	O
@@ -423,7 +423,7 @@ returning	O
 to	O
 China	B-Location
 in	O
-2009	B-Misc
+2009	B-Date
 ,	O
 Wang	B-Person
 quickly	O
@@ -442,7 +442,7 @@ year	O
 .	O
 In	O
 a	O
-2015	B-Misc
+2015	B-Date
 interview	O
 with	O
 the	O
@@ -627,8 +627,8 @@ Weibo	B-Organization
 post	O
 was	O
 on	O
-April	B-Misc
-14	I-Misc
+April	B-Date
+14	I-Date
 ,	O
 in	O
 which	O

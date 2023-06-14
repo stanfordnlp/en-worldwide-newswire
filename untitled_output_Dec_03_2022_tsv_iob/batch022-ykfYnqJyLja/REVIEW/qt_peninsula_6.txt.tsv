@@ -51,11 +51,11 @@ boot	O
 camp	O
 ran	O
 from	O
-June	B-Misc
-18	I-Misc
+June	B-Date
+18	I-Date
 to	O
-July	B-Misc
-9	I-Misc
+July	B-Date
+9	I-Date
 .	O
 
 The	O

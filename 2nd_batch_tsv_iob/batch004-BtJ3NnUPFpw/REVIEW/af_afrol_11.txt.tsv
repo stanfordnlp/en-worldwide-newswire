@@ -6,8 +6,8 @@ News	I-Organization
 Africa	B-Organization
 Renewal	I-Organization
 ,	O
-5	B-Misc
-November	I-Misc
+5	B-Date
+November	I-Date
 -	O
 Ethiopia	B-Location
 's	O
@@ -249,7 +249,7 @@ fears	O
 .	O
 In	O
 early	O
-June	B-Misc
+June	B-Date
 ,	O
 then	O
 -	O
@@ -320,8 +320,8 @@ complete	O
 the	O
 project	O
 by	O
-July	B-Misc
-2017	I-Misc
+July	B-Date
+2017	I-Date
 and	O
 also	O
 ensure	O
@@ -397,7 +397,7 @@ matter	O
 .	O
 
 Since	O
-1994	B-Misc
+1994	B-Date
 ,	O
 for	O
 example	O
@@ -488,7 +488,7 @@ Bank	I-Organization
 The	O
 UN	B-Organization
 in	O
-2010	B-Misc
+2010	B-Date
 declared	O
 access	O
 to	O
@@ -518,9 +518,9 @@ in	O
 Somalia	B-Location
 alone	O
 from	O
-2010	B-Misc
+2010	B-Date
 to	O
-2012	B-Misc
+2012	B-Date
 ,	O
 according	O
 to	O
@@ -563,7 +563,7 @@ is	O
 to	O
 halve	O
 by	O
-2015	B-Misc
+2015	B-Date
 the	O
 number	O
 of	O
@@ -599,7 +599,7 @@ percent	O
 ,	O
 states	O
 the	O
-2013	B-Misc
+2013	B-Date
 Millennium	B-Misc
 Development	I-Misc
 Goals	I-Misc
@@ -644,7 +644,7 @@ water	O
 .	O
 
 With	O
-2013	B-Misc
+2013	B-Date
 declared	O
 by	O
 the	O
@@ -679,3 +679,4 @@ efficient	O
 water	O
 management	O
 .	O
+

@@ -58,7 +58,7 @@ a	O
 minute	O
 flight	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 from	O
 an	O
 airport	O
@@ -97,7 +97,7 @@ planned	O
 mass	O
 production	O
 in	O
-2026	B-Misc
+2026	B-Date
 .	O
 
 South	B-Location
@@ -199,7 +199,7 @@ develop	O
 the	O
 jet	O
 in	O
-2014	B-Misc
+2014	B-Date
 .	O
 They	O
 have	O
@@ -234,7 +234,7 @@ KF	B-Product
 -	I-Product
 21	I-Product
 in	O
-April	B-Misc
+April	B-Date
 last	O
 year	O
 ,	O

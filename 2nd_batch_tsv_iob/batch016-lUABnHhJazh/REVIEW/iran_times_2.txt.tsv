@@ -19,7 +19,7 @@ statement	O
 was	O
 made	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 on	O
 the	O
 sidelines	O
@@ -130,8 +130,8 @@ Nour	B-Facility
 into	O
 orbit	O
 in	O
-March	B-Misc
-2022	I-Misc
+March	B-Date
+2022	I-Date
 ,	O
 and	O
 its	O
@@ -143,8 +143,8 @@ Nour	B-Facility
 1	I-Facility
 ,	O
 in	O
-April	B-Misc
-2020	I-Misc
+April	B-Date
+2020	I-Date
 .	O
 
 The	O
@@ -301,7 +301,7 @@ aerospace	O
 industry	O
 in	O
 his	O
-Sunday	B-Misc
+Sunday	B-Date
 speech	O
 .	O
 

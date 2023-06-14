@@ -145,9 +145,9 @@ to	O
 come	O
 down	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 or	O
-Saturday	B-Misc
+Saturday	B-Date
 night	O
 when	O
 everyone	O
@@ -458,7 +458,7 @@ time	O
 for	O
 the	O
 summer	O
-2022	B-Misc
+2022	B-Date
 season	O
 ,	O
 ”	O

@@ -7,9 +7,9 @@ has	O
 suspended	O
 school	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 and	O
-Friday	B-Misc
+Friday	B-Date
 to	O
 allow	O
 civil	O
@@ -28,7 +28,7 @@ a	O
 statement	O
 issued	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 by	O
 the	O
 education	O
@@ -92,7 +92,7 @@ the	O
 approved	O
 calendar	O
 for	O
-2022	B-Misc
+2022	B-Date
 ,	O
 ”	O
 Steenkamp	B-Person
@@ -305,9 +305,9 @@ and	O
 other	O
 benefits	O
 from	O
-2021	B-Misc
+2021	B-Date
 to	O
-2023	B-Misc
+2023	B-Date
 .	O
 Voting	O
 preparations	O

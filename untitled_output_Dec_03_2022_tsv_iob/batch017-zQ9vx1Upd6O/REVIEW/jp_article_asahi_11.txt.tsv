@@ -16,7 +16,7 @@ Kishida	I-Person
 ,	O
 agreed	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 to	O
 strengthen	O
 the	O
@@ -400,7 +400,7 @@ New	B-Location
 Zealand	I-Location
 agreed	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 to	O
 step	O
 up	O
@@ -581,7 +581,7 @@ Hirokazu	B-Person
 Matsuno	I-Person
 said	O
 earlier	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 Solomon	B-Location
@@ -700,7 +700,7 @@ many	O
 other	O
 countries	O
 from	O
-May	B-Misc
+May	B-Date
 .	O
 International	O
 tourism	O

@@ -1,7 +1,7 @@
 https://newsghana.com.gh/2022-asogli-yam-festival-launched/	O
 
 The	O
-2022	B-Misc
+2022	B-Date
 Yam	B-Misc
 Festival	I-Misc
 of	O
@@ -58,8 +58,8 @@ festival	O
 will	O
 start	O
 on	O
-August	B-Misc
-6	I-Misc
+August	B-Date
+6	I-Date
 ,	O
 with	O
 hiking	O
@@ -89,10 +89,10 @@ yam	O
 Teyuyru	O
 )	O
 on	O
-September	B-Misc
-1	I-Misc
-,	I-Misc
-2022	I-Misc
+September	B-Date
+1	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 to	O
 welcome	O
@@ -149,8 +149,8 @@ Togo	B-Location
 and	O
 Benin	B-Location
 on	O
-September	B-Misc
-8	I-Misc
+September	B-Date
+8	I-Date
 .	O
 
 He	O
@@ -307,8 +307,8 @@ from	O
 other	O
 chiefs	O
 on	O
-September	B-Misc
-9	I-Misc
+September	B-Date
+9	I-Date
 .	O
 
 Togbe	O
@@ -416,8 +416,8 @@ climax	O
 the	O
 event	O
 on	O
-September	B-Misc
-10	I-Misc
+September	B-Date
+10	I-Date
 ,	O
 at	O
 the	O

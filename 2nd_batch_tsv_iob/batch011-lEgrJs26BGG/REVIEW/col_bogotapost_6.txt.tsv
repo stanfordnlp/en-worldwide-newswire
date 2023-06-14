@@ -145,7 +145,7 @@ the	O
 second	O
 round	O
 in	O
-2018	B-Misc
+2018	B-Date
 ’	O
 s	O
 election	O
@@ -771,8 +771,8 @@ inaugurated	O
 as	O
 President	O
 on	O
-August	B-Misc
-7	I-Misc
+August	B-Date
+7	I-Date
 .	O
 In	O
 some	O
@@ -819,7 +819,7 @@ FARC	B-Organization
 ,	O
 signed	O
 in	O
-2016	B-Misc
+2016	B-Date
 ,	O
 has	O
 been	O

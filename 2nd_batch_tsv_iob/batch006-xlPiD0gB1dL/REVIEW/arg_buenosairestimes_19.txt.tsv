@@ -23,7 +23,7 @@ Nobel	B-Misc
 Peace	I-Misc
 Prize	I-Misc
 in	O
-1980	B-Misc
+1980	B-Date
 ,	O
 is	O
 making	O
@@ -51,7 +51,7 @@ his	O
 work	O
 from	O
 the	O
-1950	B-Misc
+1950	B-Date
 s	O
 to	O
 the	O
@@ -78,7 +78,7 @@ a	O
 prisoner	O
 during	O
 the	O
-1976-1983	B-Misc
+1976-1983	B-Date
 military	O
 dictatorship	O
 ,	O
@@ -126,7 +126,7 @@ Boca	I-Location
 neighbourhood	O
 from	O
 the	O
-1950	B-Misc
+1950	B-Date
 s	O
 and	O
 portraits	O
@@ -225,7 +225,7 @@ an	O
 Iraq	B-Location
 refuge	O
 in	O
-2001	B-Misc
+2001	B-Date
 and	O
 a	O
 trip	O
@@ -301,7 +301,7 @@ poor	O
 
 Born	O
 in	O
-1931	B-Misc
+1931	B-Date
 in	O
 Buenos	B-Location
 Aires	I-Location
@@ -506,9 +506,9 @@ the	O
 cathedral	O
 of	O
 Riobamba	B-Location
-(	O	
+(	O
 Ecuador	B-Location
-)	O	
+)	O
 another	O
 in	O
 Curitiba	B-Location

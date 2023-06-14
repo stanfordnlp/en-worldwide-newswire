@@ -59,7 +59,7 @@ Tin	I-Location
 Town	I-Location
 Hall	I-Location
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 .	O
 
 Former	O
@@ -194,7 +194,7 @@ at	O
 7.3	O
 0pm	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 at	O
 Sha	B-Location
 Tin	I-Location
@@ -225,8 +225,8 @@ at	O
 5.4	O
 1am	O
 on	O
-July	B-Misc
-17	I-Misc
+July	B-Date
+17	I-Date
 ,	O
 Wong	B-Person
 ,	O

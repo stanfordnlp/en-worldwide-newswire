@@ -5,7 +5,7 @@ Mumbai	B-Location
 India	I-Location
 –	O
 In	O
-February	B-Misc
+February	B-Date
 last	O
 year	O
 ,	O
@@ -359,9 +359,9 @@ of	O
 Dalit	B-NORP
 women	O
 between	O
-2015	B-Misc
+2015	B-Date
 and	O
-2020	B-Misc
+2020	B-Date
 .	O
 The	O
 data	O
@@ -513,7 +513,7 @@ report	O
 ,	O
 released	O
 in	O
-March	B-Misc
+March	B-Date
 this	O
 year	O
 ,	O
@@ -1511,7 +1511,7 @@ India	B-Location
 Supreme	B-Organization
 Court	I-Organization
 in	O
-2013	B-Misc
+2013	B-Date
 .	O
 Of	O
 the	O
@@ -1777,7 +1777,7 @@ Civil	I-Misc
 Rights	I-Misc
 Act	I-Misc
 ,	O
-1995	B-Misc
+1995	B-Date
 and	O
 the	O
 Scheduled	B-Misc
@@ -1791,7 +1791,7 @@ of	I-Misc
 Atrocities	I-Misc
 )	I-Misc
 Act	I-Misc
-1989	B-Misc
+1989	B-Date
 .	O
 We	O
 do	O

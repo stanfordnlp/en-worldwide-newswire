@@ -152,8 +152,8 @@ Although	O
 it	O
 is	O
 a	O
-November	B-Misc
-2018	I-Misc
+November	B-Date
+2018	I-Date
 video	O
 ,	O
 the	O
@@ -186,7 +186,7 @@ nothing	O
 had	O
 changed	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 two	O
 years	O
@@ -200,11 +200,11 @@ the	O
 Constitution	O
 approved	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 or	O
 in	O
-2022	B-Misc
+2022	B-Date
 ,	O
 when	O
 the	O
@@ -217,8 +217,8 @@ Cubans	B-NORP
 who	O
 dared	O
 in	O
-July	B-Misc
-2021	I-Misc
+July	B-Date
+2021	I-Date
 to	O
 demand	O
 changes	O
@@ -737,7 +737,7 @@ to	O
 replace	O
 that	O
 of	O
-1976	B-Misc
+1976	B-Date
 ,	O
 was	O
 being	O
@@ -747,7 +747,7 @@ The	O
 Constitution	O
 approved	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 on	O
 paper	O
@@ -1254,7 +1254,7 @@ at	O
 this	O
 meeting	O
 in	O
-2018	B-Misc
+2018	B-Date
 bear	O
 out	O
 the	O
@@ -1287,8 +1287,8 @@ OCDH	B-Organization
 )	O
 in	O
 early	O
-May	B-Misc
-2022	I-Misc
+May	B-Date
+2022	I-Date
 .	O
 
 Ocaña	B-Person

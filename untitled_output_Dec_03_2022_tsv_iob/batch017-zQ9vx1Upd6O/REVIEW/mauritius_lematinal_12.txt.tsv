@@ -88,9 +88,9 @@ Mauritian	B-NORP
 expression	O
 ,	O
 on	O
-Friday	B-Misc
-15	I-Misc
-July	I-Misc
+Friday	B-Date
+15	I-Date
+July	I-Date
 at	O
 12	O
 .	O

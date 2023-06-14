@@ -41,8 +41,8 @@ would	O
 happen	O
 after	O
 the	O
-30	B-Misc
-June	I-Misc
+30	B-Date
+June	I-Date
 transfer	O
 of	O
 power	O
@@ -421,8 +421,8 @@ that	O
 elections	O
 scheduled	O
 for	O
-January	B-Misc
-2005	I-Misc
+January	B-Date
+2005	I-Date
 may	O
 be	O
 delayed	O
@@ -513,8 +513,8 @@ devastated	O
 the	O
 country	O
 since	O
-August	B-Misc
-2003	I-Misc
+August	B-Date
+2003	I-Date
 .	O
 Police	O
 stations	O
@@ -548,7 +548,7 @@ bombings	O
 continue	O
 apace	O
 through	O
-January	B-Misc
+January	B-Date
 ,	O
 electoral	O
 polling	O
@@ -1072,7 +1072,7 @@ marines	O
 called	O
 off	O
 their	O
-April	B-Misc
+April	B-Date
 offensive	O
 ,	O
 has	O
@@ -1420,8 +1420,8 @@ British	B-NORP
 troops	O
 after	O
 a	O
-14	B-Misc
-May	I-Misc
+14	B-Date
+May	I-Date
 skirmish	O
 swear	O
 vengeance	O
@@ -1500,8 +1500,8 @@ with	O
 the	O
 police	O
 on	O
-25	B-Misc
-June	I-Misc
+25	B-Date
+June	I-Date
 —	O
 a	O
 deal	O
@@ -1539,7 +1539,7 @@ icon	O
 by	O
 declaring	O
 the	O
-April	B-Misc
+April	B-Date
 uprising	O
 and	O
 is	O
@@ -1662,7 +1662,7 @@ zone	O
 formed	O
 after	O
 the	O
-1991	B-Misc	B-Misc
+1991	B-Misc	B-Date
 Gulf	I-Misc
 War	I-Misc
 ,	O
@@ -1776,9 +1776,9 @@ zone	O
 Ever	O
 since	O
 the	O
-March	B-Misc
+March	B-Date
 and	O
-April	B-Misc
+April	B-Date
 dispute	O
 over	O
 the	O

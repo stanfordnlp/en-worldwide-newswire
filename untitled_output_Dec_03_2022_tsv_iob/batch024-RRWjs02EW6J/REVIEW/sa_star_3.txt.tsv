@@ -104,10 +104,10 @@ its	O
 NEC	B-Organization
 meeting	O
 from	O
-July	B-Misc
-2	I-Misc
-to	I-Misc
-4	I-Misc
+July	B-Date
+2	I-Date
+to	I-Date
+4	I-Date
 had	O
 adopted	O
 a	O

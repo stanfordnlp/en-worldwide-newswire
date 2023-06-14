@@ -255,7 +255,7 @@ Añez	B-Person
 congratulated	O
 Arce	B-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 “	O
 I	O
@@ -462,7 +462,7 @@ at	O
 a	O
 referendum	O
 in	O
-2016	B-Misc
+2016	B-Date
 ,	O
 51	O
 %	O
@@ -478,8 +478,8 @@ vote	O
 ,	O
 and	O
 in	O
-October	B-Misc
-2019	I-Misc
+October	B-Date
+2019	I-Date
 he	O
 ran	O
 for	O
@@ -684,7 +684,7 @@ by	O
 the	O
 OAS	B-Organization
 in	O
-December	B-Misc
+December	B-Date
 ,	O
 though	O
 .	O
@@ -915,7 +915,7 @@ victory	O
 was	O
 announced	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 Morales	B-Person
 said	O
@@ -1201,7 +1201,7 @@ abandoned	O
 her	O
 campaign	O
 in	O
-September	B-Misc
+September	B-Date
 when	O
 it	O
 became	O
@@ -1371,7 +1371,7 @@ by	O
 the	O
 end	O
 of	O
-2020	B-Misc
+2020	B-Date
 .	O
 The	O
 government	O
@@ -1396,7 +1396,7 @@ s	O
 popularity	O
 during	O
 the	O
-Morales	B-Person
+Morales	B-Date
 years	O
 –	O
 will	O

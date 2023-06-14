@@ -1145,7 +1145,7 @@ Victoria	B-Location
 market	O
 especially	O
 on	O
-Saturdays	B-Misc
+Saturdays	B-Date
 gives	O
 a	O
 glimpse	O
@@ -1187,7 +1187,7 @@ typically	O
 served	O
 as	O
 a	O
-Sunday	B-Misc
+Sunday	B-Date
 dish	O
 but	O
 now	O
@@ -2209,7 +2209,7 @@ is	O
 especially	O
 lively	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 mornings	O
 ,	O
 especially	O
@@ -2242,7 +2242,7 @@ gossip	O
 The	O
 market	O
 on	O
-Saturdays	B-Misc
+Saturdays	B-Date
 has	O
 also	O
 developed	O
@@ -2631,7 +2631,7 @@ day	O
 with	O
 the	O
 large	O
-Sunday	B-Misc
+Sunday	B-Date
 buffet	O
 being	O
 a	O
@@ -2665,7 +2665,7 @@ roots	O
 back	O
 to	O
 the	O
-1940	B-Misc
+1940	B-Date
 s	O
 .	O
 Located	O

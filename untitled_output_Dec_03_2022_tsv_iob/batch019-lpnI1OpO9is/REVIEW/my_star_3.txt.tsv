@@ -4,8 +4,8 @@ BANDAR	B-Location
 SERI	I-Location
 BEGAWAN	I-Location
 ,	O
-July	B-Misc
-25	I-Misc
+July	B-Date
+25	I-Date
 (	O
 Borneo	B-Organization
 Bulletin	I-Organization
@@ -68,7 +68,7 @@ revealed	O
 in	O
 court	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 that	O
 the	O
 Anti	B-Organization
@@ -117,10 +117,10 @@ Building	I-Location
 MoRA	B-Organization
 ’	O
 on	O
-June	B-Misc
-28	I-Misc
-,	I-Misc
-2016	I-Misc
+June	B-Date
+28	I-Date
+,	I-Date
+2016	I-Date
 .	O
 
 The	O

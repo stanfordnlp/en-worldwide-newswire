@@ -282,7 +282,7 @@ added	O
 
 Kovind	B-Person
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 recalled	O
 the	O
 key	O
@@ -376,7 +376,7 @@ of	O
 India	B-Location
 ended	O
 last	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 Former	O

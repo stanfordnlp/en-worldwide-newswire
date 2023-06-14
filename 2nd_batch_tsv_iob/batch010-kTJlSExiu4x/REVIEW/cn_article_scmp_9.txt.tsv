@@ -259,9 +259,9 @@ $	B-Money
 2.3	I-Money
 billion	I-Money
 in	O
-2020	B-Misc
+2020	B-Date
 from	O
-2017	B-Misc
+2017	B-Date
 ,	O
 according	O
 to	O
@@ -286,7 +286,7 @@ import	O
 by	O
 value	O
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 While	O
@@ -313,7 +313,7 @@ controversies	O
 .	O
 
 In	O
-2018	B-Misc
+2018	B-Date
 ,	O
 an	O
 Indonesian	B-NORP
@@ -399,7 +399,7 @@ socks	O
 .	O
 
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 a	O
 piece	O

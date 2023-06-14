@@ -115,7 +115,7 @@ In	O
 an	O
 interview	O
 published	O
-Sunday	B-Misc
+Sunday	B-Date
 by	O
 Colombia	B-Location
 's	O
@@ -197,7 +197,7 @@ added	O
 Under	O
 Mujica	B-Person
 (	O
-2010-2015	B-Misc
+2010-2015	B-Date
 )	O
 ,	O
 Uruguay	B-Location
@@ -469,7 +469,7 @@ Alberto	I-Person
 Lacalle	I-Person
 Herrera	I-Person
 (	O
-1990-1995	B-Misc
+1990-1995	B-Date
 )	O
 ,	O
 who	O

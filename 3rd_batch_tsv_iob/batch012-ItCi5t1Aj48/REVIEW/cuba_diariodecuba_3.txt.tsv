@@ -167,7 +167,7 @@ government	O
 in	O
 the	O
 late	O
-1970	B-Misc
+1970	B-Date
 s	O
 ,	O
 based	O
@@ -186,7 +186,7 @@ local	O
 bureaucracies	O
 ,	O
 in	O
-2013	B-Misc
+2013	B-Date
 Castroism	B-NORP
 inaugurated	O
 the	O
@@ -383,10 +383,10 @@ was	O
 Shenzhen	B-Location
 ,	O
 in	O
-1980	B-Misc
+1980	B-Date
 .	O
 In	O
-1982	B-Misc
+1982	B-Date
 ,	O
 that	O
 city	O
@@ -865,7 +865,7 @@ in	O
 the	O
 ZEDM	B-Location
 in	O
-2016	B-Misc
+2016	B-Date
 (	O
 we	O
 do	O

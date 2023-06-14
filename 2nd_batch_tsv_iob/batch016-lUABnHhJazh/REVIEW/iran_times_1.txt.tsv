@@ -13,7 +13,7 @@ a	O
 party	O
 to	O
 the	O
-2015	B-Misc
+2015	B-Date
 nuclear	O
 deal	O
 ,	O
@@ -149,7 +149,7 @@ over	O
 the	O
 phone	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 for	O
 two	O
 hours	O

@@ -8,7 +8,7 @@ Cape	I-Organization	I-Location
 High	I-Organization
 Court	I-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 reserved	O
 judgment	O
 in	O
@@ -33,7 +33,7 @@ her	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 her	O
 legal	O
@@ -79,7 +79,7 @@ Mapisa	I-Person
 -	I-Person
 Nqakula	I-Person
 in	O
-March	B-Misc
+March	B-Date
 this	O
 year	O
 .	O
@@ -165,8 +165,8 @@ Ramaphosa	B-Person
 suspended	O
 her	O
 on	O
-June	B-Misc
-9	I-Misc
+June	B-Date
+9	I-Date
 ,	O
 saying	O
 she	O
@@ -191,8 +191,8 @@ impeachment	O
 .	O
 
 On	O
-June	B-Misc
-10	I-Misc
+June	B-Date
+10	I-Date
 ,	O
 the	O
 Western	B-Organization	B-Location
@@ -218,9 +218,9 @@ processes	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 and	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 Mpofu	B-Person
 argued	O
@@ -284,13 +284,13 @@ her	O
 report	O
 on	O
 the	O
-CR	B-Misc
-17	I-Misc
+CR	B-Date
+17	I-Date
 presidential	O
 campaign	O
 and	O
 the	O
-2020	B-Misc
+2020	B-Date
 burglary	O
 at	O
 his	O

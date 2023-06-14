@@ -23,7 +23,7 @@ Bureau	I-Organization
 Andrew	B-Person
 Plitt	I-Person
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 discussed	O
 means	O
 to	O
@@ -161,9 +161,9 @@ to	O
 the	O
 Kingdom	O
 between	O
-2023	B-Misc
+2023	B-Date
 and	O
-2029	B-Misc
+2029	B-Date
 .	O
 
 The	O

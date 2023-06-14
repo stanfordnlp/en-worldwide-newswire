@@ -130,7 +130,7 @@ a	O
 cardiac	O
 arrest	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 evening	O
 .	O
 He	O
@@ -165,7 +165,7 @@ His	O
 condition	O
 worsened	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 morning	O
 and	O
 we	O

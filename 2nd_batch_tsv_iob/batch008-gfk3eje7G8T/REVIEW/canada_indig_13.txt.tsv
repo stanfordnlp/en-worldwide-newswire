@@ -794,8 +794,8 @@ Kitikmeot	B-Organization
 Friendship	I-Organization
 Society	I-Organization
 on	O
-Aug	B-Misc
-.	I-Misc
-27	I-Misc
+Aug	B-Date
+.	I-Date
+27	I-Date
 .	O
 

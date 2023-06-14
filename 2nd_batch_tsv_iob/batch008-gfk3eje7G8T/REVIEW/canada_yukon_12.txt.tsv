@@ -33,8 +33,8 @@ project	O
 .	O
 
 On	O
-June	B-Misc
-15	I-Misc
+June	B-Date
+15	I-Date
 ,	O
 Fisheries	B-Organization
 and	I-Organization
@@ -442,8 +442,8 @@ efforts	O
 .	O
 
 In	O
-January	B-Misc
-2021	I-Misc
+January	B-Date
+2021	I-Date
 the	O
 federal	O
 decision	O
@@ -484,8 +484,8 @@ mitigated	O
 
 In	O
 the	O
-June	B-Misc
-15	I-Misc
+June	B-Date
+15	I-Date
 decision	O
 document	O
 ,	O
@@ -569,8 +569,8 @@ lawsuit	O
 states	O
 during	O
 a	O
-June	B-Misc
-8	I-Misc
+June	B-Date
+8	I-Date
 meeting	O
 decision	O
 bodies	O
@@ -584,8 +584,8 @@ a	O
 decision	O
 document	O
 on	O
-June	B-Misc
-15	I-Misc
+June	B-Date
+15	I-Date
 ,	O
 though	O
 “	O
@@ -631,10 +631,10 @@ Kaska	B-NORP
 ,	O
 prior	O
 to	O
-June	B-Misc
-15	I-Misc
-,	I-Misc
-2022	I-Misc
+June	B-Date
+15	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 prior	O
 to	O
@@ -660,8 +660,8 @@ Decision	B-Organization
 Bodies	I-Organization
 during	O
 the	O
-June	B-Misc
-8	I-Misc
+June	B-Date
+8	I-Date
 Meeting	O
 created	O
 a	O
@@ -693,11 +693,11 @@ to	O
 their	O
 letters	O
 of	O
-April	B-Misc
-27	I-Misc
+April	B-Date
+27	I-Date
 and	O
-May	B-Misc
-25	I-Misc
+May	B-Date
+25	I-Date
 ,	O
 including	O
 the	O
@@ -711,8 +711,8 @@ conditions	O
 “	O
 
 On	O
-June	B-Misc
-14	I-Misc
+June	B-Date
+14	I-Date
 ,	O
 RRDC	B-Organization
 and	O
@@ -751,8 +751,8 @@ letters	O
 
 “	O
 The	O
-June	B-Misc
-14	I-Misc
+June	B-Date
+14	I-Date
 Letter	O
 provided	O
 Kaska	B-NORP
@@ -785,8 +785,8 @@ conditions	O
 )	O
 .	O
 The	O
-June	B-Misc
-14	I-Misc
+June	B-Date
+14	I-Date
 Letter	O
 emphasized	O
 Kaska	B-NORP
@@ -828,8 +828,8 @@ than	O
 after	O
 receiving	O
 the	O
-June	B-Misc
-14	I-Misc
+June	B-Date
+14	I-Date
 letter	O
 ,	O
 the	O
@@ -854,8 +854,8 @@ assurances	O
 made	O
 in	O
 the	O
-June	B-Misc
-8	I-Misc
+June	B-Date
+8	I-Date
 Meeting	O
 .	O
 ”	O
@@ -871,8 +871,8 @@ failure	O
 to	O
 consider	O
 the	O
-June	B-Misc
-14	I-Misc
+June	B-Date
+14	I-Date
 Letter	O
 ,	O
 particularly	O

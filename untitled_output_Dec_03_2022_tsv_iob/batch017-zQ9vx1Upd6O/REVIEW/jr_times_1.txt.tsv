@@ -38,7 +38,7 @@ the	O
 first	O
 half	O
 of	O
-2022	B-Misc
+2022	B-Date
 ,	O
 according	O
 to	O
@@ -68,7 +68,7 @@ Agency	I-Organization
 Petra	B-Location
 ,	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 said	O
 the	O

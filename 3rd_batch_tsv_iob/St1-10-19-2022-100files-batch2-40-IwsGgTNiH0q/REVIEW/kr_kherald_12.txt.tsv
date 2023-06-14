@@ -42,7 +42,7 @@ for	O
 party	O
 leadership	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 vowing	O
 “	O
@@ -291,7 +291,7 @@ her	O
 
 As	O
 for	O
-Friday	B-Misc
+Friday	B-Date
 ’	O
 s	O
 announcement	O
@@ -354,9 +354,9 @@ joined	O
 the	O
 party	O
 on	O
-Feb	B-Misc
-.	I-Misc
-14	I-Misc
+Feb	B-Date
+.	I-Date
+14	I-Date
 .	O
 
 She	O
@@ -418,7 +418,7 @@ run	O
 ”	O
 Woo	B-Person
 said	O
-Thursday	B-Misc
+Thursday	B-Date
 ,	O
 adding	O
 the	O
@@ -619,9 +619,9 @@ a	O
 national	O
 convention	O
 on	O
-Aug	B-Misc
-.	I-Misc
-28	I-Misc
+Aug	B-Date
+.	I-Date
+28	I-Date
 to	O
 elect	O
 a	O

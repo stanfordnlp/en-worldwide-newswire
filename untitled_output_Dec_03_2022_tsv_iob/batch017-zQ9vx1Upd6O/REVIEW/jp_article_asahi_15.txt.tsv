@@ -10,7 +10,7 @@ held	O
 in	O
 Kyoto	B-Location
 on	O
-Monday	B-Misc
+Monday	B-Date
 to	O
 remember	O
 36	O
@@ -299,10 +299,10 @@ on	O
 the	O
 morning	O
 of	O
-July	B-Misc
-18	I-Misc
-,	I-Misc
-2019	I-Misc
+July	B-Date
+18	I-Date
+,	I-Date
+2019	I-Date
 ,	O
 70	O
 workers	O
@@ -338,7 +338,7 @@ country	O
 has	O
 seen	O
 since	O
-1989	B-Misc
+1989	B-Date
 ,	O
 according	O
 to	O
@@ -497,8 +497,8 @@ he	O
 was	O
 arrested	O
 in	O
-May	B-Misc
-2020	I-Misc
+May	B-Date
+2020	I-Date
 .	O
 
 Aoba	B-Person

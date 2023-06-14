@@ -76,7 +76,7 @@ went	O
 into	O
 effect	O
 in	O
-2014	B-Misc
+2014	B-Date
 between	O
 CKE	B-Organization
 and	O
@@ -181,7 +181,7 @@ Jr	I-Organization
 restaurant	O
 in	O
 late	O
-2014	B-Misc
+2014	B-Date
 ,	O
 we	O
 promised	O
@@ -222,7 +222,7 @@ Jr	I-Organization
 .	O
 restaurants	O
 in	O
-2016	B-Misc
+2016	B-Date
 alone	O
 ,	O
 ”	O
@@ -334,9 +334,9 @@ operation	O
 6 a.m.	O
 to	O
 11 p.m.	O
-Monday	B-Misc
+Monday	B-Date
 through	O
-Sunday	B-Misc
+Sunday	B-Date
 
 •	O
 Menu	O

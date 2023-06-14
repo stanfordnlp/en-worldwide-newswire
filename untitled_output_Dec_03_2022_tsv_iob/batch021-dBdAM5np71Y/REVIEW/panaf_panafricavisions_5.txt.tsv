@@ -173,7 +173,7 @@ be	O
 fully	O
 operational	O
 by	O
-2025	B-Misc
+2025	B-Date
 .	O
 
 Speaking	O
@@ -184,12 +184,12 @@ sod	O
 cutting	O
 ceremony	O
 on	O
-Friday	B-Misc
-,	I-Misc
-July	I-Misc
-22	I-Misc
-,	I-Misc
-2022	I-Misc
+Friday	B-Date
+,	I-Date
+July	I-Date
+22	I-Date
+,	I-Date
+2022	I-Date
 Vice	O
 President	O
 Bawumia	B-Person

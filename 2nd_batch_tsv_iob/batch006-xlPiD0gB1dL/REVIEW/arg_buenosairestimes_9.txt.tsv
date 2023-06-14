@@ -23,7 +23,7 @@ Jewish	B-NORP
 community	O
 centre	O
 last	O
-Monday	B-Misc
+Monday	B-Date
 had	O
 in	O
 common	O
@@ -115,7 +115,7 @@ up	O
 on	O
 a	O
 wintry	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 further	O
 adding	O
@@ -196,7 +196,7 @@ abruptly	O
 ended	O
 in	O
 early	O
-2015	B-Misc
+2015	B-Date
 by	O
 a	O
 bullet	O
@@ -267,7 +267,7 @@ new	O
 presidential	O
 term	O
 last	O
-January	B-Misc
+January	B-Date
 .	O
 
 The	O
@@ -327,7 +327,7 @@ laid	O
 
 Unlike	O
 last	O
-March	B-Misc
+March	B-Date
 ’	O
 s	O
 30th	O
@@ -349,7 +349,7 @@ also	O
 unpunished	O
 )	O
 ,	O
-Monday	B-Misc
+Monday	B-Date
 ’	O
 s	O
 ceremony	O
@@ -608,7 +608,7 @@ played	O
 her	O
 in	O
 the	O
-2016	B-Misc
+2016	B-Date
 film	O
 Denial	B-Misc
 about	O
@@ -622,7 +622,7 @@ three	O
 month	O
 saga	O
 in	O
-2000	B-Misc
+2000	B-Date
 ,	O
 six	O
 years	O
@@ -645,7 +645,7 @@ trial	O
 was	O
 repeated	O
 last	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 maintains	O
 that	O
@@ -774,7 +774,7 @@ AMIA	B-Organization
 attack	O
 concluded	O
 in	O
-2019	B-Misc
+2019	B-Date
 with	O
 minor	O
 punishments	O
@@ -785,7 +785,7 @@ government	O
 officials	O
 of	O
 the	O
-1989-99	B-Misc
+1989-99	B-Date
 Carlos	B-Person
 Menem	I-Person
 presidency	O

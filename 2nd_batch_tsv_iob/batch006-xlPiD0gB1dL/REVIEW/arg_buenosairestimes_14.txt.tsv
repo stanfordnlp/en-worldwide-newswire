@@ -92,7 +92,7 @@ over	O
 River	B-Organization
 Plate	I-Organization
 and	O
-May	B-Misc
+May	B-Date
 's	O
 Copa	B-Misc
 de	I-Misc
@@ -133,7 +133,7 @@ measure	O
 .	O
 But	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 Sebastián	B-Person
 Battaglia	I-Person
@@ -495,7 +495,7 @@ coincidence	O
 4 hours	O
 earlier	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 Corinthians	B-Organization
 celebrated	O
 the	O
@@ -682,7 +682,7 @@ the	O
 inspired	O
 Riquelme	B-Person
 in	O
-2007	B-Misc
+2007	B-Date
 .	O
 Each	O
 enjoyed	O

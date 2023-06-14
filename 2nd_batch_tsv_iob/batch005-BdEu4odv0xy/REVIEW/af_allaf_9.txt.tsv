@@ -75,7 +75,7 @@ been	O
 going	O
 on	O
 since	O
-2021	B-Misc
+2021	B-Date
 .	O
 Sources	O
 close	O
@@ -138,10 +138,10 @@ told	O
 DP	B-Organization
 delegates	O
 on	O
-March	B-Misc
-6	I-Misc
-,	I-Misc
-2022	I-Misc
+March	B-Date
+6	I-Date
+,	I-Date
+2022	I-Date
 :	O
 "	O
 I	O

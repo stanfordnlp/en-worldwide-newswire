@@ -27,7 +27,7 @@ suspects	O
 in	O
 Songkhla	B-Location
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 .	O
 
 Pol	O
@@ -52,7 +52,7 @@ a	O
 press	O
 conference	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 He	O
@@ -193,7 +193,7 @@ tip	O
 -	O
 off	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 that	O
 the	O
 group	O

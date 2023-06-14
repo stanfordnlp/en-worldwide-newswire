@@ -21,12 +21,12 @@ Unes	B-Organization
 )	O
 confirmed	O
 this	O
-Friday	B-Misc
-,	I-Misc
-July	I-Misc
-8	I-Misc
-,	I-Misc
-2022	I-Misc
+Friday	B-Date
+,	I-Date
+July	I-Date
+8	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 the	O
 sanction	O
@@ -501,7 +501,7 @@ Aleaga	B-Person
 acknowledged	O
 in	O
 early	O
-June	B-Misc
+June	B-Date
 that	O
 he	O
 had	O
@@ -684,7 +684,7 @@ been	O
 a	O
 fugitive	O
 since	O
-2020	B-Misc
+2020	B-Date
 .	O
 
 Jordan	B-Person
@@ -711,8 +711,8 @@ has	O
 been	O
 detained	O
 since	O
-May	B-Misc
-25	I-Misc
+May	B-Date
+25	I-Date
 ,	O
 with	O
 three	O

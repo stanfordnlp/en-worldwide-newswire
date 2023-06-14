@@ -85,7 +85,7 @@ No	I-Misc
 20	I-Misc
 )	I-Misc
 of	I-Misc
-2018	I-Misc
+2018	B-Date
 on	O
 anti	O
 -	O
@@ -117,7 +117,7 @@ No	I-Misc
 14	I-Misc
 )	I-Misc
 of	I-Misc
-2018	I-Misc
+2018	B-Date
 regarding	O
 the	O
 Central	B-Organization

@@ -3,8 +3,8 @@ https://english.news.cn/20220527/2fd612ffcf504a2abd17d1fa09ae0ee9/c.html	O
 PHNOM	B-Location
 PENH	I-Location
 ,	O
-May	B-Misc
-27	I-Misc
+May	B-Date
+27	I-Date
 (	O
 Xinhua	B-Organization
 )	O
@@ -47,18 +47,18 @@ Sen	I-Person
 said	O
 here	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 Entering	O
 into	O
 force	O
 on	O
-Jan	B-Misc
-.	I-Misc
-1	I-Misc
-,	I-Misc
-2022	I-Misc
+Jan	B-Date
+.	I-Date
+1	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 RCEP	B-Misc
 comprises	O

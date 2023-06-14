@@ -170,7 +170,7 @@ Ram	B-Misc
 Navami	I-Misc
 festival	O
 in	O
-2022	B-Misc
+2022	B-Date
 .	O
 
 Arson	O
@@ -577,8 +577,8 @@ the	O
 night	O
 on	O
 the	O
-Ram	B-Misc
-Navami	I-Misc
+Ram	B-Date
+Navami	I-Date
 day	O
 and	O
 escaped	O
@@ -729,7 +729,7 @@ Muslims	B-NORP
 are	O
 engaged	O
 in	O
-Ramadan	B-Misc
+Ramadan	B-Date
 prayers	O
 (	O
 Tarawih	B-Misc

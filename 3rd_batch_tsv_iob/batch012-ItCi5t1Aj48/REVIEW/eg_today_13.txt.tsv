@@ -2,9 +2,9 @@ https://www.egypttoday.com/Article/3/117669/Egypt-wins-position-of-Vice-Presiden
 
 CAIRO	B-Location
 -	O
-17	B-Misc
-July	I-Misc
-2022	I-Misc
+17	B-Date
+July	I-Date
+2022	I-Date
 :	O
 The	O
 Financial	B-Organization
@@ -41,7 +41,7 @@ next	O
 two	O
 years	O
 (	O
-2024/2022	B-Misc
+2024/2022	B-Date
 )	O
 .	O
 
@@ -100,7 +100,7 @@ in	O
 a	O
 statement	O
 ,	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 that	O
 by	O
@@ -336,7 +336,7 @@ its	O
 first	O
 strategy	O
 (	O
-2022-2018	B-Misc
+2022-2018	B-Date
 )	O
 and	O
 preparations	O
@@ -349,7 +349,7 @@ its	O
 second	O
 strategy	O
 (	O
-2026-2022	B-Misc
+2026-2022	B-Date
 )	O
 .	O
 

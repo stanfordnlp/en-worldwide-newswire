@@ -54,7 +54,7 @@ civil	O
 war	O
 ended	O
 in	O
-2002	B-Misc
+2002	B-Date
 after	O
 27	O
 years	O
@@ -125,7 +125,7 @@ companies	O
 ,	O
 and	O
 in	O
-2004	B-Misc
+2004	B-Date
 Export	B-Organization
 -	I-Organization
 Import	I-Organization
@@ -236,9 +236,9 @@ cent	O
 a	O
 year	O
 between	O
-2001	B-Misc
+2001	B-Date
 and	O
-2010	B-Misc
+2010	B-Date
 under	O
 president	O
 Jose	B-Person
@@ -250,7 +250,7 @@ who	O
 stepped	O
 down	O
 in	O
-2017	B-Misc
+2017	B-Date
 after	O
 38	O
 years	O
@@ -261,7 +261,7 @@ power	O
 In	O
 the	O
 early	O
-2000	B-Misc
+2000	B-Date
 s	O
 ,	O
 Angola	B-Location
@@ -298,9 +298,9 @@ to	O
 African	B-NORP
 countries	O
 between	O
-2000	B-Misc
+2000	B-Date
 and	O
-2020	B-Misc
+2020	B-Date
 .	O
 
 But	O
@@ -326,7 +326,7 @@ barrel	O
 in	O
 mid	O
 -	O
-2014	B-Misc
+2014	B-Date
 from	O
 a	O
 high	O
@@ -347,7 +347,7 @@ fell	O
 into	O
 recession	O
 in	O
-2016	B-Misc
+2016	B-Date
 and	O
 contracted	O
 for	O
@@ -391,7 +391,7 @@ Santos	I-Person
 as	O
 president	O
 in	O
-2017	B-Misc
+2017	B-Date
 ,	O
 promised	O
 to	O
@@ -440,7 +440,7 @@ prospects	O
 .	O
 
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 he	O
 admitted	O
@@ -837,7 +837,7 @@ government	O
 .	O
 
 A	O
-2021	B-Misc
+2021	B-Date
 study	O
 co	O
 -	O
@@ -1060,8 +1060,8 @@ trip	O
 to	O
 China	B-Location
 in	O
-October	B-Misc
-2018	I-Misc
+October	B-Date
+2018	I-Date
 asking	O
 for	O
 loans	O

@@ -4,7 +4,7 @@ The	O
 Lok	B-Organization
 Sabha	I-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 passed	O
 a	O
 bill	O
@@ -36,7 +36,7 @@ The	O
 Lok	B-Organization
 Sabha	I-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 passed	O
 a	O
 bill	O
@@ -101,8 +101,8 @@ in	O
 the	O
 House	O
 on	O
-July	B-Misc
-18	I-Misc
+July	B-Date
+18	I-Date
 .	O
 It	O
 allows	O
@@ -166,10 +166,10 @@ Pradesh	I-Location
 with	O
 effect	O
 from	O
-February	B-Misc
-15	I-Misc
-,	I-Misc
-2019	I-Misc
+February	B-Date
+15	I-Date
+,	I-Date
+2019	I-Date
 ,	O
 and	O
 to	O
@@ -181,10 +181,10 @@ Nagaland	B-Location
 with	O
 effect	O
 from	O
-September	B-Misc
-12	I-Misc
-,	I-Misc
-2008	I-Misc
+September	B-Date
+12	I-Date
+,	I-Date
+2008	I-Date
 .	O
 
 In	O
@@ -335,7 +335,7 @@ be	O
 set	O
 up	O
 during	O
-2015-2020	B-Misc
+2015-2020	B-Date
 .	O
 
 The	O

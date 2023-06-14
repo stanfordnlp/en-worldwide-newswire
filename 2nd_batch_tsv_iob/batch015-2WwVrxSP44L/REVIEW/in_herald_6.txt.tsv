@@ -156,7 +156,7 @@ voted	O
 to	O
 power	O
 in	O
-2023	B-Misc
+2023	B-Date
 .	O
 
 "	O
@@ -360,7 +360,7 @@ Minister	O
 R	B-Person
 Ashoka	I-Person
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 asked	O
 Congress	B-Organization
 leaders	O

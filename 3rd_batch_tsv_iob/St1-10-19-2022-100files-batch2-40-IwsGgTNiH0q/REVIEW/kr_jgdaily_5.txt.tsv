@@ -8,7 +8,7 @@ Agency	I-Organization
 NPA	B-Organization
 )	O
 said	O
-Saturday	B-Misc
+Saturday	B-Date
 that	O
 it	O
 would	O
@@ -83,7 +83,7 @@ Ryu	B-Person
 released	O
 a	O
 statement	O
-Saturday	B-Misc
+Saturday	B-Date
 arguing	O
 he	O
 legally	O
@@ -143,7 +143,7 @@ Asan	B-Location
 South	I-Location
 Chungcheong	I-Location
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 while	O
 another	O
@@ -285,7 +285,7 @@ s	O
 investigative	O
 powers	O
 in	O
-September	B-Misc
+September	B-Date
 .	O
 
 Through	O
@@ -339,7 +339,7 @@ general	O
 
 Police	O
 at	O
-Saturday	B-Misc
+Saturday	B-Date
 ’	O
 s	O
 conference	O
@@ -348,7 +348,7 @@ it	O
 a	O
 reversal	O
 of	O
-1991	B-Misc
+1991	B-Date
 reforms	O
 that	O
 made	O
@@ -589,7 +589,7 @@ measures	O
 against	O
 participants	O
 in	O
-Saturday	B-Misc
+Saturday	B-Date
 ’	O
 s	O
 conference	O
@@ -677,7 +677,7 @@ Dong	I-Person
 hoon	I-Person
 say	O
 in	O
-May	B-Misc
+May	B-Date
 that	O
 one	O
 has	O

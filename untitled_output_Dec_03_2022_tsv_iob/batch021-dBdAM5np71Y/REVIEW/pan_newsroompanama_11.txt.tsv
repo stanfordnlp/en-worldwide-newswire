@@ -11,7 +11,7 @@ Concepción	I-Person
 ,	O
 announced	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 the	O
 rejection	O
 of	O
@@ -197,7 +197,7 @@ after	O
 failing	O
 in	O
 the	O
-1990	B-Misc
+1990	B-Date
 s	O
 .	O
 

@@ -41,7 +41,7 @@ minister	O
 MK	B-Person
 Stalin	I-Person
 said	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 while	O
 voicing	O
@@ -333,7 +333,7 @@ country	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 a	O
 17	O
@@ -411,8 +411,8 @@ suicide	O
 .	O
 
 On	O
-July	B-Misc
-13	I-Misc
+July	B-Date
+13	I-Date
 ,	O
 another	O
 Class	O

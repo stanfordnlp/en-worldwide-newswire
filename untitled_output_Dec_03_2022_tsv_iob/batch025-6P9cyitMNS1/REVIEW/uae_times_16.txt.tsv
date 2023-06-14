@@ -19,7 +19,7 @@ this	O
 year	O
 .	O
 On	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 the	O
 emirate	O
@@ -120,7 +120,7 @@ the	O
 first	O
 day	O
 of	O
-Tashreeq	B-Misc
+Tashreeq	B-Date
 at	O
 the	O
 Jamarat	B-Location
@@ -245,7 +245,7 @@ This	O
 year	O
 ’	O
 s	O
-Haj	B-Misc
+Haj	B-Date
 season	O
 welcomed	O
 around	O
@@ -260,9 +260,9 @@ after	O
 two	O
 years	O
 of	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 restrictions	O
 .	O
 

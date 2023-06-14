@@ -21,8 +21,8 @@ the	O
 riverside	O
 
 On	O
-21	B-Misc
-June	I-Misc
+21	B-Date
+June	I-Date
 ,	O
 Cairo	B-Location
 ’	O
@@ -73,7 +73,7 @@ started	O
 in	O
 Paris	B-Location
 in	O
-1982	B-Misc
+1982	B-Date
 and	O
 quickly	O
 spread	O
@@ -214,7 +214,7 @@ the	O
 festival	O
 .	O
 The	O
-2004	B-Misc
+2004	B-Date
 event	O
 attracted	O
 a	O
@@ -414,7 +414,7 @@ professional	O
 singer	O
 only	O
 since	O
-2001	B-Misc
+2001	B-Date
 ,	O
 Donia	B-Person
 Massoud	I-Person

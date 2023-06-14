@@ -4,7 +4,7 @@ In	O
 the	O
 summer	O
 of	O
-1281	B-Misc
+1281	B-Date
 ,	O
 Kublai	B-Person
 Khan	I-Person
@@ -40,7 +40,7 @@ a	O
 previous	O
 mission	O
 in	O
-1274	B-Misc
+1274	B-Date
 failed	O
 .	O
 
@@ -635,7 +635,7 @@ a	O
 discovery	O
 made	O
 in	O
-1908	B-Misc
+1908	B-Date
 by	O
 Fukumatsu	B-Person
 Hashimoto	I-Person
@@ -723,7 +723,7 @@ underwater	O
 .	O
 
 In	O
-1924	B-Misc
+1924	B-Date
 ,	O
 a	O
 local	O
@@ -754,7 +754,7 @@ be	O
 earthenware	O
 from	O
 the	O
-Jomon	B-NORP
+Jomon	B-Date
 Era	O
 (	O
 10,000	O
@@ -767,8 +767,8 @@ C	O
 )	O
 ,	O
 the	O
-Yayoi	B-Misc
-Period	I-Misc
+Yayoi	B-Date
+Period	I-Date
 (	O
 200	O
 B	O
@@ -784,8 +784,8 @@ D	O
 )	O
 and	O
 the	O
-Kofun	B-Misc
-Period	I-Misc
+Kofun	B-Date
+Period	I-Date
 (	O
 A	O
 .	O
@@ -830,7 +830,7 @@ scale	O
 projects	O
 .	O
 In	O
-1975	B-Misc
+1975	B-Date
 ,	O
 the	O
 first	O
@@ -872,7 +872,7 @@ Esashi	B-Location
 Hokkaido	I-Location
 ,	O
 in	O
-1868	B-Misc
+1868	B-Date
 .	O
 
 “	O
@@ -921,7 +921,7 @@ Affairs	I-Organization
 .	O
 
 In	O
-March	B-Misc
+March	B-Date
 ,	O
 the	O
 agency	O
@@ -1144,7 +1144,7 @@ the	O
 Nara	B-Misc
 Period	I-Misc
 (	O
-710-794	B-Misc
+710-794	B-Date
 )	O
 ,	O
 the	O
@@ -1172,7 +1172,7 @@ the	O
 Sengoku	O
 period	O
 (	O
-1482-1573	B-Misc
+1482-1573	B-Date
 )	O
 ,	O
 the	O
@@ -1406,7 +1406,7 @@ developed	O
 in	O
 the	O
 early	O
-1990	B-Misc
+1990	B-Date
 s	O
 ,	O
 featuring	O
@@ -1538,7 +1538,7 @@ a	O
 field	O
 trip	O
 in	O
-August	B-Misc
+August	B-Date
 ,	O
 inviting	O
 academics	O
@@ -1586,8 +1586,8 @@ search	O
 begins	O
 
 In	O
-June	B-Misc
-2021	I-Misc
+June	B-Date
+2021	I-Date
 ,	O
 Ayane	B-Person
 Hama	I-Person
@@ -1606,7 +1606,7 @@ a	O
 book	O
 published	O
 in	O
-1982	B-Misc
+1982	B-Date
 about	O
 underwater	O
 archaeology	O
@@ -1954,8 +1954,8 @@ run	O
 which	O
 began	O
 on	O
-March	B-Misc
-4	I-Misc
+March	B-Date
+4	I-Date
 ,	O
 successfully	O
 gathered	O
@@ -1978,7 +1978,7 @@ at	O
 the	O
 end	O
 of	O
-April	B-Misc
+April	B-Date
 .	O
 
 Many	O
@@ -2184,9 +2184,9 @@ slated	O
 to	O
 start	O
 on	O
-Aug	B-Misc
-.	I-Misc
-5	I-Misc
+Aug	B-Date
+.	I-Date
+5	I-Date
 and	O
 will	O
 last	O
@@ -2258,8 +2258,8 @@ to	O
 UNESCO	B-Organization
 ’	O
 s	O
-2001	B-Misc
-Convention	I-Misc
+2001	B-Date
+Convention	B-Misc
 ,	O
 underwater	O
 heritage	O
@@ -2351,7 +2351,7 @@ research	O
 dates	O
 back	O
 to	O
-1535	B-Misc
+1535	B-Date
 ,	O
 when	O
 Guglielmo	B-Person
@@ -2428,19 +2428,19 @@ sank	O
 in	O
 battle	O
 in	O
-1545	B-Misc
+1545	B-Date
 .	O
 The	O
 ship	O
 was	O
 rediscovered	O
 in	O
-1971	B-Misc
+1971	B-Date
 and	O
 finally	O
 raised	O
 in	O
-1982	B-Misc
+1982	B-Date
 in	O
 one	O
 of	O
@@ -2470,7 +2470,7 @@ Vasa	I-Misc
 which	O
 sank	O
 in	O
-1628	B-Misc
+1628	B-Date
 shortly	O
 after	O
 its	O
@@ -2479,7 +2479,7 @@ voyage	O
 .	O
 Salvaged	O
 in	O
-1961	B-Misc
+1961	B-Date
 ,	O
 the	O
 vessel	O
@@ -2810,7 +2810,7 @@ seas	O
 .	O
 
 In	O
-1974	B-Misc
+1974	B-Date
 ,	O
 a	O
 square	O
@@ -2926,7 +2926,7 @@ it	O
 was	O
 commissioned	O
 in	O
-1277	B-Misc
+1277	B-Date
 ,	O
 four	O
 years	O

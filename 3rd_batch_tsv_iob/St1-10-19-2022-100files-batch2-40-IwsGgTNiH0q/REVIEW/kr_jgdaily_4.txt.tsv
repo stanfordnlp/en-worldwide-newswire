@@ -21,7 +21,7 @@ vocal	O
 quartet	O
 Forestella	B-Organization
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 “	O
@@ -37,7 +37,7 @@ place	O
 in	O
 Seoul	B-Location
 in	O
-October	B-Misc
+October	B-Date
 this	O
 year	O
 ,	O
@@ -52,7 +52,7 @@ All	B-Organization
 That	I-Organization
 Sports	I-Organization
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 Ko	B-Person
 ’	O
@@ -62,14 +62,14 @@ Beat	B-Organization
 Interactive	I-Organization
 also	O
 confirmed	O
-Monday	B-Misc
+Monday	B-Date
 that	O
 the	O
 two	O
 will	O
 wed	O
 in	O
-October	B-Misc
+October	B-Date
 .	O
 
 According	O
@@ -83,7 +83,7 @@ Ko	B-Person
 first	O
 met	O
 in	O
-2018	B-Misc
+2018	B-Date
 during	O
 an	O
 ice	O
@@ -121,7 +121,7 @@ Skate	I-Misc
 Ice	I-Misc
 Show'	I-Misc
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 and	O
 have	O
@@ -169,7 +169,7 @@ ladies	O
 singles	O
 at	O
 the	O
-2010	B-Misc
+2010	B-Date
 Vancouver	B-Misc	B-Location
 Winter	I-Misc
 Olympic	I-Misc
@@ -204,7 +204,7 @@ career	O
 She	O
 retired	O
 in	O
-2014	B-Misc
+2014	B-Date
 .	O
 
 Ko	B-Person

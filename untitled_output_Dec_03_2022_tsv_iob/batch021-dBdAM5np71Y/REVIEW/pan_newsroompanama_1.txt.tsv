@@ -9,7 +9,7 @@ will	O
 face	O
 trial	O
 in	O
-September	B-Misc
+September	B-Date
 for	O
 the	O
 bribes	O
@@ -47,10 +47,10 @@ jurisdiction	O
 .	O
 
 On	O
-Monday	B-Misc
-,	I-Misc
-July	I-Misc
-25	I-Misc
+Monday	B-Date
+,	I-Date
+July	I-Date
+25	I-Date
 ,	O
 magistrates	O
 Alfredo	B-Person
@@ -81,10 +81,10 @@ against	O
 a	O
 resolution	O
 of	O
-June	B-Misc
-28	I-Misc
-,	I-Misc
-2022	I-Misc
+June	B-Date
+28	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 in	O
 which	O
@@ -139,7 +139,7 @@ the	O
 United	B-Location
 States	I-Location
 in	O
-2008	B-Misc
+2008	B-Date
 .	O
 
 The	O
@@ -153,7 +153,7 @@ was	O
 communicated	O
 in	O
 a	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 the	O
 suspension	O
@@ -186,7 +186,7 @@ of	O
 the	O
 TE	B-Organization
 on	O
-Monday	B-Misc
+Monday	B-Date
 is	O
 very	O
 different	O
@@ -195,8 +195,8 @@ the	O
 one	O
 adopted	O
 on	O
-March	B-Misc
-22	I-Misc
+March	B-Date
+22	I-Date
 reports	O
 La	B-Organization
 Prensa	I-Organization
@@ -276,7 +276,7 @@ specialty	O
 contained	O
 in	O
 the	O
-1904	B-Misc
+1904	B-Date
 extradition	O
 treaty	O
 ,	O
@@ -326,7 +326,7 @@ will	O
 be	O
 held	O
 on	O
-September	B-Misc
-12	I-Misc
+September	B-Date
+12	I-Date
 .	O
 

@@ -58,7 +58,7 @@ the	O
 French	B-NORP
 expedition	O
 of	O
-1792-93	B-Misc
+1792-93	B-Date
 and	O
 ended	O
 up	O
@@ -119,8 +119,8 @@ ABC	B-Organization
 Radio	I-Organization
 Hobart	I-Organization
 for	O
-NAIDOC	B-Misc
-Week	I-Misc
+NAIDOC	B-Date
+Week	I-Date
 ,	O
 Dr	O
 Sculthorpe	B-Person
@@ -243,7 +243,7 @@ catalogue	O
 in	O
 Paris	B-Location
 in	O
-1828	B-Misc
+1828	B-Date
 .	O
 
 "	O
@@ -309,7 +309,7 @@ container	O
 .	O
 
 In	O
-2019	B-Misc
+2019	B-Date
 she	O
 went	O
 to	O
@@ -442,7 +442,7 @@ showed	O
 that	O
 in	O
 the	O
-1890	B-Misc
+1890	B-Date
 s	O
 a	O
 kelp	O
@@ -612,14 +612,14 @@ matched	O
 the	O
 drawings	O
 from	O
-1793	B-Misc
+1793	B-Date
 and	O
 the	O
 sketch	O
 done	O
 in	O
 the	O
-1890	B-Misc
+1890	B-Date
 s	O
 .	O
 
@@ -714,7 +714,7 @@ by	O
 Joseph	B-Person
 Milligan	I-Person
 in	O
-1851	B-Misc
+1851	B-Date
 after	O
 it	O
 was	O

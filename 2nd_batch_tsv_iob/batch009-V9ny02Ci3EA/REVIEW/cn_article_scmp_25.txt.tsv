@@ -155,9 +155,9 @@ generations	O
 Chinese	B-NORP
 born	O
 between	O
-1995	B-Misc
+1995	B-Date
 and	O
-2010	B-Misc
+2010	B-Date
 –	O
 known	O
 as	O
@@ -392,8 +392,8 @@ the	O
 recently	O
 released	O
 “	O
-2022	B-Misc
-Global	I-Misc
+2022	B-Date
+Global	B-Misc
 Generation	I-Misc
 Z	I-Misc
 Insights	I-Misc
@@ -462,7 +462,7 @@ was	O
 released	O
 in	O
 late	O
-May	B-Misc
+May	B-Date
 by	O
 several	O
 Chinese	B-NORP
@@ -516,7 +516,7 @@ China	B-Organization	B-Location
 Youth	I-Organization
 Daily	I-Organization
 in	O
-March	B-Misc
+March	B-Date
 of	O
 more	O
 than	O
@@ -629,7 +629,7 @@ brutality	O
 .	O
 
 A	O
-2021	B-Misc
+2021	B-Date
 Pew	B-Organization
 Research	I-Organization
 survey	O
@@ -1043,7 +1043,7 @@ said	O
 China	B-Location
 announced	O
 in	O
-2020	B-Misc
+2020	B-Date
 it	O
 would	O
 peak	O
@@ -1051,13 +1051,13 @@ carbon	O
 dioxide	O
 emissions	O
 before	O
-2030	B-Misc
+2030	B-Date
 and	O
 achieve	O
 carbon	O
 neutrality	O
 by	O
-2060	B-Misc
+2060	B-Date
 .	O
 Though	O
 it	O
@@ -1108,7 +1108,7 @@ that	O
 started	O
 before	O
 the	O
-2008	B-Misc
+2008	B-Date
 summer	O
 Olympic	B-Misc
 gains	O
@@ -1132,7 +1132,7 @@ cent	O
 in	O
 China	B-Location
 between	O
-2013-20	B-Misc
+2013-20	B-Date
 ,	O
 adding	O
 two	O

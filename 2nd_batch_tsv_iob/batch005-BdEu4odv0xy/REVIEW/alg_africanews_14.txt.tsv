@@ -46,8 +46,8 @@ had	O
 been	O
 senteced	O
 in	O
-August	B-Misc
-2020	I-Misc
+August	B-Date
+2020	I-Date
 to	O
 three	O
 years	O
@@ -80,8 +80,8 @@ Drareni	I-Person
 was	O
 arrested	O
 in	O
-March	B-Misc
-2020	I-Misc
+March	B-Date
+2020	I-Date
 while	O
 covering	O
 a	O

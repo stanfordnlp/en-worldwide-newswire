@@ -113,7 +113,7 @@ followed	O
 by	O
 economics	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 and	O
 education	O
 ,	O
@@ -121,7 +121,7 @@ society	O
 and	O
 culture	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 Prime	O
@@ -456,7 +456,7 @@ Jae	I-Person
 in	I-Person
 administration	O
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 
 When	O
@@ -580,7 +580,7 @@ North	B-NORP
 Korean	I-NORP
 fishermen	O
 in	O
-2019	B-Misc
+2019	B-Date
 as	O
 an	O
 example	O
@@ -803,7 +803,7 @@ holding	O
 a	O
 meeting	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 opposing	O
 it	O
 .	O

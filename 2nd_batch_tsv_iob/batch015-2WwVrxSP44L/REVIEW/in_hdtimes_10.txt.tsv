@@ -39,7 +39,7 @@ probing	O
 the	O
 case	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 arrested	O
 Ashraf	B-Person
 ’	O
@@ -227,8 +227,8 @@ the	O
 state	O
 secretariat	O
 on	O
-April	B-Misc
-28	I-Misc
+April	B-Date
+28	I-Date
 alleging	O
 that	O
 they	O
@@ -294,8 +294,8 @@ abducted	O
 from	O
 Mysuru	B-Location
 in	O
-August	B-Misc
-2019	I-Misc
+August	B-Date
+2019	I-Date
 ,	O
 held	O
 hostage	O
@@ -383,8 +383,8 @@ in	O
 Malappuram	B-Location
 district	O
 in	O
-October	B-Misc
-2020	I-Misc
+October	B-Date
+2020	I-Date
 ,	O
 which	O
 was	O
@@ -461,8 +461,8 @@ in	O
 Abu	B-Location
 Dhbai	I-Location
 in	O
-March	B-Misc
-2020	I-Misc
+March	B-Date
+2020	I-Date
 and	O
 the	O
 UAE	B-Location

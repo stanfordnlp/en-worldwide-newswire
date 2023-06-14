@@ -78,7 +78,7 @@ total	O
 figure	O
 obtained	O
 throughout	O
-2019	B-Misc
+2019	B-Date
 ,	O
 prior	O
 to	O
@@ -165,7 +165,7 @@ what	O
 was	O
 reported	O
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 The	O
@@ -183,9 +183,9 @@ of	O
 Holy	B-Misc
 Week	I-Misc
 ,	O
-May	B-Misc
+May	B-Date
 and	O
-June	B-Misc
+June	B-Date
 also	O
 generated	O
 a	O

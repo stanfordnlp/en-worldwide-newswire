@@ -113,7 +113,7 @@ Procedure	I-Misc
 Act	I-Misc
 51	I-Misc
 of	I-Misc
-1977	I-Misc
+1977	B-Date
 .	O
 
 The	O
@@ -121,10 +121,10 @@ State	B-Organization
 alleges	O
 that	O
 on	O
-November	B-Misc
-5	I-Misc
-,	I-Misc
-2020	I-Misc
+November	B-Date
+5	I-Date
+,	I-Date
+2020	I-Date
 ,	O
 near	O
 Johannesburg	B-Location
@@ -208,7 +208,7 @@ Commission	I-Misc
 .	O
 
 In	O
-May	B-Misc
+May	B-Date
 ,	O
 Myeni	B-Person
 was	O

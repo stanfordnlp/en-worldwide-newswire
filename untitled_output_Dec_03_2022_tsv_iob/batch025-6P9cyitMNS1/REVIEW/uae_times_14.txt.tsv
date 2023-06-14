@@ -94,7 +94,7 @@ a	O
 press	O
 conference	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Lamola	B-Person
@@ -227,7 +227,7 @@ fled	O
 to	O
 Dubai	B-Location
 in	O
-2018	B-Misc
+2018	B-Date
 .	O
 But	O
 the	O
@@ -248,7 +248,7 @@ UAE	B-Location
 was	O
 ratified	O
 in	O
-2021	B-Misc
+2021	B-Date
 and	O
 South	B-Location
 Africa	I-Location
@@ -262,7 +262,7 @@ extradition	O
 .	O
 
 In	O
-June	B-Misc
+June	B-Date
 this	O
 year	O
 ,	O
@@ -320,8 +320,8 @@ most	O
 wanted	O
 list	O
 in	O
-February	B-Misc
-2022	I-Misc
+February	B-Date
+2022	I-Date
 .	O
 
 She	O
@@ -502,7 +502,7 @@ extradition	O
 was	O
 submitted	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 well	O
 within	O
@@ -512,8 +512,8 @@ the	O
 day	O
 deadline	O
 of	O
-August	B-Misc
-2	I-Misc
+August	B-Date
+2	I-Date
 ,	O
 said	O
 Batohi	B-Person
@@ -584,7 +584,7 @@ in	O
 South	B-Location
 Africa	I-Location
 in	O
-1993	B-Misc
+1993	B-Date
 before	O
 the	O
 end	O

@@ -363,7 +363,7 @@ signed	O
 an	O
 agreement	O
 in	O
-April	B-Misc
+April	B-Date
 with	O
 the	O
 bond	O
@@ -580,7 +580,7 @@ time	O
 to	O
 announce	O
 its	O
-2021	B-Misc
+2021	B-Date
 financial	O
 results	O
 ,	O

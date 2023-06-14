@@ -57,7 +57,7 @@ s	O
 energy	O
 crisis	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 with	O
 a	O
 list	O
@@ -199,7 +199,7 @@ hosted	O
 a	O
 webinar	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 to	O
 discuss	O
 what	O
@@ -389,7 +389,7 @@ national	O
 carbon	O
 market	O
 in	O
-July	B-Misc
+July	B-Date
 last	O
 year	O
 boosted	O

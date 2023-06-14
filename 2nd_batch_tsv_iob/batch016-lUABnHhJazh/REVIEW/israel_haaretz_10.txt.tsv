@@ -113,7 +113,7 @@ who	O
 was	O
 convicted	O
 in	O
-2002	B-Misc
+2002	B-Date
 of	O
 abusing	O
 a	O
@@ -127,7 +127,7 @@ high	O
 school	O
 in	O
 the	O
-1990	B-Misc
+1990	B-Date
 s	O
 ,	O
 still	O
@@ -154,7 +154,7 @@ minister	O
 and	O
 with	O
 the	O
-November	B-Misc
+November	B-Date
 election	O
 looming	O
 ,	O
@@ -287,7 +287,7 @@ against	O
 Lanner	B-Person
 in	O
 a	O
-1989	B-Misc
+1989	B-Date
 religious	O
 court	O
 proceeding	O
@@ -378,7 +378,7 @@ Lanner	B-Person
 s	O
 immigration	O
 since	O
-2019	B-Misc
+2019	B-Date
 in	O
 her	O
 role	O
@@ -452,7 +452,7 @@ of	O
 such	O
 offenders	O
 in	O
-2015	B-Misc
+2015	B-Date
 ,	O
 there	O
 were	O
@@ -689,7 +689,7 @@ fled	O
 to	O
 Israel	B-Location
 in	O
-2008	B-Misc
+2008	B-Date
 after	O
 allegations	O
 surfaced	O
@@ -705,8 +705,8 @@ was	O
 ultimately	O
 extradited	O
 in	O
-January	B-Misc
-2021	I-Misc
+January	B-Date
+2021	I-Date
 ,	O
 after	O
 an	O
@@ -1177,7 +1177,7 @@ were	O
 sources	O
 in	O
 the	O
-2000	B-Misc
+2000	B-Date
 Jewish	B-Organization
 Week	I-Organization
 article	O
@@ -1233,7 +1233,7 @@ there	O
 
 Following	O
 his	O
-2002	B-Misc
+2002	B-Date
 conviction	O
 and	O
 subsequent	O
@@ -1257,8 +1257,8 @@ revelation	O
 in	O
 Haaretz	B-Organization
 on	O
-July	B-Misc
-7	I-Misc
+July	B-Date
+7	I-Date
 that	O
 he	O
 was	O

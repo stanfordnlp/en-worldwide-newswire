@@ -10,9 +10,9 @@ United	B-Location
 States	I-Location
 met	O
 on	O
-Friday	B-Misc
-22	B-Misc
-July	I-Misc
+Friday	B-Date
+22	I-Date
+July	I-Date
 with	O
 the	O
 Deputy	O

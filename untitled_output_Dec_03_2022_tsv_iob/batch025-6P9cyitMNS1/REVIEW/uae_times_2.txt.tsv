@@ -27,7 +27,7 @@ lashed	O
 the	O
 emirates	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 His	O
@@ -160,9 +160,9 @@ to	O
 work	O
 remotely	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 and	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 The	O

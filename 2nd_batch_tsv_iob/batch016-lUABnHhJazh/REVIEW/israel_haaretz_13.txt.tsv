@@ -287,9 +287,9 @@ took	O
 place	O
 between	O
 about	O
-2001	B-Misc
+2001	B-Date
 and	O
-2008	B-Misc
+2008	B-Date
 .	O
 
 “	O
@@ -531,7 +531,7 @@ taken	O
 into	O
 custody	O
 in	O
-2014	B-Misc
+2014	B-Date
 after	O
 the	O
 Australian	B-NORP
@@ -889,7 +889,7 @@ Adass	B-Organization
 Israel	I-Organization	B-Location
 School	I-Organization
 in	O
-2015	B-Misc
+2015	B-Date
 .	O
 It	O
 was	O

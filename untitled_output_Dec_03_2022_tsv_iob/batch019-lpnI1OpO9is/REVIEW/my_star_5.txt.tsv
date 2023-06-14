@@ -2,8 +2,8 @@ https://www.thestar.com.my/aseanplus/aseanplus-news/2022/07/25/myanmar-draws-ang
 
 YANGON	B-Location
 ,	O
-July	B-Misc
-25	I-Misc
+July	B-Date
+25	I-Date
 (	O
 Reuters	B-Organization
 )	O
@@ -31,7 +31,7 @@ acts	O
 it	O
 said	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 sparking	O
 widespread	O
@@ -59,9 +59,9 @@ closed	O
 door	O
 trials	O
 in	O
-January	B-Misc
+January	B-Date
 and	O
-April	B-Misc
+April	B-Date
 ,	O
 the	O
 four	O
@@ -239,7 +239,7 @@ against	O
 the	O
 sentences	O
 in	O
-June	B-Misc
+June	B-Date
 .	O
 The	O
 two	O
@@ -407,7 +407,7 @@ families	O
 visited	O
 it	O
 last	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 Only	O
 one	O
@@ -435,7 +435,7 @@ reported	O
 the	O
 executions	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 and	O
 junta	O
 spokesman	O
@@ -494,7 +494,7 @@ were	O
 in	O
 the	O
 late	O
-1980	B-Misc
+1980	B-Date
 s	O
 .	O
 
@@ -582,9 +582,9 @@ regime	O
 which	O
 ruled	O
 between	O
-1988	B-Misc
+1988	B-Date
 and	O
-2011	B-Misc
+2011	B-Date
 ,	O
 dared	O
 to	O
@@ -853,7 +853,7 @@ revolution	O
 .	O
 
 Last	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 the	O
 World	B-Organization

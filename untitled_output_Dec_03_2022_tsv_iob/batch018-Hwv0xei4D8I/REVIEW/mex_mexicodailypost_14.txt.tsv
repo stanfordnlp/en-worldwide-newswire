@@ -200,13 +200,13 @@ Loughton	B-Location
 ,	I-Location
 England	I-Location
 in	O
-1923	B-Misc
+1923	B-Date
 and	O
 emigrated	O
 to	O
 Canada	B-Location
 in	O
-1953	B-Misc
+1953	B-Date
 .	O
 
 Later	O
@@ -233,7 +233,7 @@ Her	O
 husband	O
 died	O
 in	O
-1967	B-Misc
+1967	B-Date
 ,	O
 and	O
 Kennedy	B-Person
@@ -270,7 +270,7 @@ that	O
 she	O
 died	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 the	O
 New	B-Organization	B-Location
@@ -422,7 +422,7 @@ work	O
 ,	O
 and	O
 in	O
-1981	B-Misc
+1981	B-Date
 the	O
 government	O
 honored	O

@@ -88,7 +88,7 @@ Secretariat	O
 in	O
 Dhaka	B-Location
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 In	O
@@ -356,8 +356,8 @@ added	O
 .	O
 
 On	O
-May	B-Misc
-18	I-Misc
+May	B-Date
+18	I-Date
 ,	O
 Sheikh	O
 Hasian	B-Person
@@ -461,7 +461,7 @@ bridge	O
 .	O
 
 On	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 Sheikh	O
 Hasina	B-Person

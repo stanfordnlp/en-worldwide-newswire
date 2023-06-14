@@ -191,7 +191,7 @@ of	O
 the	O
 economy	O
 in	O
-2020	B-Misc
+2020	B-Date
 ,	O
 as	O
 a	O
@@ -233,17 +233,17 @@ from	O
 46.3	O
 %	O
 in	O
-2019	B-Misc
+2019	B-Date
 to	O
 68.5	O
 %	O
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 
 Although	O
 in	O
-2021	B-Misc
+2021	B-Date
 the	O
 weight	O
 of	O
@@ -269,7 +269,7 @@ still	O
 well	O
 above	O
 the	O
-2019	B-Misc
+2019	B-Date
 level	O
 and	O
 the	O
@@ -293,7 +293,7 @@ the	O
 last	O
 time	O
 in	O
-2020	B-Misc
+2020	B-Date
 to	O
 give	O
 more	O
@@ -471,7 +471,7 @@ CAPRD	B-Organization
 ,	O
 "	O
 by	O
-2021	B-Misc
+2021	B-Date
 ,	O
 only	O
 Panama	B-Location
@@ -562,14 +562,14 @@ the	O
 first	O
 quarter	O
 of	O
-2022	B-Misc
+2022	B-Date
 ,	O
 GDP	B-Misc
 exceeds	O
 the	O
 records	O
 of	O
-2019	B-Misc
+2019	B-Date
 and	O
 the	O
 expectation	O

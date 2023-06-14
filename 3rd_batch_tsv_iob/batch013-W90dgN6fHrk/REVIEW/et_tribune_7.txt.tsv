@@ -20,7 +20,7 @@ birr	I-Money
 was	O
 inaugurated	O
 last	O
-Saturday	B-Misc
+Saturday	B-Date
 at	O
 a	O
 colorful	O
@@ -237,7 +237,7 @@ all	O
 rural	O
 towns	O
 by	O
-2010	B-Misc
+2010	B-Date
 
 The	O
 hydroelectric	O

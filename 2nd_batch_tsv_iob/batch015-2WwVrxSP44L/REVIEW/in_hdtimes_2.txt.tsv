@@ -304,7 +304,7 @@ global	O
 health	O
 body	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 declared	O
 monkeypox	B-Misc
 a	O
@@ -530,7 +530,7 @@ segments	O
 
 WHO	B-Organization
 on	O
-Monday	B-Misc
+Monday	B-Date
 said	O
 while	O
 cases	O

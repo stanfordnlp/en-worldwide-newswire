@@ -259,9 +259,9 @@ issued	O
 a	O
 statement	O
 dated	O
-18	B-Misc
-July	I-Misc
-2022	I-Misc
+18	B-Date
+July	I-Date
+2022	I-Date
 saying	O
 that	O
 it	O
@@ -492,9 +492,9 @@ by	O
 424	O
 %	O
 from	O
-2020	B-Misc
+2020	B-Date
 to	O
-2022	B-Misc
+2022	B-Date
 !	O
 The	O
 highest	O
@@ -700,8 +700,8 @@ However	O
 ,	O
 starting	O
 from	O
-April	B-Misc
-2022	I-Misc
+April	B-Date
+2022	I-Date
 ,	O
 the	O
 main	O

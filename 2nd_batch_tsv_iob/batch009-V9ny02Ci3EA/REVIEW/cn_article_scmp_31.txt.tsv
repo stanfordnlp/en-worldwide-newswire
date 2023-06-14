@@ -85,7 +85,7 @@ a	O
 press	O
 conference	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 ,	O
 the	O
 first	O
@@ -185,8 +185,8 @@ their	O
 mortgages	O
 as	O
 of	O
-July	B-Misc
-21	I-Misc
+July	B-Date
+21	I-Date
 ,	O
 according	O
 to	O
@@ -260,7 +260,7 @@ law	O
 Liu	B-Person
 said	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 in	O
 comments	O
 similar	O
@@ -318,7 +318,7 @@ penalties	O
 Bloomberg	B-Organization
 reported	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 citing	O
 people	O
@@ -518,7 +518,7 @@ strict	O
 rules	O
 enacted	O
 in	O
-2017	B-Misc
+2017	B-Date
 to	O
 rein	O
 in	O
@@ -571,7 +571,7 @@ $	I-Money
 million	I-Money
 bond	O
 last	O
-July	B-Misc
+July	B-Date
 .	O
 The	O
 web	O

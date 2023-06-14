@@ -50,8 +50,8 @@ nation	O
 s	O
 attention	O
 on	O
-June	B-Misc
-27	I-Misc
+June	B-Date
+27	I-Date
 when	O
 she	O
 allegedly	O
@@ -130,7 +130,7 @@ path	O
 .	O
 
 On	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 Sydney	B-Organization	B-Location
 Downing	I-Organization
@@ -387,8 +387,8 @@ old	O
 was	O
 arrested	O
 on	O
-June	B-Misc
-29	I-Misc
+June	B-Date
+29	I-Date
 for	O
 remaining	O
 in	O
@@ -542,8 +542,8 @@ Blockade	B-Organization
 Australia	I-Organization	B-Location
 protest	O
 on	O
-June	B-Misc
-27	I-Misc
+June	B-Date
+27	I-Date
 .	O
 Her	O
 strict	O
@@ -605,7 +605,7 @@ Centre	I-Organization
 Local	I-Organization
 Court	I-Organization
 on	O
-August	B-Misc
-16	I-Misc
+August	B-Date
+16	I-Date
 .	O
 

@@ -9,7 +9,7 @@ two	O
 others	O
 injured	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 in	O
 yet	O
 another	O
@@ -95,7 +95,7 @@ a	O
 bloody	O
 brawl	O
 in	O
-May	B-Misc
+May	B-Date
 .	O
 
 Prison	O
@@ -277,7 +277,7 @@ the	O
 prison	O
 during	O
 the	O
-May	B-Misc
+May	B-Date
 riot	O
 ,	O
 but	O
@@ -417,8 +417,8 @@ explosives	O
 .	O
 
 Since	O
-February	B-Misc
-2021	I-Misc
+February	B-Date
+2021	I-Date
 ,	O
 there	O
 have	O

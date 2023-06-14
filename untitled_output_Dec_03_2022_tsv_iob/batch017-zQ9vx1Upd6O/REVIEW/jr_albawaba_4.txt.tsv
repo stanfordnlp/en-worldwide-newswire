@@ -77,8 +77,8 @@ in	O
 East	B-Location
 Jerusalem	I-Location
 on	O
-July	B-Misc
-22	I-Misc
+July	B-Date
+22	I-Date
 ,	O
 an	O
 official	O
@@ -227,7 +227,7 @@ the	O
 Middle	B-Location
 East	I-Location
 since	O
-2018	B-Misc
+2018	B-Date
 .	O
 
 The	O
@@ -241,7 +241,7 @@ a	O
 humanitarian	O
 agency	O
 in	O
-1949	B-Misc
+1949	B-Date
 ,	O
 is	O
 fully	O
@@ -317,7 +317,7 @@ microfinance	O
 .	O
 
 In	O
-January	B-Misc
+January	B-Date
 ,	O
 the	O
 UNRWA	B-Organization
@@ -334,7 +334,7 @@ the	O
 international	O
 community	O
 in	O
-2022	B-Misc
+2022	B-Date
 to	O
 cover	O
 expenses	O

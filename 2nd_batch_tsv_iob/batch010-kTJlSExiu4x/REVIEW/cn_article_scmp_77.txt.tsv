@@ -53,8 +53,8 @@ crackdown	O
 which	O
 began	O
 on	O
-June	B-Misc
-25	I-Misc
+June	B-Date
+25	I-Date
 ,	O
 was	O
 designed	O
@@ -357,7 +357,7 @@ at	O
 the	O
 end	O
 of	O
-May	B-Misc
+May	B-Date
 .	O
 
 No	O

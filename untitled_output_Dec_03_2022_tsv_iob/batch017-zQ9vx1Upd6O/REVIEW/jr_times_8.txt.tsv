@@ -14,7 +14,7 @@ Orbit	B-Organization
 Aluminum	I-Organization
 Industries	I-Organization
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 signed	O
 a	O
 $	B-Money
@@ -235,7 +235,7 @@ sources	O
 
 Established	O
 in	O
-2016	B-Misc
+2016	B-Date
 in	O
 Aqaba	B-Location
 ,	O

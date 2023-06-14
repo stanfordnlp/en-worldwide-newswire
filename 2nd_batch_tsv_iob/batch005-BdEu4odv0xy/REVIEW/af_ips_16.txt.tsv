@@ -2,9 +2,9 @@ https://www.ipsnews.net/2022/05/its-time-to-globalise-compassion-says-nobel-laur
 
 Durban	B-Location
 ,	O
-May	B-Misc
-16	I-Misc
-2022	I-Misc
+May	B-Date
+16	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -75,7 +75,7 @@ in	O
 child	O
 labour	O
 since	O
-2016	B-Misc
+2016	B-Date
 ,	O
 after	O
 several	O
@@ -362,7 +362,7 @@ in	O
 child	O
 labour	O
 until	O
-2016	B-Misc
+2016	B-Date
 –	O
 when	O
 the	O
@@ -674,7 +674,7 @@ the	O
 SDG	B-Misc
 deadline	O
 of	O
-2025	B-Misc
+2025	B-Date
 ,	O
 he	O
 and	O

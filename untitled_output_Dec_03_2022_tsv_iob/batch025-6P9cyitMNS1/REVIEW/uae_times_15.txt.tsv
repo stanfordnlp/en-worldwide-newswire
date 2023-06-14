@@ -59,9 +59,9 @@ made	O
 this	O
 announcement	O
 on	O
-Wednes	B-Misc
--	I-Misc
-day	I-Misc
+Wednes	B-Date
+-	I-Date
+day	I-Date
 while	O
 receiving	O
 Fayez	B-Person

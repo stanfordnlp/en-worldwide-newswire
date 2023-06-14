@@ -287,9 +287,9 @@ people	O
 .	O
 
 Between	O
-1955	B-Misc
+1955	B-Date
 and	O
-1969	B-Misc
+1969	B-Date
 ,	O
 at	O
 least	O
@@ -353,7 +353,7 @@ finally	O
 faced	O
 trial	O
 in	O
-2014	B-Misc
+2014	B-Date
 ,	O
 someone	O
 in	O
@@ -470,7 +470,7 @@ the	O
 Inukshuk	B-Facility
 at	O
 the	O
-2010	B-Misc
+2010	B-Date
 Vancouver	B-Misc
 Olympics	I-Misc
 and	O
@@ -598,7 +598,7 @@ Iqaluit	B-Location
 for	O
 four	O
 hours	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 City	O
 officials	O

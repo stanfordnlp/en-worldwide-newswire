@@ -86,7 +86,7 @@ whose	O
 Egypt	B-Location
 side	O
 lost	O
-February	B-Misc
+February	B-Date
 's	O
 final	O
 .	O
@@ -220,12 +220,12 @@ led	O
 Banyana	B-Organization
 Banyana	I-Organization
 into	O
-Saturday	B-Misc
+Saturday	B-Date
 's	O
 final	O
 of	O
 the	O
-2022	B-Misc
+2022	B-Date
 TotalEnergies	B-Misc	B-Organization
 Women	I-Misc
 's	I-Misc

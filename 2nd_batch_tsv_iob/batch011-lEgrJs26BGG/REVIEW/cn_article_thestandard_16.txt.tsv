@@ -55,7 +55,7 @@ Hong	B-Misc	B-Location
 Kong	I-Misc	I-Location
 Film	I-Misc
 Awards	I-Misc
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 beating	O
 out	O
@@ -79,7 +79,7 @@ Film	I-Misc
 Awards	I-Misc
 took	O
 place	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 after	O
 it	O
@@ -87,7 +87,7 @@ was	O
 postponed	O
 thrice	O
 from	O
-April	B-Misc
+April	B-Date
 following	O
 the	O
 city	O
@@ -114,7 +114,7 @@ in	O
 -	O
 person	O
 since	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 “	O
@@ -177,8 +177,8 @@ died	O
 of	O
 cancer	O
 in	O
-August	B-Misc
-2020	I-Misc
+August	B-Date
+2020	I-Date
 while	O
 the	O
 movie	O
@@ -198,7 +198,7 @@ Best	B-Misc
 Director	I-Misc
 Award	I-Misc
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 .	O
 “	O
 Raging	B-Misc
@@ -255,7 +255,7 @@ Hong	B-Location
 Kong	I-Location
 film	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 bagged	O
 a	O
@@ -468,7 +468,7 @@ Another	O
 big	O
 winner	O
 at	O
-Sunday	B-Misc
+Sunday	B-Date
 ’	O
 s	O
 awards	O

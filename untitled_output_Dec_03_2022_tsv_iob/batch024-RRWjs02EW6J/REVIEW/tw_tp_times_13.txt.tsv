@@ -28,7 +28,7 @@ Food	I-Organization
 Agency	I-Organization
 said	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 Representative	O
@@ -235,7 +235,7 @@ mangoes	O
 to	O
 Japan	B-Location
 in	O
-2016	B-Misc
+2016	B-Date
 and	O
 869	O
 tonnes	O

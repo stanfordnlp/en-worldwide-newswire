@@ -5,7 +5,7 @@ Madras	B-Location
 high	O
 court	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 refused	O
 to	O
 set	O
@@ -94,7 +94,7 @@ inspected	O
 his	O
 cell	O
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 A	O
 case	O
@@ -200,8 +200,8 @@ Sriperumbudur	B-Location
 near	O
 here	O
 in	O
-May	B-Misc
-1991	I-Misc
+May	B-Date
+1991	I-Date
 .	O
 The	O
 others	O

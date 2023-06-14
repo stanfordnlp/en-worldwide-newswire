@@ -130,7 +130,7 @@ that	O
 last	O
 erupted	O
 in	O
-2010	B-Misc
+2010	B-Date
 .	O
 
 A	O
@@ -345,7 +345,7 @@ Perez	I-Person
 .	O
 
 In	O
-1956	B-Misc
+1956	B-Date
 ,	O
 after	O
 leaving	O

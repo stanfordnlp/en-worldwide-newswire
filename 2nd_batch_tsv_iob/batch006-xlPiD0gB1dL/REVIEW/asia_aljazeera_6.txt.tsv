@@ -88,7 +88,7 @@ in	O
 the	O
 area	O
 in	O
-1957	B-Misc
+1957	B-Date
 .	O
 He	O
 and	O
@@ -128,7 +128,7 @@ once	O
 again	O
 evicted	O
 in	O
-2005	B-Misc
+2005	B-Date
 when	O
 their	O
 land	O
@@ -519,9 +519,9 @@ which	O
 operated	O
 it	O
 from	O
-2005	B-Misc
+2005	B-Date
 until	O
-2014	B-Misc
+2014	B-Date
 ,	O
 when	O
 India	B-Location
@@ -550,7 +550,7 @@ them	O
 illegal	O
 .	O
 In	O
-2015	B-Misc
+2015	B-Date
 the	O
 government	O
 gave	O
@@ -572,14 +572,14 @@ to	O
 stop	O
 mining	O
 in	O
-2018	B-Misc
+2018	B-Date
 when	O
 its	O
 approval	O
 expired	O
 .	O
 In	O
-2019	B-Misc
+2019	B-Date
 the	O
 Adani	B-Organization
 Group	I-Organization
@@ -762,7 +762,7 @@ on	O
 court	O
 orders	O
 in	O
-2014	B-Misc
+2014	B-Date
 ,	O
 Das	B-Person
 switched	O
@@ -975,7 +975,7 @@ and	I-Location
 III	I-Location
 
 In	O
-2016	B-Misc
+2016	B-Date
 the	O
 mining	O
 lease	O
@@ -1026,7 +1026,7 @@ Odisha	B-Location
 .	O
 
 In	O
-2018	B-Misc
+2018	B-Date
 ,	O
 Talabira	B-Organization	B-Location
 (	I-Organization	I-Location
@@ -1228,7 +1228,7 @@ that	O
 was	O
 given	O
 in	O
-2012	B-Misc
+2012	B-Date
 ,	O
 said	O
 Dilip	B-Person

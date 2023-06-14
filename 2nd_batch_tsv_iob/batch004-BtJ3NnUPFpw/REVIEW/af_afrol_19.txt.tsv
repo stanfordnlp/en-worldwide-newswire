@@ -3,8 +3,8 @@ http://www.afrol.com/articles/38256	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-23	B-Misc
-April	I-Misc
+23	B-Date
+April	I-Date
 -	O
 One	O
 month	O
@@ -61,8 +61,8 @@ Central	B-Location	B-NORP
 African	I-Location	I-NORP
 Republic	I-Location
 on	O
-25	B-Misc
-March	I-Misc
+25	B-Date
+March	I-Date
 this	O
 year	O
 ,	O
@@ -88,7 +88,7 @@ elections	O
 no	O
 later	O
 than	O
-2014	B-Misc
+2014	B-Date
 .	O
 
 But	O
@@ -503,8 +503,8 @@ the	O
 Séléka	B-Organization
 militia	O
 on	O
-24	B-Misc
-March	I-Misc
+24	B-Date
+March	I-Date
 ,	O
 documented	O
 that	O
@@ -788,7 +788,7 @@ after	O
 peace	O
 talks	O
 in	O
-January	B-Misc
+January	B-Date
 this	O
 year	O
 and	O

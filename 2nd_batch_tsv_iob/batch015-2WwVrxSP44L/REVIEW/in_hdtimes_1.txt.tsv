@@ -69,7 +69,7 @@ died	O
 by	O
 suicide	O
 in	O
-Tiruvallur	B-Location	
+Tiruvallur	B-Location
 district	O
 in	O
 her	O
@@ -90,7 +90,7 @@ class	O
 girl	O
 in	O
 Tamil	B-Location
-Nadu	I-Location	
+Nadu	I-Location
 ’	O
 s	O
 Cuddalore	B-Location
@@ -117,7 +117,7 @@ a	O
 police	O
 official	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 The	O
@@ -505,8 +505,8 @@ district	O
 .	O
 
 On	O
-July	B-Misc
-13	I-Misc
+July	B-Date
+13	I-Date
 ,	O
 a	O
 17	O
@@ -559,8 +559,8 @@ reportedly	O
 turned	O
 violent	O
 on	O
-July	B-Misc
-17	I-Misc
+July	B-Date
+17	I-Date
 when	O
 the	O
 school	O

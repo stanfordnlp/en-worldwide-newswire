@@ -204,10 +204,10 @@ suspects	O
 were	O
 arrested	O
 on	O
-Thursday	B-Misc
-21	I-Misc
-July	I-Misc
-2022	I-Misc
+Thursday	B-Date
+21	I-Date
+July	I-Date
+2022	I-Date
 ,	O
 while	O
 the	O
@@ -223,11 +223,11 @@ minor	O
 was	O
 arrested	O
 on	O
-Friday	B-Misc
-,	I-Misc
-22	I-Misc
-July	I-Misc
-2022	I-Misc
+Friday	B-Date
+,	I-Date
+22	I-Date
+July	I-Date
+2022	I-Date
 ,	O
 at	O
 their	O
@@ -452,10 +452,10 @@ London	I-Organization	I-Location
 Magistrate	I-Organization
 Court	I-Organization
 on	O
-Monday	B-Misc
-the	I-Misc
-25	I-Misc
-July	I-Misc
-2022	I-Misc
+Monday	B-Date
+the	I-Date
+25	I-Date
+July	I-Date
+2022	I-Date
 .	O
 

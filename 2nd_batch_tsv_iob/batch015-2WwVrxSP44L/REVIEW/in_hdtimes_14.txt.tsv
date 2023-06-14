@@ -25,7 +25,7 @@ Piyush	B-Person
 Goyal	I-Person
 said	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 after	O
 a	O
 record	O
@@ -218,7 +218,7 @@ The	O
 parliamentarians	O
 suspended	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 include	O
 seven	O
 from	O
@@ -409,7 +409,7 @@ chair	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 Lok	B-Organization
 Sabha	I-Organization
@@ -491,7 +491,7 @@ Chair	O
 ”	O
 .	O
 On	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 the	O
 four	O

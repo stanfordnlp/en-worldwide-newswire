@@ -2,9 +2,9 @@ https://www.egypttoday.com/Article/3/117870/Egypt-denies-its-intention-to-cancel
 
 CAIRO	B-Location
 -	O
-25	B-Misc
-July	I-Misc
-2022	I-Misc
+25	B-Date
+July	I-Date
+2022	I-Date
 :	O
 The	O
 Egyptian	B-Organization	B-NORP
@@ -120,7 +120,7 @@ the	O
 new	O
 fiscal	O
 year	O
-2022-2023	B-Misc
+2022-2023	B-Date
 to	O
 more	O
 than	O

@@ -43,10 +43,10 @@ was	O
 made	O
 public	O
 on	O
-July	B-Misc
-19	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+19	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 provides	O
 new	O
@@ -454,7 +454,7 @@ Rocafuerte	B-Organization
 .	O
 
 In	O
-2013	B-Misc
+2013	B-Date
 ,	O
 Royalty	B-Organization
 representatives	O
@@ -655,11 +655,11 @@ Royalty	B-Organization
 RE	I-Organization
 ,	O
 between	O
-July	B-Misc
-2014	I-Misc
+July	B-Date
+2014	I-Date
 and	O
-August	B-Misc
-2015	I-Misc
+August	B-Date
+2015	I-Date
 .	O
 Part	O
 of	O
@@ -756,9 +756,9 @@ Capital	I-Organization
 network	O
 .	O
 Between	O
-2015	B-Misc
+2015	B-Date
 and	O
-2016	B-Misc
+2016	B-Date
 ,	O
 Fernando	B-Person
 Martínez	I-Person
@@ -808,7 +808,7 @@ At	O
 the	O
 end	O
 of	O
-2015	B-Misc
+2015	B-Date
 ,	O
 and	O
 to	O
@@ -841,11 +841,11 @@ services	O
 .	O
 
 Between	O
-October	B-Misc
-2015	I-Misc
+October	B-Date
+2015	I-Date
 and	O
-January	B-Misc
-2016	I-Misc
+January	B-Date
+2016	I-Date
 ,	O
 the	O
 intermediary	O
@@ -999,8 +999,8 @@ For	O
 example	O
 ,	O
 in	O
-March	B-Misc
-2016	I-Misc
+March	B-Date
+2016	I-Date
 ,	O
 Martínez	B-Person
 Gómez	I-Person
@@ -1176,9 +1176,9 @@ USD	B-Money
 million	I-Money
 bail	O
 on	O
-July	B-Misc
-19	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+19	I-Date
+,	I-Date
+2022	I-Date
 .	O
 

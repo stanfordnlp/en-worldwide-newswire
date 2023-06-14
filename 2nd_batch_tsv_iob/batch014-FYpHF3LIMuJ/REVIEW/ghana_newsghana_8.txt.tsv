@@ -9,7 +9,7 @@ Afro	B-Misc
 Nation	I-Misc
 Portugal	I-Misc	B-Location
 this	O
-July	B-Misc
+July	B-Date
 ,	O
 the	O
 world	O
@@ -24,7 +24,7 @@ follow	O
 -	O
 up	O
 to	O
-2019	B-Misc
+2019	B-Date
 ’	O
 s	O
 African	B-NORP
@@ -108,7 +108,7 @@ the	O
 Portugal	B-Location
 debut	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 the	O
 festival	O
@@ -283,7 +283,7 @@ at	O
 the	O
 start	O
 of	O
-July	B-Misc
+July	B-Date
 ,	O
 a	O
 moment	O
@@ -587,7 +587,7 @@ Nation	I-Misc	I-Misc
 festival	I-Misc
 ,	O
 in	O
-2020	B-Misc
+2020	B-Date
 we	O
 launched	O
 the	O
@@ -730,7 +730,7 @@ the	O
 stage	O
 .	O
 By	O
-2025	B-Misc
+2025	B-Date
 ,	O
 this	O
 world	O
@@ -824,11 +824,11 @@ Nation	I-Misc
 Ghana	I-Misc	B-Location
 takes	O
 place	O
-29th	B-Misc
-&	I-Misc
-30th	I-Misc
-December	I-Misc
-2022	I-Misc
+29th	B-Date
+&	I-Date
+30th	I-Date
+December	I-Date
+2022	I-Date
 at	O
 Marine	B-Facility
 Drive	I-Facility

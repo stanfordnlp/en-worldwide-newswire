@@ -1355,11 +1355,11 @@ ratio	O
 fluctuated	O
 annually	O
 since	O
-1995	B-Misc
+1995	B-Date
 .	O
 As	O
 from	O
-2021	B-Misc
+2021	B-Date
 ,	O
 the	O
 monthly	O
@@ -1379,7 +1379,7 @@ relative	O
 stable	O
 prior	O
 to	O
-2006	B-Misc
+2006	B-Date
 but	O
 entered	O
 some	O
@@ -1387,7 +1387,7 @@ volatility	O
 thereafter	O
 .	O
 Since	O
-2020	B-Misc
+2020	B-Date
 ,	O
 the	O
 price	O
@@ -1410,8 +1410,8 @@ trends	O
 .	O
 
 In	O
-January	B-Misc
-2021	I-Misc
+January	B-Date
+2021	I-Date
 ,	O
 this	O
 ratio	O
@@ -1540,7 +1540,7 @@ their	O
 comparative	O
 advantage	O
 since	O
-2012	B-Misc
+2012	B-Date
 to	O
 Australia	B-Location
 ,	O
@@ -1815,7 +1815,7 @@ Harambee	B-Misc
 initiative	O
 and	O
 Vision	B-Misc
-2030	I-Misc	B-Misc
+2030	I-Misc	B-Date
 ,	O
 and	O
 to	O

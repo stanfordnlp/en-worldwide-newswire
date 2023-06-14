@@ -3,8 +3,8 @@ http://www.afrol.com/articles/38446	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-25	B-Misc
-March	I-Misc
+25	B-Date
+March	I-Date
 -	O
 It	O
 is	O
@@ -800,7 +800,7 @@ president	O
 Yoweri	B-Person
 Museveni	I-Person
 in	O
-February	B-Misc
+February	B-Date
 ,	O
 after	O
 months	O
@@ -850,7 +850,7 @@ the	O
 original	O
 proposal	O
 from	O
-2009	B-Misc
+2009	B-Date
 ,	O
 that	O
 would	O

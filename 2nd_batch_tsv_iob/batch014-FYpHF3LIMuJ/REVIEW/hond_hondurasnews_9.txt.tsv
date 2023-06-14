@@ -26,7 +26,7 @@ federation	O
 pleaded	O
 guilty	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 in	O
 the	O
 United	B-Location
@@ -178,7 +178,7 @@ States	I-Facility	I-Location
 District	I-Facility
 Court	I-Facility
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 “	O
 I	O
@@ -231,7 +231,7 @@ of	I-Location
 Honduras	I-Location
 in	O
 the	O
-1990	B-Misc
+1990	B-Date
 s	O
 .	O
 At	O
@@ -302,7 +302,7 @@ said	O
 in	O
 court	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 that	O
 he	O
 had	O
@@ -381,21 +381,21 @@ soccer	O
 matches	O
 for	O
 the	O
-2014	B-Misc
+2014	B-Date
 ,	O
-2018	B-Misc
+2018	B-Date
 and	O
-2022	B-Misc
+2022	B-Date
 World	B-Misc
 Cup	I-Misc
 tournaments	O
 .	O
 From	O
-March	B-Misc
-2011	I-Misc
+March	B-Date
+2011	I-Date
 to	O
-January	B-Misc
-2013	I-Misc
+January	B-Date
+2013	I-Date
 ,	O
 at	O
 least	O
@@ -475,9 +475,9 @@ to	O
 be	O
 sentenced	O
 on	O
-Aug	B-Misc
-.	I-Misc
-5	I-Misc
+Aug	B-Date
+.	I-Date
+5	I-Date
 and	O
 ,	O
 until	O
@@ -503,7 +503,7 @@ $	B-Money
 million	I-Money
 bond	O
 in	O
-December	B-Misc
+December	B-Date
 .	O
 
 The	O
@@ -515,7 +515,7 @@ case	O
 was	O
 announced	O
 in	O
-May	B-Misc
+May	B-Date
 ,	O
 and	O
 a	O
@@ -526,7 +526,7 @@ charges	O
 was	O
 unsealed	O
 in	O
-December	B-Misc
+December	B-Date
 .	O
 Of	O
 the	O
@@ -630,7 +630,7 @@ Accepting	O
 the	O
 plea	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 Judge	O
 Levy	B-Person

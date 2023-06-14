@@ -19,14 +19,14 @@ for	O
 electricity	O
 cuts	O
 from	O
-August	B-Misc
-1	I-Misc
+August	B-Date
+1	I-Date
 ,	O
 the	O
 municipality	O
 confirmed	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Residents	O
@@ -58,7 +58,7 @@ hardships	O
 caused	O
 by	O
 the	O
-April	B-Misc
+April	B-Date
 floods	O
 in	O
 and	O
@@ -609,7 +609,7 @@ on	O
 
 “	O
 In	O
-February	B-Misc
+February	B-Date
 ,	O
 Treasury	B-Organization
 committed	O
@@ -623,7 +623,7 @@ Budget	O
 to	O
 Eskom	B-Organization
 for	O
-2022/23	B-Misc
+2022/23	B-Date
 :	O
 yet	O
 now	O

@@ -11,7 +11,7 @@ to	O
 qualify	O
 for	O
 the	O
-2018	B-Misc
+2018	B-Date
 World	B-Misc
 Cup	I-Misc
 in	O
@@ -23,21 +23,21 @@ against	O
 Costa	B-Location
 Rica	I-Location
 on	O
-Tuesday	B-Misc
-March	I-Misc
-28	I-Misc
-,	I-Misc
-2017	I-Misc
+Tuesday	B-Date
+March	I-Date
+28	I-Date
+,	I-Date
+2017	I-Date
 at	O
 3:00 PM	O
 and	O
 then	O
 again	O
 on	O
-October	B-Misc
-6	I-Misc
-,	I-Misc
-2017	I-Misc
+October	B-Date
+6	I-Date
+,	I-Date
+2017	I-Date
 .	O
 
 Honduras	B-Location
@@ -293,7 +293,7 @@ the	O
 United	B-Location
 States	I-Location
 last	O
-Friday	B-Misc
+Friday	B-Date
 to	O
 draw	O
 1-1	O
@@ -369,10 +369,10 @@ Qualifier	O
 Honduras	B-Location
 vs	O
 Mexico	B-Location
-June	B-Misc
-8	I-Misc
-,	I-Misc
-2017	I-Misc
+June	B-Date
+8	I-Date
+,	I-Date
+2017	I-Date
 
 Honduras	B-Location
 Roster	O

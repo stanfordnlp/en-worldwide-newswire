@@ -90,7 +90,7 @@ expires	O
 at	O
 midnight	O
 next	O
-Sunday	B-Misc
+Sunday	B-Date
 when	O
 its	O
 30	O
@@ -108,7 +108,7 @@ force	O
 again	O
 as	O
 of	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Deputy	O
@@ -302,8 +302,8 @@ regime	O
 which	O
 began	O
 on	O
-June	B-Misc
-25	I-Misc
+June	B-Date
+25	I-Date
 ,	O
 the	O
 Security	B-Organization
@@ -342,8 +342,8 @@ shrink	O
 
 Until	O
 last	O
-July	B-Misc
-18	I-Misc
+July	B-Date
+18	I-Date
 ,	O
 the	O
 authorities	O
@@ -372,6 +372,6 @@ to	O
 the	O
 month	O
 of	O
-July	B-Misc
+July	B-Date
 .	O
 

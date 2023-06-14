@@ -1,9 +1,9 @@
 https://time.com/5413887/bolivia-chile-pacific/	O
 
 On	O
-Oct	B-Misc
-.	I-Misc
-1	I-Misc
+Oct	B-Date
+.	I-Date
+1	I-Date
 ,	O
 the	O
 U	B-Organization
@@ -102,7 +102,7 @@ The	O
 dispute	O
 began	O
 in	O
-1879	B-Misc
+1879	B-Date
 ,	O
 when	O
 Chile	B-Location
@@ -163,7 +163,7 @@ accepted	O
 this	O
 loss	O
 in	O
-1904	B-Misc
+1904	B-Date
 ,	O
 when	O
 it	O
@@ -210,8 +210,8 @@ coast	I-Location
 Every	O
 year	O
 on	O
-March	B-Misc
-23	I-Misc
+March	B-Date
+23	I-Date
 ,	O
 Bolivians	B-NORP
 celebrate	O
@@ -239,7 +239,7 @@ by	O
 Chile	B-Location
 in	O
 the	O
-1879-1884	B-Misc
+1879-1884	B-Date
 border	O
 conflict	O
 ,	O
@@ -264,7 +264,7 @@ established	O
 its	O
 navy	O
 in	O
-1963	B-Misc
+1963	B-Date
 as	O
 a	O
 “	O
@@ -286,7 +286,7 @@ and	O
 China	B-Location
 .	O
 In	O
-1981	B-Misc
+1981	B-Date
 they	O
 renamed	O
 it	O
@@ -350,10 +350,10 @@ full	O
 diplomatic	O
 relations	O
 since	O
-1978	B-Misc
+1978	B-Date
 .	O
 In	O
-2013	B-Misc
+2013	B-Date
 ,	O
 Bolivia	B-Location
 ’	O
@@ -495,7 +495,7 @@ it	O
 stuck	O
 to	O
 its	O
-1904	B-Misc
+1904	B-Date
 promise	O
 —	O
 Bolivia	B-Location
@@ -551,9 +551,9 @@ Sebastian	B-Person
 Piñera	I-Person
 celebrated	O
 the	O
-Oct	B-Misc
-.	I-Misc
-1	I-Misc
+Oct	B-Date
+.	I-Date
+1	I-Date
 ruling	O
 among	O
 a	O

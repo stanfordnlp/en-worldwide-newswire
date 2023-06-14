@@ -36,11 +36,11 @@ surviving	O
 a	O
 bout	O
 of	O
-COVID	B-Misc
--	I-Misc
-19	I-Misc
+COVID	B-Date
+-	I-Date
+19	I-Date
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 
 “	O
@@ -161,7 +161,7 @@ arrived	O
 in	O
 Argentina	B-Location
 in	O
-1945	B-Misc
+1945	B-Date
 .	O
 She	O
 traveled	O
@@ -181,12 +181,12 @@ where	O
 she	O
 lived	O
 until	O
-2001	B-Misc
+2001	B-Date
 .	O
 Between	O
-2001	B-Misc
+2001	B-Date
 and	O
-2013	B-Misc
+2013	B-Date
 she	O
 lived	O
 in	O
@@ -214,7 +214,7 @@ that	O
 city	O
 .	O
 In	O
-2020	B-Misc
+2020	B-Date
 ,	O
 by	O
 Christmas	O
@@ -305,7 +305,7 @@ grandchildren	O
 
 Since	O
 last	O
-January	B-Misc
+January	B-Date
 when	O
 the	O
 Brazilian	B-NORP

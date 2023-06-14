@@ -139,7 +139,7 @@ an	O
 abortion	O
 in	O
 late	O
-June	B-Misc
+June	B-Date
 .	O
 
 Plenty	O
@@ -717,7 +717,7 @@ expats	O
 to	O
 live	O
 in	O
-2022	B-Misc
+2022	B-Date
 :	O
 
 The	O

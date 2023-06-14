@@ -87,7 +87,7 @@ in	O
 a	O
 statement	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 .	O
 
 Marcos	B-Person
@@ -279,7 +279,7 @@ policy	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 Chinese	B-NORP
 foreign	O
@@ -358,7 +358,7 @@ embassy	O
 in	O
 Manila	B-Location
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 said	O
 Beijing	B-Location
 was	O
@@ -504,7 +504,7 @@ projects	O
 
 However	O
 in	O
-Saturday	B-Misc
+Saturday	B-Date
 ’	O
 s	O
 statement	O
@@ -782,7 +782,7 @@ for	O
 the	O
 Philippines	B-Location
 in	O
-2017	B-Misc
+2017	B-Date
 with	O
 a	O
 cost	O

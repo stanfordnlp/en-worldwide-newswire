@@ -363,10 +363,10 @@ branch	O
 in	O
 Cambodia	B-Location
 on	O
-April	B-Misc
-9	I-Misc
-,	I-Misc
-2021	I-Misc
+April	B-Date
+9	I-Date
+,	I-Date
+2021	I-Date
 .	O
 Through	O
 the	O
@@ -544,9 +544,9 @@ a	O
 lot	O
 .	O
 In	O
-September	B-Misc
-of	I-Misc
-2018	I-Misc
+September	B-Date
+of	I-Date
+2018	I-Date
 he	O
 became	O
 the	O

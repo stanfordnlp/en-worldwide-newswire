@@ -200,7 +200,7 @@ ago	O
 The	O
 crackdown	O
 of	O
-2017	B-Misc
+2017	B-Date
 also	O
 placed	O
 half	O
@@ -661,7 +661,7 @@ Life	I-Organization
 ,	O
 founded	O
 in	O
-2006	B-Misc
+2006	B-Date
 ,	O
 is	O
 the	O
@@ -691,7 +691,7 @@ of	O
 insurance	O
 premium	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 ranking	O
 it	O
@@ -796,16 +796,16 @@ by	O
 the	O
 regulator	O
 in	O
-May	B-Misc
-2019	I-Misc
+May	B-Date
+2019	I-Date
 .	O
 Established	O
 in	O
-1987	B-Misc
+1987	B-Date
 and	O
 renamed	O
 in	O
-2003	B-Misc
+2003	B-Date
 ,	O
 New	B-Organization
 Times	I-Organization
@@ -856,7 +856,7 @@ It	O
 was	O
 established	O
 in	O
-1979	B-Misc
+1979	B-Date
 ,	O
 offering	O
 property	O
@@ -982,7 +982,7 @@ at	O
 the	O
 end	O
 of	O
-May	B-Misc
+May	B-Date
 .	O
 Guosheng	B-Organization
 Securities	I-Organization
@@ -1089,7 +1089,7 @@ time	O
 
 Earlier	O
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 the	O
 CBIRC	B-Organization

@@ -65,7 +65,7 @@ signed	O
 in	O
 Rome	B-Location
 in	O
-1992	B-Misc
+1992	B-Date
 .	O
 The	O
 negotiations	O
@@ -100,7 +100,7 @@ multi	O
 party	O
 elections	O
 in	O
-1994	B-Misc
+1994	B-Date
 ,	O
 but	O
 was	O

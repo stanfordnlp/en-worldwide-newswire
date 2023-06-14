@@ -48,13 +48,13 @@ reported	O
 were	O
 mostly	O
 on	O
-Mondays	B-Misc
+Mondays	B-Date
 ,	O
-Tuesdays	B-Misc
+Tuesdays	B-Date
 ,	O
-Thursdays	B-Misc
+Thursdays	B-Date
 and	O
-Fridays	B-Misc
+Fridays	B-Date
 between	O
 the	O
 hours	O

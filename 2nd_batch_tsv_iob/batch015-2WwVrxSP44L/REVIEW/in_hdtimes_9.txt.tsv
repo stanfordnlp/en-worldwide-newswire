@@ -5,7 +5,7 @@ Karnataka	B-Organization	B-Location
 High	I-Organization
 Court	I-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 allowed	O
 social	O
 media	O
@@ -36,7 +36,7 @@ Karnataka	B-Organization	B-Location
 High	I-Organization
 Court	I-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 allowed	O
 social	O
 media	O
@@ -182,15 +182,15 @@ are	O
 variously	O
 dated	O
 between	O
-February	B-Misc
-2	I-Misc
-,	I-Misc
-2021	I-Misc
+February	B-Date
+2	I-Date
+,	I-Date
+2021	I-Date
 and	O
-February	B-Misc
-28	I-Misc
-,	I-Misc
-2022	I-Misc
+February	B-Date
+28	I-Date
+,	I-Date
+2022	I-Date
 .	O
 They	O
 include	O
@@ -207,7 +207,7 @@ hashtags	O
 .	O
 
 On	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 the	O
 single	O
@@ -297,7 +297,7 @@ case	O
 was	O
 adjourned	O
 to	O
-August	B-Misc
-12	I-Misc
+August	B-Date
+12	I-Date
 .	O
 

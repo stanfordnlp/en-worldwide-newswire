@@ -212,7 +212,7 @@ Libo	B-Person
 Cai	I-Person
 said	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 “	O
@@ -465,10 +465,10 @@ with	O
 Africa	B-Location
 between	O
 the	O
-1950	B-Misc
+1950	B-Date
 s	O
 and	O
-1970	B-Misc
+1970	B-Date
 s	O
 ,	O
 it	O
@@ -505,7 +505,7 @@ Nations	I-Organization
 Security	I-Organization
 Council	I-Organization
 in	O
-1971	B-Misc
+1971	B-Date
 ,	O
 which	O
 had	O
@@ -522,7 +522,7 @@ fled	O
 to	O
 Taiwan	B-Location
 in	O
-1949	B-Misc
+1949	B-Date
 .	O
 
 Other	O
@@ -553,7 +553,7 @@ Zambian	B-NORP
 authorities	O
 in	O
 late	O
-May	B-Misc
+May	B-Date
 .	O
 
 The	O
@@ -703,9 +703,9 @@ least	O
 African	B-NORP
 countries	O
 between	O
-2000	B-Misc
+2000	B-Date
 and	O
-2018	B-Misc
+2018	B-Date
 .	O
 
 Nantulya	B-Person
@@ -721,7 +721,7 @@ game	O
 ,	O
 saying	O
 in	O
-February	B-Misc
+February	B-Date
 :	O
 “	O
 Its	O
@@ -914,7 +914,7 @@ one	O
 major	O
 controversy	O
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 Beijing	B-Location
 was	O

@@ -1,10 +1,10 @@
 https://diariodecuba.com/derechos-humanos/1657558218_40838.html	O
 
 On	O
-February	B-Misc
-11	I-Misc
-,	I-Misc
-2022	I-Misc
+February	B-Date
+11	I-Date
+,	I-Date
+2022	I-Date
 César	B-Person
 Adriám	I-Person
 Delgado	I-Person
@@ -41,10 +41,10 @@ year	O
 for	O
 protesting	O
 on	O
-July	B-Misc
-11	I-Misc
-,	I-Misc
-2021	I-Misc
+July	B-Date
+11	I-Date
+,	I-Date
+2021	I-Date
 .	O
 From	O
 there	O
@@ -210,8 +210,8 @@ necessary	O
 arrangements	O
 .	O
 On	O
-February	B-Misc
-11	I-Misc
+February	B-Date
+11	I-Date
 ,	O
 she	O
 rented	O
@@ -543,7 +543,7 @@ was	O
 .	O
 
 In	O
-2018	B-Misc
+2018	B-Date
 I	O
 went	O
 to	O
@@ -669,10 +669,10 @@ streets	O
 of	O
 Colón	B-Location
 on	O
-July	B-Misc
-11	I-Misc
-,	I-Misc
-2021	I-Misc
+July	B-Date
+11	I-Date
+,	I-Date
+2021	I-Date
 ,	O
 he	O
 had	O
@@ -736,7 +736,7 @@ no	O
 other	O
 than	O
 the	O
-11th	B-Misc
+11th	B-Date
 .	O
 
 "	O
@@ -904,7 +904,7 @@ more	O
 apropos	O
 than	O
 the	O
-11th	B-Misc
+11th	B-Date
 .	O
 And	O
 she	O
@@ -927,8 +927,8 @@ to	O
 do	O
 it	O
 on	O
-July	B-Misc
-11	I-Misc
+July	B-Date
+11	I-Date
 ,	O
 but	O
 ,	O
@@ -982,8 +982,8 @@ like	O
 it	O
 was	O
 on	O
-November	B-Misc
-15	I-Misc
+November	B-Date
+15	I-Date
 with	O
 the	O
 protest	O
@@ -1183,10 +1183,10 @@ received	O
 .	O
 
 On	O
-July	B-Misc
-11	I-Misc
-,	I-Misc
-2021	I-Misc
+July	B-Date
+11	I-Date
+,	I-Date
+2021	I-Date
 ,	O
 César	B-Person
 left	O
@@ -1484,10 +1484,10 @@ the	O
 incident	O
 .	O
 On	O
-July	B-Misc
-15	I-Misc
-,	I-Misc
-2021	I-Misc
+July	B-Date
+15	I-Date
+,	I-Date
+2021	I-Date
 ,	O
 Cesar	B-Person
 was	O
@@ -1538,8 +1538,8 @@ in	O
 Colón	B-Location
 )	O
 on	O
-July	B-Misc
-15	I-Misc
+July	B-Date
+15	I-Date
 at	O
 the	O
 hands	O
@@ -1673,8 +1673,8 @@ Cuban	B-NORP
 political	O
 prisoners	O
 in	O
-May	B-Misc
-2022	I-Misc
+May	B-Date
+2022	I-Date
 contained	O
 only	O
 one	O
@@ -1705,8 +1705,8 @@ a	O
 result	O
 of	O
 the	O
-July	B-Misc
-11	I-Misc
+July	B-Date
+11	I-Date
 protests	O
 .	O
 
@@ -3022,8 +3022,8 @@ not	O
 slept	O
 well	O
 since	O
-July	B-Misc
-15	I-Misc
+July	B-Date
+15	I-Date
 .	O
 The	O
 appeal	O

@@ -6,8 +6,8 @@ began	O
 in	O
 Cuba	B-Location
 on	O
-July	B-Misc
-2	I-Misc
+July	B-Date
+2	I-Date
 .	O
 This	O
 is	O
@@ -728,8 +728,8 @@ said	O
 .	O
 
 On	O
-July	B-Misc
-3	I-Misc
+July	B-Date
+3	I-Date
 ,	O
 Miguel	B-Person
 Díaz	I-Person

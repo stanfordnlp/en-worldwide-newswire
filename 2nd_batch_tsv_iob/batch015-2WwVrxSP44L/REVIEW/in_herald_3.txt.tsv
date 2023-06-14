@@ -3,7 +3,7 @@ https://www.deccanherald.com/state/karnataka-politics/jds-to-conduct-survey-to-f
 Ahead	O
 of	O
 the	O
-2023	B-Misc
+2023	B-Date
 assembly	O
 elections	O
 in	O
@@ -22,7 +22,7 @@ conduct	O
 a	O
 survey	O
 in	O
-August	B-Misc
+August	B-Date
 to	O
 understand	O
 voter	O
@@ -36,7 +36,7 @@ sources	O
 ,	O
 mid	O
 -	O
-August	B-Misc
+August	B-Date
 is	O
 the	O
 right	O
@@ -54,8 +54,8 @@ commence	O
 its	O
 survey	O
 after	O
-August	B-Misc
-15	I-Misc
+August	B-Date
+15	I-Date
 .	O
 
 According	O
@@ -151,8 +151,8 @@ conducting	O
 a	O
 survey	O
 after	O
-August	B-Misc
-15	I-Misc
+August	B-Date
+15	I-Date
 ,	O
 "	O
 he	O
@@ -343,8 +343,8 @@ for	O
 three	O
 months	O
 starting	O
-August	B-Misc
-15	I-Misc
+August	B-Date
+15	I-Date
 .	O
 The	O
 proposed	O

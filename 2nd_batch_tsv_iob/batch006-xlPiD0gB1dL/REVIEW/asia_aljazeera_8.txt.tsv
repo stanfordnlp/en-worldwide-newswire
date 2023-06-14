@@ -119,7 +119,7 @@ of	O
 the	O
 country	O
 last	O
-August	B-Misc
+August	B-Date
 .	O
 
 Footage	O
@@ -286,7 +286,7 @@ earthquakes	O
 .	O
 
 In	O
-2015	B-Misc
+2015	B-Date
 ,	O
 a	O
 large	O
@@ -311,7 +311,7 @@ northern	B-Location
 Pakistan	I-Location
 .	O
 In	O
-1998	B-Misc
+1998	B-Date
 ,	O
 a	O
 magnitude	O

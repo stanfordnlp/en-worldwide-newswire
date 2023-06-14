@@ -271,7 +271,7 @@ after	O
 his	O
 graduation	O
 in	O
-1970	B-Misc
+1970	B-Date
 at	O
 the	O
 Padua	B-Organization
@@ -500,7 +500,7 @@ a	O
 plane	O
 crash	O
 in	O
-2000	B-Misc
+2000	B-Date
 ,	O
 all	O
 in	O

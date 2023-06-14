@@ -71,7 +71,7 @@ a	O
 spring	O
 morning	O
 in	O
-2020	B-Misc
+2020	B-Date
 ,	O
 he	O
 was	O
@@ -498,7 +498,7 @@ program	O
 which	O
 dates	O
 to	O
-1936	B-Misc
+1936	B-Date
 and	O
 graduates	O
 about	O
@@ -642,7 +642,7 @@ cities	O
 .	O
 
 In	O
-May	B-Misc
+May	B-Date
 ,	O
 President	O
 Andrés	B-Person

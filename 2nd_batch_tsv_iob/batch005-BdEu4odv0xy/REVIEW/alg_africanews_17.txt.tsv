@@ -5,7 +5,7 @@ prosecutor	O
 's	O
 office	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 demanded	O
 20	O
 years	O
@@ -159,7 +159,7 @@ arrest	O
 warrant	O
 issued	O
 in	O
-2019	B-Misc
+2019	B-Date
 against	O
 Khelil	B-Person
 ,	O
@@ -254,7 +254,7 @@ left	O
 the	O
 government	O
 in	O
-2010	B-Misc
+2010	B-Date
 after	O
 being	O
 accused	O
@@ -280,7 +280,7 @@ convicted	O
 .	O
 
 In	O
-2013	B-Misc
+2013	B-Date
 ,	O
 the	O
 Algerian	B-NORP
@@ -344,7 +344,7 @@ returned	O
 to	O
 Algeria	B-Location
 in	O
-2016	B-Misc
+2016	B-Date
 after	O
 the	O
 proceedings	O
@@ -396,7 +396,7 @@ the	O
 country	O
 .	O
 In	O
-2005	B-Misc
+2005	B-Date
 ,	O
 he	O
 also	O

@@ -2,9 +2,9 @@ https://www.egypttoday.com/Article/3/117493/ElSewedy-Electric-consortium-signs-L
 
 CAIRO	B-Location
 -	O
-7	B-Misc
-July	I-Misc
-2022	I-Misc
+7	B-Date
+July	I-Date
+2022	I-Date
 :	O
 El	B-Organization
 Sewedy	I-Organization
@@ -95,7 +95,7 @@ exchange	I-Organization
 (	O
 EGX	B-Misc
 )	O
-Thursday	B-Misc
+Thursday	B-Date
 that	O
 the	O
 total	O
@@ -154,13 +154,13 @@ during	O
 the	O
 period	O
 from	O
-January	B-Misc
+January	B-Date
 to	O
 the	O
 end	O
 of	O
-March	B-Misc
-2022	I-Misc
+March	B-Date
+2022	I-Date
 ,	O
 compared	O
 to	O
@@ -174,7 +174,7 @@ the	O
 first	O
 quarter	O
 of	O
-2021	B-Misc
+2021	B-Date
 ,	O
 taking	O
 into	O

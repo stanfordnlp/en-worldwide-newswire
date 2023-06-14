@@ -113,7 +113,7 @@ Teow	B-Person
 police	O
 said	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 The	O
 businessman	O
@@ -190,7 +190,7 @@ had	O
 been	O
 arrested	O
 in	O
-2017	B-Misc
+2017	B-Date
 on	O
 the	O
 charge	O
@@ -210,7 +210,7 @@ prosecution	O
 .	O
 
 In	O
-2018	B-Misc
+2018	B-Date
 ,	O
 Malaysian	B-NORP
 authorities	O
@@ -252,8 +252,8 @@ headlines	O
 in	O
 Malaysia	B-Location
 in	O
-October	B-Misc
-2019	I-Misc
+October	B-Date
+2019	I-Date
 when	O
 scores	O
 of	O

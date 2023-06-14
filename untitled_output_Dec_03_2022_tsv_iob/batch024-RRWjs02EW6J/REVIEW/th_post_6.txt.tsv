@@ -33,7 +33,7 @@ to	O
 be	O
 held	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 .	O
 
 Asked	O
@@ -127,7 +127,7 @@ small	O
 parties	O
 ,	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 reiterated	O
 they	O
 would	O
@@ -178,7 +178,7 @@ declared	O
 their	O
 stance	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 ,	O
 Gen	O
 Prayut	B-Person

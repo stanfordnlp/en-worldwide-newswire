@@ -115,8 +115,8 @@ for	O
 said	O
 institution	O
 on	O
-June	B-Misc
-25	I-Misc
+June	B-Date
+25	I-Date
 .	O
 The	O
 killer	O
@@ -182,8 +182,8 @@ incident	O
 also	O
 occurred	O
 on	O
-June	B-Misc
-25	I-Misc
+June	B-Date
+25	I-Date
 ,	O
 in	O
 Centro	B-Location
@@ -199,8 +199,8 @@ González	I-Person
 who	O
 perished	O
 on	O
-June	B-Misc
-27	I-Misc
+June	B-Date
+27	I-Date
 at	O
 the	O
 hands	O
@@ -330,7 +330,7 @@ To	O
 date	O
 ,	O
 in	O
-2022	B-Misc
+2022	B-Date
 alone	O
 our	O
 observatory	O
@@ -394,7 +394,7 @@ suffered	O
 similar	O
 fates	O
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 
 To	O
@@ -426,7 +426,7 @@ have	O
 been	O
 unknown	O
 since	O
-June	B-Misc
+June	B-Date
 ;	O
 and	O
 Yeniset	B-Person
@@ -480,10 +480,10 @@ has	O
 been	O
 missing	O
 since	O
-May	B-Misc
-30	I-Misc
-,	I-Misc
-2021	I-Misc
+May	B-Date
+30	I-Date
+,	I-Date
+2021	I-Date
 ,	O
 in	O
 Havana	B-Location
@@ -511,7 +511,7 @@ been	O
 a	O
 mystery	O
 since	O
-May	B-Misc
-2	I-Misc
+May	B-Date
+2	I-Date
 .	O
 

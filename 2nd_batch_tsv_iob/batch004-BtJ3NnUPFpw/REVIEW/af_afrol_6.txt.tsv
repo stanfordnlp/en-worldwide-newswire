@@ -3,8 +3,8 @@ http://www.afrol.com/articles/37699	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-6	B-Misc
-May	I-Misc
+6	B-Date
+May	I-Date
 -	O
 André	B-Person
 Mba	I-Person
@@ -56,8 +56,8 @@ parties	O
 .	O
 In	O
 the	O
-August	B-Misc
-2009	I-Misc
+August	B-Date
+2009	I-Date
 presidential	O
 election	O
 ,	O
@@ -83,7 +83,7 @@ Gabonese	B-NORP
 opposition	O
 leader	O
 in	O
-January	B-Misc
+January	B-Date
 created	O
 international	O
 headlines	O
@@ -216,7 +216,7 @@ offices	O
 in	O
 end	O
 -	O
-February	B-Misc
+February	B-Date
 ,	O
 there	O
 has	O
@@ -369,7 +369,7 @@ the	O
 votes	O
 in	O
 the	O
-2009	B-Misc
+2009	B-Date
 elections	O
 ,	O
 according	O

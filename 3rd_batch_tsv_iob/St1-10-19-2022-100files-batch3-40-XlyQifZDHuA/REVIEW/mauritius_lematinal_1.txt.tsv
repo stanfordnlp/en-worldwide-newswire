@@ -16,9 +16,9 @@ the	O
 parliamentary	O
 debates	O
 on	O
-Tuesday	B-Misc
-26th	I-Misc
-July	I-Misc
+Tuesday	B-Date
+26th	I-Date
+July	I-Date
 .	O
 Xavier	B-Person
 Luc	I-Person
@@ -84,7 +84,7 @@ since	O
 the	O
 launch	O
 in	O
-2019	B-Misc
+2019	B-Date
 in	O
 Agalega	B-Location
 .	O
@@ -232,8 +232,8 @@ MoU	O
 was	O
 signed	O
 in	O
-March	B-Misc
-2015	I-Misc
+March	B-Date
+2015	I-Date
 between	O
 India	B-Location
 and	O
@@ -409,8 +409,8 @@ to	O
 be	O
 operational	O
 by	O
-September	B-Misc
-2022	I-Misc
+September	B-Date
+2022	I-Date
 ,	O
 a	O
 hangar	O
@@ -600,7 +600,7 @@ constructed	O
 in	O
 the	O
 year	O
-1984/1985	B-Misc
+1984/1985	B-Date
 was	O
 in	O
 a	O
@@ -630,7 +630,7 @@ were	O
 carried	O
 out	O
 in	O
-1989	B-Misc
+1989	B-Date
 to	O
 resurface	O
 the	O
@@ -673,10 +673,10 @@ Government	O
 Was	O
 Approved	O
 On	O
-October	B-Misc
-31	I-Misc
-,	I-Misc
-2014	I-Misc
+October	B-Date
+31	I-Date
+,	I-Date
+2014	I-Date
 
 The	O
 PM	O
@@ -708,7 +708,7 @@ on	O
 several	O
 occasions	O
 since	O
-2005	B-Misc
+2005	B-Date
 .	O
 The	O
 Indian	B-NORP
@@ -745,8 +745,8 @@ the	O
 project	O
 .	O
 In	O
-August	B-Misc
-2014	I-Misc
+August	B-Date
+2014	I-Date
 ,	O
 three	O
 Indian	B-NORP
@@ -786,9 +786,9 @@ approved	O
 the	O
 MoU	O
 on	O
-31	B-Misc
-October	I-Misc
-2014	I-Misc
+31	B-Date
+October	I-Date
+2014	I-Date
 .	O
 The	O
 MoU	O
@@ -816,8 +816,8 @@ India	I-Organization	B-Location
 to	O
 Mauritius	B-Location
 in	O
-March	B-Misc
-2015	I-Misc
+March	B-Date
+2015	I-Date
 .	O
 A	O
 copy	O
@@ -834,9 +834,9 @@ the	O
 National	B-Organization
 Assembly	I-Organization
 on	O
-31	B-Misc
-March	I-Misc
-2015	I-Misc
+31	B-Date
+March	I-Date
+2015	I-Date
 during	O
 the	O
 reply	O
@@ -1097,8 +1097,8 @@ to	O
 be	O
 ready	O
 by	O
-January	B-Misc
-2023	I-Misc
+January	B-Date
+2023	I-Date
 ,	O
 XLD	B-Person
 said	O
@@ -1487,9 +1487,9 @@ to	O
 the	O
 PNQ	B-Misc
 on	O
-18	B-Misc
-May	I-Misc
-2021	I-Misc
+18	B-Date
+May	I-Date
+2021	I-Date
 that	O
 as	O
 for	O

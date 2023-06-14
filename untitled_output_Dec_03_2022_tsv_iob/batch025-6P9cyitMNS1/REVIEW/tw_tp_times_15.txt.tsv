@@ -58,9 +58,9 @@ lawmakers	O
 to	O
 Prague	B-Location
 from	O
-Monday	B-Misc
+Monday	B-Date
 to	O
-Thursday	B-Misc
+Thursday	B-Date
 ,	O
 the	O
 Czech	B-Organization	B-Location
@@ -122,12 +122,12 @@ president	O
 of	O
 Czechoslovakia	B-Location
 from	O
-1989	B-Misc
+1989	B-Date
 until	O
 its	O
 dissolution	O
 in	O
-1992	B-Misc
+1992	B-Date
 ,	O
 and	O
 was	O
@@ -140,9 +140,9 @@ the	O
 Czech	B-Organization
 Republic	I-Organization
 from	O
-1993	B-Misc
+1993	B-Date
 to	O
-2003	B-Misc
+2003	B-Date
 .	O
 He	O
 was	O
@@ -178,7 +178,7 @@ state	O
 .	O
 
 On	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 You	B-Person
 and	O
@@ -236,13 +236,13 @@ Kubera	I-Person
 who	O
 served	O
 from	O
-2018	B-Misc
+2018	B-Date
 until	O
 his	O
 death	O
 in	O
-January	B-Misc
-2020	I-Misc
+January	B-Date
+2020	I-Date
 .	O
 They	O
 are	O
@@ -311,7 +311,7 @@ death	O
 
 Also	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 You	B-Person
 and	O
@@ -355,7 +355,7 @@ camp	O
 .	O
 
 On	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 You	B-Person
 received	O

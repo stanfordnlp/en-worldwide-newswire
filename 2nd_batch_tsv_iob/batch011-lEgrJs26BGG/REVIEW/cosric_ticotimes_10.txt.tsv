@@ -548,9 +548,9 @@ nightlife	O
 during	O
 weekends	O
 (	O
-Friday	B-Misc
-&	I-Misc
-Saturday	I-Misc
+Friday	B-Date
+&	I-Date
+Saturday	I-Date
 nights	O
 )	O
 .	O

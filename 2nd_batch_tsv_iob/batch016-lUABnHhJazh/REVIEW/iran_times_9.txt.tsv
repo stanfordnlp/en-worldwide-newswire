@@ -26,7 +26,7 @@ Kanaani	I-Person
 ,	O
 condemned	O
 the	O
-Wednesday	B-Misc
+Wednesday	B-Date
 shelling	O
 of	O
 the	O
@@ -187,7 +187,7 @@ act	O
 .	O
 
 On	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 Iraq	B-Location
 's	O
@@ -217,7 +217,7 @@ Iraqi	B-NORP
 foreign	O
 ministry	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 handed	O
 a	O
 strongly	O
@@ -279,7 +279,7 @@ the	O
 Iraqi	B-Organization	B-NORP
 government	I-Organization
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 “	O
 not	O
 to	O
@@ -391,7 +391,7 @@ his	O
 Twitter	B-Organization
 account	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 "	O

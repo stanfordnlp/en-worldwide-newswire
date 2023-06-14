@@ -62,14 +62,14 @@ joined	O
 Nedbank	B-Organization
 Namibia	I-Organization	B-Location
 in	O
-2018	B-Misc
+2018	B-Date
 as	O
 the	O
 Regulatory	O
 Manager	O
 .	O
 In	O
-2020	B-Misc
+2020	B-Date
 ,	O
 she	O
 earned	O
@@ -572,7 +572,7 @@ managerial	O
 positions	O
 globally	O
 in	O
-2019	B-Misc
+2019	B-Date
 —	O
 nearly	O
 the	O
@@ -580,7 +580,7 @@ same	O
 proportion	O
 as	O
 in	O
-1995	B-Misc
+1995	B-Date
 .	O
 Furthermore	O
 ,	O
@@ -601,7 +601,7 @@ Chief	O
 Executive	O
 Officer	O
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 ”	O
 

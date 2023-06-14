@@ -82,7 +82,7 @@ Restaurant	I-Misc
 in	O
 Latin	B-Location
 America	I-Location
-2013-2021	B-Misc
+2013-2021	B-Date
 .	O
 
 Meanwhile	O
@@ -251,9 +251,9 @@ live	O
 awards	O
 ceremony	O
 on	O
-Monday	B-Misc
-18th	B-Misc
-July	I-Misc
+Monday	B-Date
+18th	I-Date
+July	I-Date
 .	O
 
 The	O

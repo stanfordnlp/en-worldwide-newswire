@@ -56,7 +56,7 @@ station	O
 three	O
 times	O
 between	O
-April	B-Misc
+April	B-Date
 and	O
 last	O
 month	O
@@ -76,7 +76,7 @@ the	O
 precinct	O
 said	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 following	O
 an	O
 investigation	O
@@ -127,7 +127,7 @@ when	O
 a	O
 person	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 in	O
 a	O
 post	O
@@ -169,7 +169,7 @@ up	O
 The	O
 precinct	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 said	O
 that	O
 during	O
@@ -392,7 +392,7 @@ an	O
 extramarital	O
 affair	O
 in	O
-2009	B-Misc
+2009	B-Date
 ,	O
 more	O
 than	O
@@ -426,9 +426,9 @@ National	B-Organization
 Police	I-Organization
 Agency	I-Organization
 in	O
-2008	B-Misc
+2008	B-Date
 and	O
-2009	B-Misc
+2009	B-Date
 introduced	O
 regulations	O
 on	O
@@ -456,7 +456,7 @@ City	I-Organization	I-Location
 Police	I-Organization
 Department	I-Organization
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 said	O
 that	O
 its	O

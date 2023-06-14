@@ -269,7 +269,7 @@ Nunavut	B-Location
 dates	O
 back	O
 to	O
-2000	B-Misc
+2000	B-Date
 when	O
 the	O
 Atuqtuarvik	B-Organization
@@ -738,9 +738,9 @@ Finance	I-Organization
 says	O
 that	O
 from	O
-2018	B-Misc
+2018	B-Date
 to	O
-2021	B-Misc
+2021	B-Date
 the	O
 government	O
 leveraged	O
@@ -846,8 +846,8 @@ op	I-Organization
 burned	O
 down	O
 in	O
-January	B-Misc
-2021	I-Misc
+January	B-Date
+2021	I-Date
 .	O
 Anderson	B-Person
 says	O
@@ -915,7 +915,7 @@ down	O
 ”	O
 
 Until	O
-1968	B-Misc
+1968	B-Date
 ,	O
 Canada	B-Location
 allowed	O

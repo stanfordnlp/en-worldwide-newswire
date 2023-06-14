@@ -19,10 +19,10 @@ Shram	I-Organization
 portal	O
 as	O
 of	O
-January	B-Misc
-28	I-Misc
-,	I-Misc
-2022	I-Misc
+January	B-Date
+28	I-Date
+,	I-Date
+2022	I-Date
 is	O
 7,17	O
 ,	O
@@ -35,7 +35,7 @@ the	O
 Lok	B-Organization
 Sabha	I-Organization
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Responding	O
@@ -116,10 +116,10 @@ Shram	I-Organization
 ,	O
 launched	O
 on	O
-August	B-Misc
-26	I-Misc
-,	I-Misc
-2021	I-Misc
+August	B-Date
+26	I-Date
+,	I-Date
+2021	I-Date
 ,	O
 the	O
 Centre	O
@@ -162,7 +162,7 @@ on	I-Misc
 Social	I-Misc
 Security	I-Misc
 ,	I-Misc
-2020	I-Misc
+2020	B-Date
 .	O
 
 Also	O
@@ -244,10 +244,10 @@ House	I-Organization
 that	O
 as	O
 of	O
-July	B-Misc
-20	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+20	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 the	O
 e	B-Organization	B-Misc

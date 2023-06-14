@@ -397,7 +397,7 @@ first	O
 ten	O
 days	O
 of	O
-June	B-Misc
+June	B-Date
 alone	O
 .	O
 
@@ -429,7 +429,7 @@ machine	O
 was	O
 installed	O
 in	O
-2013	B-Misc
+2013	B-Date
 .	O
 There	O
 are	O

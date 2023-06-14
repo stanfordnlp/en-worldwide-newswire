@@ -62,7 +62,7 @@ of	I-Location
 Chittagong	I-Location
 ,	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 four	O
 days	O
@@ -256,7 +256,7 @@ owners	O
 were	O
 quoted	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 in	O
 Bangladesh	B-Location
 newspapers	O
@@ -376,7 +376,7 @@ from	O
 his	O
 injuries	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 police	O
 said	O
@@ -483,7 +483,7 @@ in	O
 Bangladesh	B-Location
 was	O
 in	O
-July	B-Misc
+July	B-Date
 last	O
 year	O
 when	O

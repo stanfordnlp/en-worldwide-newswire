@@ -4,9 +4,9 @@ Kampala	B-Location
 &	O
 Kayunga	B-Location
 ,	O
-Jul	B-Misc
-19	I-Misc
-2022	I-Misc
+Jul	B-Date
+19	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -636,7 +636,7 @@ has	O
 increased	O
 since	O
 late	O
-2020	B-Misc
+2020	B-Date
 .	O
 The	O
 war	O
@@ -651,7 +651,7 @@ prices	O
 
 By	O
 early	O
-April	B-Misc
+April	B-Date
 ,	O
 fertiliser	O
 prices	O

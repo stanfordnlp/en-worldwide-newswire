@@ -8,7 +8,7 @@ and	O
 Ireland	B-Location
 agreed	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 to	O
 make	O
 sure	O
@@ -149,7 +149,7 @@ it	O
 began	O
 in	O
 late	O
-February	B-Misc
+February	B-Date
 .	O
 
 Japan	B-Location
@@ -351,7 +351,7 @@ that	O
 took	O
 effect	O
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 Martin	B-Person

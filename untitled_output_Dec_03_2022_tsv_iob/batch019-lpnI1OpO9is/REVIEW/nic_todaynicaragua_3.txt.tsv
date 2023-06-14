@@ -147,7 +147,7 @@ of	O
 Daniel	B-Person
 Ortega	I-Person
 last	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 which	O
 was	O
@@ -166,7 +166,7 @@ leader	O
 .	O
 ”	O
 Last	O
-March	B-Misc
+March	B-Date
 the	O
 Nicaraguan	B-NORP
 government	O
@@ -176,9 +176,9 @@ Waldemar	I-Person
 Sommertag	I-Person
 .	O
 Between	O
-May	B-Misc
+May	B-Date
 and	O
-June	B-Misc
+June	B-Date
 ,	O
 authorities	O
 also	O
@@ -249,7 +249,7 @@ passed	O
 a	O
 law	O
 in	O
-April	B-Misc
+April	B-Date
 which	O
 tightens	O
 the	O
@@ -311,7 +311,7 @@ of	O
 Calcutta	B-Location
 in	O
 the	O
-1980	B-Misc
+1980	B-Date
 s	O
 ,	O
 is	O
@@ -477,8 +477,8 @@ socio	O
 political	O
 crisis	O
 since	O
-April	B-Misc
-2018	I-Misc
+April	B-Date
+2018	I-Date
 ,	O
 with	O
 mass	O
@@ -530,8 +530,8 @@ situation	O
 worsened	O
 with	O
 the	O
-November	B-Misc
-2021	I-Misc
+November	B-Date
+2021	I-Date
 elections	O
 ,	O
 in	O

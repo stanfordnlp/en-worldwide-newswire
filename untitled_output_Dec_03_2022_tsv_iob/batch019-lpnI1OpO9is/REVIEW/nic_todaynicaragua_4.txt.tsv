@@ -24,8 +24,8 @@ trailer	O
 in	O
 Texas	B-Location
 on	O
-June	B-Misc
-27	I-Misc
+June	B-Date
+27	I-Date
 ,	O
 and	O
 proposed	O
@@ -136,7 +136,7 @@ Rosario	B-Person
 Murillo	I-Person
 said	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 on	O
 the	O
 state	O

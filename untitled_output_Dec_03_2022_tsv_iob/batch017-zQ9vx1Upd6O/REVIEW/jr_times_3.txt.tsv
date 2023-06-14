@@ -8,7 +8,7 @@ Bisher	B-Person
 Al	I-Person
 Khasawneh	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 received	O
 Lebanese	B-NORP
 Minister	O
@@ -188,7 +188,7 @@ countries	O
 
 Also	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 Deputy	O
 Prime	O
