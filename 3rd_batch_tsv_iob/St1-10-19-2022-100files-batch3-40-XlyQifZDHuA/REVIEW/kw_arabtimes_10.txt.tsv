@@ -20,8 +20,8 @@ Al	B-Organization
 Qabas	I-Organization
 daily	O
 on	O
-July	B-Misc
-14	I-Misc
+July	B-Date
+14	I-Date
 and	O
 the	O
 hidden	O

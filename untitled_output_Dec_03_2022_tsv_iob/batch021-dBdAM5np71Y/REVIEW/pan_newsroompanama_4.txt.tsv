@@ -6,10 +6,10 @@ judge	O
 in	O
 Chiriquí	B-Location
 on	O
-Saturday	B-Misc
-,	I-Misc
-July	I-Misc
-24	I-Misc
+Saturday	B-Date
+,	B-Misc
+July	B-Date
+24	I-Date
 ,	O
 ordered	O
 six	O
@@ -75,7 +75,7 @@ General	I-Organization
 's	I-Organization
 Office	I-Organization
 last	O
-Thursday	B-Misc
+Thursday	B-Date
 ,	O
 is	O
 the	O

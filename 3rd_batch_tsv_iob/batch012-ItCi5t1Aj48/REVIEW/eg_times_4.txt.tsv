@@ -108,8 +108,8 @@ daily	O
 wrote	O
 in	O
 his	O
-26	B-Misc
-June	I-Misc
+26	B-Date
+June	I-Date
 publication	O
 .	O
 “	O
@@ -256,8 +256,8 @@ he	O
 wrote	O
 in	O
 the	O
-27	B-Misc
-June	I-Misc
+27	B-Date
+June	I-Date
 issue	O
 .	O
 “	O
@@ -439,7 +439,7 @@ competition	O
 to	O
 hold	O
 the	O
-2010	B-Misc	B-Misc
+2010	B-Misc	B-Date
 World	I-Misc
 Cup	I-Misc
 ,	O
@@ -774,8 +774,8 @@ based	O
 Al	B-Organization
 Hayat	I-Organization
 of	O
-25	B-Misc
-June	I-Misc
+25	B-Date
+June	I-Date
 .	O
 
 “	O

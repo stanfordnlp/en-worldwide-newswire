@@ -213,7 +213,7 @@ we	O
 were	O
 expecting	O
 at	O
-Easter	B-Misc
+Easter	B-Date
 was	O
 70,000	O
 people	O
@@ -272,14 +272,14 @@ Tourism	I-Organization
 Intur	B-Organization
 )	O
 of	O
-2018	B-Misc
+2018	B-Date
 ,	O
 in	O
-March	B-Misc
+March	B-Date
 ,	O
 which	O
 included	O
-Easter	B-Misc
+Easter	B-Date
 ,	O
 195,753	O
 visitors	O

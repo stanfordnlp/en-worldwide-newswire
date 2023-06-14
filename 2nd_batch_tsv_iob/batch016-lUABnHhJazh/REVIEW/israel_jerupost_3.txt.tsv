@@ -23,7 +23,7 @@ conditional	O
 temporary	O
 licenses	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 after	O
 it	O
 was	O
@@ -748,7 +748,7 @@ his	O
 Twitter	B-Product
 account	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 that	O
 appeared	O
 to	O

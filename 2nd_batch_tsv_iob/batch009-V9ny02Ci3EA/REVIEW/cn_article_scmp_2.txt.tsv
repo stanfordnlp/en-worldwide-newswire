@@ -48,7 +48,7 @@ and	O
 per	O
 cent	O
 for	O
-June	B-Misc
+June	B-Date
 .	O
 
 But	O
@@ -120,7 +120,7 @@ to	O
 per	O
 cent	O
 in	O
-June	B-Misc
+June	B-Date
 ,	O
 would	O
 spark	O
@@ -159,7 +159,7 @@ per	O
 cent	O
 rise	O
 in	O
-May	B-Misc
+May	B-Date
 ,	O
 Singapore	B-Location
 at	O
@@ -167,7 +167,7 @@ at	O
 per	O
 cent	O
 in	O
-May	B-Misc
+May	B-Date
 and	O
 South	B-Location
 Korea	I-Location
@@ -176,7 +176,7 @@ at	O
 per	O
 cent	O
 in	O
-June	B-Misc
+June	B-Date
 .	O
 
 In	O
@@ -185,7 +185,7 @@ first	O
 five	O
 months	O
 of	O
-2022	B-Misc
+2022	B-Date
 ,	O
 Hong	B-Location
 Kong	I-Location
@@ -333,7 +333,7 @@ s	O
 overall	O
 CPI	B-Misc
 in	O
-May	B-Misc
+May	B-Date
 recorded	O
 a	O
 1.2	O
@@ -373,9 +373,9 @@ release	O
 the	O
 figure	O
 for	O
-June	B-Misc
+June	B-Date
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 The	O
@@ -400,7 +400,7 @@ by	O
 per	O
 cent	O
 from	O
-2021	B-Misc
+2021	B-Date
 ,	O
 with	O
 eating	O
@@ -429,7 +429,7 @@ gas	O
 and	O
 water	O
 in	O
-May	B-Misc
+May	B-Date
 fell	O
 4.9	O
 per	O
@@ -490,7 +490,7 @@ and	O
 per	O
 cent	O
 for	O
-June	B-Misc
+June	B-Date
 .	O
 
 But	O
@@ -562,7 +562,7 @@ to	O
 per	O
 cent	O
 in	O
-June	B-Misc
+June	B-Date
 ,	O
 would	O
 spark	O
@@ -601,7 +601,7 @@ per	O
 cent	O
 rise	O
 in	O
-May	B-Misc
+May	B-Date
 ,	O
 Singapore	B-Location
 at	O
@@ -609,7 +609,7 @@ at	O
 per	O
 cent	O
 in	O
-May	B-Misc
+May	B-Date
 and	O
 South	B-Location
 Korea	I-Location
@@ -618,7 +618,7 @@ at	O
 per	O
 cent	O
 in	O
-June	B-Misc
+June	B-Date
 .	O
 
 China	B-Location
@@ -634,9 +634,9 @@ curbs	O
 boost	O
 demand	O
 
-11	B-Misc
-Jul	I-Misc
-2022	I-Misc
+11	B-Date
+Jul	I-Date
+2022	I-Date
 
 In	O
 the	O
@@ -644,7 +644,7 @@ first	O
 five	O
 months	O
 of	O
-2022	B-Misc
+2022	B-Date
 ,	O
 Hong	B-Location
 Kong	I-Location
@@ -792,7 +792,7 @@ s	O
 overall	O
 CPI	B-Misc
 in	O
-May	B-Misc
+May	B-Date
 recorded	O
 a	O
 1.2	O
@@ -832,9 +832,9 @@ release	O
 the	O
 figure	O
 for	O
-June	B-Misc
+June	B-Date
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 The	O
@@ -859,7 +859,7 @@ by	O
 per	O
 cent	O
 from	O
-2021	B-Misc
+2021	B-Date
 ,	O
 with	O
 eating	O
@@ -888,7 +888,7 @@ gas	O
 and	O
 water	O
 in	O
-May	B-Misc
+May	B-Date
 fell	O
 4.9	O
 per	O
@@ -981,7 +981,7 @@ transport	O
 costs	O
 ,	O
 putting	O
-June	B-Misc
+June	B-Date
 ’	O
 s	O
 inflation	O
@@ -999,7 +999,7 @@ cent	O
 .	O
 
 “	O
-June	B-Misc
+June	B-Date
 inflation	O
 will	O
 mildly	O
@@ -1098,7 +1098,7 @@ ING	B-Organization
 ,	O
 said	O
 the	O
-June	B-Misc
+June	B-Date
 CPI	B-Misc
 rose	O
 by	O

@@ -1,7 +1,7 @@
 https://www.kaieteurnewsonline.com/2022/07/25/epa-decision-on-low-impacts-to-fisheries-sector-technically-unsound-environmentalist/	O
 
 Although	O
-May	B-Misc
+May	B-Date
 of	O
 this	O
 year	O
@@ -806,7 +806,7 @@ the	O
 third	O
 quarter	O
 of	O
-2023	B-Misc
+2023	B-Date
 ,	O
 signaling	O
 that	O
@@ -834,7 +834,7 @@ the	O
 fourth	O
 quarter	O
 of	O
-2028	B-Misc
+2028	B-Date
 .	O
 
 The	O
@@ -1143,9 +1143,9 @@ well	O
 campaign	O
 approved	O
 on	O
-1	B-Misc
-October	I-Misc
-2019	I-Misc
+1	B-Date
+October	I-Date
+2019	I-Date
 ;	O
 The	O
 Yellowtail	B-Misc

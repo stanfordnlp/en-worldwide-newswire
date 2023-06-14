@@ -336,7 +336,7 @@ ground	O
 up	O
 .	O
 In	O
-2019	B-Misc
+2019	B-Date
 alone	O
 ,	O
 at	O
@@ -354,8 +354,8 @@ China	B-Location
 .	O
 In	O
 a	O
-September	B-Misc
-2019	I-Misc
+September	B-Date
+2019	I-Date
 speech	O
 ,	O
 Zou	B-Person
@@ -815,7 +815,7 @@ influence	O
 Well	O
 into	O
 the	O
-1980	B-Misc
+1980	B-Date
 s	O
 ,	O
 Washington	B-Location
@@ -1015,7 +1015,7 @@ Brazilian	B-NORP
 homes	O
 .	O
 In	O
-February	B-Misc
+February	B-Date
 ,	O
 Argentina	B-Location
 announced	O
@@ -1034,7 +1034,7 @@ projects	O
 .	O
 
 Since	O
-2012	B-Misc
+2012	B-Date
 ,	O
 Chinese	B-NORP
 President	O
@@ -1129,7 +1129,7 @@ giving	O
 up	O
 .	O
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 Ivanka	B-Person
 Trump	I-Person
@@ -1178,7 +1178,7 @@ from	O
 China	B-Location
 .	O
 In	O
-September	B-Misc
+September	B-Date
 ,	O
 Daleep	B-Person
 Singh	I-Person
@@ -1267,8 +1267,8 @@ outflank	O
 China	B-Location
 .	O
 In	O
-August	B-Misc
-2019	I-Misc
+August	B-Date
+2019	I-Date
 ,	O
 just	O
 months	O
@@ -1450,7 +1450,7 @@ Covid	B-Misc
 
 In	O
 early	O
-2021	B-Misc
+2021	B-Date
 ,	O
 with	O
 Covid	B-Misc
@@ -1543,8 +1543,8 @@ a	O
 million	O
 doses	O
 in	O
-October	B-Misc
-2020	I-Misc
+October	B-Date
+2020	I-Date
 while	O
 it	O
 was	O
@@ -1585,7 +1585,7 @@ about	O
 face	O
 .	O
 By	O
-January	B-Misc
+January	B-Date
 last	O
 year	O
 ,	O
@@ -1809,7 +1809,7 @@ ready	O
 .	O
 In	O
 the	O
-1990	B-Misc
+1990	B-Date
 s	O
 ,	O
 Argentina	B-Location
@@ -2004,7 +2004,7 @@ projects	O
 in	O
 the	O
 early	O
-2000	B-Misc
+2000	B-Date
 s	O
 ,	O
 around	O
@@ -2087,7 +2087,7 @@ speciality	O
 .	O
 
 By	O
-2014	B-Misc
+2014	B-Date
 ,	O
 a	O
 year	O
@@ -2170,7 +2170,7 @@ began	O
 producing	O
 electricity	O
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 Local	O
 leaders	O
@@ -2289,7 +2289,7 @@ at	O
 all	O
 .	O
 In	O
-2020	B-Misc
+2020	B-Date
 ,	O
 its	O
 federal	O
@@ -2407,7 +2407,7 @@ second	O
 lithium	O
 producer	O
 in	O
-2015	B-Misc
+2015	B-Date
 .	O
 Minera	B-Organization
 Exar	I-Organization

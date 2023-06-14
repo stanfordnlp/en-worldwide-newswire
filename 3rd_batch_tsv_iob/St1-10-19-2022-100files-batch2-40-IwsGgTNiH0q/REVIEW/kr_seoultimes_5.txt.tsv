@@ -551,9 +551,9 @@ special	O
 purpose	O
 corporation	O
 in	O
-October	B-Misc
-of	I-Misc
-2017	I-Misc
+October	B-Date
+of	I-Date
+2017	I-Date
 .	O
 I	O
 earned	O
@@ -566,9 +566,9 @@ from	O
 the	O
 government	O
 in	O
-November	B-Misc
-of	I-Misc
-2019	I-Misc
+November	B-Date
+of	I-Date
+2019	I-Date
 .	O
 
 The	O
@@ -814,7 +814,7 @@ returning	O
 to	O
 Korea	B-Location
 in	O
-2012	B-Misc
+2012	B-Date
 ,	O
 I	O
 started	O
@@ -844,7 +844,7 @@ Korean	I-Misc	B-NORP
 Award	I-Misc
 "	O
 in	O
-2013	B-Misc
+2013	B-Date
 for	O
 my	O
 achievements	O

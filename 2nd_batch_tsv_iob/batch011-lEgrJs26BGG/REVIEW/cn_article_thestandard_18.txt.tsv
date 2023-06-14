@@ -83,10 +83,10 @@ Fukuoka	B-Location
 will	O
 operate	O
 on	O
-Thursdays	B-Misc
+Thursdays	B-Date
 from	O
-August	B-Misc
-4	I-Misc
+August	B-Date
+4	I-Date
 ,	O
 with	O
 UO	O
@@ -131,10 +131,10 @@ will	O
 begin	O
 service	O
 on	O
-Sundays	B-Misc
+Sundays	B-Date
 from	O
-August	B-Misc
-14	I-Misc
+August	B-Date
+14	I-Date
 ,	O
 with	O
 the	O
@@ -281,8 +281,8 @@ group	O
 of	O
 10	O
 departed	O
-June	B-Misc
-22	I-Misc
+June	B-Date
+22	I-Date
 .	O
 
 It	O

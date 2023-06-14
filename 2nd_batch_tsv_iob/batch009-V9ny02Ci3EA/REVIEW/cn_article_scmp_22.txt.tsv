@@ -223,7 +223,7 @@ under	O
 Fantagio	B-Organization
 Entertainment	I-Organization
 in	O
-2016	B-Misc
+2016	B-Date
 ,	O
 Cha	B-Person
 quickly	O
@@ -294,7 +294,7 @@ is	I-Misc
 Gangnam	I-Misc
 Beauty	I-Misc
 (	O
-2018	B-Misc
+2018	B-Date
 )	O
 ,	O
 which	O
@@ -308,7 +308,7 @@ and	O
 abroad	O
 .	O
 By	O
-2020	B-Misc
+2020	B-Date
 ,	O
 his	O
 role	O
@@ -940,7 +940,7 @@ Ceci	B-Organization
 Korea	I-Organization	B-Location
 back	O
 in	O
-2017	B-Misc
+2017	B-Date
 what	O
 his	O
 ideal	O

@@ -53,7 +53,7 @@ over	O
 election	O
 advertising	O
 in	O
-June	B-Misc
+June	B-Date
 and	O
 refused	O
 to	O
@@ -83,11 +83,11 @@ they	O
 allowed	O
 ,	O
 between	O
-27	B-Misc
-August	I-Misc
+27	B-Date
+August	I-Date
 and	O
-7	B-Location
-October	I-Location
+7	B-Date
+October	I-Date
 .	O
 
 But	O
@@ -106,8 +106,8 @@ to	O
 be	O
 installed	O
 on	O
-28	B-Misc
-August	I-Misc
+28	B-Date
+August	I-Date
 ,	O
 Whanau	B-Person
 said	O

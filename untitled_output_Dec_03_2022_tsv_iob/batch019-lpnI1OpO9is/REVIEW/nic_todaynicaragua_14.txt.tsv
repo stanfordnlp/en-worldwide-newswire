@@ -91,9 +91,9 @@ Nicaragua	B-Location
 in	O
 times	O
 of	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 .	O
 
 The	O
@@ -151,8 +151,8 @@ His	O
 gym	O
 closed	O
 on	O
-March	B-Misc
-19	I-Misc
+March	B-Date
+19	I-Date
 ,	O
 a	O
 day	O
@@ -501,9 +501,9 @@ as	O
 a	O
 result	O
 of	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 ”	O
 ,	O
 organized	O
@@ -557,7 +557,7 @@ survey	O
 was	O
 conducted	O
 in	O
-June	B-Misc
+June	B-Date
 among	O
 206	O
 businesses	O
@@ -979,7 +979,7 @@ Funides	B-Organization
 published	O
 in	O
 late	O
-May	B-Misc
+May	B-Date
 ,	O
 estimates	O
 that	O
@@ -1013,7 +1013,7 @@ from	O
 6.6	O
 %	O
 in	O
-2019	B-Misc
+2019	B-Date
 to	O
 a	O
 rate	O
@@ -1024,7 +1024,7 @@ to	O
 9.2	O
 %	O
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 This	O
 means	O
@@ -1047,8 +1047,8 @@ unemployed	O
 
 Funides	B-Organization
 ’	O
-August	B-Misc
-Situation	I-Misc
+August	B-Date
+Situation	B-Misc
 Report	I-Misc
 reveals	O
 that	O
@@ -1062,7 +1062,7 @@ from	O
 28.2	O
 %	O
 in	O
-2019	B-Misc
+2019	B-Date
 to	O
 a	O
 range	O
@@ -1074,7 +1074,7 @@ and	O
 36.9	O
 %	O
 in	O
-2020	B-Misc
+2020	B-Date
 due	O
 to	O
 the	O
@@ -1154,9 +1154,9 @@ Latin	B-Location
 America	I-Location
 due	O
 to	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 ,	O
 for	O
 which	O
@@ -1200,7 +1200,7 @@ fall	O
 
 In	O
 late	O
-February	B-Misc
+February	B-Date
 ,	O
 reservations	O
 decreased	O

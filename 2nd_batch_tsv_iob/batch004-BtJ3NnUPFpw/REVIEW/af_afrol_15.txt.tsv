@@ -3,8 +3,8 @@ http://www.afrol.com/articles/38286	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-20	B-Misc
-June	I-Misc
+20	B-Date
+June	I-Date
 -	O
 Despite	O
 massive	O
@@ -82,8 +82,8 @@ scheduled	O
 to	O
 commence	O
 on	O
-12	B-Misc
-November	I-Misc
+12	B-Date
+November	I-Date
 this	O
 year	O
 .	O
@@ -110,8 +110,8 @@ three	O
 weeks	O
 ,	O
 on	O
-9	B-Misc
-July	I-Misc
+9	B-Date
+July	I-Date
 .	O
 But	O
 the	O
@@ -174,7 +174,7 @@ violence	O
 in	O
 Kenya	B-Location
 in	O
-2007-2008	B-Misc
+2007-2008	B-Date
 ,	O
 "	O
 according	O
@@ -446,7 +446,7 @@ violence	O
 that	O
 followed	O
 the	O
-2007	B-Misc
+2007	B-Date
 election	O
 .	O
 The	O

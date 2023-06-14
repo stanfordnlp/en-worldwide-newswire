@@ -94,7 +94,7 @@ in	O
 a	O
 statement	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 The	O
 licence	O
@@ -102,8 +102,8 @@ will	O
 be	O
 valid	O
 through	O
-July	B-Misc
-2023	I-Misc
+July	B-Date
+2023	I-Date
 .	O
 
 Smoore	B-Organization
@@ -142,7 +142,7 @@ until	O
 recently	O
 .	O
 In	O
-March	B-Misc
+March	B-Date
 ,	O
 STMA	B-Organization
 published	O
@@ -300,7 +300,7 @@ hitting	O
 per	O
 cent	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 compared	O
 to	O
@@ -308,13 +308,13 @@ to	O
 per	O
 cent	O
 in	O
-2020	B-Misc
+2020	B-Date
 and	O
 44	O
 per	O
 cent	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 according	O
 to	O
@@ -349,7 +349,7 @@ health	O
 concerns	O
 .	O
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 it	O
 rolled	O
@@ -370,7 +370,7 @@ also	O
 banned	O
 vendors	O
 in	O
-March	B-Misc
+March	B-Date
 from	O
 selling	O
 flavoured	O
@@ -431,7 +431,7 @@ York	I-Organization	I-Location
 Stock	I-Organization
 Exchange	I-Organization
 in	O
-March	B-Misc
+March	B-Date
 after	O
 the	O
 tobacco	O

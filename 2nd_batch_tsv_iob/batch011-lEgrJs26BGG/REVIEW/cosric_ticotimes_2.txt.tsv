@@ -43,8 +43,8 @@ in	O
 Costa	B-Location
 Rica	I-Location
 on	O
-July	B-Misc
-25	I-Misc
+July	B-Date
+25	I-Date
 .	O
 The	O
 holiday	O
@@ -59,7 +59,7 @@ Nicoya	B-Location
 from	O
 Nicaragua	B-Location
 in	O
-1824	B-Misc
+1824	B-Date
 .	O
 
 The	O
@@ -157,7 +157,7 @@ River	I-Location
 .	O
 
 In	O
-1820	B-Misc
+1820	B-Date
 ,	O
 the	O
 independent	O
@@ -198,7 +198,7 @@ Castillo	I-Person
 .	O
 
 In	O
-1812	B-Misc
+1812	B-Date
 ,	O
 the	O
 Spanish	B-NORP
@@ -235,7 +235,7 @@ independence	O
 from	O
 Spain	B-Location
 in	O
-1821	B-Misc
+1821	B-Date
 ,	O
 political	O
 problems	O
@@ -498,10 +498,10 @@ north	O
 .	O
 
 On	O
-July	B-Misc
-25	I-Misc
-,	I-Misc
-1824	I-Misc
+July	B-Date
+25	I-Date
+,	I-Date
+1824	I-Date
 ,	O
 Costa	B-Location
 Rica	I-Location
@@ -514,7 +514,7 @@ became	O
 official	O
 .	O
 In	O
-1848	B-Misc
+1848	B-Date
 ,	O
 the	O
 territory	O

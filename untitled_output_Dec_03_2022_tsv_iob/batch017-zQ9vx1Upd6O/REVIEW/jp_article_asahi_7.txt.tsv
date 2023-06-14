@@ -11,7 +11,7 @@ Kishida	I-Person
 was	O
 launched	O
 in	O
-October	B-Misc
+October	B-Date
 ,	O
 the	O
 skies	O
@@ -187,7 +187,7 @@ as	O
 prime	O
 minister	O
 (	O
-2012-2020	B-Misc
+2012-2020	B-Date
 )	O
 .	O
 
@@ -202,10 +202,10 @@ Shimbun	I-Organization
 Co	I-Organization
 .	I-Organization
 on	O
-April	B-Misc
-16	I-Misc
-and	I-Misc
-17	I-Misc
+April	B-Date
+16	I-Date
+and	I-Date
+17	I-Date
 showed	O
 the	O
 approval	O
@@ -238,7 +238,7 @@ surveys	O
 by	O
 phone	O
 in	O
-2001	B-Misc
+2001	B-Date
 had	O
 an	O
 approval	O
@@ -304,7 +304,7 @@ the	O
 Koizumi	B-Organization	B-Person
 Cabinet	I-Organization
 (	O
-2001-2006	B-Misc
+2001-2006	B-Date
 )	O
 ,	O
 55	O
@@ -373,7 +373,7 @@ Minister	O
 Taro	B-Person
 Aso	I-Person
 (	O
-2008-2009	B-Misc
+2008-2009	B-Date
 )	O
 .	O
 
@@ -460,7 +460,7 @@ Minister	O
 Yoshihide	B-Person
 Suga	I-Person
 (	O
-2020-2021	B-Misc
+2020-2021	B-Date
 )	O
 ,	O
 and	O
@@ -545,7 +545,7 @@ Minister	O
 Toshiki	B-Person
 Kaifu	I-Person
 (	O
-1989-1991	B-Misc
+1989-1991	B-Date
 )	O
 rising	O
 in	O
@@ -746,7 +746,7 @@ lower	O
 .	O
 
 The	O
-April	B-Misc
+April	B-Date
 approval	O
 rating	O
 for	O
@@ -775,7 +775,7 @@ than	O
 for	O
 women	O
 until	O
-March	B-Misc
+March	B-Date
 ,	O
 but	O
 the	O
@@ -881,7 +881,7 @@ Abe	B-Organization	B-Person
 Cabinet	I-Organization
 lifted	O
 in	O
-2014	B-Misc
+2014	B-Date
 ,	O
 and	O
 the	O
@@ -897,7 +897,7 @@ which	O
 was	O
 enacted	O
 in	O
-2017	B-Misc
+2017	B-Date
 .	O
 
 The	O
@@ -978,7 +978,7 @@ Asahi	I-Organization
 Shimbun	I-Organization
 ’	O
 s	O
-April	B-Misc
+April	B-Date
 survey	O
 asked	O
 respondents	O
@@ -1303,7 +1303,7 @@ Minister	O
 Yoshihiko	B-Person
 Noda	I-Person
 (	O
-2011-2012	B-Misc
+2011-2012	B-Date
 )	O
 ,	O
 the	O
@@ -1442,7 +1442,7 @@ only	O
 28	O
 percent	O
 in	O
-April	B-Misc
+April	B-Date
 .	O
 
 But	O
@@ -1524,7 +1524,7 @@ Cabinet	B-Organization
 
 During	O
 the	O
-April	B-Misc
+April	B-Date
 survey	O
 ,	O
 the	O
@@ -1635,7 +1635,7 @@ to	O
 percent	O
 in	O
 the	O
-April	B-Misc
+April	B-Date
 survey	O
 .	O
 
@@ -1691,7 +1691,7 @@ years	O
 
 During	O
 the	O
-April	B-Misc
+April	B-Date
 survey	O
 ,	O
 53	O
@@ -1729,7 +1729,7 @@ The	O
 corresponding	O
 figures	O
 in	O
-March	B-Misc
+March	B-Date
 were	O
 51	O
 percent	O
@@ -1788,11 +1788,11 @@ the	O
 surveys	O
 taken	O
 in	O
-January	B-Misc
+January	B-Date
 ,	O
-February	B-Misc
+February	B-Date
 and	O
-April	B-Misc
+April	B-Date
 ,	O
 however	O
 ,	O
@@ -1825,12 +1825,12 @@ from	O
 41	O
 percent	O
 in	O
-January	B-Misc
+January	B-Date
 to	O
 54	O
 percent	O
 in	O
-April	B-Misc
+April	B-Date
 .	O
 
 Eighty	O
@@ -1914,7 +1914,7 @@ was	O
 reversed	O
 in	O
 the	O
-February	B-Misc
+February	B-Date
 survey	O
 ,	O
 where	O
@@ -1945,7 +1945,7 @@ expectations	O
 
 During	O
 the	O
-April	B-Misc
+April	B-Date
 survey	O
 ,	O
 32	O

@@ -21,8 +21,8 @@ Suk	I-Person
 -	I-Person
 yeol	I-Person
 on	O
-May	B-Misc
-10	I-Misc
+May	B-Date
+10	I-Date
 as	O
 part	O
 of	O
@@ -188,8 +188,8 @@ Government	I-Organization	I-Organization
 The	O
 meeting	O
 on	O
-May	B-Misc
-9	I-Misc
+May	B-Date
+9	I-Date
 ,	O
 which	O
 included	O
@@ -288,7 +288,7 @@ ties	O
 were	O
 normalized	O
 in	O
-1965	B-Misc
+1965	B-Date
 .	O
 
 He	O
@@ -350,8 +350,8 @@ discussions	O
 .	O
 
 On	O
-May	B-Misc
-9	I-Misc
+May	B-Date
+9	I-Date
 ,	O
 Kishida	B-Person
 told	O
@@ -382,7 +382,7 @@ to	O
 South	B-Location
 Korea	I-Location
 in	O
-2018	B-Misc
+2018	B-Date
 was	O
 the	O
 last	O

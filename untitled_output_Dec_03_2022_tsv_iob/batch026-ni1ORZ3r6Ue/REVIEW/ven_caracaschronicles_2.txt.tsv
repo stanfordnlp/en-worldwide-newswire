@@ -249,7 +249,7 @@ which	O
 has	O
 increased	O
 since	O
-2014	B-Misc
+2014	B-Date
 ,	O
 mostly	O
 because	O
@@ -296,7 +296,7 @@ started	O
 these	O
 calculations	O
 in	O
-2016	B-Misc
+2016	B-Date
 ,	O
 illicit	O
 economies	O
@@ -545,7 +545,7 @@ underestimated	O
 ”	O
 
 In	O
-2018	B-Misc
+2018	B-Date
 ,	O
 Venezuelans	B-NORP
 were	O
@@ -561,7 +561,7 @@ what	O
 they	O
 paid	O
 in	O
-1986	B-Misc
+1986	B-Date
 .	O
 Thus	O
 ,	O
@@ -588,7 +588,7 @@ shortages	O
 aggravated	O
 in	O
 early	O
-2020	B-Misc
+2020	B-Date
 ,	O
 smuggling	O
 networks	O
@@ -835,7 +835,7 @@ sea	O
 remained	O
 constant	O
 since	O
-2019	B-Misc
+2019	B-Date
 and	O
 adding	O
 up	O
@@ -866,7 +866,7 @@ transited	O
 through	O
 Venezuela	B-Location
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 which	O
 accounts	O
@@ -1143,7 +1143,7 @@ the	O
 first	O
 quarter	O
 of	O
-2022	B-Misc
+2022	B-Date
 .	O
 Then	O
 ,	O
@@ -1198,7 +1198,7 @@ Arc	I-Location
 was	O
 created	O
 in	O
-2016	B-Misc
+2016	B-Date
 ,	O
 a	O
 plethora	O
@@ -1254,7 +1254,7 @@ $	B-Money
 1.8	I-Money
 billion	I-Money
 in	O
-2021	B-Misc
+2021	B-Date
 according	O
 to	O
 Ecoanalítica	B-Organization
@@ -1268,7 +1268,7 @@ s	O
 oil	O
 revenue	O
 in	O
-2012	B-Misc
+2012	B-Date
 was	O
 $	B-Money
 21	I-Money
@@ -1405,7 +1405,7 @@ Environmental	I-Organization
 Mining	I-Organization
 Development	I-Organization
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 when	O
 the	O
@@ -1964,9 +1964,9 @@ at	O
 some	O
 point	O
 between	O
-2020	B-Misc
+2020	B-Date
 and	O
-2021	B-Misc
+2021	B-Date
 .	O
 It	O
 also	O
@@ -1985,7 +1985,7 @@ by	O
 Hugo	B-Person
 Chávez	I-Person
 in	O
-2007	B-Misc
+2007	B-Date
 ,	O
 which	O
 was	O
@@ -2215,10 +2215,10 @@ These	O
 exports	O
 skyrocketed	O
 in	O
-2021	B-Misc
+2021	B-Date
 :	O
 in	O
-2012	B-Misc
+2012	B-Date
 ,	O
 Venezuela	B-Location
 exported	O
@@ -2237,12 +2237,12 @@ under	O
 200,000	O
 tons	O
 by	O
-2020	B-Misc
+2020	B-Date
 .	O
 Yet	O
 ,	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 Venezuela	B-Location
 —	O
@@ -2279,13 +2279,13 @@ $	B-Money
 150	I-Money
 million	I-Money
 in	O
-2020	B-Misc
+2020	B-Date
 and	O
 $	B-Money
 75	I-Money
 million	I-Money
 in	O
-2012	B-Misc
+2012	B-Date
 .	O
 “	O
 It	O

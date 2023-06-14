@@ -2,9 +2,9 @@ https://www.egypttoday.com/Article/1/117908/Egyptian-ambassador-to-Sudan-meets-r
 
 CAIRO	B-Location
 –	O
-26	B-Misc
-July	I-Misc
-2022	I-Misc
+26	B-Date
+July	I-Date
+2022	I-Date
 :	O
 The	O
 Egyptian	B-Organization	B-NORP
@@ -12,7 +12,7 @@ Embassy	I-Organization
 in	O
 Sudan	B-Location
 announced	O
-Tuesday	B-Misc
+Tuesday	B-Date
 that	O
 Ambassador	O
 Hossam	B-Person
@@ -92,7 +92,7 @@ Ambassador	O
 Eissa	B-Person
 met	O
 in	O
-April	B-Misc
+April	B-Date
 with	O
 Member	O
 of	O
@@ -202,8 +202,8 @@ urged	O
 relevant	O
 authorities	O
 on	O
-April	B-Misc
-13	I-Misc
+April	B-Date
+13	I-Date
 to	O
 continue	O
 coordination	O

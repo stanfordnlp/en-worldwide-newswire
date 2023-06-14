@@ -5,7 +5,7 @@ Srinagar	B-Location
 The	O
 BJP	B-Organization
 on	O
-Monday	B-Misc
+Monday	B-Date
 held	O
 the	O
 first	O
@@ -181,9 +181,9 @@ K	I-Location
 .	O
 In	O
 the	O
-2008	B-Misc
+2008	B-Date
 and	O
-2010	B-Misc
+2010	B-Date
 unrest	O
 ,	O
 the	O
@@ -204,7 +204,7 @@ freedom	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 Azadi	B-NORP
 ’	O
@@ -341,7 +341,7 @@ Kargil	B-Facility	B-Location
 War	I-Facility
 Memorial	I-Facility
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 on	O
 the	O

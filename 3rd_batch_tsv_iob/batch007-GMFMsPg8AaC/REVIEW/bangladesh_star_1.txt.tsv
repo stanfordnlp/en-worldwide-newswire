@@ -51,7 +51,7 @@ C	B-Person
 F	I-Person
 Andrews	I-Person
 in	O
-1920	B-Misc
+1920	B-Date
 .	O
 
 Since	O
@@ -119,8 +119,8 @@ Police	I-Organization
 DMP	B-Organization
 )	O
 on	O
-July	B-Misc
-27	I-Misc
+July	B-Date
+27	I-Date
 regarding	O
 1	O
 )	O
@@ -671,7 +671,7 @@ so	O
 that	O
 ,	O
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 the	O
 High	B-Organization

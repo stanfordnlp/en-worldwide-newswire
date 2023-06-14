@@ -169,7 +169,7 @@ house	O
 parliamentary	O
 elections	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 just	O
 two	O
@@ -266,7 +266,7 @@ go	O
 to	O
 Tokyo	B-Location
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 although	O
 that	O

@@ -27,10 +27,10 @@ Mosques	O
 King	O
 Salman	B-Person
 on	O
-July	B-Misc
-15	I-Misc
-and	I-Misc
-16	I-Misc
+July	B-Date
+15	I-Date
+and	I-Date
+16	I-Date
 ,	O
 will	O
 be	O
@@ -335,7 +335,7 @@ established	O
 in	O
 the	O
 mid	O
-1940	B-Misc
+1940	B-Date
 s	O
 were	O
 the	O
@@ -458,7 +458,7 @@ in	O
 its	O
 statements	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 before	O
 Saudi	B-Location
@@ -608,7 +608,7 @@ United	B-Location
 States	I-Location
 during	O
 the	O
-1973	B-Misc
+1973	B-Date
 war	O
 between	O
 the	O
@@ -631,7 +631,7 @@ they	O
 were	O
 established	O
 in	O
-1945	B-Misc
+1945	B-Date
 ,	O
 were	O
 not	O

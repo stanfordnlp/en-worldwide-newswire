@@ -81,8 +81,8 @@ seats	O
 Coming	O
 out	O
 on	O
-July	B-Misc
-15	I-Misc
+July	B-Date
+15	I-Date
 ,	O
 it	O
 centres	O
@@ -361,7 +361,7 @@ Snowdrop	B-Misc
 .	O
 
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 Jung	B-Person
 appeared	O
@@ -589,7 +589,7 @@ Soompi	B-Organization
 
 In	O
 a	O
-2018	B-Misc
+2018	B-Date
 interview	O
 with	O
 Showbiz	B-Organization

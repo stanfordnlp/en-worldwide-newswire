@@ -10,7 +10,7 @@ a	O
 historic	O
 low	O
 last	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 exacerbating	O
 the	O
@@ -54,7 +54,7 @@ pesos	I-Money
 per	O
 dollar	B-Money
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 according	O
 to	O
@@ -143,7 +143,7 @@ the	O
 Argentine	B-NORP
 economy	O
 in	O
-1989-90	B-Misc
+1989-90	B-Date
 ,	O
 according	O
 to	O
@@ -170,8 +170,8 @@ the	O
 financial	O
 turbulence	O
 of	O
-October	B-Misc
-2020	I-Misc
+October	B-Date
+2020	I-Date
 ,	O
 the	O
 gap	O

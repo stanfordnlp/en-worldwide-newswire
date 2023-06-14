@@ -62,9 +62,9 @@ to	O
 be	O
 held	O
 on	O
-Sept	B-Misc
-.	I-Misc
-29	I-Misc
+Sept	B-Date
+.	I-Date
+29	I-Date
 at	O
 Mosaic	B-Facility
 Stadium	I-Facility
@@ -266,9 +266,9 @@ government	O
 's	O
 declaration	O
 of	O
-Sept	B-Misc
-.	I-Misc
-30	I-Misc
+Sept	B-Date
+.	I-Date
+30	I-Date
 as	O
 the	O
 National	B-Misc
@@ -442,7 +442,7 @@ scheduled	O
 to	O
 meet	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 at	O
 9 a.m.	O
 

@@ -97,8 +97,8 @@ a	O
 degree	O
 online	O
 on	O
-August	B-Misc
-29	I-Misc
+August	B-Date
+29	I-Date
 .	O
 
 “	O
@@ -442,7 +442,7 @@ at	O
 the	O
 end	O
 of	O
-August	B-Misc
+August	B-Date
 ,	O
 passed	O
 the	O
@@ -450,7 +450,7 @@ middle	O
 school	O
 exam	O
 in	O
-March	B-Misc
+March	B-Date
 and	O
 the	O
 high	O

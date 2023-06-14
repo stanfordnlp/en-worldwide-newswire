@@ -18,10 +18,10 @@ International	I-Facility
 Airport	I-Facility
 tomorrow	O
 ,	O
-Wednesday	B-Misc
-,	I-Misc
-July	I-Misc
-27	I-Misc
+Wednesday	B-Date
+,	I-Date
+July	I-Date
+27	I-Date
 .	O
 
 The	O

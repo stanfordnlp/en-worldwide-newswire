@@ -27,7 +27,7 @@ accident	O
 that	O
 happened	O
 in	O
-2018	B-Misc
+2018	B-Date
 which	O
 changed	O
 everything	O
@@ -126,7 +126,7 @@ thoughts	O
 
 “	O
 In	O
-2018	B-Misc
+2018	B-Date
 while	O
 in	O
 hospital	O
@@ -147,7 +147,7 @@ did	O
 so	O
 .	O
 In	O
-2019	B-Misc
+2019	B-Date
 I	O
 well	O
 planned	O
@@ -185,7 +185,7 @@ wrote	O
 .	O
 
 In	O
-2021	B-Misc
+2021	B-Date
 she	O
 shared	O
 that	O
@@ -227,7 +227,7 @@ spoke	O
 about	O
 the	O
 year	O
-2022	B-Misc
+2022	B-Date
 and	O
 how	O
 stressful	O
@@ -237,7 +237,7 @@ been	O
 .	O
 
 “	O
-2022	B-Misc
+2022	B-Date
 has	O
 been	O
 filled	O

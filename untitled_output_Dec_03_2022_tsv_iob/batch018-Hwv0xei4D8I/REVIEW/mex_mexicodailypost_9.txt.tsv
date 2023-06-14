@@ -18,7 +18,7 @@ company	O
 went	O
 on	O
 strike	O
-Thursday	B-Misc
+Thursday	B-Date
 ,	O
 but	O
 the	O
@@ -61,7 +61,7 @@ its	O
 privatization	O
 in	O
 the	O
-1990	B-Misc
+1990	B-Date
 s	O
 ,	O
 anti	O
@@ -111,7 +111,7 @@ at	O
 the	O
 company	O
 since	O
-1985	B-Misc
+1985	B-Date
 .	O
 
 The	O

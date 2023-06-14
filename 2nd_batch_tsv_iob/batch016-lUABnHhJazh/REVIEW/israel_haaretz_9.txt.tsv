@@ -205,7 +205,7 @@ sent	O
 ambiguous	O
 messages	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 Russian	B-NORP
 President	O
@@ -473,7 +473,7 @@ s	O
 northwest	O
 in	O
 fall	O
-2015	B-Misc
+2015	B-Date
 (	O
 thereby	O
 gradually	O
@@ -534,7 +534,7 @@ bases	O
 .	O
 In	O
 fall	O
-2018	B-Misc
+2018	B-Date
 ,	O
 after	O
 a	O

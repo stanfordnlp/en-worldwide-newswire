@@ -1,11 +1,11 @@
 https://chiletoday.cl/the-battle-of-lircay-a-fight-for-chiles-future/	O
 
 On	O
-Apr	B-Misc
-.	I-Misc
-17	I-Misc
-,	I-Misc
-1830	I-Misc
+Apr	B-Date
+.	I-Date
+17	I-Date
+,	I-Date
+1830	I-Date
 ,	O
 two	O
 factions	O
@@ -80,11 +80,11 @@ today	O
 .	O
 
 In	O
-Dec	B-Misc
-.	I-Misc
-17	I-Misc
-,	I-Misc
-1829	I-Misc
+Dec	B-Date
+.	I-Date
+17	I-Date
+,	I-Date
+1829	I-Date
 ,	O
 the	O
 newly	O
@@ -106,10 +106,10 @@ to	O
 an	O
 end	O
 on	O
-Apr	B-Misc
-.	I-Misc
-17	I-Misc
-1830	I-Misc
+Apr	B-Date
+.	I-Date
+17	I-Date
+1830	I-Date
 ,	O
 during	O
 the	O
@@ -153,7 +153,7 @@ fit	O
 resulting	O
 in	O
 the	O
-1833	B-Misc	
+1833	B-Date
 Constitution	O
 .	O
 The	O
@@ -190,7 +190,7 @@ country	O
 .	O
 
 In	O
-1818	B-Misc
+1818	B-Date
 ,	O
 Chile	B-Location
 formally	O
@@ -291,7 +291,7 @@ final	O
 straw	O
 came	O
 in	O
-1823	B-Misc
+1823	B-Date
 ,	O
 when	O
 he	O
@@ -425,7 +425,7 @@ citizens	O
 .	O
 
 In	O
-1826	B-Misc
+1826	B-Date
 ,	O
 Freire	B-Person
 resigned	O
@@ -501,7 +501,7 @@ The	O
 idea	O
 resurfaced	O
 in	O
-1828	B-Misc
+1828	B-Date
 ,	O
 when	O
 President	O
@@ -576,7 +576,7 @@ the	O
 presidential	O
 elections	O
 of	O
-1829	B-Misc
+1829	B-Date
 .	O
 According	O
 to	O
@@ -927,7 +927,7 @@ was	O
 named	O
 president	O
 in	O
-1831	B-Misc
+1831	B-Date
 ,	O
 and	O
 Diego	B-Person
@@ -1135,6 +1135,6 @@ some	O
 years	O
 ,	O
 until	O
-1861	B-Misc
+1861	B-Date
 .	O
 

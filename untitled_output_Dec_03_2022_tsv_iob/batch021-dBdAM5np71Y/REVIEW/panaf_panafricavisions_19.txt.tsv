@@ -98,17 +98,17 @@ the	O
 Government	B-Misc
 Gazette	I-Misc
 of	I-Misc
-19	I-Misc	B-Misc
-November	I-Misc	I-Misc
-2021	I-Misc	I-Misc
-,	I-Misc
-26	I-Misc	B-Misc
-November	I-Misc	I-Misc
-2021	I-Misc	I-Misc
-and	I-Misc
-3	I-Misc	B-Misc
-December	I-Misc	I-Misc
-2021	I-Misc	I-Misc
+19	I-Misc	B-Date
+November	I-Misc	I-Date
+2021	I-Misc	I-Date
+,	B-Misc
+26	B-Misc	B-Date
+November	I-Misc	I-Date
+2021	I-Misc	I-Date
+and	B-Misc
+3	B-Misc	B-Date
+December	I-Misc	I-Date
+2021	I-Misc	I-Date
 to	O
 collect	O
 royalties	O
@@ -437,9 +437,9 @@ performer	O
 who	O
 died	O
 after	O
-22	B-Misc
-June	I-Misc
-1972	I-Misc
+22	B-Date
+June	I-Date
+1972	I-Date
 ,	O
 surviving	O
 producer	O
@@ -577,9 +577,9 @@ a	O
 letter	O
 on	O
 the	O
-21	B-Misc
-May	I-Misc
-2022	I-Misc
+21	B-Date
+May	I-Date
+2022	I-Date
 .	O
 He	O
 said	O

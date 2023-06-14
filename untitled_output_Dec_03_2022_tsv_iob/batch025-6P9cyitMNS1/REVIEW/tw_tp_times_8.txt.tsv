@@ -47,7 +47,7 @@ a	O
 source	O
 said	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 Former	O
@@ -93,7 +93,7 @@ in	O
 a	O
 speech	O
 in	O
-2016	B-Misc
+2016	B-Date
 said	O
 Taiwan	B-Location
 would	O
@@ -168,10 +168,10 @@ which	O
 was	O
 founded	O
 on	O
-April	B-Misc
-24	I-Misc
-,	I-Misc
-2019	I-Misc
+April	B-Date
+24	I-Date
+,	I-Date
+2019	I-Date
 ,	O
 the	O
 source	O
@@ -204,7 +204,7 @@ station	O
 was	O
 completed	O
 in	O
-November	B-Misc
+November	B-Date
 last	O
 year	O
 ,	O

@@ -53,8 +53,8 @@ residence	O
 in	O
 London	B-Location
 on	O
-January	B-Misc
-11	I-Misc
+January	B-Date
+11	I-Date
 after	O
 paving	O
 the	O
@@ -80,7 +80,7 @@ right	O
 Faruqi	B-Person
 founded	O
 in	O
-1970	B-Misc
+1970	B-Date
 the	O
 Impact	B-Organization
 International	I-Organization
@@ -197,8 +197,8 @@ Eastern	B-Location
 Uttar	I-Location
 Pradesh	I-Location
 in	O
-January	B-Misc
-1930	I-Misc
+January	B-Date
+1930	I-Date
 ,	O
 Faruqi	B-Person
 formed	O
@@ -230,7 +230,7 @@ entomologist	O
 
 In	O
 the	O
-1960	B-Misc
+1960	B-Date
 s	O
 ,	O
 he	O
@@ -344,7 +344,7 @@ Iranian	B-NORP
 embassy	O
 siege	O
 in	O
-1980	B-Misc
+1980	B-Date
 .	O
 People	O
 remember	O
@@ -358,7 +358,7 @@ peacefully	O
 .	O
 
 In	O
-2003	B-Misc
+2003	B-Date
 ,	O
 he	O
 was	O
@@ -409,7 +409,7 @@ lifetime	O
 achievement	O
 award	O
 in	O
-2013	B-Misc
+2013	B-Date
 .	O
 Describing	O
 his	O

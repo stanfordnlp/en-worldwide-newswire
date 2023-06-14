@@ -67,10 +67,10 @@ and	O
 streaming	O
 online	O
 starting	O
-Friday	B-Misc
-,	I-Misc
-July	I-Misc
-24	I-Misc
+Friday	B-Date
+,	I-Date
+July	I-Date
+24	I-Date
 .	O
 
 APTN	B-Organization

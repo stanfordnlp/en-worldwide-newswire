@@ -32,7 +32,7 @@ PPP	B-Organization
 ,	O
 apologized	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 over	O
 the	O
 hiring	O
@@ -338,7 +338,7 @@ party	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 Chang	B-Person
 openly	O

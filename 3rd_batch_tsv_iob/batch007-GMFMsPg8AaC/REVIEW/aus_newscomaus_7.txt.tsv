@@ -42,7 +42,7 @@ The	O
 RBA	B-Organization
 announced	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 that	O
 it	O
 would	O
@@ -200,7 +200,7 @@ by	O
 per	O
 cent	O
 in	O
-June	B-Misc
+June	B-Date
 (	O
 seasonally	O
 adjusted	O
@@ -298,8 +298,8 @@ by	O
 per	O
 cent	O
 in	O
-June	B-Misc
-2022	I-Misc
+June	B-Date
+2022	I-Date
 to	O
 9,393	O
 ,	O
@@ -397,8 +397,8 @@ in	O
 the	O
 series	O
 since	O
-April	B-Misc
-2020	I-Misc
+April	B-Date
+2020	I-Date
 .	O
 
 The	O
@@ -529,8 +529,8 @@ pandemic	O
 level	O
 seen	O
 in	O
-February	B-Misc
-2020	I-Misc
+February	B-Date
+2020	I-Date
 .	O
 
 Business	O
@@ -568,7 +568,7 @@ in	O
 recent	O
 months	O
 ,	O
-June	B-Misc
+June	B-Date
 also	O
 recorded	O
 a	O
@@ -640,8 +640,8 @@ $	B-Money
 12.7	I-Money
 bn	I-Money
 in	O
-June	B-Misc
-2022	I-Misc
+June	B-Date
+2022	I-Date
 –	O
 24.6	O
 per	O
@@ -670,7 +670,7 @@ falls	O
 followed	O
 rises	O
 in	O
-May	B-Misc
+May	B-Date
 and	O
 could	O
 be	O
@@ -690,7 +690,7 @@ lenders	O
 Even	O
 with	O
 the	O
-June	B-Misc
+June	B-Date
 falls	O
 ,	O
 the	O
@@ -714,8 +714,8 @@ pre	O
 pandemic	O
 level	O
 in	O
-February	B-Misc
-2020	I-Misc
+February	B-Date
+2020	I-Date
 ,	O
 and	O
 the	O
@@ -757,7 +757,7 @@ per	O
 cent	O
 higher	O
 in	O
-June	B-Misc
+June	B-Date
 compared	O
 to	O
 a	O
@@ -801,7 +801,7 @@ RBA	B-Organization
 s	O
 announcement	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 Mr	O
 Lowe	B-Person
@@ -890,7 +890,7 @@ around	O
 per	O
 cent	O
 over	O
-2022	B-Misc
+2022	B-Date
 ,	O
 a	O
 little	O
@@ -899,14 +899,14 @@ above	O
 per	O
 cent	O
 over	O
-2023	B-Misc
+2023	B-Date
 and	O
 around	O
 3	O
 per	O
 cent	O
 over	O
-2024	B-Misc
+2024	B-Date
 .	O
 ”	O
 

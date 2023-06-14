@@ -34,7 +34,7 @@ in	O
 a	O
 row	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 The	O
@@ -61,7 +61,7 @@ it	O
 was	O
 up	O
 until	O
-May	B-Misc
+May	B-Date
 .	O
 
 It	O
@@ -97,7 +97,7 @@ per	O
 cent	O
 inflation	O
 in	O
-1990	B-Misc
+1990	B-Date
 .	O
 
 Governor	O
@@ -258,7 +258,7 @@ Australia	B-Location
 .	O
 ”	O
 
-Tuesday	B-Misc
+Tuesday	B-Date
 ’	O
 s	O
 rate	O

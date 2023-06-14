@@ -95,8 +95,8 @@ of	O
 her	O
 trial	O
 in	O
-November	B-Misc
-2019	I-Misc
+November	B-Date
+2019	I-Date
 .	O
 Usiku	B-Person
 discharged	O
@@ -156,8 +156,8 @@ at	O
 the	O
 end	O
 of	O
-October	B-Misc
-2013	I-Misc
+October	B-Date
+2013	I-Date
 ,	O
 and	O
 that	O
@@ -173,14 +173,14 @@ Zambia	B-Location
 into	O
 Namibia	B-Location
 in	O
-September	B-Misc
+September	B-Date
 and	O
-December	B-Misc
-2017	I-Misc
+December	B-Date
+2017	I-Date
 and	O
 in	O
-April	B-Misc
-2018	I-Misc
+April	B-Date
+2018	I-Date
 .	O
 
 Usiku	B-Person
@@ -288,7 +288,7 @@ had	O
 been	O
 killed	O
 in	O
-2015	B-Misc
+2015	B-Date
 .	O
 The	O
 witness	O
@@ -471,8 +471,8 @@ at	O
 the	O
 end	O
 of	O
-October	B-Misc
-2013	I-Misc
+October	B-Date
+2013	I-Date
 .	O
 
 On	O
@@ -542,8 +542,8 @@ a	O
 presentence	O
 hearing	O
 on	O
-15	B-Misc
-August	I-Misc
+15	B-Date
+August	I-Date
 .	O
 
 Defence	O

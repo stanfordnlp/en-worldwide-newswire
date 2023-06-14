@@ -14,11 +14,11 @@ west	O
 African	B-NORP
 states	O
 on	O
-Monday	B-Misc
-July	I-Misc
-26	I-Misc
-,	I-Misc
-2022	I-Misc
+Monday	B-Date
+July	I-Date
+26	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 in	O
 the	O

@@ -92,7 +92,7 @@ Code	I-Misc
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 Mkhwebane	B-Person
 ’	O
@@ -122,7 +122,7 @@ her	O
 investigation	O
 into	O
 the	O
-2020	B-Misc
+2020	B-Date
 burglary	O
 at	O
 his	O
@@ -372,7 +372,7 @@ suspension	O
 was	O
 initiated	O
 in	O
-March	B-Misc
+March	B-Date
 this	O
 year	O
 ,	O
@@ -450,7 +450,7 @@ hearing	O
 by	O
 Mkhwebane	B-Person
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 She	O
 charged	O
@@ -465,7 +465,7 @@ wrote	O
 to	O
 Parliament	B-Organization
 in	O
-2020	B-Misc
+2020	B-Date
 requesting	O
 an	O
 investigation	O
@@ -480,8 +480,8 @@ He	O
 was	O
 dismissed	O
 in	O
-December	B-Misc
-2020	I-Misc
+December	B-Date
+2020	I-Date
 ,	O
 but	O
 the	O

@@ -27,9 +27,9 @@ complete	O
 
 CAIRO	B-Location
 –	O
-26	B-Misc
-July	I-Misc
-2022	I-Misc
+26	B-Date
+July	I-Date
+2022	I-Date
 :	O
 Saudi	B-Location
 Arabia	I-Location
@@ -63,7 +63,7 @@ to	O
 the	O
 reporters	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 NEOM	B-Location
@@ -127,7 +127,7 @@ coast	O
 .	O
 
 In	O
-2018	B-Misc
+2018	B-Date
 ,	O
 Egypt	B-Location
 announced	O
@@ -151,7 +151,7 @@ by	O
 bin	B-Person
 Salman	I-Person
 in	O
-2017	B-Misc
+2017	B-Date
 .	O
 
 Within	O
@@ -180,7 +180,7 @@ governorate	O
 
 During	O
 his	O
-Tuesday	B-Misc
+Tuesday	B-Date
 remarks	O
 to	O
 the	O
@@ -221,7 +221,7 @@ to	O
 be	O
 listed	O
 by	O
-2024	B-Misc
+2024	B-Date
 .	O
 
 NEOM	B-Location
@@ -260,7 +260,7 @@ investors	O
 .	O
 
 In	O
-2018	B-Misc
+2018	B-Date
 ,	O
 Saudi	B-Location
 Arabia	I-Location
@@ -321,7 +321,7 @@ expected	O
 to	O
 end	O
 in	O
-2025	B-Misc
+2025	B-Date
 while	O
 the	O
 project	O

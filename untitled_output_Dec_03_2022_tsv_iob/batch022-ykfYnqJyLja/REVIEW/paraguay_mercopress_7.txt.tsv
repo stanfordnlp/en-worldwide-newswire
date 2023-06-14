@@ -33,7 +33,7 @@ Ciudad	B-Location
 del	I-Location
 Este	I-Location
 in	O
-May	B-Misc
+May	B-Date
 of	O
 the	O
 Venezuelan	B-NORP
@@ -129,10 +129,10 @@ to	O
 a	O
 document	O
 dated	O
-May	B-Misc
-5	I-Misc
-,	I-Misc
-2022	I-Misc
+May	B-Date
+5	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 Paraguay	B-Location
 's	O
@@ -146,8 +146,8 @@ Dinac	B-Organization
 )	O
 authorized	O
 the	O
-May	B-Misc
-13	I-Misc
+May	B-Date
+13	I-Date
 landing	O
 of	O
 the	O
@@ -311,7 +311,7 @@ at	O
 the	O
 end	O
 of	O
-2019	B-Misc
+2019	B-Date
 .	O
 The	O
 main	O
@@ -353,7 +353,7 @@ Seprelad	B-Organization
 Carlos	B-Person
 Arregui	I-Person
 explained	O
-Thursday	B-Misc
+Thursday	B-Date
 after	O
 being	O
 consult	O
@@ -515,8 +515,8 @@ days	O
 .	O
 
 On	O
-May	B-Misc
-21	I-Misc
+May	B-Date
+21	I-Date
 ,	O
 the	O
 aircraft	O
@@ -527,8 +527,8 @@ for	O
 Tehran	B-Location
 .	O
 On	O
-May	B-Misc
-24	I-Misc
+May	B-Date
+24	I-Date
 it	O
 was	O
 spotted	O
@@ -590,8 +590,8 @@ Portugal	B-Location
 .	O
 
 By	O
-May	B-Misc
-26	I-Misc
+May	B-Date
+26	I-Date
 ,	O
 it	O
 arrived	O
@@ -600,8 +600,8 @@ in	O
 Caracas	B-Location
 and	O
 on	O
-June	B-Misc
-4	I-Misc
+June	B-Date
+4	I-Date
 it	O
 landed	O
 at	O
@@ -611,8 +611,8 @@ in	I-Location
 Mexico	I-Location
 .	O
 On	O
-June	B-Misc
-6	I-Misc
+June	B-Date
+6	I-Date
 ,	O
 the	O
 Ezeiza	B-Location
@@ -638,8 +638,8 @@ auto	O
 parts	O
 .	O
 On	O
-June	B-Misc
-8	I-Misc
+June	B-Date
+8	I-Date
 ,	O
 the	O
 aircraft	O
@@ -714,7 +714,7 @@ Speaker	O
 Óscar	B-Person
 Salomón	I-Person
 said	O
-Thursday	B-Misc
+Thursday	B-Date
 that	O
 those	O
 responsible	O

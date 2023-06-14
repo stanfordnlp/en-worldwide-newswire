@@ -44,7 +44,7 @@ Since	O
 its	O
 construction	O
 in	O
-2016	B-Misc
+2016	B-Date
 ,	O
 this	O
 place	O
@@ -201,8 +201,8 @@ Iran	B-Location
 ,	O
 in	O
 the	O
-XIX	B-Misc
-century	I-Misc
+XIX	B-Date
+century	I-Date
 .	O
 It	O
 ’	O
@@ -434,8 +434,8 @@ dollar	I-Money
 temple	O
 started	O
 in	O
-November	B-Misc
-2010	I-Misc
+November	B-Date
+2010	I-Date
 and	O
 was	O
 finished	O

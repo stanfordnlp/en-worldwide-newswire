@@ -52,7 +52,7 @@ NSTF	I-Misc
 Awards	I-Misc
 ceremony	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 The	O
 finalists	O
@@ -417,7 +417,7 @@ in	O
 this	O
 area	O
 since	O
-1997	B-Misc
+1997	B-Date
 ,	O
 ”	O
 NSTF	B-Organization

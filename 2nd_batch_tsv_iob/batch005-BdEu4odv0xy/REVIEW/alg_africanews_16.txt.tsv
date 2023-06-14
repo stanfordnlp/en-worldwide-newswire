@@ -6,14 +6,14 @@ daily	O
 Liberté	B-Organization
 announced	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 it	O
 would	O
 cease	O
 publication	O
 on	O
-April	B-Misc
-14	I-Misc
+April	B-Date
+14	I-Date
 after	O
 its	O
 owner	O
@@ -91,7 +91,7 @@ shareholders	O
 recorded	O
 the	O
 dissolution	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 "	O
 Liberté	B-Organization
@@ -214,7 +214,7 @@ workers	O
 collective	O
 wrote	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 that	O
 it	O
 did	O
@@ -355,7 +355,7 @@ the	O
 end	O
 of	O
 the	O
-1980	B-Misc
+1980	B-Date
 s	O
 ,	O
 Algeria	B-Location
@@ -457,7 +457,7 @@ op	O
 -	O
 ed	O
 published	O
-Thursday	B-Misc
+Thursday	B-Date
 by	O
 Liberté	B-Organization
 .	O

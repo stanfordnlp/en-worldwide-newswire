@@ -63,10 +63,10 @@ in	O
 Addis	B-Location
 Ababa	I-Location
 on	O
-December	B-Misc
-18	I-Misc
-,	I-Misc
-1903	I-Misc
+December	B-Date
+18	I-Date
+,	I-Date
+1903	I-Date
 .	O
 President	O
 Roosevelt	B-Person
@@ -139,7 +139,7 @@ which	O
 began	O
 well	O
 before	O
-1903	B-Misc
+1903	B-Date
 ,	O
 was	O
 actually	O
@@ -164,7 +164,7 @@ the	O
 unofficial	O
 ties	O
 before	O
-1903	B-Misc
+1903	B-Date
 .	O
 The	O
 first	O
@@ -198,7 +198,7 @@ expedition	O
 to	O
 Ethiopia	B-Location
 in	O
-1868	B-Misc
+1868	B-Date
 led	O
 by	O
 Sir	O
@@ -223,10 +223,10 @@ colorful	O
 connection	O
 in	O
 the	O
-1870	B-Misc
+1870	B-Date
 s	O
 and	O
-1880	B-Misc
+1880	B-Date
 s	O
 between	O
 Ethiopia	B-Location
@@ -302,7 +302,7 @@ the	O
 Eritrean	B-NORP
 coast	O
 in	O
-1875	B-Misc
+1875	B-Date
 .	O
 
 The	O
@@ -420,7 +420,7 @@ in	O
 the	O
 mid	O
 -	O
-1880	B-Misc
+1880	B-Date
 s	O
 .	O
 
@@ -443,7 +443,7 @@ in	O
 the	O
 mid	O
 -	O
-1890	B-Misc
+1890	B-Date
 s	O
 .	O
 Arthur	B-Person
@@ -515,7 +515,7 @@ Somaliland	B-Location
 to	O
 Cairo	B-Location
 in	O
-1900	B-Misc
+1900	B-Date
 ,	O
 passing	O
 through	O
@@ -549,7 +549,7 @@ the	O
 Blue	B-Location
 Nile	I-Location
 in	O
-1903	B-Misc
+1903	B-Date
 .	O
 One	O
 of	O
@@ -590,7 +590,7 @@ met	O
 with	O
 Menelik	B-Person
 in	O
-1903	B-Misc
+1903	B-Date
 and	O
 became	O
 an	O

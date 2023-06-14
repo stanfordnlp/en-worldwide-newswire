@@ -22,7 +22,7 @@ Governor	O
 Manoj	B-Person
 Sinha	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 paid	O
 homage	O
 to	O
@@ -33,7 +33,7 @@ were	O
 killed	O
 in	O
 the	O
-1999	B-Misc	B-Misc
+1999	B-Misc	B-Date
 Kargil	I-Misc	B-Location
 War	I-Misc
 .	O
@@ -93,11 +93,11 @@ He	O
 said	O
 that	O
 on	O
-July	B-Misc
-,	I-Misc
-26	I-Misc
-,	I-Misc
-1999	I-Misc
+July	B-Date
+,	I-Date
+26	I-Date
+,	I-Date
+1999	I-Date
 ,	O
 the	O
 whole	O

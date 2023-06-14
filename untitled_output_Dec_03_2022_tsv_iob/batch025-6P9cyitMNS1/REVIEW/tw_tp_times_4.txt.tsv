@@ -11,7 +11,7 @@ based	O
 company	O
 were	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 granted	O
 deferred	O
 prosecution	O
@@ -110,7 +110,7 @@ business	O
 in	O
 Taiwan	B-Location
 in	O
-2012	B-Misc
+2012	B-Date
 and	O
 opened	O
 an	O
@@ -158,7 +158,7 @@ s	O
 Investigation	B-Organization
 Bureau	I-Organization
 in	O
-March	B-Misc
+March	B-Date
 conducted	O
 searches	O
 at	O

@@ -32,7 +32,7 @@ was	O
 probably	O
 born	O
 around	O
-1470	B-Misc
+1470	B-Date
 .	O
 Several	O
 foreign	O
@@ -164,7 +164,7 @@ earlier	O
 .	O
 
 In	O
-1489	B-Misc
+1489	B-Date
 Abdul	B-Person
 Fath	I-Person
 and	O
@@ -224,7 +224,7 @@ two	O
 years	O
 ,	O
 until	O
-1494	B-Misc
+1494	B-Date
 ,	O
 when	O
 the	O
@@ -410,7 +410,7 @@ decades	O
 ago	O
 ,	O
 in	O
-1986	B-Misc
+1986	B-Date
 ,	O
 in	O
 the	O
@@ -453,7 +453,7 @@ was	O
 chosen	O
 ,	O
 around	O
-1523	B-Misc
+1523	B-Date
 ,	O
 as	O
 the	O
@@ -905,7 +905,7 @@ Galawdewos	B-Person
 s	O
 death	O
 in	O
-1559	B-Misc
+1559	B-Date
 the	O
 latter	O
 ’	O
@@ -934,7 +934,7 @@ he	O
 died	O
 ,	O
 around	O
-1565	B-Person
+1565	B-Date
 ,	O
 at	O
 the	O
@@ -996,9 +996,9 @@ Studi	I-Misc
 Etiopici	I-Misc
 ”	O
 between	O
-1954	B-Misc
+1954	B-Date
 and	O
-1969	B-Misc
+1969	B-Date
 .	O
 
 The	O
@@ -1128,7 +1128,7 @@ Donzel	I-Person
 in	O
 Leiden	B-Location
 in	O
-1969	B-Misc
+1969	B-Date
 .	O
 
 ‘	O
@@ -1142,7 +1142,7 @@ which	O
 was	O
 written	O
 around	O
-1532-3	B-Misc
+1532-3	B-Date
 ,	O
 that	O
 during	O
@@ -1449,7 +1449,7 @@ Abyssinia	I-Misc	B-Location
 was	O
 written	O
 around	O
-1559	B-Misc
+1559	B-Date
 ,	O
 but	O
 tells	O
@@ -1461,7 +1461,7 @@ war	O
 only	O
 to	O
 about	O
-1537	B-Misc
+1537	B-Date
 ,	O
 i	O
 .	O

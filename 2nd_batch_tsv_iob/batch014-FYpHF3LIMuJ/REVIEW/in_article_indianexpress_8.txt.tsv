@@ -12,7 +12,7 @@ got	O
 further	O
 depleted	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 with	O
 the	O
 decommissioning	O
@@ -80,7 +80,7 @@ the	O
 Soviet	B-Organization
 Union	I-Organization
 in	O
-1987	B-Misc
+1987	B-Date
 under	O
 a	O
 deal	O
@@ -311,7 +311,7 @@ commissioned	O
 into	O
 service	O
 by	O
-2023	B-Misc
+2023	B-Date
 .	O
 The	O
 Navy	B-Organization
@@ -373,7 +373,7 @@ by	O
 the	O
 government	O
 in	O
-2020	B-Misc
+2020	B-Date
 but	O
 nothing	O
 has	O
@@ -575,11 +575,11 @@ will	O
 be	O
 delivered	O
 in	O
-2023	B-Misc
+2023	B-Date
 and	O
 the	O
 last	O
 in	O
-2028	B-Misc
+2028	B-Date
 .	O
 

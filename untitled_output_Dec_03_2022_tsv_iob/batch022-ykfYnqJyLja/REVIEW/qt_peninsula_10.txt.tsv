@@ -133,7 +133,7 @@ an	O
 earlier	O
 report	O
 of	O
-May	B-Misc
+May	B-Date
 this	O
 year	O
 ,	O
@@ -377,7 +377,7 @@ Cyber	I-Misc
 Security	I-Misc
 Strategy	I-Misc
 in	O
-2013	B-Misc
+2013	B-Date
 and	O
 established	O
 the	O
@@ -389,7 +389,7 @@ Team	I-Organization
 as	O
 early	O
 as	O
-2006	B-Misc
+2006	B-Date
 .	O
 
 ‘	O

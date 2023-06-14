@@ -123,10 +123,10 @@ contingent	O
 headquarters	O
 here	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 (	O
-July	B-Misc
-25	I-Misc
+July	B-Date
+25	I-Date
 )	O
 .	O
 
@@ -144,7 +144,7 @@ has	O
 been	O
 missing	O
 since	O
-November	B-Misc
+November	B-Date
 last	O
 year	O
 ,	O
@@ -170,8 +170,8 @@ Norman	I-Person
 33	O
 ,	O
 on	O
-Nov	B-Misc
-29	I-Misc
+Nov	B-Date
+29	I-Date
 after	O
 he	O
 failed	O
@@ -179,8 +179,8 @@ to	O
 contact	O
 her	O
 since	O
-Nov	B-Misc
-24	I-Misc
+Nov	B-Date
+24	I-Date
 to	O
 say	O
 that	O

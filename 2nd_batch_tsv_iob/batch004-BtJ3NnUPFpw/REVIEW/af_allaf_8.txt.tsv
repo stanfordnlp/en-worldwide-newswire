@@ -30,11 +30,11 @@ Jamal	B-Person
 Nasser	I-Person
 said	O
 on	O
-Wednesday	B-Misc
-July	I-Misc
-20	I-Misc
-,	I-Misc
-2022	I-Misc
+Wednesday	B-Date
+July	I-Date
+20	I-Date
+,	I-Date
+2022	I-Date
 .	O
 The	O
 new	O

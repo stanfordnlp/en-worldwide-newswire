@@ -77,7 +77,7 @@ Jilin	I-Location
 province	I-Location
 heard	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 Sun	B-Person
@@ -92,7 +92,7 @@ disciplinary	O
 investigation	O
 in	O
 early	O
-2020	B-Misc
+2020	B-Date
 and	O
 prosecutors	O
 in	O
@@ -101,7 +101,7 @@ laid	O
 formal	O
 charges	O
 in	O
-January	B-Misc
+January	B-Date
 this	O
 year	O
 .	O
@@ -112,7 +112,7 @@ bribe	O
 taking	O
 started	O
 in	O
-2001	B-Misc
+2001	B-Date
 ,	O
 when	O
 he	O
@@ -176,8 +176,8 @@ Xinhua	B-Organization
 .	O
 
 In	O
-April	B-Misc
-2020	I-Misc
+April	B-Date
+2020	I-Date
 ,	O
 the	O
 Communist	B-Organization	B-NORP
@@ -211,7 +211,7 @@ year	O
 .	O
 
 In	O
-2018	B-Misc
+2018	B-Date
 ,	O
 at	O
 the	O
@@ -306,7 +306,7 @@ Xinhua	B-Organization
 had	O
 reported	O
 in	O
-September	B-Misc
+September	B-Date
 ,	O
 quoting	O
 the	O
@@ -438,13 +438,13 @@ and	O
 formally	O
 arrested	O
 in	O
-April	B-Misc
+April	B-Date
 .	O
 The	O
 CCDI	B-Organization
 said	O
 in	O
-March	B-Misc
+March	B-Date
 that	O
 Fu	B-Person
 had	O
@@ -507,7 +507,7 @@ a	O
 documentary	O
 series	O
 in	O
-January	B-Misc
+January	B-Date
 ,	O
 Sun	B-Person
 admitted	O
@@ -601,7 +601,7 @@ for	O
 public	O
 security	O
 in	O
-2018	B-Misc
+2018	B-Date
 and	O
 previously	O
 headed	O

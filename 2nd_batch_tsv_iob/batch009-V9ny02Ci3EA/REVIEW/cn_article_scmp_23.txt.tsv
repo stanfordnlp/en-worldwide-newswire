@@ -5,10 +5,10 @@ pgtype	O
 homepage	O
 
 On	O
-July	B-Misc
-15	I-Misc
-,	I-Misc
-2012	I-Misc
+July	B-Date
+15	I-Date
+,	I-Date
+2012	I-Date
 ,	O
 South	B-NORP
 Korean	I-NORP
@@ -191,8 +191,8 @@ metrics	O
 .	O
 
 On	O
-July	B-Misc
-17	I-Misc
+July	B-Date
+17	I-Date
 ,	O
 South	B-Location
 Korea	I-Location
@@ -230,7 +230,7 @@ the	O
 first	O
 half	O
 of	O
-2022	B-Misc
+2022	B-Date
 .	O
 That	O
 ’	O
@@ -244,7 +244,7 @@ the	O
 same	O
 period	O
 in	O
-2021	B-Misc
+2021	B-Date
 and	O
 more	O
 than	O
@@ -257,7 +257,7 @@ the	O
 same	O
 period	O
 in	O
-2018	B-Misc
+2018	B-Date
 .	O
 
 Then	O
@@ -435,7 +435,7 @@ The	O
 second	O
 half	O
 of	O
-2022	B-Misc
+2022	B-Date
 is	O
 gearing	O
 up	O
@@ -450,7 +450,7 @@ K	B-Misc
 pop	I-Misc
 acts	O
 .	O
-Sunday	B-Misc
+Sunday	B-Date
 saw	O
 the	O
 news	O
@@ -574,7 +574,7 @@ definitive	O
 musical	O
 hit	O
 in	O
-2022	B-Misc
+2022	B-Date
 ?	O
 
 Of	O

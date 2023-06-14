@@ -12,7 +12,7 @@ after	O
 an	O
 accident	O
 last	O
-Friday	B-Misc
+Friday	B-Date
 and	O
 is	O
 now	O
@@ -32,10 +32,10 @@ a	O
 press	O
 conference	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 (	O
-July	B-Misc
-25	I-Misc
+July	B-Date
+25	I-Date
 )	O
 ,	O
 his	O
@@ -85,7 +85,7 @@ X	I-Product
 in	O
 Taoyuan	B-Location
 last	O
-Friday	B-Misc
+Friday	B-Date
 when	O
 the	O
 car	O
@@ -283,7 +283,7 @@ Taiwanese	B-NORP
 police	O
 said	O
 last	O
-Friday	B-Misc
+Friday	B-Date
 that	O
 according	O
 to	O
@@ -315,7 +315,7 @@ accident	O
 .	O
 
 On	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 Jimmy	B-Person
 Lin	I-Person
@@ -466,7 +466,7 @@ Kaneshiro	I-Person
 ,	O
 in	O
 the	O
-1990	B-Misc
+1990	B-Date
 s	O
 .	O
 
@@ -486,7 +486,7 @@ Swordsman	I-Misc
 Lu	I-Misc	B-Person
 Xiaofeng	I-Misc	I-Person
 (	O
-2000	B-Misc
+2000	B-Date
 )	O
 and	O
 Demi	B-Misc
@@ -497,7 +497,7 @@ Semi	I-Misc
 -	I-Misc
 Devils	I-Misc
 (	O
-2003	B-Misc
+2003	B-Date
 )	O
 ,	O
 and	O
@@ -525,7 +525,7 @@ Dad	I-Misc
 with	O
 Kimi	B-Person
 in	O
-2013	B-Misc
+2013	B-Date
 .	O
 
 Lin	B-Person
@@ -543,7 +543,7 @@ first	O
 car	O
 race	O
 in	O
-1997	B-Misc
+1997	B-Date
 and	O
 formed	O
 his	O
@@ -551,7 +551,7 @@ first	O
 racing	O
 team	O
 in	O
-2006	B-Misc
+2006	B-Date
 .	O
 He	O
 met	O
@@ -561,7 +561,7 @@ racing	O
 car	O
 accident	O
 in	O
-1998	B-Misc
+1998	B-Date
 and	O
 fractured	O
 three	O

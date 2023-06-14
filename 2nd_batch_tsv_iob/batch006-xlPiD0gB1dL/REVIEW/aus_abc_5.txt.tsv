@@ -57,7 +57,7 @@ doors	O
 in	O
 Redfern	B-Location
 on	O
-Monday	B-Misc
+Monday	B-Date
 after	O
 failed	O
 negotiations	O
@@ -113,8 +113,8 @@ to	O
 the	O
 NSWALC	B-Organization
 on	O
-June	B-Misc
-30	I-Misc
+June	B-Date
+30	I-Date
 .	O
 
 But	O
@@ -140,7 +140,7 @@ The	O
 centre	O
 opened	O
 in	O
-2006	B-Misc
+2006	B-Date
 and	O
 offers	O
 sports	O
@@ -206,7 +206,7 @@ meeting	O
 with	O
 NSWALC	B-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 She	O
@@ -257,7 +257,7 @@ staff	O
 were	O
 told	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 they	O
 would	O
 no	O
@@ -595,7 +595,7 @@ over	O
 years	O
 ,	O
 in	O
-2006	B-Misc
+2006	B-Date
 .	O
 
 Tribal	B-Organization

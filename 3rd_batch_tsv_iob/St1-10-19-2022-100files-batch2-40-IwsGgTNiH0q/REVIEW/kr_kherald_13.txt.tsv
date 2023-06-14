@@ -40,7 +40,7 @@ an	O
 outside	O
 economic	O
 adviser	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 his	O
 office	O
@@ -67,9 +67,9 @@ Moo	I-Person
 -	I-Person
 hyun	I-Person
 from	O
-2006	B-Misc
+2006	B-Date
 to	O
-2007	B-Misc
+2007	B-Date
 after	O
 spending	O
 decades	O
@@ -86,7 +86,7 @@ and	O
 planning	O
 minister	O
 from	O
-2005-06	B-Misc
+2005-06	B-Date
 .	O
 
 "	O
@@ -161,7 +161,7 @@ press	O
 corps	O
 .	O
 On	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 it	O
 appeared	O

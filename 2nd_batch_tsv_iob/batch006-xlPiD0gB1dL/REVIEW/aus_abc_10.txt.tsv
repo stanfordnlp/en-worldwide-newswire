@@ -200,8 +200,8 @@ years	O
 
 It	O
 was	O
-March	B-Misc
-1914	I-Misc
+March	B-Date
+1914	I-Date
 ,	O
 and	O
 the	O
@@ -409,8 +409,8 @@ shame	O
 .	O
 
 In	O
-June	B-Misc
-2020	I-Misc
+June	B-Date
+2020	I-Date
 ,	O
 Ms	O
 Downes	B-Person
@@ -572,7 +572,7 @@ Tighe	B-Person
 was	O
 born	O
 in	O
-1869	B-Misc
+1869	B-Date
 on	O
 a	O
 station	O
@@ -664,7 +664,7 @@ Vera	B-Person
 death	O
 ,	O
 in	O
-1917	B-Misc
+1917	B-Date
 ,	O
 Mrs	O
 Tighe	B-Person
@@ -731,7 +731,7 @@ deliver	O
 a	O
 baby	O
 in	O
-1919	B-Misc
+1919	B-Date
 ,	O
 but	O
 few	O
@@ -757,7 +757,7 @@ Brisbane	B-Facility	B-Location
 Toowong	I-Facility	I-Location
 Cemetery	I-Facility
 in	O
-1940	B-Misc
+1940	B-Date
 .	O
 
 Mr	O

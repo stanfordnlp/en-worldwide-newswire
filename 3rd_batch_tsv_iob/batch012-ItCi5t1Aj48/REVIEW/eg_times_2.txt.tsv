@@ -61,8 +61,8 @@ which	O
 took	O
 effect	O
 on	O
-1	B-Misc
-June	I-Misc
+1	B-Date
+June	I-Date
 ,	O
 suspends	O
 individual	O
@@ -278,7 +278,7 @@ lived	O
 in	O
 Cairo	B-Location
 since	O
-1990	B-Misc
+1990	B-Date
 .	O
 He	O
 says	O
@@ -574,7 +574,7 @@ by	O
 both	O
 governments	O
 in	O
-June	B-Misc
+June	B-Date
 and	O
 gives	O
 citizens	O
@@ -669,7 +669,7 @@ where	O
 it	O
 was	O
 before	O
-1995	B-Misc
+1995	B-Date
 .	O
 ”	O
 
@@ -680,7 +680,7 @@ relations	O
 with	O
 Sudan	B-Location
 in	O
-1995	B-Misc
+1995	B-Date
 after	O
 the	O
 Sudanese	B-NORP
@@ -888,10 +888,10 @@ will	O
 be	O
 revisited	O
 on	O
-1	B-Misc
-December	I-Misc
-,	I-Misc
-2005	I-Misc
+1	B-Date
+December	I-Date
+,	I-Date
+2005	I-Date
 .	O
 
 “	O

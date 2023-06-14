@@ -5,9 +5,9 @@ and	O
 KUALA	B-Location
 LUMPUR	I-Location
 ,	O
-Jul	B-Misc
-26	I-Misc
-2022	I-Misc
+Jul	B-Date
+26	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -92,9 +92,9 @@ Western	B-NORP
 interests	O
 .	O
 From	O
-1445	B-Misc
+1445	B-Date
 to	O
-1870	B-Misc
+1870	B-Date
 ,	O
 Africa	B-Location
 was	O
@@ -323,7 +323,7 @@ food	O
 producer	O
 in	O
 the	O
-1970	B-Misc
+1970	B-Date
 s	O
 to	O
 an	O
@@ -332,7 +332,7 @@ dependent	O
 food	O
 importer	O
 by	O
-2022	B-Misc
+2022	B-Date
 ?	O
 ”	O
 
@@ -367,7 +367,7 @@ institutions	O
 UNCTAD	B-Organization
 ’	O
 s	O
-2022	B-Misc
+2022	B-Date
 Africa	B-Location
 report	O
 is	O
@@ -549,14 +549,14 @@ about	O
 3	O
 %	O
 in	O
-1970	B-Misc
+1970	B-Date
 to	O
 less	O
 than	O
 2	O
 %	O
 in	O
-2013	B-Misc
+2013	B-Date
 .	O
 
 About	O
@@ -579,7 +579,7 @@ food	O
 exporter	O
 until	O
 the	O
-1970	B-Misc
+1970	B-Date
 s	O
 ,	O
 the	O
@@ -664,11 +664,11 @@ food	O
 insecure	O
 ’	O
 in	O
-2016	B-Misc
+2016	B-Date
 .	O
 
 In	O
-2020	B-Misc
+2020	B-Date
 ,	O
 281.6	O
 million	O
@@ -681,7 +681,7 @@ million	O
 more	O
 than	O
 in	O
-2000	B-Misc
+2000	B-Date
 !	O
 Another	O
 46	O
@@ -749,7 +749,7 @@ subjected	O
 to	O
 from	O
 the	O
-1980	B-Misc
+1980	B-Date
 s	O
 .	O
 The	O
@@ -799,10 +799,10 @@ oversold	O
 ,	O
 ensuring	O
 the	O
-1980	B-Misc
+1980	B-Date
 s	O
 and	O
-1990	B-Misc
+1990	B-Date
 s	O
 were	O
 ‘	O
@@ -889,7 +889,7 @@ abandoned	O
 in	O
 the	O
 late	O
-1990	B-Misc
+1990	B-Date
 s	O
 following	O
 growing	O
@@ -986,8 +986,8 @@ countries	O
 reneged	O
 on	O
 their	O
-2005	B-Misc
-Gleneagles	B-Misc	
+2005	B-Date
+Gleneagles	B-Misc
 pledge	O
 –	O
 to	O
@@ -1038,7 +1038,7 @@ promised	O
 developing	O
 nations	O
 in	O
-2009	B-Misc
+2009	B-Date
 .	O
 
 The	O
@@ -1047,7 +1047,7 @@ G	I-Misc	B-Organization
 20	I-Misc	I-Organization
 ’	O
 s	O
-2017	B-Misc
+2017	B-Date
 ‘	O
 Compact	B-Misc
 with	I-Misc
@@ -1131,7 +1131,7 @@ countries	O
 efforts	O
 at	O
 the	O
-2015	B-Misc
+2015	B-Date
 Addis	B-Location
 Ababa	I-Location
 UN	B-Organization
@@ -1168,9 +1168,9 @@ illicit	O
 financial	O
 flows	O
 between	O
-1980	B-Misc
+1980	B-Date
 and	O
-2009	B-Misc
+2009	B-Date
 –	O
 about	O
 four	O
@@ -1179,7 +1179,7 @@ its	O
 external	O
 debt	O
 in	O
-2013	B-Misc
+2013	B-Date
 .	O
 This	O
 greatly	O

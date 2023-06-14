@@ -13,7 +13,7 @@ were	O
 launched	O
 ,	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 in	O
 Curepipe	B-Organization	B-Location
 College	I-Organization
@@ -570,7 +570,7 @@ College	I-Organization
 stretches	O
 back	O
 to	O
-1962	B-Misc
+1962	B-Date
 during	O
 the	O
 pre	O
@@ -648,9 +648,9 @@ For	O
 the	O
 academic	O
 year	O
-2020	B-Misc
+2020	B-Date
 –	O
-2021	B-Misc
+2021	B-Date
 ,	O
 Curepipe	B-Organization	B-Location
 College	I-Organization

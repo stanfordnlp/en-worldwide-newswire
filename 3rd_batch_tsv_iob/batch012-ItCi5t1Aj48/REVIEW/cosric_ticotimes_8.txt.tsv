@@ -33,7 +33,7 @@ Meteorological	I-Organization
 Organization	I-Organization
 report	O
 warned	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 In	O
@@ -53,7 +53,7 @@ Caribbean	B-Location
 LAC	B-Location
 )	O
 for	O
-2021	B-Misc
+2021	B-Date
 ,	O
 the	O
 WMO	B-Organization
@@ -155,7 +155,7 @@ were	O
 the	O
 highest	O
 since	O
-2009	B-Misc
+2009	B-Date
 ,	O
 a	O
 blow	O
@@ -180,7 +180,7 @@ deforestation	O
 doubled	O
 from	O
 the	O
-2009-2018	B-Misc
+2009-2018	B-Date
 average	O
 ,	O
 with	O
@@ -191,7 +191,7 @@ forest	O
 area	O
 lost	O
 in	O
-2021	B-Misc
+2021	B-Date
 than	O
 the	O
 previous	O
@@ -247,7 +247,7 @@ on	O
 record	O
 for	O
 the	O
-2021	B-Misc
+2021	B-Date
 Atlantic	B-NORP
 hurricane	O
 season	O
@@ -415,7 +415,7 @@ of	O
 food	O
 insecurity	O
 in	O
-2021	B-Misc
+2021	B-Date
 .	O
 
 The	O
@@ -437,9 +437,9 @@ Celsius	O
 per	O
 decade	O
 between	O
-1991	B-Misc
+1991	B-Date
 and	O
-2021	B-Misc
+2021	B-Date
 ,	O
 said	O
 the	O
@@ -447,7 +447,7 @@ report	O
 —	O
 double	O
 the	O
-1961-1990	B-Misc
+1961-1990	B-Date
 rate	O
 .	O
 

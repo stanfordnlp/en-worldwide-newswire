@@ -45,10 +45,10 @@ its	O
 new	O
 chairman	O
 on	O
-June	B-Misc
-3	I-Misc
-,	I-Misc
-2015	I-Misc
+June	B-Date
+3	I-Date
+,	I-Date
+2015	I-Date
 ,	O
 KGCCI	B-Organization
 announced	O
@@ -166,12 +166,12 @@ of	O
 the	O
 KGCCI	B-Organization
 since	O
-2002	B-Misc
+2002	B-Date
 and	O
 as	O
 chairman	O
 since	O
-2010	B-Misc
+2010	B-Date
 .	O
 
 Cho	B-Person

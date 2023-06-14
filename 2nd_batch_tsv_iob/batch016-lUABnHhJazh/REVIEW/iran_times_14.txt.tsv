@@ -493,12 +493,12 @@ held	O
 to	O
 during	O
 the	O
-1970	B-Misc
+1970	B-Date
 s	O
 and	O
 early	O
-'	B-Misc
-80	I-Misc
+'	B-Date
+80	I-Date
 s	O
 .	O
 The	O
@@ -544,7 +544,7 @@ died	O
 in	O
 the	O
 late	O
-2000	B-Misc
+2000	B-Date
 s	O
 and	O
 the	O
@@ -588,7 +588,7 @@ settlement	O
 based	O
 on	O
 the	O
-1967	B-Misc
+1967	B-Date
 borders	O
 .	O
 The	O
@@ -1522,11 +1522,11 @@ the	O
 confines	O
 of	O
 the	O
-1990	B-Misc
+1990	B-Date
 s	O
 and	O
 early	O
-2000	B-Misc
+2000	B-Date
 s	O
 .	O
 
@@ -1648,11 +1648,11 @@ Iran	B-Location
 nuclear	O
 deal	O
 of	O
-2015	B-Misc
+2015	B-Date
 .	O
 During	O
 the	O
-Trump	B-Person
+Trump	B-Date
 years	O
 ,	O
 the	O

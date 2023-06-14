@@ -139,10 +139,10 @@ of	O
 selling	O
 alcohol	O
 on	O
-November	B-Misc
-17	I-Misc
-,	I-Misc
-2021	I-Misc
+November	B-Date
+17	I-Date
+,	I-Date
+2021	I-Date
 which	O
 included	O
 shutting	O
@@ -386,7 +386,7 @@ for	O
 women	O
 .	O
 In	O
-January	B-Misc
+January	B-Date
 ,	O
 the	O
 BJP	B-Organization
@@ -407,7 +407,7 @@ liquor	O
 shops	O
 
 In	O
-2021	B-Misc
+2021	B-Date
 ,	O
 849	O
 liquor	O
@@ -440,14 +440,14 @@ to	O
 649	O
 stores	O
 in	O
-May	B-Misc
+May	B-Date
 .	O
 This	O
 dropped	O
 to	O
 464	O
 in	O
-June	B-Misc
+June	B-Date
 .	O
 Many	O
 license	O

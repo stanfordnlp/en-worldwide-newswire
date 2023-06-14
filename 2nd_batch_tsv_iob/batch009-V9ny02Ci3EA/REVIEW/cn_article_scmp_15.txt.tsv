@@ -156,7 +156,7 @@ free	O
 
 Even	O
 in	O
-2020	B-Misc
+2020	B-Date
 ,	O
 in	O
 the	O
@@ -183,8 +183,8 @@ the	O
 trails	O
 over	O
 the	O
-May	B-Misc
-1	I-Misc
+May	B-Date
+1	I-Date
 weekend	O
 ,	O
 their	O
@@ -200,7 +200,7 @@ of	O
 
 And	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 with	O
 the	O
@@ -260,7 +260,7 @@ over	O
 the	O
 holiday	O
 ending	O
-Wednesday	B-Misc
+Wednesday	B-Date
 is	O
 expected	O
 to	O
@@ -355,7 +355,7 @@ times	O
 As	O
 early	O
 as	O
-2020	B-Misc
+2020	B-Date
 ,	O
 fearing	O
 the	O
@@ -628,7 +628,7 @@ has	O
 been	O
 closed	O
 since	O
-March	B-Misc
+March	B-Date
 ,	O
 when	O
 Jiangxi	B-Location
@@ -763,7 +763,7 @@ prevention	O
 measures	O
 .	O
 In	O
-2021	B-Misc
+2021	B-Date
 ,	O
 when	O
 the	O
@@ -788,12 +788,12 @@ year	O
 ,	O
 during	O
 the	O
-January	B-Misc
-31	I-Misc
--	I-Misc
-February	I-Misc
-6	I-Misc
-Lunar	I-Misc
+January	B-Date
+31	I-Date
+-	I-Date
+February	I-Date
+6	I-Date
+Lunar	B-Misc
 New	I-Misc
 Year	I-Misc
 holiday	O
@@ -812,7 +812,7 @@ become	O
 empty	O
 again	O
 in	O
-March	B-Misc
+March	B-Date
 ,	O
 when	O
 the	O
@@ -871,7 +871,7 @@ tourism	O
 ”	O
 .	O
 In	O
-March	B-Misc
+March	B-Date
 ,	O
 during	O
 a	O

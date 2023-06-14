@@ -52,7 +52,7 @@ State	B-Organization
 Council	I-Organization
 ,	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 Li	B-Person
 called	O
@@ -237,7 +237,7 @@ was	O
 per	O
 cent	O
 in	O
-May	B-Misc
+May	B-Date
 ,	O
 up	O
 from	O
@@ -245,7 +245,7 @@ from	O
 per	O
 cent	O
 in	O
-December	B-Misc
+December	B-Date
 ,	O
 according	O
 to	O
@@ -513,7 +513,7 @@ Guangdong	B-Location
 a	O
 theatre	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 had	O
 to	O
 apologise	O

@@ -5,7 +5,7 @@ afternoon	O
 in	O
 mid	O
 -	O
-February	B-Misc
+February	B-Date
 ,	O
 Algerian	B-NORP
 activist	O
@@ -96,7 +96,7 @@ democracy	O
 protests	O
 starting	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 leading	O
 to	O
@@ -331,8 +331,8 @@ crime	O
 was	O
 launched	O
 on	O
-May	B-Misc
-19	I-Misc
+May	B-Date
+19	I-Date
 by	O
 dozens	O
 of	O
@@ -353,7 +353,7 @@ S	I-Organization	I-Location
 State	I-Organization
 Department	I-Organization
 's	O
-2021	B-Misc
+2021	B-Date
 country	O
 report	O
 on	O
@@ -386,7 +386,7 @@ association	O
 .	O
 
 In	O
-March	B-Misc
+March	B-Date
 ,	O
 the	O
 U	B-Organization
@@ -554,8 +554,8 @@ enemies	O
 The	O
 initiative	O
 precedes	O
-July	B-Misc
-5	I-Misc
+July	B-Date
+5	I-Date
 celebrations	O
 of	O
 the	O

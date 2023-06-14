@@ -921,7 +921,7 @@ during	O
 the	O
 month	O
 of	O
-June	B-Misc
+June	B-Date
 to	O
 a	O
 number	O
@@ -989,7 +989,7 @@ QR	B-Money
 in	O
 aid	O
 in	O
-June	B-Misc
+June	B-Date
 this	O
 year	O
 .	O
@@ -1006,7 +1006,7 @@ the	O
 Foundation	B-Organization
 during	O
 last	O
-June	B-Misc
+June	B-Date
 amounted	O
 to	O
 more	O

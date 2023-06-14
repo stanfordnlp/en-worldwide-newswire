@@ -351,7 +351,7 @@ fled	O
 to	O
 Israel	B-Location
 in	O
-2008	B-Misc
+2008	B-Date
 after	O
 allegations	O
 surfaced	O
@@ -1126,8 +1126,8 @@ to	O
 JCW	B-Organization
 and	O
 a	O
-February	B-Misc
-2018	I-Misc
+February	B-Date
+2018	I-Date
 report	O
 by	O
 Israel	B-Location
@@ -1146,9 +1146,9 @@ the	O
 United	B-Location
 States	I-Location
 between	O
-2000	B-Misc
+2000	B-Date
 and	O
-2001	B-Misc
+2001	B-Date
 and	O
 eventually	O
 moved	O
@@ -1219,7 +1219,7 @@ have	O
 emerged	O
 .	O
 In	O
-February	B-Misc
+February	B-Date
 ,	O
 Australia	B-Location
 ’	O
@@ -1297,9 +1297,9 @@ in	O
 Bnei	B-Location
 Brak	I-Location
 over	O
-20	B-Misc
-years	I-Misc
-ago	I-Misc
+20	B-Date
+years	I-Date
+ago	I-Date
 .	O
 
 Asked	O
@@ -1361,7 +1361,7 @@ it	O
 was	O
 reported	O
 in	O
-February	B-Misc
+February	B-Date
 that	O
 Israel	B-Location
 ’	O
@@ -1730,7 +1730,7 @@ related	O
 civil	O
 case	O
 in	O
-2015	B-Misc
+2015	B-Date
 —	O
 speaks	O
 to	O

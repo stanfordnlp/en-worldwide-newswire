@@ -82,10 +82,10 @@ in	O
 a	O
 statement	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 (	O
-July	B-Misc
-25	I-Misc
+July	B-Date
+25	I-Date
 )	O
 night	O
 .	O
@@ -159,7 +159,7 @@ Macau	B-Location
 .	O
 
 In	O
-2017	B-Misc
+2017	B-Date
 ,	O
 Teow	B-Person
 was	O
@@ -194,7 +194,7 @@ penalty	O
 .	O
 
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 Malaysian	B-NORP
 authorities	O

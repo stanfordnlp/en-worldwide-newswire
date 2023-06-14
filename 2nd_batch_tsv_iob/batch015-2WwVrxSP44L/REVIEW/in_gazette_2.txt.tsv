@@ -149,7 +149,7 @@ all	O
 limits	O
 .	O
 Last	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 at	O
 the	O
@@ -366,13 +366,13 @@ coincided	O
 with	O
 the	O
 last	O
-Friday	B-Misc
+Friday	B-Date
 of	O
 the	O
 Holy	O
 Month	O
 of	O
-Ramazan	B-Misc
+Ramazan	B-Date
 .	O
 
 The	O
@@ -588,7 +588,7 @@ s	O
 entry	O
 issue	O
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 has	O
 been	O
@@ -974,7 +974,7 @@ The	O
 dwindling	O
 number	O
 at	O
-Sunday	B-Misc
+Sunday	B-Date
 congregations	O
 has	O
 alarmed	O
@@ -1323,7 +1323,7 @@ action	O
 a	O
 day	O
 before	O
-Eid	B-Misc
+Eid	B-Date
 .	O
 Only	O
 the	O
@@ -1389,7 +1389,7 @@ What	O
 he	O
 said	O
 last	O
-Friday	B-Misc
+Friday	B-Date
 is	O
 gaining	O
 acceptance	O

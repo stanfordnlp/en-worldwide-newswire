@@ -86,7 +86,7 @@ in	O
 this	O
 regard	O
 in	O
-2016	B-Misc
+2016	B-Date
 .	O
 Even	O
 before	O
@@ -108,7 +108,7 @@ led	O
 by	O
 Khomeini	B-Person
 in	O
-1979	B-Misc
+1979	B-Date
 .	O
 
 Iran	B-Location

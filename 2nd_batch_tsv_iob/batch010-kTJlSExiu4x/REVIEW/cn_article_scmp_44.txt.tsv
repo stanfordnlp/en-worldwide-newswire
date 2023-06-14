@@ -15,7 +15,7 @@ to	O
 be	O
 held	O
 in	O
-2024	B-Misc
+2024	B-Date
 .	O
 This	O
 will	O
@@ -221,7 +221,7 @@ leading	O
 up	O
 to	O
 the	O
-2024	B-Misc
+2024	B-Date
 presidential	O
 election	O
 ,	O
@@ -230,7 +230,7 @@ he	O
 did	O
 during	O
 the	O
-2019	B-Misc
+2019	B-Date
 elections	O
 .	O
 
@@ -275,7 +275,7 @@ view	O
 is	O
 that	O
 the	O
-2024	B-Misc
+2024	B-Date
 election	O
 remains	O
 high	O
@@ -301,7 +301,7 @@ successor	O
 Ahead	O
 of	O
 the	O
-2019	B-Misc
+2019	B-Date
 presidential	O
 polls	O
 ,	O
@@ -313,9 +313,9 @@ budget	O
 –	O
 tabled	O
 in	O
-August	B-Misc
-of	I-Misc
-2018	I-Misc
+August	B-Date
+of	I-Date
+2018	I-Date
 –	O
 was	O
 characterised	O
@@ -340,7 +340,7 @@ spending	O
 plan	O
 ,	O
 the	O
-2019	B-Misc
+2019	B-Date
 budget	O
 did	O
 indeed	O
@@ -366,7 +366,7 @@ by	O
 per	O
 cent	O
 from	O
-2018	B-Misc
+2018	B-Date
 .	O
 By	O
 appealing	O
@@ -407,7 +407,7 @@ of	O
 Central	B-Location
 Java	I-Location
 from	O
-2018-2023	B-Misc
+2018-2023	B-Date
 ,	O
 which	O
 makes	O
@@ -418,7 +418,7 @@ likely	O
 presidential	O
 candidate	O
 for	O
-2024	B-Misc
+2024	B-Date
 .	O
 
 Jokowi	B-Person
@@ -547,9 +547,9 @@ by	O
 per	O
 cent	O
 from	O
-2019	B-Misc
-to	I-Misc
-2022	I-Misc
+2019	B-Date
+to	I-Date
+2022	I-Date
 ,	O
 from	O
 107	B-Money
@@ -562,13 +562,13 @@ $	I-Money
 billion	I-Money
 )	O
 in	O
-2019	B-Misc
+2019	B-Date
 to	O
 147	B-Money
 trillion	I-Money
 rupiah	I-Money
 in	O
-2022	B-Misc
+2022	B-Date
 .	O
 This	O
 is	O
@@ -686,7 +686,7 @@ a	O
 presidential	O
 candidate	O
 in	O
-2024	B-Misc
+2024	B-Date
 who	O
 will	O
 continue	O
@@ -724,7 +724,7 @@ legacy	O
 Social	O
 spending	O
 in	O
-2023	B-Misc
+2023	B-Date
 is	O
 expected	O
 to	O

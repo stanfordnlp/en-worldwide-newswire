@@ -47,7 +47,7 @@ initiative	O
 ,	O
 officials	O
 said	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Dunamu	B-Organization
@@ -85,7 +85,7 @@ movement	O
 in	O
 Seoul	B-Location
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 Through	O

@@ -47,8 +47,8 @@ rule	O
 
 At	O
 the	O
-May	B-Misc
-15	I-Misc
+May	B-Date
+15	I-Date
 ceremony	O
 here	O
 ,	O
@@ -159,7 +159,7 @@ to	O
 Japanese	B-NORP
 sovereignty	O
 in	O
-1972	B-Misc
+1972	B-Date
 ,	O
 the	O
 southernmost	O
@@ -293,7 +293,7 @@ re	O
 -	O
 election	O
 in	O
-September	B-Misc
+September	B-Date
 .	O
 He	O
 no	O
@@ -395,7 +395,7 @@ Japan	B-Location
 invaded	O
 Ukraine	B-Location
 in	O
-February	B-Misc
+February	B-Date
 .	O
 
 The	O
@@ -479,8 +479,8 @@ by	O
 reporters	O
 after	O
 the	O
-May	B-Misc
-15	I-Misc
+May	B-Date
+15	I-Date
 ceremony	O
 ,	O
 Kishida	B-Person
@@ -662,7 +662,7 @@ the	O
 two	O
 countries	O
 in	O
-1996	B-Misc
+1996	B-Date
 to	O
 close	O
 the	O
@@ -690,7 +690,7 @@ in	O
 Okinawa	B-Location
 Prefecture	I-Location
 in	O
-2000	B-Misc
+2000	B-Date
 in	O
 a	O
 show	O
@@ -814,7 +814,7 @@ $	B-Money
 )	O
 in	O
 fiscal	O
-2018	B-Misc
+2018	B-Date
 ,	O
 compared	O
 with	O
@@ -858,7 +858,7 @@ tourism	O
 
 In	O
 fiscal	O
-2018	B-Misc
+2018	B-Date
 ,	O
 more	O
 than	O
@@ -1088,8 +1088,8 @@ did	O
 not	O
 materialize	O
 by	O
-May	B-Misc
-15	I-Misc
+May	B-Date
+15	I-Date
 because	O
 opposition	O
 members	O
@@ -1158,7 +1158,7 @@ went	O
 into	O
 force	O
 in	O
-1960	B-Misc
+1960	B-Date
 .	O
 
 Critics	O

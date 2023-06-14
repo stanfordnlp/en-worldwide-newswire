@@ -98,7 +98,7 @@ to	O
 the	O
 Maldives	B-Location
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 after	O
 thousands	O
 of	O
@@ -120,7 +120,7 @@ a	O
 Saudi	B-NORP
 plane	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 as	O
 the	O
 nation	O
@@ -169,7 +169,7 @@ of	O
 Mahinda	B-Person
 Rajapaksa	I-Person
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 said	O
 the	O
 former	O
@@ -332,7 +332,7 @@ social	O
 media	O
 platform	O
 in	O
-May	B-Misc
+May	B-Date
 ,	O
 Gotabaya	B-Person
 ’	O
@@ -396,7 +396,7 @@ presidential	O
 candidate	O
 in	O
 the	O
-2019	B-Misc
+2019	B-Date
 elections	O
 .	O
 
@@ -670,7 +670,7 @@ who	O
 entered	O
 politics	O
 in	O
-1970	B-Misc
+1970	B-Date
 ,	O
 became	O
 Sri	B-Location
@@ -681,7 +681,7 @@ fifth	O
 executive	O
 president	O
 in	O
-2005	B-Misc
+2005	B-Date
 after	O
 a	O
 closely	O
@@ -784,7 +784,7 @@ war	O
 that	O
 ended	O
 in	O
-2009	B-Misc
+2009	B-Date
 ,	O
 Mahinda	B-Person
 ’	O
@@ -876,7 +876,7 @@ Mahinda	B-Person
 remained	O
 president	O
 till	O
-2015	B-Misc
+2015	B-Date
 ,	O
 when	O
 he	O
@@ -892,7 +892,7 @@ made	O
 a	O
 comeback	O
 in	O
-2019	B-Misc
+2019	B-Date
 when	O
 Gotabaya	B-Person
 won	O
@@ -908,8 +908,8 @@ the	O
 wake	O
 of	O
 the	O
-Easter	B-Misc
-Sunday	I-Misc
+Easter	B-Date
+Sunday	I-Date
 bombings	O
 .	O
 

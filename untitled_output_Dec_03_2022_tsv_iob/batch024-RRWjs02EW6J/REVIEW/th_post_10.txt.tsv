@@ -40,7 +40,7 @@ against	O
 the	O
 government	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 Pakornwut	B-Person
 Udompipatsakul	I-Person
@@ -84,7 +84,7 @@ company	O
 was	O
 established	O
 in	O
-1996	B-Misc
+1996	B-Date
 ,	O
 with	O
 80	O
@@ -109,7 +109,7 @@ he	O
 entered	O
 politics	O
 in	O
-1997	B-Misc
+1997	B-Date
 .	O
 However	O
 he	O
@@ -121,7 +121,7 @@ a	O
 major	O
 shareholder	O
 in	O
-2015	B-Misc
+2015	B-Date
 when	O
 he	O
 increased	O
@@ -147,14 +147,14 @@ worth	O
 million	I-Money
 baht	I-Money
 between	O
-2015	B-Misc
+2015	B-Date
 and	O
-2017	B-Misc
+2017	B-Date
 .	O
 Ahead	O
 of	O
 the	O
-2019	B-Misc
+2019	B-Date
 election	O
 ,	O
 Mr	O
@@ -197,7 +197,7 @@ position	O
 of	O
 MP	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 he	O
 declared	O
@@ -345,10 +345,10 @@ for	O
 the	O
 transaction	O
 on	O
-March	B-Misc
-28	I-Misc
-,	I-Misc
-2018	I-Misc
+March	B-Date
+28	I-Date
+,	I-Date
+2018	I-Date
 .	O
 The	O
 minister	O
@@ -399,10 +399,10 @@ became	O
 an	O
 MP	O
 on	O
-May	B-Misc
-5	I-Misc
-,	I-Misc
-2019	I-Misc
+May	B-Date
+5	I-Date
+,	I-Date
+2019	I-Date
 .	O
 
 However	O

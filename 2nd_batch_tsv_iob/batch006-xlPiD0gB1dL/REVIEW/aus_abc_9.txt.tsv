@@ -203,10 +203,10 @@ I	O
 first	O
 saw	O
 it	O
-1979	B-Misc
+1979	B-Date
 and	O
 between	O
-1979	B-Misc
+1979	B-Date
 and	O
 now	O
 ,	O
@@ -255,7 +255,7 @@ Brisbane	B-Location	B-Location
 Botanic	I-Location
 gardens	I-Location
 since	O
-1858	B-Misc
+1858	B-Date
 and	O
 still	O
 bears	O
@@ -405,7 +405,7 @@ taken	O
 to	O
 Hawaii	B-Location
 in	O
-1881	B-Misc
+1881	B-Date
 ,	O
 where	O
 the	O

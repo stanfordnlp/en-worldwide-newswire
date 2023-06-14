@@ -41,7 +41,7 @@ mile	O
 trek	O
 starting	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 to	O
 an	O
 ice	O
@@ -267,10 +267,10 @@ was	O
 cut	O
 short	O
 on	O
-August	B-Misc
-5	I-Misc
-,	I-Misc
-2019	I-Misc
+August	B-Date
+5	I-Date
+,	I-Date
+2019	I-Date
 ,	O
 the	O
 day	O
@@ -429,7 +429,7 @@ rebel	O
 groups	O
 fighting	O
 since	O
-1989	B-Misc
+1989	B-Date
 for	O
 an	O
 independent	O
@@ -496,7 +496,7 @@ the	O
 past	O
 .	O
 In	O
-2017	B-Misc
+2017	B-Date
 ,	O
 they	O
 attacked	O
@@ -823,7 +823,7 @@ completely	O
 vanished	O
 (	O
 after	O
-2019	B-Misc
+2019	B-Date
 )	O
 .	O
 It	O

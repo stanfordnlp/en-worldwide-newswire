@@ -62,7 +62,7 @@ first	O
 six	O
 weeks	O
 of	O
-2022	B-Misc
+2022	B-Date
 .	O
 
 “	O
@@ -124,8 +124,8 @@ at	O
 the	O
 event	O
 on	O
-March	B-Misc
-4	I-Misc
+March	B-Date
+4	I-Date
 .	O
 
 He	O

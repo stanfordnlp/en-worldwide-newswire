@@ -2,9 +2,9 @@ https://www.egypttoday.com/Article/3/117869/Mashat-discusses-remarks-of-national
 
 CAIRO	B-Location
 -	O
-25	B-Misc
-July	I-Misc
-2022	I-Misc
+25	B-Date
+July	I-Date
+2022	I-Date
 :	O
 International	O
 Cooperation	O
@@ -15,7 +15,7 @@ Al	I-Person
 Mashat	I-Person
 discussed	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 with	O
 the	O
 director	O
@@ -70,7 +70,7 @@ at	O
 the	O
 beginning	O
 of	O
-July	B-Misc
+July	B-Date
 to	O
 discuss	O
 the	O

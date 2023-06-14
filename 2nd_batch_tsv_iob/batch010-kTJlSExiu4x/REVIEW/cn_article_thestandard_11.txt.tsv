@@ -29,7 +29,7 @@ COVID	B-Misc
 -	I-Misc
 19	I-Misc
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 Lam	B-Person
@@ -67,7 +67,7 @@ a	O
 close	O
 contact	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 as	O
 she	O
 had	O
@@ -76,8 +76,8 @@ a	O
 confirmed	O
 patient	O
 on	O
-July	B-Misc
-11	I-Misc
+July	B-Date
+11	I-Date
 .	O
 She	O
 has	O
@@ -87,8 +87,8 @@ in	O
 home	O
 quarantine	O
 until	O
-July	B-Misc
-18	I-Misc
+July	B-Date
+18	I-Date
 ,	O
 during	O
 which	O
@@ -124,8 +124,8 @@ every	O
 working	O
 day	O
 since	O
-July	B-Misc
-1	I-Misc
+July	B-Date
+1	I-Date
 and	O
 the	O
 results	O
@@ -163,7 +163,7 @@ Legislative	B-Facility
 Council	I-Facility
 Complex	I-Facility
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 and	O
 uploaded	O
 photos	O

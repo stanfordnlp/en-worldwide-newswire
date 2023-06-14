@@ -60,7 +60,7 @@ the	O
 new	O
 requirement	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 replacing	O
 its	O
@@ -363,7 +363,7 @@ Douban	B-Organization
 .	O
 Also	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 the	O
 reply	O
@@ -473,8 +473,8 @@ and	I-Misc
 Copyright	I-Misc
 Day	I-Misc
 on	O
-April	B-Misc
-23	I-Misc
+April	B-Date
+23	I-Date
 ,	O
 defiant	O
 users	O
@@ -485,7 +485,7 @@ George	B-Person
 Orwell	I-Person
 dystopian	O
 novel	O
-1984	B-Misc
+1984	B-Date
 to	O
 the	O
 top	O

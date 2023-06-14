@@ -31,7 +31,7 @@ anniversary	O
 .	O
 
 On	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 the	O
 organisation	O
@@ -139,8 +139,8 @@ Day	I-Misc
 celebrated	O
 annually	O
 on	O
-May	B-Misc
-4	I-Misc
+May	B-Date
+4	I-Date
 as	O
 a	O
 tribute	O
@@ -148,7 +148,7 @@ to	O
 student	O
 demonstrations	O
 in	O
-1919	B-Misc
+1919	B-Date
 against	O
 the	O
 Treaty	B-Misc
@@ -193,8 +193,8 @@ alumni	O
 cards	O
 to	O
 commemorate	O
-May	B-Misc
-4	I-Misc
+May	B-Date
+4	I-Date
 as	O
 well	O
 as	O
@@ -250,8 +250,8 @@ on	O
 the	O
 bandwagon	O
 last	O
-Christmas	B-Misc
-Eve	I-Misc
+Christmas	B-Date
+Eve	I-Date
 when	O
 it	O
 gave	O
@@ -270,7 +270,7 @@ from	O
 historical	O
 moments	O
 in	O
-2021	B-Misc
+2021	B-Date
 ”	O
 .	O
 
@@ -345,7 +345,7 @@ potential	O
 speculation	O
 .	O
 In	O
-March	B-Misc
+March	B-Date
 ,	O
 Tencent	B-Organization
 ’	O
@@ -420,7 +420,7 @@ for	O
 profit	O
 .	O
 In	O
-January	B-Misc
+January	B-Date
 ,	O
 more	O
 than	O

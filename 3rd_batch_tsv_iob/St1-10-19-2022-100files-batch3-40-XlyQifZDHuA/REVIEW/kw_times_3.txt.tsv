@@ -11,7 +11,7 @@ Al	I-Person
 -	I-Person
 Mudhaf	I-Person
 stated	O
-Wednesday	B-Misc
+Wednesday	B-Date
 that	O
 Kuwait	B-Location
 is	O
@@ -71,7 +71,7 @@ Transformation	B-Misc
 Education	I-Misc
 Summit	I-Misc
 (	O
-2022	B-Misc
+2022	B-Date
 )	O
 conference	O
 hosted	O
@@ -94,7 +94,7 @@ the	O
 summit	O
 due	O
 in	O
-September	B-Misc
+September	B-Date
 ,	O
 at	O
 start	O
@@ -232,7 +232,7 @@ issuing	O
 a	O
 statement	O
 in	O
-August	B-Misc
+August	B-Date
 elucidating	O
 the	O
 country	O
@@ -257,7 +257,7 @@ Transformation	B-Misc
 Education	I-Misc
 Summit	I-Misc
 (	O
-2022	B-Misc
+2022	B-Date
 )	O
 started	O
 at	O
@@ -265,7 +265,7 @@ the	O
 UNESCO	B-Organization
 headquarters	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 with	O
 participation	O
 of	O

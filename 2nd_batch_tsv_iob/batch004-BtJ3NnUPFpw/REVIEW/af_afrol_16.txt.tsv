@@ -4,8 +4,8 @@ afrol	B-Organization
 News	I-Organization
 -	O
 In	O
-May	B-Misc
-2013	I-Misc
+May	B-Date
+2013	I-Date
 ,	O
 20	O
 years	O
@@ -53,7 +53,7 @@ brutal	O
 dictatorship	O
 .	O
 
-1993	B-Misc
+1993	B-Date
 .	O
 It	O
 was	O
@@ -164,7 +164,7 @@ Eritrean	B-NORP
 people	O
 .	O
 
-1993	B-Misc
+1993	B-Date
 .	O
 It	O
 was	O
@@ -244,7 +244,7 @@ the	O
 country	O
 .	O
 
-1997	B-Misc
+1997	B-Date
 .	O
 Reconstruction	O
 is	O
@@ -317,7 +317,7 @@ democratic	O
 transition	O
 .	O
 
-1998	B-Misc
+1998	B-Date
 .	O
 The	O
 border	O
@@ -426,7 +426,7 @@ the	O
 PFDJ	B-Organization
 .	O
 The	O
-1997	B-Misc
+1997	B-Date
 constitution	O
 remains	O
 on	O
@@ -546,7 +546,7 @@ the	O
 party	O
 purged	O
 in	O
-2001	B-Misc
+2001	B-Date
 ,	O
 throwing	O
 hundreds	O
@@ -605,7 +605,7 @@ newspapers	O
 in	O
 Eritrea	B-Location
 until	O
-2001	B-Misc
+2001	B-Date
 .	O
 But	O
 in	O
@@ -621,8 +621,8 @@ were	O
 closed	O
 down	O
 in	O
-September	B-Misc
-2001	I-Misc
+September	B-Date
+2001	I-Date
 ,	O
 without	O
 any	O
@@ -1322,7 +1322,7 @@ thrown	O
 into	O
 prison	O
 in	O
-2001	B-Misc
+2001	B-Date
 .	O
 
 The	O
@@ -1443,11 +1443,11 @@ horrible	O
 dictatorships	O
 in	O
 the	O
-1960	B-Misc
+1960	B-Date
 s	O
 and	O
-70	B-Misc
-s	I-Misc
+70	B-Date
+s	I-Date
 .	O
 The	O
 historian	O
@@ -1566,7 +1566,7 @@ to	O
 guerrilla	O
 warfare	O
 in	O
-1966	B-Misc
+1966	B-Date
 .	O
 So	O
 his	O
@@ -1626,7 +1626,7 @@ the	O
 brave	O
 Eritreans	B-NORP
 in	O
-1993	B-Misc
+1993	B-Date
 ,	O
 joining	O
 together	O

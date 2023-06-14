@@ -66,10 +66,10 @@ battle	B-Misc
 of	I-Misc
 Puebla	I-Misc	B-Location
 on	O
-May	B-Misc
-5	I-Misc
-,	I-Misc
-1862	I-Misc
+May	B-Date
+5	I-Date
+,	I-Date
+1862	I-Date
 .	O
 The	O
 improbable	O
@@ -127,9 +127,9 @@ changes	O
 in	O
 presidency	O
 between	O
-1833	B-Misc
+1833	B-Date
 and	O
-1855	B-Misc
+1855	B-Date
 and	O
 was	O
 threatened	O
@@ -142,9 +142,9 @@ war	O
 with	O
 America	B-Location
 from	O
-1846	B-Misc
-to	I-Misc
-48	I-Misc
+1846	B-Date
+to	I-Date
+48	I-Date
 .	O
 The	O
 legendary	O
@@ -158,11 +158,11 @@ before	O
 his	O
 death	O
 in	O
-1876	B-Misc
+1876	B-Date
 .	O
 
 By	O
-1861	B-Misc
+1861	B-Date
 ,	O
 Mexico	B-Location
 was	O
@@ -585,7 +585,7 @@ eroding	O
 .	O
 
 In	O
-1866	B-Misc
+1866	B-Date
 ,	O
 France	B-Location
 began	O
@@ -612,10 +612,10 @@ by	O
 firing	O
 squad	O
 on	O
-June	B-Misc
-19	I-Misc
-,	I-Misc
-1867	I-Misc
+June	B-Date
+19	I-Date
+,	I-Date
+1867	I-Date
 .	O
 Carlota	B-Person
 ,	O
@@ -636,7 +636,7 @@ died	O
 in	O
 Belgium	B-Location
 in	O
-1927	B-Misc
+1927	B-Date
 .	O
 
 Today	O
@@ -676,9 +676,9 @@ Mexico	B-Location
 are	O
 named	O
 “	O
-Cinco	B-Misc
-de	I-Misc
-Mayo	I-Misc
+Cinco	B-Date
+de	I-Date
+Mayo	I-Date
 .	O
 ”	O
 

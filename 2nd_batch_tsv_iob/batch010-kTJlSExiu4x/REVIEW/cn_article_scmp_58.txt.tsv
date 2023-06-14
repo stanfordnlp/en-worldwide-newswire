@@ -28,7 +28,7 @@ the	O
 Taiwan	B-Location	B-NORP
 Strait	I-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 The	O
@@ -128,7 +128,7 @@ self	O
 ruled	O
 island	O
 in	O
-August	B-Misc
+August	B-Date
 .	O
 If	O
 the	O
@@ -158,7 +158,7 @@ and	O
 Beijing	B-Location
 normalised	O
 in	O
-1979	B-Misc
+1979	B-Date
 .	O
 
 “	O
@@ -192,7 +192,7 @@ in	O
 a	O
 statement	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 “	O
@@ -354,7 +354,7 @@ Command	I-Organization
 said	O
 in	O
 a	O
-Wednesday	B-Misc
+Wednesday	B-Date
 statement	O
 after	O
 the	O
@@ -394,7 +394,7 @@ defence	O
 ministry	O
 said	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 that	O
 the	O
 situation	O
@@ -413,7 +413,7 @@ north	O
 .	O
 
 On	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 the	O
 Benfold	B-Misc
@@ -456,8 +456,8 @@ by	O
 China	B-Location
 ,	O
 on	O
-July	B-Misc
-13	I-Misc
+July	B-Date
+13	I-Date
 –	O
 a	O
 day	O
@@ -490,7 +490,7 @@ Beijing	B-Location
 has	O
 called	O
 that	O
-2016	B-Misc
+2016	B-Date
 decision	O
 by	O
 the	O
@@ -747,7 +747,7 @@ a	O
 situation	O
 like	O
 the	O
-1995-96	B-Misc
+1995-96	B-Date
 Taiwan	B-Location	B-Location
 Strait	I-Location
 crisis	O

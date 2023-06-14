@@ -47,7 +47,7 @@ in	O
 South	B-Location
 America	I-Location
 in	O
-2017	B-Misc
+2017	B-Date
 .	O
 Can	O
 Chile	B-Location
@@ -55,14 +55,13 @@ still	O
 qualify	O
 for	O
 the	O
-2022	B-Misc	B-Misc
+2022	B-Misc	B-Date
 World	I-Misc
 Cup	I-Misc
 ?	O
 
 Chile	B-Location
-’	O
-s	O
+’s	O
 issues	O
 began	O
 as	O
@@ -75,6 +74,7 @@ started	O
 to	O
 wane	O
 .	O
+
 Perfect	O
 examples	O
 of	O
@@ -94,7 +94,7 @@ Copa	B-Misc
 America	I-Misc	B-Location
 victory	O
 in	O
-2016	B-Misc
+2016	B-Date
 were	O
 no	O
 longer	O
@@ -109,11 +109,11 @@ starting	O
 XI	O
 of	O
 Europe	B-Location
-’	O
-s	O
+’s	O
 elite	O
 teams	O
 .	O
+
 The	O
 exception	O
 who	O
@@ -158,7 +158,7 @@ a	O
 far	O
 cry	O
 from	O
-2016	B-Misc
+2016	B-Date
 when	O
 the	O
 team	O
@@ -166,6 +166,7 @@ always	O
 came	O
 first	O
 .	O
+
 Chile	B-Location
 is	O
 now	O
@@ -297,9 +298,9 @@ consecutive	O
 international	O
 tournaments	O
 between	O
-2014	B-Misc
+2014	B-Date
 and	O
-2017	B-Misc
+2017	B-Date
 ,	O
 which	O
 arguably	O
@@ -309,7 +310,7 @@ fatigued	O
 heading	O
 into	O
 the	O
-2018	B-Misc
+2018	B-Date
 qualification	O
 .	O
 
@@ -318,7 +319,7 @@ Chilean	B-NORP
 national	O
 team	O
 in	O
-2016	B-Misc
+2016	B-Date
 had	O
 great	O
 chemistry	O
@@ -388,7 +389,7 @@ generation	O
 ”	O
 peaked	O
 in	O
-2016	B-Misc
+2016	B-Date
 .	O
 The	O
 national	O
@@ -430,7 +431,7 @@ international	O
 retirement	O
 after	O
 the	O
-2016	B-Misc
+2016	B-Date
 final	O
 .	O
 

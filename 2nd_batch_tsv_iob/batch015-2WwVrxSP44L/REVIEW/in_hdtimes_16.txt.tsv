@@ -16,8 +16,8 @@ celebrated	O
 every	O
 year	O
 on	O
-July	B-Misc
-26	I-Misc
+July	B-Date
+26	I-Date
 to	O
 observe	O
 India	B-Location
@@ -25,7 +25,7 @@ India	B-Location
 victory	O
 in	O
 the	O
-1999	B-Misc
+1999	B-Date
 war	O
 between	O
 India	B-Location
@@ -113,7 +113,7 @@ in	O
 a	O
 battle	O
 in	O
-1971	B-Misc
+1971	B-Date
 leading	O
 to	O
 the	O
@@ -193,7 +193,7 @@ conducted	O
 nuclear	O
 tests	O
 in	O
-1998	B-Misc
+1998	B-Date
 .	O
 In	O
 an	O
@@ -209,8 +209,8 @@ Declaration	I-Misc
 was	O
 signed	O
 in	O
-February	B-Misc
-1999	I-Misc
+February	B-Date
+1999	I-Date
 .	O
 The	O
 declaration	O
@@ -234,7 +234,7 @@ during	O
 the	O
 winter	O
 of	O
-1998-1999	B-Misc
+1998-1999	B-Date
 ,	O
 Pakistani	B-NORP
 armed	O
@@ -445,9 +445,9 @@ an	O
 end	O
 on	O
 July	O
-26	B-Misc
-,	I-Misc
-1999	I-Misc
+26	B-Date
+,	I-Date
+1999	I-Date
 ,	O
 with	O
 the	O

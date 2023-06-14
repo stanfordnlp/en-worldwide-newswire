@@ -19,7 +19,7 @@ conspiracy	O
 linked	O
 to	O
 the	O
-2002	B-Misc
+2002	B-Date
 riots	O
 against	O
 activist	O
@@ -129,7 +129,7 @@ Court	I-Organization
 in	O
 Ahmedabad	B-Location
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 It	O
 states	O
@@ -191,8 +191,8 @@ lodged	O
 in	O
 Ahmedabad	B-Location
 on	O
-June	B-Misc
-25	I-Misc
+June	B-Date
+25	I-Date
 ,	O
 a	O
 day	O
@@ -228,7 +228,7 @@ cases	O
 related	O
 to	O
 the	O
-2002	B-Misc
+2002	B-Date
 riots	O
 .	O
 
@@ -332,7 +332,7 @@ the	O
 riots	O
 .	O
 
-Friday	B-Misc
+Friday	B-Date
 ’	O
 s	O
 affidavit	O
@@ -896,7 +896,7 @@ happened	O
 in	O
 the	O
 year	O
-2006	B-Misc
+2006	B-Date
 ”	O
 .	O
 
@@ -1133,7 +1133,7 @@ Ahmedabad	B-Location
 sessions	O
 court	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 adjourned	O
 the	O
 hearing	O
@@ -1150,7 +1150,7 @@ the	O
 Ahmedabad	B-Location
 FIR	O
 to	O
-July	B-Misc
-18	I-Misc
+July	B-Date
+18	I-Date
 .	O
 

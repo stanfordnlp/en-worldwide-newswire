@@ -63,7 +63,7 @@ Zhengzhou	B-Location
 which	O
 recorded	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 four	O
 new	O
 Covid	B-Misc
@@ -80,10 +80,10 @@ is	O
 under	O
 lockdown	O
 from	O
-Wednesday	B-Misc
+Wednesday	B-Date
 till	O
 next	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 During	O
 this	O
@@ -149,7 +149,7 @@ prime	O
 supplier	O
 ,	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 froze	O
 its	O
 hiring	O
@@ -260,7 +260,7 @@ request	O
 for	O
 comment	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 Under	O
@@ -319,7 +319,7 @@ to	O
 a	O
 report	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 by	O
 Taiwanese	B-NORP
 newspaper	O
@@ -415,7 +415,7 @@ account	O
 
 Foxconn	B-Organization
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 said	O
 its	O
 Zhengzhou	B-Location

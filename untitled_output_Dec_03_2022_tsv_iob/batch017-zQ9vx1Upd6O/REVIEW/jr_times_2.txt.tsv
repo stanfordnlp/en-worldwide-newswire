@@ -165,9 +165,9 @@ sacrifice	O
 of	O
 animals	O
 for	O
-Eid	B-Misc
-Al	I-Misc
-Adha	I-Misc
+Eid	B-Date
+Al	I-Date
+Adha	I-Date
 .	O
 
 “	O
@@ -285,9 +285,9 @@ was	O
 disappointing	O
 ”	O
 during	O
-Eid	B-Misc
-Al	I-Misc
-Adha	I-Misc
+Eid	B-Date
+Al	I-Date
+Adha	I-Date
 .	O
 
 “	O

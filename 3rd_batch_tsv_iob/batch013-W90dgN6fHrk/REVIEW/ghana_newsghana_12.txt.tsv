@@ -15,7 +15,7 @@ preparation	O
 ahead	O
 of	O
 the	O
-2022	B-Misc
+2022	B-Date
 Federation	B-Organization
 of	I-Organization
 International	I-Organization
@@ -107,7 +107,7 @@ preparations	O
 .	O
 
 The	O
-2016	B-Misc
+2016	B-Date
 runner	O
 -	O
 up	O
@@ -144,8 +144,8 @@ side	O
 competed	O
 in	O
 the	O
-2022	B-Misc
-Sud	I-Misc
+2022	B-Date
+Sud	B-Misc
 Ladies	I-Misc
 Cup	I-Misc
 as	O
@@ -204,7 +204,7 @@ Cup	I-Misc
 is	O
 billed	O
 for	O
-10-28	B-Misc
+10-28	B-Date
 in	O
 San	B-Location
 Jose	I-Location

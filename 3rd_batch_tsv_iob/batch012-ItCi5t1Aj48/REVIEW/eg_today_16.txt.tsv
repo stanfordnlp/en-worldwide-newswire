@@ -2,9 +2,9 @@ https://www.egypttoday.com/Article/3/117204/PM-Gov-t-pays-great-attention-to-dev
 
 CAIRO	B-Location
 -	O
-27	B-Misc
-June	I-Misc
-2022	I-Misc
+27	B-Date
+June	I-Date
+2022	I-Date
 :	O
 Prime	O
 Minister	O
@@ -37,7 +37,7 @@ while	O
 chairing	O
 a	O
 meeting	O
-Monday	B-Misc
+Monday	B-Date
 -	O
 the	O
 launch	O

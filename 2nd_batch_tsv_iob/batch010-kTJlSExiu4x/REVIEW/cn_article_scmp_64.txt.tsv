@@ -8,7 +8,7 @@ Minister	O
 Sheikh	B-Person
 Hasina	I-Person
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 celebrated	O
 the	O
 opening	O
@@ -98,7 +98,7 @@ to	O
 the	O
 public	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 will	O
 slash	O
@@ -311,14 +311,14 @@ by	O
 per	O
 cent	O
 in	O
-2021-22	B-Misc
+2021-22	B-Date
 ,	O
 and	O
 7.1	O
 per	O
 cent	O
 in	O
-2022-23	B-Misc
+2022-23	B-Date
 .	O
 
 Officials	O
@@ -400,7 +400,7 @@ World	B-Organization
 Bank	I-Organization
 said	O
 in	O
-2012	B-Misc
+2012	B-Date
 that	O
 it	O
 found	O
@@ -516,7 +516,7 @@ bridge	O
 s	O
 construction	O
 in	O
-2017	B-Misc
+2017	B-Date
 .	O
 
 Hasina	B-Person

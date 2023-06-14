@@ -20,8 +20,8 @@ acting	O
 Chief	O
 Executive	O
 effective	O
-2	B-Misc
-July	I-Misc
+2	B-Date
+July	I-Date
 .	O
 
 Usiku	B-Person
@@ -53,12 +53,12 @@ Executive	O
 of	O
 NAMDIA	B-Organization
 from	O
-01	B-Misc
-July	I-Misc
-2017	I-Misc
+01	B-Date
+July	I-Date
+2017	I-Date
 until	O
-01	B-Misc
-July	I-Misc
+01	B-Date
+July	I-Date
 .	O
 
 “	O

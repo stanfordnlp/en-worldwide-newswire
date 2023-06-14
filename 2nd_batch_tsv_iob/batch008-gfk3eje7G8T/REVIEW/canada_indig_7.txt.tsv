@@ -80,9 +80,9 @@ received	O
 the	O
 search	O
 results	O
-Aug	B-Misc
-.	I-Misc
-2	I-Misc
+Aug	B-Date
+.	I-Date
+2	I-Date
 ,	O
 and	O
 14	O
@@ -113,7 +113,7 @@ to	O
 the	O
 community	O
 in	O
-June	B-Misc
+June	B-Date
 .	O
 
 Chief	O
@@ -194,7 +194,7 @@ well	O
 he	O
 said	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 "	O

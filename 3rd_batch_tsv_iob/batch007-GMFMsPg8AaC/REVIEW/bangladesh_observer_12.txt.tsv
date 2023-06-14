@@ -43,8 +43,8 @@ side	O
 has	O
 initially	O
 proposed	O
-August	B-Misc
-5-6	I-Misc
+August	B-Date
+5-6	I-Date
 for	O
 the	O
 visit	O
@@ -105,7 +105,7 @@ Foreign	O
 Minister	O
 Momen	B-Person
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 at	O
 the	O
 Ministry	B-Organization

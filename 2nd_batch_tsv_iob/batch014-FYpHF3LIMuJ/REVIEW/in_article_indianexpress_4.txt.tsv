@@ -102,7 +102,7 @@ Minister	O
 According	O
 to	O
 the	O
-2011	B-Misc
+2011	B-Date
 census	O
 of	O
 England	B-Location
@@ -159,11 +159,11 @@ was	O
 in	O
 the	O
 late	O
-1940	B-Misc
-s	I-Misc
+1940	B-Date
+s	I-Date
 and	O
-50	B-Misc
-s	I-Misc
+50	B-Date
+s	I-Date
 when	O
 migrants	O
 were	O
@@ -188,11 +188,11 @@ took	O
 place	O
 in	O
 the	O
-1960	B-Misc
-s	I-Misc
+1960	B-Date
+s	I-Date
 and	O
-70	B-Misc
-s	I-Misc
+70	B-Date
+s	I-Date
 ,	O
 when	O
 the	O
@@ -250,7 +250,7 @@ the	O
 UK	B-Location
 since	O
 the	O
-1700	B-Misc
+1700	B-Date
 s	O
 ,	O
 British	B-NORP	B-NORP
@@ -289,8 +289,8 @@ migration	O
 Beginning	O
 in	O
 the	O
-18th	B-Misc
-century	I-Misc
+18th	B-Date
+century	I-Date
 ,	O
 the	O
 British	B-NORP
@@ -439,7 +439,7 @@ menial	O
 workers	O
 .	O
 A	O
-2021	B-Misc
+2021	B-Date
 Gateway	B-Organization
 House	I-Organization
 report	O
@@ -629,7 +629,7 @@ notes	O
 that	O
 “	O
 by	O
-1939	B-Misc
+1939	B-Date
 ,	O
 almost	O
 every	O
@@ -686,7 +686,7 @@ Education	I-Misc
 During	O
 his	O
 famous	O
-1835	B-Misc
+1835	B-Date
 speech	O
 ,	O
 Macaulay	B-Person
@@ -774,7 +774,7 @@ Chandra	I-Person
 Bose	I-Person
 .	O
 By	O
-1830	B-Misc
+1830	B-Date
 ,	O
 India	B-Location
 accounted	O
@@ -811,9 +811,9 @@ In	O
 fact	O
 ,	O
 between	O
-1830	B-Misc
+1830	B-Date
 and	O
-1930	B-Misc
+1930	B-Date
 ,	O
 Britain	B-Location
 was	O
@@ -848,7 +848,7 @@ Independence	O
 migration	O
 
 In	O
-1951	B-Misc
+1951	B-Date
 ,	O
 the	O
 Indian	B-NORP
@@ -861,7 +861,7 @@ above	O
 30,000	O
 ,	O
 by	O
-1961	B-Misc
+1961	B-Date
 ,	O
 it	O
 was	O
@@ -978,7 +978,7 @@ Asians	B-NORP
 from	O
 Uganda	B-Location
 in	O
-1972	B-Misc
+1972	B-Date
 .	O
 Amin	B-Person
 ’	O
@@ -1091,7 +1091,7 @@ British	B-NORP
 government	O
 .	O
 Before	O
-1962	B-Location
+1962	B-Date
 ,	O
 Indians	B-NORP
 and	O
@@ -1119,7 +1119,7 @@ British	B-NORP
 jobs	O
 ,	O
 in	O
-1961	B-Misc
+1961	B-Date
 ,	O
 the	O
 Conservative	B-Organization
@@ -1200,7 +1200,7 @@ An	O
 extension	O
 of	O
 the	O
-1961	B-Misc
+1961	B-Date
 bill	O
 ,	O
 the	O
@@ -1208,7 +1208,7 @@ Race	B-Misc
 Relations	I-Misc
 Act	I-Misc
 of	O
-1968	B-Misc
+1968	B-Date
 ,	O
 forbade	O
 employment	O
@@ -1291,7 +1291,7 @@ the	O
 aftermath	O
 of	O
 the	O
-1980	B-Misc
+1980	B-Date
 s	O
 insurgency	O
 in	O
@@ -1511,7 +1511,7 @@ comprise	O
 people	O
 as	O
 of	O
-2021	B-Misc
+2021	B-Date
 ,	O
 are	O
 mostly	O
@@ -1674,9 +1674,9 @@ based	O
 on	O
 earnings	O
 between	O
-2012	B-Misc
+2012	B-Date
 and	O
-2018	B-Misc
+2018	B-Date
 ,	O
 shows	O
 that	O
@@ -1989,8 +1989,8 @@ Back	O
 in	O
 the	O
 late	O
-19th	B-Misc
-century	I-Misc
+19th	B-Date
+century	I-Date
 ,	O
 British	B-NORP
 Asians	I-NORP
@@ -2018,7 +2018,7 @@ origin	O
 who	O
 contested	O
 the	O
-1892	B-Misc
+1892	B-Date
 parliamentary	O
 elections	O
 from	O
@@ -2256,7 +2256,7 @@ from	O
 India	B-Location
 during	O
 the	O
-1907	B-Misc
+1907	B-Date
 International	B-Misc
 Socialist	I-Misc
 Congress	I-Misc
@@ -2307,7 +2307,7 @@ Leading	O
 up	O
 to	O
 the	O
-2015	B-Misc
+2015	B-Date
 parliamentary	O
 elections	O
 ,	O
@@ -2367,7 +2367,7 @@ pay	O
 attention	O
 .	O
 In	O
-2015	B-Misc
+2015	B-Date
 ,	O
 the	O
 far	O
@@ -2437,7 +2437,7 @@ which	O
 was	O
 conducted	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 in	O
 terms	O
@@ -2718,10 +2718,10 @@ Mumbai	B-Location
 
 Updated	O
 :	O
-July	B-Misc
-18	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+18	I-Date
+,	I-Date
+2022	I-Date
 5	O
 :	O
 3	O
@@ -2852,7 +2852,7 @@ Minister	O
 According	O
 to	O
 the	O
-2011	B-Misc
+2011	B-Date
 census	O
 of	O
 England	B-Location
@@ -2909,11 +2909,11 @@ was	O
 in	O
 the	O
 late	O
-1940	B-Misc
-s	I-Misc
+1940	B-Date
+s	I-Date
 and	O
-50	B-Misc
-s	I-Misc
+50	B-Date
+s	I-Date
 when	O
 migrants	O
 were	O
@@ -2938,11 +2938,11 @@ took	O
 place	O
 in	O
 the	O
-1960	B-Misc
-s	I-Misc
+1960	B-Date
+s	I-Date
 and	O
-70	B-Misc
-s	I-Misc
+70	B-Date
+s	I-Date
 ,	O
 when	O
 the	O
@@ -3125,7 +3125,7 @@ the	O
 UK	B-Location
 since	O
 the	O
-1700	B-Misc
+1700	B-Date
 s	O
 ,	O
 British	B-NORP
@@ -3314,7 +3314,7 @@ menial	O
 workers	O
 .	O
 A	O
-2021	B-Misc
+2021	B-Date
 Gateway	B-Organization
 House	I-Organization
 report	O
@@ -3504,7 +3504,7 @@ notes	O
 that	O
 “	O
 by	O
-1939	B-Misc
+1939	B-Date
 ,	O
 almost	O
 every	O
@@ -3561,7 +3561,7 @@ Education	I-Misc
 During	O
 his	O
 famous	O
-1835	B-Misc
+1835	B-Date
 speech	O
 ,	O
 Macaulay	B-Person
@@ -3649,7 +3649,7 @@ Chandra	I-Person
 Bose	I-Person
 .	O
 By	O
-1830	B-Misc
+1830	B-Date
 ,	O
 India	B-Location
 accounted	O
@@ -3686,9 +3686,9 @@ In	O
 fact	O
 ,	O
 between	O
-1830	B-Misc
+1830	B-Date
 and	O
-1930	B-Misc
+1930	B-Date
 ,	O
 Britain	B-Location
 was	O
@@ -3723,7 +3723,7 @@ Independence	O
 migration	O
 
 In	O
-1951	B-Misc
+1951	B-Date
 ,	O
 the	O
 Indian	B-NORP
@@ -3736,7 +3736,7 @@ above	O
 30,000	O
 ,	O
 by	O
-1961	B-Misc
+1961	B-Date
 ,	O
 it	O
 was	O
@@ -3853,7 +3853,7 @@ Asians	B-NORP
 from	O
 Uganda	B-Location
 in	O
-1972	B-Misc
+1972	B-Date
 .	O
 Amin	B-Person
 ’	O
@@ -3966,7 +3966,7 @@ British	B-NORP
 government	O
 .	O
 Before	O
-1962	B-Misc
+1962	B-Date
 ,	O
 Indians	B-NORP
 and	O
@@ -3994,7 +3994,7 @@ British	B-NORP
 jobs	O
 ,	O
 in	O
-1961	B-Misc
+1961	B-Date
 ,	O
 the	O
 Conservative	B-Organization	B-NORP
@@ -4075,7 +4075,7 @@ An	O
 extension	O
 of	O
 the	O
-1961	B-Misc
+1961	B-Date
 bill	O
 ,	O
 the	O
@@ -4083,7 +4083,7 @@ Race	B-Misc
 Relations	I-Misc
 Act	I-Misc
 of	I-Misc
-1968	I-Misc
+1968	B-Date
 ,	O
 forbade	O
 employment	O
@@ -4166,7 +4166,7 @@ the	O
 aftermath	O
 of	O
 the	O
-1980	B-Misc
+1980	B-Date
 s	O
 insurgency	O
 in	O
@@ -4386,7 +4386,7 @@ comprise	O
 people	O
 as	O
 of	O
-2021	B-Misc
+2021	B-Date
 ,	O
 are	O
 mostly	O
@@ -4549,9 +4549,9 @@ based	O
 on	O
 earnings	O
 between	O
-2012	B-Misc
+2012	B-Date
 and	O
-2018	B-Misc
+2018	B-Date
 ,	O
 shows	O
 that	O
@@ -4893,7 +4893,7 @@ origin	O
 who	O
 contested	O
 the	O
-1892	B-Misc
+1892	B-Date
 parliamentary	O
 elections	O
 from	O
@@ -5131,7 +5131,7 @@ from	O
 India	B-Location
 during	O
 the	O
-1907	B-Misc
+1907	B-Date
 International	B-Misc
 Socialist	I-Misc
 Congress	I-Misc
@@ -5182,7 +5182,7 @@ Leading	O
 up	O
 to	O
 the	O
-2015	B-Misc
+2015	B-Date
 parliamentary	O
 elections	O
 ,	O
@@ -5242,7 +5242,7 @@ pay	O
 attention	O
 .	O
 In	O
-2015	B-Misc
+2015	B-Date
 ,	O
 the	O
 far	O
@@ -5312,7 +5312,7 @@ which	O
 was	O
 conducted	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 in	O
 terms	O
@@ -5765,7 +5765,7 @@ Minister	O
 Modi	B-Person
 and	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 he	O
 took	O
@@ -5820,7 +5820,7 @@ they	O
 were	O
 in	O
 the	O
-1970	B-Misc
+1970	B-Date
 s	O
 .	O
 They	O

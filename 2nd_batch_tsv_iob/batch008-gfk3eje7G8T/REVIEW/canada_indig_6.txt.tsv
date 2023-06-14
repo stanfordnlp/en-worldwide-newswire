@@ -86,8 +86,8 @@ a	O
 board	O
 report	O
 from	O
-July	B-Misc
-21	I-Misc
+July	B-Date
+21	I-Date
 .	O
 
 "	O
@@ -157,7 +157,7 @@ Phoenix	B-Person
 Sinclair	I-Person
 ,	O
 in	O
-2005	B-Misc
+2005	B-Date
 .	O
 
 Their	O
@@ -312,7 +312,7 @@ since	O
 her	O
 conviction	O
 in	O
-2008	B-Misc
+2008	B-Date
 .	O
 Kematch	B-Person
 ,	O
@@ -542,7 +542,7 @@ started	O
 living	O
 with	O
 in	O
-2004	B-Misc
+2004	B-Date
 was	O
 McKay	B-Person
 ,	O

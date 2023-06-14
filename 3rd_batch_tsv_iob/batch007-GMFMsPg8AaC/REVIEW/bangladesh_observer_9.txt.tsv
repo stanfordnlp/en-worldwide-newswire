@@ -24,7 +24,7 @@ the	O
 Liberation	B-Misc
 War	I-Misc
 in	O
-1971	B-Misc
+1971	B-Date
 .	O
 
 A	O
@@ -46,7 +46,7 @@ the	O
 page	O
 verdict	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 The	O
@@ -191,13 +191,13 @@ cross	O
 -	O
 examination	O
 on	O
-May	B-Misc
-22	I-Misc
+May	B-Date
+22	I-Date
 ,	O
 the	O
 tribunal	O
 fixed	O
-Thursday	B-Misc
+Thursday	B-Date
 for	O
 the	O
 verdict	O

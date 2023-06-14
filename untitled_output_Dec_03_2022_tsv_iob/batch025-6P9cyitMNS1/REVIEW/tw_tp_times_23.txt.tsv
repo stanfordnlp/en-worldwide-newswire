@@ -58,7 +58,7 @@ ordered	O
 local	O
 authorities	O
 in	O
-December	B-Misc
+December	B-Date
 last	O
 year	O
 to	O
@@ -85,8 +85,8 @@ appeal	O
 .	O
 
 On	O
-April	B-Misc
-22	I-Misc
+April	B-Date
+22	I-Date
 last	O
 year	O
 ,	O

@@ -21,7 +21,7 @@ NSRI	B-Organization
 Shelly	B-Location
 Beach	I-Location
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 .	O
 
 Nigel	B-Person
@@ -132,10 +132,10 @@ At	O
 10.4	O
 5am	O
 ,	O
-Monday	B-Misc
-,	I-Misc
-May	I-Misc
-23	I-Misc
+Monday	B-Date
+,	I-Date
+May	I-Date
+23	I-Date
 ,	O
 the	O
 NSRI	B-Organization
@@ -179,10 +179,10 @@ incident	O
 .	O
 
 On	O
-Sunday	B-Misc
-,	I-Misc
-July	I-Misc
-24	I-Misc
+Sunday	B-Date
+,	I-Date
+July	I-Date
+24	I-Date
 ,	O
 Milne	B-Person
 and	O
@@ -289,7 +289,7 @@ the	O
 Wild	B-Location
 Coast	I-Location
 in	O
-1984	B-Misc
+1984	B-Date
 during	O
 a	O
 Vasco	B-Misc

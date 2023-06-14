@@ -5,7 +5,7 @@ Amiri	B-Misc
 order	O
 was	O
 issued	O
-Sunday	B-Misc
+Sunday	B-Date
 naming	O
 Sheikh	O
 Ahmad	B-Person
@@ -91,7 +91,7 @@ Amiri	B-Misc
 ordered	O
 was	O
 issued	O
-Sunday	B-Misc
+Sunday	B-Date
 naming	O
 the	O
 Retired	O
@@ -189,10 +189,10 @@ the	O
 Amir	O
 decree	O
 on	O
-November	B-Misc
-25	I-Misc
-,	I-Misc
-2021	I-Misc
+November	B-Date
+25	I-Date
+,	I-Date
+2021	I-Date
 mandating	O
 His	O
 Highness	O

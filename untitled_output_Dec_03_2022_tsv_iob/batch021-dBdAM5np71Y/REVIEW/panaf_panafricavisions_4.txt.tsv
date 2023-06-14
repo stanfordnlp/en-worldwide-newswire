@@ -27,14 +27,14 @@ Week	I-Misc	I-Misc
 (	I-Misc
 AEW	I-Misc	B-Misc
 )	I-Misc
-2022	I-Misc	B-Misc
+2022	I-Misc	B-Date
 –	O
 which	O
 takes	O
 place	O
 from	O
-October	B-Misc
-18-21	I-Misc
+October	B-Date
+18-21	I-Date
 in	O
 Cape	B-Location
 Town	I-Location
@@ -72,7 +72,7 @@ history	O
 in	O
 Africa	B-Location
 by	O
-2030	B-Misc
+2030	B-Date
 ,	O
 the	O
 partnership	O
@@ -96,7 +96,7 @@ stronger	O
 energy	O
 developments	O
 in	O
-2022	B-Misc
+2022	B-Date
 and	O
 beyond	O
 .	O
@@ -378,8 +378,8 @@ Agreement	I-Misc
 AfCFTA	B-Misc
 )	O
 in	O
-January	B-Misc
-2021	I-Misc
+January	B-Date
+2021	I-Date
 ,	O
 new	O
 opportunities	O
@@ -391,7 +391,7 @@ emerged	O
 and	O
 during	O
 AEW	B-Misc	B-Misc
-2022	I-Misc	B-Misc
+2022	I-Misc	B-Date
 ,	O
 the	O
 bank	O
@@ -609,9 +609,9 @@ of	O
 African	B-NORP
 businesses	O
 between	O
-2016	B-Misc
+2016	B-Date
 and	O
-2020	B-Location
+2020	B-Date
 .	O
 With	O
 this	O
@@ -718,7 +718,7 @@ its	O
 partnership	O
 with	O
 AEW	B-Misc	B-Misc
-2022	I-Misc	B-Misc
+2022	I-Misc	B-Date
 ,	O
 a	O
 wave	O

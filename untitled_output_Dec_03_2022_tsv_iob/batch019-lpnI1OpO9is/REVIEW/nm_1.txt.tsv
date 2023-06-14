@@ -64,16 +64,16 @@ in	O
 the	O
 NDF	B-Organization
 from	O
-1990	B-Misc
+1990	B-Date
 to	O
-2000	B-Misc
+2000	B-Date
 .	O
 
 He	O
 died	O
 in	O
-September	B-Misc
-2002	I-Misc
+September	B-Date
+2002	I-Date
 at	O
 the	O
 age	O
@@ -87,8 +87,8 @@ when	O
 Hamaambo	B-Person
 retired	O
 in	O
-November	B-Misc
-2000	I-Misc
+November	B-Date
+2000	I-Date
 ,	O
 Dos	B-Person
 Santos	I-Person
@@ -286,8 +286,8 @@ Santos	I-Person
 who	O
 died	O
 on	O
-8	B-Misc
-July	I-Misc
+8	B-Date
+July	I-Date
 in	O
 Spain	B-Location
 ,	O
@@ -653,7 +653,7 @@ embassy	O
 in	O
 Windhoek	B-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 and	O
 yesterday	O
 were	O

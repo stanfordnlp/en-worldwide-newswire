@@ -46,7 +46,7 @@ Publishing	I-Organization
 Co	I-Organization
 said	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 The	O
@@ -102,11 +102,11 @@ in	O
 San	B-Location
 Francisco	I-Location
 in	O
-1981	B-Misc
+1981	B-Date
 based	O
 on	O
 the	O
-1930	B-Misc
+1930	B-Date
 detective	O
 novel	O
 The	B-Misc
@@ -137,7 +137,7 @@ has	O
 been	O
 active	O
 since	O
-1982	B-Misc
+1982	B-Date
 .	O
 
 The	O
@@ -235,7 +235,7 @@ it	O
 came	O
 out	O
 in	O
-2011	B-Misc
+2011	B-Date
 ,	O
 winning	O
 almost	O
@@ -271,8 +271,8 @@ It	O
 also	O
 won	O
 the	O
-2012	B-Misc
-Taipei	I-Misc	B-Location
+2012	B-Date
+Taipei	B-Misc	B-Location
 Book	I-Misc
 Fair	I-Misc
 Award	I-Misc

@@ -107,7 +107,7 @@ most	O
 of	O
 them	O
 in	O
-2017	B-Misc
+2017	B-Date
 when	O
 a	O
 military	O
@@ -309,7 +309,7 @@ community	O
 .	O
 
 In	O
-March	B-Misc
+March	B-Date
 this	O
 year	O
 ,	O
@@ -452,7 +452,7 @@ deported	O
 17	O
 refugees	O
 since	O
-2017	B-Misc
+2017	B-Date
 and	O
 is	O
 planning	O
@@ -698,7 +698,7 @@ arrived	O
 in	O
 Jammu	B-Location
 in	O
-2012	B-Location
+2012	B-Date
 with	O
 his	O
 father	O
@@ -708,8 +708,8 @@ and	O
 cousins	O
 .	O
 On	O
-April	B-Misc
-1	I-Misc
+April	B-Date
+1	I-Date
 this	O
 year	O
 ,	O
@@ -924,7 +924,7 @@ a	O
 signatory	O
 to	O
 a	O
-1951	B-Misc
+1951	B-Date
 UN	B-Organization
 convention	O
 which	O
@@ -1127,7 +1127,7 @@ worker	O
 ,	O
 died	O
 in	O
-2018	B-Misc
+2018	B-Date
 following	O
 a	O
 long	O

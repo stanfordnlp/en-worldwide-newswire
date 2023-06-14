@@ -82,7 +82,7 @@ out	O
 nuclear	O
 power	O
 by	O
-2025	B-Misc
+2025	B-Date
 as	O
 part	O
 of	O
@@ -104,7 +104,7 @@ the	O
 European	B-Organization	B-NORP
 Parliament	I-Organization
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 that	O
 included	O
 nuclear	O
@@ -160,7 +160,7 @@ nuclear	O
 power	O
 plants	O
 past	O
-2025	B-Misc
+2025	B-Date
 ,	O
 and	O
 finish	O
@@ -332,9 +332,9 @@ environmental	O
 impact	O
 assessment	O
 on	O
-Sept	B-Misc
-.	I-Misc
-30	I-Misc
+Sept	B-Date
+.	I-Date
+30	I-Date
 after	O
 the	O
 proposal	O
@@ -344,7 +344,7 @@ pass	O
 a	O
 review	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 In	O

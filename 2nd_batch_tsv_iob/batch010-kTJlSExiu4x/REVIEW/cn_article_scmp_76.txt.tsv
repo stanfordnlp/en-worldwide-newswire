@@ -57,9 +57,9 @@ with	O
 warning	O
 letters	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 and	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 respectively	O
 ,	O
@@ -98,7 +98,7 @@ supermarket	O
 in	O
 mid	O
 -	O
-May	B-Misc
+May	B-Date
 .	O
 They	O
 were	O
@@ -226,7 +226,7 @@ after	O
 Pride	B-Misc
 Month	I-Misc
 in	O
-June	B-Misc
+June	B-Date
 ,	O
 is	O
 the	O
@@ -402,7 +402,7 @@ was	O
 shut	O
 down	O
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 Huang	B-Person
@@ -545,8 +545,8 @@ rainbow	O
 symbol	O
 .	O
 On	O
-May	B-Misc
-17	I-Misc
+May	B-Date
+17	I-Date
 ,	O
 International	B-Misc
 Day	I-Misc
@@ -831,7 +831,7 @@ China	B-Location
 decriminalised	O
 homosexuality	O
 in	O
-1997	B-Misc
+1997	B-Date
 but	O
 same	O
 -	O
@@ -877,7 +877,7 @@ took	O
 power	O
 in	O
 late	O
-2012	B-Misc
+2012	B-Date
 ,	O
 ideological	O
 control	O
@@ -1027,7 +1027,7 @@ identity	O
 .	O
 
 In	O
-2020	B-Misc
+2020	B-Date
 ,	O
 Shanghai	B-Misc	B-Location
 Pride	I-Misc
@@ -1040,7 +1040,7 @@ for	O
 years	O
 .	O
 In	O
-2018	B-Misc
+2018	B-Date
 ,	O
 Weibo	B-Organization
 removed	O

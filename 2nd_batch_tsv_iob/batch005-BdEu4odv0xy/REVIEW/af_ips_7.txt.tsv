@@ -2,9 +2,9 @@ https://www.ipsnews.net/2022/06/polio-eradication-will-take-funds-awareness/	O
 
 ABUJA	B-Location
 ,	O
-Jun	B-Misc
-22	I-Misc
-2022	I-Misc
+Jun	B-Date
+22	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -414,7 +414,7 @@ polio	O
 vaccination	O
 campaign	O
 in	O
-1985	B-Misc
+1985	B-Date
 .	O
 
 Three	O
@@ -489,7 +489,7 @@ interrupted	O
 polio	O
 transmission	O
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 Even	O

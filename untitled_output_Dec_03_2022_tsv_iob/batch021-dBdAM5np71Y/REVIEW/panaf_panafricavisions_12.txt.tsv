@@ -40,8 +40,8 @@ batch	O
 will	O
 leave	O
 on	O
-July	B-Misc
-17	I-Misc
+July	B-Date
+17	I-Date
 .	O
 According	O
 to	O
@@ -69,7 +69,7 @@ will	O
 depart	O
 tonight	O
 (	O
-Monday	B-Misc
+Monday	B-Date
 )	O
 .	O
 We	O
@@ -120,8 +120,8 @@ join	O
 the	O
 others	O
 before	O
-July	B-Misc
-18	I-Misc
+July	B-Date
+18	I-Date
 .	O
 We	O
 have	O
@@ -139,7 +139,7 @@ added	O
 .	O
 
 The	O
-2022	B-Misc	B-Misc
+2022	B-Misc	B-Date
 World	I-Misc
 Championship	I-Misc
 is	O
@@ -147,10 +147,10 @@ set	O
 to	O
 run	O
 from	O
-July	B-Misc
-15	I-Misc
-to	I-Misc
-24	I-Misc
+July	B-Date
+15	I-Date
+to	I-Date
+24	I-Date
 .	O
 
 At	O
@@ -176,8 +176,8 @@ fly	O
 to	O
 Birmingham	B-Location
 on	O
-July	B-Misc
-24/25	I-Misc
+July	B-Date
+24/25	I-Date
 .	O
 
 “	O
@@ -195,11 +195,11 @@ for	O
 Birmingham	B-Location
 on	O
 either	O
-July	B-Misc
-24	I-Misc
+July	B-Date
+24	I-Date
 or	O
-July	B-Misc
-25	I-Misc
+July	B-Date
+25	I-Date
 ,	O
 as	O
 planned	O

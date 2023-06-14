@@ -8,7 +8,7 @@ began	O
 trial	O
 blasts	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 to	O
 study	O
 the	O
@@ -69,8 +69,8 @@ in	O
 the	O
 district	O
 till	O
-July	B-Misc
-31	I-Misc
+July	B-Date
+31	I-Date
 .	O
 
 A	O

@@ -49,7 +49,7 @@ weekend	O
 local	O
 reports	O
 said	O
-Sunday	B-Misc
+Sunday	B-Date
 .	O
 They	O
 cited	O
@@ -96,8 +96,8 @@ complex	O
 in	O
 Ulsan	B-Location
 on	O
-July	B-Misc
-11	I-Misc
+July	B-Date
+11	I-Date
 ,	O
 has	O
 been	O
@@ -221,7 +221,7 @@ of	O
 the	O
 animal	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 the	O
 prosecution	O

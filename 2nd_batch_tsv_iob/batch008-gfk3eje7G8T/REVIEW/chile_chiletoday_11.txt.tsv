@@ -102,8 +102,8 @@ what	O
 the	O
 decision	O
 of	O
-September	B-Misc
-4	I-Misc
+September	B-Date
+4	I-Date
 should	O
 be	O
 ,	O
@@ -164,9 +164,9 @@ document	O
 ahead	O
 of	O
 the	O
-Sept	B-Misc
-.	I-Misc
-4	I-Misc
+Sept	B-Date
+.	I-Date
+4	I-Date
 plebiscite	O
 .	O
 

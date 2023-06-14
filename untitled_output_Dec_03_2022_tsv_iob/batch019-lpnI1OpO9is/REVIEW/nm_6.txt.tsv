@@ -33,7 +33,7 @@ remanded	O
 in	O
 custody	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 This	O
@@ -119,8 +119,8 @@ matter	O
 was	O
 postponed	O
 to	O
-1	B-Misc
-August	I-Misc
+1	B-Date
+August	I-Date
 for	O
 Lukas	B-Person
 '	O

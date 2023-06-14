@@ -75,7 +75,7 @@ crazy	O
 dream	O
 .	O
 In	O
-1998	B-Misc
+1998	B-Date
 ,	O
 he	O
 founded	O
@@ -161,11 +161,11 @@ met	O
 Christoph	B-Person
 Schlingensief	I-Person
 (	O
-1960-2010	B-Misc
+1960-2010	B-Date
 )	O
 in	O
-January	B-Misc
-2009	I-Misc
+January	B-Date
+2009	I-Date
 ,	O
 he	O
 first	O
@@ -230,9 +230,9 @@ the	O
 Bayreuth	B-Misc
 Festival	I-Misc
 from	O
-2004	B-Misc
+2004	B-Date
 to	O
-2007	B-Location
+2007	B-Date
 ,	O
 and	O
 after	O
@@ -240,7 +240,7 @@ receiving	O
 his	O
 diagnosis	O
 in	O
-2008	B-Misc
+2008	B-Date
 ,	O
 he	O
 decided	O
@@ -427,7 +427,7 @@ the	O
 project	O
 ,	O
 a	O
-2010	B-Misc
+2010	B-Date
 interview	O
 with	O
 the	O
@@ -790,8 +790,8 @@ donations	O
 
 Finally	O
 in	O
-February	B-Misc
-2010	I-Misc
+February	B-Date
+2010	I-Date
 ,	O
 the	O
 construction	O
@@ -836,8 +836,8 @@ Mr	O
 Schlingensief	B-Person
 died	O
 on	O
-21	B-Misc
-August	I-Misc
+21	B-Date
+August	I-Date
 the	O
 same	O
 year	O
@@ -943,7 +943,7 @@ initiator	O
 The	O
 risks	O
 in	O
-2010	B-Misc
+2010	B-Date
 of	O
 course	O
 seemed	O
@@ -1093,8 +1093,8 @@ frequently	O
 
 And	O
 in	O
-October	B-Misc
-2011	I-Misc
+October	B-Date
+2011	I-Date
 ,	O
 the	O
 team	O
@@ -1315,8 +1315,8 @@ been	O
 accellerating	O
 .	O
 In	O
-December	B-Misc
-2011	I-Misc
+December	B-Date
+2011	I-Date
 ,	O
 the	O
 teachers	O

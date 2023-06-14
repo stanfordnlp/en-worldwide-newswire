@@ -176,7 +176,7 @@ parents	O
 and	O
 allies	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 to	O
 kick	O
 off	O
@@ -211,7 +211,7 @@ Abuja	B-Location
 protest	O
 
 On	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 as	O
 early	O
@@ -753,9 +753,9 @@ government	O
 and	O
 ASUU	B-Organization
 from	O
-2017	B-Misc
+2017	B-Date
 to	O
-2020	B-Misc
+2020	B-Date
 ,	O
 when	O
 he	O

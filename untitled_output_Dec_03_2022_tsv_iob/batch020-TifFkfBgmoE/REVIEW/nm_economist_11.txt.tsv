@@ -11,8 +11,8 @@ announced	O
 that	O
 as	O
 of	O
-2	B-Misc
-August	I-Misc
+2	B-Date
+August	I-Date
 they	O
 will	O
 receive	O
@@ -50,8 +50,8 @@ Security	I-Organization
 TLS	B-Organization
 )	O
 until	O
-29	B-Misc
-July	I-Misc
+29	B-Date
+July	I-Date
 .	O
 
 “	O

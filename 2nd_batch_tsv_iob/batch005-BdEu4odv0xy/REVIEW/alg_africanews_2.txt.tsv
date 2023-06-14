@@ -33,7 +33,7 @@ During	O
 the	O
 celebration	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 Algerian	B-NORP
 flags	O
@@ -92,8 +92,8 @@ with	O
 the	O
 signing	O
 in	O
-March	B-Misc
-1962	I-Misc
+March	B-Date
+1962	I-Date
 of	O
 the	O
 Evian	B-Misc
@@ -312,7 +312,7 @@ L	B-Organization
 ’	I-Organization
 Expression	I-Organization
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 French	B-NORP

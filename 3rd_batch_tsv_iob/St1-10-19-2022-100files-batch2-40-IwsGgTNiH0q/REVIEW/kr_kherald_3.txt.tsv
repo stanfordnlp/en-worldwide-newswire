@@ -70,7 +70,7 @@ at	O
 a	O
 briefing	O
 held	O
-Monday	B-Misc
+Monday	B-Date
 after	O
 Gender	O
 Minister	O
@@ -269,7 +269,7 @@ with	O
 the	O
 press	O
 in	O
-June	B-Misc
+June	B-Date
 after	O
 taking	O
 office	O

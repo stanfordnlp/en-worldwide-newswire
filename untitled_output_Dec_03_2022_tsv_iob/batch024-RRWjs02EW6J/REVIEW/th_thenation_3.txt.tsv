@@ -34,7 +34,7 @@ Prawit	B-Person
 was	O
 speaking	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 at	O
 a	O
 meeting	O
@@ -117,7 +117,7 @@ species	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 agencies	O
 were	O
@@ -175,7 +175,7 @@ ocean	O
 polluters	O
 .	O
 
-Monday	B-Misc
+Monday	B-Date
 ’	O
 s	O
 meeting	O

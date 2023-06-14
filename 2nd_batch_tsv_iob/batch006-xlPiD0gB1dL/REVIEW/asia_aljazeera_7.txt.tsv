@@ -180,7 +180,7 @@ an	O
 Irish	B-NORP
 citizen	O
 in	O
-2003	B-Misc
+2003	B-Date
 through	O
 his	O
 long	O
@@ -215,7 +215,7 @@ shareholder	O
 as	O
 of	O
 early	O
-2022	B-Misc
+2022	B-Date
 —	O
 in	O
 Mumbai	B-Location
@@ -268,7 +268,7 @@ Tata	B-Organization
 Sons	I-Organization
 chairman	O
 in	O
-2016	B-Misc
+2016	B-Date
 triggered	O
 a	O
 very	O
@@ -302,7 +302,7 @@ top	O
 court	O
 ruled	O
 in	O
-2021	B-Misc
+2021	B-Date
 that	O
 Cyrus	B-Person
 ’	O
@@ -346,7 +346,7 @@ $	B-Money
 billion	I-Money
 in	O
 early	O
-2022	B-Misc
+2022	B-Date
 ,	O
 was	O
 basically	O
@@ -362,7 +362,7 @@ business	O
 was	O
 founded	O
 in	O
-1865	B-Misc
+1865	B-Date
 ,	O
 when	O
 Pallonji	B-Person
@@ -404,7 +404,7 @@ Tata	B-Organization
 family	O
 in	O
 the	O
-1920	B-Misc
+1920	B-Date
 s	O
 ;	O
 both	O
@@ -427,10 +427,10 @@ Mistry	B-Person
 was	O
 born	O
 on	O
-June	B-Misc
-1	I-Misc
-,	I-Misc
-1929	I-Misc
+June	B-Date
+1	I-Date
+,	I-Date
+1929	I-Date
 ,	O
 in	O
 Mumbai	B-Location
@@ -452,7 +452,7 @@ the	O
 son	O
 joined	O
 in	O
-1947	B-Misc
+1947	B-Date
 .	O
 
 He	O
@@ -476,7 +476,7 @@ and	O
 Dubai	B-Location
 ,	O
 in	O
-1970	B-Misc
+1970	B-Date
 .	O
 It	O
 won	O
@@ -492,7 +492,7 @@ Oman	I-Facility	B-Location
 s	I-Facility
 palace	I-Facility
 in	O
-1971	B-Misc
+1971	B-Date
 and	O
 many	O
 ministerial	O
@@ -535,7 +535,7 @@ treatment	O
 according	O
 to	O
 the	O
-2007	B-Misc
+2007	B-Date
 book	O
 “	O
 Moguls	B-Misc
@@ -728,7 +728,7 @@ World	I-Facility
 Trade	I-Facility
 Centre	I-Facility
 in	O
-1970	B-Misc
+1970	B-Date
 and	O
 the	O
 Imperial	B-Location
@@ -744,7 +744,7 @@ in	O
 the	O
 city	O
 in	O
-2010	B-Misc
+2010	B-Date
 .	O
 It	O
 also	O
@@ -788,7 +788,7 @@ Mistry	B-Person
 bought	O
 in	O
 the	O
-1980	B-Misc
+1980	B-Date
 s	O
 ,	O
 which	O
@@ -956,7 +956,7 @@ SP	B-Organization
 Group	I-Organization
 companies	O
 in	O
-2004	B-Misc
+2004	B-Date
 .	O
 
 Boardroom	O
@@ -969,7 +969,7 @@ Tata	B-Organization
 Sons	I-Organization
 chairman	O
 in	O
-2012	B-Misc
+2012	B-Date
 ,	O
 succeeding	O
 Ratan	B-Person
@@ -1020,7 +1020,7 @@ shareholder	O
 rights	O
 .	O
 The	O
-2021	B-Misc
+2021	B-Date
 court	O
 ruling	O
 in	O
@@ -1098,7 +1098,7 @@ a	O
 payment	O
 default	O
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 The	O
 Covid	B-Misc
@@ -1113,8 +1113,8 @@ estate	O
 operations	O
 .	O
 In	O
-October	B-Misc
-2021	I-Misc
+October	B-Date
+2021	I-Date
 a	O
 unit	O
 of	O

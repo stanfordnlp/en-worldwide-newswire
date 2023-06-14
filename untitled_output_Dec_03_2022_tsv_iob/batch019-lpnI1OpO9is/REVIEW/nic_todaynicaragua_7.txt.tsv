@@ -19,7 +19,7 @@ Interior	I-Organization
 ,	O
 canceled	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 the	O
 registrations	O
 of	O
@@ -337,7 +337,7 @@ management	O
 .	O
 
 Last	O
-October	B-Misc
+October	B-Date
 ,	O
 the	O
 Secretariat	O
@@ -411,8 +411,8 @@ of	I-Organization
 Nicaragua	I-Organization	B-Location
 ,	O
 until	O
-October	B-Misc
-2020	I-Misc
+October	B-Date
+2020	I-Date
 ,	O
 32	O
 international	O
@@ -488,8 +488,8 @@ has	O
 been	O
 canceled	O
 since	O
-December	B-Misc
-2018	I-Misc
+December	B-Date
+2018	I-Date
 ,	O
 eight	O
 months	O
@@ -509,8 +509,8 @@ Ortega	I-Person
 .	O
 
 In	O
-April	B-Misc
-2018	I-Misc
+April	B-Date
+2018	I-Date
 ,	O
 thousands	O
 of	O
@@ -600,8 +600,8 @@ and	O
 social	O
 crisis	O
 since	O
-April	B-Misc
-2018	I-Misc
+April	B-Date
+2018	I-Date
 ,	O
 which	O
 has	O
@@ -613,10 +613,10 @@ controversial	O
 general	O
 elections	O
 on	O
-November	B-Misc
-7	I-Misc
-,	I-Misc
-2021	I-Misc
+November	B-Date
+7	I-Date
+,	I-Date
+2021	I-Date
 ,	O
 in	O
 which	O

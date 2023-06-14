@@ -95,9 +95,9 @@ Great	O
 who	O
 lived	O
 from	O
-1632	B-Misc
+1632	B-Date
 to	O
-1688	B-Misc
+1688	B-Date
 .	O
 
 Since	O
@@ -108,7 +108,7 @@ on	O
 Channel	O
 3	O
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 it	O
 has	O
@@ -181,7 +181,7 @@ on	O
 national	O
 release	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 The	O

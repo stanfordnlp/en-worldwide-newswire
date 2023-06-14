@@ -43,7 +43,7 @@ ambulance	O
 at	O
 7:49pm	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 said	O
 Lin	B-Person
@@ -262,7 +262,7 @@ je	I-Person
 柯文哲	O
 )	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 said	O
 that	O
 he	O

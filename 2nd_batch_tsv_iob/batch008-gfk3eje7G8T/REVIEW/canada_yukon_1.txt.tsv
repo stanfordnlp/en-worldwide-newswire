@@ -41,8 +41,8 @@ City	I-Location
 Yukon	I-Location
 ,	O
 on	O
-June	B-Misc
-21	I-Misc
+June	B-Date
+21	I-Date
 .	O
 
 The	O
@@ -111,8 +111,8 @@ a	O
 technical	O
 briefing	O
 on	O
-July	B-Misc
-13	I-Misc
+July	B-Date
+13	I-Date
 .	O
 
 “	O

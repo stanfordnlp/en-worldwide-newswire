@@ -638,7 +638,7 @@ he	O
 regained	O
 consciousness	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 and	O
 found	O
 himself	O
@@ -869,9 +869,9 @@ PCEA	I-Facility	B-Organization
 Mission	I-Facility
 hospitals	I-Facility
 on	O
-Monday	B-Misc
+Monday	B-Date
 and	O
-Tuesday	B-Misc
+Tuesday	B-Date
 as	O
 relatives	O
 viewed	O

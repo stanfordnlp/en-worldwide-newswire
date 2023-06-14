@@ -41,10 +41,10 @@ mechanisms	O
 
 At	O
 a	O
-Wednesday	B-Misc
-,	I-Misc
-July	I-Misc
-14	I-Misc
+Wednesday	B-Date
+,	I-Date
+July	I-Date
+14	I-Date
 press	O
 conference	O
 the	O
@@ -203,10 +203,10 @@ She	O
 recalled	O
 that	O
 on	O
-Tuesday	B-Misc
-,	I-Misc
-July	I-Misc
-19	I-Misc
+Tuesday	B-Date
+,	I-Date
+July	I-Date
+19	I-Date
 ,	O
 the	O
 Federation	B-Organization

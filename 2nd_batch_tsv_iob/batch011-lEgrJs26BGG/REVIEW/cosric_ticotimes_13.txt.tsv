@@ -1,7 +1,7 @@
 https://ticotimes.net/2022/07/21/iconic-costa-rica-space-book-returns-to-the-public-eye	O
 
 In	O
-2002	B-Misc
+2002	B-Date
 a	O
 unique	O
 book	O
@@ -65,7 +65,7 @@ UNESCO	B-Organization
 Costa	B-Misc	B-Location
 Rica	I-Misc	I-Location
 from	I-Misc
-Space	I-Misc	
+Space	I-Misc
 was	O
 an	O
 unprecedented	O
@@ -180,8 +180,8 @@ country	O
 Flash	O
 forward	O
 to	O
-October	B-Misc
-2021	I-Misc
+October	B-Date
+2021	I-Date
 and	O
 a	O
 surprising	O

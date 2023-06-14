@@ -93,7 +93,7 @@ the	O
 fourth	O
 quarter	O
 of	O
-2022	B-Misc
+2022	B-Date
 .	O
 
 The	O
@@ -139,7 +139,7 @@ the	O
 UAE	B-Misc	B-Location
 Net	I-Misc
 Zero	I-Misc
-2050	I-Misc
+2050	B-Date
 strategy	O
 .	O
 
@@ -323,8 +323,8 @@ goals	O
 of	O
 the	O
 UAE	B-Misc	B-Location
-2050	I-Misc
-environment	I-Misc
+2050	B-Date
+environment	B-Misc
 strategy	I-Misc
 .	O
 
@@ -583,7 +583,7 @@ in	O
 the	O
 UAE	B-Location
 by	O
-2024	B-Misc
+2024	B-Date
 .	O
 ”	O
 

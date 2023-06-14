@@ -41,7 +41,7 @@ Magistrate	I-Organization
 's	I-Organization
 Court	I-Organization
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 Police	O
@@ -68,9 +68,9 @@ first	O
 court	O
 appearance	O
 on	O
-18	B-Misc
-July	I-Misc
-2022	I-Misc
+18	B-Date
+July	I-Date
+2022	I-Date
 before	O
 magistrate	O
 Adelinu	B-Person
@@ -102,7 +102,7 @@ formal	O
 bail	O
 appearance	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 Simuku	B-Person
 was	O
@@ -188,9 +188,9 @@ case	O
 was	O
 postponed	O
 to	O
-13	B-Misc
-October	I-Misc
-2022	I-Misc
+13	B-Date
+October	I-Date
+2022	I-Date
 pending	O
 further	O
 police	O

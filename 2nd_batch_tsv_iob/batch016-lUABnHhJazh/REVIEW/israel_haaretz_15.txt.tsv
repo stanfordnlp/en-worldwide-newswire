@@ -416,7 +416,7 @@ Ukraine	B-Location
 war	O
 erupted	O
 in	O
-February	B-Misc
+February	B-Date
 ,	O
 the	O
 Agency	O
@@ -520,7 +520,7 @@ Stars	I-Misc
 ”	O
 final	O
 in	O
-April	B-Misc
+April	B-Date
 .	O
 
 While	O
@@ -682,7 +682,7 @@ even	O
 joined	O
 him	O
 in	O
-2018	B-Misc
+2018	B-Date
 at	O
 the	O
 ultranationalist	O
@@ -703,7 +703,7 @@ election	O
 campaign	O
 banner	O
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 Since	O
@@ -749,7 +749,7 @@ were	O
 first	O
 revealed	O
 in	O
-April	B-Misc
+April	B-Date
 ,	O
 while	O
 Bennett	B-Person

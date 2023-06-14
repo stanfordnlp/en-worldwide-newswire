@@ -182,7 +182,7 @@ the	O
 West	B-Location
 Bank	I-Location
 since	O
-1967	B-Misc
+1967	B-Date
 .	O
 Nabil	B-Person
 Abu	I-Person
@@ -309,7 +309,7 @@ been	O
 killed	O
 since	O
 late	O
-March	B-Misc
+March	B-Date
 ,	O
 mostly	O
 in	O

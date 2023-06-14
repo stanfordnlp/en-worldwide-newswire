@@ -8,7 +8,7 @@ Costa	B-Location
 Rica	I-Location
 3-0	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 to	O
 book	O
 a	O
@@ -22,7 +22,7 @@ W	I-Misc
 Championship	I-Misc
 with	O
 a	O
-2024	B-Misc	B-Misc
+2024	B-Misc	B-Date
 Olympic	I-Misc
 berth	O
 on	O
@@ -89,7 +89,7 @@ and	O
 the	O
 winner	O
 of	O
-Monday	B-Misc
+Monday	B-Date
 ’	O
 s	O
 final	O
@@ -102,7 +102,7 @@ berth	O
 to	O
 the	O
 Paris	B-Misc	B-Location
-Games	I-Misc	
+Games	I-Misc
 women	O
 ’	O
 s	O
@@ -438,10 +438,9 @@ a	O
 qualifier	O
 for	O
 the	O
-2023	B-Misc	B-Misc
+2023	B-Misc	B-Date
 Women	I-Misc
-’	I-Misc
-s	I-Misc
+’s	I-Misc
 World	I-Misc
 Cup	I-Misc
 ,	O

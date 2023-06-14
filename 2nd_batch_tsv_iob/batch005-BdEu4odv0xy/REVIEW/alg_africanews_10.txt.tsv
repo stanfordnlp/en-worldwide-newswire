@@ -29,7 +29,7 @@ announcement	O
 was	O
 made	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 by	O
 the	O
 Algerian	B-Organization	B-NORP
@@ -51,8 +51,8 @@ were	O
 eliminated	O
 2-1	O
 on	O
-March	B-Misc
-29th	I-Misc
+March	B-Date
+29th	I-Date
 in	O
 the	O
 return	O
@@ -76,8 +76,8 @@ Ekambi	I-Person
 .	O
 
 On	O
-March	B-Misc
-31st	I-Misc
+March	B-Date
+31st	I-Date
 ,	O
 the	O
 Algerian	B-Organization	B-NORP

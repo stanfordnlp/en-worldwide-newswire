@@ -68,7 +68,7 @@ a	O
 strong	O
 note	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 with	O
 a	O
 3-0	O
@@ -505,7 +505,7 @@ was	O
 postponed	O
 from	O
 last	O
-July	B-Misc
+July	B-Date
 to	O
 this	O
 year	O

@@ -105,8 +105,8 @@ added	O
 .	O
 
 On	O
-July	B-Misc
-2	I-Misc
+July	B-Date
+2	I-Date
 ,	O
 Uruguay	B-Location
 's	O
@@ -250,10 +250,10 @@ Finally	O
 at	O
 10.3	O
 0 am	O
-Monday	B-Misc
-,	I-Misc
-July	I-Misc
-4	I-Misc
+Monday	B-Date
+,	I-Date
+July	I-Date
+4	I-Date
 ,	O
 the	O
 Chinese	B-NORP

@@ -143,7 +143,7 @@ Gianni	B-Person
 Infantino	O
 ’	O
 s	O
-2020-2023	B-Misc
+2020-2023	B-Date
 Vision	O
 :	O
 Making	B-Misc
@@ -421,7 +421,7 @@ that	O
 FIFA	B-Organization
 held	O
 a	O
-June	B-Misc
+June	B-Date
 workshop	O
 
 devoted	O
@@ -439,8 +439,8 @@ was	O
 launched	O
 in	O
 
-February	B-Misc
-2020	I-Misc
+February	B-Date
+2020	I-Date
 by	O
 Arsene	B-Person
 Wenger	I-Person
@@ -626,7 +626,7 @@ plans	O
 came	O
 with	O
 the	O
-2019	B-Misc
+2019	B-Date
 opening	O
 of	O
 the	O
@@ -1230,7 +1230,7 @@ have	O
 qualified	O
 for	O
 the	O
-2022	B-Misc	B-Misc
+2022	B-Misc	B-Date
 World	I-Misc
 Cup	I-Misc
 ,	O

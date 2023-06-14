@@ -3,10 +3,10 @@ https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-found-dead-t
 Police	O
 today	O
 (	O
-July	B-Misc
-28	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+28	I-Date
+,	I-Date
+2022	I-Date
 )	O
 recovered	O
 the	O

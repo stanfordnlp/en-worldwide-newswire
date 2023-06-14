@@ -2,9 +2,9 @@ https://www.egypttoday.com/Article/3/117593/Talaat-Moustafa-hands-over-the-first
 
 CAIRO	B-Location
 -	O
-13	B-Misc
-July	I-Misc
-2022	I-Misc
+13	B-Date
+July	I-Date
+2022	I-Date
 :	O
 Talaat	B-Organization	B-Person
 Moustafa	I-Organization	I-Person
@@ -217,7 +217,7 @@ end	O
 of	O
 this	O
 year	O
-2022	B-Misc
+2022	B-Date
 ,	O
 and	O
 it	O
@@ -394,7 +394,7 @@ procedures	O
 which	O
 began	O
 in	O
-2018	B-Misc
+2018	B-Date
 .	O
 
 Throughout	O
@@ -748,7 +748,7 @@ its	O
 various	O
 stages	O
 during	O
-2026	B-Misc
+2026	B-Date
 ,	O
 which	O
 is	O

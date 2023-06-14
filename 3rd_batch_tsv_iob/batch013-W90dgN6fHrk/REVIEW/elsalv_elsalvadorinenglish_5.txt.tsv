@@ -46,11 +46,11 @@ have	O
 been	O
 reported	O
 between	O
-July	B-Misc
-16	I-Misc
+July	B-Date
+16	I-Date
 and	O
-July	B-Misc
-22	I-Misc
+July	B-Date
+22	I-Date
 .	O
 
 «	O
@@ -191,7 +191,7 @@ of	O
 security	O
 indicate	O
 that	O
-2022	B-Misc
+2022	B-Date
 could	O
 become	O
 the	O
@@ -207,7 +207,7 @@ history	O
 Until	O
 today	O
 ,	O
-2021	B-Misc
+2021	B-Date
 has	O
 been	O
 the	O
@@ -223,9 +223,9 @@ of	O
 homicides	O
 reported	O
 from	O
-January	B-Misc
+January	B-Date
 to	O
-December	B-Misc
+December	B-Date
 ,	O
 or	O
 15	O
@@ -235,7 +235,7 @@ reported	O
 crimes	O
 than	O
 in	O
-2020	B-Misc
+2020	B-Date
 ,	O
 which	O
 ended	O
@@ -255,16 +255,16 @@ the	O
 statistics	O
 reveal	O
 that	O
-July	B-Misc
+July	B-Date
 has	O
 already	O
 equaled	O
 the	O
 months	O
 of	O
-April	B-Misc
+April	B-Date
 and	O
-June	B-Misc
+June	B-Date
 ,	O
 which	O
 ended	O
@@ -286,7 +286,7 @@ zero	O
 homicides	O
 is	O
 still	O
-May	B-Misc
+May	B-Date
 ,	O
 with	O
 17	O
@@ -306,7 +306,7 @@ in	O
 decades	O
 .	O
 In	O
-May	B-Misc
+May	B-Date
 ,	O
 a	O
 complete	O
@@ -330,10 +330,10 @@ current	O
 trend	O
 continues	O
 ,	O
-July	B-Misc
+July	B-Date
 could	O
 surpass	O
-May	B-Misc
+May	B-Date
 as	O
 the	O
 safest	O

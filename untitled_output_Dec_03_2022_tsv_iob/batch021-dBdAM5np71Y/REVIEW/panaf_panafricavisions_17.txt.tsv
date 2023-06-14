@@ -5,8 +5,8 @@ wrote	O
 an	O
 article	O
 in	O
-December	B-Misc
-2021	I-Misc
+December	B-Date
+2021	I-Date
 entitled	O
 CREATIVES	B-Misc
 BRIDGING	I-Misc
@@ -467,7 +467,7 @@ home	O
 based	O
 contest	O
 in	O
-2016	B-Misc
+2016	B-Date
 and	O
 has	O
 grown	O

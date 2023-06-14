@@ -23,7 +23,7 @@ site	O
 visit	O
 ,	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 at	O
 the	O
 Food	B-Organization
@@ -359,11 +359,11 @@ two	O
 week	O
 training	O
 from	O
-17	B-Misc
+17	B-Date
 to	O
-26	B-Misc
-May	I-Misc
-2022	I-Misc
+26	B-Date
+May	I-Date
+2022	I-Date
 .	O
 The	O
 training	O

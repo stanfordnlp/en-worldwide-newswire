@@ -51,7 +51,7 @@ and	O
 four	O
 months	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 The	O
@@ -108,11 +108,11 @@ Deep	B-Location
 Water	I-Location
 Bay	I-Location
 between	O
-June	B-Misc
-2018	I-Misc
+June	B-Date
+2018	I-Date
 and	O
-September	B-Misc
-2019	I-Misc
+September	B-Date
+2019	I-Date
 .	O
 
 The	O

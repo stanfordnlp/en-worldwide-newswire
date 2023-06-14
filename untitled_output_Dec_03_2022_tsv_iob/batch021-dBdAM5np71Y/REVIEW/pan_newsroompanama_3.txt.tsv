@@ -9,7 +9,7 @@ was	O
 closed	O
 again	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 at	O
 several	O
 points	O
@@ -225,7 +225,7 @@ in	O
 the	O
 streets	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 affecting	O
 vehicular	O

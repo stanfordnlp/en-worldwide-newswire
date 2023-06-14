@@ -105,11 +105,11 @@ of	O
 what	O
 occurred	O
 on	O
-Aug	B-Misc
-.	I-Misc
-6	I-Misc
-,	I-Misc
-1945	I-Misc
+Aug	B-Date
+.	I-Date
+6	I-Date
+,	I-Date
+1945	I-Date
 ,	O
 unless	O
 they	O
@@ -259,8 +259,8 @@ a	O
 news	O
 conference	O
 on	O
-May	B-Misc
-23	I-Misc
+May	B-Date
+23	I-Date
 along	O
 with	O
 Hiroshima	B-Location
@@ -363,8 +363,8 @@ Peace	I-Location
 Memorial	I-Location
 Park	I-Location
 in	O
-May	B-Misc
-2016	I-Misc
+May	B-Date
+2016	I-Date
 .	O
 
 Mori	B-Person

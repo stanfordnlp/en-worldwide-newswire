@@ -6,9 +6,9 @@ Gulu	B-Location
 ,	I-Location
 Uganda	I-Location
 ,	O
-Jun	B-Misc
-14	I-Misc
-2022	I-Misc
+Jun	B-Date
+14	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -241,7 +241,7 @@ torn	O
 Northern	B-Location
 Uganda	I-Location
 since	O
-2018	B-Misc
+2018	B-Date
 .	O
 UK	B-Organization	B-Location
 Aid	I-Organization
@@ -913,7 +913,7 @@ Labour	I-Organization
 and	I-Organization
 Social	I-Organization
 Development	I-Organization
-2020	B-Misc
+2020	B-Date
 study	O
 found	O
 that	O

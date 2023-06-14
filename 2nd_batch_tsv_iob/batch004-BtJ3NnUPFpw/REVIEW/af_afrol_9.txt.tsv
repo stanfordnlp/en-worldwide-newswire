@@ -3,8 +3,8 @@ http://www.afrol.com/articles/38447	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-25	B-Misc
-March	I-Misc
+25	B-Date
+March	I-Date
 -	O
 Fear	O
 is	O
@@ -342,7 +342,7 @@ been	O
 nine	O
 outbreaks	O
 since	O
-2001	B-Misc
+2001	B-Date
 -	O
 in	O
 addition	O
@@ -741,7 +741,7 @@ was	O
 first	O
 identified	O
 in	O
-1976	B-Misc
+1976	B-Date
 ,	O
 and	O
 there	O
@@ -772,7 +772,7 @@ Sudan	I-Location
 .	O
 I	O
 December	O
-2000	B-Misc
+2000	B-Date
 there	O
 was	O
 registered	O
@@ -793,7 +793,7 @@ Brazzaville	I-Location
 and	O
 Gabon	B-Location
 in	O
-2003	B-Misc
+2003	B-Date
 .	O
 
 The	O

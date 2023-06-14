@@ -11,10 +11,10 @@ protests	O
 that	O
 erupted	O
 on	O
-July	B-Misc
-11	I-Misc
-,	I-Misc
-2021	I-Misc
+July	B-Date
+11	I-Date
+,	I-Date
+2021	I-Date
 in	O
 several	O
 cities	O
@@ -594,8 +594,8 @@ a	O
 civic	O
 march	O
 on	O
-November	B-Misc
-15	I-Misc
+November	B-Date
+15	I-Date
 to	O
 explain	O
 the	O
@@ -704,8 +704,8 @@ organized	O
 ,	O
 slated	O
 for	O
-15	B-Misc
-November	I-Misc
+15	B-Date
+November	I-Date
 ,	O
 using	O
 institutional	O
@@ -1093,7 +1093,7 @@ himself	O
 recognized	O
 ,	O
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 with	O
 satisfaction	O

@@ -80,16 +80,16 @@ face	O
 the	O
 USA	B-Location
 on	O
-March	B-Misc
-24th	I-Misc
+March	B-Date
+24th	I-Date
 and	O
 against	O
 Costa	B-Location
 Rica	I-Location
 on	O
-March	B-Misc
-28th	I-Misc
-2017	I-Misc
+March	B-Date
+28th	I-Date
+2017	I-Date
 .	O
 
 Honduras	B-Organization	B-Location
@@ -130,8 +130,8 @@ the	O
 previous	O
 match	O
 held	O
-January	B-Misc
-2017	I-Misc
+January	B-Date
+2017	I-Date
 
 Honduras	B-Location
 defeated	O
@@ -139,8 +139,8 @@ Nicaragua	B-Location
 2	O
 -	O
 1	O
-January	B-Misc
-2017	I-Misc
+January	B-Date
+2017	I-Date
 
 International	O
 Friendlies	O
@@ -354,44 +354,44 @@ Scores	O
 /	O
 Statistics	O
 
-2017-01-13	B-Misc
-2017	B-Misc
+2017-01-13	B-Date
+2017	I-Date
 Honduras	B-Location
 2-1	O
 Nicaragua	B-Location
 
-2016-08-24	B-Misc
-2016	B-Misc
+2016-08-24	B-Date
+2016	I-Date
 Honduras	B-Location
 1-0	O
 Nicaragua	B-Location
 
-2016-01-28	B-Misc
-2016	B-Misc
+2016-01-28	B-Date
+2016	I-Date
 Nicaragua	B-Location
 1-3	O
 Honduras	B-Location
 
-2014-09-14	B-Misc
-2014	B-Misc
+2014-09-14	B-Date
+2014	I-Date
 Honduras	B-Location
 1-0	O
 Nicaragua	B-Location
 
-2009-01-24	B-Misc
-2009	B-Misc
+2009-01-24	B-Date
+2009	I-Date
 Honduras	B-Location
 4-1	O
 Nicaragua	B-Location
 
 2007-02-15	B-Misc
-2007	B-Misc
+2007	B-Date
 Nicaragua	B-Location
 1-9	O
 Honduras	B-Location
 
-2005-02-19	B-Misc
-2005	B-Misc
+2005-02-19	B-Date
+2005	I-Date
 Honduras	B-Location
 5-1	O
 Nicaragua	B-Location
@@ -402,20 +402,20 @@ Nicaragua	B-Location
 0-2	O
 Honduras	B-Location
 
-2001-05-25	B-Misc
-2001	B-Misc
+2001-05-25	B-Date
+2001	I-Date
 Honduras	B-Location
 10-2	O
 Nicaragua	B-Location
 
-2000-04-16	B-Misc
-2002	B-Misc
+2000-04-16	B-Date
+2002	I-Date
 Nicaragua	B-Location
 0-1	O
 Honduras	B-Location
 
-2000-03-04	B-Misc
-2002	B-Misc
+2000-03-04	B-Date
+2002	I-Date
 Honduras	B-Location
 3-0	O
 Nicaragua	B-Location

@@ -51,7 +51,7 @@ the	O
 same	O
 area	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 According	O
@@ -76,8 +76,8 @@ Dhanmondi	B-Location
 around	O
 8:40pm	O
 on	O
-July	B-Misc
-24	I-Misc
+July	B-Date
+24	I-Date
 .	O
 At	O
 one	O

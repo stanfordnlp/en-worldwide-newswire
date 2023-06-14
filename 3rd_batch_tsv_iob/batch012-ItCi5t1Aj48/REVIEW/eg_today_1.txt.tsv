@@ -2,9 +2,9 @@ https://www.egypttoday.com/Article/1/117909/Egypt-s-FM-receives-phone-call-from-
 
 CAIRO	B-Location
 –	O
-26	B-Misc
-July	I-Misc
-2022	I-Misc
+26	B-Date
+July	I-Date
+2022	I-Date
 :	O
 Minister	O
 of	O
@@ -21,7 +21,7 @@ COP	B-Misc
 27	I-Misc
 ,	O
 received	O
-Tuesday	B-Misc
+Tuesday	B-Date
 a	O
 phone	O
 call	O
@@ -90,7 +90,7 @@ Switzerland	B-Location
 's	I-Location
 Davos	I-Location	B-Organization
 in	O
-May	B-Misc
+May	B-Date
 .	O
 "	O
 
@@ -125,8 +125,8 @@ Sharm	B-Location
 El	I-Location
 Sheikh	I-Location
 on	O
-November	B-Misc
-7-18	I-Misc
+November	B-Date
+7-18	I-Date
 .	O
 
 Minister	O

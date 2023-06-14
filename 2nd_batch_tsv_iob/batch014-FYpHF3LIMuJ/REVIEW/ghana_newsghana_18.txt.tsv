@@ -34,7 +34,7 @@ by	O
 the	O
 end	O
 of	O
-2022	B-Misc
+2022	B-Date
 .	O
 
 “	O
@@ -50,7 +50,7 @@ that	O
 by	O
 the	O
 year	O
-2023	B-Misc
+2023	B-Date
 our	O
 debt	O
 situation	O
@@ -95,7 +95,7 @@ the	O
 debate	O
 on	O
 the	O
-2022	B-Misc
+2022	B-Date
 Mid	O
 -	O
 Year	O
@@ -127,18 +127,18 @@ Ofori	I-Person
 -	I-Person
 Atta	I-Person
 on	O
-Monday	B-Misc
-,	I-Misc
-July	I-Misc
-25	I-Misc
-,	I-Misc
-2022	I-Misc
+Monday	B-Date
+,	I-Date
+July	I-Date
+25	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 presented	O
-2022	B-Misc
-Mid	I-Misc
--	I-Misc
-Year	I-Misc
+2022	B-Date
+Mid	I-Date
+-	I-Date
+Year	I-Date
 budget	O
 review	O
 and	O
@@ -169,8 +169,8 @@ Financial	I-Misc
 Management	I-Misc
 Act	I-Misc
 ,	I-Misc
-2016	I-Misc
-(	I-Misc
+2016	B-Date
+(	B-Misc
 Act	I-Misc
 921	I-Misc
 )	I-Misc
@@ -223,7 +223,7 @@ He	O
 explained	O
 in	O
 the	O
-2022	B-Misc
+2022	B-Date
 budget	O
 the	O
 government	O
@@ -249,9 +249,9 @@ same	O
 document	O
 that	O
 between	O
-January	B-Misc
+January	B-Date
 to	O
-June	B-Misc
+June	B-Date
 this	O
 year	O
 the	O
@@ -500,7 +500,7 @@ the	O
 government	O
 in	O
 the	O
-2022	B-Misc
+2022	B-Date
 budget	O
 announced	O
 that	O

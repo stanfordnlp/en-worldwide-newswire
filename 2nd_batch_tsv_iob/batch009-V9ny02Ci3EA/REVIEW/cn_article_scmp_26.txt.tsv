@@ -196,7 +196,7 @@ request	O
 for	O
 comment	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 It	O
@@ -228,7 +228,7 @@ came	O
 into	O
 force	O
 in	O
-January	B-Misc
+January	B-Date
 and	O
 gives	O
 the	O
@@ -365,7 +365,7 @@ shut	O
 down	O
 the	O
 Newport	B-Location
-plant	O	
+plant	O
 in	O
 South	B-Location
 Wales	I-Location
@@ -470,7 +470,7 @@ a	O
 written	O
 testimony	O
 in	O
-June	B-Misc
+June	B-Date
 .	O
 
 The	O
@@ -528,7 +528,7 @@ China	B-Location
 .	O
 
 In	O
-May	B-Misc
+May	B-Date
 ,	O
 Kwarteng	B-Person
 said	O

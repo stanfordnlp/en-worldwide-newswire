@@ -99,10 +99,10 @@ on	O
 the	O
 afternoon	O
 of	O
-Saturday	B-Misc
-,	I-Misc
-July	I-Misc
-23	I-Misc
+Saturday	B-Date
+,	I-Date
+July	I-Date
+23	I-Date
 ,	O
 around	O
 2:00 p.m.	O

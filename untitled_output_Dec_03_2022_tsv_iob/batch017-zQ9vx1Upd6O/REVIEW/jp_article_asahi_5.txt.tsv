@@ -41,7 +41,7 @@ the	O
 Houston	B-Organization	B-Location
 Astros	I-Organization
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 night	O
 .	O
 
@@ -91,7 +91,7 @@ an	O
 official	O
 statistic	O
 in	O
-1913	B-Misc
+1913	B-Date
 .	O
 The	O
 others	O
@@ -99,13 +99,13 @@ were	O
 Chris	B-Person
 Sale	I-Person
 (	O
-2018	B-Misc
+2018	B-Date
 )	O
 ,	O
 Clayton	B-Person
 Kershaw	I-Person
 (	O
-2014-15	B-Misc
+2014-15	B-Date
 )	O
 ,	O
 R	B-Person
@@ -114,13 +114,13 @@ A	I-Person
 .	I-Person
 Dickey	I-Person
 (	O
-2012	B-Misc
+2012	B-Date
 )	O
 and	O
 Randy	B-Person
 Johnson	I-Person
 (	O
-1997	B-Misc
+1997	B-Date
 )	O
 .	O
 
@@ -212,8 +212,8 @@ out	O
 14	O
 Angels	B-NORP
 on	O
-July	B-Misc
-1	I-Misc
+July	B-Date
+1	I-Date
 ,	O
 went	O
 only	O
@@ -254,7 +254,7 @@ s	O
 Danny	B-Person
 Salazar	I-Person
 in	O
-2014	B-Misc
+2014	B-Date
 .	O
 
 It	O
@@ -269,7 +269,7 @@ the	O
 mound	O
 before	O
 next	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ’	O
 s	O
 All	B-Misc
@@ -381,7 +381,7 @@ went	O
 2/3	O
 innings	O
 in	O
-2006	B-Misc
+2006	B-Date
 .	O
 
 Ohtani	B-Person
@@ -394,7 +394,7 @@ Ryan	I-Person
 in	O
 two	O
 areas	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 He	O
 ’	O
@@ -450,7 +450,7 @@ starter	O
 since	O
 Ryan	B-Person
 in	O
-1972	B-Misc
+1972	B-Date
 to	O
 hit	O
 a	O
@@ -495,14 +495,14 @@ s	O
 Kevin	B-Person
 Millwood	I-Person
 in	O
-1999	B-Misc
+1999	B-Date
 and	O
 Hal	B-Person
 Newhouser	I-Person
 with	O
 Detroit	B-Location
 in	O
-1946	B-Misc
+1946	B-Date
 .	O
 
 WHOLE	O

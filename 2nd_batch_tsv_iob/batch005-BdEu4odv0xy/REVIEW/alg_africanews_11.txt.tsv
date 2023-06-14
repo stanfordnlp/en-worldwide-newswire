@@ -201,14 +201,14 @@ homemade	O
 boats	O
 "	O
 between	O
-4	B-Misc
-and	I-Misc
-11	I-Misc
-May	I-Misc
+4	B-Date
+and	I-Date
+11	I-Date
+May	I-Date
 .	O
 
 In	O
-2021	B-Misc
+2021	B-Date
 ,	O
 4,404	O
 migrants	O
@@ -227,7 +227,7 @@ the	O
 worst	O
 toll	O
 since	O
-2015	B-Misc
+2015	B-Date
 ,	O
 according	O
 to	O

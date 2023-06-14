@@ -19,7 +19,7 @@ campus	O
 to	O
 begin	O
 the	O
-2022/2023	B-Misc
+2022/2023	B-Date
 academic	O
 year	O
 .	O
@@ -29,8 +29,8 @@ two	O
 day	O
 orientation	O
 on	O
-July	B-Misc
-24-25	I-Misc
+July	B-Date
+24-25	I-Date
 included	O
 a	O
 virtual	O

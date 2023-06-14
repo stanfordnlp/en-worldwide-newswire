@@ -55,10 +55,10 @@ No	O
 1	O
 —	O
 dated	O
-January	B-Misc
-4	I-Misc
-,	I-Misc
-2022	I-Misc
+January	B-Date
+4	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 and	O
 now	O

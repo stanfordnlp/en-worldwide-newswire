@@ -155,7 +155,7 @@ damages	O
 .	O
 
 On	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 Justice	O
 Michael	B-Person
@@ -537,8 +537,8 @@ began	O
 the	O
 proceedings	O
 in	O
-August	B-Misc
-2020	I-Misc
+August	B-Date
+2020	I-Date
 ,	O
 claiming	O
 six	O
@@ -547,11 +547,11 @@ defamatory	O
 publications	O
 made	O
 between	O
-July	B-Misc
-31	I-Misc
+July	B-Date
+31	I-Date
 and	O
-August	B-Misc
-14	I-Misc
+August	B-Date
+14	I-Date
 that	O
 year	O
 .	O
@@ -1387,7 +1387,7 @@ the	O
 unprecedented	O
 legislation	O
 in	O
-2020	B-Misc
+2020	B-Date
 that	O
 blocked	O
 Mr	O
@@ -1424,10 +1424,10 @@ first	O
 became	O
 aware	O
 on	O
-August	B-Misc
-12	I-Misc
-,	I-Misc
-2020	I-Misc
+August	B-Date
+12	I-Date
+,	I-Date
+2020	I-Date
 ,	O
 about	O
 the	O
@@ -1448,8 +1448,8 @@ the	O
 cabinet	O
 meeting	O
 on	O
-August	B-Misc
-11	I-Misc
+August	B-Date
+11	I-Date
 .	O
 
 He	O
@@ -1654,7 +1654,7 @@ and	O
 stressful	O
 period	O
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 
 He	O

@@ -22,7 +22,7 @@ Bangkok	B-Location
 governor	O
 said	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 .	O
 
 Governor	O
@@ -126,7 +126,7 @@ with	O
 a	O
 lawsuit	O
 in	O
-September	B-Misc
+September	B-Date
 last	O
 year	O
 for	O
@@ -223,7 +223,7 @@ will	O
 be	O
 applicable	O
 until	O
-2029	B-Misc
+2029	B-Date
 .	O
 
 “	O

@@ -30,7 +30,7 @@ S	I-Location
 backed	O
 coup	O
 in	O
-1973	B-Misc
+1973	B-Date
 .	O
 What	O
 we	O
@@ -76,10 +76,10 @@ new	O
 drama	O
 ,	O
 “	O
-September	B-Misc	B-Misc
-11	I-Misc	I-Misc
-,	I-Misc	I-Misc
-1973	I-Misc	I-Misc
+September	B-Misc	B-Date
+11	I-Misc	I-Date
+,	I-Misc	I-Date
+1973	I-Misc	I-Date
 :	I-Misc
 The	I-Misc
 Day	I-Misc
@@ -148,12 +148,12 @@ runs	O
 five	O
 times	O
 from	O
-July	B-Misc
-14	I-Misc
-to	I-Misc
-24	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+14	I-Date
+to	I-Date
+24	I-Date
+,	I-Date
+2022	I-Date
 in	O
 Georgetown	B-Location
 ,	O
@@ -482,10 +482,10 @@ life	O
 ”	O
 
 “	O
-September	B-Misc	B-Misc
-11	I-Misc	I-Misc
-,	I-Misc	I-Misc
-1973	I-Misc	I-Misc
+September	B-Misc	B-Date
+11	I-Misc	I-Date
+,	I-Misc	I-Date
+1973	I-Misc	I-Date
 :	I-Misc
 The	I-Misc
 Day	I-Misc
@@ -580,7 +580,7 @@ Bank	I-Organization
 Board	O
 Member	O
 since	O
-2010	B-Misc
+2010	B-Date
 .	O
 He	O
 graduated	O
@@ -681,7 +681,7 @@ change	O
 which	O
 won	O
 the	O
-2016	B-Misc	B-Misc
+2016	B-Misc	B-Date
 Capital	I-Misc
 Fringe	I-Misc
 Festival	I-Misc
@@ -699,6 +699,6 @@ the	O
 HB	B-Location
 Studio	I-Location
 in	O
-2018	B-Misc
+2018	B-Date
 .	O
 

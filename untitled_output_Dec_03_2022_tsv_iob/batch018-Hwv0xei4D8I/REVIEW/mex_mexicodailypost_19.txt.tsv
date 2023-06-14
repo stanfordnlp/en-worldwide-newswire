@@ -149,8 +149,8 @@ just	O
 because	O
 it	O
 was	O
-May	B-Misc
-5	I-Misc
+May	B-Date
+5	I-Date
 ,	O
 but	O
 the	O
@@ -171,7 +171,7 @@ in	O
 mind	O
 the	O
 year	O
-1862	B-Misc
+1862	B-Date
 as	O
 the	O
 date	O

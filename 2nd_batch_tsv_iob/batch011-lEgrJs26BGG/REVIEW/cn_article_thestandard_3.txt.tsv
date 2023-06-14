@@ -98,7 +98,7 @@ Sheung	B-Location
 Shui	I-Location
 restaurant	O
 last	O
-Friday	B-Misc
+Friday	B-Date
 and	O
 he	O
 wanted	O
@@ -293,7 +293,7 @@ Special	B-Misc
 Loan	I-Misc
 Guarantee	I-Misc
 on	O
-March	B-Misc
-18	I-Misc
+March	B-Date
+18	I-Date
 .	O
 

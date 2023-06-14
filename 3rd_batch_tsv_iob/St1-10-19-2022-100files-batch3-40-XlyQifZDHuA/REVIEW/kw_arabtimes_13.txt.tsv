@@ -3,8 +3,8 @@ http://www.arabtimesonline.com/news/kuwaiti-racer-al-fadhel-snatches-3rd-place-i
 KUWAIT	B-Location
 CITY	I-Location
 ,	O
-July	B-Misc
-24	I-Misc
+July	B-Date
+24	I-Date
 :	O
 Kuwaiti	B-NORP
 racer	O
@@ -18,7 +18,7 @@ third	O
 place	O
 in	O
 the	O
-2022	B-Misc
+2022	B-Date
 European	B-Misc	B-NORP
 Jetski	I-Misc
 Championship	I-Misc
@@ -35,7 +35,7 @@ which	O
 concluded	O
 in	O
 Poland	B-Location
-Sunday	B-Misc
+Sunday	B-Date
 .	O
 
 In	O

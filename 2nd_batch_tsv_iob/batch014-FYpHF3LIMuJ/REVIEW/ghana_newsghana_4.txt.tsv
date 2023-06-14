@@ -37,7 +37,7 @@ this	O
 in	O
 Accra	B-Location
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 when	O
 he	O
 inaugurated	O
@@ -276,7 +276,7 @@ Ghana	B-Location
 attained	O
 independence	O
 in	O
-1957	B-Misc
+1957	B-Date
 ,	O
 no	O
 government	O

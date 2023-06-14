@@ -8,7 +8,7 @@ chung	I-Person
 陳時中	O
 )	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 last	O
 week	O
 announced	O
@@ -70,8 +70,8 @@ leave	O
 Taiwan	B-Location
 during	O
 the	O
-White	B-Misc
-Terror	I-Misc
+White	B-Date
+Terror	I-Date
 era	O
 .	O
 
@@ -205,7 +205,7 @@ card	O
 —	O
 in	O
 the	O
-1970	B-Misc
+1970	B-Date
 s	O
 ,	O
 when	O
@@ -342,7 +342,7 @@ the	O
 KMT	B-Organization
 in	O
 his	O
-2008	B-Misc
+2008	B-Date
 presidential	O
 campaign	O
 .	O
@@ -384,7 +384,7 @@ running	O
 for	O
 legislator	O
 in	O
-2015	B-Misc
+2015	B-Date
 .	O
 
 Upon	O
@@ -642,20 +642,20 @@ health	O
 and	O
 welfare	O
 from	O
-2005	B-Misc
+2005	B-Date
 to	O
-2008	B-Misc
+2008	B-Date
 ,	O
 presidential	O
 adviser	O
 in	O
-2016	B-Misc
+2016	B-Date
 and	O
 as	O
 health	O
 minister	O
 from	O
-2017	B-Misc
+2017	B-Date
 until	O
 his	O
 resignation	O

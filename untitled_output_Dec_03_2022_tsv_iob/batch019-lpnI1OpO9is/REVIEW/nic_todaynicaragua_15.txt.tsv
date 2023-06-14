@@ -85,7 +85,7 @@ exporter	O
 of	O
 cigars	O
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 its	O
 exports	O
@@ -244,8 +244,8 @@ of	O
 my	O
 father	O
 in	O
-December	B-Misc
-2017	I-Misc
+December	B-Date
+2017	I-Date
 .	O
 ”	O
 
@@ -429,7 +429,7 @@ communist	O
 run	O
 island	O
 in	O
-2001	B-Misc
+2001	B-Date
 to	O
 found	O
 his	O
@@ -516,7 +516,7 @@ de	I-Organization
 Nicaragua	I-Organization	B-Location
 ,	O
 in	O
-1968	B-Misc
+1968	B-Date
 .	O
 
 Fleeing	O
@@ -566,7 +566,7 @@ Richard	B-Person
 Nixon	I-Person
 during	O
 a	O
-1971	B-Misc
+1971	B-Date
 visit	O
 to	O
 the	O
@@ -677,7 +677,7 @@ leftist	O
 Sandinista	B-Organization
 revolutionaries	O
 between	O
-1979-1990	B-Misc
+1979-1990	B-Date
 ,	O
 the	O
 historic	O

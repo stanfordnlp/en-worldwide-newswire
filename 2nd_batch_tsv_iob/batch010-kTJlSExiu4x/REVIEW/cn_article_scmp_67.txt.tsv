@@ -164,7 +164,7 @@ producer	O
 –	O
 said	O
 following	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ’	O
 s	O
 talks	O
@@ -219,8 +219,8 @@ the	O
 court	O
 said	O
 on	O
-March	B-Misc
-1	I-Misc
+March	B-Date
+1	I-Date
 in	O
 a	O
 case	O
@@ -312,7 +312,7 @@ formed	O
 a	O
 commission	O
 in	O
-August	B-Misc
+August	B-Date
 to	O
 investigate	O
 reserves	O
@@ -394,7 +394,7 @@ interests	O
 
 At	O
 a	O
-Christmas	B-Misc
+Christmas	B-Date
 Eve	O
 meeting	O
 with	O
@@ -458,12 +458,12 @@ Freeport	B-Organization
 -	I-Organization
 McMoRan	I-Organization
 in	O
-December	B-Misc
-2020	I-Misc
+December	B-Date
+2020	I-Date
 .	O
 
 In	O
-February	B-Misc
+February	B-Date
 ,	O
 Sun	B-Person
 also	O
@@ -611,7 +611,7 @@ the	O
 previous	O
 administration	O
 in	O
-2008	B-Misc
+2008	B-Date
 .	O
 
 “	O
@@ -739,7 +739,7 @@ put	O
 in	O
 place	O
 last	O
-August	B-Misc
+August	B-Date
 .	O
 
 The	O
@@ -1090,7 +1090,7 @@ by	O
 per	O
 cent	O
 by	O
-2030	B-Misc
+2030	B-Date
 ,	O
 the	O
 market	O
@@ -1101,7 +1101,7 @@ fall	O
 into	O
 deficit	O
 by	O
-2024	B-Misc
+2024	B-Date
 and	O
 as	O
 such	O

@@ -47,7 +47,7 @@ gathering	O
 that	O
 started	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 in	O
 Kabul	B-Location
 ’	O
@@ -73,7 +73,7 @@ Afghanistan	B-Location
 The	O
 arrival	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 of	O
 Akhunzada	B-Person
 ,	O
@@ -93,7 +93,7 @@ returned	O
 to	O
 power	O
 in	O
-August	B-Misc
+August	B-Date
 last	O
 year	O
 ,	O
@@ -362,7 +362,7 @@ security	O
 alert	O
 .	O
 On	O
-Thursday	B-Misc
+Thursday	B-Date
 ,	O
 two	O
 gunmen	O
@@ -436,7 +436,7 @@ state	O
 broadcaster	O
 RTA	B-Organization
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 that	O
 male	O
 delegates	O
@@ -470,7 +470,7 @@ Sarabi	I-Person
 ,	O
 who	O
 in	O
-2005	B-Misc
+2005	B-Date
 became	O
 the	O
 first	O
@@ -649,7 +649,7 @@ addressed	O
 the	O
 meeting	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 saying	O
 the	O
@@ -775,8 +775,8 @@ aid	O
 issues	O
 following	O
 the	O
-June	B-Misc
-22	I-Misc
+June	B-Date
+22	I-Date
 earthquake	O
 .	O
 
@@ -874,7 +874,7 @@ of	O
 power	O
 after	O
 a	O
-2016	B-Misc
+2016	B-Date
 US	B-Location
 drone	O
 strike	O
@@ -896,7 +896,7 @@ its	O
 interim	O
 government	O
 in	O
-September	B-Misc
+September	B-Date
 ,	O
 after	O
 US	B-Organization
@@ -921,7 +921,7 @@ he	O
 has	O
 held	O
 since	O
-2016	B-Misc
+2016	B-Date
 of	O
 supreme	O
 leader	O

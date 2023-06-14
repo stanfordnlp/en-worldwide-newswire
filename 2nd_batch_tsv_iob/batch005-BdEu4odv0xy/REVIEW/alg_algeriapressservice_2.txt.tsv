@@ -13,7 +13,7 @@ Tebboune	I-Person
 chaired	O
 ,	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 at	O
 the	O
 People	B-Location
@@ -42,7 +42,7 @@ BEM	B-Misc
 for	O
 the	O
 year	O
-2022	B-Misc
+2022	B-Date
 ,	O
 during	O
 which	O

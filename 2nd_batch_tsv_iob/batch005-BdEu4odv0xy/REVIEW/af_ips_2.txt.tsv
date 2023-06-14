@@ -2,9 +2,9 @@ https://www.ipsnews.net/2022/07/uk-congo-think-theyre-climate-leaders-cop26s-fal
 
 KINSHASA	B-Location
 ,	O
-Jul	B-Misc
-26	I-Misc
-2022	I-Misc
+Jul	B-Date
+26	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -94,7 +94,7 @@ during	O
 the	O
 lockdowns	O
 of	O
-2020	B-Misc
+2020	B-Date
 ,	O
 we	O
 ’	O
@@ -280,7 +280,7 @@ concessions	O
 
 As	O
 of	O
-April	B-Misc
+April	B-Date
 this	O
 year	O
 ,	O

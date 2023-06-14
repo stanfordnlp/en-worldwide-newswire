@@ -9,7 +9,7 @@ Turkey	B-Location
 snowballing	O
 
 On	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 Turkish	B-NORP
 artillery	O
@@ -483,7 +483,7 @@ the	O
 region	O
 .	O
 On	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 Deputy	O
 Prime	O

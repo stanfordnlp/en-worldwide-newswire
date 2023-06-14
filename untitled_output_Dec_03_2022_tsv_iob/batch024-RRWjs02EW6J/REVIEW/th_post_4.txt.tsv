@@ -345,7 +345,7 @@ demand	O
 in	O
 Myanmar	B-Location
 since	O
-2016	B-Misc
+2016	B-Date
 .	O
 
 Millcon	B-Organization
@@ -515,8 +515,8 @@ the	O
 first	O
 phase	O
 in	O
-September	B-Misc
-2019	I-Misc
+September	B-Date
+2019	I-Date
 .	O
 
 "	O

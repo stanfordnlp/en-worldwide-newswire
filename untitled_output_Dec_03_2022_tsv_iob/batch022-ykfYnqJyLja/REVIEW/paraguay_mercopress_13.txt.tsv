@@ -45,7 +45,7 @@ María	B-Person
 Esperanza	I-Person
 Martínez	I-Person
 (	O
-2008-2012	B-Misc
+2008-2012	B-Date
 )	O
 .	O
 
@@ -93,7 +93,7 @@ Paraguay	B-Organization	B-Location
 's	I-Organization
 Senate	I-Organization
 since	O
-2013	B-Misc
+2013	B-Date
 after	O
 being	O
 removed	O
@@ -103,7 +103,7 @@ presidency	O
 through	O
 impeachment	O
 in	O
-2012	B-Misc
+2012	B-Date
 .	O
 Like	O
 him	O
@@ -179,7 +179,7 @@ the	O
 national	O
 elections	O
 of	O
-2023	B-Misc
+2023	B-Date
 to	O
 face	O
 Santiago	B-Person

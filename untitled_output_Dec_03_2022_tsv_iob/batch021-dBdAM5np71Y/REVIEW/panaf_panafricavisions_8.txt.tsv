@@ -19,10 +19,10 @@ drumming	I-Misc
 )	I-Misc
 Concert	I-Misc
 on	O
-7th	B-Misc
-July	I-Misc
-,	I-Misc
-2022	I-Misc
+7th	B-Date
+July	I-Date
+,	I-Date
+2022	I-Date
 at	O
 Café	B-Facility
 Mondial	I-Facility

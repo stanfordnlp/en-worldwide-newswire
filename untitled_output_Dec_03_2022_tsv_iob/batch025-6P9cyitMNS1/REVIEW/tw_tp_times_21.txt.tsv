@@ -103,7 +103,7 @@ icon	O
 in	O
 mid	O
 -	O
-February	B-Misc
+February	B-Date
 if	O
 she	O
 wished	O
@@ -144,7 +144,7 @@ arrived	O
 in	O
 Taiwan	B-Location
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 last	O
 week	O
 ,	O
@@ -161,7 +161,7 @@ not	O
 performed	O
 Yezu	B-Misc
 since	O
-2002	B-Misc
+2002	B-Date
 ,	O
 one	O
 year	O

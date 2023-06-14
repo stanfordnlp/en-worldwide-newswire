@@ -55,7 +55,7 @@ Parliament	I-Organization
 Mr	O
 Bandt	B-Person
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 will	O
 drive	O
 home	O
@@ -133,7 +133,7 @@ leader	O
 David	B-Person
 Littleproud	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 Mr	O
 Bandt	B-Person
@@ -303,7 +303,7 @@ take	O
 on	O
 in	O
 the	O
-October	B-Misc
+October	B-Date
 Budget	O
 to	O
 address	O
@@ -755,6 +755,6 @@ speaking	O
 at	O
 12:30pm	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 

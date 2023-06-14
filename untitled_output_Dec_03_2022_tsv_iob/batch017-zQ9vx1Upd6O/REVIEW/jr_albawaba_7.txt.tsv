@@ -54,7 +54,7 @@ in	O
 a	O
 statement	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 said	O
 that	O
 the	O
@@ -289,7 +289,7 @@ trip	O
 to	O
 Tehran	B-Location
 in	O
-January	B-Misc
+January	B-Date
 ,	O
 said	O
 that	O

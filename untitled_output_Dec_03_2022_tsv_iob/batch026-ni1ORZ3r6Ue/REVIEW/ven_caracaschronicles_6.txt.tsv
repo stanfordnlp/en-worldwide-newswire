@@ -89,7 +89,7 @@ permanent	O
 commissions	O
 in	O
 the	O
-2015	B-Misc
+2015	B-Date
 National	B-Organization
 Assembly	I-Organization
 —	O
@@ -663,7 +663,7 @@ CNE	B-Organization
 parity	O
 rule	O
 in	O
-2005	B-Misc
+2005	B-Date
 ,	O
 and	O
 Lucena	B-Person
@@ -822,7 +822,7 @@ party	O
 to	O
 support	O
 the	O
-2007	B-Misc
+2007	B-Date
 law	O
 with	O
 the	O
@@ -837,7 +837,7 @@ The	O
 result	O
 :	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 there	O
 were	O

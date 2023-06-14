@@ -14,7 +14,7 @@ Department	I-Organization
 of	I-Organization
 State	I-Organization
 on	O
-Monday	B-Misc
+Monday	B-Date
 restricted	O
 the	O
 visas	O
@@ -70,8 +70,8 @@ of	O
 Daniel	B-Person
 Ortega	I-Person
 in	O
-November	B-Misc
-2021	I-Misc
+November	B-Date
+2021	I-Date
 ,	O
 including	O
 judges	O
@@ -196,8 +196,8 @@ Sandinista	B-Organization
 government	O
 was	O
 on	O
-June	B-Misc
-2	I-Misc
+June	B-Date
+2	I-Date
 ,	O
 when	O
 it	O
@@ -222,7 +222,7 @@ the	O
 organizations	O
 outlawed	O
 since	O
-2018	B-Misc
+2018	B-Date
 to	O
 almost	O
 500	O
@@ -278,7 +278,7 @@ Juan	B-Person
 González	I-Person
 ,	O
 said	O
-Friday	B-Misc
+Friday	B-Date
 in	O
 the	O
 final	O

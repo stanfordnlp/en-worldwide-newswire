@@ -274,7 +274,7 @@ political	O
 novice	O
 Yoon	B-Person
 in	O
-May	B-Misc
+May	B-Date
 defeated	O
 liberal	O
 candidate	O
@@ -645,7 +645,7 @@ driving	O
 while	O
 intoxicated	O
 in	O
-2001	B-Misc
+2001	B-Date
 and	O
 her	O
 repeated	O
@@ -807,7 +807,7 @@ office	O
 
 During	O
 the	O
-June	B-Misc
+June	B-Date
 Nato	B-Organization
 summit	O
 in	O
@@ -850,7 +850,7 @@ for	O
 Yoon	B-Person
 in	O
 early	O
-June	B-Misc
+June	B-Date
 ,	O
 and	O
 returned	O

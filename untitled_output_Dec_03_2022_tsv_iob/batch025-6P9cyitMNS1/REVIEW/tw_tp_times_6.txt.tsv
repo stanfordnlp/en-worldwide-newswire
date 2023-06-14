@@ -12,7 +12,7 @@ next	O
 month	O
 and	O
 in	O
-November	B-Misc
+November	B-Date
 to	O
 celebrate	O
 the	O
@@ -47,7 +47,7 @@ depot	O
 ,	O
 built	O
 in	O
-1922	B-Misc
+1922	B-Date
 ,	O
 has	O
 made	O
@@ -98,13 +98,13 @@ said	O
 .	O
 
 The	O
-Aug	B-Misc
-.	I-Misc
-13	I-Misc
+Aug	B-Date
+.	I-Date
+13	I-Date
 and	O
-Nov	B-Misc
-.	I-Misc
-5	I-Misc
+Nov	B-Date
+.	I-Date
+5	I-Date
 tours	O
 will	O
 take	O

@@ -94,8 +94,8 @@ custody	O
 until	O
 sentencing	O
 on	O
-September	B-Misc
-27	I-Misc
+September	B-Date
+27	I-Date
 .	O
 
 The	O
@@ -188,10 +188,10 @@ will	O
 be	O
 tried	O
 on	O
-September	B-Misc
-26	I-Misc
-and	I-Misc
-27	I-Misc
+September	B-Date
+26	I-Date
+and	I-Date
+27	I-Date
 .	O
 
 All	O
@@ -353,8 +353,8 @@ inoculated	O
 .	O
 
 On	O
-February	B-Misc
-20	I-Misc
+February	B-Date
+20	I-Date
 ,	O
 the	O
 Liu	B-Person

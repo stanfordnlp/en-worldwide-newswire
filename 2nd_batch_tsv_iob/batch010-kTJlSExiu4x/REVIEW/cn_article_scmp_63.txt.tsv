@@ -53,7 +53,7 @@ approach	O
 .	O
 
 On	O
-Sunday	B-Misc
+Sunday	B-Date
 ,	O
 during	O
 the	O
@@ -140,7 +140,7 @@ $	I-Money
 400	I-Money
 billion	I-Money
 by	O
-2027	B-Misc
+2027	B-Date
 ,	O
 in	O
 a	O
@@ -605,7 +605,7 @@ projects	O
 
 And	O
 in	O
-December	B-Misc
+December	B-Date
 ,	O
 the	O
 27	O
@@ -640,7 +640,7 @@ around	O
 the	O
 world	O
 by	O
-2027	B-Misc
+2027	B-Date
 to	O
 fund	O
 infrastructure	O
@@ -701,7 +701,7 @@ organisations	O
 
 “	O
 In	O
-2015	B-Misc
+2015	B-Date
 ,	O
 the	O
 Addis	B-Misc	B-Location
@@ -1198,7 +1198,7 @@ to	O
 be	O
 reached	O
 by	O
-2027	B-Misc
+2027	B-Date
 .	O
 
 “	O
@@ -1346,7 +1346,7 @@ first	O
 time	O
 since	O
 the	O
-2005	B-Misc
+2005	B-Date
 Gleneagles	B-Misc
 G	B-Organization
 7	I-Organization

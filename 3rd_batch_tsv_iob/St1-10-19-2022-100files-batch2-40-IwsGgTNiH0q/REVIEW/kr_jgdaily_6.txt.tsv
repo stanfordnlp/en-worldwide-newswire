@@ -15,7 +15,7 @@ visit	O
 to	O
 Washington	B-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 to	O
 discuss	O
 a	O
@@ -37,7 +37,7 @@ Washington	B-Location
 's	O
 Dulles	B-Facility
 Airport	I-Facility
-Tuesday	B-Misc
+Tuesday	B-Date
 as	O
 aides	O
 tried	O
@@ -61,7 +61,7 @@ Agengy	I-Organization
 and	O
 released	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 Kim	B-Person
@@ -140,9 +140,9 @@ ballistic	O
 missile	O
 launches	O
 since	O
-Jan	B-Misc
-.	I-Misc
-1	I-Misc
+Jan	B-Date
+.	I-Date
+1	I-Date
 ,	O
 the	O
 most	O
@@ -161,8 +161,8 @@ intercontinental	O
 ballistic	O
 missile	O
 on	O
-May	B-Misc
-25	I-Misc
+May	B-Date
+25	I-Date
 .	O
 Its	O
 previous	O
@@ -171,7 +171,7 @@ was	O
 25	O
 missiles	O
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 Kim	B-Person
@@ -246,11 +246,11 @@ least	O
 one	O
 meeting	O
 in	O
-2013	B-Misc
+2013	B-Date
 and	O
 one	O
 in	O
-2014	B-Misc
+2014	B-Date
 .	O
 
 Kim	B-Person
@@ -273,7 +273,7 @@ North	B-NORP
 Korean	I-NORP
 fishermen	O
 in	O
-November	B-Misc
-2019	I-Misc
+November	B-Date
+2019	I-Date
 .	O
 

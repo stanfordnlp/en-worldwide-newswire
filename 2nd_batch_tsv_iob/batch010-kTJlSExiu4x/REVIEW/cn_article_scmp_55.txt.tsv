@@ -61,7 +61,7 @@ conference	O
 in	O
 Seoul	B-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 following	O
 media	O
 reports	O
@@ -216,10 +216,10 @@ in	O
 Japan	B-Location
 during	O
 the	O
-1960	B-Misc
+1960	B-Date
 s	O
 to	O
-1970	B-Misc
+1970	B-Date
 s	O
 were	O
 concerned	O
@@ -285,7 +285,7 @@ with	O
 the	O
 church	O
 around	O
-2009	B-Misc
+2009	B-Date
 according	O
 to	O
 the	O
@@ -369,8 +369,8 @@ city	O
 of	O
 Nara	B-Location
 on	O
-July	B-Misc
-8	I-Misc
+July	B-Date
+8	I-Date
 .	O
 Yamagami	B-Person
 ’	O
@@ -409,7 +409,7 @@ in	O
 South	B-Location
 Korea	I-Location
 in	O
-1954	B-Misc
+1954	B-Date
 by	O
 Moon	B-Person
 and	O
@@ -456,7 +456,7 @@ by	O
 the	O
 end	O
 of	O
-July	B-Misc
+July	B-Date
 because	O
 he	O
 ran	O
@@ -501,8 +501,8 @@ some	O
 yen	I-Money
 as	O
 of	O
-July	B-Misc
-8	I-Misc
+July	B-Date
+8	I-Date
 when	O
 he	O
 shot	O

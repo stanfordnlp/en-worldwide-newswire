@@ -58,11 +58,11 @@ hero	O
 .	O
 
 On	O
-Feb	B-Misc
-.	I-Misc
-9	I-Misc
-,	I-Misc
-1940	I-Misc
+Feb	B-Date
+.	I-Date
+9	I-Date
+,	I-Date
+1940	I-Date
 ,	O
 in	O
 New	B-Location
@@ -152,7 +152,7 @@ which	O
 took	O
 place	O
 in	O
-June	B-Misc
+June	B-Date
 that	O
 same	O
 year	O
@@ -207,11 +207,11 @@ record	O
 Godoy	B-Person
 was	O
 born	O
-Oct	B-Misc
-.	I-Misc
-10	I-Misc
-,	I-Misc
-1912	I-Misc
+Oct	B-Date
+.	I-Date
+10	I-Date
+,	I-Date
+1912	I-Date
 in	O
 a	O
 small	O
@@ -265,7 +265,7 @@ s	O
 life	O
 changed	O
 in	O
-1930	B-Misc
+1930	B-Date
 ,	O
 when	O
 he	O
@@ -396,10 +396,10 @@ place	O
 in	O
 Santiago	B-Location
 on	O
-Dec	B-Misc
-.	I-Misc
-21	I-Misc
-1930	I-Misc
+Dec	B-Date
+.	I-Date
+21	I-Date
+1930	I-Date
 ,	O
 against	O
 Peter	B-Person
@@ -429,8 +429,8 @@ Havana	B-Location
 Cuba	I-Location
 ,	O
 in	O
-June	B-Misc
-1932	I-Misc
+June	B-Date
+1932	I-Date
 .	O
 What	O
 followed	O
@@ -894,9 +894,9 @@ days	O
 later	O
 ,	O
 on	O
-Feb	B-Misc
-.	I-Misc
-13	I-Misc
+Feb	B-Date
+.	I-Date
+13	I-Date
 ,	O
 Godoy	B-Person
 and	O
@@ -917,8 +917,8 @@ announced	O
 a	O
 rematch	O
 for	O
-June	B-Misc
-20	I-Misc
+June	B-Date
+20	I-Date
 of	O
 that	O
 same	O
@@ -1082,7 +1082,7 @@ returned	O
 to	O
 Chile	B-Location
 in	O
-1941	B-Misc
+1941	B-Date
 where	O
 he	O
 was	O
@@ -1176,11 +1176,11 @@ an	O
 exhibition	O
 bout	O
 in	O
-1947	B-Misc
+1947	B-Date
 .	O
 
 In	O
-1949	B-Misc
+1949	B-Date
 ,	O
 Godoy	B-Person
 officially	O
@@ -1192,7 +1192,7 @@ Chile	B-Location
 and	O
 ,	O
 in	O
-1953	B-Misc
+1953	B-Date
 ,	O
 he	O
 retired	O
@@ -1227,7 +1227,7 @@ day	O
 he	O
 died	O
 in	O
-1987	B-Misc
+1987	B-Date
 as	O
 a	O
 result	O

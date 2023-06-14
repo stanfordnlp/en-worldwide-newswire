@@ -38,9 +38,9 @@ In	O
 a	O
 release	O
 from	O
-Jan	B-Misc
-.	I-Misc
-12	I-Misc
+Jan	B-Date
+.	I-Date
+12	I-Date
 ,	O
 the	O
 First	B-NORP
@@ -125,7 +125,7 @@ the	O
 first	O
 week	O
 of	O
-2022	B-Misc
+2022	B-Date
 ,	O
 it	O
 really	O
@@ -244,9 +244,9 @@ held	O
 in	O
 Carcross	B-Location
 on	O
-Jan	B-Misc
-.	I-Misc
-7	I-Misc
+Jan	B-Date
+.	I-Date
+7	I-Date
 ,	O
 which	O
 generated	O
@@ -512,9 +512,9 @@ in	O
 the	O
 community	O
 until	O
-Jan	B-Misc
-.	I-Misc
-26	I-Misc
+Jan	B-Date
+.	I-Date
+26	I-Date
 .	O
 
 The	O
@@ -881,9 +881,9 @@ COVID	B-Misc
 press	O
 conference	O
 on	O
-Jan	B-Misc
-.	I-Misc
-12	I-Misc
+Jan	B-Date
+.	I-Date
+12	I-Date
 ,	O
 Tracy	B-Person
 -	I-Person
@@ -1022,8 +1022,8 @@ of	O
 .	O
 As	O
 of	O
-November	B-Misc
-2021	I-Misc
+November	B-Date
+2021	I-Date
 ,	O
 54	O
 people	O
@@ -1039,6 +1039,6 @@ use	O
 of	O
 opioids	O
 since	O
-2016	B-Misc
+2016	B-Date
 .	O
 

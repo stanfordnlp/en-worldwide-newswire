@@ -19,10 +19,10 @@ year	O
 that	O
 ended	O
 on	O
-June	B-Misc
-30	I-Misc
-,	I-Misc
-2022	I-Misc
+June	B-Date
+30	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 which	O
 represents	O

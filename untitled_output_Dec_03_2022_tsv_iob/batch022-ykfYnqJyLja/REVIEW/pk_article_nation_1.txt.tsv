@@ -592,7 +592,7 @@ Supreme	B-Organization
 Court	I-Organization
 today	O
 (	O
-Tuesday	B-Misc
+Tuesday	B-Date
 )	O
 ,	O
 adding	O
@@ -667,8 +667,8 @@ alleged	O
 police	O
 highhandedness	O
 on	O
-May	B-Misc
-25	I-Misc
+May	B-Date
+25	I-Date
 ,	O
 he	O
 said	O
@@ -851,8 +851,8 @@ to	O
 take	O
 place	O
 on	O
-July	B-Misc
-22	I-Misc
+July	B-Date
+22	I-Date
 on	O
 the	O
 orders	O

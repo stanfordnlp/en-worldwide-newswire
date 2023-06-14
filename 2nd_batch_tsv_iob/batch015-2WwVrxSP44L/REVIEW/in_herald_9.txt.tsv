@@ -39,8 +39,8 @@ on	O
 social	O
 media	O
 on	O
-July	B-Misc
-24	I-Misc
+July	B-Date
+24	I-Date
 ,	O
 which	O
 drew	O
@@ -103,8 +103,8 @@ of	I-Location
 Udupi	I-Location
 district	O
 on	O
-July	B-Misc
-20	I-Misc
+July	B-Date
+20	I-Date
 prompted	O
 the	O
 campaign	O
@@ -201,7 +201,7 @@ campaign	O
 on	O
 Twitter	B-Product
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 "	O
@@ -279,10 +279,10 @@ during	O
 his	O
 visit	O
 on	O
-August	B-Misc
-1	I-Misc
-or	I-Misc
-2	I-Misc
+August	B-Date
+1	I-Date
+or	I-Date
+2	I-Date
 ,	O
 Karwar	B-Location
 -	O

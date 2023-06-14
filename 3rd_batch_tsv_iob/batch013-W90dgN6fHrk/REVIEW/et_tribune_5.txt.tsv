@@ -42,9 +42,9 @@ to	O
 his	O
 father	O
 from	O
-1543-4	B-Misc
+1543-4	B-Date
 to	O
-1557-8	B-Misc
+1557-8	B-Date
 .	O
 Also	O
 called	O
@@ -235,7 +235,7 @@ who	O
 was	O
 appointed	O
 in	O
-1538-9	B-Misc
+1538-9	B-Date
 ,	O
 and	O
 was	O
@@ -248,7 +248,7 @@ Shah	I-Person
 of	I-Person
 Khandesh	I-Person
 (	O
-1537-1566	B-Misc
+1537-1566	B-Date
 )	O
 .	O
 He	O
@@ -265,7 +265,7 @@ town	O
 of	O
 Surat	B-Location
 in	O
-1558-9	B-Misc
+1558-9	B-Date
 ,	O
 and	O
 was	O
@@ -332,7 +332,7 @@ Khan	O
 he	O
 died	O
 in	O
-1573	B-Misc
+1573	B-Date
 ,	O
 when	O
 he	O
@@ -370,7 +370,7 @@ Bahadur	B-Person
 s	O
 death	O
 in	O
-1537	B-Misc
+1537	B-Date
 ,	O
 became	O
 governor	O
@@ -409,7 +409,7 @@ Khan	O
 and	O
 died	O
 in	O
-1563-3	B-Misc
+1563-3	B-Date
 ;	O
 and	O
 Fulad	B-Person
@@ -427,7 +427,7 @@ until	O
 his	O
 death	O
 in	O
-1569-70	B-Misc
+1569-70	B-Date
 .	O
 
 Yet	O
@@ -468,7 +468,7 @@ latter	O
 s	O
 death	O
 in	O
-1554	B-Misc
+1554	B-Date
 he	O
 joined	O
 the	O
@@ -583,7 +583,7 @@ persons	O
 He	O
 died	O
 in	O
-1576	B-Misc
+1576	B-Date
 ;	O
 and	O
 is	O

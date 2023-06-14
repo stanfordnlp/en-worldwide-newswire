@@ -107,7 +107,7 @@ said	O
 in	O
 parliament	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 “	O
 If	O
@@ -286,7 +286,7 @@ country	O
 Zafrul	B-Person
 said	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 adding	O
 that	O
@@ -350,7 +350,7 @@ s	O
 commodities	O
 minister	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 warned	O
 that	O
 its	O
@@ -468,7 +468,7 @@ In	O
 a	O
 statement	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 Malaysia	B-Location
 ’	O
@@ -510,7 +510,7 @@ total	O
 global	O
 imports	O
 in	O
-2022	B-Misc
+2022	B-Date
 will	O
 come	O
 close	O
@@ -686,7 +686,7 @@ $	I-Money
 a	O
 tonne	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 afternoon	O
 .	O
 

@@ -31,7 +31,7 @@ a	O
 statement	O
 released	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 by	O
 the	O
 intelligence	O
@@ -189,7 +189,7 @@ arrests	O
 .	O
 
 On	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 Iran	B-Location
 's	O
@@ -349,11 +349,11 @@ Turkey	B-Location
 Sabah	B-Organization
 newspaper	O
 reported	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 In	O
-June	B-Misc
+June	B-Date
 ,	O
 Turkey	B-Location
 arrested	O

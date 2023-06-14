@@ -4,9 +4,9 @@ BULAWAYO	B-Location
 ,	I-Location
 Zimbabwe	I-Location
 ,	O
-Jun	B-Misc
-21	I-Misc
-2022	I-Misc
+Jun	B-Date
+21	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -81,7 +81,7 @@ years	O
 .	O
 
 In	O
-November	B-Misc
+November	B-Date
 last	O
 year	O
 ,	O
@@ -259,11 +259,11 @@ from	O
 22.6	O
 percent	O
 in	O
-2007	B-Misc
+2007	B-Date
 to	O
 19.6	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 Africa	B-Location
 and	O

@@ -156,7 +156,7 @@ Syrian	B-NORP
 Golan	B-Location
 Heights	I-Location
 of	O
-1981	B-Misc
+1981	B-Date
 ,	O
 Israeli	B-NORP
 reluctance	O
@@ -201,8 +201,8 @@ the	O
 White	B-Facility
 House	I-Facility
 in	O
-January	B-Misc
-2021	I-Misc
+January	B-Date
+2021	I-Date
 .	O
 They	O
 worried	O
@@ -361,8 +361,8 @@ of	O
 the	O
 Golan	B-Location
 on	O
-December	B-Misc
-26	I-Misc
+December	B-Date
+26	I-Date
 .	O
 
 The	O
@@ -449,8 +449,8 @@ Bennett	B-Person
 who	O
 ,	O
 in	O
-June	B-Misc
-2021	I-Misc
+June	B-Date
+2021	I-Date
 ,	O
 was	O
 embraced	O
@@ -831,7 +831,7 @@ of	O
 the	O
 territory	O
 in	O
-1981	B-Misc
+1981	B-Date
 .	O
 
 The	O

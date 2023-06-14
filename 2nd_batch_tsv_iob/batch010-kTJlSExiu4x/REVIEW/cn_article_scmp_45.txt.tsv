@@ -23,7 +23,7 @@ ahead	O
 with	O
 lawmakers	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 passing	O
 into	O
 law	O
@@ -82,7 +82,7 @@ Monoarfa	I-Person
 told	O
 parliament	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 that	O
 the	O
 president	O
@@ -318,9 +318,9 @@ island	O
 ,	O
 ruled	O
 from	O
-1293	B-Misc
-to	I-Misc
-1527	I-Misc
+1293	B-Date
+to	I-Date
+1527	I-Date
 ,	O
 and	O
 in	O
@@ -772,7 +772,7 @@ under	O
 its	O
 leadership	O
 in	O
-2045	B-Misc
+2045	B-Date
 ,	O
 when	O
 Southeast	B-Location
@@ -809,8 +809,8 @@ When	O
 Widodo	B-Person
 announced	O
 in	O
-August	B-Misc
-2019	I-Misc
+August	B-Date
+2019	I-Date
 that	O
 the	O
 administrative	O
@@ -856,7 +856,7 @@ Jokowikarta	B-Location
 .	O
 
 In	O
-April	B-Misc
+April	B-Date
 last	O
 year	O
 ,	O
@@ -975,13 +975,13 @@ bill	O
 into	O
 law	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 having	O
 spent	O
 all	O
 of	O
-Monday	B-Misc
+Monday	B-Date
 deliberating	O
 .	O
 
@@ -1211,7 +1211,7 @@ Week	I-Organization
 in	I-Organization
 Asia	I-Organization	B-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 The	O

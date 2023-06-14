@@ -48,12 +48,12 @@ days	O
 Since	O
 5:50 a.m.	O
 on	O
-Tuesday	B-Misc
-,	I-Misc
-May	I-Misc
-3	I-Misc
-,	I-Misc
-2022	I-Misc
+Tuesday	B-Date
+,	I-Date
+May	I-Date
+3	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 nine	O
 earthquakes	O
@@ -127,7 +127,7 @@ country	O
 registered	O
 7,436	O
 in	O
-2021	B-Misc
+2021	B-Date
 alone	O
 )	O
 ,	O

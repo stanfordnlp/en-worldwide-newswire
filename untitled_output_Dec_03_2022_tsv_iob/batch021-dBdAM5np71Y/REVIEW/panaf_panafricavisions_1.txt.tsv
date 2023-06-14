@@ -14,11 +14,11 @@ Akufo	I-Person
 Addo	I-Person
 ,	O
 on	O
-Sunday	B-Misc
-,	I-Misc
-24th	I-Misc
-July	I-Misc
-2022	I-Misc
+Sunday	B-Date
+,	I-Date
+24th	I-Date
+July	I-Date
+2022	I-Date
 ,	O
 commissioned	O
 the	O
@@ -236,7 +236,7 @@ contested	O
 the	O
 presidency	O
 in	O
-2008	B-Misc
+2008	B-Date
 ,	O
 and	O
 even	O
@@ -276,7 +276,7 @@ a	O
 third	O
 round	O
 in	O
-2012	B-Misc
+2012	B-Date
 ,	O
 when	O
 the	O
@@ -285,9 +285,9 @@ called	O
 him	O
 home	O
 on	O
-24th	B-Misc
-July	I-Misc
-2012	I-Misc
+24th	B-Date
+July	I-Date
+2012	I-Date
 ,	O
 ”	O
 he	O
@@ -318,7 +318,7 @@ Park	I-Facility
 and	O
 ,	O
 in	O
-2020	B-Misc
+2020	B-Date
 ,	O
 he	O
 received	O
@@ -422,7 +422,7 @@ since	O
 his	O
 burial	O
 in	O
-2012	B-Misc
+2012	B-Date
 ,	O
 and	O
 I	O

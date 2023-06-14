@@ -341,7 +341,7 @@ students	O
 
 Earlier	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 the	O
 chairman	O
@@ -499,8 +499,8 @@ nationwide	O
 industrial	O
 action	O
 on	O
-February	B-Misc
-14	I-Misc
+February	B-Date
+14	I-Date
 ,	O
 has	O
 continued	O

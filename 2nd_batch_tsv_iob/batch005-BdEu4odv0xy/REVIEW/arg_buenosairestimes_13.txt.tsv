@@ -1,7 +1,7 @@
 https://www.batimes.com.ar/news/sports/eduardo-dominguez-falls-short-in-avellaneda.phtml	O
 
 On	O
-Wednesday	B-Misc
+Wednesday	B-Date
 Eduardo	B-Person
 Domínguez	I-Person
 stepped	O
@@ -48,7 +48,7 @@ the	O
 first	O
 half	O
 of	O
-2021	B-Misc
+2021	B-Date
 in	O
 the	O
 Copa	B-Organization
@@ -89,7 +89,7 @@ surprise	O
 ,	O
 accelerated	O
 by	O
-Sunday	B-Misc
+Sunday	B-Date
 's	O
 clásico	O
 defeat	O
@@ -178,7 +178,7 @@ as	O
 Battaglia	B-Person
 had	O
 in	O
-August	B-Misc
+August	B-Date
 when	O
 Miguel	B-Person
 Ángel	I-Person
@@ -250,7 +250,7 @@ through	O
 both	O
 competitions	O
 in	O
-2022	B-Misc
+2022	B-Date
 out	O
 of	O
 the	O
@@ -507,7 +507,7 @@ El	B-Person
 Muñeco	I-Person
 .	O
 ’	O
-Sunday	B-Misc
+Sunday	B-Date
 's	O
 defeat	O
 at	O
@@ -550,7 +550,7 @@ the	O
 Libertadores	B-Misc
 ,	O
 though	O
-Wednesday	B-Misc
+Wednesday	B-Date
 's	O
 Copa	B-Misc
 Argentina	I-Misc
@@ -582,7 +582,7 @@ contract	O
 is	O
 up	O
 in	O
-December	B-Misc
+December	B-Date
 and	O
 while	O
 the	O

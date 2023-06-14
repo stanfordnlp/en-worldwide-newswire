@@ -287,7 +287,7 @@ per	O
 cent	O
 collapse	O
 in	O
-May	B-Misc
+May	B-Date
 –	O
 “	O
 are	O
@@ -332,7 +332,7 @@ annual	O
 review	O
 released	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 showed	O
 MAS	B-Organization
 clocked	O
@@ -349,8 +349,8 @@ the	O
 financial	O
 year	O
 ended	O
-March	B-Misc
-31	I-Misc
+March	B-Date
+31	I-Date
 because	O
 of	O
 the	O
@@ -440,9 +440,9 @@ on	O
 proposed	O
 measures	O
 in	O
-September	B-Misc
+September	B-Date
 or	O
-October	B-Misc
+October	B-Date
 ,	O
 and	O
 eventually	O
@@ -778,8 +778,8 @@ off	O
 cycle	O
 tightening	O
 on	O
-July	B-Misc
-14	I-Misc
+July	B-Date
+14	I-Date
 .	O
 The	O
 city	O
@@ -793,9 +793,9 @@ every	O
 six	O
 months	O
 in	O
-April	B-Misc
+April	B-Date
 and	O
-October	B-Misc
+October	B-Date
 ,	O
 but	O
 this	O
@@ -819,7 +819,7 @@ nine	O
 months	O
 since	O
 last	O
-October	B-Misc
+October	B-Date
 –	O
 to	O
 strengthen	O
@@ -873,7 +873,7 @@ will	O
 then	O
 ease	O
 in	O
-2023	B-Misc
+2023	B-Date
 ,	O
 but	O
 remain	O
@@ -887,7 +887,7 @@ cent	O
 rate	O
 averaged	O
 since	O
-2000	B-Misc
+2000	B-Date
 ”	O
 .	O
 

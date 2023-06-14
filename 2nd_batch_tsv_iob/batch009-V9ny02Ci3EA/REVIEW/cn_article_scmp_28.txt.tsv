@@ -24,7 +24,7 @@ since	O
 a	O
 rebound	O
 in	O
-June	B-Misc
+June	B-Date
 ,	O
 while	O
 the	O
@@ -77,11 +77,11 @@ the	O
 Elderly	B-Organization
 Commission	I-Organization
 on	O
-July	B-Misc
-30	I-Misc
+July	B-Date
+30	I-Date
 ,	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 dismissed	O
 the	O
 possibility	O
@@ -111,7 +111,7 @@ priority	O
 Hong	B-Location
 Kong	I-Location
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 logged	O
 4,375	O
 new	O
@@ -131,9 +131,9 @@ The	O
 city	O
 ’	O
 s	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 tally	O
 stands	O
 at	O
@@ -198,9 +198,9 @@ as	O
 what	O
 happened	O
 in	O
-February	B-Misc
+February	B-Date
 and	O
-March	B-Misc
+March	B-Date
 during	O
 the	O
 fifth	O
@@ -299,7 +299,7 @@ clinics	O
 
 Earlier	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 ,	O
 Secretary	O
 for	O
@@ -419,7 +419,7 @@ were	O
 informed	O
 in	O
 late	O
-June	B-Misc
+June	B-Date
 that	O
 pandemic	O
 measures	O
@@ -707,7 +707,7 @@ RAT	B-Misc
 starting	O
 from	O
 next	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 Starting	O
@@ -736,8 +736,8 @@ care	O
 homes	O
 .	O
 From	O
-August	B-Misc
-28	I-Misc
+August	B-Date
+28	I-Date
 onwards	O
 ,	O
 the	O
@@ -1173,7 +1173,7 @@ per	O
 week	O
 in	O
 early	O
-June	B-Misc
+June	B-Date
 to	O
 around	O
 20	O

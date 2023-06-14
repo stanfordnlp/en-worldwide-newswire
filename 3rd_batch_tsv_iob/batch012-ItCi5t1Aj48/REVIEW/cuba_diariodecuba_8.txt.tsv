@@ -211,7 +211,7 @@ Oxford	B-Organization	B-Location
 University	I-Organization
 Press	I-Organization
 ,	O
-2021	B-Misc
+2021	B-Date
 )	O
 ;	O
 and	O
@@ -256,7 +256,7 @@ Debate	B-Misc
 ,	O
 México	B-Location
 ,	O
-2019	B-Misc
+2019	B-Date
 )	O
 .	O
 

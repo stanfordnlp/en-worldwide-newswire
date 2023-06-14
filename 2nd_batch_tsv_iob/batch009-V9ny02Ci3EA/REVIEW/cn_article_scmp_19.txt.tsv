@@ -112,7 +112,7 @@ Studies	I-Organization
 in	O
 Washington	B-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 “	O
 Without	O
@@ -199,7 +199,7 @@ President	O
 Xi	B-Person
 Jinping	I-Person
 in	O
-2016	B-Misc
+2016	B-Date
 established	O
 the	O
 Joint	B-Organization

@@ -12,7 +12,7 @@ a	O
 hour	O
 strike	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 suspending	O
 the	O
@@ -122,7 +122,7 @@ across	O
 the	O
 country	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 some	O
 driving	O
@@ -200,7 +200,7 @@ a	O
 location	O
 associated	O
 with	O
-2008	B-Misc
+2008	B-Date
 agro	O
 -	O
 industry	O
@@ -615,7 +615,7 @@ $	I-Money
 41	I-Money
 billion	I-Money
 in	O
-2022	B-Misc
+2022	B-Date
 ,	O
 some	O
 US	B-Money	B-Location
@@ -625,6 +625,6 @@ billion	I-Money
 more	O
 than	O
 in	O
-2021	B-Misc
+2021	B-Date
 .	O
 

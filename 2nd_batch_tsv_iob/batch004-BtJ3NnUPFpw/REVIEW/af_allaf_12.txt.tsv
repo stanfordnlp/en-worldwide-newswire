@@ -54,7 +54,7 @@ leader	O
 died	O
 in	O
 December	O
-2013	B-Misc
+2013	B-Date
 at	O
 age	O
 95	O
@@ -63,8 +63,8 @@ The	O
 annual	O
 commemoration	O
 on	O
-18	B-Misc
-July	I-Misc
+18	B-Date
+July	I-Date
 ,	O
 his	O
 birthday	O

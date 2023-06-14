@@ -206,7 +206,7 @@ was	O
 first	O
 reported	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 by	O
 Channel	B-Organization
 13	I-Organization
@@ -233,7 +233,7 @@ Litzman	B-Person
 approached	O
 Birger	B-Person
 in	O
-2012	B-Misc
+2012	B-Date
 .	O
 Birger	B-Person
 heads	O
@@ -428,7 +428,7 @@ the	O
 pressure	O
 halted	O
 in	O
-2013	B-Misc
+2013	B-Date
 ,	O
 when	O
 Litzman	B-Person
@@ -485,7 +485,7 @@ Channel	B-Organization
 news	I-Organization
 reported	O
 in	O
-2009	B-Misc
+2009	B-Date
 that	O
 he	O
 had	O

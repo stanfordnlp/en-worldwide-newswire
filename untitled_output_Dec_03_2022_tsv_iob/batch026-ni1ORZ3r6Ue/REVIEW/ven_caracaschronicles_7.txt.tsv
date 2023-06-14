@@ -43,7 +43,7 @@ the	O
 document	O
 ,	O
 in	O
-2021	B-Misc
+2021	B-Date
 Telefónica	B-Organization
 intercepted	O
 the	O
@@ -292,7 +292,7 @@ we	O
 documented	O
 in	O
 our	O
-2021	B-Misc
+2021	B-Date
 report	O
 “	O
 Without	B-Misc
@@ -544,7 +544,7 @@ increased	O
 7	O
 times	O
 since	O
-2016	B-Misc
+2016	B-Date
 ,	O
 when	O
 there	O
@@ -588,7 +588,7 @@ Telefónica	B-Organization
 recognizes	O
 that	O
 in	O
-2021	B-Misc
+2021	B-Date
 they	O
 began	O
 blocking	O
@@ -1124,7 +1124,7 @@ of	O
 30	O
 URLs	O
 during	O
-2021	B-Misc
+2021	B-Date
 ,	O
 another	O
 systematic	O
@@ -1138,7 +1138,7 @@ Venezuela	B-Location
 .	O
 
 In	O
-2021	B-Misc
+2021	B-Date
 ,	O
 VE	B-Organization
 sin	I-Organization
@@ -1203,7 +1203,7 @@ rights	O
 .	O
 
 In	O
-2022	B-Misc
+2022	B-Date
 ,	O
 VE	B-Organization
 sin	I-Organization
@@ -1226,8 +1226,8 @@ the	O
 most	O
 recent	O
 in	O
-June	B-Misc
-2022	I-Misc
+June	B-Date
+2022	I-Date
 ,	O
 where	O
 the	O

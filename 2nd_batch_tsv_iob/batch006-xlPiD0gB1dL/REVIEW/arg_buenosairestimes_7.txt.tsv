@@ -18,7 +18,7 @@ Mayo	I-Organization	I-Location
 ,	O
 died	O
 last	O
-Monday	B-Misc
+Monday	B-Date
 at	O
 the	O
 age	O
@@ -43,7 +43,7 @@ in	O
 captivity	O
 during	O
 the	O
-1976-83	B-Misc
+1976-83	B-Date
 military	O
 dictatorship	O
 .	O
@@ -72,13 +72,13 @@ the	O
 organisation	O
 founded	O
 in	O
-1977	B-Misc
+1977	B-Date
 .	O
 
 On	O
-5	B-Misc
-November	I-Misc
-2015	I-Misc
+5	B-Date
+November	I-Date
+2015	I-Date
 ,	O
 after	O
 39	O
@@ -200,7 +200,7 @@ who	O
 were	O
 kidnapped	O
 in	O
-1976	B-Misc
+1976	B-Date
 from	O
 their	O
 house	O
@@ -357,10 +357,10 @@ woman	O
 gave	O
 birth	O
 on	O
-5	B-Misc
-December	I-Misc
-,	I-Misc
-1976	I-Misc
+5	B-Date
+December	I-Date
+,	I-Date
+1976	I-Date
 ,	O
 “	O
 handcuffed	O
@@ -423,8 +423,8 @@ missing	O
 .	O
 
 In	O
-October	B-Misc
-1977	I-Misc
+October	B-Date
+1977	I-Date
 ,	O
 Delia	B-Person
 formed	O
@@ -526,7 +526,7 @@ which	O
 was	O
 shown	O
 in	O
-1982	B-Misc
+1982	B-Date
 in	O
 the	O
 middle	O

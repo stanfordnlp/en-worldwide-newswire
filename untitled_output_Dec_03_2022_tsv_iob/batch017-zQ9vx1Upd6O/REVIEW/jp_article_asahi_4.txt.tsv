@@ -33,8 +33,8 @@ periods	O
 Kishida	B-Person
 told	O
 a	O
-July	B-Misc
-14	I-Misc
+July	B-Date
+14	I-Date
 news	O
 conference	O
 that	O
@@ -295,8 +295,8 @@ in	O
 operation	O
 as	O
 of	O
-July	B-Misc
-14	I-Misc
+July	B-Date
+14	I-Date
 .	O
 
 Kishida	B-Misc

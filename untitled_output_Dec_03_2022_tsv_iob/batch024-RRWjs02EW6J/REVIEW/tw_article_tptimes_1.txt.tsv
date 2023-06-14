@@ -38,7 +38,7 @@ of	O
 the	O
 township	O
 in	O
-2008	B-Misc
+2008	B-Date
 ,	O
 the	O
 Hualien	B-Location
@@ -73,7 +73,7 @@ the	O
 record	O
 set	O
 in	O
-2019	B-Misc
+2019	B-Date
 at	O
 39.2	O
 °	O
@@ -89,7 +89,7 @@ forecast	O
 to	O
 last	O
 until	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 The	O
@@ -343,9 +343,9 @@ reach	O
 °	O
 C	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 or	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 meteorologist	O
 Peng	B-Person
@@ -420,9 +420,9 @@ forecast	O
 to	O
 weaken	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 or	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 and	O
 the	O

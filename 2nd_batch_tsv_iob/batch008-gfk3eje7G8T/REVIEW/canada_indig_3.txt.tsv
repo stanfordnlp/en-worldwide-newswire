@@ -4,7 +4,7 @@ The	O
 federal	O
 government	O
 announced	O
-Monday	B-Misc
+Monday	B-Date
 that	O
 it	O
 has	O
@@ -60,9 +60,9 @@ chiefs	O
 and	O
 headmen	O
 from	O
-1885	B-Misc
+1885	B-Date
 to	O
-1951	B-Misc
+1951	B-Date
 when	O
 it	O
 deemed	O
@@ -84,7 +84,7 @@ leader	O
 Louis	B-Person
 Riel	I-Person
 in	O
-1885	B-Misc
+1885	B-Date
 .	O
 
 "	O
@@ -169,7 +169,7 @@ claim	O
 was	O
 settled	O
 in	O
-June	B-Misc
+June	B-Date
 for	O
 a	O
 little	O
@@ -228,7 +228,7 @@ place	O
 "	O
 Miller	B-Person
 said	O
-Monday	B-Misc
+Monday	B-Date
 inside	O
 a	O
 teepee	O
@@ -355,7 +355,7 @@ The	O
 announcement	O
 opened	O
 the	O
-2022	B-Misc
+2022	B-Date
 St	B-Misc	B-Organization
 .	I-Misc	I-Organization
 Mikes	I-Misc	I-Organization	B-Person

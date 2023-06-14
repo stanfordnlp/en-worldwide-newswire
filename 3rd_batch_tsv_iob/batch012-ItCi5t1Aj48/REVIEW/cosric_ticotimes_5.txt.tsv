@@ -92,8 +92,8 @@ private	O
 health	O
 center	O
 on	O
-July	B-Misc
-17	I-Misc
+July	B-Date
+17	I-Date
 due	O
 to	O
 health	O
@@ -102,8 +102,8 @@ and	O
 was	O
 admitted	O
 on	O
-July	B-Misc
-19	I-Misc
+July	B-Date
+19	I-Date
 when	O
 he	O
 presented	O

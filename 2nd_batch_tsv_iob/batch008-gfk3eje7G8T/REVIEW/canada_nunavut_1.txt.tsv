@@ -71,8 +71,8 @@ via	O
 press	O
 statement	O
 on	O
-July	B-Misc
-24	I-Misc
+July	B-Date
+24	I-Date
 .	O
 
 “	O
@@ -114,7 +114,7 @@ back	O
 in	O
 the	O
 early	O
-1930	B-Misc
+1930	B-Date
 s	O
 and	O
 were	O
@@ -138,7 +138,7 @@ Ontario	B-Location
 
 Back	O
 in	O
-June	B-Misc
+June	B-Date
 ,	O
 on	O
 Indigenous	B-Misc
@@ -428,7 +428,7 @@ to	O
 be	O
 repeated	O
 during	O
-Thursday	B-Misc
+Thursday	B-Date
 ’	O
 s	O
 Papal	O
@@ -591,7 +591,7 @@ in	O
 Québec	B-Location
 City	I-Location
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 ,	O
 where	O
 he	O

@@ -29,7 +29,7 @@ Cannes	B-Misc
 Film	I-Misc
 Festival	I-Misc
 in	O
-2010	B-Misc
+2010	B-Date
 ,	O
 has	O
 died	O
@@ -42,7 +42,7 @@ of	O
 state	O
 media	O
 reported	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 
 Chafia	B-Person
@@ -52,7 +52,7 @@ born	O
 in	O
 Constantine	B-Location
 in	O
-1930	B-Misc
+1930	B-Date
 and	O
 widow	O
 of	O
@@ -66,7 +66,7 @@ the	O
 Algerian	B-NORP
 war	O
 in	O
-1960	B-Misc
+1960	B-Date
 ,	O
 was	O
 known	O
@@ -101,7 +101,7 @@ than	O
 years	O
 died	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 in	O
 Algiers	B-Location
 .	O
@@ -175,7 +175,7 @@ the	O
 death	O
 ,	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 of	O
 another	O

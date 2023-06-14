@@ -81,11 +81,11 @@ a	O
 second	O
 wave	O
 of	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 according	O
 to	O
@@ -93,7 +93,7 @@ a	O
 Canalys	B-Organization
 report	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 Shipments	O
@@ -107,7 +107,7 @@ the	O
 first	O
 quarter	O
 of	O
-2022	B-Misc
+2022	B-Date
 ,	O
 marking	O
 a	O
@@ -256,11 +256,11 @@ a	O
 second	O
 wave	O
 of	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 according	O
 to	O
@@ -268,7 +268,7 @@ a	O
 Canalys	B-Organization
 report	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 Shipments	O
@@ -282,7 +282,7 @@ the	O
 first	O
 quarter	O
 of	O
-2022	B-Misc
+2022	B-Date
 ,	O
 marking	O
 a	O
@@ -448,7 +448,7 @@ deadly	O
 border	O
 clash	O
 in	O
-2020	B-Misc
+2020	B-Date
 .	O
 
 Indian	B-NORP
@@ -515,7 +515,7 @@ Co	I-Organization
 .	O
 
 In	O
-May	B-Misc
+May	B-Date
 ,	O
 the	O
 Enforcement	B-Organization

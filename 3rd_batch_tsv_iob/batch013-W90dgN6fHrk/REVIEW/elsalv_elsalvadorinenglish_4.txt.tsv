@@ -123,7 +123,7 @@ Salvador	I-Location
 .	O
 
 Last	O
-May	B-Misc
+May	B-Date
 ,	O
 the	O
 Legislative	B-Organization
@@ -199,7 +199,7 @@ $	B-Money
 
 Also	O
 in	O
-May	B-Misc
+May	B-Date
 ,	O
 President	O
 Bukele	B-Person
@@ -240,7 +240,7 @@ been	O
 implemented	O
 jointly	O
 since	O
-2019	B-Misc
+2019	B-Date
 as	O
 a	O
 mechanism	O
@@ -386,7 +386,7 @@ product	O
 was	O
 exposed	O
 last	O
-January	B-Misc
+January	B-Date
 to	O
 businessmen	O
 from	O
@@ -472,10 +472,10 @@ visit	O
 to	O
 Turkey	B-Location
 on	O
-January	B-Misc
-20	I-Misc
-and	I-Misc
-21	I-Misc
+January	B-Date
+20	I-Date
+and	I-Date
+21	I-Date
 to	O
 strengthen	O
 diplomatic	O
@@ -546,8 +546,8 @@ been	O
 strengthened	O
 .	O
 On	O
-February	B-Misc
-23	I-Misc
+February	B-Date
+23	I-Date
 ,	O
 representatives	O
 of	O
@@ -682,8 +682,8 @@ Holte	I-Person
 met	O
 virtually	O
 in	O
-June	B-Misc
-2021	I-Misc
+June	B-Date
+2021	I-Date
 and	O
 highlighted	O
 national	O
@@ -786,10 +786,10 @@ Russia	B-Location
 That	O
 changed	O
 on	O
-August	B-Misc
-8	I-Misc
-,	I-Misc
-2019	I-Misc
+August	B-Date
+8	I-Date
+,	I-Date
+2019	I-Date
 —	O
 with	O
 the	O

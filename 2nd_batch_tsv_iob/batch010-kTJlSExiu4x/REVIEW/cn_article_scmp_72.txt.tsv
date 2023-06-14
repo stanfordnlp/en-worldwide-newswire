@@ -10,7 +10,7 @@ Jackson	B-Person
 Yee	I-Person
 said	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 he	O
 would	O
 not	O
@@ -25,7 +25,7 @@ Theatre	I-Organization
 of	I-Organization
 China	I-Organization	B-Location
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 after	O
 his	O
 recruitment	O
@@ -182,7 +182,7 @@ Chinese	B-NORP
 social	O
 media	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 .	O
 
 However	O
@@ -380,7 +380,7 @@ Yee	B-Person
 s	O
 announcement	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 attracted	O
 two	O
 billion	O
@@ -460,7 +460,7 @@ then	O
 Hu	B-Person
 said	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 that	O
 he	O
 never	O
@@ -567,7 +567,7 @@ survey	O
 results	O
 released	O
 in	O
-April	B-Misc
+April	B-Date
 by	O
 recruitment	O
 platform	O
@@ -632,7 +632,7 @@ departments	O
 .	O
 
 On	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 the	O
 National	B-Organization
@@ -797,7 +797,7 @@ National	B-Organization
 Theatre	I-Organization
 .	O
 In	O
-2020	B-Misc
+2020	B-Date
 ,	O
 another	O
 actor	O

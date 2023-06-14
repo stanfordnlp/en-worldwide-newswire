@@ -187,12 +187,12 @@ from	O
 75	O
 kilograms	O
 in	O
-March	B-Misc
+March	B-Date
 to	O
 44	O
 kg	O
 in	O
-June	B-Misc
+June	B-Date
 .	O
 
 As	O
@@ -262,7 +262,7 @@ to	O
 a	O
 survey	O
 in	O
-June	B-Misc
+June	B-Date
 by	O
 credit	O
 research	O
@@ -492,7 +492,7 @@ the	O
 fiscal	O
 year	O
 through	O
-March	B-Misc
+March	B-Date
 ,	O
 marking	O
 a	O

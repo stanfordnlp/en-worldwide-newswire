@@ -8,7 +8,7 @@ by	O
 Djemal	B-Person
 Pasha	I-Person
 in	O
-1916	B-Misc
+1916	B-Date
 left	O
 Gedalyahu	B-Person
 Wilbushevitz	I-Person
@@ -152,8 +152,8 @@ Palestine	I-Location
 in	O
 the	O
 late	O
-19th	B-Misc
-century	I-Misc
+19th	B-Date
+century	I-Date
 from	O
 White	B-Location
 Russia	I-Location
@@ -1395,7 +1395,7 @@ places	O
 He	O
 died	O
 in	O
-1943	B-Misc
+1943	B-Date
 ,	O
 and	O
 a	O

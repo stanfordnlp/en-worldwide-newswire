@@ -41,8 +41,8 @@ seized	O
 the	O
 letter	O
 on	O
-July	B-Misc
-17	I-Misc
+July	B-Date
+17	I-Date
 despite	O
 the	O
 objections	O
@@ -89,8 +89,8 @@ to	O
 his	O
 home	O
 on	O
-July	B-Misc
-13	I-Misc
+July	B-Date
+13	I-Date
 .	O
 
 Abe	B-Person
@@ -101,8 +101,8 @@ killed	O
 in	O
 Nara	B-Location
 on	O
-July	B-Misc
-8	I-Misc
+July	B-Date
+8	I-Date
 .	O
 Police	O
 suspect	O
@@ -482,8 +482,8 @@ on	O
 the	O
 night	O
 of	O
-July	B-Misc
-7	I-Misc
+July	B-Date
+7	I-Date
 ,	O
 according	O
 to	O
@@ -571,7 +571,7 @@ on	O
 the	O
 evening	O
 of	O
-July	B-Misc
-17	I-Misc
+July	B-Date
+17	I-Date
 .	O
 

@@ -208,7 +208,7 @@ a	O
 trial	O
 basis	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 ahead	O
 of	O
@@ -257,8 +257,8 @@ expressway	O
 was	O
 struck	O
 in	O
-September	B-Misc
-2018	I-Misc
+September	B-Date
+2018	I-Date
 during	O
 the	O
 Forum	B-Misc
@@ -320,7 +320,7 @@ million	I-Money
 a	O
 year	O
 by	O
-2043	B-Misc
+2043	B-Date
 .	O
 
 This	O
@@ -363,7 +363,7 @@ finance	O
 .	O
 
 In	O
-2018	B-Misc
+2018	B-Date
 ,	O
 China	B-Location
 ’	O
@@ -425,7 +425,7 @@ meeting	O
 in	O
 Senegal	B-Location
 in	O
-November	B-Misc
+November	B-Date
 ,	O
 a	O
 statement	O
@@ -924,9 +924,9 @@ on	O
 
 At	O
 the	O
-2015	B-Misc
+2015	B-Date
 and	O
-2018	B-Misc
+2018	B-Date
 FOCAC	B-Organization
 meetings	O
 ,	O

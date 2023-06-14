@@ -22,9 +22,9 @@ Grand	O
 
 CAIRO	B-Location
 –	O
-26	B-Misc
-July	I-Misc
-2022	I-Misc
+26	B-Date
+July	I-Date
+2022	I-Date
 :	O
 U	B-Location
 .	I-Location
@@ -47,8 +47,8 @@ Egyptian	B-NORP
 government	O
 officials	O
 on	O
-July	B-Misc
-25	I-Misc
+July	B-Date
+25	I-Date
 to	O
 advance	O
 a	O
@@ -423,10 +423,10 @@ Leaders	I-Misc
 ’	I-Misc
 Summit	I-Misc
 on	O
-December	B-Misc
-13-15	I-Misc
-,	I-Misc
-2022	I-Misc
+December	B-Date
+13-15	I-Date
+,	I-Date
+2022	I-Date
 .	O
 Egypt	B-Location
 ’	O

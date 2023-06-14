@@ -126,18 +126,16 @@ called	O
 “	O
 Nude	B-Misc
 Portrait	I-Misc
-#	I-Misc
-7	I-Misc
+#7	I-Misc
 Frame	I-Misc
-#	I-Misc
-64	I-Misc
+#64	I-Misc
 ”	O
 at	O
 Sotheby	B-Organization
 ’	O
 s	O
 in	O
-March	B-Misc
+March	B-Date
 for	O
 £	B-Money
 630,000	I-Money
@@ -261,7 +259,7 @@ generated	O
 art	O
 during	O
 the	O
-1960	B-Misc
+1960	B-Date
 s	O
 .	O
 
@@ -290,7 +288,7 @@ key	O
 works	O
 being	O
 a	O
-1968	B-Misc
+1968	B-Date
 piece	O
 by	O
 German	B-NORP

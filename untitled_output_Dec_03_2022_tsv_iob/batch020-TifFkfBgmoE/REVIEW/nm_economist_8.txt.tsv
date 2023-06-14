@@ -32,7 +32,7 @@ debt	O
 crisis	O
 of	O
 the	O
-1980	B-Misc
+1980	B-Date
 s	O
 ,	O
 sovereign	O
@@ -69,7 +69,7 @@ its	O
 foreign	O
 debt	O
 in	O
-May	B-Misc
+May	B-Date
 ,	O
 and	O
 a	O
@@ -558,9 +558,9 @@ capital	O
 markets	O
 .	O
 Between	O
-2000	B-Misc
+2000	B-Date
 and	O
-2020	B-Misc
+2020	B-Date
 ,	O
 the	O
 number	O
@@ -853,7 +853,7 @@ instrument	O
 it	O
 adopted	O
 in	O
-March	B-Misc
+March	B-Date
 ,	O
 the	O
 ECB	B-Organization
@@ -1035,7 +1035,7 @@ first	O
 introduced	O
 during	O
 the	O
-2008	B-Misc
+2008	B-Date
 financial	O
 crisis	O
 )	O

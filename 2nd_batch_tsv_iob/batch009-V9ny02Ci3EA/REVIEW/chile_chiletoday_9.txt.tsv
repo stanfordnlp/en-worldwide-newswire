@@ -106,9 +106,9 @@ in	O
 the	B-Location
 Hague	I-Location
 begin	O
-Apr	B-Misc
-.	I-Misc
-1	I-Misc
+Apr	B-Date
+.	I-Date
+1	I-Date
 .	O
 The	O
 issue	O
@@ -117,7 +117,7 @@ submitted	O
 by	O
 Chile	B-Location
 in	O
-2016	B-Misc
+2016	B-Date
 and	O
 has	O
 now	O
@@ -144,11 +144,11 @@ presentations	O
 will	O
 run	O
 from	O
-Apr	B-Misc
-.	I-Misc
-1	I-Misc
-through	I-Misc
-14	I-Misc
+Apr	B-Date
+.	I-Date
+1	I-Date
+through	I-Date
+14	I-Date
 .	O
 
 Both	O
@@ -157,12 +157,12 @@ presented	O
 written	O
 pleadings	O
 in	O
-2017	B-Misc
+2017	B-Date
 ,	O
-2018	B-Misc
+2018	B-Date
 ,	O
 and	O
-2019	B-Misc
+2019	B-Date
 and	O
 have	O
 been	O
@@ -250,8 +250,8 @@ first	O
 half	O
 of	O
 the	O
-20th	B-Misc
-century	I-Misc
+20th	B-Date
+century	I-Date
 .	O
 
 Chile	B-Location
@@ -491,7 +491,7 @@ by	O
 the	O
 ICJ	B-Organization
 in	O
-2018	B-Misc
+2018	B-Date
 .	O
 The	O
 agreement	O

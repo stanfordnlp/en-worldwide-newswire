@@ -5,7 +5,7 @@ Mavis	B-Person
 Adams	I-Person
 Lariba	I-Person
 ,	O
-2022	B-Misc
+2022	B-Date
 Miss	B-Misc
 Tourism	I-Misc
 Ghana	I-Misc	B-Location
@@ -268,12 +268,7 @@ the	O
 short	O
 Code	O
 :	O
-*	O
-447	O
-*	O
-124	O
-#	O
-13	O
+*447*124#13	O
 to	O
 enable	O
 her	O
@@ -290,7 +285,7 @@ ambassador	O
 .	O
 
 The	O
-2022	B-Misc
+2022	B-Date
 Miss	B-Misc
 Tourism	I-Misc
 Ghana	I-Misc	B-Location
@@ -351,7 +346,7 @@ Tourism	I-Organization
 Ghana	I-Organization	B-Location
 said	O
 the	O
-2022	B-Misc
+2022	B-Date
 pageant	O
 will	O
 cover	O
@@ -449,8 +444,8 @@ to	O
 take	O
 place	O
 on	O
-September	B-Misc
-2	I-Misc
+September	B-Date
+2	I-Date
 at	O
 the	O
 National	B-Facility

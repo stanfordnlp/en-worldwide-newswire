@@ -66,7 +66,7 @@ democracy	O
 
 Lee	B-Person
 attacked	O
-Saturday	B-Misc
+Saturday	B-Date
 ’	O
 s	O
 meeting	O
@@ -97,9 +97,9 @@ is	O
 similar	O
 to	O
 the	O
-Dec	B-Misc
-.	I-Misc
-12	I-Misc
+Dec	B-Date
+.	I-Date
+12	I-Date
 coup	O
 d	O
 ’	O
@@ -111,7 +111,7 @@ said	O
 to	O
 the	O
 press	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 referring	O
 to	O
@@ -119,7 +119,7 @@ the	O
 military	O
 coup	O
 in	O
-1979	B-Misc
+1979	B-Date
 through	O
 which	O
 Chun	B-Person
@@ -436,7 +436,7 @@ under	O
 its	O
 wings	O
 until	O
-1991	B-Misc
+1991	B-Date
 before	O
 it	O
 was	O
@@ -535,9 +535,9 @@ new	O
 bureau	O
 set	O
 for	O
-Aug	B-Misc
-.	I-Misc
-2	I-Misc
+Aug	B-Date
+.	I-Date
+2	I-Date
 ,	O
 but	O
 President	O
@@ -562,7 +562,7 @@ matter	O
 
 Yoon	B-Person
 said	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 “	O
 I	O
@@ -828,7 +828,7 @@ to	O
 hold	O
 a	O
 meeting	O
-Saturday	B-Misc
+Saturday	B-Date
 to	O
 showcase	O
 their	O

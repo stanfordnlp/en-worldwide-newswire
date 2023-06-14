@@ -41,7 +41,7 @@ held	O
 in	O
 Winnipeg	B-Location
 on	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 dozens	O
 of	O
@@ -139,7 +139,7 @@ Dumas	B-Person
 was	O
 suspended	O
 in	O
-March	B-Misc
+March	B-Date
 pending	O
 an	O
 investigation	O
@@ -233,7 +233,7 @@ messages	O
 to	O
 her	O
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 "	O
@@ -375,7 +375,7 @@ of	O
 her	O
 allegations	O
 in	O
-June	B-Misc
+June	B-Date
 ,	O
 via	O
 an	O
@@ -477,7 +477,7 @@ He	O
 did	O
 not	O
 appear	O
-Friday	B-Misc
+Friday	B-Date
 at	O
 the	O
 special	O
@@ -512,7 +512,7 @@ AMC	B-Organization
 grand	O
 chief	O
 in	O
-2017	B-Misc
+2017	B-Date
 ,	O
 and	O
 was	O
@@ -541,9 +541,9 @@ will	O
 be	O
 held	O
 on	O
-Oct	B-Misc
-.	I-Misc
-19	I-Misc
+Oct	B-Date
+.	I-Date
+19	I-Date
 to	O
 elect	O
 a	O
@@ -619,7 +619,7 @@ she	O
 said	O
 ,	O
 adding	O
-Friday	B-Misc
+Friday	B-Date
 's	O
 decision	O
 was	O

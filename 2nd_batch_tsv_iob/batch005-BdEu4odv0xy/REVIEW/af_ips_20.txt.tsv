@@ -2,9 +2,9 @@ https://www.ipsnews.net/2022/04/africa-commits-green-recovery-covid-19-amid-daun
 
 KIGALI	B-Location
 ,	O
-Apr	B-Misc
-12	I-Misc
-2022	I-Misc
+Apr	B-Date
+12	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -70,7 +70,7 @@ pathway	O
 ,	O
 initiated	O
 in	O
-July	B-Misc
+July	B-Date
 last	O
 year	O
 ,	O
@@ -280,7 +280,7 @@ UNEP	B-Organization
 indicates	O
 that	O
 by	O
-2050	B-Misc
+2050	B-Date
 greenhouse	O
 gas	O
 emissions	O
@@ -343,7 +343,7 @@ over	O
 per	O
 cent	O
 by	O
-2040	B-Misc
+2040	B-Date
 ;	O
 reduce	O
 virgin	O
@@ -361,7 +361,7 @@ $	I-Money
 70	I-Money
 billion	I-Money
 by	O
-2040	B-Misc
+2040	B-Date
 ,	O
 reduce	O
 greenhouse	O
@@ -412,9 +412,9 @@ green	O
 economic	O
 recovery	O
 from	O
-COVID	B-Misc
--	I-Misc
-19	I-Misc
+COVID	B-Date
+-	I-Date
+19	I-Date
 ,	O
 some	O
 environmental	O
@@ -549,7 +549,7 @@ surpass	O
 the	O
 South	B-NORP
 African	I-NORP
-2030	B-Misc
+2030	B-Date
 climate	O
 target	O
 ,	O
@@ -728,7 +728,7 @@ which	O
 took	O
 place	O
 in	O
-March	B-Misc
+March	B-Date
 in	O
 Nairobi	B-Location
 ,	I-Location
@@ -780,7 +780,7 @@ by	O
 the	O
 end	O
 of	O
-2024	B-Misc
+2024	B-Date
 .	O
 
 According	O

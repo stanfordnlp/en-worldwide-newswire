@@ -23,8 +23,8 @@ suspended	O
 coal	O
 production	O
 on	O
-April	B-Misc
-30	I-Misc
+April	B-Date
+30	I-Date
 for	O
 development	O
 work	O
@@ -176,7 +176,7 @@ at	O
 the	O
 end	O
 of	O
-August	B-Misc
+August	B-Date
 ,	O
 the	O
 power	O
@@ -209,8 +209,8 @@ about	O
 the	O
 matter	O
 on	O
-July	B-Misc
-7	I-Misc
+July	B-Date
+7	I-Date
 ,	O
 top	O
 officials	O

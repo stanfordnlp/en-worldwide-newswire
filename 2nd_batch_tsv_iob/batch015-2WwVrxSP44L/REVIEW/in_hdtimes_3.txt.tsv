@@ -52,7 +52,7 @@ associate	O
 Arpita	B-Person
 Mukherjee	I-Person
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 and	O
 the	O
 long	O
@@ -172,7 +172,7 @@ which	O
 dates	O
 back	O
 to	O
-2012	B-Misc
+2012	B-Date
 suggests	O
 that	O
 the	O
@@ -204,7 +204,7 @@ Calcutta	B-Organization	B-Location
 High	I-Organization
 Court	I-Organization
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 that	O
 during	O
 the	O
@@ -301,7 +301,7 @@ revised	O
 result	O
 of	O
 TET	B-Misc
-2012	B-Misc
+2012	B-Date
 ,	O
 a	O
 note	O
@@ -384,7 +384,7 @@ high	O
 court	O
 ,	O
 in	O
-June	B-Misc
+June	B-Date
 the	O
 ED	B-Organization
 lodged	O
@@ -408,7 +408,7 @@ scam	O
 .	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 the	O
 ED	B-Organization

@@ -417,7 +417,7 @@ the	O
 same	O
 period	O
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 «	O
@@ -472,7 +472,7 @@ exchange	O
 earnings	O
 than	O
 in	O
-2019	B-Misc
+2019	B-Date
 tourists	O
 are	O
 spending	O
@@ -496,9 +496,9 @@ that	O
 million	O
 visitors	O
 from	O
-January	B-Misc
+January	B-Date
 to	O
-June	B-Misc
+June	B-Date
 »	O
 ,	O
 she	O

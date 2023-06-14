@@ -10,7 +10,7 @@ opposition	O
 leaders	O
 met	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 to	O
 discuss	O
 for	O
@@ -59,8 +59,8 @@ over	O
 who	O
 won	O
 the	O
-May	B-Misc
-15	I-Misc
+May	B-Date
+15	I-Date
 election	O
 ,	O
 when	O
@@ -317,7 +317,7 @@ last	O
 election	O
 ,	O
 in	O
-2000	B-Misc
+2000	B-Date
 .	O
 
 The	O
@@ -469,8 +469,8 @@ linked	O
 to	O
 the	O
 delayed	O
-August	B-Misc
-21	I-Misc
+August	B-Date
+21	I-Date
 ballot	O
 ,	O
 when	O

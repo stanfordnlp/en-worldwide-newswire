@@ -56,7 +56,7 @@ media	O
 outlet	O
 Jiemian	B-Organization
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 The	O
@@ -527,7 +527,7 @@ officially	O
 launching	O
 early	O
 last	O
-August	B-Misc
+August	B-Date
 .	O
 PCG	B-Organization
 was	O
@@ -569,7 +569,7 @@ unsold	O
 according	O
 to	O
 a	O
-June	B-Misc
+June	B-Date
 article	O
 on	O
 Huoxun	B-Organization

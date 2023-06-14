@@ -145,13 +145,13 @@ during	O
 the	O
 peak	O
 of	O
-COVID	B-Misc
--	I-Misc
-19	I-Misc
+COVID	B-Date
+-	I-Date
+19	I-Date
 from	O
-March	B-Misc
+March	B-Date
 to	O
-June	B-Misc
+June	B-Date
 –	O
 most	O
 of	O
@@ -199,7 +199,7 @@ added	O
 .	O
 
 In	O
-2020	B-Misc
+2020	B-Date
 ,	O
 the	O
 International	B-Organization
@@ -217,9 +217,9 @@ largest	O
 international	O
 carrier	O
 between	O
-April	B-Misc
+April	B-Date
 and	O
-July	B-Misc
+July	B-Date
 .	O
 The	O
 airline	O
@@ -233,7 +233,7 @@ international	O
 passenger	O
 traffic	O
 in	O
-April	B-Misc
+April	B-Date
 ,	O
 its	O
 network	O
@@ -315,7 +315,7 @@ the	O
 most	O
 profitable	O
 during	O
-2021	B-Misc
+2021	B-Date
 ,	O
 ”	O
 Al	B-Person

@@ -155,7 +155,7 @@ his	O
 first	O
 album	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 “	O
@@ -189,7 +189,7 @@ Hope	I-Person
 ’	O
 s	O
 own	O
-2018	B-Misc
+2018	B-Date
 release	O
 “	O
 Hope	B-Misc	B-Person

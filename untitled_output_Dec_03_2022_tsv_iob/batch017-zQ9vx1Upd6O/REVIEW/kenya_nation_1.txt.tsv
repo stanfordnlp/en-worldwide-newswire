@@ -35,10 +35,10 @@ following	O
 his	O
 promotion	O
 on	O
-July	B-Misc
-20	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+20	I-Date
+,	I-Date
+2022	I-Date
 .	O
 
 Lt	O
@@ -236,7 +236,7 @@ Nairobi	B-Location
 .	O
 
 In	O
-2020	B-Misc
+2020	B-Date
 ,	O
 Brigadier	O
 Kioko	B-Person
@@ -261,7 +261,7 @@ position	O
 she	O
 held	O
 until	O
-July	B-Misc
+July	B-Date
 last	O
 year	O
 when	O
@@ -312,8 +312,8 @@ this	O
 year	O
 ’	O
 s	O
-Madaraka	B-Misc
-Day	I-Misc
+Madaraka	B-Date
+Day	I-Date
 celebrations	O
 honoured	O
 with	O
@@ -408,10 +408,10 @@ of	O
 a	O
 Brigadier	O
 in	O
-2015	B-Misc
+2015	B-Date
 and	O
 in	O
-2020	B-Misc
+2020	B-Date
 when	O
 she	O
 was	O
@@ -426,7 +426,7 @@ General	O
 .	O
 
 In	O
-2015	B-Misc
+2015	B-Date
 ,	O
 President	O
 Kenyatta	B-Person

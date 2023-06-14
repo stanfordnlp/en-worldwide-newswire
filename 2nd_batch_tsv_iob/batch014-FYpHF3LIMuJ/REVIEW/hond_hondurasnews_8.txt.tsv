@@ -162,10 +162,10 @@ to	O
 the	O
 world	O
 on	O
-January	B-Misc
-12	I-Misc
-,	I-Misc
-2016	I-Misc
+January	B-Date
+12	I-Date
+,	I-Date
+2016	I-Date
 ,	O
 the	O
 first	O
@@ -204,8 +204,8 @@ Chiabodo	I-Person
 relayed	O
 that	O
 on	O
-February	B-Misc
-15th	I-Misc
+February	B-Date
+15th	I-Date
 ,	O
 two	O
 days	O
@@ -263,7 +263,7 @@ would	O
 be	O
 ready	O
 in	O
-September	B-Misc
+September	B-Date
 .	O
 
 “	O
@@ -317,7 +317,7 @@ however	O
 ,	O
 that	O
 before	O
-September	B-Misc
+September	B-Date
 ,	O
 materials	O
 from	O
@@ -686,8 +686,8 @@ remain	O
 in	O
 Honduras	B-Location
 until	O
-February	B-Misc
-13th	I-Misc
+February	B-Date
+13th	I-Date
 ,	O
 producing	O
 documentaries	O

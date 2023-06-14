@@ -4,7 +4,7 @@ AMMAN	B-Location
 —	I-Location
 Jordan	I-Location
 on	O
-Monday	B-Misc
+Monday	B-Date
 took	O
 part	O
 in	O
@@ -39,7 +39,7 @@ will	O
 continue	O
 until	O
 next	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 witnessed	O
 the	O
@@ -111,7 +111,7 @@ wide	O
 global	O
 participation	O
 in	O
-2015	B-Misc
+2015	B-Date
 ,	O
 stressed	O
 the	O

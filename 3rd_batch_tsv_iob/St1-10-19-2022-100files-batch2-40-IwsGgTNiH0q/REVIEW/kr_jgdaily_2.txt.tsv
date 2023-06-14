@@ -7,7 +7,7 @@ Suk	I-Person
 yeol	I-Person
 ordered	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 the	O
 preparation	O
 of	O
@@ -50,7 +50,7 @@ Hyun	I-Person
 -	I-Person
 sook	I-Person
 on	O
-Monday	B-Misc
+Monday	B-Date
 .	O
 The	O
 meeting	O

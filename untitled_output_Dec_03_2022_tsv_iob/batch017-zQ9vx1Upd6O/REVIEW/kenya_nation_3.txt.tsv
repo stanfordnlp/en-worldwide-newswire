@@ -21,10 +21,10 @@ House	I-Location
 in	O
 Nairobi	B-Location
 on	O
-Thursday	B-Misc
-,	I-Misc
-July	I-Misc
-28	I-Misc
+Thursday	B-Date
+,	B-Misc
+July	B-Date
+28	I-Date
 ,	O
 making	O
 it	O
@@ -108,7 +108,7 @@ Education	I-Organization
 offices	O
 today	O
 (	O
-Wednesday	B-Misc
+Wednesday	B-Date
 )	O
 for	O
 rehearsal	O
@@ -143,8 +143,8 @@ it	O
 was	O
 established	O
 in	O
-September	B-Misc
-2014	I-Misc
+September	B-Date
+2014	I-Date
 ,	O
 has	O
 fulfilled	O
@@ -312,8 +312,8 @@ before	O
 the	O
 elections	O
 on	O
-August	B-Misc
-9	I-Misc
+August	B-Date
+9	I-Date
 .	O
 
 Mr	O
@@ -329,7 +329,7 @@ charter	O
 ,	O
 and	O
 in	O
-February	B-Misc
+February	B-Date
 this	O
 year	O
 ,	O
@@ -406,8 +406,8 @@ awarded	O
 Kafuco	B-Organization
 opened	O
 in	O
-September	B-Misc
-2014	I-Misc
+September	B-Date
+2014	I-Date
 and	O
 sits	O
 on	O

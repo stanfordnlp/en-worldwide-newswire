@@ -56,8 +56,8 @@ him	O
 was	O
 postponed	O
 to	O
-September	B-Misc
-6	I-Misc
+September	B-Date
+6	I-Date
 ,	O
 for	O
 representations	O
@@ -127,7 +127,7 @@ the	O
 matter	O
 appears	O
 in	O
-September	B-Misc
+September	B-Date
 .	O
 
 Mokoena	B-Person
@@ -182,10 +182,10 @@ Mutual	I-Organization
 Bank	I-Organization
 ,	O
 from	O
-August	B-Misc
+August	B-Date
 until	O
-December	B-Misc
-2017	I-Misc
+December	B-Date
+2017	I-Date
 ,	O
 under	O
 his	O
@@ -310,8 +310,8 @@ the	O
 docket	O
 electronically	O
 in	O
-December	B-Misc
-2021	I-Misc
+December	B-Date
+2021	I-Date
 and	O
 other	O
 additional	O

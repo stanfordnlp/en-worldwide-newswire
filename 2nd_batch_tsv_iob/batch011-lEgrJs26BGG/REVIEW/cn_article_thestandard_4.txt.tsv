@@ -39,7 +39,7 @@ East	B-Misc	B-NORP
 Asian	I-Misc	I-NORP
 Championship	I-Misc
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 despite	O
 fielding	O
 a	O
@@ -298,7 +298,7 @@ World	B-Misc
 Cup	I-Misc
 finals	O
 in	O
-November	B-Misc
+November	B-Date
 in	O
 Qatar	B-Location
 and	O
@@ -325,7 +325,7 @@ Championship	I-Misc
 will	O
 continue	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 when	O
 three	O
 -	O

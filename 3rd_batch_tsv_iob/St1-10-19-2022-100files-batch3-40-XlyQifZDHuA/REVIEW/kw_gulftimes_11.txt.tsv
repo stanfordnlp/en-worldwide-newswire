@@ -2,7 +2,7 @@ https://www.gulf-times.com/story/721584/Fire-Station-announces-Youth-Summer-Prog
 
 The	O
 Doha	B-Organization	B-Location
-Fire	I-Organization	
+Fire	I-Organization
 Station	I-Organization
 has	O
 announced	O
@@ -21,11 +21,11 @@ will	O
 take	O
 place	O
 from	O
-July	B-Misc
-31	I-Misc
-to	I-Misc
-September	I-Misc
-1	I-Misc
+July	B-Date
+31	I-Date
+to	I-Date
+September	I-Date
+1	I-Date
 .	O
 
 The	O
@@ -188,11 +188,11 @@ Acrylic	B-Misc
 Painting	I-Misc
 Techniques	I-Misc
 (	O
-July	B-Misc
-31	I-Misc
-to	I-Misc
-August	I-Misc
-4	I-Misc
+July	B-Date
+31	I-Date
+to	I-Date
+August	I-Date
+4	I-Date
 )	O
 -	O
 In	O
@@ -241,10 +241,10 @@ Theyab	I-Person
 Resin	O
 Art	O
 (	O
-August	B-Misc
-7	I-Misc
-to	I-Misc
-11	I-Misc
+August	B-Date
+7	I-Date
+to	I-Date
+11	I-Date
 )	O
 -	O
 In	O
@@ -287,10 +287,10 @@ it	O
 is	O
 Moving	O
 (	O
-August	B-Misc
-21	I-Misc
-to	I-Misc
-25	I-Misc
+August	B-Date
+21	I-Date
+to	I-Date
+25	I-Date
 )	O
 -	O
 In	O
@@ -331,11 +331,11 @@ Patterning	O
 &	O
 Design	O
 (	O
-August	B-Misc
-28	I-Misc
-to	I-Misc
-September	I-Misc
-1	I-Misc
+August	B-Date
+28	I-Date
+to	I-Date
+September	I-Date
+1	I-Date
 )	O
 -	O
 During	O

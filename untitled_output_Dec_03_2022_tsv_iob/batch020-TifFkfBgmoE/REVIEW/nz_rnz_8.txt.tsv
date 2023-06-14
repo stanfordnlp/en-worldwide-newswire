@@ -294,7 +294,7 @@ after	O
 a	O
 landslide	O
 in	O
-November	B-Misc
+November	B-Date
 last	O
 year	O
 .	O
@@ -323,14 +323,14 @@ which	O
 ceased	O
 operation	O
 in	O
-2012	B-Misc
+2012	B-Date
 following	O
 severe	O
 weather	O
 .	O
 
 In	O
-May	B-Misc
+May	B-Date
 ,	O
 the	O
 railroad	O
@@ -378,7 +378,7 @@ Wairoa	B-Location
 section	O
 reopened	O
 in	O
-2019	B-Misc
+2019	B-Date
 but	O
 the	O
 stretch	O
@@ -518,9 +518,9 @@ heavy	O
 rainfall	O
 events	O
 of	O
-March	B-Misc
+March	B-Date
 and	O
-April	B-Misc
+April	B-Date
 .	O
 
 "	O
@@ -561,7 +561,7 @@ activity	O
 management	O
 plan	O
 for	O
-2021-2031	B-Misc
+2021-2031	B-Date
 ,	O
 he	O
 said	O
@@ -625,7 +625,7 @@ Agency	I-Organization
 .	O
 
 In	O
-2020	B-Misc
+2020	B-Date
 ,	O
 a	O
 business	O

@@ -49,8 +49,8 @@ Voter	O
 turnout	O
 for	O
 the	O
-April	B-Misc
-24	I-Misc
+April	B-Date
+24	I-Date
 election	O
 was	O
 28.47	O
@@ -103,10 +103,10 @@ mayor	O
 born	O
 in	O
 the	O
-Heisei	B-Misc
-Era	I-Misc
+Heisei	B-Date
+Era	I-Date
 (	O
-1989-2019	B-Misc
+1989-2019	B-Date
 )	O
 ,	O
 according	O

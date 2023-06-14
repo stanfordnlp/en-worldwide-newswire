@@ -3,8 +3,8 @@ http://www.afrol.com/articles/37369	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-20	B-Misc
-February	I-Misc
+20	B-Date
+February	I-Date
 -	O
 With	O
 98	O
@@ -165,7 +165,7 @@ believed	O
 .	O
 
 The	O
-2011	B-Misc
+2011	B-Date
 presidential	O
 elections	O
 so	O

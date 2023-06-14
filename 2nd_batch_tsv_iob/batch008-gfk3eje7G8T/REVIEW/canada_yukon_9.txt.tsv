@@ -126,7 +126,7 @@ the	O
 board	O
 for	O
 the	O
-2022/23	B-Misc
+2022/23	B-Date
 school	O
 year	O
 .	O
@@ -344,9 +344,9 @@ general	O
 s	O
 reports	O
 in	O
-2009	B-Misc
+2009	B-Date
 and	O
-2019	B-Misc
+2019	B-Date
 .	O
 
 Bennett	B-Person
@@ -806,7 +806,7 @@ do	O
 so	O
 for	O
 the	O
-2023/24	B-Misc
+2023/24	B-Date
 school	O
 year	O
 .	O
@@ -1089,9 +1089,9 @@ will	O
 be	O
 released	O
 on	O
-Jan	B-Misc
-.	I-Misc
-31	I-Misc
+Jan	B-Date
+.	I-Date
+31	I-Date
 .	O
 
 The	O

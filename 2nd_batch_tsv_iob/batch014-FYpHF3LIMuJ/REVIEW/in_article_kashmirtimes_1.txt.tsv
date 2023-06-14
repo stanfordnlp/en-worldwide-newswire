@@ -2,8 +2,8 @@ http://www.kashmirtimes.com/newsdet.aspx?q=114128	O
 
 SRINAGAR	B-Location
 ,	O
-Mar	B-Misc
-03	I-Misc
+Mar	B-Date
+03	I-Date
 :	O
 Bharatiya	B-Organization
 Janta	I-Organization
@@ -89,7 +89,7 @@ VDGs	B-Organization
 Sunil	B-Person
 Sharma	I-Person
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 met	O
 Union	O
 Home	O

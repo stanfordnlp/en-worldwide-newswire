@@ -163,11 +163,11 @@ Middle	B-Location
 East	I-Location
 country	O
 on	O
-Feb	B-Misc
-.	I-Misc
-24-25	I-Misc
-,	I-Misc
-2020	I-Misc
+Feb	B-Date
+.	I-Date
+24-25	I-Date
+,	I-Date
+2020	I-Date
 .	O
 
 Under	O
@@ -221,9 +221,9 @@ world	O
 
 Earlier	O
 on	O
-June	B-Misc
-26	I-Misc
-2019	I-Misc
+June	B-Date
+26	I-Date
+2019	I-Date
 ,	O
 Hyundai	B-Organization
 Heavy	I-Organization
@@ -418,10 +418,10 @@ born	O
 in	O
 Seoul	B-Location
 on	O
-May	B-Misc
-3	I-Misc
-,	I-Misc
-1982	I-Misc
+May	B-Date
+3	I-Date
+,	I-Date
+1982	I-Date
 as	O
 the	O
 oldest	O

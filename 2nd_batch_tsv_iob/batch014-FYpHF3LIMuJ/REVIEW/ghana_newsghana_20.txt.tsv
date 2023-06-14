@@ -456,9 +456,9 @@ people	O
 of	O
 Gomoa	B-Location
 from	O
-1530	B-Misc
+1530	B-Date
 to	O
-1570	B-Misc
+1570	B-Date
 .	O
 
 When	O
@@ -806,7 +806,7 @@ as	O
 follows	O
 :	O
 
-Opentsir	B-Organization	
+Opentsir	B-Organization
 ,	O
 Nkyidom	B-Organization
 (	O
@@ -834,7 +834,7 @@ I	O
 was	O
 gazette	O
 in	O
-1619	B-Misc
+1619	B-Date
 as	O
 Gomoa	B-Location
 Hene	O
@@ -872,9 +872,9 @@ ruled	O
 Gomoa	B-Location
 State	I-Location
 from	O
-1619	B-Misc
+1619	B-Date
 to	O
-1972	B-Misc
+1972	B-Date
 .	O
 
 Thereafter	O
@@ -921,7 +921,7 @@ of	O
 inquiry	O
 report	O
 in	O
-1922	B-Misc
+1922	B-Date
 a	O
 solution	O
 was	O
@@ -949,10 +949,10 @@ on	O
 Gomoa	B-Location
 State	I-Location
 on	O
-5th	B-Misc
-October	I-Misc
-,	I-Misc
-1922	I-Misc
+5th	B-Date
+October	I-Date
+,	I-Date
+1922	I-Date
 under	O
 the	O
 commission	O
@@ -1012,7 +1012,7 @@ Togoland	I-Location
 )	O
 ordinance	O
 ,	O
-1952	B-Misc
+1952	B-Date
 to	O
 enquire	O
 into	O
@@ -1086,10 +1086,10 @@ to	O
 the	O
 Governor	O
 dated	O
-20th	B-Misc
-August	I-Misc
-,	I-Misc
-1954	I-Misc
+20th	B-Date
+August	I-Date
+,	I-Date
+1954	I-Date
 found	O
 .	O
 
@@ -1128,10 +1128,10 @@ Kubekur	B-Location
 Apam	I-Location
 ,	O
 on	O
-28th	B-Misc
-March	I-Misc
-,	I-Misc
-1952	I-Misc
+28th	B-Date
+March	I-Date
+,	I-Date
+1952	I-Date
 ,	O
 was	O
 unconstitutional	O
@@ -1209,7 +1209,7 @@ by	O
 Crowther	B-Organization	B-Person
 Commission	I-Organization
 in	O
-1922	B-Misc
+1922	B-Date
 from	O
 the	O
 Archives	B-Organization
@@ -1228,12 +1228,12 @@ above	O
 findings	O
 on	O
 the	O
-24th	B-Misc
-day	I-Misc
-of	I-Misc
-November	I-Misc
-,	I-Misc
-1954	I-Misc
+24th	B-Date
+day	I-Date
+of	I-Date
+November	I-Date
+,	I-Date
+1954	I-Date
 .	O
 
 THE	O
@@ -1361,9 +1361,9 @@ Tsim	I-Person
 )	O
 ruled	O
 from	O
-1936	B-Misc
-to	I-Misc
-1972	I-Misc
+1936	B-Date
+to	I-Date
+1972	I-Date
 when	O
 he	O
 passed	O
@@ -1408,7 +1408,7 @@ Edu	I-Person
 the	O
 XV	O
 in	O
-1972	B-Misc
+1972	B-Date
 to	O
 date	O
 ,	O

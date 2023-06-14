@@ -18,7 +18,7 @@ industry	O
 which	O
 started	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 assured	O
 Tourism	O
@@ -113,7 +113,7 @@ in	O
 the	O
 middle	O
 of	O
-2018	B-Misc
+2018	B-Date
 ,	O
 the	O
 main	O
@@ -121,7 +121,7 @@ effort	O
 of	O
 INTUR	B-Organization
 in	O
-2019	B-Misc
+2019	B-Date
 was	O
 aimed	O
 at	O
@@ -157,7 +157,7 @@ of	O
 such	O
 vessels	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 13	O
 more	O

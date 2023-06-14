@@ -25,7 +25,7 @@ Championship	I-Misc	I-Organization
 basketball	I-Misc	I-Organization
 league	I-Misc
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ,	O
 with	O
 a	O
@@ -187,11 +187,11 @@ was	O
 abruptly	O
 halted	O
 in	O
-January	B-Misc
+January	B-Date
 amid	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 restrictions	O
 brought	O
 on	O

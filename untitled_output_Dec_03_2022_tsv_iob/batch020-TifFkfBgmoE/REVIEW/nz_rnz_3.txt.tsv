@@ -13,7 +13,7 @@ and	O
 fourth	O
 warmest	O
 -	O
-July	B-Misc
+July	B-Date
 ever	O
 ,	O
 NIWA	B-Organization
@@ -38,8 +38,8 @@ NIWA	B-Organization
 )	O
 said	O
 from	O
-11-31	B-Misc
-July	I-Misc
+11-31	B-Date
+July	I-Date
 ,	O
 five	O
 separate	O
@@ -70,7 +70,7 @@ centres	O
 experiencing	O
 their	O
 wettest	O
-July	B-Misc
+July	B-Date
 on	O
 record	O
 and	O
@@ -104,7 +104,7 @@ Dunedin	B-Location
 experiencing	O
 their	O
 wettest	O
-July	B-Misc
+July	B-Date
 on	O
 record	O
 while	O
@@ -184,7 +184,7 @@ since	O
 records	O
 began	O
 in	O
-1863	B-Misc
+1863	B-Date
 .	O
 It	O
 represented	O
@@ -260,7 +260,7 @@ with	O
 both	O
 the	O
 North	B-Location
-and	O	
+and	O
 South	B-Location
 Islands	I-Location
 experiencing	O
@@ -288,7 +288,7 @@ Zealand	I-Location
 fourth	O
 -	O
 warmest	O
-July	B-Misc
+July	B-Date
 on	O
 record	O
 ,	O
@@ -354,7 +354,7 @@ record	O
 keeping	O
 began	O
 in	O
-2010	B-Misc
+2010	B-Date
 .	O
 
 NIWA	B-Organization
@@ -521,8 +521,8 @@ observed	O
 at	O
 Bromley	B-Location
 on	O
-14	B-Misc
-July	I-Misc
+14	B-Date
+July	I-Date
 
 The	O
 lowest	O
@@ -540,8 +540,8 @@ Mt	B-Facility
 Cook	I-Facility
 Airport	I-Facility
 on	O
-17	B-Misc
-July	I-Misc
+17	B-Date
+July	I-Date
 
 The	O
 highest	O
@@ -561,8 +561,8 @@ Mt	B-Location
 Cook	I-Location
 village	O
 on	O
-18	B-Misc
-July	I-Misc
+18	B-Date
+July	I-Date
 
 The	O
 highest	O
@@ -579,8 +579,8 @@ at	O
 Waipara	B-Location
 West	I-Location
 on	O
-9	B-Misc
-July	I-Misc
+9	B-Date
+July	I-Date
 
 Of	O
 the	O

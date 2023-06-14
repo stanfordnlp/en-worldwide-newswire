@@ -14,7 +14,7 @@ flagship	O
 technology	O
 conference	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 was	O
 abruptly	O
 cut	O
@@ -334,8 +334,8 @@ annual	O
 tech	O
 conference	O
 in	O
-July	B-Misc
-2019	I-Misc
+July	B-Date
+2019	I-Date
 .	O
 
 Robin	B-Person

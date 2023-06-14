@@ -53,7 +53,7 @@ placed	O
 on	O
 leave	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 and	O
 the	O
 national	O
@@ -282,8 +282,8 @@ in	O
 Costa	B-Location
 Rica	I-Location
 on	O
-August	B-Misc
-10	I-Misc
+August	B-Date
+10	I-Date
 .	O
 
 Domínguez	B-Person
@@ -385,7 +385,7 @@ women	O
 s	O
 coach	O
 in	O
-January	B-Misc
+January	B-Date
 last	O
 year	O
 .	O

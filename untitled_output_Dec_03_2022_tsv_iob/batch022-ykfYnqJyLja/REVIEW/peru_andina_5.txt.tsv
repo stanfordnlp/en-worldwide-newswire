@@ -18,7 +18,7 @@ the	I-Organization
 United	I-Organization	B-Organization
 Nations	I-Organization	I-Organization
 (	O
-FAO	B-Organization	
+FAO	B-Organization
 )	O
 endorsed	O
 the	O
@@ -26,8 +26,8 @@ Peruvian	B-NORP
 initiative	O
 to	O
 establish	O
-May	B-Misc
-30	I-Misc
+May	B-Date
+30	I-Date
 as	O
 the	O
 "	O
@@ -150,7 +150,7 @@ during	O
 the	O
 session	O
 last	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 Midagri	B-Organization

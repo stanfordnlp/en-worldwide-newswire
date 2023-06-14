@@ -4,7 +4,7 @@ As	O
 the	O
 month	O
 of	O
-July	B-Misc
+July	B-Date
 nears	O
 its	O
 end	O
@@ -83,8 +83,8 @@ celebration	O
 taking	O
 place	O
 on	O
-August	B-Misc
-6	I-Misc
+August	B-Date
+6	I-Date
 in	O
 Mall	B-Location
 of	I-Location

@@ -51,10 +51,10 @@ EFM	B-Organization
 radio	O
 station	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 (	O
-July	B-Misc
-19	I-Misc
+July	B-Date
+19	I-Date
 )	O
 .	O
 
@@ -87,8 +87,8 @@ his	O
 concert	O
 rehearsal	O
 on	O
-July	B-Misc
-11	I-Misc
+July	B-Date
+11	I-Date
 .	O
 
 Wang	B-Person
@@ -116,8 +116,8 @@ United	I-Organization
 and	O
 Liverpool	B-Organization
 on	O
-July	B-Misc
-12	I-Misc
+July	B-Date
+12	I-Date
 .	O
 
 "	O
@@ -184,10 +184,10 @@ Dee	I-Organization
 restaurants	O
 nationwide	O
 until	O
-Sunday	B-Misc
+Sunday	B-Date
 (	O
-July	B-Misc
-24	I-Misc
+July	B-Date
+24	I-Date
 )	O
 .	O
 
@@ -210,7 +210,7 @@ favourite	O
 restaurant	O
 "	O
 since	O
-1972	B-Misc
+1972	B-Date
 .	O
 The	O
 restaurant	O

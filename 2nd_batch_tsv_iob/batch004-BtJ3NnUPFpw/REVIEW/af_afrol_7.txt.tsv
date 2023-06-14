@@ -3,8 +3,8 @@ http://www.afrol.com/articles/38448	O
 afrol	B-Organization
 News	I-Organization
 ,	O
-26	B-Misc
-March	I-Misc
+26	B-Date
+March	I-Date
 -	O
 The	O
 UN	B-Organization
@@ -169,7 +169,7 @@ were	O
 displaced	O
 only	O
 in	O
-2013	B-Misc
+2013	B-Date
 ,	O
 and	O
 almost	O
@@ -332,7 +332,7 @@ began	O
 in	O
 mid	O
 -	O
-December	B-Misc
+December	B-Date
 has	O
 left	O
 nearly	O
@@ -396,8 +396,8 @@ independence	O
 from	O
 Sudan	B-Location
 in	O
-July	B-Misc
-2011	I-Misc
+July	B-Date
+2011	I-Date
 .	O
 
 Amid	O
@@ -787,7 +787,7 @@ erupted	O
 in	O
 mid	O
 -	O
-December	B-Misc
+December	B-Date
 ,	O
 204,000	O
 people	O

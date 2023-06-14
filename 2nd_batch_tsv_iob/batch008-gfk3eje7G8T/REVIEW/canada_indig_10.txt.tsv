@@ -5,7 +5,7 @@ a	O
 child	O
 of	O
 the	O
-1980	B-Misc
+1980	B-Date
 s	O
 ,	O
 Trevor	B-Person
@@ -589,7 +589,7 @@ will	O
 be	O
 introduced	O
 in	O
-2024	B-Misc
+2024	B-Date
 .	O
 
 "	O
@@ -788,7 +788,7 @@ be	O
 released	O
 online	O
 in	O
-October	B-Misc
+October	B-Date
 to	O
 coincide	O
 with	O
@@ -809,6 +809,6 @@ be	O
 released	O
 in	O
 early	O
-2023	B-NORP
+2023	B-Date
 .	O
 

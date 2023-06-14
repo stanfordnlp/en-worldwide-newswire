@@ -9,7 +9,7 @@ Jagan	I-Person
 Mohan	I-Person
 Reddy	I-Person
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 assured	O
 all	O
 possible	O
@@ -266,6 +266,6 @@ and	O
 Eluru	B-Location
 districts	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 

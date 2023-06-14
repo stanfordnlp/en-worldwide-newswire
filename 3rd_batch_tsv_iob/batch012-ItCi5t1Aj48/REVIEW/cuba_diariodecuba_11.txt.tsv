@@ -52,8 +52,8 @@ records	O
 lately	O
 ,	O
 last	O
-March	B-Misc
-8	I-Misc
+March	B-Date
+8	I-Date
 hitting	O
 the	O
 unbelievable	O
@@ -78,7 +78,7 @@ the	O
 first	O
 quarter	O
 of	O
-2022	B-Misc
+2022	B-Date
 the	O
 price	O
 of	O
@@ -323,7 +323,7 @@ in	O
 time	O
 :	O
 in	O
-1960	B-Misc
+1960	B-Date
 Indonesia	B-Location
 and	O
 Cuba	B-Location
@@ -345,7 +345,7 @@ tons	O
 and	O
 Cuba	B-Location
 in	O
-1958	B-Misc
+1958	B-Date
 produced	O
 18,000	O
 tons	O
@@ -367,7 +367,7 @@ reaching	O
 850,000	O
 tons	O
 in	O
-2019	B-Misc
+2019	B-Date
 ,	O
 before	O
 the	O
@@ -376,9 +376,9 @@ pandemic	O
 760,000	O
 tons	O
 in	O
-2020	B-Misc
+2020	B-Date
 and	O
-2021	B-Misc
+2021	B-Date
 .	O
 It	O
 expects	O
@@ -387,7 +387,7 @@ surpass	O
 900,000	O
 tons	O
 in	O
-2022	B-Misc
+2022	B-Date
 .	O
 
 Meanwhile	O
@@ -500,7 +500,7 @@ company	O
 was	O
 closed	O
 in	O
-2012	B-Misc
+2012	B-Date
 due	O
 to	O
 technological	O
@@ -648,7 +648,7 @@ Government	I-Organization
 statistics	O
 ,	O
 in	O
-2020	B-Misc
+2020	B-Date
 the	O
 ten	O
 largest	O
@@ -723,9 +723,9 @@ tons	O
 .	O
 
 Between	O
-2000	B-Misc
+2000	B-Date
 and	O
-2010	B-Location
+2010	B-Date
 ,	O
 before	O
 the	O
@@ -790,7 +790,7 @@ in	O
 Moa	B-Location
 
 Last	O
-May	B-Misc
+May	B-Date
 Ramiro	B-Person
 Valdés	I-Person
 ,	O
@@ -906,7 +906,7 @@ Toronto	B-Location
 reported	O
 that	O
 in	O
-2020	B-Misc
+2020	B-Date
 it	O
 suffered	O
 losses	O
@@ -915,8 +915,8 @@ Moa	B-Location
 ,	O
 and	O
 in	O
-December	B-Misc
-2021	I-Misc
+December	B-Date
+2021	I-Date
 it	O
 revealed	O
 that	O
@@ -1217,7 +1217,7 @@ export	O
 items	O
 ,	O
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 before	O
 the	O
@@ -1253,7 +1253,7 @@ at	O
 %	O
 .	O
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 it	O
 dropped	O

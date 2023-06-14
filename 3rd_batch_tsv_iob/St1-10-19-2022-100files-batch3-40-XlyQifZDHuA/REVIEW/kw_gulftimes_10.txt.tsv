@@ -94,10 +94,10 @@ that	O
 were	O
 convened	O
 from	O
-July	B-Misc
-14	I-Misc
-to	I-Misc
-24	I-Misc
+July	B-Date
+14	I-Date
+to	I-Date
+24	I-Date
 .	O
 The	O
 Berne	B-Organization

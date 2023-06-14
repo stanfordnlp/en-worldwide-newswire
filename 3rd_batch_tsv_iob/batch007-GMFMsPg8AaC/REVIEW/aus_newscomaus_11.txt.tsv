@@ -190,7 +190,7 @@ decency	O
 Mr	O
 Albanese	B-Person
 on	O
-Friday	B-Misc
+Friday	B-Date
 revealed	O
 the	O
 sentences	O
@@ -615,7 +615,7 @@ in	O
 full	O
 from	O
 the	O
-1991	B-Misc
+1991	B-Date
 Royal	B-Misc
 Commission	I-Misc
 into	I-Misc
@@ -625,7 +625,7 @@ in	I-Misc
 Custody	I-Misc
 and	O
 the	O
-1997	B-Misc
+1997	B-Date
 Bringing	B-Misc
 them	I-Misc
 Home	I-Misc

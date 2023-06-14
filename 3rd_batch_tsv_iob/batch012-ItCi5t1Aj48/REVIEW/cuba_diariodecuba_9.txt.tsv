@@ -209,9 +209,9 @@ country	O
 .	O
 
 In	O
-November	B-Misc
-of	I-Misc
-2020	I-Misc
+November	B-Date
+of	I-Date
+2020	I-Date
 ,	O
 speaking	O
 at	O
@@ -259,7 +259,7 @@ abovementioned	O
 strategy	O
 ,	O
 since	O
-2007	B-Misc
+2007	B-Date
 Cuba	B-Location
 's	O
 TSP	B-Organization
@@ -357,7 +357,7 @@ Penal	B-Misc
 Code	I-Misc
 approved	O
 in	O
-May	B-Misc
+May	B-Date
 by	O
 the	O
 National	B-Organization
@@ -423,7 +423,7 @@ fact	O
 that	O
 ,	O
 in	O
-2015	B-Misc
+2015	B-Date
 ,	O
 in	O
 an	O
@@ -483,10 +483,10 @@ reality	O
 ,	O
 as	O
 from	O
-January	B-Misc
-1	I-Misc
-,	I-Misc
-2020	I-Misc
+January	B-Date
+1	I-Date
+,	I-Date
+2020	I-Date
 to	O
 date	O
 more	O
@@ -571,9 +571,9 @@ drafted	O
 .	O
 
 In	O
-October	B-Misc
-of	I-Misc
-2020	I-Misc
+October	B-Date
+of	I-Date
+2020	I-Date
 the	O
 Council	B-Organization
 of	I-Organization
@@ -635,7 +635,7 @@ Beijing	I-Misc	B-Location
 ,	O
 approved	O
 in	O
-1997	B-Misc
+1997	B-Date
 .	O
 
 Therefore	O
@@ -729,8 +729,8 @@ national	O
 program	O
 ,	O
 on	O
-May	B-Misc
-13	I-Misc
+May	B-Date
+13	I-Date
 Prensa	B-Organization
 Latina	I-Organization
 published	O
@@ -877,7 +877,7 @@ territories	O
 .	O
 
 Last	O
-April	B-Misc
+April	B-Date
 ,	O
 however	O
 ,	O
@@ -889,7 +889,7 @@ to	O
 admit	O
 that	O
 in	O
-2021	B-Misc
+2021	B-Date
 less	O
 than	O
 50	O
@@ -942,7 +942,7 @@ At	O
 the	O
 beginning	O
 of	O
-June	B-Misc
+June	B-Date
 ,	O
 shortly	O
 after	O
@@ -1036,9 +1036,9 @@ protests	O
 .	O
 )	O
 between	O
-March	B-Misc
+March	B-Date
 and	O
-May	B-Misc
+May	B-Date
 of	O
 this	O
 year	O
@@ -1335,7 +1335,7 @@ DIARIO	B-Organization
 DE	I-Organization
 CUBA	I-Organization	B-Location
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 the	O
 acknowledgement	O

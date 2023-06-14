@@ -45,7 +45,7 @@ to	O
 be	O
 held	O
 next	O
-November	B-Misc
+November	B-Date
 .	O
 
 He	O
@@ -141,7 +141,7 @@ years	O
 in	O
 Algeria	B-Location
 this	O
-November	B-Misc
+November	B-Date
 .	O
 Syria	B-Location
 ’	O
@@ -153,7 +153,7 @@ organization	O
 was	O
 suspended	O
 in	O
-2011	B-Misc
+2011	B-Date
 after	O
 the	O
 regime	O

@@ -5,7 +5,7 @@ the	O
 first	O
 half	O
 of	O
-2022	B-Misc
+2022	B-Date
 ,	O
 the	O
 SRI	B-Organization
@@ -81,8 +81,8 @@ Law	I-Misc
 in	O
 force	O
 since	O
-November	B-Misc
-2021	I-Misc
+November	B-Date
+2021	I-Date
 .	O
 
 The	O
@@ -114,10 +114,10 @@ pay	O
 the	O
 tax	O
 between	O
-July	B-Misc
+July	B-Date
 and	O
-December	B-Misc
-2022	I-Misc
+December	B-Date
+2022	I-Date
 will	O
 have	O
 to	O
@@ -140,7 +140,7 @@ the	O
 first	O
 semester	O
 of	O
-2022	B-Misc
+2022	B-Date
 ,	O
 the	O
 SRI	B-Organization
@@ -157,7 +157,7 @@ the	O
 government	O
 projected	O
 for	O
-2022	B-Misc
+2022	B-Date
 for	O
 this	O
 tax	O
@@ -170,8 +170,8 @@ million	I-Money
 .	O
 
 After	O
-December	B-Misc
-31	I-Misc
+December	B-Date
+31	I-Date
 ,	O
 if	O
 the	O
@@ -289,7 +289,7 @@ first	O
 six	O
 months	O
 of	O
-2022	B-Misc
+2022	B-Date
 .	O
 
 The	O
@@ -326,8 +326,8 @@ Quito	B-Location
 was	O
 declared	O
 in	O
-March	B-Misc
-2022	I-Misc
+March	B-Date
+2022	I-Date
 ,	O
 when	O
 the	O
@@ -349,7 +349,7 @@ the	O
 one	O
 from	O
 the	O
-2016	B-Misc
+2016	B-Date
 earthquake	O
 and	O
 the	O
@@ -449,7 +449,7 @@ million	I-Money
 was	O
 declared	O
 in	O
-June	B-Misc
+June	B-Date
 ,	O
 when	O
 the	O
@@ -486,7 +486,7 @@ Cuenca	B-Location
 was	O
 declared	O
 in	O
-March	B-Misc
+March	B-Date
 ,	O
 therefore	O
 ,	O
@@ -546,8 +546,8 @@ value	O
 was	O
 declared	O
 in	O
-June	B-Misc
-2022	I-Misc
+June	B-Date
+2022	I-Date
 .	O
 
 Data	O
@@ -596,8 +596,8 @@ assets	O
 .	O
 
 In	O
-August	B-Misc
-2021	I-Misc
+August	B-Date
+2021	I-Date
 ,	O
 the	O
 SRI	B-Organization
@@ -629,8 +629,8 @@ In	O
 addition	O
 ,	O
 in	O
-April	B-Misc
-2022	I-Misc
+April	B-Date
+2022	I-Date
 ,	O
 the	O
 Government	B-Organization
@@ -655,10 +655,10 @@ information	O
 
 And	O
 on	O
-July	B-Misc
-14	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+14	I-Date
+,	I-Date
+2022	I-Date
 ,	O
 the	O
 Assembly	B-Organization

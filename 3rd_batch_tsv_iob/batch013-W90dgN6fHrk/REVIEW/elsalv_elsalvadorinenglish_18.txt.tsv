@@ -1,10 +1,10 @@
 https://elsalvadorinenglish.com/2022/07/13/el-salvador-becomes-a-full-member-of-the-development-bank-of-latin-america-caf/	O
 
 On	O
-Wednesday	B-Misc
-,	I-Misc
-July	I-Misc
-13	I-Misc
+Wednesday	B-Date
+,	I-Date
+July	I-Date
+13	I-Date
 ,	O
 the	O
 Development	B-Organization
@@ -253,7 +253,7 @@ place	O
 in	O
 Paraguay	B-Location
 last	O
-March	B-Misc
+March	B-Date
 ,	O
 the	O
 Andean	B-NORP

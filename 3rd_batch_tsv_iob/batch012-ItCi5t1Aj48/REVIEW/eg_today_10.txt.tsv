@@ -30,9 +30,9 @@ ties	O
 
 CAIRO	B-Location
 -	O
-24	B-Misc
-July	I-Misc
-2022	I-Misc
+24	B-Date
+July	I-Date
+2022	I-Date
 :	O
 President	O
 Abdel	B-Person
@@ -50,7 +50,7 @@ President	O
 Emmanuel	B-Person
 Macron	I-Person
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 evening	O
 ,	O
 discussing	O
@@ -183,7 +183,7 @@ Spokesperson	O
 Bassam	B-Person
 Rady	I-Person
 on	O
-Friday	B-Misc
+Friday	B-Date
 .	O
 
 Upon	O
@@ -249,8 +249,8 @@ continued	O
 .	O
 
 In	O
-November	B-Misc
-2021	I-Misc
+November	B-Date
+2021	I-Date
 ,	O
 President	O
 Sisi	B-Person
@@ -300,7 +300,7 @@ Summit	I-Misc
 ,	O
 ”	O
 in	O
-February	B-Misc
-2022	I-Misc
+February	B-Date
+2022	I-Date
 .	O
 

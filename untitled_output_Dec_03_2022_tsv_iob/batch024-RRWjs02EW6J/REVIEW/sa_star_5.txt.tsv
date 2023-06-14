@@ -95,7 +95,7 @@ unenforceable	O
 However	O
 ,	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 and	O
 after	O
 an	O
@@ -190,11 +190,11 @@ should	O
 have	O
 begun	O
 on	O
-July	B-Misc
-25	I-Misc
+July	B-Date
+25	I-Date
 to	O
-July	B-Misc
-29	I-Misc
+July	B-Date
+29	I-Date
 ,	O
 albeit	O
 on	O
@@ -510,7 +510,7 @@ receiving	O
 the	O
 judgment	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 it	O
 had	O
@@ -525,8 +525,8 @@ central	O
 committee	O
 meeting	O
 on	O
-July	B-Misc
-26	I-Misc
+July	B-Date
+26	I-Date
 which	O
 resolved	O
 some	O

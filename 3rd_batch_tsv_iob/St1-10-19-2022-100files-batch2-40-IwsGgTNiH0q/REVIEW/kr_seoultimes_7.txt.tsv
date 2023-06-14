@@ -494,7 +494,7 @@ this	O
 purpose	O
 .	O
 Since	O
-2014	B-Misc
+2014	B-Date
 ,	O
 a	O
 large	O
@@ -617,7 +617,7 @@ not	O
 the	O
 branch	O
 last	O
-November	B-Misc
+November	B-Date
 here	O
 in	O
 Korea	B-Location
@@ -1416,7 +1416,7 @@ life	O
 values	O
 .	O
 Every	O
-Sunday	B-Misc
+Sunday	B-Date
 I	O
 visit	O
 church	O

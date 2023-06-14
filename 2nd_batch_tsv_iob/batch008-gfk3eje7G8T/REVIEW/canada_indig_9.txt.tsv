@@ -3,7 +3,7 @@ https://www.cbc.ca/news/canada/north/tuktoyaktuk-stem-summer-camp-1.6543472	O
 On	O
 a	O
 rainy	O
-Thursday	B-Misc
+Thursday	B-Date
 in	O
 Tuktoyaktuk	B-Location
 ,	I-Location
@@ -51,7 +51,7 @@ four	O
 week	O
 camp	O
 in	O
-July	B-Misc
+July	B-Date
 that	O
 incorporates	O
 traditional	O

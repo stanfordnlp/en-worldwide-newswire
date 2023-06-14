@@ -10,7 +10,7 @@ General	O
 Upendra	B-Person
 Dwivedi	I-Person
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 reviewed	O
 the	O
 security	O
@@ -188,8 +188,8 @@ Diwas	I-Misc
 celebration	O
 scheduled	O
 on	O
-July	B-Misc
-26	I-Misc
+July	B-Date
+26	I-Date
 ,	O
 he	O
 said	O

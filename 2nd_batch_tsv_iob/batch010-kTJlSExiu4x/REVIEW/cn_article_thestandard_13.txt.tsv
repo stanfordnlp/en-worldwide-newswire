@@ -48,10 +48,10 @@ Norway	B-Location
 was	O
 held	O
 from	O
-July	B-Misc
-6	I-Misc
-to	I-Misc
-16	I-Misc
+July	B-Date
+6	I-Date
+to	I-Date
+16	I-Date
 ,	O
 with	O
 589	O
@@ -158,10 +158,10 @@ held	O
 in	O
 Switzerland	B-Location
 from	O
-July	B-Misc
-10	I-Misc
-to	I-Misc
-17	I-Misc
+July	B-Date
+10	I-Date
+to	I-Date
+17	I-Date
 ,	O
 saw	O
 366	O
@@ -290,8 +290,8 @@ said	O
 
 From	O
 the	O
-2019/20	B-Misc
-year	I-Misc
+2019/20	B-Date
+year	I-Date
 onwards	O
 ,	O
 she	O

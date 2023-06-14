@@ -2,9 +2,9 @@ https://www.ipsnews.net/2022/05/massive-deforestation-congo-basin-will-lead-pove
 
 YAOUNDÉ	B-Location
 ,	O
-May	B-Misc
-13	I-Misc
-2022	I-Misc
+May	B-Date
+13	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -230,9 +230,9 @@ International	B-Misc
 Forest	I-Misc
 Day	I-Misc
 on	O
-21st	B-Misc
-of	I-Misc
-March	I-Misc
+21st	B-Date
+of	I-Date
+March	I-Date
 ,	O
 the	O
 third	O
@@ -578,7 +578,7 @@ Watch	I-Misc
 data	O
 ,	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 3.75	O
 million	O
@@ -626,7 +626,7 @@ its	O
 primary	O
 forests	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 almost	O
 twice	O
@@ -637,7 +637,7 @@ primary	O
 forest	O
 destroyed	O
 in	O
-2019	B-Misc
+2019	B-Date
 .	O
 The	O
 Democratic	B-Location
@@ -655,7 +655,7 @@ of	O
 primary	O
 forest	O
 in	O
-2021	B-Misc
+2021	B-Date
 (	O
 Increase	O
 of	O
@@ -664,7 +664,7 @@ almost	O
 %	O
 compared	O
 to	O
-2020	B-Misc
+2020	B-Date
 )	O
 .	O
 Only	O
@@ -691,7 +691,7 @@ reverse	O
 forest	O
 loss	O
 by	O
-2030	B-Misc
+2030	B-Date
 ,	O
 as	O
 pledged	O
@@ -933,7 +933,7 @@ not	O
 immune	O
 :	O
 The	O
-2022	B-Misc
+2022	B-Date
 World	B-Organization
 Bank	I-Organization
 report	O
@@ -994,9 +994,9 @@ the	O
 public	O
 treasury	O
 between	O
-2014	B-Misc
+2014	B-Date
 and	O
-2020	B-Misc
+2020	B-Date
 .	O
 
 What	O

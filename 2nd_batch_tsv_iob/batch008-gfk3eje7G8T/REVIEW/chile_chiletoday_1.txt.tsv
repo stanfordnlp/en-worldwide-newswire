@@ -94,10 +94,10 @@ the	O
 territory	O
 ”	O
 on	O
-Wednesday	B-Misc
-,	I-Misc
-May	I-Misc
-11	I-Misc
+Wednesday	B-Date
+,	B-Misc
+May	B-Date
+11	I-Date
 .	O
 The	O
 call	O

@@ -38,7 +38,7 @@ conference	O
 in	O
 Tokyo	B-Location
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 he	O
 will	O
 concentrate	O
@@ -191,10 +191,10 @@ straight	O
 Olympic	B-Misc
 gold	O
 at	O
-February	B-Misc
+February	B-Date
 ’	O
 s	O
-2022	B-Misc	B-Misc
+2022	B-Misc	B-Date
 Beijing	I-Misc	B-Location
 Games	I-Misc
 ,	O
@@ -377,9 +377,9 @@ the	O
 world	O
 championships	O
 in	O
-2014	B-Misc
+2014	B-Date
 and	O
-2017	B-Misc
+2017	B-Date
 but	O
 he	O
 has	O
@@ -417,7 +417,7 @@ him	O
 to	O
 miss	O
 the	O
-2021	B-Misc	B-Misc
+2021	B-Misc	B-Date
 Grand	I-Misc
 Prix	I-Misc
 season	O
@@ -497,7 +497,7 @@ around	O
 Hanyu	B-Person
 said	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 he	O
 had	O
 considered	O
@@ -508,7 +508,7 @@ career	O
 after	O
 Pyeongchang	B-Location
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 but	O
 decided	O
@@ -608,7 +608,7 @@ s	I-Misc
 Honour	I-Misc
 Award	I-Misc
 in	O
-2018	B-Misc
+2018	B-Date
 ,	O
 and	O
 his	O
@@ -700,7 +700,7 @@ hit	O
 the	O
 region	O
 in	O
-2011	B-Misc
+2011	B-Date
 ,	O
 he	O
 was	O

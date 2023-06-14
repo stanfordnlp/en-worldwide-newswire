@@ -38,10 +38,10 @@ statement	O
 issued	O
 today	O
 (	O
-July	B-Misc
-25	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+25	I-Date
+,	I-Date
+2022	I-Date
 )	O
 following	O
 Roni	B-Person
@@ -198,8 +198,8 @@ of	O
 Bangladesh	B-Organization	B-Location
 Railway	I-Organization
 on	O
-June	B-Misc
-13	I-Misc
+June	B-Date
+13	I-Date
 at	O
 8:36 am.	O
 As	O
@@ -426,8 +426,8 @@ Mohiuddin	B-Person
 Roni	I-Person
 contacted	O
 (	O
-June	B-Misc
-12	I-Misc
+June	B-Date
+12	I-Date
 ,	O
 10:14 am	O
 )	O
@@ -452,8 +452,8 @@ within	O
 2	O
 minutes	O
 (	O
-June	B-Misc
-13	I-Misc
+June	B-Date
+13	I-Date
 ,	O
 10:16 am	O
 )	O

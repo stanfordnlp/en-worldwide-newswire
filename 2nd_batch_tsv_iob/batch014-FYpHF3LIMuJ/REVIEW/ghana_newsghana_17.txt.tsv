@@ -158,7 +158,7 @@ in	O
 Ghana	B-Location
 in	O
 Accra	B-Location
-Wednesday	B-Misc
+Wednesday	B-Date
 .	O
 
 The	O
@@ -290,8 +290,8 @@ new	O
 Companies	B-Misc
 Act	I-Misc
 ,	I-Misc
-2019	I-Misc
-(	I-Misc
+2019	B-Date
+(	B-Misc
 Act	I-Misc
 992	I-Misc
 )	O
@@ -342,7 +342,7 @@ register	O
 for	O
 BOD	B-Misc
 in	O
-2020	B-Misc
+2020	B-Date
 was	O
 a	O
 key	O
@@ -742,7 +742,7 @@ Anti	I-Misc	B-Misc
 corruption	I-Misc	I-Misc
 Summit	I-Misc	I-Misc
 in	O
-2016	B-Misc
+2016	B-Date
 and	O
 constitutes	O
 part	O

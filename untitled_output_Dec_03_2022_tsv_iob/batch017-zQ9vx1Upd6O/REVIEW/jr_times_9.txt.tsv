@@ -4,7 +4,7 @@ AMMAN	B-Location
 —	I-Location
 Jordan	I-Location
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 marks	O
 the	O
 71st	O
@@ -19,7 +19,7 @@ King	O
 Abdullah	B-Person
 I	O
 (	O
-1882-1951	B-Misc
+1882-1951	B-Date
 )	O
 ,	O
 the	O
@@ -41,13 +41,13 @@ Mosque	I-Facility
 in	O
 Jerusalem	B-Location
 for	O
-Friday	B-Misc
+Friday	B-Date
 prayers	O
 on	O
-July	B-Misc
-20	I-Misc
-,	I-Misc
-1951	I-Misc
+July	B-Date
+20	I-Date
+,	I-Date
+1951	I-Date
 .	O
 
 King	O
@@ -95,7 +95,7 @@ which	O
 was	O
 formed	O
 in	O
-1921	B-Misc
+1921	B-Date
 ,	O
 establishing	O
 the	O
@@ -154,7 +154,7 @@ treaties	O
 culminating	O
 in	O
 the	O
-1946	B-Misc
+1946	B-Date
 Anglo	B-Misc	B-Location
 -	I-Misc
 Transjordanian	I-Misc	B-NORP
@@ -188,7 +188,7 @@ s	O
 first	O
 Constitution	O
 in	O
-1928	B-Misc
+1928	B-Date
 and	O
 holding	O
 the	O
@@ -199,7 +199,7 @@ first	O
 parliamentary	O
 elections	O
 in	O
-1929	B-Misc
+1929	B-Date
 .	O
 
 He	O

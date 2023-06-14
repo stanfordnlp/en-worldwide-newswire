@@ -1,7 +1,7 @@
 https://panafricanvisions.com/2022/07/long-term-sales-contracts-could-be-key-to-senegals-mauritanias-natural-gas-success/	O
 
 n	O
-2020	B-Misc
+2020	B-Date
 ,	O
 rich	O
 natural	O
@@ -317,7 +317,7 @@ liquid	O
 natural	O
 gas	O
 by	O
-2030	B-Misc
+2030	B-Date
 .	O
 As	O
 of	O
@@ -461,7 +461,7 @@ the	O
 end	O
 of	O
 the	O
-2020	B-Misc
+2020	B-Date
 s	O
 .	O
 That	O
@@ -480,14 +480,14 @@ than	O
 500,000	O
 boepd	O
 by	O
-2035	B-Misc
+2035	B-Date
 ,	O
 tripling	O
 to	O
 750,000	O
 boepd	O
 by	O
-2040	B-Misc
+2040	B-Date
 ,	O
 and	O
 continuing	O
@@ -496,7 +496,7 @@ rise	O
 well	O
 into	O
 the	O
-2040	B-Misc
+2040	B-Date
 s	O
 .	O
 
@@ -706,7 +706,7 @@ called	O
 a	O
 rarity	O
 in	O
-2020	B-Misc
+2020	B-Date
 when	O
 COVID	B-Money
 -	I-Money
@@ -747,7 +747,7 @@ gas	O
 sales	O
 contracts	O
 in	O
-2022	B-Money
+2022	B-Date
 .	O
 This	O
 is	O
@@ -947,7 +947,7 @@ Daniel	B-Person
 Toleman	I-Person
 said	O
 in	O
-June	B-Misc
+June	B-Date
 .	O
 “	O
 Many	O

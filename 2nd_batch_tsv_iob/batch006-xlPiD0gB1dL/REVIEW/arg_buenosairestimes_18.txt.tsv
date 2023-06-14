@@ -476,7 +476,7 @@ hands	O
 the	O
 midyear	O
 and	O
-Christmas	B-Misc
+Christmas	B-Date
 bonuses	O
 ,	O
 paid	O
@@ -485,7 +485,7 @@ and	O
 the	O
 Constitution	O
 of	O
-1948	B-Misc
+1948	B-Date
 .	O
 ”	O
 

@@ -91,9 +91,9 @@ Presidential	B-Organization
 Office	I-Organization
 funds	O
 from	O
-2000	B-Misc
+2000	B-Date
 to	O
-2008	B-Misc
+2008	B-Date
 .	O
 
 The	O
@@ -105,7 +105,7 @@ accordance	O
 with	O
 a	O
 contentious	O
-May	B-Misc
+May	B-Date
 amendment	O
 to	O
 Article	B-Misc
@@ -135,11 +135,11 @@ improper	O
 use	O
 prior	O
 to	O
-Dec	B-Misc
-.	I-Misc
-31	I-Misc
-,	I-Misc
-2006	I-Misc
+Dec	B-Date
+.	I-Date
+31	I-Date
+,	I-Date
+2006	I-Date
 ,	O
 the	O
 court	O
@@ -204,7 +204,7 @@ and	O
 money	O
 laundering	O
 in	O
-2008	B-Misc
+2008	B-Date
 ,	O
 with	O
 prosecutors	O
@@ -301,7 +301,7 @@ office	O
 .	O
 
 In	O
-2010	B-Misc
+2010	B-Date
 ,	O
 he	O
 was	O
@@ -334,7 +334,7 @@ conditional	O
 medical	O
 parole	O
 in	O
-2015	B-Misc
+2015	B-Date
 .	O
 
 The	O
@@ -436,9 +436,9 @@ was	O
 a	O
 legislator	O
 from	O
-1987	B-Misc
+1987	B-Date
 to	O
-1990	B-Misc
+1990	B-Date
 ,	O
 was	O
 previously	O
@@ -460,7 +460,7 @@ and	O
 other	O
 charges	O
 in	O
-2010	B-Misc
+2010	B-Date
 .	O
 She	O
 has	O

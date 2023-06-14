@@ -43,8 +43,8 @@ a	O
 news	O
 conference	O
 on	O
-July	B-Misc
-11	I-Misc
+July	B-Date
+11	I-Date
 ,	O
 after	O
 the	O
@@ -81,8 +81,8 @@ a	O
 campaign	O
 speech	O
 on	O
-July	B-Misc
-8	I-Misc
+July	B-Date
+8	I-Date
 in	O
 Nara	B-Location
 ,	O
@@ -343,7 +343,7 @@ LDP	B-Organization
 executives	O
 expires	O
 in	O
-October	B-Misc
+October	B-Date
 .	O
 
 Government	O
@@ -359,10 +359,10 @@ on	O
 until	O
 between	O
 late	O
-August	B-Misc
+August	B-Date
 and	O
 early	O
-September	B-Misc
+September	B-Date
 when	O
 personnel	O
 changes	O
@@ -385,9 +385,9 @@ Nuclear	B-Misc
 Nonproliferation	I-Misc
 Treaty	I-Misc
 on	O
-Aug	B-Misc
-.	I-Misc
-1	I-Misc
+Aug	B-Date
+.	I-Date
+1	I-Date
 to	O
 be	O
 held	O
@@ -409,11 +409,11 @@ is	O
 being	O
 mulled	O
 for	O
-Aug	B-Misc
-.	I-Misc
-3	I-Misc
-to	I-Misc
-5	I-Misc
+Aug	B-Date
+.	I-Date
+3	I-Date
+to	I-Date
+5	I-Date
 .	O
 
 The	O
@@ -452,9 +452,9 @@ minister	O
 will	O
 continue	O
 until	O
-Aug	B-Misc
-.	I-Misc
-15	I-Misc
+Aug	B-Date
+.	I-Date
+15	I-Date
 .	O
 
 (	O

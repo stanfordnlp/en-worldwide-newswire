@@ -18,7 +18,7 @@ Duck	I-Person
 -	I-Person
 soo	I-Person
 said	O
-Friday	B-Misc
+Friday	B-Date
 the	O
 government	O
 approved	O
@@ -99,7 +99,7 @@ new	O
 military	O
 unit	O
 in	O
-November	B-Misc
+November	B-Date
 ,	O
 it	O
 said	O

@@ -627,7 +627,7 @@ struggle	O
 her	O
 actions	O
 after	O
-1994	B-Misc
+1994	B-Date
 ,	O
 even	O
 before	O
@@ -709,9 +709,9 @@ and	O
 undermined	O
 him	O
 in	O
-2008	B-Misc
+2008	B-Date
 and	O
-2009	B-Misc
+2009	B-Date
 ,	O
 when	O
 he	O
@@ -1150,9 +1150,9 @@ was	O
 gravely	O
 ill	O
 with	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 and	O
 was	O
 in	O

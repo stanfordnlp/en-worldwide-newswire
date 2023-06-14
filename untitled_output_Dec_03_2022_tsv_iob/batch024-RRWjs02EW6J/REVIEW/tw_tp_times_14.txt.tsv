@@ -36,7 +36,7 @@ Township	I-Location
 草屯	O
 )	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 .	O
 
 On	O
@@ -270,7 +270,7 @@ and	O
 massage	O
 parlor	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 ,	O
 21 hours	O
 after	O

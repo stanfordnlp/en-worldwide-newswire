@@ -3,10 +3,10 @@ https://www.milligazette.com/news/Human-Rights/33947-kashmiri-activist-khurram-p
 New	B-Location
 York	I-Location
 (	O
-November	B-Misc
-25	I-Misc
-,	I-Misc
-2021	I-Misc
+November	B-Date
+25	I-Date
+,	I-Date
+2021	I-Date
 )	O
 :	O
 Indian	B-NORP
@@ -122,10 +122,10 @@ Watch	I-Organization
 .	O
 
 On	O
-November	B-Misc
-22	I-Misc
-,	I-Misc
-2021	I-Misc
+November	B-Date
+22	I-Date
+,	I-Date
+2021	I-Date
 ,	O
 officials	O
 of	O
@@ -262,7 +262,7 @@ over	O
 two	O
 months	O
 in	O
-2016	B-Misc
+2016	B-Date
 and	O
 blocked	O
 from	O
@@ -286,8 +286,8 @@ in	O
 counterterrorism	O
 raids	O
 in	O
-October	B-Misc
-2020	I-Misc
+October	B-Date
+2020	I-Date
 when	O
 several	O
 nongovernmental	O
@@ -466,8 +466,8 @@ special	O
 autonomous	O
 status	O
 in	O
-August	B-Misc
-2019	I-Misc
+August	B-Date
+2019	I-Date
 and	O
 split	O
 it	O
@@ -532,7 +532,7 @@ society	O
 groups	O
 .	O
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 the	O
 government	O
@@ -562,8 +562,8 @@ trial	O
 .	O
 
 In	O
-October	B-Misc
-2020	I-Misc
+October	B-Date
+2020	I-Date
 ,	O
 the	O
 UN	B-Organization
@@ -613,8 +613,8 @@ protect	O
 ”	O
 
 Since	O
-August	B-Misc
-2019	I-Misc
+August	B-Date
+2019	I-Date
 ,	O
 the	O
 Indian	B-NORP
@@ -696,7 +696,7 @@ terrorism	O
 charges	O
 .	O
 In	O
-September	B-Misc
+September	B-Date
 ,	O
 the	O
 police	O
@@ -755,7 +755,7 @@ Kashmir	B-Location
 ”	O
 
 Since	O
-2019	B-Misc
+2019	B-Date
 ,	O
 the	O
 security	O
@@ -791,8 +791,8 @@ extrajudicial	O
 killings	O
 .	O
 On	O
-November	B-Misc
-15	I-Misc
+November	B-Date
+15	I-Date
 ,	O
 four	O
 people	O
@@ -895,7 +895,7 @@ deaths	O
 
 er	O
 in	O
-November	B-Misc
+November	B-Date
 ,	O
 police	O
 arrested	O
@@ -920,7 +920,7 @@ a	O
 Kashmiri	B-Location
 man	O
 in	O
-October	B-Misc
+October	B-Date
 .	O
 The	O
 authorities	O
@@ -955,7 +955,7 @@ news	O
 ”	O
 
 In	O
-March	B-Misc
+March	B-Date
 ,	O
 five	O
 UN	B-Organization
@@ -1047,8 +1047,8 @@ agents	O
 ”	O
 
 In	O
-December	B-Misc
-2020	I-Misc
+December	B-Date
+2020	I-Date
 ,	O
 security	O
 forces	O
@@ -1090,7 +1090,7 @@ school	O
 student	O
 .	O
 In	O
-February	B-Misc
+February	B-Date
 ,	O
 the	O
 police	O
@@ -1177,7 +1177,7 @@ Jammu	B-Location
 and	O
 Kashmir	B-Location
 in	O
-1990	B-Misc
+1990	B-Date
 ,	O
 the	O
 Indian	B-NORP

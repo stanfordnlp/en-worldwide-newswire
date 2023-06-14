@@ -112,7 +112,7 @@ Law	I-Misc
 finally	O
 adopted	O
 in	O
-May	B-Misc
+May	B-Date
 after	O
 being	O
 postponed	O
@@ -310,7 +310,7 @@ No	I-Misc
 .	I-Misc
 1312	I-Misc
 of	I-Misc
-1976	I-Misc	B-Misc
+1976	I-Misc	B-Date
 ,	O
 the	O
 Migration	B-Misc
@@ -326,9 +326,9 @@ No	I-Misc
 .	I-Misc
 302	I-Misc
 of	O
-11	B-Misc
-October	I-Misc
-2012	I-Misc
+11	B-Date
+October	I-Date
+2012	I-Date
 ,	O
 authorizes	O
 preventing	O
@@ -594,7 +594,7 @@ Process	I-Misc
 Law	I-Misc
 approved	O
 in	O
-2021	B-Misc
+2021	B-Date
 ,	O
 as	O
 it	O

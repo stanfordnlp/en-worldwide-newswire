@@ -4,7 +4,7 @@ The	O
 heavy	O
 downpours	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 night	O
 that	O
 crippled	O
@@ -81,8 +81,8 @@ the	O
 governor	O
 election	O
 on	O
-May	B-Misc
-22	I-Misc
+May	B-Date
+22	I-Date
 .	O
 He	O
 apologised	O
@@ -112,7 +112,7 @@ fell	O
 in	O
 Bangkok	B-Location
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 night	O
 ,	O
 causing	O

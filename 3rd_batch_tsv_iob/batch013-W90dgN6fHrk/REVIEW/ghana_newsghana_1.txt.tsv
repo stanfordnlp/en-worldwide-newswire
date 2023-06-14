@@ -41,11 +41,11 @@ Act	I-Misc
 )	O
 ,	O
 on	O
-Friday	B-Misc
-,	I-Misc
-22	I-Misc
-July	I-Misc
-2022	I-Misc
+Friday	B-Date
+,	I-Date
+22	I-Date
+July	I-Date
+2022	I-Date
 .	O
 
 A	O
@@ -62,11 +62,11 @@ Yeboah	I-Person
 Dame	I-Person
 ,	O
 on	O
-Tuesday	B-Misc
-,	I-Misc
-26	I-Misc
-July	I-Misc
-2022	I-Misc
+Tuesday	B-Date
+,	I-Date
+26	I-Date
+July	I-Date
+2022	I-Date
 ,	O
 said	O
 Act	B-Misc
@@ -258,9 +258,9 @@ came	O
 into	O
 force	O
 on	O
-January	B-Misc
-12	I-Misc
-,	I-Misc
-1961	I-Misc
+January	B-Date
+12	I-Date
+,	I-Date
+1961	I-Date
 .	O
 

@@ -26,7 +26,7 @@ the	O
 Interior	B-Organization
 Ministry	I-Organization
 said	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 Interior	O
@@ -389,8 +389,8 @@ offenders	O
 ”	O
 
 On	O
-July	B-Misc
-7	I-Misc
+July	B-Date
+7	I-Date
 ,	O
 Haaretz	B-Organization
 revealed	O
@@ -483,7 +483,7 @@ Dery	I-Person
 .	O
 
 In	O
-Tuesday	B-Misc
+Tuesday	B-Date
 ’	O
 s	O
 announcement	O
@@ -516,7 +516,7 @@ crimes	O
 ”	O
 
 On	O
-Monday	B-Misc
+Monday	B-Date
 ,	O
 leaders	O
 of	O
@@ -804,7 +804,7 @@ his	O
 charge	O
 .	O
 In	O
-2002	B-Misc
+2002	B-Date
 ,	O
 he	O
 was	O
@@ -820,7 +820,7 @@ were	O
 students	O
 in	O
 the	O
-1990	B-Misc
+1990	B-Date
 s	O
 at	O
 the	O
@@ -856,7 +856,7 @@ York	I-Misc	I-Location
 Jewish	I-Misc	B-NORP
 Week	I-Misc
 in	I-Misc
-2000	I-Misc
+2000	B-Date
 .	O
 An	O
 appeals	O

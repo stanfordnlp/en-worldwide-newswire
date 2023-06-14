@@ -31,7 +31,7 @@ for	O
 the	O
 financial	O
 year	O
-2021/2022	B-Misc
+2021/2022	B-Date
 ,	O
 which	O
 revealed	O
@@ -53,8 +53,8 @@ for	O
 the	O
 year	O
 ending	O
-March	B-Misc
-31	I-Misc
+March	B-Date
+31	I-Date
 .	O
 
 Dube	B-Person
@@ -99,7 +99,7 @@ Dube	B-Person
 Ncube	I-Person
 said	O
 the	O
-2021/2022	B-Misc
+2021/2022	B-Date
 financial	O
 year	O
 was	O
@@ -112,10 +112,10 @@ challenging	O
 year	O
 following	O
 the	O
-July	B-Misc
+July	B-Date
 unrest	O
 in	O
-2021	B-Misc
+2021	B-Date
 and	O
 the	O
 KZN	B-Location
@@ -156,7 +156,7 @@ unemployment	O
 The	O
 financial	O
 year	O
-2021/2022	B-Misc
+2021/2022	B-Date
 has	O
 been	O
 the	O

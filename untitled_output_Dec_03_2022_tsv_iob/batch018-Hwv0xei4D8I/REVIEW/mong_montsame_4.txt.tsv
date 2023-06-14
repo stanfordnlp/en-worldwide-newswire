@@ -77,10 +77,10 @@ River	I-Location
 .	O
 
 On	O
-June	B-Misc
-13	I-Misc
-,	I-Misc
-2016	I-Misc
+June	B-Date
+13	I-Date
+,	I-Date
+2016	I-Date
 ,	O
 representatives	O
 of	O
@@ -217,9 +217,9 @@ overseas	O
 .	O
 
 On	O
-28	B-Misc
-May	I-Misc
-2018	I-Misc
+28	B-Date
+May	I-Date
+2018	I-Date
 ,	O
 CNMC	B-Organization
 started	O
@@ -242,10 +242,10 @@ standards	O
 .	O
 
 On	O
-January	B-Misc
-15	I-Misc
-,	I-Misc
-2020	I-Misc
+January	B-Date
+15	I-Date
+,	I-Date
+2020	I-Date
 ,	O
 the	O
 completion	O
@@ -367,9 +367,9 @@ world	O
 .	O
 
 On	O
-13	B-Misc
-May	I-Misc
-2022	I-Misc
+13	B-Date
+May	I-Date
+2022	I-Date
 ,	O
 a	O
 signing	O

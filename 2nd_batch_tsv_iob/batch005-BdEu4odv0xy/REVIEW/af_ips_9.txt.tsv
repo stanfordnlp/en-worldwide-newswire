@@ -2,9 +2,9 @@ https://www.ipsnews.net/2022/06/frankincense-myrrh-new-economic-resonance-women-
 
 Nairobi	B-Location
 ,	O
-Jun	B-Misc
-16	I-Misc
-2022	I-Misc
+Jun	B-Date
+16	I-Date
+2022	I-Date
 (	O
 IPS	B-Organization
 )	O
@@ -877,7 +877,7 @@ Ahatho	B-Person
 .	O
 
 In	O
-2005	B-Misc
+2005	B-Date
 ,	O
 the	O
 Regional	B-Organization

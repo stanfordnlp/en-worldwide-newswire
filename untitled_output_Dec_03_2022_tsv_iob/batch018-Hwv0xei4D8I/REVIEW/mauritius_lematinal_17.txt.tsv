@@ -20,9 +20,9 @@ half	O
 day	O
 presentation	O
 on	O
-Wednesday	B-Misc
-July	I-Misc
-6	I-Misc
+Wednesday	B-Date
+July	I-Date
+6	I-Date
 .	O
 The	O
 event	O
@@ -226,7 +226,7 @@ of	O
 farmers	O
 conducted	O
 in	O
-2021	B-Misc
+2021	B-Date
 and	O
 a	O
 comparison	O
@@ -242,7 +242,7 @@ similar	O
 survey	O
 conducted	O
 in	O
-2015	B-Misc
+2015	B-Date
 .	O
 The	O
 second	O
@@ -268,9 +268,9 @@ over	O
 the	O
 period	O
 from	O
-2017	B-Misc
-to	I-Misc
-2021	I-Misc
+2017	B-Date
+to	I-Date
+2021	I-Date
 and	O
 the	O
 changes	O
@@ -284,9 +284,9 @@ support	O
 period	O
 .	O
 Between	O
-2017	B-Misc
+2017	B-Date
 and	O
-2021	B-Misc
+2021	B-Date
 ,	O
 the	O
 Smart	B-Misc
@@ -378,8 +378,8 @@ Ombre	I-Location
 
 After	O
 the	O
-July	B-Misc
-6	I-Misc
+July	B-Date
+6	I-Date
 exercise	O
 ,	O
 the	O

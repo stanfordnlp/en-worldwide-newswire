@@ -594,7 +594,7 @@ numbers	O
 .	O
 Compared	O
 to	O
-2017	B-Misc
+2017	B-Date
 ,	O
 the	O
 party	O
@@ -1009,7 +1009,7 @@ out	O
 of	O
 70	O
 in	O
-2015	B-Misc
+2015	B-Date
 ?	O
 How	O
 successive	O
@@ -1071,8 +1071,8 @@ the	O
 Delhi	B-Location
 riots	O
 of	O
-February	B-Misc
-2020	I-Misc
+February	B-Date
+2020	I-Date
 .	O
 
 Elsewhere	O
@@ -1160,6 +1160,6 @@ was	O
 first	O
 conquered	O
 in	O
-2015	B-Misc
+2015	B-Date
 .	O
 

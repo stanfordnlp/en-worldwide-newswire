@@ -211,8 +211,8 @@ and	O
 is	O
 bookable	O
 from	O
-10	B-Misc
-August	I-Misc
+10	B-Date
+August	I-Date
 at	O
 quirkycampers	O
 .	O
@@ -265,9 +265,9 @@ of	O
 tourism	O
 impacted	O
 by	O
-Covid	B-Misc
--	I-Misc
-19	I-Misc
+Covid	B-Date
+-	I-Date
+19	I-Date
 .	O
 
 "	O

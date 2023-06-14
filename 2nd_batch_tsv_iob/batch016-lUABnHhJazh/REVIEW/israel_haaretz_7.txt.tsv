@@ -31,7 +31,7 @@ to	O
 disciplinary	O
 proceedings	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 over	O
 a	O
 Mahmoud	B-Person
@@ -41,8 +41,8 @@ she	O
 read	O
 at	O
 a	O
-Nakba	B-Misc
-Day	I-Misc
+Nakba	B-Date
+Day	I-Date
 rally	O
 —	O
 the	O
@@ -84,7 +84,7 @@ Hadash	B-Organization
 chapter	O
 back	O
 in	O
-May	B-Misc
+May	B-Date
 ,	O
 Madi	B-Person
 concluded	O
@@ -123,7 +123,7 @@ letter	O
 was	O
 sent	O
 on	O
-Wednesday	B-Misc
+Wednesday	B-Date
 following	O
 a	O
 complaint	O
@@ -176,7 +176,7 @@ Knesset	B-Organization
 hearing	O
 back	O
 in	O
-May	B-Misc
+May	B-Date
 ,	O
 Madi	B-Person
 said	O
@@ -193,7 +193,7 @@ martyrs	O
 who	O
 fell	O
 in	O
-1948	B-Misc
+1948	B-Date
 and	O
 were	O
 expelled	O

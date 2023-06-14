@@ -15,7 +15,7 @@ its	O
 coveted	O
 awards	O
 in	O
-2022	B-Misc
+2022	B-Date
 .	O
 
 On	O
@@ -119,10 +119,10 @@ Voting	O
 is	O
 open	O
 until	O
-July	B-Misc
-29	I-Misc
-,	I-Misc
-2022	I-Misc
+July	B-Date
+29	I-Date
+,	I-Date
+2022	I-Date
 and	O
 to	O
 do	O
@@ -327,7 +327,7 @@ Awards	I-Organization
 was	O
 established	O
 in	O
-1993	B-Misc
+1993	B-Date
 to	O
 recognize	O
 ,	O
@@ -371,7 +371,7 @@ hospitality	O
 industry	O
 and	O
 in	O
-2022	B-Misc
+2022	B-Date
 it	O
 celebrates	O
 its	O
@@ -511,8 +511,8 @@ addition	O
 ,	O
 as	O
 of	O
-February	B-Misc
-2020	I-Misc
+February	B-Date
+2020	I-Date
 ,	O
 all	O
 Sunset	B-Organization

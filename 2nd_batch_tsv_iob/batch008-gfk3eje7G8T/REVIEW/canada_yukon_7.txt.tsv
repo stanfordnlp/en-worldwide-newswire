@@ -10,7 +10,7 @@ heavily	O
 on	O
 Vuntut	B-Organization	B-NORP
 Gwitchin	I-Organization	I-NORP
-First	I-Organization		
+First	I-Organization
 Nation	I-Organization
 Chief	O
 Dana	B-Person
@@ -150,8 +150,8 @@ future	O
 ”	O
 
 On	O
-Feb.	B-Misc
-25	I-Misc
+Feb.	B-Date
+25	I-Date
 a	O
 convoy	O
 of	O
@@ -239,13 +239,13 @@ had	O
 one	O
 built	O
 since	O
-2014	B-Misc
+2014	B-Date
 .	O
 
 On	O
-Feb	B-Misc
-.	I-Misc
-26	I-Misc
+Feb	B-Date
+.	I-Date
+26	I-Date
 the	O
 convoy	O
 came	O
@@ -495,8 +495,8 @@ by	O
 the	O
 morning	O
 of	O
-March	B-Misc
-3	I-Misc
+March	B-Date
+3	I-Date
 .	O
 
 Tizya	B-Person
@@ -570,7 +570,7 @@ capacity	O
 ,	O
 and	O
 in	O
-December	B-Misc
+December	B-Date
 the	O
 community	O
 only	O
@@ -597,7 +597,7 @@ before	O
 ”	O
 
 In	O
-2019	B-Misc
+2019	B-Date
 ,	O
 Tizya	B-Person
 -	I-Person

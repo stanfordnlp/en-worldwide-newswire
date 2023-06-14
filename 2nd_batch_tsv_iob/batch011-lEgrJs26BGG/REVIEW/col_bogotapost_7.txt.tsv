@@ -6,7 +6,7 @@ defeat	O
 against	O
 Peru	B-Location
 in	O
-January	B-Misc
+January	B-Date
 ,	O
 Colombia	B-Location
 ’	O
@@ -129,7 +129,7 @@ transfer	O
 to	O
 Liverpool	B-Organization
 in	O
-January	B-Misc
+January	B-Date
 and	O
 has	O
 settled	O
@@ -182,7 +182,7 @@ the	O
 Colombia	B-Location
 matches	O
 last	O
-October	B-Misc
+October	B-Date
 ,	O
 is	O
 back	O

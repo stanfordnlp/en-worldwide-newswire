@@ -23,7 +23,7 @@ meeting	O
 in	O
 Cairo	B-Location
 on	O
-Monday	B-Misc
+Monday	B-Date
 a	O
 host	O
 of	O
@@ -204,9 +204,9 @@ the	O
 third	O
 filling	O
 in	O
-August	B-Misc
+August	B-Date
 and	O
-September	B-Misc
+September	B-Date
 ,	O
 according	O
 to	O
@@ -466,8 +466,8 @@ president	O
 of	O
 Somalia	B-Location
 in	O
-May	B-Misc
-2022	I-Misc
+May	B-Date
+2022	I-Date
 .	O
 
 Earlier	O
@@ -520,7 +520,7 @@ $	B-Money
 64	I-Money
 million	I-Money
 during	O
-2021	B-Misc
+2021	B-Date
 ,	O
 according	O
 to	O

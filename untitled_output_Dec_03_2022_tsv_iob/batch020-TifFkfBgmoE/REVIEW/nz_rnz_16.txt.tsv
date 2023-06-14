@@ -58,8 +58,8 @@ Public	O
 submissions	O
 close	O
 on	O
-26	B-Misc
-July	I-Misc
+26	B-Date
+July	I-Date
 .	O
 
 The	O
@@ -85,7 +85,7 @@ it	O
 was	O
 formed	O
 in	O
-1987	B-Misc
+1987	B-Date
 ,	O
 but	O
 set	O
@@ -599,8 +599,8 @@ the	O
 review	O
 of	O
 the	O
-1987	B-Misc
-Conservation	I-Misc
+1987	B-Date
+Conservation	B-Misc
 Act	I-Misc
 had	O
 not	O
