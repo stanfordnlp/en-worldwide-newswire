@@ -17,6 +17,7 @@ against	O
 climate	O
 change	O
 .	O
+
 King	B-Organization
 Abdullah	I-Organization	B-Person
 University	I-Organization
@@ -52,6 +53,7 @@ since	O
 its	O
 establishment	O
 .	O
+
 The	O
 university	O
 is	O
@@ -67,8 +69,7 @@ of	O
 2022	B-Misc
 in	O
 KAUST	B-Organization
-’	O
-s	O
+’s	O
 Nature	B-Location
 Conservation	I-Location
 Area	I-Location
@@ -92,6 +93,7 @@ related	O
 carbon	O
 emissions	O
 .	O
+
 With	O
 one	O
 "	O
@@ -133,6 +135,7 @@ snails	O
 and	O
 fish	O
 .	O
+
 "	O
 KAUST	B-Organization
 is	O
@@ -156,8 +159,7 @@ Area	I-Location
 ,	O
 "	O
 said	O
-Dr	O
-.	O
+Dr.	O
 Mohamed	B-Person
 Omar	I-Person
 ,	O
@@ -177,6 +179,7 @@ HSE	I-Organization
 )	I-Organization
 department	I-Organization
 .	O
+
 "	O
 Compared	O
 to	O
@@ -200,14 +203,14 @@ to	O
 sink	O
 .	O
 "	O
+
 On	O
 his	O
 part	O
 ,	O
 KAUST	B-Organization
 Professor	O
-Dr	O
-.	O
+Dr.	O
 Carlos	B-Person
 Duarte	I-Person
 said	O
@@ -251,8 +254,7 @@ may	O
 be	O
 emitted	O
 as	O
-CO	O
-2	O
+CO2	O
 ,	O
 so	O
 there	O
@@ -273,6 +275,7 @@ lost	O
 mangroves	O
 .	O
 "	O
+
 Mangroves	O
 are	O
 referred	O
@@ -311,6 +314,7 @@ land	O
 based	O
 trees	O
 .	O
+
 Although	O
 mangrove	O
 forest	O
@@ -365,6 +369,7 @@ related	O
 carbon	O
 emissions	O
 .	O
+
 As	O
 part	O
 of	O
@@ -383,8 +388,7 @@ Chair	O
 and	O
 KAUST	B-Organization
 Professor	O
-Dr	O
-.	O
+Dr.	O
 Peiying	B-Person
 Hong	I-Person
 discussed	O
@@ -403,6 +407,7 @@ event	O
 more	O
 sustainable	O
 .	O
+
 "	O
 Every	O
 year	O
@@ -490,6 +495,7 @@ our	O
 theme	O
 .	O
 "	O
+
 Indeed	O
 ,	O
 the	O
@@ -512,6 +518,7 @@ long	O
 distance	O
 travel	O
 .	O
+
 Having	O
 calculated	O
 their	O
@@ -558,6 +565,7 @@ carbon	O
 capture	O
 abilities	O
 .	O
+
 In	O
 the	O
 years	O
@@ -577,6 +585,7 @@ have	O
 been	O
 made	O
 .	O
+
 Duarte	B-Person
 said	O
 ,	O
@@ -640,6 +649,7 @@ by	O
 times	O
 .	O
 "	O
+
 KAUST	B-Organization
 's	O
 mangrove	O
@@ -660,6 +670,7 @@ when	O
 preserved	O
 properly	O
 .	O
+
 "	O
 Our	O
 mangrove	O
@@ -700,6 +711,7 @@ policy	O
 intervention	O
 .	O
 "	O
+
 Mangrove	O
 planting	O
 and	O
@@ -734,6 +746,7 @@ KAUST	B-Organization
 so	O
 far	O
 .	O
+
 Hong	B-Person
 said	O
 ,	O
@@ -780,6 +793,7 @@ the	O
 sea	O
 .	O
 "	O
+
 Already	O
 part	O
 of	O
@@ -820,6 +834,7 @@ in	O
 the	O
 future	O
 .	O
+
 "	O
 Mangroves	O
 are	O
@@ -865,6 +880,7 @@ enhancement	O
 Duarte	B-Person
 said	O
 .	O
+
 Over	O
 the	O
 past	O
@@ -888,6 +904,7 @@ mangroves	O
 has	O
 grown	O
 .	O
+
 This	O
 education	O
 must	O
