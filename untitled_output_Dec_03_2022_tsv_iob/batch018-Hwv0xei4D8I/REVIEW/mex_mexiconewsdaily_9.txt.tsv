@@ -235,8 +235,7 @@ San	B-Organization	B-Location
 Miguel	I-Organization	I-Location
 Hiking	I-Organization
 Group	I-Organization
-’	O
-s	O
+’s	O
 Guide	O
 to	O
 Walks	O
@@ -248,6 +247,7 @@ Miguel	I-Location
 de	I-Location
 Allende	I-Location
 .	O
+
 You	O
 can	O
 download	O
@@ -264,7 +264,7 @@ links	O
 to	O
 maps	O
 ,	O
-GPS	o
+GPS	O
 tracks	O
 and	O
 contacts	O
