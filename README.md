@@ -1,4 +1,10 @@
+The English Worldwide Newswire dataset, as featured in `Do "English" Named Entity Recognizers Work Well on Global Englishes?` (EMNLP 2023) by Shan et. al. 
+
+Alex Shan (azshan@cs.stanford.edu) is the correspondence author and maintainer of this repository.
+
 This dataset is composed of 1100 news articles from around the world, sourced from non-Western newswire. This dataset is specifically designed to exclude Western sourced texts and focuses on uncommon contexts of the English language. Below is a detailed breakdown of article origins.
+
+To process the dataset, check out StanfordNLP's Stanza library which contains the dataset preparation script: https://github.com/stanfordnlp/stanza/blob/main/stanza/utils/datasets/ner/prepare_ner_dataset.py
 
 | **South America: 94**              |                        |     |
 |------------------------------------|------------------------|-----|
@@ -56,3 +62,15 @@ This dataset is composed of 1100 news articles from around the world, sourced fr
 | **Oceania: 48**                    |                        |     |
 |                                    | Indigenous Australia   | 28  |
 |                                    | Indigenous New Zealand | 20  |
+
+If you use this dataset, please use the following citation:
+```
+@inproceedings{Shan_2023,
+   title={Do “English” Named Entity Recognizers Work Well on Global Englishes?},
+   url={http://dx.doi.org/10.18653/v1/2023.findings-emnlp.788},
+   DOI={10.18653/v1/2023.findings-emnlp.788},
+   booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
+   publisher={Association for Computational Linguistics},
+   author={Shan, Alexander and Bauer, John and Carlson, Riley and Manning, Christopher},
+   year={2023} }
+   ```
