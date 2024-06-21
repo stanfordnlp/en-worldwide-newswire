@@ -1,4 +1,4 @@
-The English Worldwide Newswire dataset, as featured in `Do "English" Named Entity Recognizers Work Well on Global Englishes?` (EMNLP 2023) by Shan et. al. 
+The English Worldwide Newswire dataset, as featured in `Do "English" Named Entity Recognizers Work Well on Global Englishes?` (EMNLP 2023) by Shan et. al. https://arxiv.org/abs/2404.13465
 
 Alex Shan (azshan@cs.stanford.edu) is the correspondence author and maintainer of this repository.
 
