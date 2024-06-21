@@ -76,7 +76,12 @@ In the other directories, you may find the complete collection of our annotation
 Within each batch `REVIEW` directory, you will find `.tsv` files containing the BIOES-format labeled data. Each line delimits a separate token that is tab delimited between its text and corresponding label.
 The file names come in the form of `<country>_<newswire_company>_<id>.txt.tsv`. To understand where these countries are within the geographic buckets, refer to the `/regions.txt` file for each prefix conversion.
 
-We will be improving the organization shortly, but for now, this is the way to access the data.a
+We will be improving the organization shortly, but for now, this is the way to access the data.
+TODO: 
+- move the data to better directory structure
+- show a demo of dataset preparation
+- move dataset to huggingface?
+- show some snapshots of the data files to show what the raw looks like
 
 If you use this dataset, please use the following citation:
 ```
