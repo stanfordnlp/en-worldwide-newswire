@@ -70,6 +70,14 @@ This dataset is composed of 1100 news articles from around the world, sourced fr
 |                                    | Indigenous Australia   | 28  |
 |                                    | Indigenous New Zealand | 20  |
 
+# Repo organization #
+Inside of the `original` directory, you can find the complete collection of our raw text data before the labelling process.
+In the other directories, you may find the complete collection of our annotations and annotator metadata computed on the Datasaur platform. To access the labeled data, use the `REVIEW` subdirectory of each folder. 
+Within each batch `REVIEW` directory, you will find `.tsv` files containing the BIOES-format labeled data. Each line delimits a separate token that is tab delimited between its text and corresponding label.
+The file names come in the form of `<country>_<newswire_company>_<id>.txt.tsv`. To understand where these countries are within the geographic buckets, refer to the `/regions.txt` file for each prefix conversion.
+
+We will be improving the organization shortly, but for now, this is the way to access the data.a
+
 If you use this dataset, please use the following citation:
 ```
 @inproceedings{Shan_2023,
