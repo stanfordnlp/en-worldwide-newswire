@@ -1,10 +1,17 @@
-The English Worldwide Newswire dataset, as featured in `Do "English" Named Entity Recognizers Work Well on Global Englishes?` (EMNLP 2023) by Shan et. al. https://arxiv.org/abs/2404.13465
+The English Worldwide Newswire dataset, as introduced in `Do "English" Named Entity Recognizers Work Well on Global Englishes?` (EMNLP 2023) by Shan et. al. https://arxiv.org/abs/2404.13465
 
 Alex Shan (azshan@cs.stanford.edu) is the correspondence author and maintainer of this repository.
 
-This dataset is composed of 1100 news articles from around the world, sourced from non-Western newswire. This dataset is specifically designed to exclude Western sourced texts and focuses on uncommon contexts of the English language. Below is a detailed breakdown of article origins.
+This dataset is composed of 1100 news articles from around the world, sourced from non-Western newswire. This dataset is specifically designed to exclude Western sourced texts and focuses on uncommon contexts of the English language. We encourage authors to benchmark their English NER models on this dataset to explore the efficacy of modern models on unseen contexts. Below is a detailed breakdown of article origins.
 
-To process the dataset, check out StanfordNLP's Stanza library which contains the dataset preparation script: https://github.com/stanfordnlp/stanza/blob/main/stanza/utils/datasets/ner/prepare_ner_dataset.py
+# Overview of dataset
+- 1075 hand-annotated English newswire articles from local sources around the world (bucketed into Asia, Africa, Latin America, the Middle East, and Indigenous Commonwealth (Oceania + Canada)).
+- 700,000 tokens
+- Created in collaboration with Datasaur NLP (https://datasaur.ai) and MLTwist (https://mltwist.com)
+- **9 class labels**: Date, Person, Location, Facility, Organization, Miscellaneous, Money, NORP, and Product. A more detailed overview of the definition for each class can be found in the appendix of the ArXiv paper.
+- **BIOES format**: We also tag each token with its class **and** position, denoting whether the token is the start, intermediate, or end of a named entity.
+
+**To process the dataset**, check out StanfordNLP's Stanza library which contains the dataset preparation script: https://github.com/stanfordnlp/stanza/blob/main/stanza/utils/datasets/ner/prepare_ner_dataset.py
 
 | **South America: 94**              |                        |     |
 |------------------------------------|------------------------|-----|
