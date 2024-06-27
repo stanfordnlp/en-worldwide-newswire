@@ -2,7 +2,7 @@ The English Worldwide Newswire dataset, as introduced in `Do "English" Named Ent
 
 Alex Shan (azshan@cs.stanford.edu) is the correspondence author and maintainer of this repository.
 
-This dataset is composed of 1100 news articles from around the world, sourced from non-Western newswire. This dataset is specifically designed to exclude Western sourced texts and focuses on uncommon contexts of the English language. We encourage authors to benchmark their English NER models on this dataset to explore the efficacy of modern models on unseen contexts. Below is a detailed breakdown of article origins.
+This dataset is composed of ~1100 news articles from around the world, sourced from non-Western newswire. This dataset is specifically designed to exclude Western sourced texts and focuses on uncommon contexts of the English language. We encourage authors to benchmark their English NER models on this dataset to explore the efficacy of modern models on unseen contexts. Below is a detailed breakdown of article origins.
 
 # Overview of dataset
 - 1075 hand-annotated English newswire articles from local sources around the world (bucketed into Asia, Africa, Latin America, the Middle East, and Indigenous Commonwealth (Oceania + Canada)).
@@ -71,14 +71,12 @@ This dataset is composed of 1100 news articles from around the world, sourced fr
 |                                    | Indigenous New Zealand | 20  |
 
 # Repo organization #
-Inside of the `original` directory, you can find the complete collection of our raw text data before the labelling process.
-In the other directories, you may find the complete collection of our annotations and annotator metadata computed on the Datasaur platform. To access the labeled data, use the `REVIEW` subdirectory of each folder. 
-Within each batch `REVIEW` directory, you will find `.tsv` files containing the BIOES-format labeled data. Each line delimits a separate token that is tab delimited between its text and corresponding label.
-The file names come in the form of `<country>_<newswire_company>_<id>.txt.tsv`. To understand where these countries are within the geographic buckets, refer to the `/regions.txt` file for each prefix conversion.
+Inside the `original_articles` directory, you can find the complete collection of our raw text data before the labeling process.
+In the `procesed_annotated` directory, you may find the complete collection of our annotations of the original data. Within the directory, you will find `.tsv` files containing BIOES-format labeled data. 
+In the other directories, you may find the complete collection of our annotations and annotator metadata computed on the Datasaur platform. To access the labeled data, use the `REVIEW` subdirectory of each folder. Each line delimits a separate token that is tab-delimited between its text and corresponding label. The file names come in the form of `<country>_<newswire_company>_<id>.txt.tsv`. To understand where these countries are within the geographic buckets, refer to the `/regions.txt` file for each prefix conversion.
 
 We will be improving the organization shortly, but for now, this is the way to access the data.
 TODO: 
-- move the data to better directory structure
 - show a demo of dataset preparation
 - move dataset to huggingface?
 - show some snapshots of the data files to show what the raw looks like
