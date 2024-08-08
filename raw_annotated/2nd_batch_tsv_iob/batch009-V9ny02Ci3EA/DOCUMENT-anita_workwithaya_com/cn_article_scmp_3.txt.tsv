@@ -19,8 +19,8 @@ at	O
 newly	O
 opened	O
 contemporary	O
-Straits	B-Location
-restaurant	I-Location
+Straits	B-NORP
+restaurant	O
 Pangium	B-Location
 in	O
 Singapore	B-Location
@@ -244,7 +244,7 @@ adds	O
 I	O
 see	O
 contemporary	O
-Straits	B-Location
+Straits	B-NORP
 evolving	O
 to	O
 encompass	O
