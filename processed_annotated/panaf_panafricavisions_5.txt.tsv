@@ -109,11 +109,11 @@ termination	O
 point	O
 of	O
 the	O
-Tema	B-Facility	B-Location
--	I-Facility
-Mpakadan	I-Facility	B-Location
-railway	I-Facility
-line	I-Facility
+Tema	B-Location
+-	O
+Mpakadan	B-Location
+railway	O
+line	O
 ,	O
 will	O
 facilitate	O
@@ -501,9 +501,10 @@ the	O
 transport	O
 of	O
 goods	O
-from	O
-theTema	B-Facility	B-Location
-port	I-Facility
+from    O
+the O
+Tema    B-Location
+port	O
 to	O
 Ghana	B-Location
 ’	O
