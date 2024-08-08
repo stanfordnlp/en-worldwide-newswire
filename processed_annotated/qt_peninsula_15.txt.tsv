@@ -866,8 +866,8 @@ long	O
 lasting	O
 partnerships	O
 with	O
-Qatar	B-Location	B-Location
-Museum	I-Location
+Qatar	B-Facility	B-Location
+Museum	I-Facility
 .	O
 Teams	O
 of	O
@@ -880,17 +880,17 @@ projects	O
 such	O
 as	O
 the	O
-Orientalist	B-Location
-Museum	I-Location
+Orientalist	B-Facility
+Museum	I-Facility
 ,	O
 by	O
 2027	B-Date
 ,	O
 and	O
 the	O
-Art	B-Location
-Mill	I-Location
-Museum	I-Location
+Art	B-Facility
+Mill	I-Facility
+Museum	I-Facility
 planned	O
 for	O
 2028	B-Date
@@ -904,16 +904,16 @@ Sports	O
 Museums	O
 (	O
 or	O
-3	B-Location
-2	I-Location
-1	I-Location
-Museum	I-Location
+3	B-Facility
+2	I-Facility
+1	I-Facility
+Museum	I-Facility
 )	O
 and	O
 the	O
-National	B-Location
-Sports	I-Location
-Museum	I-Location
+National	B-Facility
+Sports	I-Facility
+Museum	I-Facility
 in	O
 Nice	B-Location
 .	O

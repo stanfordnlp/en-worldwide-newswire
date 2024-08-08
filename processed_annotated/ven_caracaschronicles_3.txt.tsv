@@ -922,13 +922,13 @@ academic	O
 works	O
 at	O
 the	O
-Museum	B-Location
-of	I-Location
-the	I-Location
-City	I-Location
-of	I-Location
-New	I-Location
-York	I-Location
+Museum	B-Facility
+of	I-Facility
+the	I-Facility
+City	I-Facility
+of	I-Facility
+New	I-Facility
+York	I-Facility
 .	O
 Stein	B-Person
 assumed	O
@@ -1248,13 +1248,13 @@ fact	O
 Ringling	B-Person
 built	O
 the	O
-John	B-Location	B-Person
-and	I-Location
-Mable	I-Location	B-Person
-Ringling	I-Location
-Museum	I-Location
-of	I-Location
-Art	I-Location
+John	B-Facility	B-Person
+and	I-Facility
+Mable	I-Facility	B-Person
+Ringling	I-Facility
+Museum	I-Facility
+of	I-Facility
+Art	I-Facility
 in	O
 Sarasota	B-Location
 .	O

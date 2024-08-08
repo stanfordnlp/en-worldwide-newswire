@@ -105,8 +105,8 @@ being	O
 found	O
 in	O
 a	O
-Paris	B-Facility	B-Location
-museum	I-Facility
+Paris	B-Location
+museum	O
 collection	O
 .	O
 

@@ -955,8 +955,8 @@ front	O
 entrance	O
 of	O
 the	O
-National	B-Location
-Museum	I-Location
+National	B-Facility
+Museum	I-Facility
 ,	O
 which	O
 marks	O
