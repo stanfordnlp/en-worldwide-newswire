@@ -66,8 +66,8 @@ Jawan	I-Facility
 Jyoti	I-Facility
 at	O
 the	O
-India	B-Facility
-Gate	I-Facility
+India	B-Location
+Gate	I-Location
 in	O
 Delhi	B-Location
 every	O
