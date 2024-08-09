@@ -75,13 +75,6 @@ Inside the `original_articles` directory, you can find the complete collection o
 In the `procesed_annotated` directory, you may find the complete collection of our annotations of the original data. Within the directory, you will find `.tsv` files containing BIOES-format labeled data. 
 In the other directories, you may find the complete collection of our annotations and annotator metadata computed on the Datasaur platform. To access the labeled data, use the `REVIEW` subdirectory of each folder. Each line delimits a separate token that is tab-delimited between its text and corresponding label. The file names come in the form of `<country>_<newswire_company>_<id>.txt.tsv`. To understand where these countries are within the geographic buckets, refer to the `/regions.txt` file for each prefix conversion.
 
-# Accessing the raw data # 
-In the `raw_annotated` directory, you can find the complete collection of our annotated, non-processed data generated via the Datasaur labeling platform. `raw_annotated` contains subdirs with the annotated files from each labeler and reviewer's job on a document. Within the subdirs, `REVIEW` contains the final annotations that are aggregated in `processed_annotated`. There are also some metadata files describing the agreements between labelers, which is also discussed in the paper.
-
-TODO: 
-- show a demo of dataset preparation
-- move dataset to huggingface?
-- show some snapshots of the data files to show what the raw looks like
 
 If you use this dataset, please use the following citation:
 ```
