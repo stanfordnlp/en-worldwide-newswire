@@ -16,7 +16,7 @@ in	O
 South	B-Location
 Bengaluru	I-Location
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 night	O
 .	O
 
@@ -159,7 +159,7 @@ home	O
 around	O
 7 pm	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 .	O
 
 After	O

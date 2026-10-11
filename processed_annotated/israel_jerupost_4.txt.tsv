@@ -56,7 +56,7 @@ service	O
 .	O
 
 On	O
-Thursday	B-Misc
+Thursday	B-Date
 afternoon	O
 ,	O
 the	O
@@ -1483,7 +1483,7 @@ However	O
 ,	O
 later	O
 on	O
-Thursday	B-Misc
+Thursday	B-Date
 evening	O
 ,	O
 Bar	B-Person

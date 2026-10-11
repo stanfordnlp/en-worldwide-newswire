@@ -160,7 +160,7 @@ performance	O
 in	O
 Sha	B-Location
 Tin	I-Location
-Saturday	B-Misc
+Saturday	B-Date
 evening	O
 .	O
 
@@ -239,7 +239,7 @@ at	O
 10.4	O
 6pm	O
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 could	O
 not	O

@@ -14,7 +14,7 @@ hospital	O
 in	O
 Dhaka	B-Location
 early	O
-Tuesday	B-Misc
+Tuesday	B-Date
 .	O
 
 Abbas	B-Person

@@ -19,7 +19,7 @@ nine	O
 o	O
 ’	O
 clock	O
-Friday	B-Misc
+Friday	B-Date
 night	O
 ,	O
 according	O
@@ -83,7 +83,7 @@ per	O
 hour	O
 .	O
 
-Friday	B-Misc
+Friday	B-Date
 morning	O
 the	O
 phenomenon	O
@@ -150,7 +150,7 @@ the	O
 Pacific	B-Location
 Ocean	I-Location
 on	O
-Saturday	B-Misc
+Saturday	B-Date
 afternoon	O
 .	O
 

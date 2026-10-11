@@ -20,12 +20,12 @@ in	O
 critical	O
 condition	O
 early	O
-Wednesday	B-Misc
+Wednesday	B-Date
 following	O
 his	O
 assassination	O
 attempt	O
-Tuesday	B-Misc
+Tuesday	B-Date
 afternoon	O
 .	O
 
@@ -248,7 +248,7 @@ reporters	O
 Acevedo	B-Person
 was	O
 attacked	O
-Tuesday	B-Misc
+Tuesday	B-Date
 afternoon	O
 in	O
 front	O

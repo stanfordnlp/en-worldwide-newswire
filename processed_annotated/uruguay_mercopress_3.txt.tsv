@@ -187,7 +187,7 @@ out	O
 .	O
 
 Early	O
-Saturday	B-Misc
+Saturday	B-Date
 morning	O
 the	O
 aircraft	O
@@ -220,7 +220,7 @@ Rong	I-Misc
 Yuan	I-Misc
 Yu	I-Misc
 606	I-Misc
-Sunday	B-Misc
+Sunday	B-Date
 evening	O
 .	O
 

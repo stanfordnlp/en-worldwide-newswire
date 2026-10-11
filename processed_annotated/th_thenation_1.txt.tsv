@@ -172,7 +172,7 @@ Songkhla	B-Location
 Rattaphum	B-Location
 district	O
 on	O
-Friday	B-Misc
+Friday	B-Date
 night	O
 .	O
 
@@ -213,7 +213,7 @@ the	O
 early	O
 hours	O
 of	O
-Saturday	B-Misc
+Saturday	B-Date
 ,	O
 police	O
 spotted	O

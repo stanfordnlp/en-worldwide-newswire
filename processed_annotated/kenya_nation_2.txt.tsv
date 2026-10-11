@@ -23,7 +23,7 @@ notorious	O
 Nithi	B-Location
 bridge	O
 on	O
-Sunday	B-Misc
+Sunday	B-Date
 evening	O
 spoke	O
 about	O
@@ -216,7 +216,7 @@ to	O
 the	O
 media	O
 on	O
-Tuesday	B-Misc
+Tuesday	B-Date
 evening	O
 .	O
 
@@ -903,7 +903,7 @@ and	O
 recovery	O
 mission	O
 on	O
-Monday	B-Misc
+Monday	B-Date
 night	O
 after	O
 accounting	O

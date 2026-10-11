@@ -134,7 +134,7 @@ Iqaluit	B-Organization	B-Location
 Public	I-Organization
 Service	I-Organization
 Announcements	I-Organization
-Thursday	B-Misc
+Thursday	B-Date
 night	O
 .	O
 
@@ -147,7 +147,7 @@ than	O
 comments	O
 as	O
 of	O
-Friday	B-Misc
+Friday	B-Date
 morning	O
 ,	O
 including	O
