@@ -7,8 +7,8 @@ homepage	O
 Residents	O
 of	O
 the	O
-southern	B-NORP
-Chinese	I-NORP
+southern	O
+Chinese	B-NORP
 tech	O
 hub	O
 Shenzhen	B-Location
