@@ -259,7 +259,7 @@ of	I-Misc
 Criminal	I-Misc
 Justice	I-Misc
 Act	I-Misc
-2015	I-Misc	B-Misc
+2015	I-Misc	B-Date
 .	O
 
 Justice	O
@@ -358,7 +358,7 @@ Section	O
 235	O
 of	O
 the	O
-1999	B-Misc	B-Misc
+1999	B-Misc	B-Date
 Constitution	I-Misc
 ,	O
 and	O
