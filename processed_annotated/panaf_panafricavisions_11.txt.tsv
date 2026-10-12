@@ -1,6 +1,6 @@
 https://panafricanvisions.com/2022/07/morocco-combines-its-fifa-talent-development-scheme-to-schools-football-programme-paving-the-way-for-other-countries-to-follow-suit/	O
 
-n	O
+In	O
 conjunction	O
 with	O
 the	O
@@ -12,7 +12,6 @@ as	O
 part	O
 of	O
 the	O
-
 talent	O
 detection	O
 process	O
@@ -25,7 +24,6 @@ Federation	I-Organization
 FRMF	B-Organization
 )	O
 is	O
-
 also	O
 in	O
 schools	O
@@ -42,7 +40,6 @@ it	O
 can	O
 and	O
 make	O
-
 sure	O
 that	O
 no	O
@@ -67,9 +64,8 @@ with	O
 the	O
 Ministry	B-Organization
 of	I-Organization
-
-National	O
-Education	O
+National	I-Organization
+Education	I-Organization
 to	O
 create	O
 school	O
@@ -78,7 +74,6 @@ across	O
 the	O
 country	O
 that	O
-
 can	O
 accommodate	O
 boys	O
@@ -91,7 +86,6 @@ all	O
 the	O
 time	O
 ,	O
-
 offering	O
 them	O
 a	O
@@ -105,7 +99,6 @@ schooling	O
 ,	O
 ”	O
 says	O
-
 Fouzi	B-Person
 Lekjaa	I-Person
 ,	O
@@ -125,7 +118,6 @@ talent	O
 development	O
 launched	O
 two	O
-
 years	O
 ago	O
 ,	O
@@ -138,8 +130,7 @@ with	O
 FIFA	B-Organization
 President	O
 Gianni	B-Person
-
-Infantino	O
+Infantino	I-Person
 ’s	O
 2020-2023	B-Date
 Vision	O
@@ -153,7 +144,6 @@ Global	I-Misc
 As	O
 part	O
 of	O
-
 this	O
 second	O
 phase	O
@@ -167,7 +157,6 @@ study	O
 results	O
 ,	O
 national	O
-
 associations	O
 can	O
 focus	O
@@ -194,7 +183,6 @@ development	O
 at	O
 school	O
 has	O
-
 taken	O
 root	O
 among	O
@@ -206,7 +194,6 @@ associations	O
 explained	O
 FIFA	B-Organization
 technical	O
-
 director	O
 Steven	B-Person
 Martens	I-Person
@@ -236,7 +223,6 @@ the	O
 countries	O
 organising	O
 a	O
-
 regular	O
 schools	O
 competition	O
@@ -246,9 +232,9 @@ perhaps	O
 lead	O
 into	O
 international	O
-
 competitions	O
 .	O
+
 The	O
 most	O
 important	O
@@ -260,7 +246,6 @@ is	O
 local	O
 activity	O
 and	O
-
 giving	O
 young	O
 people	O
@@ -303,7 +288,6 @@ FRMF	B-Organization
 is	O
 making	O
 great	O
-
 strides	O
 in	O
 developing	O
@@ -317,7 +301,6 @@ pointing	O
 the	O
 way	O
 for	O
-
 others	O
 to	O
 follow	O
@@ -330,7 +313,6 @@ three	O
 key	O
 elements	O
 :	O
-
 facilities	O
 ,	O
 talent	O
@@ -353,7 +335,6 @@ a	O
 sixth	O
 to	O
 come	O
-
 at	O
 Qatar	B-Misc	B-Location
 2022	I-Misc	B-Misc
@@ -367,7 +348,6 @@ a	O
 clutch	O
 of	O
 clubs	O
-
 regarded	O
 as	O
 continental	O
@@ -378,7 +358,6 @@ a	O
 solid	O
 reputation	O
 for	O
-
 producing	O
 dependable	O
 defenders	O
@@ -387,7 +366,6 @@ creative	O
 midfielders	O
 and	O
 stylish	O
-
 forwards	O
 ,	O
 it	O
@@ -402,7 +380,6 @@ is	O
 a	O
 hotbed	O
 of	O
-
 talent	O
 .	O
 
@@ -420,7 +397,6 @@ held	O
 a	O
 June	B-Date
 workshop	O
-
 devoted	O
 to	O
 the	O
@@ -435,7 +411,6 @@ which	O
 was	O
 launched	O
 in	O
-
 February	B-Date
 2020	I-Date
 by	O
@@ -458,17 +433,15 @@ and	O
 regional	O
 technical	O
 advisers	O
-
 attended	O
 the	O
-Mohammed	B-Organization	B-Location
-VI	I-Organization
+Mohammed	B-Organization	B-Person
+VI	I-Organization	I-Person
 Football	I-Organization
 Academy	I-Organization
 to	O
 discuss	O
 talent	O
-
 development	O
 strategies	O
 ,	O
@@ -480,7 +453,6 @@ and	O
 prepare	O
 the	O
 ground	O
-
 for	O
 the	O
 rest	O
@@ -509,7 +481,6 @@ as	O
 its	O
 president	O
 ,	O
-
 Fouzi	B-Person
 Lekjaa	I-Person
 ,	O
@@ -525,7 +496,6 @@ seminar	O
 :	O
 “	O
 The	O
-
 development	O
 of	O
 football	O
@@ -537,7 +507,6 @@ on	O
 a	O
 triangular	O
 approach	O
-
 that	O
 should	O
 form	O
@@ -550,7 +519,6 @@ of	O
 any	O
 system	O
 :	O
-
 facilities	O
 ,	O
 talent	O
@@ -558,11 +526,11 @@ and	O
 qualified	O
 personnel	O
 .	O
+
 Along	O
 with	O
 my	O
 colleagues	O
-
 at	O
 the	O
 FRMF	B-Organization
@@ -577,7 +545,6 @@ fundamentals	O
 have	O
 to	O
 be	O
-
 in	O
 place	O
 for	O
@@ -604,19 +571,18 @@ first	O
 of	O
 all	O
 on	O
-
 facilities	O
 both	O
 nationally	O
 and	O
 locally	O
 .	O
+
 A	O
 high	O
 point	O
 in	O
 its	O
-
 development	O
 plans	O
 came	O
@@ -627,10 +593,9 @@ opening	O
 of	O
 the	O
 Mohammed	B-Organization	B-Person
-VI	I-Organization
-
-Football	O
-Academy	O
+VI	I-Organization	I-Person
+Football	I-Organization
+Academy	I-Organization
 ,	O
 which	O
 covers	O
@@ -640,7 +605,6 @@ and	O
 boasts	O
 the	O
 latest	O
-
 facilities	O
 and	O
 equipment	O
@@ -669,7 +633,6 @@ one	O
 of	O
 the	O
 biggest	O
-
 and	O
 highest	O
 -	O
@@ -692,7 +655,6 @@ have	O
 also	O
 been	O
 developing	O
-
 local	O
 facilities	O
 ,	O
@@ -706,7 +668,6 @@ have	O
 a	O
 team	O
 overseeing	O
-
 development	O
 across	O
 the	O
@@ -718,7 +679,6 @@ regions	O
 starting	O
 with	O
 talent	O
-
 detection	O
 ,	O
 with	O
@@ -728,10 +688,10 @@ attending	O
 club	O
 academies	O
 .	O
+
 That	O
 ’s	O
 why	O
-
 we	O
 ’ve	O
 made	O
@@ -746,9 +706,9 @@ clubs	O
 have	O
 their	O
 own	O
-
 academies	O
 .	O
+
 The	O
 regional	O
 academies	O
@@ -758,12 +718,12 @@ same	O
 as	O
 the	O
 national	O
-
 academy	O
 ,	O
 just	O
 smaller	O
 .	O
+
 The	O
 best	O
 players	O
@@ -773,7 +733,6 @@ regions	O
 go	O
 to	O
 the	O
-
 centre	O
 of	O
 excellence	O
@@ -786,7 +745,6 @@ medical	O
 staff	O
 who	O
 work	O
-
 with	O
 young	O
 players	O
@@ -799,11 +757,11 @@ take	O
 them	O
 up	O
 to	O
-
 the	O
 next	O
 level	O
 .	O
+
 That	O
 ’s	O
 the	O
@@ -814,8 +772,8 @@ cycle	O
 is	O
 designed	O
 .	O
-It	O
 
+It	O
 starts	O
 with	O
 talent	O
@@ -827,7 +785,6 @@ level	O
 with	O
 that	O
 talent	O
-
 then	O
 channeling	O
 into	O
@@ -841,7 +798,6 @@ and	O
 on	O
 to	O
 the	O
-
 national	O
 centre	O
 of	O
@@ -864,7 +820,6 @@ raw	O
 talent	O
 ,	O
 ”	O
-
 continued	O
 the	O
 FRMF	B-Organization
@@ -877,7 +832,6 @@ that	O
 that	O
 the	O
 Moroccan	B-NORP
-
 climate	O
 is	O
 ideal	O
@@ -885,13 +839,13 @@ for	O
 playing	O
 football	O
 .	O
+
 “	O
 We	O
 are	O
 trying	O
 to	O
 deliver	O
-
 maximum	O
 added	O
 value	O
@@ -905,7 +859,6 @@ can	O
 take	O
 that	O
 raw	O
-
 talent	O
 at	O
 the	O
@@ -921,9 +874,9 @@ it	O
 and	O
 raise	O
 their	O
-
 game	O
 .	O
+
 The	O
 idea	O
 is	O
@@ -936,7 +889,6 @@ as	O
 professional	O
 players	O
 and	O
-
 for	O
 them	O
 to	O
@@ -957,12 +909,12 @@ the	O
 facilities	O
 too	O
 .	O
+
 All	O
 that	O
 is	O
 needed	O
 are	O
-
 qualified	O
 people	O
 to	O
@@ -991,7 +943,6 @@ to	O
 have	O
 professional	O
 staff	O
-
 with	O
 the	O
 ability	O
@@ -1002,13 +953,13 @@ deliver	O
 added	O
 Lekjaa	B-Person
 .	O
+
 “	O
 That	O
 ’s	O
 the	O
 vital	O
 link	O
-
 that	O
 we	O
 ’re	O
@@ -1025,7 +976,6 @@ in	O
 ,	O
 all	O
 with	O
-
 a	O
 view	O
 to	O
@@ -1038,7 +988,6 @@ everyone	O
 the	O
 opportunity	O
 to	O
-
 enhance	O
 their	O
 skills	O
@@ -1049,7 +998,6 @@ by	O
 the	O
 National	O
 Academy	O
-
 at	O
 both	O
 amateur	O
@@ -1085,12 +1033,12 @@ follow	O
 as	O
 FIFA	B-Organization
 technical	O
-
 director	O
 Steven	B-Person
 Martens	I-Person
 confirmed	O
 .	O
+
 “	O
 The	O
 Moroccan	B-Organization	B-NORP
@@ -1098,7 +1046,6 @@ FA	I-Organization
 is	O
 very	O
 important	O
-
 for	O
 FIFA	B-Organization
 and	O
@@ -1112,7 +1059,6 @@ because	O
 of	O
 its	O
 facilities	O
-
 but	O
 because	O
 of	O
@@ -1126,7 +1072,6 @@ vision	O
 and	O
 the	O
 quality	O
-
 of	O
 its	O
 training	O
@@ -1146,7 +1091,6 @@ off	O
 Martens	B-Person
 added	O
 :	O
-
 “	O
 I	O
 know	O
@@ -1161,7 +1105,6 @@ and	O
 are	O
 expecting	O
 big	O
-
 results	O
 but	O
 there	O
@@ -1175,7 +1118,6 @@ Morocco	B-Location
 is	O
 doing	O
 now	O
-
 will	O
 yield	O
 results	O
@@ -1184,17 +1126,18 @@ the	O
 long	O
 term	O
 .	O
+
 Those	O
 results	O
 might	O
 even	O
 come	O
 in	O
-
 the	O
 medium	O
 term	O
 .	O
+
 After	O
 all	O
 ,	O
@@ -1207,8 +1150,7 @@ Women	I-Misc
 Africa	I-Misc	B-Location
 Cup	I-Misc
 of	I-Misc
-
-Nations	O
+Nations	I-Misc
 this	O
 year	O
 ,	O
@@ -1223,7 +1165,6 @@ Cup	I-Misc
 ,	O
 and	O
 your	O
-
 youth	O
 teams	O
 are	O
@@ -1248,7 +1189,6 @@ the	O
 facilities	O
 ,	O
 the	O
-
 workshop	O
 ’s	O
 participants	O
@@ -1261,11 +1201,11 @@ which	O
 to	O
 explore	O
 the	O
-
 themes	O
 raised	O
 .	O
 ”	O
+
 As	O
 a	O
 high	O
@@ -1276,7 +1216,6 @@ involved	O
 in	O
 the	O
 TDS	B-Misc
-
 project	O
 ,	O
 I	O
@@ -1290,9 +1229,9 @@ FA	I-Organization
 on	O
 its	O
 amazing	O
-
 facilities	O
 .	O
+
 The	O
 association	O
 and	O
@@ -1303,7 +1242,6 @@ the	O
 vision	O
 to	O
 build	O
-
 this	O
 infrastructure	O
 with	O
@@ -1313,7 +1251,6 @@ of	O
 developing	O
 talented	O
 young	O
-
 players	O
 ,	O
 ”	O
@@ -1325,7 +1262,6 @@ Nuno	B-Person
 Gomes	I-Person
 ,	O
 while	O
-
 ex	O
 -	O
 France	B-Location
@@ -1338,7 +1274,6 @@ quality	O
 of	O
 the	O
 national	O
-
 academy	O
 :	O
 “	O
@@ -1346,6 +1281,7 @@ It	O
 is	O
 outstanding	O
 .	O
+
 It	O
 ’s	O
 lush	O
@@ -1355,7 +1291,6 @@ green	O
 the	O
 pitches	O
 are	O
-
 ready	O
 and	O
 the	O
@@ -1381,7 +1316,6 @@ Morocco	B-Location
 to	O
 organise	O
 this	O
-
 workshop	O
 ,	O
 ”	O
@@ -1393,10 +1327,10 @@ Training	O
 Fathi	B-Person
 Djamal	I-Person
 .	O
+
 “	O
 Morocco	B-Location
 was	O
-
 selected	O
 because	O
 of	O
@@ -1406,9 +1340,9 @@ facilities	O
 and	O
 major	O
 logistical	O
-
 resources	O
 .	O
+
 It	O
 was	O
 selected	O
@@ -1418,7 +1352,6 @@ the	O
 excellent	O
 reputation	O
 it	O
-
 enjoys	O
 around	O
 the	O
@@ -1426,12 +1359,12 @@ world	O
 for	O
 organisation	O
 .	O
+
 Our	O
 country	O
 always	O
 led	O
 the	O
-
 way	O
 in	O
 that	O
@@ -1448,7 +1381,6 @@ and	O
 we	O
 can	O
 do	O
-
 so	O
 again	O
 .	O
@@ -1467,7 +1399,6 @@ his	O
 team	O
 the	O
 perfect	O
-
 opportunity	O
 to	O
 explain	O
@@ -1479,10 +1410,10 @@ TDS	B-Misc
 and	O
 FIFA	B-Organization
 ’s	O
-
 development	O
 programmes	O
 .	O
+
 “	O
 The	O
 TDS	B-Misc
@@ -1493,8 +1424,8 @@ designed	O
 for	O
 everyone	O
 .	O
-It	O
 
+It	O
 seeks	O
 to	O
 give	O
@@ -1508,12 +1439,12 @@ chance	O
 he	O
 said	O
 .	O
+
 “	O
 It	O
 ’s	O
 a	O
 scheme	O
-
 in	O
 which	O
 we	O
@@ -1526,7 +1457,6 @@ with	O
 experts	O
 ,	O
 coaches	O
-
 from	O
 around	O
 the	O
@@ -1539,11 +1469,11 @@ former	O
 coaches	O
 and	O
 former	O
-
 directors	O
 of	O
 football	O
 .	O
+
 We	O
 are	O
 here	O
@@ -1554,11 +1484,11 @@ leaders	O
 of	O
 today	O
 and	O
-
 to	O
 prepare	O
 them	O
 .	O
+
 Some	O
 154	O
 countries	O
@@ -1568,7 +1498,6 @@ signed	O
 up	O
 for	O
 the	O
-
 scheme	O
 and	O
 it	O
@@ -1584,7 +1513,6 @@ one	O
 of	O
 them	O
 at	O
-
 their	O
 own	O
 level	O
@@ -1606,7 +1534,6 @@ a	O
 chance	O
 to	O
 every	O
-
 talented	O
 player	O
 because	O
@@ -1619,7 +1546,6 @@ in	O
 the	O
 interests	O
 of	O
-
 every	O
 national	O
 association	O
@@ -1628,12 +1554,12 @@ association	O
 he	O
 added	O
 .	O
+
 “	O
 Every	O
 association	O
 wants	O
 their	O
-
 national	O
 team	O
 to	O
@@ -1648,7 +1574,6 @@ lot	O
 more	O
 to	O
 football	O
-
 development	O
 than	O
 just	O
@@ -1658,13 +1583,13 @@ to	O
 the	O
 top	O
 .	O
+
 You	O
 have	O
 to	O
 make	O
 sure	O
 players	O
-
 stay	O
 in	O
 the	O
@@ -1691,4 +1616,3 @@ nation	O
 organisers	O
 attest	O
 .	O
-
