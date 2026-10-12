@@ -163,7 +163,8 @@ Cuá	I-Location
 arm	I-Location
 ,	O
 under	O
-Yacyretá's	B-Organization	B-Facility
+Yacyretá	B-Organization	B-Facility
+'s	I-Organization
 Binational	I-Organization
 Entity	I-Organization
 (	O

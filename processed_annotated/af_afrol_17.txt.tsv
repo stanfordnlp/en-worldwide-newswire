@@ -1162,7 +1162,8 @@ Opera	I-Location
 village	I-Location
 ,	O
 Mr	O
-Kèrè's	B-Person
+Kèrè	B-Person
+'s	O
 key	O
 contribution	O
 to	O
