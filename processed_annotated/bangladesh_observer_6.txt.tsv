@@ -38,8 +38,8 @@ reports	O
 UNB	B-Organization
 .	O
 
-Maersk	B-Organization
-Nesna	O
+Maersk	B-Facility
+Nesna	I-Facility
 ,	O
 a	O
 Panama	B-Location

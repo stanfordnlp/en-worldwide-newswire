@@ -385,8 +385,8 @@ Escober	I-Person
 Olimpia	B-Organization
 )	O
 ,	O
-Luis	O
-Lopez	B-Person
+Luis	B-Person
+Lopez	I-Person
 (	O
 Real	B-Organization
 Espana	I-Organization

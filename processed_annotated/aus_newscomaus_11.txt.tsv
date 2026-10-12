@@ -243,12 +243,12 @@ on	O
 matters	O
 relating	O
 to	O
-Aboriginal	B-Organization	B-NORP
-and	I-Organization
-Torres	I-Organization	B-NORP	B-Location
-Strait	I-Organization	I-NORP	I-Location
-Islander	I-Organization	I-NORP
-Peoples	O
+Aboriginal	B-NORP	B-NORP
+and	I-NORP
+Torres	I-NORP	B-NORP	B-Location
+Strait	I-NORP	I-NORP	I-Location
+Islander	I-NORP	I-NORP
+Peoples	I-NORP
 .	O
 
 The	O

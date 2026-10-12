@@ -530,8 +530,8 @@ society	O
 
 Army	B-Organization
 chief	O
-Said	O
-Chengriha	B-Person
+Said	B-Person
+Chengriha	I-Person
 suggested	O
 in	O
 several	O

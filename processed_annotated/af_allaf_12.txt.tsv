@@ -53,8 +53,8 @@ leader	O
 ,	O
 died	O
 in	O
-December	O
-2013	B-Date
+December	B-Date
+2013	I-Date
 at	O
 age	O
 95	O

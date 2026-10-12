@@ -54,8 +54,8 @@ of	I-Organization
 South	I-Organization	B-Location
 Africa	I-Organization	I-Location
 ,	O
-John	O
-Hlophe	B-Person
+John	B-Person
+Hlophe	I-Person
 ,	O
 be	O
 suspended	O

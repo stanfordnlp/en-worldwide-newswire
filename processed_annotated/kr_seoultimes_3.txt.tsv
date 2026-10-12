@@ -1100,7 +1100,7 @@ in	O
 countries	O
 .	O
 Forbes	B-Organization
-Media	O
+Media	I-Organization
 ’s	O
 brand	O
 extensions	O

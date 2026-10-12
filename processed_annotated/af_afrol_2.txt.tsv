@@ -573,8 +573,8 @@ in	O
 this	O
 oil	O
 rich	O
-Central	O
-African	B-NORP
+Central	B-NORP
+African	I-NORP
 country	O
 are	O
 in	O
