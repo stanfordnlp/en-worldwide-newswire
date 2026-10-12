@@ -209,9 +209,9 @@ embarked	O
 on	O
 the	O
 ship	O
-Ville	B-Misc
-de	I-Misc
-Paris	I-Misc	B-Location
+Ville	B-Facility
+de	I-Facility
+Paris	I-Facility	B-Location
 with	O
 renowned	O
 painter	O

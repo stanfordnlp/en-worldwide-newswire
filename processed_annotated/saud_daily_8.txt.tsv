@@ -92,9 +92,9 @@ the	O
 new	O
 service	O
 ,	O
-Bahri	B-Organization
-Abha	I-Organization
-RoCon	I-Organization
+Bahri	B-Facility
+Abha	I-Facility
+RoCon	O
 vessel	O
 (	O
 IMO	O

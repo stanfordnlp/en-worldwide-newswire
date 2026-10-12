@@ -106,7 +106,7 @@ race	O
 ,	O
 the	O
 yacht	O
-Adios	B-Misc
+Adios	B-Facility
 suffered	O
 water	O
 intake	O
@@ -162,7 +162,7 @@ corrected	O
 
 Although	O
 yacht	O
-Adios	B-Misc
+Adios	B-Facility
 resigned	O
 from	O
 the	O
@@ -279,7 +279,7 @@ extensive	O
 search	O
 for	O
 yacht	O
-Rubicon	B-Misc
+Rubicon	B-Facility
 and	O
 her	O
 crew	O

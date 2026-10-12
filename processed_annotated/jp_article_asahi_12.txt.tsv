@@ -835,8 +835,8 @@ underwater	O
 excavation	O
 of	O
 the	O
-Kaiyo	B-Product
-Maru	I-Product
+Kaiyo	B-Facility
+Maru	I-Facility
 commenced	O
 .	O
 
@@ -2406,8 +2406,8 @@ the	O
 wreckage	O
 of	O
 the	O
-Mary	B-Misc
-Rose	I-Misc
+Mary	B-Facility
+Rose	I-Facility
 ,	O
 an	O
 English	B-NORP
@@ -2453,9 +2453,9 @@ famous	O
 shipwreck	O
 is	O
 the	O
-Swedish	B-Misc	B-NORP
-warship	I-Misc
-Vasa	I-Misc
+Swedish	B-NORP
+warship	O
+Vasa	B-Facility
 ,	O
 which	O
 sank	O
