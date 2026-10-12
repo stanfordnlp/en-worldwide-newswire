@@ -719,8 +719,9 @@ great	O
 ally	O
 ,	O
 America	B-Location
-.	I-Location
-U.	I-Location
+.	O
+
+U.	B-Location
 S.	I-Location
 President	O
 Joe	B-Person
