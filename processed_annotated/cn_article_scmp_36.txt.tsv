@@ -388,7 +388,7 @@ China	B-Location
 ’s	O
 most	O
 influential	O
-LGBT	B-Misc
+LGBT	B-NORP
 rights	O
 groups	O
 led	O
@@ -490,9 +490,9 @@ a	O
 senior	O
 fellow	O
 at	O
-Yale	B-Organization	B-Organization
-Law	I-Organization	I-Organization
-School	I-Organization	I-Organization
+Yale	B-Organization
+Law	I-Organization
+School	I-Organization
 ’s	I-Organization
 Paul	I-Organization	B-Person
 Tsai	I-Organization	I-Person
@@ -555,14 +555,14 @@ On	O
 May	B-Date
 17	I-Date
 ,	O
-International	B-Organization
-Day	I-Organization
-Against	I-Organization
-Homophobia	I-Organization
-,	I-Organization
-Biphobia	I-Organization
-and	I-Organization
-Transphobia	I-Organization
+International	B-Misc
+Day	I-Misc
+Against	I-Misc
+Homophobia	I-Misc
+,	I-Misc
+Biphobia	I-Misc
+and	I-Misc
+Transphobia	I-Misc
 ,	O
 students	O
 at	O
@@ -665,7 +665,7 @@ said	O
 
 She	O
 said	O
-LGBT	B-Misc
+LGBT	B-NORP
 content	O
 ,	O
 including	O
@@ -854,7 +854,7 @@ taboo	O
 socially	O
 .	O
 
-LGBT	B-Misc
+LGBT	B-NORP
 communities	O
 have	O
 become	O

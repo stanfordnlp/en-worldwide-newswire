@@ -184,7 +184,7 @@ boreholes	O
 drainage	O
 systems	O
 ,	O
-ICT	B-Misc
+ICT	O
 centres	O
 and	O
 bridges	O
@@ -362,7 +362,7 @@ comprehensive	O
 rehabilitation	O
 of	O
 Ansarudeen	B-Organization	B-NORP
-Islamic	B-Organization	B-NORP
+Islamic	I-Organization	B-NORP
 School	I-Organization
 founded	O
 by	O
@@ -562,9 +562,9 @@ Julius	I-Person
 Aforlah	I-Person
 ,	O
 the	O
-Ablekuma	B-Misc	B-Location
-West	I-Misc	I-Location
-Municipal	I-Misc
+Ablekuma	B-Location
+West	I-Location
+Municipal	O
 Director	O
 of	O
 Education	O
@@ -644,7 +644,7 @@ of	O
 people	O
 in	O
 the	O
-Zongo	B-Location
+Zongo	B-NORP
 Communities	O
 .	O
 

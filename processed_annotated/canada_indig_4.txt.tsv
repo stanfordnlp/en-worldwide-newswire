@@ -697,7 +697,7 @@ belongings	O
 at	O
 Chief	B-Location
 Whitecap	I-Location	B-Person
-Park	I-Location	I-Person
+Park	I-Location
 ,	O
 just	O
 south	O

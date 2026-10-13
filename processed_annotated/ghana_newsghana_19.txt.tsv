@@ -303,7 +303,7 @@ Akufo	B-Person
 -	I-Person
 Addo	I-Person
 ’s	O
-Government	B-Organization
+Government	O
 was	O
 indisputably	O
 unprecedented	O
@@ -460,7 +460,7 @@ communities	O
 He	O
 said	O
 the	O
-Government	B-Organization
+Government	O
 had	O
 implemented	O
 a	O

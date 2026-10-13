@@ -698,7 +698,7 @@ protectionism	O
 breaking	O
 into	O
 such	O
-Labour	B-NORP
+Labour	B-Organization
 strongholds	O
 as	O
 Bolsover	B-Location
@@ -816,9 +816,9 @@ tour	O
 naturally	O
 including	O
 that	O
-Retiro	B-Misc	B-Location
-clock	I-Misc
-tower	I-Misc
+Retiro	B-Facility	B-Location
+clock	I-Facility
+tower	I-Facility
 known	O
 until	O
 the	O

@@ -401,7 +401,7 @@ social	O
 media	O
 account	O
 on	O
-WeChat	B-Product
+WeChat	B-Organization
 was	O
 shut	O
 down	O
@@ -466,8 +466,8 @@ said	O
 .	O
 
 The	O
-Tsinghua	B-Organization	B-Organization
-University	I-Organization	I-Organization
+Tsinghua	B-Organization
+University	I-Organization
 student	O
 affairs	O
 office	O
@@ -562,7 +562,7 @@ Transphobia	I-Misc
 ,	O
 students	O
 at	O
-Peking	B-Organization
+Peking	B-Organization	B-Location
 University	I-Organization
 ,	O
 another	O
@@ -1011,7 +1011,7 @@ the	O
 Mandate	O
 of	O
 the	O
-UN	O	B-Organization
+UN	B-Organization
 Independent	O
 Expert	O
 on	O
@@ -1067,12 +1067,12 @@ using	O
 the	O
 hashtag	O
 “	O
-I	B-Misc
-am	I-Misc
-Gay	I-Misc
+I	O
+am	O
+Gay	O
 ”	O
 on	O
-Weibo	B-Product
+Weibo	B-Organization
 to	O
 protest	O
 .	O

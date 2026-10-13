@@ -696,7 +696,7 @@ personal	O
 belongings	O
 at	O
 Chief	B-Location
-Whitecap	I-Location
+Whitecap	I-Location	B-Person
 Park	I-Location
 ,	O
 just	O
@@ -848,8 +848,8 @@ the	O
 most	O
 recent	O
 being	O
-Oregon	B-Misc
-City	I-Misc
+Oregon	B-Location
+City	I-Location
 .	O
 
 The	O
