@@ -108,9 +108,9 @@ app	O
 fell	O
 behind	O
 rivals	O
-Douyin	B-Organization
+Douyin	B-Product
 and	O
-Kuaishou	B-Organization
+Kuaishou	B-Product
 in	O
 sales	O
 during	O
@@ -361,7 +361,7 @@ the	O
 Chinese	B-NORP
 version	O
 of	O
-TikTok	B-Organization
+TikTok	B-Product
 ,	O
 developed	O
 an	O
@@ -820,8 +820,8 @@ three	O
 live	O
 streamers	O
 on	O
-Taobao	B-Misc
-Live	I-Misc
+Taobao	B-Product
+Live	I-Product
 took	O
 the	O
 majority	O
@@ -945,7 +945,7 @@ hit	O
 
 Diantao	B-Product
 ,	O
-Taobao	B-Organization
+Taobao	B-Product
 ’s	O
 dedicated	O
 live	O
@@ -992,7 +992,7 @@ firm	O
 No	O
 influencer	O
 from	O
-Taobao	B-Organization
+Taobao	B-Product
 made	O
 it	O
 into	O
@@ -1039,7 +1039,7 @@ June	B-Date
 event	O
 ,	O
 when	O
-Taobao	B-Organization
+Taobao	B-Product
 ’s	O
 live	O
 streamers	O
@@ -1102,7 +1102,7 @@ Kuaishou	B-Product
 
 However	O
 ,	O
-Kuaishou	B-Product
+Kuaishou	B-Organization
 has	O
 not	O
 escaped	O

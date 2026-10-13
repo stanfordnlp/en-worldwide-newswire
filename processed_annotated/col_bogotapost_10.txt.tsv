@@ -552,7 +552,7 @@ EAAB	B-Organization
 at	O
 least	O
 use	O
-Twitter	B-Organization
+Twitter	B-Product
 to	O
 keep	O
 people	O
@@ -643,7 +643,7 @@ ignoring	O
 complaints	O
 .	O
 
-Twitter	B-Organization
+Twitter	B-Product
 posts	O
 receive	O
 a	O

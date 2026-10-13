@@ -203,7 +203,7 @@ Omar	B-Person
 Atout	I-Person
 ,	O
 a	O
-Twitter	B-Organization
+Twitter	B-Product
 user	O
 tweeted	O
 in	O
@@ -247,7 +247,7 @@ prices	O
 .	O
 ”	O
 
-Twitter	B-Organization
+Twitter	B-Product
 user	O
 Ahed	B-Person
 Awwad	I-Person
@@ -463,7 +463,7 @@ medication	O
 .	O
 
 A	O
-Twitter	B-Organization
+Twitter	B-Product
 user	O
 tweeted	O
 in	O

@@ -14,7 +14,7 @@ and	O
 an	O
 influencer	O
 on	O
-Weibo	B-Organization
+Weibo	B-Product
 with	O
 40	O
 million	O
@@ -57,7 +57,7 @@ Shanghai	B-Location
 
 Wang	B-Person
 ’s	O
-Weibo	B-Organization
+Weibo	B-Product
 account	O
 was	O
 “	O
@@ -111,7 +111,7 @@ from	O
 publishing	O
 any	O
 new	O
-Weibo	B-Organization
+Weibo	B-Product
 posts	O
 .	O
 
@@ -175,7 +175,7 @@ the	O
 biggest	O
 influencers	O
 on	O
-Weibo	B-Organization
+Weibo	B-Product
 ,	O
 known	O
 as	O
@@ -183,7 +183,7 @@ China	B-Location
 ’s	O
 answer	O
 to	O
-Twitter	B-Organization
+Twitter	B-Product
 ,	O
 and	O
 has	O
@@ -430,7 +430,7 @@ figure	O
 and	O
 opened	O
 a	O
-Weibo	B-Organization
+Weibo	B-Product
 account	O
 the	O
 following	O
@@ -545,7 +545,7 @@ In	O
 a	O
 post	O
 on	O
-WeChat	B-Organization
+WeChat	B-Product
 ,	O
 the	O
 social	O
@@ -593,7 +593,7 @@ A	O
 screenshot	O
 of	O
 his	O
-WeChat	B-Organization
+WeChat	B-Product
 post	O
 has	O
 been	O
@@ -619,7 +619,7 @@ measures	O
 Wang	B-Person
 ’s	O
 last	O
-Weibo	B-Organization
+Weibo	B-Product
 post	O
 was	O
 on	O
@@ -725,15 +725,15 @@ social	O
 platforms	O
 ,	O
 including	O
-Weibo	B-Organization
+Weibo	B-Product
 and	O
-Douyin	B-Organization
+Douyin	B-Product
 ,	O
 the	O
 domestic	O
 version	O
 of	O
-TikTok	B-Organization
+TikTok	B-Product
 ,	O
 have	O
 started	O

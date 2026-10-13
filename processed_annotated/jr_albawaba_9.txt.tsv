@@ -274,16 +274,16 @@ which	O
 418,693	O
 were	O
 on	O
-Twitter	B-Organization
+Twitter	B-Product
 ,	O
 24,282	O
 on	O
-Facebook	B-Organization
+Facebook	B-Product
 ,	O
 and	O
 146,198	O
 on	O
-Instagram	B-Organization
+Instagram	B-Product
 ,	O
 "	O
 he	O
@@ -375,16 +375,16 @@ comments	O
 (	O
 1,674	O
 on	O
-Twitter	B-Organization
+Twitter	B-Product
 ,	O
 59	O
 on	O
-Facebook	B-Organization
+Facebook	B-Product
 ,	O
 and	O
 2284	O
 on	O
-Instagram	B-Organization
+Instagram	B-Product
 .	O
 
 The	O
@@ -409,7 +409,7 @@ by	O
 6,281	O
 users	O
 on	O
-Instagram	B-Organization
+Instagram	B-Product
 )	O
 .	O
 

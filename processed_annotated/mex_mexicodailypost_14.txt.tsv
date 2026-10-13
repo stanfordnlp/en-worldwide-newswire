@@ -96,7 +96,7 @@ United	B-Location
 States	I-Location
 ,	O
 on	O
-Twitter	B-Organization
+Twitter	B-Product
 described	O
 the	O
 death	O
@@ -291,7 +291,7 @@ Plaudits	O
 flooded	O
 in	O
 on	O
-Twitter	B-Organization
+Twitter	B-Product
 for	O
 Kennedy	B-Person
 ,	O

@@ -453,7 +453,7 @@ bureaucrats	O
 ,	O
 ”	O
 said	O
-Twitter	B-Organization
+Twitter	B-Product
 user	O
 James	B-Person
 Louie	I-Person
@@ -671,7 +671,7 @@ in	O
 Malaysia	B-Location
 .	O
 
-Twitter	B-Organization
+Twitter	B-Product
 user	O
 Azizul	B-Person
 Arkaan	I-Person

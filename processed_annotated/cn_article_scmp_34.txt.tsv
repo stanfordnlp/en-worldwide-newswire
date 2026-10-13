@@ -82,7 +82,7 @@ court	O
 said	O
 in	O
 a	O
-WeChat	B-Organization
+WeChat	B-Product
 article	O
 .	O
 
@@ -468,7 +468,7 @@ her	O
 extravagant	O
 lifestyle	O
 on	O
-Weibo	B-Organization
+Weibo	B-Product
 .	O
 
 She	O

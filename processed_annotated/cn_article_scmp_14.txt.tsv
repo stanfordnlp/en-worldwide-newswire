@@ -217,12 +217,12 @@ on	O
 Tencent	B-Organization
 Holdings	I-Organization
 platform	O
-WeChat	B-Organization
+WeChat	B-Product
 and	O
 ByteDance	B-Organization
 -	O
 owned	O
-Douyin	B-Organization
+Douyin	B-Product
 ,	O
 the	O
 Chinese	B-NORP
@@ -233,7 +233,7 @@ hit	O
 short	O
 video	O
 app	O
-TikTok	B-Organization
+TikTok	B-Product
 .	O
 
 Foxconn	B-Organization
@@ -402,7 +402,7 @@ operation	O
 published	O
 on	O
 its	O
-WeChat	B-Organization
+WeChat	B-Product
 account	O
 .	O
 

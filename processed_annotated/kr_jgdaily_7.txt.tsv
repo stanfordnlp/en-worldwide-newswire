@@ -441,7 +441,7 @@ Vatican	B-Person	B-Location
 Kingdom	I-Person
 on	O
 the	O
-Telegram	B-Organization
+Telegram	B-Product
 messaging	O
 service	O
 ,	O

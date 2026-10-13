@@ -99,8 +99,8 @@ streaming	O
 ”	O
 programmes	O
 on	O
-WeChat	B-Misc	B-Product
-Channel	I-Misc
+WeChat	B-Product	B-Product
+Channel	I-Product
 require	O
 preregistration	O
 with	O
@@ -172,7 +172,7 @@ Television	I-Organization
 The	O
 intervention	O
 by	O
-WeChat	B-Product
+WeChat	B-Organization
 reflects	O
 how	O
 internet	O

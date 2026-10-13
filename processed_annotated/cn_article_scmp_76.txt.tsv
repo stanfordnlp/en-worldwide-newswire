@@ -401,7 +401,7 @@ social	O
 media	O
 account	O
 on	O
-WeChat	B-Organization
+WeChat	B-Product
 was	O
 shut	O
 down	O
@@ -1072,7 +1072,7 @@ am	O
 Gay	O
 ”	O
 on	O
-Weibo	B-Organization
+Weibo	B-Product
 to	O
 protest	O
 .	O
