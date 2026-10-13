@@ -14,9 +14,9 @@ August	B-Date
 ,	O
 during	O
 the	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 lockdown	O
 period	O
 ,	O

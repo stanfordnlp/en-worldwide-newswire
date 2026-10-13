@@ -37,9 +37,9 @@ surviving	O
 a	O
 bout	O
 of	O
-COVID	B-Date
--	I-Date
-19	I-Date
+COVID	B-Misc
+-	I-Misc
+19	I-Misc
 in	O
 2020	B-Date
 .	O

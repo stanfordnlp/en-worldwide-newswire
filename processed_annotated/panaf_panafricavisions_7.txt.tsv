@@ -709,9 +709,9 @@ rarity	O
 in	O
 2020	B-Date
 when	O
-COVID	B-Money
--	I-Money
-19	I-Money
+COVID	B-Misc
+-	I-Misc
+19	I-Misc
 practically	O
 killed	O
 demand	O

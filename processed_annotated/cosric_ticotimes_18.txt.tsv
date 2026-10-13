@@ -339,9 +339,9 @@ Ruiz	I-Person
 went	O
 down	O
 with	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 two	O
 weeks	O
 before	O

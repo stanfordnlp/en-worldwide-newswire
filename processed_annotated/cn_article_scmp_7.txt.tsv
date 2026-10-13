@@ -186,9 +186,9 @@ halted	O
 in	O
 January	B-Date
 amid	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 restrictions	O
 brought	O
 on	O

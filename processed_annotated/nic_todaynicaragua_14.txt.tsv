@@ -94,9 +94,9 @@ Nicaragua	B-Location
 in	O
 times	O
 of	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 .	O
 
 The	O
@@ -516,9 +516,9 @@ as	O
 a	O
 result	O
 of	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 ”	O
 ,	O
 organized	O
@@ -1175,9 +1175,9 @@ Latin	B-Location
 America	I-Location
 due	O
 to	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 ,	O
 for	O
 which	O

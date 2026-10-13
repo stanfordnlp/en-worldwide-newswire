@@ -7,9 +7,9 @@ only	O
 deaths	O
 due	O
 to	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 between	O
 2020	B-Date
 and	O

@@ -531,9 +531,9 @@ world	O
 ”	O
 amid	O
 the	O
-COVID	B-NORP
--	I-NORP
-19	I-NORP
+COVID	B-Misc
+-	I-Misc
+19	I-Misc
 pandemic	O
 and	O
 the	O

@@ -411,9 +411,9 @@ green	O
 economic	O
 recovery	O
 from	O
-COVID	B-Date
--	I-Date
-19	I-Date
+COVID	B-Misc
+-	I-Misc
+19	I-Misc
 ,	O
 some	O
 environmental	O

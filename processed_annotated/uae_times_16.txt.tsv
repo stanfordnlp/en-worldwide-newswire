@@ -261,9 +261,9 @@ after	O
 two	O
 years	O
 of	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 restrictions	O
 .	O
 

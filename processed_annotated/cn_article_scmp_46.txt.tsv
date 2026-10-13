@@ -80,9 +80,9 @@ a	O
 second	O
 wave	O
 of	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 in	O
 2021	B-Date
 ,	O
@@ -255,9 +255,9 @@ a	O
 second	O
 wave	O
 of	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 in	O
 2021	B-Date
 ,	O

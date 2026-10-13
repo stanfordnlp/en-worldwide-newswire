@@ -264,8 +264,8 @@ year	O
 2020	B-Date
 because	O
 if	O
-covid	B-Date
-19	I-Date
+covid	B-Misc
+19	I-Misc
 became	O
 the	O
 first	O

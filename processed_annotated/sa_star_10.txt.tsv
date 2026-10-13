@@ -1162,9 +1162,9 @@ was	O
 gravely	O
 ill	O
 with	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 and	O
 was	O
 in	O

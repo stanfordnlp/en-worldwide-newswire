@@ -320,9 +320,9 @@ stable	O
 production	O
 output	O
 during	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 .	O
 
 US	B-Location

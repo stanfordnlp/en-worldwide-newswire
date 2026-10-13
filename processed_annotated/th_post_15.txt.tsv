@@ -303,9 +303,9 @@ slashed	O
 their	O
 workforce	O
 during	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 ,	O
 "	O
 said	O

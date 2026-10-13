@@ -43,9 +43,9 @@ affected	O
 by	O
 the	O
 latest	O
-COVID	B-Date
--	I-Date
-19	I-Date
+COVID	B-Misc
+-	I-Misc
+19	I-Misc
 resurgence	O
 .	O
 

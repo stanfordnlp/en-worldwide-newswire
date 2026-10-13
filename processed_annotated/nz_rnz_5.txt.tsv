@@ -266,9 +266,9 @@ of	O
 tourism	O
 impacted	O
 by	O
-Covid	B-Date
--	I-Date
-19	I-Date
+Covid	B-Misc
+-	I-Misc
+19	I-Misc
 .	O
 
 "	O
