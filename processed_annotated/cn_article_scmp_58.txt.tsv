@@ -25,7 +25,7 @@ destroyer	O
 sailed	O
 through	O
 the	O
-Taiwan	B-Location	B-NORP
+Taiwan	B-Location	B-Location
 Strait	I-Location
 on	O
 Tuesday	B-Date
@@ -77,7 +77,7 @@ waters	O
 ,	O
 including	O
 the	O
-Taiwan	B-Location	B-NORP
+Taiwan	B-Location	B-Location
 Strait	I-Location
 ,	O
 has	O
@@ -112,8 +112,8 @@ a	O
 report	O
 emerged	O
 that	O
-US	B-Organization	B-Location
-House	I-Organization
+US	B-Location
+House	O
 Speaker	O
 Nancy	B-Person
 Pelosi	I-Person
@@ -201,7 +201,7 @@ ship	O
 transit	O
 through	O
 the	O
-Taiwan	B-Location	B-NORP
+Taiwan	B-Location	B-Location
 Strait	I-Location
 demonstrates	O
 the	O
@@ -214,9 +214,9 @@ a	O
 free	O
 and	O
 open	O
-Indo	B-Location	B-NORP
--	I-Location
-Pacific	I-Location
+Indo	B-NORP
+-	I-NORP
+Pacific	I-NORP
 .	O
 ”	O
 
@@ -238,16 +238,16 @@ as	O
 permitted	O
 by	O
 the	O
-UN	B-Organization
-Convention	I-Organization
-on	I-Organization
-the	I-Organization
-Law	I-Organization
-of	I-Organization
-the	I-Organization
-Sea	I-Organization
+UN	B-Misc	B-Organization
+Convention	I-Misc
+on	I-Misc
+the	I-Misc
+Law	I-Misc
+of	I-Misc
+the	I-Misc
+Sea	I-Misc
 (	O
-UNCLOS	B-Organization
+UNCLOS	B-Misc
 )	O
 ,	O
 of	O
@@ -284,7 +284,7 @@ water	O
 –	O
 over	O
 the	O
-Taiwan	B-Location
+Taiwan	B-Location	B-Location
 Strait	I-Location
 .	O
 
@@ -331,7 +331,7 @@ and	O
 stability	O
 in	O
 the	O
-Taiwan	B-Location
+Taiwan	B-Location	B-Location
 Strait	I-Location
 and	O
 the	O
@@ -341,7 +341,7 @@ security	O
 risks	O
 in	O
 the	O
-Taiwan	B-Location
+Taiwan	B-Location	B-Location
 Strait	I-Location
 ,	O
 ”	O
@@ -356,7 +356,7 @@ Wednesday	B-Date
 statement	O
 after	O
 the	O
-Benfold	B-Misc
+Benfold	B-Facility
 ’s	O
 trip	O
 .	O
@@ -403,7 +403,7 @@ normal	O
 ”	O
 as	O
 the	O
-Benfold	B-Misc
+Benfold	B-Facility
 sailed	O
 north	O
 .	O
@@ -412,7 +412,7 @@ On	O
 Saturday	B-Date
 ,	O
 the	O
-Benfold	B-Misc
+Benfold	B-Facility
 travelled	O
 near	O
 the	O
@@ -775,4 +775,3 @@ visit	O
 the	O
 US	B-Location
 .	O
-
