@@ -669,8 +669,8 @@ Korea	I-Location
 to	O
 feature	O
 an	O
-LGBTQ	B-Misc
-+	I-Misc
+LGBTQ	B-NORP
++	I-NORP
 character	O
 .	O
 
