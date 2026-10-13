@@ -577,6 +577,7 @@ Authority	I-Organization
 ’s	O
 policy	O
 .	O
+
 The	O
 Tax	B-Organization
 Authority	I-Organization
@@ -643,6 +644,7 @@ conditions	O
 for	O
 compensation	O
 .	O
+
 When	O
 the	O
 conditions	O
@@ -657,6 +659,7 @@ required	O
 by	O
 law	O
 .	O
+
 When	O
 the	O
 conditions	O

@@ -98,6 +98,7 @@ mid	O
 -	O
 May	B-Date
 .	O
+
 They	O
 were	O
 then	O
@@ -125,6 +126,7 @@ will	O
 seek	O
 appeals	O
 .	O
+
 Why	O
 are	O
 they	O
@@ -132,6 +134,7 @@ banning	O
 the	O
 rainbow	O
 ?	O
+
 The	O
 disciplinary	O
 procedure	O
@@ -202,6 +205,7 @@ time	O
 like	O
 this	O
 .	O
+
 The	O
 rainbow	O
 is	O
@@ -238,6 +242,7 @@ mainland	O
 LGBT	B-NORP
 communities	O
 .	O
+
 Last	O
 year	O
 ,	O
@@ -285,6 +290,7 @@ possibility	O
 of	O
 dismissal	O
 .	O
+
 Last	O
 month	O
 ,	O
@@ -347,6 +353,7 @@ materials	O
 on	O
 campus	O
 .	O
+
 Huang	B-Person
 received	O
 a	O
@@ -386,6 +393,7 @@ students	O
 from	O
 Tsinghua	B-Organization
 .	O
+
 The	O
 group	O
 ’s	O
@@ -538,6 +546,7 @@ the	O
 rainbow	O
 symbol	O
 .	O
+
 On	O
 May	B-Date
 17	I-Date
@@ -629,6 +638,7 @@ at	O
 special	O
 times	O
 .	O
+
 For	O
 example	O
 ,	O
@@ -689,6 +699,7 @@ iconic	O
 and	O
 symbolic	O
 .	O
+
 The	O
 rainbow	O
 element	O
@@ -701,6 +712,7 @@ in	O
 demonstrations	O
 overseas	O
 .	O
+
 It	O
 ’s	O
 a	O
@@ -837,6 +849,7 @@ remains	O
 taboo	O
 socially	O
 .	O
+
 LGBT	B-NORP
 communities	O
 have	O
@@ -958,6 +971,7 @@ and	O
 organised	O
 religions	O
 .	O
+
 Lawyers	O
 ,	O
 dissidents	O
@@ -1028,6 +1042,7 @@ for	O
 11	O
 years	O
 .	O
+
 In	O
 2018	B-Date
 ,	O

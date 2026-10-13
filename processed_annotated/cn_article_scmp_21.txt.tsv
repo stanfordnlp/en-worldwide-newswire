@@ -172,6 +172,7 @@ between	O
 acting	O
 projects	O
 .	O
+
 “	O
 I	O
 ’ve	O
@@ -464,6 +465,7 @@ person	O
 he	O
 says	O
 .	O
+
 “	O
 I	O
 think	O
@@ -530,6 +532,7 @@ bit	O
 more	O
 melancholic	O
 .	O
+
 And	O
 I	O
 think	O
@@ -670,6 +673,7 @@ LGBTQ	B-Misc
 +	I-Misc
 character	O
 .	O
+
 Since	O
 its	O
 release	O
@@ -740,6 +744,7 @@ be	O
 edited	O
 ]	O
 .	O
+
 But	O
 it	O
 was	O
@@ -769,6 +774,7 @@ engaging	O
 as	O
 well	O
 .	O
+
 In	O
 the	O
 future	O
@@ -802,6 +808,7 @@ open	O
 to	O
 it	O
 .	O
+
 I	O
 ’ll	O
 try	O
@@ -902,6 +909,7 @@ mood	O
 he	O
 says	O
 .	O
+
 He	O
 likes	O
 playing	O
@@ -943,6 +951,7 @@ day	O
 shaman	O
 detective	O
 .	O
+
 “	O
 He	O
 ’s	O
@@ -1046,6 +1055,7 @@ everything	O
 was	O
 new	O
 .	O
+
 I	O
 would	O
 get	O
@@ -1059,6 +1069,7 @@ would	O
 fall	O
 down	O
 .	O
+
 But	O
 going	O
 through	O
@@ -1163,6 +1174,7 @@ track	O
 he	O
 says	O
 .	O
+
 “	O
 I	O
 feel	O
@@ -1179,6 +1191,7 @@ in	O
 my	O
 life	O
 .	O
+
 Both	O
 of	O
 them	O
@@ -1213,6 +1226,7 @@ from	O
 the	O
 world	O
 .	O
+
 So	O
 I	O
 ’m	O

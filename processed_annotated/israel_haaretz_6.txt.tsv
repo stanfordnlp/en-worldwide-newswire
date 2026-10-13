@@ -299,6 +299,7 @@ percent	O
 in	O
 2015-20	B-Date
 .	O
+
 The	O
 Indian	B-NORP
 share	O
@@ -369,6 +370,7 @@ Uzi	B-Product
 submachine	I-Product
 guns	I-Product
 .	O
+
 The	O
 JV	O
 also	O
@@ -383,6 +385,7 @@ Haifa	B-Facility	B-Location
 Port	I-Facility
 tender	O
 .	O
+
 Last	O
 year	O
 ,	O
@@ -438,6 +441,7 @@ links	O
 with	O
 Iran	B-Location
 .	O
+
 In	O
 June	B-Date
 ,	O
@@ -499,6 +503,7 @@ India	B-Location
 and	O
 Iran	B-Location
 .	O
+
 Our	O
 relations	O
 have	O
@@ -548,6 +553,7 @@ Iran	B-Location
 Chabahar	B-Facility	B-Location
 Port	I-Facility
 .	O
+
 India	B-Location
 has	O
 committed	O
@@ -578,6 +584,7 @@ and	O
 Central	B-Location
 Asia	I-Location
 .	O
+
 In	O
 order	O
 to	O
@@ -628,6 +635,7 @@ is	O
 kilometers	O
 away	O
 .	O
+
 China	B-Location
 has	O
 invested	O
@@ -663,6 +671,7 @@ the	O
 Persian	B-Location
 Gulf	I-Location
 .	O
+
 Washington	B-Location
 would	O
 prefer	O
@@ -710,6 +719,7 @@ Iran	B-Location
 energy	O
 sector	O
 .	O
+
 After	O
 Tehran	B-Location
 began	O
@@ -769,6 +779,7 @@ avoided	O
 joining	O
 in	O
 .	O
+
 Recently	O
 ,	O
 India	B-Location
@@ -797,6 +808,7 @@ not	O
 using	O
 dollars	B-Money
 .	O
+
 India	B-Location
 has	O
 already	O
@@ -888,6 +900,7 @@ sea	O
 to	O
 India	B-Location
 .	O
+
 This	O
 north	O
 -	O
@@ -919,6 +932,7 @@ the	O
 Suez	B-Location
 Canal	I-Location
 .	O
+
 The	O
 new	O
 corridor	O
@@ -962,6 +976,7 @@ its	O
 Suez	B-Location
 revenues	O
 .	O
+
 Iran	B-Location
 ,	O
 however	O
@@ -972,6 +987,7 @@ the	O
 big	O
 beneficiary	O
 .	O
+
 The	O
 new	O
 corridor	O
@@ -1022,6 +1038,7 @@ fees	O
 it	O
 collects	O
 .	O
+
 If	O
 and	O
 when	O
@@ -1083,6 +1100,7 @@ standing	O
 in	O
 Iran	B-Location
 .	O
+
 Iran	B-Location
 has	O
 and	O
@@ -1140,6 +1158,7 @@ the	O
 same	O
 policy	O
 .	O
+
 Israeli	B-NORP
 weapon	O
 sales	O
@@ -1234,6 +1253,7 @@ good	O
 on	O
 paper	O
 .	O
+
 But	O
 it	O
 runs	O
@@ -1244,6 +1264,7 @@ rocks	O
 of	O
 realpolitik	O
 .	O
+
 Iran	B-Location
 is	O
 now	O
@@ -1293,6 +1314,7 @@ Russia	B-Location
 ’s	O
 lifeline	O
 .	O
+
 India	B-Location
 has	O
 n’t	O
@@ -1324,6 +1346,7 @@ in	O
 Ukraine	B-Location
 began	O
 .	O
+
 Yet	O
 ,	O
 at	O

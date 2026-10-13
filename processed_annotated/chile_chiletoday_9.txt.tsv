@@ -112,6 +112,7 @@ Apr	B-Date
 .	I-Date
 1	I-Date
 .	O
+
 The	O
 issue	O
 was	O
@@ -141,6 +142,7 @@ the	O
 natural	O
 resource	O
 .	O
+
 Oral	O
 presentations	O
 will	O
@@ -213,6 +215,7 @@ by	O
 both	O
 countries	O
 .	O
+
 According	O
 to	O
 Chile	B-Location
@@ -235,6 +238,7 @@ last	O
 8,400	O
 years	O
 .	O
+
 According	O
 to	O
 Bolivia	B-Location
@@ -284,9 +288,11 @@ an	O
 international	O
 river	O
 .	O
+
 Bolivia	B-Location
 disagrees	O
 .	O
+
 It	O
 maintains	O
 that	O
@@ -309,6 +315,7 @@ part	O
 of	O
 Chile	B-Location
 .	O
+
 According	O
 to	O
 Bolivia	B-Location
@@ -406,6 +413,7 @@ cannot	O
 be	O
 replenished	O
 .	O
+
 But	O
 the	O
 river	O
@@ -456,6 +464,7 @@ this	O
 same	O
 issue	O
 .	O
+
 Some	O
 officials	O
 fear	O
@@ -493,6 +502,7 @@ ICJ	B-Organization
 in	O
 2018	B-Date
 .	O
+
 The	O
 agreement	O
 states	O
@@ -515,6 +525,7 @@ in	O
 their	O
 struggles	O
 .	O
+
 Many	O
 therefore	O
 worry	O

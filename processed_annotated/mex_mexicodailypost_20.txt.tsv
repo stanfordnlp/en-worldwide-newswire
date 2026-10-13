@@ -99,6 +99,7 @@ v	I-Misc
 .	I-Misc
 Wade	I-Misc	B-Person
 .	O
+
 One	O
 U.	B-Location
 K.	I-Location
@@ -175,6 +176,7 @@ lure	O
 remote	O
 workers	O
 .	O
+
 As	O
 their	O
 options	O
@@ -240,6 +242,7 @@ and	O
 work	O
 elsewhere	O
 .	O
+
 This	O
 year	O
 ’s	O
@@ -286,6 +289,7 @@ their	O
 life	O
 there	O
 .	O
+
 Expats	O
 told	O
 InterNations	B-Organization
@@ -337,6 +341,7 @@ seen	O
 in	O
 decades	O
 .	O
+
 It	O
 ’s	O
 no	O
@@ -380,6 +385,7 @@ their	O
 financial	O
 situation	O
 .	O
+
 Only	O
 15	O
 %	O
@@ -407,6 +413,7 @@ to	O
 live	O
 comfortably	O
 .	O
+
 That	O
 ’s	O
 in	O
@@ -521,6 +528,7 @@ and	O
 financial	O
 stability	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -553,6 +561,7 @@ Zealand	I-Location
 and	O
 Luxembourg	B-Location
 .	O
+
 There	O
 seems	O
 to	O
@@ -628,6 +637,7 @@ to	O
 rising	O
 inflation	O
 .	O
+
 There	O
 ,	O
 ​​	O
@@ -643,6 +653,7 @@ in	O
 32	O
 years	O
 .	O
+
 An	O
 expat	O
 who	O
@@ -671,6 +682,7 @@ the	O
 salaries	O
 .	O
 ”	O
+
 At	O
 the	O
 same	O

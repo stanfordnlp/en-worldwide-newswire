@@ -407,6 +407,7 @@ It	O
 ’s	O
 big	O
 .	O
+
 It	O
 ’s	O
 tasty	O
@@ -417,6 +418,7 @@ high	O
 in	O
 calories	O
 .	O
+
 It	O
 ’s	O
 made	O
@@ -459,6 +461,7 @@ and	O
 many	O
 others	O
 .	O
+
 This	O
 is	O
 one	O
@@ -472,6 +475,7 @@ in	O
 banana	O
 leaves	O
 .	O
+
 An	O
 average	O
 Nacatamal	O
@@ -480,6 +484,7 @@ have	O
 1000	O
 calories	O
 .	O
+
 It	O
 is	O
 very	O
@@ -502,6 +507,7 @@ for	O
 night	O
 time	O
 .	O
+
 If	O
 you	O
 want	O
@@ -537,6 +543,7 @@ favorite	O
 food	O
 spot	O
 .	O
+
 Fritanga	O
 is	O
 a	O
@@ -565,6 +572,7 @@ cabbage	O
 and	O
 tomatoes	O
 .	O
+
 Will	O
 fill	O
 you	O
@@ -589,6 +597,7 @@ cabbage	O
 and	O
 tomatoes	O
 .	O
+
 This	O
 is	O
 one	O
@@ -601,6 +610,7 @@ to	O
 its	O
 origins	O
 .	O
+
 Nicaragua	B-Location
 is	O
 a	O
@@ -650,6 +660,7 @@ of	O
 any	O
 trash	O
 .	O
+
 She	O
 came	O
 up	O
@@ -707,6 +718,7 @@ country	O
 and	O
 beyond	O
 .	O
+
 It	O
 is	O
 usually	O
@@ -759,6 +771,7 @@ the	O
 previous	O
 plates	O
 .	O
+
 This	O
 food	O
 is	O
@@ -775,6 +788,7 @@ people	O
 ’s	O
 plates	O
 .	O
+
 Very	O
 tasty	O
 ,	O
@@ -800,6 +814,7 @@ the	O
 whole	O
 country	O
 .	O
+
 But	O
 there	O
 are	O
@@ -830,6 +845,7 @@ and	O
 their	O
 food	O
 .	O
+
 Just	O
 ask	O
 .	O
@@ -849,6 +865,7 @@ rice	O
 ,	O
 tortilla	O
 .	O
+
 Served	O
 with	O
 water	O
@@ -867,12 +884,14 @@ rice	O
 ,	O
 tortilla	O
 .	O
+
 Sometimes	O
 chicken	O
 on	O
 the	O
 side	O
 .	O
+
 Sometimes	O
 cucumber	O
 or	O
@@ -881,6 +900,7 @@ on	O
 the	O
 side	O
 .	O
+
 Occasionally	O
 soup	O
 as	O
@@ -899,6 +919,7 @@ rice	O
 ,	O
 tortilla	O
 .	O
+
 Sometimes	O
 chicken	O
 or	O
@@ -907,6 +928,7 @@ on	O
 the	O
 side	O
 .	O
+
 Sometimes	O
 cucumber	O
 or	O
@@ -915,6 +937,7 @@ on	O
 the	O
 side	O
 .	O
+
 Sometimes	O
 pico	O
 de	O
@@ -942,6 +965,7 @@ or	O
 between	O
 meals	O
 .	O
+
 There	O
 is	O
 also	O
@@ -950,6 +974,7 @@ lot	O
 of	O
 snacking	O
 .	O
+
 Pick	O
 mangos	O
 and	O

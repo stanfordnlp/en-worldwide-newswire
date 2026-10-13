@@ -141,6 +141,7 @@ non	O
 traditional	O
 shows	O
 .	O
+
 The	O
 show	O
 runs	O
@@ -229,6 +230,7 @@ U.	B-Location
 S.	I-Location
 government	O
 .	O
+
 Laraia	B-Person
 says	O
 the	O
@@ -284,6 +286,7 @@ today	O
 says	O
 Laraia	B-Person
 .	O
+
 What	O
 is	O
 the	O
@@ -319,6 +322,7 @@ aspirations	O
 and	O
 goals	O
 ?	O
+
 Is	O
 political	O
 compromise	O
@@ -408,6 +412,7 @@ revolution	O
 through	O
 insurgency	O
 .	O
+
 He	O
 remained	O
 true	O
@@ -426,6 +431,7 @@ end	O
 Laraia	B-Person
 says	O
 .	O
+
 “	O
 Hearing	O
 his	O
@@ -505,6 +511,7 @@ and	O
 teaching	O
 artist	O
 .	O
+
 He	O
 is	O
 the	O
@@ -557,6 +564,7 @@ Washington	B-Location
 ,	I-Location
 DC	I-Location
 .	O
+
 He	O
 has	O
 worked	O
@@ -569,6 +577,7 @@ Member	O
 since	O
 2010	B-Date
 .	O
+
 He	O
 graduated	O
 with	O
@@ -589,6 +598,7 @@ School	I-Organization
 of	I-Organization
 Economics	I-Organization	B-Misc
 .	O
+
 He	O
 is	O
 a	O
@@ -599,6 +609,7 @@ and	O
 passionate	O
 writer	O
 .	O
+
 He	O
 has	O
 written	O

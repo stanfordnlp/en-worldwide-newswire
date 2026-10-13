@@ -23,6 +23,7 @@ non	O
 -	O
 spectacle	O
 .	O
+
 It	O
 sits	O
 back	O
@@ -80,6 +81,7 @@ to	O
 great	O
 effect	O
 .	O
+
 Both	O
 in	O
 last	O
@@ -131,6 +133,7 @@ for	O
 good	O
 measure	O
 .	O
+
 But	O
 on	O
 Tuesday	B-Date
@@ -184,6 +187,7 @@ it	O
 came	O
 about	O
 .	O
+
 Boca	B-Organization
 were	O
 effectively	O
@@ -209,6 +213,7 @@ do	O
 their	O
 worst	O
 .	O
+
 Their	O
 worst	O
 ,	O
@@ -220,6 +225,7 @@ was	O
 wholly	O
 harmless	O
 .	O
+
 The	O
 hosts	O
 were	O
@@ -254,6 +260,7 @@ unlock	O
 the	O
 game	O
 .	O
+
 That	O
 gambit	O
 has	O
@@ -316,6 +323,7 @@ plenty	O
 of	O
 them	O
 .	O
+
 Forty	O
 -	O
 three	O
@@ -337,6 +345,7 @@ sturdy	O
 Corinthians	B-Organization
 backline	O
 .	O
+
 One	O
 of	O
 the	O
@@ -411,6 +420,7 @@ venerable	O
 old	O
 stadium	O
 .	O
+
 The	O
 Xeneize	B-Organization
 have	O
@@ -540,6 +550,7 @@ captain	O
 's	O
 armband	O
 .	O
+
 Since	O
 that	O
 fateful	O
@@ -614,6 +625,7 @@ reclaim	O
 the	O
 Copa	B-Misc
 .	O
+
 They	O
 have	O
 been	O
@@ -684,6 +696,7 @@ Riquelme	B-Person
 in	O
 2007	B-Date
 .	O
+
 Each	O
 enjoyed	O
 varying	O
@@ -710,6 +723,7 @@ never	O
 dried	O
 up	O
 .	O
+
 But	O
 none	O
 of	O
@@ -775,6 +789,7 @@ one	O
 ,	O
 then	O
 .	O
+
 The	O
 dance	O
 of	O
@@ -797,6 +812,7 @@ the	O
 current	O
 favourite	O
 .	O
+
 But	O
 until	O
 Boca	B-Organization

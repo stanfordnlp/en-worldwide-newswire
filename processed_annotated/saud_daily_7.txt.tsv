@@ -226,6 +226,7 @@ Elaf	B-Organization
 ’s	O
 CEO	O
 .	O
+
 “	O
 By	O
 the	O
@@ -393,6 +394,7 @@ Munich	B-Location
 among	O
 others	O
 .	O
+
 Building	O
 on	O
 the	O
@@ -439,6 +441,7 @@ Arabia	I-Location
 and	O
 Greece	B-Location
 .	O
+
 They	O
 are	O
 cooperating	O
@@ -469,6 +472,7 @@ broader	O
 richer	O
 facilities	O
 .	O
+
 Elaf	B-Organization
 and	O
 AEGEAN	B-Organization

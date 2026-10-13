@@ -302,6 +302,7 @@ man	O
 ’s	O
 talent	O
 .	O
+
 In	O
 1887	B-Date
 ,	O
@@ -318,6 +319,7 @@ of	I-Organization
 French	I-Organization	B-NORP
 Artists	I-Organization
 .	O
+
 Michelena	B-Person
 sent	O
 the	O
@@ -333,6 +335,7 @@ electoral	O
 visit	O
 )	O
 .	O
+
 The	O
 Salon	B-Organization
 awarded	O
@@ -376,6 +379,7 @@ century	O
 says	O
 Stein	B-Person
 .	O
+
 At	O
 that	O
 time	O
@@ -391,6 +395,7 @@ with	O
 Arturo	B-Person
 Michelena	I-Person
 .	O
+
 Emilio	B-Person
 Boggio	I-Person
 Dupuy	I-Person
@@ -429,6 +434,7 @@ artistic	O
 career	O
 there	O
 .	O
+
 Tovar	B-Person
 y	I-Person
 Tovar	I-Person
@@ -455,6 +461,7 @@ known	O
 says	O
 Stein	B-Person
 .	O
+
 But	O
 Guzmán	B-Person
 Blanco	I-Person
@@ -509,6 +516,7 @@ the	O
 French	B-Misc	B-NORP
 Revolution	I-Misc
 .	O
+
 At	O
 that	O
 event	O
@@ -602,6 +610,7 @@ L	B-Misc
 Enfant	I-Misc
 Malade	I-Misc
 .	O
+
 She	O
 was	O
 a	O
@@ -628,6 +637,7 @@ American	B-NORP
 business	O
 family	O
 .	O
+
 Thus	O
 ,	O
 the	O
@@ -686,6 +696,7 @@ tuberculosis	B-Misc
 in	O
 Caracas	B-Location
 .	O
+
 And	O
 this	O
 is	O
@@ -750,6 +761,7 @@ on	O
 the	O
 Titanic	B-Misc
 .	O
+
 Vincent	B-Person
 Astor	I-Person
 —	O
@@ -770,6 +782,7 @@ at	O
 years	O
 old	O
 .	O
+
 As	O
 a	O
 consequence	O
@@ -835,6 +848,7 @@ before	O
 it	O
 disappeared	O
 .	O
+
 And	O
 then	O
 ,	O
@@ -893,6 +907,7 @@ Michelena	B-Person
 ’s	O
 painting	O
 .	O
+
 He	O
 first	O
 found	O
@@ -924,6 +939,7 @@ of	I-Facility
 New	I-Facility
 York	I-Facility
 .	O
+
 Stein	B-Person
 assumed	O
 that	O
@@ -942,6 +958,7 @@ Sotheby	B-Organization
 ’s	O
 archives	O
 .	O
+
 “	O
 Fortunately	O
 ,	O
@@ -958,6 +975,7 @@ States	I-Location
 says	O
 Stein	B-Person
 .	O
+
 “	O
 Venezuelans	B-NORP
 throw	O
@@ -968,6 +986,7 @@ which	O
 is	O
 terrible	O
 .	O
+
 Because	O
 what	O
 now	O
@@ -1012,6 +1031,7 @@ Modern	I-Organization
 Art	I-Organization
 Department	I-Organization
 .	O
+
 A	O
 month	O
 or	O
@@ -1034,6 +1054,7 @@ June	B-Date
 ,	I-Date
 1926	I-Date
 .	O
+
 The	O
 catalog	O
 described	O
@@ -1052,6 +1073,7 @@ as	O
 The	B-Misc
 Doctor	I-Misc
 .	O
+
 The	O
 surname	O
 Burns	B-Person
@@ -1086,6 +1108,7 @@ at	O
 the	O
 auction	O
 .	O
+
 Now	O
 Stein	B-Person
 knew	O
@@ -1104,6 +1127,7 @@ not	O
 to	O
 whom	O
 .	O
+
 When	O
 he	O
 searched	O
@@ -1126,6 +1150,7 @@ Burns	B-Person
 he	O
 explains	O
 .	O
+
 Tracking	O
 down	O
 the	O
@@ -1187,6 +1212,7 @@ Sarasota	B-Location
 in	O
 Florida	B-Location
 .	O
+
 Owen	B-Person
 Burns	I-Person
 ,	O
@@ -1232,6 +1258,7 @@ of	O
 antique	O
 art	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -1274,6 +1301,7 @@ Owen	B-Person
 Burns	I-Person
 .	O
 ”	O
+
 The	O
 Venezuelan	B-NORP
 curator	O
@@ -1311,6 +1339,7 @@ said	O
 to	O
 himself	O
 .	O
+
 But	O
 two	O
 or	O
@@ -1349,6 +1378,7 @@ in	O
 their	O
 deposits	O
 .	O
+
 Burns	B-Person
 ’s	O
 descendants	O
@@ -1482,6 +1512,7 @@ the	O
 Child	O
 .	O
 ”	O
+
 And	O
 there	O
 ,	O
@@ -1570,6 +1601,7 @@ x	O
 85	O
 cms	O
 .	O
+
 The	O
 one	O
 Stein	B-Person
@@ -1582,6 +1614,7 @@ by	O
 10	O
 feet	O
 .	O
+
 After	O
 the	O
 discovery	O
@@ -1641,6 +1674,7 @@ the	O
 original	O
 painting	O
 .	O
+
 “	O
 The	O
 government	O
@@ -1653,6 +1687,7 @@ money	O
 he	O
 says	O
 .	O
+
 So	O
 Stein	B-Person
 ’s	O
@@ -1681,6 +1716,7 @@ of	O
 the	O
 finding	O
 .	O
+
 But	O
 ,	O
 says	O
@@ -1713,10 +1749,12 @@ needed	O
 .	O
 ’	O
 ”	O
+
 Stein	B-Person
 was	O
 astonished	O
 .	O
+
 Shortly	O
 after	O
 ,	O
@@ -1764,6 +1802,7 @@ for	O
 $	B-Money
 1,450,000	I-Money
 .	O
+
 “	O
 To	O
 this	O
@@ -1788,6 +1827,7 @@ auction	O
 says	O
 Stein	B-Person
 .	O
+
 “	O
 More	O
 than	O
@@ -1840,6 +1880,7 @@ The	B-Misc
 Sick	I-Misc
 Child	I-Misc
 .	O
+
 But	O
 its	O
 current	O
@@ -1963,6 +2004,7 @@ immaculate	O
 ”	O
 conditions	O
 .	O
+
 No	O
 one	O
 in	O
@@ -2019,6 +2061,7 @@ The	B-Misc
 Sick	I-Misc
 Child	I-Misc
 .	O
+
 At	O
 this	O
 moment	O
@@ -2082,10 +2125,13 @@ the	O
 exhibition	O
 Michelena	B-Person
 .	O
+
 Reverón	B-Person
 .	O
+
 Poleo	O
 .	O
+
 Seven	B-Misc
 Master	I-Misc
 Paintings	I-Misc
@@ -2113,6 +2159,7 @@ to	O
 Venezuela	B-Location
 yet	O
 .	O
+
 It	O
 went	O
 from	O
@@ -2141,6 +2188,7 @@ it	O
 is	O
 now	O
 .	O
+
 “	O
 Neither	O
 of	O
@@ -2162,6 +2210,7 @@ soil	O
 says	O
 Stein	B-Person
 .	O
+
 “	O
 The	O
 interest	O
@@ -2179,6 +2228,7 @@ to	O
 the	O
 country	O
 .	O
+
 But	O
 not	O
 yet	O

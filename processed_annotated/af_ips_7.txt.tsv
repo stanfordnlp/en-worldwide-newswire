@@ -60,6 +60,7 @@ appropriately	O
 named	O
 @lionheart1759	O
 .	O
+
 Indeed	O
 ,	O
 it	O
@@ -78,6 +79,7 @@ a	O
 bold	O
 adventure	O
 .	O
+
 People	O
 like	O
 philanthropist	O
@@ -140,6 +142,7 @@ terrifying	O
 it	O
 seems	O
 .	O
+
 Ellen	B-Person
 Johnson	I-Person
 Sirleaf	I-Person
@@ -176,6 +179,7 @@ to	O
 achieve	O
 them	O
 .	O
+
 If	O
 your	O
 dreams	O
@@ -198,6 +202,7 @@ support	O
 his	O
 cause	O
 .	O
+
 Polio	B-Misc
 is	O
 a	O
@@ -220,6 +225,7 @@ muscles	O
 are	O
 affected	O
 .	O
+
 In	O
 the	O
 past	O
@@ -246,6 +252,7 @@ them	O
 to	O
 breathe	O
 .	O
+
 Thanks	O
 to	O
 the	O
@@ -270,6 +277,7 @@ of	O
 polio	O
 eradication	O
 .	O
+
 It	O
 was	O
 my	O
@@ -279,6 +287,7 @@ in	O
 global	O
 health	O
 .	O
+
 As	O
 a	O
 young	O
@@ -353,6 +362,7 @@ to	O
 be	O
 eradicated	O
 .	O
+
 Without	O
 a	O
 doubt	O
@@ -370,6 +380,7 @@ on	O
 this	O
 journey	O
 .	O
+
 I	O
 am	O
 part	O
@@ -400,6 +411,7 @@ Nnewi	B-Location
 southeast	I-Location
 Nigeria	I-Location
 .	O
+
 Rotary	B-Organization
 International	I-Organization
 launched	O
@@ -427,6 +439,7 @@ GPEI	B-Organization
 was	O
 established	O
 .	O
+
 At	O
 that	O
 time	O
@@ -440,6 +453,7 @@ children	O
 globally	O
 daily	O
 .	O
+
 Since	O
 then	O
 ,	O
@@ -454,6 +468,7 @@ immunized	O
 against	O
 polio	O
 .	O
+
 Consequently	O
 ,	O
 global	O
@@ -467,6 +482,7 @@ by	O
 99	O
 %	O
 .	O
+
 Currently	O
 ,	O
 wild	O
@@ -479,6 +495,7 @@ Afghanistan	B-Location
 and	O
 Pakistan	B-Location
 .	O
+
 Nigeria	B-Location
 interrupted	O
 polio	O
@@ -525,6 +542,7 @@ spread	O
 widely	O
 again	O
 .	O
+
 The	O
 final	O
 five	O
@@ -563,6 +581,7 @@ polio	O
 completely	O
 eradicated	O
 .	O
+
 These	O
 are	O
 four	O
@@ -591,6 +610,7 @@ all	O
 eligible	O
 children	O
 .	O
+
 To	O
 be	O
 fully	O
@@ -606,6 +626,7 @@ of	O
 polio	O
 vaccines	O
 .	O
+
 Polio	B-Misc
 vaccines	O
 come	O
@@ -617,6 +638,7 @@ oral	O
 and	O
 injectable	O
 .	O
+
 Based	O
 on	O
 UNICEF	B-Organization
@@ -635,6 +657,7 @@ oral	O
 polio	O
 vaccine	O
 .	O
+
 In	O
 contrast	O
 ,	O
@@ -666,6 +689,7 @@ of	O
 the	O
 virus	O
 .	O
+
 The	O
 polio	O
 virus	O
@@ -675,6 +699,7 @@ out	O
 in	O
 stool	O
 .	O
+
 That	O
 ’s	O
 why	O
@@ -701,6 +726,7 @@ widespread	O
 public	O
 stooling	O
 .	O
+
 Surveillance	O
 activities	O
 involve	O
@@ -720,6 +746,7 @@ episodes	O
 of	O
 fever	O
 .	O
+
 Further	O
 ,	O
 environmental	O
@@ -748,6 +775,7 @@ cold	O
 chain	O
 equipment	O
 .	O
+
 Maintaining	O
 the	O
 right	O
@@ -770,6 +798,7 @@ sub	B-Location	B-NORP
 Saharan	I-Location	I-NORP
 Africa	I-Location
 .	O
+
 For	O
 example	O
 ,	O
@@ -814,6 +843,7 @@ chain	O
 for	O
 vaccines	O
 .	O
+
 Across	O
 African	B-NORP
 countries	O
@@ -830,6 +860,7 @@ for	O
 vaccine	O
 storage	O
 .	O
+
 Solar	O
 freezers	O
 do	O
@@ -837,6 +868,7 @@ n’t	O
 come	O
 cheap	O
 .	O
+
 A	O
 Solar	B-Product
 Direct	I-Product
@@ -886,6 +918,7 @@ countries	O
 without	O
 polio	O
 .	O
+
 Indeed	O
 ,	O
 the	O
@@ -934,6 +967,7 @@ community	O
 based	O
 organisations	O
 .	O
+
 Other	O
 means	O
 include	O
@@ -949,6 +983,7 @@ and	O
 electronic	O
 media	O
 .	O
+
 More	O
 polio	O
 education	O
@@ -959,6 +994,7 @@ via	O
 social	O
 media	O
 .	O
+
 Adeyanju	B-Person
 has	O
 made	O
@@ -1081,6 +1117,7 @@ you	O
 Kunle	B-Person
 Adeyanju	I-Person
 .	O
+
 Your	O
 boldness	O
 will	O
@@ -1093,6 +1130,7 @@ from	O
 being	O
 paralysed	O
 .	O
+
 You	O
 are	O
 a	O
@@ -1115,6 +1153,7 @@ of	I-Organization
 Tropical	I-Organization
 Medicine	I-Organization
 .	O
+
 He	O
 is	O
 a	O

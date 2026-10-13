@@ -150,6 +150,7 @@ such	O
 an	O
 atrocity	O
 ?	O
+
 Those	O
 awful	O
 ,	O
@@ -231,6 +232,7 @@ the	O
 ample	O
 funding	O
 .	O
+
 The	O
 AMIA	B-Organization
 president	O
@@ -297,6 +299,7 @@ neighbourhood	O
 of	O
 Once	B-Location
 .	O
+
 During	O
 the	O
 rally	O
@@ -626,6 +629,7 @@ first	O
 lodged	O
 )	O
 .	O
+
 Lipstadt	B-Person
 ,	O
 whose	O
@@ -713,6 +717,7 @@ AMIA	B-Organization
 terrorist	O
 attack	O
 .	O
+
 Every	O
 year	O
 Argentina	B-Location
@@ -758,6 +763,7 @@ never	O
 been	O
 clarified	O
 .	O
+
 A	O
 trial	O
 on	O
@@ -808,6 +814,7 @@ for	O
 diverting	O
 investigation	O
 .	O
+
 Linetsky	B-Person
 dismisses	O
 judicial	O

@@ -296,6 +296,7 @@ the	O
 striking	O
 lawmakers	O
 .	O
+
 The	O
 first	O
 rally	O
@@ -309,6 +310,7 @@ Al	I-Person
 -	I-Person
 Saadoun	I-Person
 .	O
+
 The	O
 next	O
 two	O
@@ -328,6 +330,7 @@ Al	I-Person
 -	I-Person
 Jari	I-Person
 .	O
+
 Jari	B-Person
 said	O
 that	O
@@ -389,6 +392,7 @@ few	O
 months	O
 ago	O
 .	O
+
 One	O
 of	O
 these	O
@@ -446,6 +450,7 @@ terrorizing	O
 their	O
 opponents	O
 .	O
+
 Former	O
 pro	O
 -	O
@@ -525,6 +530,7 @@ with	O
 illegal	O
 deposits	O
 .	O
+
 He	O
 said	O
 he	O

@@ -80,6 +80,7 @@ on	O
 the	O
 head	O
 .	O
+
 The	O
 NFTs	B-Misc
 ,	O
@@ -305,6 +306,7 @@ since	O
 last	O
 summer	O
 .	O
+
 JD	B-Organization
 .	I-Organization
 com	I-Organization
@@ -317,6 +319,7 @@ own	O
 digital	O
 collectibles	O
 .	O
+
 Alibaba	B-Organization
 owns	O
 the	O
@@ -338,6 +341,7 @@ discourage	O
 potential	O
 speculation	O
 .	O
+
 In	O
 March	B-Date
 ,	O
@@ -353,6 +357,7 @@ marketed	O
 digital	O
 collectibles	O
 .	O
+
 A	O
 WeChat	B-Organization
 representative	O
@@ -411,6 +416,7 @@ collectibles	O
 for	O
 profit	O
 .	O
+
 In	O
 January	B-Date
 ,	O

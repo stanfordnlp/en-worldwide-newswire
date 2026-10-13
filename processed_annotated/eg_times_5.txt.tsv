@@ -256,6 +256,7 @@ Zamalek	B-Location
 Ryadi	B-Facility
 Gardens	I-Facility
 .	O
+
 “	O
 There	O
 ’s	O
@@ -272,6 +273,7 @@ House	I-Misc
 Martigny	B-Person
 says	O
 .	O
+
 “	O
 People	O
 think	O
@@ -289,6 +291,7 @@ let	O
 you	O
 in	O
 .	O
+
 We	O
 want	O
 to	O
@@ -325,6 +328,7 @@ the	O
 unwashed	O
 masses	O
 .	O
+
 For	O
 the	O
 Fête	B-Misc
@@ -340,6 +344,7 @@ fine	O
 democratic	O
 style	O
 .	O
+
 As	O
 the	O
 sun	O
@@ -364,6 +369,7 @@ of	O
 the	O
 year	O
 .	O
+
 The	O
 program	O
 switched	O
@@ -403,6 +409,7 @@ the	O
 southern	O
 stage	O
 .	O
+
 A	O
 professional	O
 singer	O
@@ -430,6 +437,7 @@ a	O
 Cairene	B-NORP
 audience	O
 .	O
+
 In	O
 the	O
 difficult	O
@@ -500,6 +508,7 @@ Nubian	B-NORP
 folk	O
 songs	O
 .	O
+
 Pausing	O
 in	O
 Cairo	B-Location
@@ -563,6 +572,7 @@ songs	O
 Harkal	B-Person
 explains	O
 .	O
+
 “	O
 They	O
 ’ve	O
@@ -583,6 +593,7 @@ and	O
 playing	O
 .	O
 ”	O
+
 With	O
 complex	O
 ,	O
@@ -608,6 +619,7 @@ to	O
 the	O
 festival	O
 .	O
+
 The	O
 songs	O
 are	O
@@ -660,6 +672,7 @@ widest	O
 possible	O
 audience	O
 .	O
+
 His	O
 group	O
 is	O
@@ -671,6 +684,7 @@ first	O
 studio	O
 album	O
 .	O
+
 Watch	O
 out	O
 for	O
@@ -710,6 +724,7 @@ from	O
 the	O
 region	O
 .	O
+
 They	O
 were	O
 swiftly	O
@@ -758,6 +773,7 @@ they	O
 came	O
 offstage	O
 .	O
+
 Press	O
 photographers	O
 crowded	O
@@ -778,6 +794,7 @@ sipping	O
 cool	O
 drinks	O
 .	O
+
 In	O
 other	O
 words	O
@@ -803,6 +820,7 @@ the	O
 next	O
 act	O
 .	O
+
 The	O
 godfather	O
 of	O
@@ -825,6 +843,7 @@ Cairo	B-Location
 ”	O
 Shoubra	B-Location
 .	O
+
 Celebrating	O
 the	O
 critical	O
@@ -865,6 +884,7 @@ France	B-Location
 and	O
 Italy	B-Location
 .	O
+
 He	O
 attracted	O
 a	O
@@ -882,6 +902,7 @@ live	O
 music	O
 venues	O
 .	O
+
 “	O
 I	O
 love	O
@@ -921,6 +942,7 @@ Salama	B-Person
 ’s	O
 set	O
 .	O
+
 “	O
 We	O
 go	O
@@ -965,6 +987,7 @@ superb	O
 accordion	O
 playing	O
 .	O
+
 Things	O
 ,	O
 however	O
@@ -976,6 +999,7 @@ entirely	O
 as	O
 planned	O
 .	O
+
 After	O
 the	O
 final	O
@@ -993,6 +1017,7 @@ the	O
 sound	O
 quality	O
 .	O
+
 “	O
 I	O
 hope	O
@@ -1030,6 +1055,7 @@ extravagantly	O
 coiffed	O
 M	B-Person
 .	O
+
 The	O
 CFCC	B-Organization
 invited	O
@@ -1055,6 +1081,7 @@ him	O
 in	O
 France	B-Location
 .	O
+
 This	O
 year	O
 ’s	O
@@ -1167,6 +1194,7 @@ the	O
 right	O
 place	O
 .	O
+
 Accompanied	O
 by	O
 a	O
@@ -1208,6 +1236,7 @@ stagemanship	O
 thrown	O
 in	O
 .	O
+
 Nodding	O
 his	O
 twin	O
@@ -1254,6 +1283,7 @@ of	O
 the	O
 drumkit	O
 .	O
+
 The	O
 audience	O
 went	O
@@ -1283,6 +1313,7 @@ Fête	B-Misc
 ’s	O
 future	O
 .	O
+
 “	O
 We	O
 ’d	O
@@ -1295,6 +1326,7 @@ truly	O
 international	O
 festival	O
 .	O
+
 Yes	O
 ,	O
 the	O
@@ -1316,6 +1348,7 @@ that	O
 Martigny	B-Person
 says	O
 .	O
+
 In	O
 coming	O
 years	O
@@ -1340,6 +1373,7 @@ Egypt	B-Location
 best	O
 musicians	O
 .	O
+
 “	O
 We	O
 want	O

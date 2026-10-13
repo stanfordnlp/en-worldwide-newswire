@@ -20,6 +20,7 @@ country	O
 ’s	O
 hospitals	O
 .	O
+
 Many	O
 innocent	O
 lives	O
@@ -59,6 +60,7 @@ unemployed	O
 or	O
 underemployed	O
 .	O
+
 This	O
 ,	O
 therefore	O
@@ -87,6 +89,7 @@ hospitals	O
 and	O
 clinics	O
 .	O
+
 The	O
 challenge	O
 with	O
@@ -105,6 +108,7 @@ are	O
 severely	O
 underequipped	O
 .	O
+
 One	O
 doctor	O
 who	O
@@ -159,6 +163,7 @@ gloves	O
 or	O
 bandages	O
 .	O
+
 Patients	O
 have	O
 to	O
@@ -170,6 +175,7 @@ own	O
 test	O
 tubes	O
 …	O
+
 We	O
 do	O
 n’t	O
@@ -182,6 +188,7 @@ the	O
 doctor	O
 said	O
 .	O
+
 Due	O
 to	O
 the	O
@@ -220,6 +227,7 @@ charge	O
 exorbitant	O
 fees	O
 .	O
+
 The	O
 result	O
 in	O
@@ -285,6 +293,7 @@ pain	O
 in	O
 patients	O
 .	O
+
 The	O
 statement	O
 signed	O
@@ -319,6 +328,7 @@ further	O
 notice	O
 ”	O
 .	O
+
 The	O
 statement	O
 went	O
@@ -338,6 +348,7 @@ their	O
 own	O
 drugs	O
 .	O
+
 “	O
 Patients	O
 may	O
@@ -375,6 +386,7 @@ Zimbabwe	B-Location
 ’s	O
 hospitals	O
 .	O
+
 The	O
 poor	O
 who	O
@@ -437,6 +449,7 @@ of	O
 greener	O
 pastures	O
 .	O
+
 The	O
 UK	B-Location
 government	O
@@ -469,6 +482,7 @@ than	O
 other	O
 countries	O
 .	O
+
 The	O
 report	O
 stated	O
@@ -492,6 +506,7 @@ from	O
 to	O
 2022	B-Date
 !	O
+
 The	O
 highest	O
 number	O
@@ -505,6 +520,7 @@ the	O
 healthcare	O
 system	O
 .	O
+
 Health	O
 unions	O
 in	O
@@ -557,6 +573,7 @@ still	O
 under	O
 training	O
 .	O
+
 Commenting	O
 on	O
 the	O
@@ -607,6 +624,7 @@ still	O
 under	O
 training	O
 .	O
+
 This	O
 has	O
 compromised	O
@@ -643,6 +661,7 @@ have	O
 medical	O
 insurance	O
 .	O
+
 Before	O
 ,	O
 all	O
@@ -673,6 +692,7 @@ medical	O
 aid	O
 cards	O
 .	O
+
 If	O
 they	O
 were	O
@@ -691,6 +711,7 @@ same	O
 medical	O
 aid	O
 .	O
+
 However	O
 ,	O
 starting	O
@@ -736,6 +757,7 @@ for	O
 a	O
 week	O
 .	O
+
 Once	O
 a	O
 week	O
@@ -824,6 +846,7 @@ they	O
 fall	O
 due	O
 .	O
+
 Given	O
 these	O
 pressures	O
@@ -894,6 +917,7 @@ anything	O
 in	O
 return	O
 .	O
+
 Workers	O
 are	O
 of	O
@@ -959,6 +983,7 @@ of	O
 healthcare	O
 services	O
 .	O
+
 Then	O
 long	O
 -	O

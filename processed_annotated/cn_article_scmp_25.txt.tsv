@@ -37,6 +37,7 @@ utensils	O
 and	O
 bags	O
 .	O
+
 But	O
 she	O
 is	O
@@ -214,6 +215,7 @@ surveys	O
 and	O
 interviews	O
 .	O
+
 Most	O
 prioritise	O
 health	O
@@ -356,6 +358,7 @@ concerns	O
 Lin	B-Person
 said	O
 .	O
+
 Namely	O
 ,	O
 new	O
@@ -595,6 +598,7 @@ earlier	O
 this	O
 year	O
 .	O
+
 Some	O
 44	O
 per	O
@@ -652,6 +656,7 @@ for	O
 them	O
 personally	O
 .	O
+
 And	O
 some	O
 32	O
@@ -781,6 +786,7 @@ to	O
 tackling	O
 pollution	O
 .	O
+
 I	O
 think	O
 there	O
@@ -1046,6 +1052,7 @@ neutrality	O
 by	O
 2060	B-Date
 .	O
+
 Though	O
 it	O
 continues	O

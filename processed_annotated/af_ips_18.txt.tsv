@@ -82,6 +82,7 @@ pan	O
 fry	O
 them	O
 .	O
+
 We	O
 would	O
 then	O
@@ -116,6 +117,7 @@ everybody	O
 ate	O
 termites	O
 .	O
+
 At	O
 11	O
 years	O
@@ -141,6 +143,7 @@ nuisance	O
 than	O
 food	O
 .	O
+
 One	O
 morning	O
 after	O
@@ -253,6 +256,7 @@ more	O
 expensive	O
 foods	O
 .	O
+
 The	O
 Kenyan	B-NORP
 ‘	O
@@ -406,6 +410,7 @@ affordable	O
 alternative	O
 .	O
 ”	O
+
 It	O
 is	O
 projected	O
@@ -449,6 +454,7 @@ in	O
 African	B-NORP
 communities	O
 .	O
+
 The	O
 Central	B-NORP
 African	I-NORP
@@ -462,6 +468,7 @@ edible	O
 insect	O
 species	O
 .	O
+
 East	B-Location
 Africa	I-Location
 hosts	O
@@ -479,6 +486,7 @@ in	O
 North	B-Location
 Africa	I-Location
 .	O
+
 An	O
 estimated	O
 17	O
@@ -539,6 +547,7 @@ acceptable	O
 as	O
 food	O
 .	O
+
 There	O
 are	O
 also	O
@@ -670,6 +679,7 @@ slowly	O
 sink	O
 in	O
 .	O
+
 When	O
 it	O
 comes	O
@@ -754,6 +764,7 @@ a	O
 few	O
 communities	O
 .	O
+
 In	O
 Central	B-Location
 Kenya	I-Location
@@ -771,6 +782,7 @@ for	O
 poor	O
 people	O
 .	O
+
 Today	O
 ,	O
 Amaranthus	B-Misc
@@ -789,6 +801,7 @@ five	O
 star	O
 hotels	O
 .	O
+
 The	O
 same	O
 with	O
@@ -820,6 +833,7 @@ plant	O
 based	O
 meal	O
 .	O
+
 More	O
 importantly	O
 ,	O
@@ -871,6 +885,7 @@ snacks	O
 and	O
 pasta	O
 .	O
+
 Karare	B-Person
 says	O
 the	O
@@ -959,6 +974,7 @@ harmful	O
 greenhouse	O
 gases	O
 .	O
+
 The	O
 livestock	O
 sector	O
@@ -1010,6 +1026,7 @@ sector	O
 ’s	O
 emissions	O
 .	O
+
 Producing	O
 insects	O
 for	O
@@ -1064,6 +1081,7 @@ amount	O
 of	O
 protein	O
 .	O
+
 Additionally	O
 ,	O
 insect	O

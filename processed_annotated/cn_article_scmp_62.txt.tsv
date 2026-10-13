@@ -76,6 +76,7 @@ country	O
 ’s	O
 reconstruction	O
 .	O
+
 That	O
 coincided	O
 with	O
@@ -183,6 +184,7 @@ dams	O
 and	O
 railways	O
 .	O
+
 It	O
 was	O
 successful	O
@@ -305,6 +307,7 @@ short	O
 -	O
 lived	O
 .	O
+
 When	O
 global	O
 oil	O
@@ -336,6 +339,7 @@ Angolan	B-NORP
 economy	O
 suffered	O
 .	O
+
 It	O
 fell	O
 into	O
@@ -349,6 +353,7 @@ five	O
 consecutive	O
 years	O
 .	O
+
 The	O
 Covid	B-Misc
 -	I-Misc
@@ -485,6 +490,7 @@ collateral	O
 he	O
 said	O
 .	O
+
 “	O
 But	O
 today	O
@@ -708,6 +714,7 @@ projects	O
 Lazaro	B-Person
 said	O
 .	O
+
 “	O
 In	O
 some	O
@@ -746,6 +753,7 @@ major	O
 construction	O
 projects	O
 .	O
+
 He	O
 said	O
 Chinese	B-NORP
@@ -1064,6 +1072,7 @@ was	O
 no	O
 more	O
 .	O
+
 Most	O
 importantly	O
 ,	O
@@ -1147,6 +1156,7 @@ peak	O
 he	O
 said	O
 .	O
+
 “	O
 But	O
 the	O
@@ -1322,6 +1332,7 @@ dependence	O
 on	O
 China	B-Location
 .	O
+
 “	O
 There	O
 has	O

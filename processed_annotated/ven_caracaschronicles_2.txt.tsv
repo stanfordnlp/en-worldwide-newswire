@@ -1236,6 +1236,7 @@ transparency	O
 and	O
 accountability	O
 .	O
+
 Even	O
 if	O
 gold	O
@@ -1335,6 +1336,7 @@ Venezuela	I-Organization
 BCV	B-Organization
 )	O
 .	O
+
 30	O
 %	O
 (	O
@@ -1382,6 +1384,7 @@ per	O
 year	O
 )	O
 .	O
+
 Thus	O
 ,	O
 75	O
@@ -1482,6 +1485,7 @@ diverted	O
 explains	O
 Oliveros	B-Person
 .	O
+
 The	O
 report	O
 also	O
@@ -1504,6 +1508,7 @@ can	O
 be	O
 profitable	O
 .	O
+
 A	O
 Transparency	B-Organization
 delegation	O
@@ -1522,6 +1527,7 @@ the	O
 mining	O
 towns	O
 .	O
+
 The	O
 state	O
 and	O
@@ -1569,6 +1575,7 @@ companies	O
 ’	O
 payrolls	O
 .	O
+
 They	O
 do	O
 n’t	O
@@ -1618,6 +1625,7 @@ to	O
 criminal	O
 groups	O
 .	O
+
 Gold	O
 is	O
 a	O
@@ -1687,6 +1695,7 @@ El	B-Misc
 Sistema	I-Misc
 ”	O
 .	O
+
 This	O
 extended	O
 control	O
@@ -1725,6 +1734,7 @@ and	O
 business	O
 conflicts	O
 .	O
+
 The	B-Misc
 System	I-Misc
 includes	O
@@ -1735,6 +1745,7 @@ dissuade	O
 whole	O
 populations	O
 .	O
+
 “	O
 They	O
 are	O
@@ -1810,6 +1821,7 @@ colectivos	O
 and	O
 gangs	O
 .	O
+
 The	O
 funds	O
 coming	O
@@ -1827,6 +1839,7 @@ to	O
 expand	O
 internationally	O
 .	O
+
 Many	O
 of	O
 them	O
@@ -1889,6 +1902,7 @@ called	O
 Ley	B-Misc
 Antibloqueo	I-Misc
 .	O
+
 For	O
 Oliveros	B-Person
 ,	O
@@ -1977,6 +1991,7 @@ between	O
 and	O
 2021	B-Date
 .	O
+
 It	O
 also	O
 mentions	O
@@ -2012,6 +2027,7 @@ businessmen	O
 last	O
 year	O
 .	O
+
 Another	O
 case	O
 is	O
@@ -2163,6 +2179,7 @@ the	O
 information	O
 .	O
 ”	O
+
 According	O
 to	O
 De	B-Person
@@ -2247,6 +2264,7 @@ tons	O
 by	O
 2020	B-Date
 .	O
+
 Yet	O
 ,	O
 in	O
@@ -2295,6 +2313,7 @@ million	I-Money
 in	O
 2012	B-Date
 .	O
+
 “	O
 It	O
 ’s	O
@@ -2370,6 +2389,7 @@ also	O
 its	O
 future	O
 .	O
+
 “	O
 If	O
 we	O
@@ -2407,6 +2427,7 @@ country	O
 is	O
 doomed	O
 .	O
+
 “	O
 The	O
 moment	O
@@ -2470,6 +2491,7 @@ in	O
 the	O
 transition	O
 .	O
+
 Other	O
 countries	O
 did	O

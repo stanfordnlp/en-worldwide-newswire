@@ -252,6 +252,7 @@ still	O
 in	O
 school	O
 .	O
+
 What	O
 kind	O
 of	O
@@ -259,6 +260,7 @@ summer	O
 is	O
 that	O
 !	O
+
 This	O
 is	O
 a	O
@@ -269,6 +271,7 @@ are	O
 living	O
 in	O
 !	O
+
 Besides	O
 ,	O
 who	O
@@ -278,6 +281,7 @@ to	O
 go	O
 anywhere	O
 ?	O
+
 Everything	O
 is	O
 sold	O
@@ -303,6 +307,7 @@ items	O
 are	O
 resold	O
 .	O
+
 You	O
 have	O
 to	O
@@ -316,6 +321,7 @@ send	O
 you	O
 dollars	O
 .	O
+
 There	O
 ?	O
 s	O
@@ -341,6 +347,7 @@ are	O
 more	O
 fortunate	O
 .	O
+
 They	O
 will	O
 spend	O
@@ -367,6 +374,7 @@ to	O
 Texas	B-Location
 .	O
 "	O
+
 My	O
 little	O
 girl	O
@@ -383,6 +391,7 @@ well	O
 off	O
 here	O
 .	O
+
 She	O
 's	O
 pole	O
@@ -405,6 +414,7 @@ we	O
 have	O
 here	O
 .	O
+
 We	O
 lack	O
 nothing	O
@@ -433,11 +443,13 @@ food	O
 ,	O
 everything	O
 .	O
+
 Even	O
 a	O
 good	O
 vacation	O
 .	O
+
 We	O
 go	O
 to	O
@@ -487,6 +499,7 @@ you	O
 earn	O
 here	O
 .	O
+
 My	O
 husband	O
 is	O
@@ -497,6 +510,7 @@ pesos	I-Money
 a	O
 month	O
 .	O
+
 That	O
 's	O
 barely	O
@@ -507,6 +521,7 @@ for	O
 the	O
 electricity	O
 .	O
+
 This	O
 country	O
 is	O
@@ -517,6 +532,7 @@ who	O
 receive	O
 remittances	O
 .	O
+
 Luckily	O
 ,	O
 we	O
@@ -551,6 +567,7 @@ opposite	O
 extreme	O
 .	O
 "	O
+
 Here	O
 there	O
 is	O
@@ -562,6 +579,7 @@ of	O
 any	O
 kind	O
 .	O
+
 I	O
 finished	O
 my	O
@@ -581,6 +599,7 @@ I	O
 dropped	O
 out	O
 .	O
+
 Many	O
 are	O
 leaving	O
@@ -595,6 +614,7 @@ who	O
 are	O
 studying	O
 .	O
+
 They	O
 're	O
 all	O
@@ -610,6 +630,7 @@ money	O
 and	O
 leave	O
 .	O
+
 Nothing	O
 else	O
 .	O
@@ -622,6 +643,7 @@ is	O
 there	O
 here	O
 ?	O
+
 Where	O
 can	O
 you	O
@@ -640,6 +662,7 @@ state	O
 of	O
 things	O
 ?	O
+
 What	O
 chance	O
 does	O
@@ -678,15 +701,18 @@ they	O
 a	O
 professional	O
 ?	O
+
 Absolutely	O
 none	O
 .	O
+
 Young	O
 people	O
 are	O
 n't	O
 stupid	O
 .	O
+
 This	O
 country	O
 is	O
@@ -707,6 +733,7 @@ can	O
 enjoy	O
 it	O
 .	O
+
 Those	O
 who	O
 have	O
@@ -776,6 +803,7 @@ hot	O
 weather	O
 .	O
 "	O
+
 Many	O
 took	O
 his	O
@@ -785,6 +813,7 @@ a	O
 bad	O
 joke	O
 .	O
+
 It	O
 is	O
 hard	O

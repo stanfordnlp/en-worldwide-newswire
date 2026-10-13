@@ -132,6 +132,7 @@ M	B-NORP
 ori	I-NORP
 language	O
 .	O
+
 The	O
 danger	O
 of	O
@@ -298,6 +299,7 @@ need	O
 30,000	O
 teachers	O
 .	O
+
 So	O
 that	O
 kind	O
@@ -386,6 +388,7 @@ te	O
 reo	O
 Māori	B-NORP
 .	O
+
 But	O
 since	O
 their	O

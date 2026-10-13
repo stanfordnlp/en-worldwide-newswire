@@ -179,6 +179,7 @@ J	B-Location
 -	I-Location
 K	I-Location
 .	O
+
 In	O
 the	O
 2008	B-Date
@@ -219,6 +220,7 @@ the	O
 city	O
 centre	O
 .	O
+
 The	O
 BJP	B-Organization
 leaders	O
@@ -331,6 +333,7 @@ the	O
 country	O
 participated	O
 .	O
+
 The	O
 rally	O
 will	O
@@ -432,6 +435,7 @@ away	O
 from	O
 here	O
 .	O
+
 She	O
 used	O
 to	O
@@ -456,6 +460,7 @@ hoist	O
 the	O
 tricolour	O
 .	O
+
 I	O
 want	O
 to	O
@@ -476,6 +481,7 @@ holding	O
 the	O
 tiranga	O
 .	O
+
 Every	O
 person	O
 has	O
@@ -550,6 +556,7 @@ is	O
 being	O
 written	O
 .	O
+
 The	O
 works	O
 undertaken	O
@@ -559,6 +566,7 @@ are	O
 speaking	O
 loud	O
 .	O
+
 Modi	B-Person
 gave	O
 a	O
@@ -613,6 +621,7 @@ forming	O
 Gupkar	B-Organization
 alliance	I-Organization
 .	O
+
 But	O
 ,	O
 the	O
@@ -627,6 +636,7 @@ accept	O
 them	O
 now	O
 .	O
+
 In	O
 today	O
 ’s	O
@@ -712,6 +722,7 @@ youth	O
 of	O
 India	B-Location
 .	O
+
 The	O
 central	O
 government	O
@@ -827,6 +838,7 @@ youth	O
 of	O
 Kashmir	B-Location
 .	O
+
 We	O
 have	O
 come	O

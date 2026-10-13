@@ -602,6 +602,7 @@ attributed	O
 to	O
 Israel	B-Location
 .	O
+
 “	O
 I	O
 do	O
@@ -618,6 +619,7 @@ said	O
 this	O
 month	O
 .	O
+
 “	O
 On	O
 my	O
@@ -628,6 +630,7 @@ did	O
 n’t	O
 happen	O
 .	O
+
 It	O
 ’s	O
 not	O
@@ -635,6 +638,7 @@ good	O
 at	O
 all	O
 .	O
+
 There	O
 ’s	O
 a	O
@@ -646,12 +650,14 @@ should	O
 be	O
 done	O
 .	O
+
 It	O
 ’s	O
 not	O
 my	O
 area	O
 .	O
+
 And	O
 afterwards	O
 there	O
@@ -664,6 +670,7 @@ and	O
 bragging	O
 .	O
 ”	O
+
 But	O
 ever	O
 since	O
@@ -746,6 +753,7 @@ of	O
 last	O
 year	O
 .	O
+
 Her	O
 work	O
 was	O
@@ -775,6 +783,7 @@ other	O
 prime	O
 ministers	O
 .	O
+
 The	O
 weight	O
 that	O
@@ -808,6 +817,7 @@ a	O
 partnership	O
 .	O
 ”	O
+
 But	O
 beyond	O
 that	O
@@ -851,6 +861,7 @@ idea	O
 was	O
 rejected	O
 .	O
+
 When	O
 Meir	B-Person
 sought	O
@@ -917,6 +928,7 @@ fellow	O
 Yamina	B-NORP
 lawmakers	O
 .	O
+
 Sources	O
 familiar	O
 with	O
@@ -972,6 +984,7 @@ about	O
 the	O
 operation	O
 .	O
+
 Bar	B-Person
 was	O
 adamantly	O
@@ -993,6 +1006,7 @@ cause	O
 serious	O
 harm	O
 .	O
+
 The	O
 two	O
 got	O
@@ -1008,6 +1022,7 @@ taking	O
 a	O
 side	O
 .	O
+
 Ultimately	O
 ,	O
 he	O
@@ -1032,6 +1047,7 @@ conference	O
 be	O
 halted	O
 .	O
+
 Bar	B-Person
 claimed	O
 that	O
@@ -1092,6 +1108,7 @@ together	O
 very	O
 harmoniously	O
 .	O
+
 Lapid	B-Person
 boycotted	O
 the	O
@@ -1129,6 +1146,7 @@ director	O
 -	O
 general	O
 .	O
+
 This	O
 was	O
 the	O
@@ -1192,6 +1210,7 @@ and	O
 approved	O
 it	O
 .	O
+
 When	O
 Lapid	B-Person
 contacted	O
@@ -1242,6 +1261,7 @@ is	O
 fundamentally	O
 false	O
 .	O
+
 I	O
 did	O
 not	O
@@ -1258,6 +1278,7 @@ a	O
 sensitive	O
 operation	O
 .	O
+
 I	O
 did	O
 nothing	O
@@ -1289,6 +1310,7 @@ such	O
 a	O
 thing	O
 .	O
+
 The	O
 mixing	O
 of	O
@@ -1335,6 +1357,7 @@ PR	O
 for	O
 Barnea	B-Person
 .	O
+
 I	O
 assume	O
 that	O
@@ -1382,6 +1405,7 @@ had	O
 excellent	O
 relations	O
 .	O
+
 I	O
 will	O
 not	O
@@ -1409,6 +1433,7 @@ S.	I-Organization	I-Location
 Congress	I-Organization
 members	O
 .	O
+
 Bennett	B-Person
 saw	O
 supreme	O
@@ -1420,6 +1445,7 @@ with	O
 Congress	B-Organization
 members	O
 .	O
+
 The	O
 outcome	O
 is	O
@@ -1495,6 +1521,7 @@ action	O
 in	O
 question	O
 .	O
+
 On	O
 the	O
 contrary	O
@@ -1537,6 +1564,7 @@ did	O
 not	O
 happen	O
 .	O
+
 Prime	O
 Minister	O
 Bennett	B-Person
@@ -1567,6 +1595,7 @@ about	O
 the	O
 operation	O
 .	O
+
 All	O
 of	O
 her	O
@@ -1606,6 +1635,7 @@ and	O
 security	O
 successes	O
 .	O
+
 Shimrit	B-Person
 Meir	I-Person
 was	O
@@ -1670,6 +1700,7 @@ in	O
 the	O
 bureau	O
 .	O
+
 I	O
 regret	O
 that	O

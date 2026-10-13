@@ -92,6 +92,7 @@ Judge	O
 President	O
 Hlophe	B-Person
 .	O
+
 This	O
 is	O
 following	O
@@ -228,6 +229,7 @@ the	O
 JSC	B-Organization
 finding	O
 .	O
+
 Xulu	B-Person
 said	O
 he	O
@@ -314,6 +316,7 @@ the	O
 judicial	O
 office	O
 .	O
+
 It	O
 is	O
 done	O
@@ -335,6 +338,7 @@ for	O
 his	O
 removal	O
 .	O
+
 It	O
 ,	O
 with	O
@@ -453,6 +457,7 @@ in	O
 the	O
 past	O
 .	O
+
 Meanwhile	O
 ,	O
 an	O
@@ -559,6 +564,7 @@ by	O
 the	O
 President	O
 .	O
+
 Hlophe	B-Person
 filed	O
 an	O
@@ -574,6 +580,7 @@ decision	O
 in	O
 2021	B-Date
 .	O
+
 At	O
 that	O
 time	O
@@ -796,6 +803,7 @@ will	O
 be	O
 litigated	O
 .	O
+
 For	O
 that	O
 reason	O

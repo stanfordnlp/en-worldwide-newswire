@@ -357,6 +357,7 @@ were	O
 n’t	O
 coming	O
 .	O
+
 In	O
 Tests	O
 ,	O
@@ -369,9 +370,11 @@ with	O
 different	O
 plans	O
 .	O
+
 Different	O
 attacks	O
 .	O
+
 It	O
 took	O
 me	O
@@ -400,6 +403,7 @@ in	O
 his	O
 career	O
 .	O
+
 “	O
 This	O
 was	O
@@ -416,6 +420,7 @@ days	O
 Babar	B-Person
 says	O
 .	O
+
 “	O
 Yeh	O
 tv	O
@@ -425,6 +430,7 @@ nahi	O
 hai	O
 !	O
 ”	O
+
 (	O
 He	O
 is	O
@@ -435,6 +441,7 @@ player	O
 .	O
 )	O
 .	O
+
 Live	O
 matches	O
 mey	O
@@ -442,6 +449,7 @@ perform	O
 nahi	O
 karega	O
 .	O
+
 (	O
 Wo	O
 n’t	O
@@ -452,8 +460,10 @@ broadcasted	O
 live	O
 )	O
 .	O
+
 Meaning	O
 ?	O
+
 “	O
 That	O
 bada	O
@@ -475,6 +485,7 @@ player	O
 Babar	B-Person
 says	O
 .	O
+
 “	O
 I	O
 took	O
@@ -486,6 +497,7 @@ to	O
 correct	O
 it	O
 .	O
+
 How	O
 can	O
 I	O
@@ -493,12 +505,14 @@ prove	O
 them	O
 wrong	O
 ?	O
+
 Only	O
 with	O
 my	O
 performance	O
 .	O
 ”	O
+
 Inzybhai	B-Person
 nods	O
 sagely	O
@@ -567,12 +581,14 @@ one	O
 man	O
 army	O
 .	O
+
 The	O
 feet	O
 ,	O
 they	O
 dance	O
 .	O
+
 They	O
 breach	O
 areas	O
@@ -585,6 +601,7 @@ do	O
 these	O
 days	O
 .	O
+
 Like	O
 Rahul	B-Person
 Dravid	I-Person
@@ -601,6 +618,7 @@ his	O
 own	O
 length	O
 .	O
+
 Like	O
 Virender	B-Person
 Sehwag	I-Person
@@ -617,6 +635,7 @@ turn	O
 through	O
 covers	O
 .	O
+
 Like	O
 VVS	B-Person
 Laxman	I-Person
@@ -685,6 +704,7 @@ bowler	O
 was	O
 erratic	O
 .	O
+
 Actually	O
 ,	O
 it	O
@@ -705,10 +725,12 @@ and	O
 the	O
 hands	O
 .	O
+
 Babar	B-Person
 possesses	O
 that	O
 .	O
+
 Not	O
 quite	O
 Malik	B-Person
@@ -761,6 +783,7 @@ had	O
 it	O
 covered	O
 .	O
+
 Theekshana	B-Person
 would	O
 flick	O
@@ -777,6 +800,7 @@ Babar	B-Person
 was	O
 unfussed	O
 .	O
+
 “	O
 Double	O
 the	O
@@ -843,6 +867,7 @@ understood	O
 Test	O
 cricket	O
 .	O
+
 It	O
 ’s	O
 worth	O
@@ -896,6 +921,7 @@ was	O
 no	O
 slouch	O
 .	O
+
 The	O
 out	O
 -	O
@@ -928,6 +954,7 @@ were	O
 all	O
 attempted	O
 .	O
+
 Babar	B-Person
 just	O
 did	O
@@ -946,6 +973,7 @@ astounding	O
 little	O
 thing	O
 .	O
+
 Again	O
 ,	O
 watch	O
@@ -954,6 +982,7 @@ feet	O
 and	O
 hands	O
 .	O
+
 When	O
 Steyn	B-Person
 ’s	O
@@ -979,6 +1008,7 @@ the	O
 right	O
 position	O
 .	O
+
 As	O
 if	O
 he	O
@@ -990,10 +1020,12 @@ ball	O
 would	O
 be	O
 .	O
+
 Watch	O
 the	O
 replays	O
 .	O
+
 Look	O
 at	O
 the	O
@@ -1024,6 +1056,7 @@ the	O
 back	O
 foot	O
 .	O
+
 More	O
 a	O
 weight	O
@@ -1043,6 +1076,7 @@ as	O
 they	O
 say	O
 .	O
+
 The	O
 hands	O
 now	O
@@ -1054,6 +1088,7 @@ and	O
 he	O
 cuts	O
 .	O
+
 He	O
 has	O
 n’t	O
@@ -1090,6 +1125,7 @@ back	O
 -	O
 transfer	O
 .	O
+
 He	O
 seems	O
 to	O
@@ -1104,6 +1140,7 @@ stump	O
 guard	O
 line	O
 .	O
+
 With	O
 this	O
 tiny	O
@@ -1120,6 +1157,7 @@ ready	O
 to	O
 pounce	O
 .	O
+
 Hence	O
 ,	O
 he	O
@@ -1140,10 +1178,12 @@ the	O
 hands	O
 whir	O
 .	O
+
 Gasp	O
 -	O
 worthy	O
 .	O
+
 Like	O
 many	O
 great	O
@@ -1165,6 +1205,7 @@ unlike	O
 the	O
 Indians	B-NORP
 .	O
+
 Or	O
 in	O
 other	O
@@ -1219,6 +1260,7 @@ shots	O
 was	O
 common	O
 .	O
+
 Sachin	B-Person
 Tendulkar	I-Person
 was	O
@@ -1255,6 +1297,7 @@ n’t	O
 do	O
 that	O
 .	O
+
 Most	O
 were	O
 nearly	O
@@ -1271,6 +1314,7 @@ to	O
 impart	O
 power	O
 .	O
+
 You	O
 can	O
 even	O
@@ -1288,6 +1332,7 @@ while	O
 at	O
 stance	O
 .	O
+
 It	O
 ’s	O
 distinctively	O
@@ -1301,6 +1346,7 @@ for	O
 years	O
 now	O
 .	O
+
 Across	O
 the	O
 border	O
@@ -1319,6 +1365,7 @@ wristy	O
 bat	O
 flow	O
 .	O
+
 The	O
 rest	O
 mainly	O
@@ -1329,6 +1376,7 @@ of	O
 the	O
 arm	O
 .	O
+
 In	O
 their	O
 essence	O
@@ -1410,6 +1458,7 @@ what	O
 he	O
 did	O
 .	O
+
 But	O
 it	O
 stands	O
@@ -1458,6 +1507,7 @@ ball	O
 a	O
 touch	O
 .	O
+
 The	O
 easy	O
 option	O
@@ -1473,6 +1523,7 @@ n’t	O
 take	O
 it	O
 .	O
+
 Instead	O
 ,	O
 after	O
@@ -1489,9 +1540,11 @@ hands	O
 take	O
 over	O
 .	O
+
 A	O
 waft	O
 .	O
+
 An	O
 on	O
 -	O
@@ -1502,6 +1555,7 @@ wafty	O
 -	O
 punch	O
 .	O
+
 Neither	O
 a	O
 drive	O
@@ -1512,6 +1566,7 @@ or	O
 a	O
 punch	O
 .	O
+
 The	O
 hands	O
 are	O
@@ -1543,6 +1598,7 @@ tend	O
 to	O
 possess	O
 .	O
+
 It	O
 could	O
 have	O
@@ -1597,6 +1653,7 @@ a	O
 gem	O
 …	O
 ”	O
+
 That	O
 ball	O
 ,	O
@@ -1632,6 +1689,7 @@ from	O
 a	O
 pacer	O
 .	O
+
 That	O
 cuts	O
 out	O
@@ -1642,6 +1700,7 @@ and	O
 the	O
 drive	O
 .	O
+
 Never	O
 mind	O
 ,	O
@@ -1678,6 +1737,7 @@ character	O
 and	O
 resolve	O
 .	O
+
 Short	O
 on	O
 finances	O
@@ -1725,20 +1785,24 @@ for	O
 my	O
 batting	O
 .	O
+
 That	O
 pressure	O
 was	O
 there	O
 .	O
+
 Out	O
 nahi	O
 hon	O
 !	O
+
 Bad	O
 shot	O
 nahi	O
 khelna	O
 !	O
+
 (	O
 I	O
 do	O
@@ -1748,6 +1812,7 @@ to	O
 get	O
 out	O
 .	O
+
 Do	O
 n’t	O
 want	O
@@ -1758,10 +1823,12 @@ bad	O
 shot	O
 )	O
 !	O
+
 Father	O
 is	O
 watching	O
 .	O
+
 At	O
 times	O
 ,	O
@@ -1790,6 +1857,7 @@ I	O
 got	O
 out	O
 .	O
+
 As	O
 he	O
 had	O
@@ -1797,10 +1865,12 @@ n’t	O
 seen	O
 it	O
 .	O
+
 But	O
 he	O
 had	O
 .	O
+
 And	O
 would	O
 catch	O
@@ -1817,6 +1887,7 @@ have	O
 that	O
 fear	O
 .	O
+
 If	O
 I	O
 had	O
@@ -1830,12 +1901,14 @@ would	O
 scold	O
 me	O
 !	O
+
 It	O
 has	O
 only	O
 helped	O
 me	O
 .	O
+
 The	O
 focus	O
 has	O
@@ -1869,6 +1942,7 @@ uncle	O
 ’s	O
 largesse	O
 .	O
+
 “	O
 Mama	O
 gave	O
@@ -1884,6 +1958,7 @@ for	O
 1500	B-Money
 Rs	I-Money
 .	O
+
 I	O
 probably	O
 still	O
@@ -1916,6 +1991,7 @@ to	O
 buy	O
 shoes	O
 .	O
+
 “	O
 I	O
 decided	O
@@ -1940,6 +2016,7 @@ food	O
 for	O
 him	O
 .	O
+
 At	O
 times	O
 ,	O
@@ -1961,6 +2038,7 @@ had	O
 his	O
 lunch	O
 .	O
+
 “	O
 Because	O
 I	O
@@ -1998,6 +2076,7 @@ baadshah	O
 banaya	O
 hai	O
 .	O
+
 (	O
 Those	O
 who	O

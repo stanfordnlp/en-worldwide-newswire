@@ -447,6 +447,7 @@ loyalty	O
 to	O
 her	O
 ?	O
+
 Is	O
 this	O
 the	O
@@ -542,6 +543,7 @@ coated	O
 her	O
 life	O
 .	O
+
 While	O
 one	O
 can	O
@@ -612,6 +614,7 @@ soft	O
 on	O
 her	O
 .	O
+
 While	O
 I	O
 accept	O
@@ -670,6 +673,7 @@ of	O
 many	O
 comrades	O
 .	O
+
 This	O
 she	O
 did	O
@@ -680,6 +684,7 @@ and	O
 nasty	O
 vindictiveness	O
 .	O
+
 One	O
 of	O
 the	O
@@ -794,6 +799,7 @@ almost	O
 destroyed	O
 him	O
 .	O
+
 Such	O
 evil	O
 she	O
@@ -861,6 +867,7 @@ against	O
 comrade	O
 Carl	B-Person
 .	O
+
 Gwede	B-Person
 Mantashe	I-Person
 ,	O
@@ -980,6 +987,7 @@ against	O
 comrade	O
 Carl	B-Person
 .	O
+
 To	O
 her	O
 credit	O
@@ -1004,6 +1012,7 @@ to	O
 do	O
 so	O
 .	O
+
 It	O
 turned	O
 out	O
@@ -1038,6 +1047,7 @@ work	O
 for	O
 her	O
 .	O
+
 Aikona	O
 ,	O
 these	O
@@ -1046,6 +1056,7 @@ have	O
 no	O
 shame	O
 .	O
+
 They	O
 are	O
 thugs	O
@@ -1080,6 +1091,7 @@ a	O
 coward	O
 ’	O
 .	O
+
 Hanekom	B-Person
 ’s	O
 pathetic	O
@@ -1166,6 +1178,7 @@ for	O
 his	O
 life	O
 .	O
+
 From	O
 his	O
 hospital	O
@@ -1188,6 +1201,7 @@ her	O
 doing	O
 so	O
 .	O
+
 Instead	O
 of	O
 hanging	O
@@ -1224,6 +1238,7 @@ disappointed	O
 in	O
 her	O
 .	O
+
 I	O
 know	O
 who	O
@@ -1274,6 +1289,7 @@ comrade	O
 Carl	B-Person
 Niehaus	I-Person
 .	O
+
 He	O
 is	O
 a	O
@@ -1286,6 +1302,7 @@ person	O
 I	O
 know	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -1306,6 +1323,7 @@ Carl	B-Person
 Mpangazitha	I-Person
 Niehaus	I-Person
 .	O
+
 The	O
 contrary	O
 is	O
@@ -1397,6 +1415,7 @@ call	O
 him	O
 out	O
 .	O
+
 On	O
 the	O
 contrary	O
@@ -1474,6 +1493,7 @@ work	O
 for	O
 him	O
 .	O
+
 All	O
 of	O
 this	O
@@ -1502,6 +1522,7 @@ with	O
 the	O
 Guptas	B-Person
 .	O
+
 Now	O
 ,	O
 Bram	B-Person

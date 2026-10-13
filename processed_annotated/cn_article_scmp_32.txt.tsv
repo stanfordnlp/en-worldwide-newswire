@@ -92,6 +92,7 @@ firm	O
 ’s	O
 website	O
 .	O
+
 The	O
 team	O
 will	O
@@ -146,6 +147,7 @@ in	O
 central	O
 China	B-Location
 .	O
+
 Its	O
 involvement	O
 underscores	O
@@ -205,6 +207,7 @@ by	O
 disgruntled	O
 homebuyers	O
 .	O
+
 The	O
 scam	O
 has	O
@@ -235,6 +238,7 @@ nearly	O
 1,000	O
 depositors	O
 .	O
+
 Henan	B-Location
 ,	O
 the	O
@@ -302,6 +306,7 @@ the	O
 property	O
 sector	O
 .	O
+
 Great	B-Organization	B-Location
 Wall	I-Organization	I-Location
 AMC	I-Organization
@@ -339,6 +344,7 @@ have	O
 stepped	O
 up	O
 .	O
+
 Gortune	B-Organization
 Investment	I-Organization
 in	O
@@ -373,6 +379,7 @@ restructure	O
 their	O
 debt	O
 .	O
+
 Gortune	B-Organization
 is	O
 an	O
@@ -427,6 +434,7 @@ an	O
 industry	O
 consultant	O
 .	O
+
 “	O
 The	O
 pressure	O
@@ -519,6 +527,7 @@ China	B-Location
 property	O
 mess	O
 .	O
+
 Of	O
 the	O
 mass	O
@@ -645,6 +654,7 @@ and	I-Organization
 Development	I-Organization
 Institute	I-Organization
 .	O
+
 “	O
 When	O
 it	O

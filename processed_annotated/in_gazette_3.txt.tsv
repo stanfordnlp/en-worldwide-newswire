@@ -100,6 +100,7 @@ men	O
 only	O
 domains	O
 .	O
+
 This	O
 female	O
 butcher	O
@@ -143,6 +144,7 @@ the	O
 summer	O
 season	O
 .	O
+
 After	O
 working	O
 the	O
@@ -185,6 +187,7 @@ her	O
 husband	O
 financially	O
 .	O
+
 Her	O
 husband	O
 works	O
@@ -202,6 +205,7 @@ of	O
 Budgam	B-Location
 district	O
 .	O
+
 The	O
 wife	O
 's	O
@@ -218,6 +222,7 @@ outside	O
 his	O
 village	O
 .	O
+
 Both	O
 encourage	O
 each	O
@@ -263,6 +268,7 @@ of	O
 a	O
 butcher	O
 .	O
+
 She	O
 is	O
 flawless	O
@@ -289,6 +295,7 @@ shop	O
 is	O
 small	O
 .	O
+
 It	O
 has	O
 a	O
@@ -359,6 +366,7 @@ the	O
 whole	O
 family	O
 .	O
+
 One	O
 day	O
 I	O
@@ -376,6 +384,7 @@ a	O
 meat	O
 shop	O
 .	O
+
 At	O
 first	O
 he	O
@@ -391,6 +400,7 @@ question	O
 for	O
 days	O
 .	O
+
 But	O
 I	O
 kept	O
@@ -398,6 +408,7 @@ on	O
 asking	O
 him	O
 .	O
+
 He	O
 had	O
 no	O
@@ -436,6 +447,7 @@ animals	O
 at	O
 home	O
 .	O
+
 I	O
 started	O
 following	O
@@ -453,6 +465,7 @@ into	O
 smaller	O
 pieces	O
 .	O
+
 It	O
 took	O
 me	O
@@ -468,6 +481,7 @@ as	O
 a	O
 butcher	O
 .	O
+
 Operating	O
 a	O
 meat	O
@@ -484,6 +498,7 @@ may	O
 look	O
 like	O
 .	O
+
 I	O
 had	O
 to	O
@@ -494,6 +509,7 @@ deal	O
 with	O
 customers	O
 .	O
+
 This	O
 is	O
 a	O
@@ -540,11 +556,13 @@ talking	O
 about	O
 others	O
 .	O
+
 I	O
 chose	O
 to	O
 earn	O
 .	O
+
 Every	O
 woman	O
 complains	O
@@ -598,6 +616,7 @@ self	O
 -	O
 sufficient	O
 .	O
+
 I	O
 not	O
 only	O
@@ -612,6 +631,7 @@ family	O
 as	O
 well	O
 .	O
+
 When	O
 I	O
 have	O
@@ -630,6 +650,7 @@ husband	O
 for	O
 money	O
 .	O
+
 My	O
 husband	O
 never	O
@@ -650,6 +671,7 @@ manage	O
 my	O
 kitchen	O
 .	O
+
 I	O
 spend	O
 hours	O
@@ -657,6 +679,7 @@ at	O
 a	O
 shop	O
 .	O
+
 In	O
 between	O
 I	O
@@ -677,6 +700,7 @@ family	O
 as	O
 well	O
 .	O
+
 I	O
 manage	O
 both	O
@@ -686,6 +710,7 @@ the	O
 same	O
 time	O
 .	O
+
 This	O
 is	O
 how	O
@@ -695,6 +720,7 @@ the	O
 ends	O
 meet	O
 .	O
+
 Without	O
 the	O
 support	O
@@ -707,6 +733,7 @@ was	O
 not	O
 possible	O
 .	O
+
 He	O
 taught	O
 me	O
@@ -760,6 +787,7 @@ we	O
 want	O
 to	O
 .	O
+
 In	O
 the	O
 beginning	O
@@ -767,6 +795,7 @@ it	O
 was	O
 difficult	O
 .	O
+
 I	O
 was	O
 timid	O
@@ -848,6 +877,7 @@ in	O
 his	O
 shop	O
 .	O
+
 Sometimes	O
 after	O
 coming	O

@@ -644,6 +644,7 @@ into	O
 the	O
 boat	O
 .	O
+
 We	O
 tried	O
 to	O
@@ -659,6 +660,7 @@ frustrated	O
 Abdullah	B-Person
 explained	O
 .	O
+
 “	O
 Death	O
 was	O
@@ -707,6 +709,7 @@ also	O
 ignored	O
 them	O
 .	O
+
 It	O
 was	O
 evident	O
@@ -803,6 +806,7 @@ south	O
 of	O
 Zawiya	B-Location
 .	O
+
 It	O
 was	O
 the	O
@@ -816,6 +820,7 @@ Libyan	B-Misc	B-NORP
 Civil	I-Misc
 War	I-Misc
 .	O
+
 Anti	B-NORP
 -	I-NORP
 Gaddafi	I-NORP	B-Person
@@ -851,6 +856,7 @@ by	O
 Libyan	B-NORP
 militias	O
 .	O
+
 They	O
 made	O
 us	O
@@ -864,6 +870,7 @@ of	O
 this	O
 agony	O
 .	O
+
 My	O
 father	O
 agreed	O
@@ -884,6 +891,7 @@ him	O
 Abdullah	B-Person
 recalls	O
 .	O
+
 “	O
 When	O
 the	O
@@ -910,6 +918,7 @@ in	O
 the	O
 desert	O
 .	O
+
 Two	O
 members	O
 of	O
@@ -943,6 +952,7 @@ another	O
 four	O
 months	O
 .	O
+
 Lice	O
 and	O
 scabies	O
@@ -953,6 +963,7 @@ the	O
 entire	O
 time	O
 .	O
+
 Finally	O
 ,	O
 their	O
@@ -1006,6 +1017,7 @@ the	O
 ransom	O
 payment	O
 .	O
+
 The	O
 money	O
 was	O
@@ -1072,6 +1084,7 @@ with	O
 their	O
 travels	O
 .	O
+
 Two	O
 of	O
 her	O
@@ -1142,6 +1155,7 @@ bring	O
 them	O
 back	O
 .	O
+
 Even	O
 my	O
 mother	O

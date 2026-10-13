@@ -1044,6 +1044,7 @@ to	O
 Akuna	B-Person
 ’s	O
 .	O
+
 Aboke	B-Person
 ,	O
 a	O
@@ -1096,6 +1097,7 @@ me	O
 completely	O
 useless	O
 .	O
+
 I	O
 could	O
 not	O
@@ -1104,6 +1106,7 @@ into	O
 the	O
 garden	O
 .	O
+
 Now	O
 I	O
 can	O
@@ -1111,6 +1114,7 @@ do	O
 some	O
 farming	O
 .	O
+
 I	O
 ’m	O
 now	O
@@ -1120,6 +1124,7 @@ support	O
 my	O
 family	O
 .	O
+
 The	O
 children	O
 are	O
@@ -1163,6 +1168,7 @@ from	O
 fellow	O
 villagers	O
 .	O
+
 While	O
 Aboke	B-Person
 sees	O
@@ -1201,6 +1207,7 @@ people	O
 with	O
 disabilities	O
 .	O
+
 Landmines	O
 disabled	O
 many	O
@@ -1212,6 +1219,7 @@ was	O
 no	O
 support	O
 .	O
+
 Health	O
 centres	O
 here	O
@@ -1243,6 +1251,7 @@ from	O
 his	O
 village	O
 .	O
+
 The	O
 hospital	O
 ’s	O
@@ -1297,6 +1306,7 @@ ten	O
 years	O
 ago	O
 .	O
+
 So	O
 ,	O
 if	O
@@ -1433,6 +1443,7 @@ reaching	O
 poor	O
 households	O
 .	O
+
 She	O
 explained	O
 that	O
@@ -1467,6 +1478,7 @@ give	O
 an	O
 example	O
 .	O
+
 If	O
 you	O
 cannot	O
@@ -1490,6 +1502,7 @@ boost	O
 explains	O
 Arinaitwe	B-Person
 .	O
+
 The	O
 comparison	O
 of	O
@@ -1554,6 +1567,7 @@ any	O
 explains	O
 Arinaitwe	B-Person
 .	O
+
 “	O
 I	O
 ’m	O

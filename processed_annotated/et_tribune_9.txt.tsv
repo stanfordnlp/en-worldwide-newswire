@@ -469,6 +469,7 @@ latter	O
 ’s	O
 successor	O
 .	O
+
 He	O
 was	O
 the	O
@@ -506,6 +507,7 @@ to	O
 scholarly	O
 pursuits	O
 .	O
+
 He	O
 began	O
 by	O
@@ -537,6 +539,7 @@ Ge	B-NORP
 ’	I-NORP
 ez	I-NORP
 .	O
+
 Then	O
 ,	O
 or	O
@@ -606,6 +609,7 @@ by	O
 the	O
 monarch	O
 .	O
+
 The	O
 Emperor	O
 ’s	O
@@ -630,6 +634,7 @@ one	O
 of	O
 exile	O
 .	O
+
 He	O
 was	O
 accordingly	O
@@ -675,6 +680,7 @@ the	O
 Shawan	B-NORP
 highlands	O
 .	O
+
 Emperor	O
 Lebna	B-Person
 Dengel	I-Person
@@ -694,6 +700,7 @@ from	O
 his	O
 exile	O
 .	O
+
 Though	O
 offered	O
 his	O
@@ -741,6 +748,7 @@ the	O
 Ethiopian	B-NORP
 highlands	O
 .	O
+
 Enbaqom	B-Person
 as	O
 a	O
@@ -767,6 +775,7 @@ the	O
 Blue	B-Location
 Nile	I-Location
 .	O
+
 He	O
 was	O
 perturbed	O
@@ -791,6 +800,7 @@ stop	O
 doing	O
 so	O
 .	O
+
 He	O
 accordingly	O
 wrote	O
@@ -827,6 +837,7 @@ son	O
 Emperor	O
 Galawdewos	B-Person
 .	O
+
 The	O
 latter	O
 recalled	O
@@ -869,6 +880,7 @@ with	O
 Imam	B-Person
 Ahmad	I-Person
 .	O
+
 ‘	O
 Enbaqom	B-Person
 ,	O
@@ -900,6 +912,7 @@ other	O
 Arabic	B-NORP
 works	O
 .	O
+
 After	O
 Galawdewos	B-Person
 ’s	O
@@ -944,6 +957,7 @@ of	O
 over	O
 ninety	O
 .	O
+
 His	O
 history	O
 was	O
@@ -1034,6 +1048,7 @@ no	O
 longer	O
 exists	O
 .	O
+
 He	O
 nevertheless	O
 subsequently	O
@@ -1058,6 +1073,7 @@ the	I-Misc
 Faith	I-Misc
 ”	O
 .	O
+
 This	O
 work	O
 ,	O
@@ -1098,6 +1114,7 @@ abandoning	O
 of	O
 Islam	B-Misc
 .	O
+
 A	O
 French	B-NORP
 translation	O
@@ -1214,6 +1231,7 @@ the	O
 Muslim	B-NORP
 Quran	B-Misc
 .	O
+
 That	O
 Holy	O
 Book	O
@@ -1291,6 +1309,7 @@ down	O
 to	O
 man	O
 .	O
+
 Drawing	O
 a	O
 practical	O
@@ -1329,6 +1348,7 @@ offered	O
 him	O
 resistance	O
 .	O
+
 He	O
 went	O
 on	O
@@ -1358,6 +1378,7 @@ latter	O
 had	O
 proposed	O
 .	O
+
 The	O
 Christian	B-NORP
 scholar	O
@@ -1421,6 +1442,7 @@ as	O
 Arab	B-Person	B-NORP
 Faqih	I-Person
 .	O
+
 His	O
 chronicle	O
 ,	O
@@ -1506,6 +1528,7 @@ or	O
 his	O
 book	O
 .	O
+
 The	O
 latter	O
 ’s	O
@@ -1588,6 +1611,7 @@ the	O
 later	O
 phase	O
 .	O
+
 The	O
 text	O
 tells	O
@@ -1659,6 +1683,7 @@ of	O
 Imam	B-Person
 Ahmad	I-Person
 ?	O
+
 Was	O
 it	O
 a	O
@@ -1669,6 +1694,7 @@ Enbaqom	B-Person
 ’s	O
 letter	O
 ?	O
+
 Or	O
 is	O
 it	O

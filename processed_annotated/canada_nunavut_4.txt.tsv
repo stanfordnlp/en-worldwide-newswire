@@ -1257,6 +1257,7 @@ pre	O
 -	O
 teens	O
 .	O
+
 It	O
 ’s	O
 a	O
@@ -1264,6 +1265,7 @@ really	O
 special	O
 relationship	O
 .	O
+
 They	O
 ’ve	O
 helped	O
@@ -1271,6 +1273,7 @@ inform	O
 the	O
 script	O
 .	O
+
 Getting	O
 to	O
 go	O
@@ -1299,6 +1302,7 @@ alien	O
 invasion	O
 movie	O
 .	O
+
 Then	O
 we	O
 figured	O
@@ -1313,6 +1317,7 @@ make	O
 it	O
 happen	O
 .	O
+
 It	O
 was	O
 really	O
@@ -1322,6 +1327,7 @@ in	O
 each	O
 other	O
 .	O
+
 Some	O
 days	O
 were	O
@@ -1335,6 +1341,7 @@ really	O
 hard	O
 work	O
 .	O
+
 The	O
 girls	O
 ,	O
@@ -1350,6 +1357,7 @@ Rory	B-Person
 as	O
 well	O
 .	O
+
 It	O
 ’s	O
 been	O
@@ -1377,6 +1385,7 @@ part	O
 of	O
 that	O
 .	O
+
 Just	O
 seeing	O
 how	O
@@ -1426,6 +1435,7 @@ between	O
 the	O
 characters	O
 .	O
+
 There	O
 is	O
 a	O
@@ -1449,6 +1459,7 @@ in	O
 High	O
 School	O
 .	O
+
 I	O
 think	O
 you	O
@@ -1464,6 +1475,7 @@ intentional	O
 going	O
 in	O
 ?	O
+
 Were	O
 you	O
 trying	O
@@ -1484,6 +1496,7 @@ I	O
 think	O
 so	O
 .	O
+
 It	O
 ’s	O
 also	O
@@ -1525,6 +1538,7 @@ in	O
 your	O
 life	O
 .	O
+
 When	O
 I	O
 had	O
@@ -1590,6 +1604,7 @@ and	O
 Justin	B-Person
 Bieber	I-Person
 .	O
+
 So	O
 ,	O
 they	O
@@ -1616,12 +1631,14 @@ some	O
 unique	O
 circumstances	O
 .	O
+
 Unique	O
 to	O
 southern	O
 audiences	O
 perhaps	O
 .	O
+
 The	O
 relationships	O
 are	O
@@ -1644,6 +1661,7 @@ things	O
 out	O
 again	O
 .	O
+
 When	O
 you	O
 ’re	O
@@ -1707,6 +1725,7 @@ Inuit	B-NORP
 Art	O
 rant	O
 .	O
+
 When	O
 she	O
 ’s	O
@@ -1737,6 +1756,7 @@ she	O
 hates	O
 it	O
 .	O
+
 That	O
 rant	O
 ,	O
@@ -1820,6 +1840,7 @@ you	O
 fit	O
 in	O
 .	O
+
 When	O
 I	O
 was	O
@@ -1847,6 +1868,7 @@ in	O
 their	O
 language	O
 .	O
+
 It	O
 was	O
 really	O
@@ -1857,6 +1879,7 @@ talk	O
 about	O
 this	O
 .	O
+
 When	O
 we	O
 ’re	O
@@ -1875,6 +1898,7 @@ sad	O
 for	O
 me	O
 .	O
+
 I	O
 know	O
 for	O
@@ -1897,6 +1921,7 @@ Inuk	B-NORP
 Indigenous	O
 woman	O
 .	O
+
 These	O
 young	O
 women	O
@@ -1909,6 +1934,7 @@ and	O
 that	O
 journey	O
 .	O
+
 For	O
 Micah	B-Person
 as	O
@@ -1978,6 +2004,7 @@ as	O
 the	O
 actors	O
 .	O
+
 What	O
 do	O
 you	O
@@ -2024,6 +2051,7 @@ movie	O
 I	O
 think	O
 .	O
+
 It	O
 ’s	O
 just	O
@@ -2044,6 +2072,7 @@ and	O
 fantastical	O
 scenarios	O
 .	O
+
 Growing	O
 up	O
 ,	O
@@ -2061,6 +2090,7 @@ friends	O
 in	O
 Nunavut	B-Location
 .	O
+
 When	O
 I	O
 think	O
@@ -2084,6 +2114,7 @@ community	O
 and	O
 fun	O
 .	O
+
 Not	O
 just	O
 in	O
@@ -2105,6 +2136,7 @@ this	O
 beautiful	O
 place	O
 .	O
+
 A	O
 beautiful	O
 place	O
@@ -2118,11 +2150,13 @@ and	O
 to	O
 explore	O
 .	O
+
 That	O
 ’s	O
 so	O
 special	O
 .	O
+
 We	O
 deserve	O
 to	O
@@ -2134,6 +2168,7 @@ many	O
 different	O
 ways	O
 .	O
+
 I	O
 think	O
 when	O
@@ -2159,6 +2194,7 @@ Sci	B-Misc
 -	I-Misc
 Fi	I-Misc
 .	O
+
 I	O
 ’ve	O
 got	O
@@ -2184,6 +2220,7 @@ amazing	O
 activist	O
 films	O
 .	O
+
 I	O
 was	O
 thinking	O
@@ -2197,12 +2234,14 @@ kind	O
 of	O
 work	O
 ?	O
+
 Is	O
 this	O
 somehow	O
 less	O
 important	O
 ?	O
+
 I	O
 think	O
 it	O
@@ -2256,6 +2295,7 @@ be	O
 a	O
 sequel	O
 .	O
+
 Are	O
 you	O
 doing	O
@@ -2276,6 +2316,7 @@ do	O
 n’t	O
 know	O
 .	O
+
 I	O
 ’ve	O
 had	O
@@ -2291,6 +2332,7 @@ Slash	B-Misc
 Back	I-Misc
 world	O
 .	O
+
 I	O
 know	O
 it	O
@@ -2308,6 +2350,7 @@ three	O
 years	O
 ago	O
 .	O
+
 Post	O
 was	O
 a	O
@@ -2321,6 +2364,7 @@ been	O
 a	O
 minute	O
 .	O
+
 I	O
 could	O
 almost	O
@@ -2332,6 +2376,7 @@ into	O
 that	O
 world	O
 .	O
+
 I	O
 also	O
 have	O
@@ -2359,6 +2404,7 @@ film	O
 is	O
 amazing	O
 .	O
+
 It	O
 is	O
 clear	O
@@ -2378,6 +2424,7 @@ in	O
 Inuit	B-NORP
 households	O
 .	O
+
 One	O
 of	O
 the	O
@@ -2401,6 +2448,7 @@ Co	I-Organization
 -	I-Organization
 op	I-Organization
 .	O
+
 How	O
 did	O
 you	O
@@ -2426,12 +2474,14 @@ Mackenzie	I-Person
 is	O
 amazing	O
 .	O
+
 Our	O
 art	O
 director	O
 as	O
 well	O
 .	O
+
 It	O
 was	O
 really	O
@@ -2457,6 +2507,7 @@ exist	O
 in	O
 Pang	B-Location
 .	O
+
 We	O
 were	O
 n’t	O
@@ -2474,6 +2525,7 @@ shipping	O
 up	O
 stuff	O
 .	O
+
 If	O
 we	O
 needed	O
@@ -2500,6 +2552,7 @@ they	O
 had	O
 there	O
 .	O
+
 The	O
 same	O
 with	O
@@ -2507,6 +2560,7 @@ wardrobe	O
 as	O
 well	O
 .	O
+
 If	O
 they	O
 needed	O
@@ -2526,6 +2580,7 @@ Co	O
 -	O
 op	O
 .	O
+
 The	O
 bikes	O
 ,	O
@@ -2546,6 +2601,7 @@ a	O
 little	O
 worried	O
 .	O
+
 All	O
 the	O
 kids	O
@@ -2560,6 +2616,7 @@ also	O
 was	O
 true	O
 .	O
+
 In	O
 town	O
 ,	O
@@ -2594,6 +2651,7 @@ Co	O
 -	O
 op	O
 .	O
+
 So	O
 it	O
 ’s	O
@@ -2607,6 +2665,7 @@ the	O
 same	O
 bike	O
 .	O
+
 We	O
 had	O
 a	O
@@ -2632,6 +2691,7 @@ the	O
 different	O
 houses	O
 .	O
+
 In	O
 her	O
 first	O
@@ -2665,6 +2725,7 @@ for	O
 the	O
 summer	O
 .	O
+
 That	O
 ’s	O
 how	O
@@ -2673,6 +2734,7 @@ built	O
 the	O
 sets	O
 .	O
+
 Micah	B-Person
 ’s	O
 house	O
@@ -2715,6 +2777,7 @@ to	O
 talk	O
 about	O
 .	O
+
 When	O
 the	O
 girls	O
@@ -2737,6 +2800,7 @@ the	O
 big	O
 fight	O
 .	O
+
 Those	O
 tattoos	O
 are	O
@@ -2756,6 +2820,7 @@ their	O
 tattoos	O
 mean	O
 .	O
+
 What	O
 I	O
 ’m	O
@@ -2771,6 +2836,7 @@ for	O
 the	O
 characters	O
 ?	O
+
 Was	O
 that	O
 a	O
@@ -2814,6 +2880,7 @@ they	O
 all	O
 knew	O
 .	O
+
 I	O
 think	O
 for	O
@@ -2838,6 +2905,7 @@ would	O
 I	O
 get	O
 ?	O
+
 When	O
 I	O
 asked	O
@@ -2863,6 +2931,7 @@ they	O
 had	O
 chosen	O
 .	O
+
 It	O
 was	O
 a	O

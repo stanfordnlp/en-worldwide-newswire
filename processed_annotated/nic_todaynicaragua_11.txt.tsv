@@ -789,6 +789,7 @@ it	O
 ’s	O
 tried	O
 .	O
+
 Nobody	O
 wants	O
 to	O
@@ -849,6 +850,7 @@ of	O
 a	O
 dictatorship	O
 .	O
+
 She	O
 actually	O
 claims	O
@@ -895,6 +897,7 @@ are	O
 staring	O
 down	O
 .	O
+
 They	O
 can	O
 ask	O
@@ -942,6 +945,7 @@ of	O
 totalitarian	O
 regimes	O
 .	O
+
 Non	O
 -	O
 violent	O
@@ -972,6 +976,7 @@ rule	O
 of	O
 law	O
 .	O
+
 The	O
 British	B-NORP
 empire	O
@@ -1007,6 +1012,7 @@ the	O
 Pinochet	B-Person
 era	O
 .	O
+
 Where	O
 it	O
 does	O
@@ -1052,6 +1058,7 @@ of	I-Misc
 Marxist	I-Misc	B-NORP
 Progress	I-Misc
 .	O
+
 Those	O
 regimes	O
 cannot	O
@@ -1061,6 +1068,7 @@ through	O
 peaceful	O
 protests	O
 .	O
+
 Jeanne	B-Person
 Kirkpatrick	I-Person
 articulated	O
@@ -1101,6 +1109,7 @@ all	O
 such	O
 baloney	O
 .	O
+
 Does	O
 this	O
 woman	O
@@ -1119,6 +1128,7 @@ protesting	O
 socialist	O
 Ortega	B-Person
 ?	O
+
 Based	O
 on	O
 the	O
@@ -1220,6 +1230,7 @@ just	O
 beat	O
 it	O
 .	O
+
 Her	O
 credibility	O
 is	O

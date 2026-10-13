@@ -117,6 +117,7 @@ did	O
 n’t	O
 work	O
 .	O
+
 Subsequently	O
 ,	O
 even	O
@@ -138,6 +139,7 @@ Moscow	B-Location
 ’s	O
 fury	O
 .	O
+
 The	O
 Russians	B-NORP
 were	O
@@ -198,6 +200,7 @@ messages	O
 on	O
 Tuesday	B-Date
 .	O
+
 Russian	B-NORP
 President	O
 Vladimir	B-Person
@@ -227,6 +230,7 @@ the	O
 bilateral	O
 relationship	O
 .	O
+
 But	O
 a	O
 lower	O
@@ -295,6 +299,7 @@ bothered	O
 it	O
 anyway	O
 .	O
+
 The	O
 emotional	O
 reactions	O
@@ -352,6 +357,7 @@ n’t	O
 seem	O
 high	O
 .	O
+
 Perhaps	O
 it	O
 would	O
@@ -429,6 +435,7 @@ the	O
 last	O
 decade	O
 .	O
+
 A	O
 key	O
 theater	O
@@ -439,6 +446,7 @@ has	O
 been	O
 Syria	B-Location
 .	O
+
 And	O
 ever	O
 since	O
@@ -511,6 +519,7 @@ personnel	O
 and	O
 bases	O
 .	O
+
 In	O
 fall	O
 2018	B-Date
@@ -549,6 +558,7 @@ upped	O
 the	O
 pressure	O
 .	O
+
 Israel	B-Location
 resumed	O
 its	O
@@ -612,6 +622,7 @@ or	O
 its	O
 leader	O
 .	O
+
 That	O
 was	O
 underscored	O
@@ -685,6 +696,7 @@ slogan	O
 claimed	O
 )	O
 .	O
+
 The	O
 absurdity	O
 reached	O
@@ -788,6 +800,7 @@ aid	O
 every	O
 year	O
 .	O
+
 And	O
 it	O
 was	O
@@ -813,6 +826,7 @@ Iran	B-Location
 and	O
 Turkey	B-Location
 .	O
+
 For	O
 the	O
 same	O
@@ -898,6 +912,7 @@ effort	O
 to	O
 Kyiv	B-Location
 .	O
+
 But	O
 taking	O
 a	O
@@ -956,6 +971,7 @@ Syria	B-Location
 ’s	O
 skies	O
 .	O
+
 Israel	B-Location
 has	O
 more	O
@@ -991,6 +1007,7 @@ for	O
 all	O
 eternity	O
 .	O
+
 With	O
 regard	O
 to	O

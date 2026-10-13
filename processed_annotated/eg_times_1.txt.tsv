@@ -40,6 +40,7 @@ in	O
 prisons	O
 nationwide	O
 .	O
+
 The	O
 report	O
 followed	O
@@ -126,6 +127,7 @@ not	O
 happen	O
 .	O
 ”	O
+
 Investigations	O
 are	O
 pending	O
@@ -188,6 +190,7 @@ Seif	I-Person
 Al	I-Person
 Dawla	I-Person
 .	O
+
 “	O
 As	O
 a	O
@@ -239,6 +242,7 @@ in	O
 the	O
 report	O
 .	O
+
 The	O
 organization	O
 also	O
@@ -310,6 +314,7 @@ Egypt	B-Location
 is	O
 doing	O
 .	O
+
 If	O
 Rumsfeld	B-Person
 and	O
@@ -359,6 +364,7 @@ in	O
 police	O
 custody	O
 .	O
+
 Al	B-Person
 Zoheiri	I-Person
 and	O
@@ -426,6 +432,7 @@ Abou	I-Person
 Al	I-Person
 Nasr	I-Person
 .	O
+
 “	O
 It	O
 may	O
@@ -518,6 +525,7 @@ Rights	I-Organization
 Organizations	I-Organization
 Collective	I-Organization
 .	O
+
 Representatives	O
 hope	O
 that	O

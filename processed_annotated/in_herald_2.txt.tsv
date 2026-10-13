@@ -265,6 +265,7 @@ remain	O
 till	O
 3 am	O
 .	O
+
 A	O
 L	B-Misc
 -	I-Misc
@@ -388,6 +389,7 @@ unsafe	O
 for	O
 women	O
 .	O
+
 In	O
 January	B-Date
 ,	O
@@ -432,6 +434,7 @@ to	O
 financial	O
 losses	O
 .	O
+
 From	O
 849	O
 shops	O
@@ -445,6 +448,7 @@ stores	O
 in	O
 May	B-Date
 .	O
+
 This	O
 dropped	O
 to	O
@@ -452,6 +456,7 @@ to	O
 in	O
 June	B-Date
 .	O
+
 Many	O
 license	O
 holders	O
@@ -515,6 +520,7 @@ in	O
 the	O
 city	O
 .	O
+
 It	O
 has	O
 accused	O

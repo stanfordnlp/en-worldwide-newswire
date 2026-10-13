@@ -44,6 +44,7 @@ remained	O
 largely	O
 unscathed	O
 .	O
+
 Thanks	O
 to	O
 booming	O
@@ -71,6 +72,7 @@ growing	O
 in	O
 2020	B-Date
 .	O
+
 The	O
 benchmark	O
 Taiex	B-Misc
@@ -106,6 +108,7 @@ $	B-Money
 149	I-Money
 billion	I-Money
 .	O
+
 Overall	O
 ,	O
 36	O
@@ -115,6 +118,7 @@ to	O
 their	O
 wealth	O
 .	O
+
 The	O
 complete	O
 2021	B-Date
@@ -181,6 +185,7 @@ $	B-Money
 13.8	I-Money
 billion	I-Money
 .	O
+
 Zhang	B-Person
 built	O
 Huali	B-Organization
@@ -230,6 +235,7 @@ $	B-Money
 9.2	I-Money
 billion	I-Money
 .	O
+
 Daniel	B-Person
 and	O
 Richard	B-Person
@@ -271,6 +277,7 @@ tied	O
 to	O
 semiconductors	O
 .	O
+
 Tsai	B-Person
 Ming	I-Person
 -	I-Person
@@ -333,6 +340,7 @@ for	O
 smartphone	O
 chips	O
 .	O
+
 Brothers	O
 Jason	B-Person
 and	O
@@ -423,6 +431,7 @@ of	O
 iPhone	B-Product
 12	I-Product
 .	O
+
 Bruce	B-Person
 Cheng	I-Person
 (	O
@@ -486,6 +495,7 @@ interests	O
 in	O
 plastics	O
 .	O
+
 Siblings	O
 Tseng	B-Person
 Cheng	I-Person
@@ -529,6 +539,7 @@ $	B-Money
 2.65	I-Money
 billion	I-Money
 .	O
+
 Quintin	B-Person
 Wu	I-Person
 of	O
@@ -613,6 +624,7 @@ a	O
 major	O
 customer	O
 .	O
+
 Wu	B-Person
 Li	I-Person
 -	I-Person
@@ -676,6 +688,7 @@ $	B-Money
 810	I-Money
 million	I-Money
 .	O
+
 Three	O
 dropped	O
 off	O
@@ -707,6 +720,7 @@ Su	I-Person
 -	I-Person
 O	I-Person
 .	O
+
 The	O
 minimum	O
 amount	O
@@ -883,6 +897,7 @@ and	O
 other	O
 sources	O
 .	O
+
 Net	O
 worth	O
 numbers	O
@@ -904,6 +919,7 @@ on	O
 April	B-Date
 27	I-Date
 .	O
+
 Private	O
 companies	O
 were	O
@@ -922,6 +938,7 @@ publicly	O
 traded	O
 companies	O
 .	O
+
 The	O
 estimates	O
 include	O
@@ -952,6 +969,7 @@ from	O
 that	O
 company	O
 .	O
+
 The	O
 list	O
 can	O
@@ -971,6 +989,7 @@ ties	O
 to	O
 Taiwan	B-Location
 .	O
+
 In	O
 cases	O
 in	O
@@ -1035,6 +1054,7 @@ to	O
 make	O
 it	O
 .	O
+
 Forbes	B-Organization
 convenes	O
 and	O
@@ -1062,6 +1082,7 @@ on	O
 the	O
 world	O
 .	O
+
 The	O
 Forbes	B-Organization
 brand	O
@@ -1099,6 +1120,7 @@ in	O
 71	O
 countries	O
 .	O
+
 Forbes	B-Organization
 Media	I-Organization
 ’s	O
@@ -1115,6 +1137,7 @@ services	O
 license	O
 agreements	O
 .	O
+
 For	O
 more	O
 information	O

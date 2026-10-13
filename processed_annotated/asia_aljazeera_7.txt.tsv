@@ -825,6 +825,7 @@ for	O
 the	O
 group	O
 .	O
+
 His	O
 father	O
 also	O
@@ -838,6 +839,7 @@ over	O
 the	O
 years	O
 .	O
+
 Meanwhile	O
 ,	O
 the	O
@@ -906,6 +908,7 @@ of	O
 the	O
 media	O
 .	O
+
 The	O
 family	O
 is	O
@@ -967,6 +970,7 @@ succeeding	O
 Ratan	B-Person
 Tata	I-Person
 .	O
+
 But	O
 he	O
 was	O
@@ -997,6 +1001,7 @@ by	O
 Ratan	B-Person
 Tata	I-Person
 .	O
+
 The	O
 dispute	O
 snowballed	O
@@ -1011,6 +1016,7 @@ minority	O
 shareholder	O
 rights	O
 .	O
+
 The	O
 2021	B-Date
 court	O
@@ -1091,6 +1097,7 @@ default	O
 in	O
 2020	B-Date
 .	O
+
 The	O
 Covid	B-Misc
 -	I-Misc
@@ -1103,6 +1110,7 @@ real	O
 estate	O
 operations	O
 .	O
+
 In	O
 October	B-Date
 2021	I-Date
@@ -1143,6 +1151,7 @@ Laila	B-Person
 and	O
 Aloo	B-Person
 .	O
+
 The	O
 latter	O
 married	O

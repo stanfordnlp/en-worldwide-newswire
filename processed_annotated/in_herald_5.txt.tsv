@@ -253,6 +253,7 @@ Khan	B-Person
 ’s	O
 statement	O
 .	O
+
 “	O
 Do	O
 n't	O
@@ -266,6 +267,7 @@ comes	O
 to	O
 Vokkaligas	B-NORP
 .	O
+
 Do	O
 n't	O
 forget	O
@@ -275,6 +277,7 @@ with	O
 Veerendra	B-Person
 Patil	I-Person
 .	O
+
 Even	O
 to	O
 this	O
@@ -305,12 +308,14 @@ face	O
 ,	O
 said	O
 .	O
+
 “	O
 I	O
 am	O
 a	O
 Vokkaliga	B-NORP
 .	O
+
 What	O
 right	O
 do	O
@@ -322,6 +327,7 @@ about	O
 the	O
 community	O
 ?	O
+
 You	O
 ’re	O
 dragging	O
@@ -338,11 +344,13 @@ your	O
 street	O
 fight	O
 .	O
+
 You	O
 should	O
 be	O
 ashamed	O
 .	O
+
 Vokkaligas	B-NORP
 wo	O
 n’t	O
@@ -360,6 +368,7 @@ leaders	O
 slammed	O
 Zameer	B-Person
 .	O
+
 “	O
 It	O
 ’s	O
@@ -374,6 +383,7 @@ community	O
 is	O
 strong	O
 .	O
+
 To	O
 say	O
 that	O
@@ -387,6 +397,7 @@ Vokkaligas	B-NORP
 is	O
 unnecessary	O
 .	O
+
 It	O
 ’ll	O
 be	O
@@ -421,6 +432,7 @@ before	O
 they	O
 speak	O
 .	O
+
 “	O
 No	O
 one	O
@@ -451,6 +463,7 @@ wrong	O
 about	O
 Vokkaligas	B-NORP
 .	O
+
 “	O
 After	O
 all	O
@@ -470,6 +483,7 @@ got	O
 into	O
 politics	O
 .	O
+
 Former	O
 prime	O
 minister	O

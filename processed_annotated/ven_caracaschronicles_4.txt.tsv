@@ -393,6 +393,7 @@ and	O
 Venezuela	B-Location
 ’s	O
 .	O
+
 In	O
 Nicaragua	B-Location
 ,	O
@@ -432,6 +433,7 @@ as	O
 many	O
 deaths	O
 .	O
+
 Daniel	B-Person
 Ortega	I-Person
 and	O
@@ -472,6 +474,7 @@ and	O
 brute	O
 force	O
 .	O
+
 The	O
 Sandinista	B-Person
 regime	O
@@ -489,6 +492,7 @@ on	O
 internal	O
 resistance	O
 .	O
+
 While	O
 well	O
 -	O
@@ -554,6 +558,7 @@ regime	O
 more	O
 brutal	O
 .	O
+
 But	O
 ,	O
 what	O
@@ -622,6 +627,7 @@ city	O
 of	O
 Guayaquil	B-Location
 .	O
+
 Some	O
 weeks	O
 later	O
@@ -650,6 +656,7 @@ some	O
 other	O
 actors	O
 .	O
+
 The	O
 conflict	O
 ended	O
@@ -669,6 +676,7 @@ the	O
 next	O
 election	O
 .	O
+
 Ecuador	B-Location
 is	O
 ,	O
@@ -750,6 +758,7 @@ President	O
 Michel	B-Person
 Temer	I-Person
 .	O
+
 Amid	O
 the	O
 violence	O
@@ -806,6 +815,7 @@ the	O
 following	O
 elections	O
 .	O
+
 Jair	B-Person
 Bolsonaro	I-Person
 has	O
@@ -828,11 +838,13 @@ four	O
 decades	O
 ago	O
 .	O
+
 Is	O
 Brazil	B-Location
 a	O
 democracy	O
 ?	O
+
 We	O
 can	O
 reasonably	O
@@ -935,6 +947,7 @@ brought	O
 big	O
 changes	O
 .	O
+
 Chile	B-Location
 started	O
 a	O
@@ -965,6 +978,7 @@ of	O
 Augusto	B-Person
 Pinochet	I-Person
 .	O
+
 The	O
 new	O
 Constitution	O
@@ -1064,6 +1078,7 @@ President	O
 Iván	B-Person
 Duque	I-Person
 .	O
+
 The	O
 numerous	O
 worker	O
@@ -1115,6 +1130,7 @@ in	O
 June	B-Date
 2022	I-Date
 .	O
+
 Once	O
 again	O
 ,	O
@@ -1285,6 +1301,7 @@ the	O
 last	O
 decade	O
 .	O
+
 What	O
 do	O
 researchers	O
@@ -1304,6 +1321,7 @@ on	O
 the	O
 matter	O
 .	O
+
 We	O
 still	O
 recall	O
@@ -1322,6 +1340,7 @@ Tunisia	B-Location
 or	O
 Ukraine	B-Location
 .	O
+
 But	O
 there	O
 are	O
@@ -1405,6 +1424,7 @@ down	O
 on	O
 demonstrations	O
 .	O
+
 The	O
 Chinese	B-NORP
 government	O
@@ -1452,6 +1472,7 @@ by	O
 the	O
 mob	O
 .	O
+
 At	O
 the	O
 same	O
@@ -1513,6 +1534,7 @@ University	B-Organization
 of	I-Organization
 California	I-Organization	B-Location
 .	O
+
 He	O
 concluded	O
 that	O
@@ -1543,6 +1565,7 @@ of	O
 the	O
 people	O
 .	O
+
 That	O
 way	O
 the	O
@@ -1623,6 +1646,7 @@ comes	O
 to	O
 repression	O
 .	O
+
 The	O
 regimes	O
 in	O
@@ -1654,6 +1678,7 @@ they	O
 face	O
 protests	O
 .	O
+
 For	O
 a	O
 dictatorship	O
@@ -1680,6 +1705,7 @@ a	O
 democratic	O
 government	O
 .	O
+
 “	O
 Democracies	O
 like	O
@@ -1718,6 +1744,7 @@ not	O
 insurrections	O
 .	O
 ”	O
+
 Another	O
 factor	O
 is	O
@@ -1781,6 +1808,7 @@ to	O
 strong	O
 dictatorships	O
 .	O
+
 How	O
 to	O
 weaken	O
@@ -1829,6 +1857,7 @@ in	O
 the	O
 1990s	B-Date
 .	O
+
 Now	O
 that	O
 we	O

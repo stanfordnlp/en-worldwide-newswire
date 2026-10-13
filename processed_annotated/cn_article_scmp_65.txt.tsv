@@ -428,6 +428,7 @@ RISC	B-Product
 -	I-Product
 V	I-Product
 .	O
+
 Standards	O
 are	O
 now	O
@@ -607,6 +608,7 @@ to	O
 industrial	O
 professionals	O
 .	O
+
 The	O
 US	B-Location
 maintains	O
@@ -672,6 +674,7 @@ giant	O
 Imagination	B-Organization
 Technologies	I-Organization
 .	O
+
 “	O
 That	O
 ’s	O
@@ -733,6 +736,7 @@ Arm	B-Organization
 based	O
 chips	O
 .	O
+
 US	B-Location
 sanctions	O
 ban	O

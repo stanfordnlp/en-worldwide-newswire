@@ -105,6 +105,7 @@ unification	O
 and	O
 security	O
 .	O
+
 It	O
 is	O
 followed	O
@@ -139,6 +140,7 @@ at	O
 the	O
 session	O
 .	O
+
 There	O
 were	O
 also	O
@@ -208,6 +210,7 @@ to	O
 ask	O
 questions	O
 .	O
+
 He	O
 clashed	O
 with	O
@@ -295,6 +298,7 @@ is	O
 not	O
 new	O
 .	O
+
 It	O
 is	O
 what	O
@@ -316,6 +320,7 @@ past	O
 Han	B-Person
 said	O
 .	O
+
 “	O
 It	O
 was	O
@@ -375,6 +380,7 @@ senior	O
 secretaries	O
 ?	O
 ”	O
+
 Han	B-Person
 replied	O
 his	O
@@ -388,6 +394,7 @@ verification	O
 without	O
 judgment	O
 .	O
+
 “	O
 We	O
 are	O
@@ -422,6 +429,7 @@ North	B-NORP
 Korean	I-NORP
 defectors	O
 .	O
+
 They	O
 also	O
 brought	O
@@ -472,6 +480,7 @@ shout	O
 and	O
 applaud	O
 .	O
+
 The	O
 Speaker	O
 of	O
@@ -535,6 +544,7 @@ the	O
 Moon	B-Person
 administration	O
 .	O
+
 Yoon	B-Person
 ’s	O
 questions	O
@@ -703,6 +713,7 @@ a	O
 presidential	O
 candidate	O
 .	O
+
 But	O
 he	O
 went	O
@@ -793,6 +804,7 @@ Saturday	B-Date
 opposing	O
 it	O
 .	O
+
 After	O
 the	O
 meeting	O
@@ -817,6 +829,7 @@ stand	O
 -	O
 by	O
 .	O
+
 Other	O
 police	O
 chiefs	O
@@ -867,6 +880,7 @@ the	O
 police	O
 chiefs	O
 .	O
+
 The	O
 ruling	O
 People	B-Organization

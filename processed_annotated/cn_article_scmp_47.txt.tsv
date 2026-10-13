@@ -153,6 +153,7 @@ domestic	O
 consumption	O
 softening	O
 .	O
+
 While	O
 orders	O
 at	O
@@ -392,6 +393,7 @@ India	B-Location
 in	O
 2019	B-Date
 .	O
+
 The	O
 Indian	B-NORP
 plant	O
@@ -445,6 +447,7 @@ Bangladesh	B-Location
 and	O
 Vietnam	B-Location
 .	O
+
 While	O
 DBG	B-Organization
 ’s	O
@@ -571,6 +574,7 @@ manufacturing	O
 base	O
 there	O
 .	O
+
 The	O
 South	B-NORP
 Korean	I-NORP
@@ -656,6 +660,7 @@ development	O
 said	O
 Xu	B-Person
 .	O
+
 “	O
 We	O
 can	O
@@ -691,6 +696,7 @@ our	O
 Huizhou	B-Location
 factory	O
 .	O
+
 There	O
 ’s	O
 no	O

@@ -953,6 +953,7 @@ early	O
 1970	B-Date
 ’s	O
 .	O
+
 Fortunately	O
 the	O
 site	O
@@ -985,6 +986,7 @@ sites	O
 in	O
 Ethiopia	B-Location
 .	O
+
 After	O
 seeing	O
 Lega	B-Location
@@ -1063,6 +1065,7 @@ from	O
 local	O
 contacts	O
 .	O
+
 Fortunately	O
 Teshome	B-Person
 Sileshi	I-Person
@@ -1104,6 +1107,7 @@ road	O
 to	O
 Harar	B-Location
 .	O
+
 There	O
 is	O
 then	O
@@ -1132,6 +1136,7 @@ and	O
 slow	O
 track	O
 .	O
+
 The	O
 views	O
 along	O
@@ -1170,6 +1175,7 @@ sloping	O
 off	O
 picturesquely	O
 .	O
+
 This	O
 helps	O
 to	O
@@ -1226,6 +1232,7 @@ an	O
 ego	O
 )	O
 .	O
+
 There	O
 is	O
 a	O
@@ -1238,6 +1245,7 @@ system	O
 built	O
 up	O
 .	O
+
 To	O
 get	O
 to	O
@@ -1275,6 +1283,7 @@ to	O
 get	O
 through	O
 .	O
+
 You	O
 have	O
 to	O
@@ -1304,6 +1313,7 @@ year	O
 old	O
 paintings	O
 .	O
+
 As	O
 you	O
 enter	O
@@ -1319,6 +1329,7 @@ are	O
 immediately	O
 visible	O
 .	O
+
 The	O
 cave	O
 is	O
@@ -1336,6 +1347,7 @@ about	O
 meters	O
 in	O
 .	O
+
 There	O
 is	O
 no	O
@@ -1369,6 +1381,7 @@ a	O
 little	O
 grotto	O
 .	O
+
 There	O
 is	O
 an	O
@@ -1389,6 +1402,7 @@ to	O
 be	O
 recognized	O
 .	O
+
 Further	O
 on	O
 there	O
@@ -1420,6 +1434,7 @@ definitely	O
 a	O
 horse	O
 .	O
+
 The	O
 best	O
 and	O
@@ -1436,6 +1451,7 @@ outlines	O
 of	O
 cows	O
 .	O
+
 They	O
 have	O
 extremely	O
@@ -1466,6 +1482,7 @@ made	O
 the	O
 paintings	O
 .	O
+
 Our	O
 local	O
 guide	O
@@ -1487,6 +1504,7 @@ who	O
 made	O
 them	O
 .	O
+
 I	O
 like	O
 to	O
@@ -1517,6 +1535,7 @@ hundred	O
 kilometers	O
 away	O
 .	O
+
 Both	O
 of	O
 them	O
@@ -1553,6 +1572,7 @@ word	O
 on	O
 DD	B-Location
 ?	O
+
 It	O
 is	O
 a	O
@@ -1567,6 +1587,7 @@ you	O
 like	O
 heat	O
 .	O
+
 It	O
 still	O
 seems	O
@@ -1575,6 +1596,7 @@ safe	O
 these	O
 days	O
 .	O
+
 I	O
 eavesdropped	O
 on	O
@@ -1607,6 +1629,7 @@ nice	O
 cosmopolitan	O
 air	O
 .	O
+
 They	O
 spoke	O
 good	O
@@ -1629,15 +1652,18 @@ nice	O
 to	O
 hear	O
 .	O
+
 I	O
 surrender	O
 .	O
+
 DD	B-Location
 is	O
 a	O
 nice	O
 place	O
 !	O
+
 I	O
 hope	O
 my	O

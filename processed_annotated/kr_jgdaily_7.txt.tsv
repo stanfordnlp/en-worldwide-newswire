@@ -330,6 +330,7 @@ police	O
 officer	O
 .	O
 "	O
+
 The	O
 exact	O
 scope	O
@@ -498,6 +499,7 @@ Asian	I-NORP
 drug	O
 ring	O
 .	O
+
 Choi	B-Person
 smuggled	O
 drugs	O

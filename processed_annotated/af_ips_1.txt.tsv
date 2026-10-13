@@ -631,6 +631,7 @@ world	O
 ’s	O
 hungry	O
 .	O
+
 Africa	B-Location
 is	O
 the	O
@@ -650,6 +651,7 @@ past	O
 four	O
 decades	O
 .	O
+
 About	O
 27.4	O
 %	O
@@ -683,6 +685,7 @@ than	O
 in	O
 2000	B-Date
 !	O
+
 Another	O
 46	O
 million	O
@@ -692,6 +695,7 @@ during	O
 the	O
 pandemic	O
 .	O
+
 Now	O
 ,	O
 Ukraine	B-Location
@@ -749,6 +753,7 @@ from	O
 the	O
 1980s	B-Date
 .	O
+
 The	O
 Washington	B-Location
 -	O
@@ -786,6 +791,7 @@ growth	O
 and	O
 prosperity	O
 .	O
+
 Now	O
 ,	O
 many	O
@@ -854,6 +860,7 @@ have	O
 been	O
 blamed	O
 .	O
+
 Meanwhile	O
 ,	O
 however	O
@@ -909,6 +916,7 @@ new	O
 bottles	O
 ”	O
 .	O
+
 Although	O
 purportedly	O
 ‘	O
@@ -945,6 +953,7 @@ fewer	O
 export	O
 commodities	O
 .	O
+
 With	O
 more	O
 growth	O
@@ -1008,6 +1017,7 @@ they	O
 gave	O
 themselves	O
 .	O
+
 Since	O
 then	O
 ,	O
@@ -1058,6 +1068,7 @@ climate	O
 change	O
 effects	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -1174,6 +1185,7 @@ debt	O
 in	O
 2013	B-Date
 .	O
+
 This	O
 greatly	O
 surpasses	O
@@ -1216,6 +1228,7 @@ intellectual	O
 property	O
 law	O
 .	O
+
 Although	O
 Africa	B-Location
 suffers	O
@@ -1257,6 +1270,7 @@ and	O
 transnational	O
 corporations	O
 .	O
+
 African	B-NORP
 nations	O
 must	O
@@ -1293,6 +1307,7 @@ liberalization	O
 and	O
 privatization	O
 .	O
+
 This	O
 is	O
 necessary	O

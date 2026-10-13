@@ -235,6 +235,7 @@ the	O
 Vokkaliga	B-NORP
 community	O
 ...	O
+
 He	O
 is	O
 my	O
@@ -249,6 +250,7 @@ good	O
 for	O
 him	O
 .	O
+
 Not	O
 appropriate	O
 ,	O
@@ -289,6 +291,7 @@ state	O
 Congress	B-Organization
 .	O
 "	O
+
 It	O
 is	O
 not	O
@@ -329,6 +332,7 @@ the	O
 Congress	B-Organization
 .	O
 "	O
+
 Except	O
 discussions	O
 on	O
@@ -375,6 +379,7 @@ Vokkaliga	B-NORP
 community	O
 "	O
 .	O
+
 The	O
 war	O
 of	O

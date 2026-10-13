@@ -110,6 +110,7 @@ decision	O
 was	O
 made	O
 .	O
+
 It	O
 is	O
 learnt	O
@@ -210,6 +211,7 @@ Nava	B-Misc
 Bengaluru	I-Misc
 scheme	O
 .	O
+
 The	O
 grant	O
 amounts	O
@@ -218,6 +220,7 @@ Rs	B-Money
 90	I-Money
 crore	I-Money
 .	O
+
 The	O
 BBMP	B-Organization
 may	O
@@ -264,6 +267,7 @@ the	O
 inner	O
 road	O
 .	O
+
 Around	O
 35	O
 machines	O
@@ -333,6 +337,7 @@ truck	O
 mounted	O
 vehicles	O
 .	O
+
 It	O
 also	O
 owns	O
@@ -350,6 +355,7 @@ cover	O
 smaller	O
 lanes	O
 .	O
+
 These	O
 machines	O
 ,	O
@@ -392,6 +398,7 @@ are	O
 equally	O
 costly	O
 .	O
+
 Each	O
 machine	O
 is	O
@@ -410,6 +417,7 @@ eight	O
 hour	O
 shift	O
 .	O
+
 As	O
 a	O
 majority	O
@@ -460,6 +468,7 @@ the	O
 official	O
 website	O
 .	O
+
 The	O
 civic	O
 body	O

@@ -14,6 +14,7 @@ CBSE	I-Misc
 Examination	I-Misc
 2021-22	B-Misc
 .	O
+
 A	O
 total	O
 of	O
@@ -125,6 +126,7 @@ with	O
 %	O
 marks	O
 .	O
+
 Noor	B-Person
 Rizwan	I-Person
 secured	O
@@ -216,12 +218,14 @@ Shameer	I-Person
 Sidra	B-Person
 Amina	I-Person
 .	O
+
 Mathematics	O
 -	O
 Lavanya	B-Person
 Kodappully	I-Person
 Baiju	I-Person
 .	O
+
 Physics	O
 -	O
 Aman	B-Person
@@ -282,6 +286,7 @@ Baiju	I-Person
 Wasil	B-Person
 Iftekhar	I-Person
 .	O
+
 Computer	O
 Science	O
 -	O
@@ -292,6 +297,7 @@ Mohamed	B-Person
 Hamd	I-Person
 Ashfaque	I-Person
 .	O
+
 Informatics	O
 Practices	O
 -	O
@@ -302,18 +308,21 @@ Mohamed	B-Person
 Samrood	I-Person
 Siraj	I-Person
 .	O
+
 Engineering	O
 Graphics	O
 -	O
 Nada	B-Person
 Fathima	I-Person
 .	O
+
 Business	O
 Studies	O
 -	O
 Arachumveetil	B-Person
 Sumayya	I-Person
 .	O
+
 Accountancy	O
 ,	O
 Economics	O
@@ -322,6 +331,7 @@ Jeswin	B-Person
 Binu	I-Person
 Chacko	I-Person
 .	O
+
 Economics	O
 -	O
 Jeswin	B-Person
@@ -332,6 +342,7 @@ Niya	B-Person
 Ann	I-Person
 Raji	I-Person
 .	O
+
 History	O
 -	O
 Noor	B-Person
@@ -342,6 +353,7 @@ Zayan	I-Person
 Kesavath	I-Person
 Parambil	I-Person
 .	O
+
 Physical	O
 Education	O
 -	O
@@ -353,6 +365,7 @@ Alina	B-Person
 Grace	I-Person
 Unnikrishnan	I-Person
 .	O
+
 Home	O
 Science	O
 -	O

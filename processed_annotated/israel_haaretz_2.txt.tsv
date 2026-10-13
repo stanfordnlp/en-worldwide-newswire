@@ -135,6 +135,7 @@ son	O
 ’s	O
 heart	O
 .	O
+
 How	O
 can	O
 I	O
@@ -144,6 +145,7 @@ with	O
 my	O
 life	O
 ?	O
+
 How	O
 can	O
 I	O
@@ -196,6 +198,7 @@ you	O
 do	O
 ?	O
 ’	O
+
 There	O
 is	O
 no	O
@@ -218,6 +221,7 @@ not	O
 at	O
 funerals	O
 .	O
+
 We	O
 feel	O
 we	O
@@ -234,12 +238,14 @@ all	O
 the	O
 time	O
 .	O
+
 Our	O
 homes	O
 have	O
 become	O
 traps	O
 .	O
+
 Where	O
 shall	O
 we	O
@@ -320,6 +326,7 @@ Israel	B-Location
 violent	O
 crime	O
 .	O
+
 Last	O
 year	O
 saw	O
@@ -335,6 +342,7 @@ all	O
 time	O
 high	O
 .	O
+
 Since	O
 2019	B-Date
 ,	O
@@ -345,6 +353,7 @@ have	O
 been	O
 murdered	O
 .	O
+
 Only	O
 a	O
 small	O
@@ -400,6 +409,7 @@ a	O
 part	O
 of	O
 .	O
+
 In	O
 scene	O
 after	O
@@ -458,6 +468,7 @@ of	O
 Mount	B-Location
 Tabor	I-Location
 .	O
+
 He	O
 is	O
 married	O
@@ -471,6 +482,7 @@ of	O
 four	O
 children	O
 .	O
+
 In	O
 his	O
 previous	O
@@ -534,6 +546,7 @@ in	O
 their	O
 lives	O
 .	O
+
 Two	O
 years	O
 later	O
@@ -635,6 +648,7 @@ almost	O
 daily	O
 basis	O
 .	O
+
 In	O
 the	O
 first	O
@@ -680,6 +694,7 @@ council	O
 he	O
 says	O
 .	O
+
 “	O
 At	O
 first	O
@@ -701,6 +716,7 @@ of	O
 a	O
 singer	O
 .	O
+
 When	O
 Shafik	B-Person
 Kabha	I-Person
@@ -713,10 +729,12 @@ I	O
 was	O
 shocked	O
 .	O
+
 I	O
 knew	O
 him	O
 .	O
+
 I	O
 cried	O
 ,	O
@@ -725,6 +743,7 @@ not	O
 ordinary	O
 tears	O
 .	O
+
 I	O
 took	O
 it	O
@@ -755,6 +774,7 @@ taken	O
 from	O
 me	O
 .	O
+
 He	O
 was	O
 a	O
@@ -766,6 +786,7 @@ on	O
 as	O
 kids	O
 .	O
+
 I	O
 thought	O
 perhaps	O
@@ -790,6 +811,7 @@ the	O
 large	O
 funeral	O
 .	O
+
 But	O
 I	O
 did	O
@@ -821,6 +843,7 @@ just	O
 goes	O
 up	O
 .	O
+
 What	O
 led	O
 me	O
@@ -841,6 +864,7 @@ accumulated	O
 within	O
 me	O
 .	O
+
 I	O
 felt	O
 a	O
@@ -854,6 +878,7 @@ at	O
 the	O
 situation	O
 .	O
+
 The	O
 lives	O
 of	O
@@ -865,6 +890,7 @@ taken	O
 for	O
 nothing	O
 .	O
+
 It	O
 ’s	O
 frustrating	O
@@ -877,12 +903,14 @@ to	O
 murder	O
 someone	O
 .	O
+
 How	O
 can	O
 this	O
 be	O
 explained	O
 ?	O
+
 What	O
 I	O
 tried	O
@@ -937,6 +965,7 @@ shootings	O
 and	O
 murders	O
 .	O
+
 Bilal	B-Person
 despairs	O
 to	O
@@ -964,6 +993,7 @@ is	O
 much	O
 safer	O
 .	O
+
 But	O
 there	O
 too	O
@@ -988,6 +1018,7 @@ community	O
 is	O
 unlikely	O
 .	O
+
 In	O
 his	O
 despair	O
@@ -1014,6 +1045,7 @@ hero	O
 Yousef	B-Person
 says	O
 .	O
+
 “	O
 I	O
 tried	O
@@ -1027,6 +1059,7 @@ for	O
 my	O
 family	O
 .	O
+
 That	O
 is	O
 something	O
@@ -1037,6 +1070,7 @@ need	O
 to	O
 live	O
 .	O
+
 At	O
 any	O
 given	O
@@ -1062,12 +1096,14 @@ where	O
 you	O
 live	O
 .	O
+
 It	O
 ’s	O
 a	O
 terrible	O
 feeling	O
 .	O
+
 We	O
 live	O
 in	O
@@ -1075,6 +1111,7 @@ a	O
 daily	O
 drama	O
 .	O
+
 My	O
 personal	O
 story	O
@@ -1124,6 +1161,7 @@ takes	O
 on	O
 them	O
 .	O
+
 “	O
 The	O
 people	O
@@ -1134,6 +1172,7 @@ are	O
 doubly	O
 scared	O
 .	O
+
 On	O
 the	O
 one	O
@@ -1158,6 +1197,7 @@ of	O
 the	O
 establishment	O
 .	O
+
 There	O
 is	O
 no	O
@@ -1169,6 +1209,7 @@ in	O
 our	O
 society	O
 .	O
+
 People	O
 are	O
 afraid	O
@@ -1181,6 +1222,7 @@ demonstrate	O
 to	O
 protest	O
 .	O
+
 Many	O
 fear	O
 they	O
@@ -1200,6 +1242,7 @@ no	O
 appropriate	O
 reaction	O
 .	O
+
 And	O
 then	O
 there	O
@@ -1214,6 +1257,7 @@ to	O
 Arabs	B-NORP
 .	O
 ’	O
+
 Arab	B-NORP
 lives	O
 are	O
@@ -1221,6 +1265,7 @@ not	O
 equal	O
 here	O
 .	O
+
 And	O
 there	O
 is	O
@@ -1264,6 +1309,7 @@ had	O
 been	O
 murdered	O
 .	O
+
 “	O
 If	O
 we	O
@@ -1281,6 +1327,7 @@ reach	O
 every	O
 home	O
 .	O
+
 What	O
 pushed	O
 me	O
@@ -1333,6 +1380,7 @@ at	O
 our	O
 suffering	O
 .	O
+
 I	O
 am	O
 not	O
@@ -1354,11 +1402,13 @@ on	O
 their	O
 balconies	O
 .	O
+
 No	O
 one	O
 feels	O
 safe	O
 .	O
+
 When	O
 people	O
 are	O
@@ -1378,6 +1428,7 @@ from	O
 the	O
 government	O
 .	O
+
 I	O
 can	O
 guess	O
@@ -1414,6 +1465,7 @@ in	O
 the	O
 film	O
 .	O
+
 Just	O
 as	O
 he	O
@@ -1438,6 +1490,7 @@ he	O
 comes	O
 from	O
 .	O
+
 In	O
 one	O
 scene	O
@@ -1476,6 +1529,7 @@ murdered	O
 in	O
 2009	B-Date
 .	O
+
 His	O
 murder	O
 has	O
@@ -1519,6 +1573,7 @@ here	O
 says	O
 Rayan	B-Person
 .	O
+
 “	O
 But	O
 does	O
@@ -1528,6 +1583,7 @@ us	O
 of	O
 responsibility	O
 ?	O
+
 Does	O
 that	O
 absolve	O
@@ -1538,6 +1594,7 @@ who	O
 we	O
 are	O
 ?	O
+
 We	O
 are	O
 a	O
@@ -1549,6 +1606,7 @@ into	O
 the	O
 abyss	O
 .	O
+
 The	O
 fight	O
 for	O
@@ -1607,6 +1665,7 @@ issue	O
 of	O
 violence	O
 .	O
+
 “	O
 Our	O
 community	O
@@ -1654,6 +1713,7 @@ would	O
 be	O
 caught	O
 .	O
+
 So	O
 why	O
 does	O
@@ -1674,6 +1734,7 @@ in	O
 a	O
 day	O
 ?	O
+
 Why	O
 does	O
 n’t	O
@@ -1685,12 +1746,14 @@ way	O
 about	O
 it	O
 ?	O
+
 There	O
 is	O
 no	O
 desire	O
 here	O
 .	O
+
 It	O
 ’s	O
 not	O
@@ -1698,6 +1761,7 @@ just	O
 the	O
 police	O
 .	O
+
 There	O
 are	O
 other	O
@@ -1765,6 +1829,7 @@ crime	O
 and	O
 violence	O
 .	O
+
 It	O
 features	O
 an	O
@@ -1821,6 +1886,7 @@ integrate	O
 into	O
 society	O
 .	O
+
 Because	O
 of	O
 the	O
@@ -1866,6 +1932,7 @@ a	O
 criminal	O
 past	O
 .	O
+
 “	O
 They	O
 take	O
@@ -1893,10 +1960,12 @@ work	O
 for	O
 us	O
 .	O
+
 Go	O
 choose	O
 .	O
 ’	O
+
 Then	O
 when	O
 they	O
@@ -1933,6 +2002,7 @@ with	O
 from	O
 before	O
 .	O
+
 They	O
 have	O
 experience	O
@@ -1971,6 +2041,7 @@ so	O
 called	O
 periphery	O
 .	O
+
 “	O
 If	O
 you	O
@@ -1992,6 +2063,7 @@ a	O
 massive	O
 uproar	O
 .	O
+
 But	O
 they	O
 are	O
@@ -2098,6 +2170,7 @@ Khalil	B-Person
 was	O
 murdered	O
 .	O
+
 “	O
 Do	O
 you	O
@@ -2105,6 +2178,7 @@ see	O
 the	O
 mosque	O
 ?	O
+
 That	O
 ’s	O
 where	O
@@ -2113,6 +2187,7 @@ son	O
 was	O
 murdered	O
 .	O
+
 And	O
 here	O
 ’s	O
@@ -2125,6 +2200,7 @@ hardly	O
 meters	O
 away	O
 .	O
+
 I	O
 would	O
 march	O
@@ -2141,6 +2217,7 @@ for	O
 our	O
 children	O
 .	O
+
 Why	O
 is	O
 there	O
@@ -2173,6 +2250,7 @@ for	O
 the	O
 director	O
 .	O
+
 “	O
 The	O
 most	O
@@ -2210,6 +2288,7 @@ about	O
 her	O
 feelings	O
 .	O
+
 It	O
 really	O
 tore	O
@@ -2246,6 +2325,7 @@ saw	O
 my	O
 mother	O
 .	O
+
 While	O
 my	O
 mother	O
@@ -2283,6 +2363,7 @@ to	O
 deal	O
 with	O
 .	O
+
 Sometimes	O
 I	O
 cracked	O
@@ -2313,6 +2394,7 @@ the	O
 film	O
 began	O
 .	O
+
 He	O
 documents	O
 the	O
@@ -2352,12 +2434,14 @@ shadow	O
 of	O
 death	O
 ?	O
+
 What	O
 future	O
 awaits	O
 these	O
 children	O
 ?	O
+
 He	O
 concludes	O
 that	O
@@ -2372,6 +2456,7 @@ changes	O
 its	O
 policies	O
 .	O
+
 “	O
 I	O
 do	O
@@ -2379,6 +2464,7 @@ n’t	O
 make	O
 decisions	O
 .	O
+
 I	O
 ’m	O
 not	O

@@ -162,6 +162,7 @@ on	O
 /	I-Date
 2022	I-Date
 .	O
+
 Court	O
 has	O
 taken	O
@@ -213,6 +214,7 @@ nearly	O
 12	I-Money
 crore	I-Money
 .	O
+
 He	O
 had	O
 earlier	O
@@ -419,6 +421,7 @@ Jammu	B-Location
 and	O
 Kashmir	B-Location
 .	O
+
 We	O
 will	O
 be	O

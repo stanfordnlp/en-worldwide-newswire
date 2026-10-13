@@ -714,6 +714,7 @@ could	O
 not	O
 control	O
 .	O
+
 Allowing	O
 only	O
 four	O
@@ -735,6 +736,7 @@ were	O
 deemed	O
 illegal	O
 .	O
+
 Especially	O
 the	O
 Christian	B-NORP
@@ -788,6 +790,7 @@ for	O
 ordinary	O
 citizens	O
 .	O
+
 National	O
 service	O
 means	O
@@ -807,6 +810,7 @@ of	O
 forced	O
 work	O
 .	O
+
 By	O
 now	O
 ,	O
@@ -820,6 +824,7 @@ by	O
 forced	O
 labour	O
 .	O
+
 Nobody	O
 can	O
 tell	O
@@ -844,6 +849,7 @@ or	O
 her	O
 superior	O
 .	O
+
 And	O
 anyone	O
 defying	O
@@ -889,6 +895,7 @@ the	O
 brutal	O
 dictatorship	O
 .	O
+
 Many	O
 succeed	O
 and	O
@@ -948,6 +955,7 @@ even	O
 the	O
 US	B-Location
 .	O
+
 There	O
 ,	O
 they	O
@@ -969,6 +977,7 @@ the	O
 Eritrean	B-NORP
 government	O
 .	O
+
 If	O
 they	O
 refuse	O
@@ -1012,11 +1021,14 @@ the	O
 same	O
 way	O
 .	O
+
 Prison	O
 .	O
+
 No	O
 trial	O
 .	O
+
 And	O
 very	O
 many	O
@@ -1041,6 +1053,7 @@ the	O
 same	O
 destiny	O
 .	O
+
 There	O
 are	O
 indeed	O
@@ -1086,6 +1099,7 @@ facilities	O
 in	O
 Eritrea	B-Location
 .	O
+
 Some	O
 are	O
 well	O
@@ -1099,6 +1113,7 @@ in	O
 total	O
 secrecy	O
 .	O
+
 But	O
 the	O
 extreme	O
@@ -1148,6 +1163,7 @@ African	B-NORP
 prison	O
 standards	O
 .	O
+
 Many	O
 detention	O
 centres	O
@@ -1164,12 +1180,14 @@ and	O
 low	O
 temperatures	O
 .	O
+
 All	O
 are	O
 overcrowded	O
 and	O
 unclean	O
 .	O
+
 Food	O
 and	O
 drinking	O
@@ -1177,6 +1195,7 @@ water	O
 are	O
 scarce	O
 .	O
+
 Most	O
 use	O
 underground	O
@@ -1210,6 +1229,7 @@ Afewerki	B-Person
 government	O
 .	O
 "	O
+
 With	O
 no	O
 known	O
@@ -1297,6 +1317,7 @@ most	O
 African	B-NORP
 countries	O
 .	O
+
 The	O
 same	O
 level	O
@@ -1326,6 +1347,7 @@ Bissau	I-Location
 and	O
 Namibia	B-Location
 .	O
+
 And	O
 in	O
 Eritrea	B-Location
@@ -1360,6 +1382,7 @@ of	O
 Isaias	B-Person
 Afewerki	I-Person
 .	O
+
 President	O
 Afewerki	B-Person
 is	O
@@ -1388,6 +1411,7 @@ to	O
 other	O
 countries	O
 .	O
+
 He	O
 has	O
 ignited	O
@@ -1401,6 +1425,7 @@ Eritrea	B-Location
 neighbour	O
 countries	O
 .	O
+
 He	O
 has	O
 purged	O
@@ -1472,6 +1497,7 @@ the	O
 and	O
 70s	B-Date
 .	O
+
 The	O
 historian	O
 Samuel	B-Person
@@ -1501,6 +1527,7 @@ similarities	O
 between	O
 them	O
 .	O
+
 Their	O
 behaviour	O
 was	O
@@ -1523,6 +1550,7 @@ or	O
 assumed	O
 opponents	O
 .	O
+
 The	O
 three	O
 ex	O
@@ -1591,6 +1619,7 @@ warfare	O
 in	O
 1966	B-Date
 .	O
+
 So	O
 his	O
 paranoia	O
@@ -1601,6 +1630,7 @@ by	O
 other	O
 factors	O
 .	O
+
 Nevertheless	O
 ,	O
 developments	O
@@ -1613,6 +1643,7 @@ to	O
 his	O
 personality	O
 .	O
+
 And	O
 he	O
 has	O

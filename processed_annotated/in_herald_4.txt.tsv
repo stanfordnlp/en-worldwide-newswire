@@ -198,6 +198,7 @@ the	O
 chief	O
 minister	O
 .	O
+
 Muslims	B-NORP
 should	O
 take	O
@@ -248,6 +249,7 @@ Congress	B-Organization
 )	O
 president	O
 .	O
+
 We	O
 will	O
 definitely	O

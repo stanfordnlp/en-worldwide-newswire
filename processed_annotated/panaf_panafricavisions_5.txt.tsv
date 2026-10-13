@@ -395,6 +395,7 @@ sub	O
 -	O
 region	O
 .	O
+
 Most	O
 of	O
 the	O
@@ -422,6 +423,7 @@ off	O
 the	O
 roads	O
 .	O
+
 The	O
 total	O
 monetised	O
@@ -568,6 +570,7 @@ and	O
 economic	O
 incentives	O
 .	O
+
 It	O
 is	O
 estimated	O
@@ -589,6 +592,7 @@ off	O
 our	O
 roads	O
 .	O
+
 This	O
 monumental	O
 intervention	O
@@ -600,6 +604,7 @@ on	O
 road	O
 maintenance	O
 .	O
+
 It	O
 will	O
 reduce	O
@@ -712,6 +717,7 @@ for	O
 our	O
 industrialization	O
 .	O
+
 The	O
 Dawa	B-Facility
 Park	I-Facility
@@ -763,6 +769,7 @@ to	O
 take	O
 off	O
 .	O
+
 Debre	B-Location
 ’s	O
 geographic	O
@@ -782,6 +789,7 @@ to	O
 be	O
 sited	O
 .	O
+
 The	O
 deep	O
 depth	O
@@ -806,6 +814,7 @@ and	O
 from	O
 Debre	B-Location
 .	O
+
 With	O
 the	O
 creation	O
@@ -871,6 +880,7 @@ emulate	O
 LMI	B-Organization
 Holdings	I-Organization
 .	O
+
 “	O
 Let	O
 me	O
@@ -882,6 +892,7 @@ this	O
 impressive	O
 feat	O
 .	O
+
 As	O
 a	O
 company	O
@@ -900,6 +911,7 @@ in	O
 infrastructure	O
 development	O
 .	O
+
 With	O
 over	O
 $	B-Money
@@ -924,6 +936,7 @@ property	O
 and	O
 logistics	O
 .	O
+
 In	O
 the	O
 last	O

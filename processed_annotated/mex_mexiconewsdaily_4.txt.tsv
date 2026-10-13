@@ -270,6 +270,7 @@ in	O
 the	O
 U.	B-Location
 S.	I-Location
+
 Vicente	B-Person
 Zambada	I-Person
 Niebla	I-Person
@@ -360,6 +361,7 @@ foot	O
 from	O
 Sonora	B-Location
 .	O
+
 He	O
 was	O
 sentenced	O
@@ -397,6 +399,7 @@ García	I-Person
 in	O
 September	B-Date
 .	O
+
 The	O
 whereabouts	O
 of	O

@@ -214,6 +214,7 @@ birdcages	O
 with	O
 them	O
 .	O
+
 He	O
 often	O
 visited	O
@@ -252,6 +253,7 @@ Wong	B-Person
 said	O
 .	O
 "	O
+
 There	O
 are	O
 not	O
@@ -303,6 +305,7 @@ customers	O
 since	O
 childhood	O
 .	O
+
 He	O
 still	O
 remembers	O
@@ -337,6 +340,7 @@ pork	O
 chop	O
 spaghetti	O
 .	O
+
 He	O
 said	O
 the	O

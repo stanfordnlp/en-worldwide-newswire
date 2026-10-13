@@ -47,6 +47,7 @@ company	O
 ’s	O
 operations	O
 .	O
+
 Yet	O
 ,	O
 the	O
@@ -131,6 +132,7 @@ with	O
 this	O
 newspaper	O
 .	O
+
 Mangal	B-Person
 -	I-Person
 Joly	I-Person
@@ -293,6 +295,7 @@ but	O
 are	O
 valuable	O
 .	O
+
 These	O
 form	O
 part	O
@@ -431,6 +434,7 @@ in	O
 a	O
 project	O
 .	O
+
 “	O
 What	O
 matters	O
@@ -512,6 +516,7 @@ the	O
 permitting	O
 process	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -560,6 +565,7 @@ gas	O
 service	O
 vessels	O
 .	O
+
 This	O
 includes	O
 the	O
@@ -626,6 +632,7 @@ been	O
 scientifically	O
 supported	O
 .	O
+
 Everything	O
 is	O
 just	O
@@ -816,6 +823,7 @@ may	O
 be	O
 performed	O
 .	O
+
 Conclusion	O
 of	O
 the	O
@@ -857,6 +865,7 @@ yet	O
 been	O
 finalised	O
 .	O
+
 While	O
 some	O
 of	O
@@ -894,6 +903,7 @@ drilled	O
 exploration	O
 areas	O
 .	O
+
 Therefore	O
 ,	O
 four	O
@@ -1036,6 +1046,7 @@ Noble	B-Facility
 Sam	I-Facility
 Croft	I-Facility
 .	O
+
 The	O
 wells	O
 could	O
@@ -1242,6 +1253,7 @@ are	O
 known	O
 .	O
 ”	O
+
 EPA	B-Organization
 said	O
 that	O

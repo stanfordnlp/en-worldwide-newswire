@@ -179,6 +179,7 @@ stamp	O
 on	O
 history	O
 .	O
+
 But	O
 there	O
 are	O
@@ -189,6 +190,7 @@ actually	O
 create	O
 history	O
 .	O
+
 Qaed	B-Person
 -	I-Person
 E	I-Person
@@ -225,6 +227,7 @@ was	O
 very	O
 secular	O
 .	O
+
 In	O
 the	O
 process	O
@@ -242,6 +245,7 @@ organization	O
 the	O
 RSS	B-Organization
 .	O
+
 What	O
 he	O
 stated	O
@@ -331,6 +335,7 @@ the	O
 same	O
 institute	O
 .	O
+
 They	O
 became	O
 barristers	O
@@ -373,6 +378,7 @@ got	O
 us	O
 freedom	O
 .	O
+
 This	O
 is	O
 distortion	O
@@ -400,6 +406,7 @@ category	O
 as	O
 Jinnah	B-Person
 ?	O
+
 That	O
 way	O
 Jinnah	B-Person
@@ -412,6 +419,7 @@ a	O
 straight	O
 line	O
 .	O
+
 During	O
 freedom	O
 movement	O
@@ -432,6 +440,7 @@ to	O
 communal	O
 vortex	O
 .	O
+
 We	O
 see	O
 Savarkar	B-Person
@@ -485,6 +494,7 @@ Indian	B-Organization	B-NORP
 National	I-Organization
 Congress	I-Organization
 .	O
+
 Was	O
 liberal	O
 ,	O
@@ -558,6 +568,7 @@ saying	O
 is	O
 true	O
 .	O
+
 One	O
 will	O
 like	O
@@ -577,6 +588,7 @@ a	O
 selective	O
 way	O
 .	O
+
 The	O
 full	O
 trajectory	O
@@ -608,6 +620,7 @@ violence	O
 and	O
 Satyagrah	B-Misc
 .	O
+
 Jinnah	B-Person
 wanted	O
 to	O
@@ -631,6 +644,7 @@ create	O
 unwanted	O
 turmoil	O
 .	O
+
 Gandhi	B-Person
 and	O
 later	O
@@ -696,6 +710,7 @@ of	O
 communal	O
 politics	O
 .	O
+
 He	O
 did	O
 begin	O
@@ -724,6 +739,7 @@ Tilak	I-Person
 1916	B-Date
 )	O
 .	O
+
 Later	O
 he	O
 started	O
@@ -744,6 +760,7 @@ will	O
 be	O
 hampered	O
 .	O
+
 In	O
 a	O
 way	O
@@ -788,6 +805,7 @@ in	O
 his	O
 politics	O
 .	O
+
 From	O
 here	O
 he	O
@@ -813,6 +831,7 @@ the	O
 British	B-NORP
 leave	O
 .	O
+
 To	O
 Motilal	B-Person
 Nehru	I-Person
@@ -857,6 +876,7 @@ a	O
 Hindu	B-NORP
 nation	O
 .	O
+
 Later	O
 Savarkar	B-Person
 ,	O
@@ -868,6 +888,7 @@ place	O
 of	O
 Muslims	B-NORP
 .	O
+
 In	O
 1930	B-Date
 in	O
@@ -886,6 +907,7 @@ Muslims	B-NORP
 ,	O
 Pakistan	B-NORP
 .	O
+
 Jinnah	B-Person
 at	O
 that	O
@@ -896,6 +918,7 @@ take	O
 it	O
 seriously	O
 .	O
+
 In	O
 Assembly	B-Organization
 elections	O
@@ -947,6 +970,7 @@ demand	O
 for	O
 Pakistan	B-Location
 .	O
+
 British	B-NORP
 also	O
 had	O
@@ -961,6 +985,7 @@ forward	O
 this	O
 demand	O
 .	O
+
 The	O
 selective	O
 presentation	O
@@ -1005,6 +1030,7 @@ of	O
 Muslim	B-Organization	B-NORP
 League	I-Organization
 .	O
+
 This	O
 is	O
 generally	O
@@ -1014,6 +1040,7 @@ leaders	O
 are	O
 doing	O
 .	O
+
 Selectively	O
 picking	O
 up	O

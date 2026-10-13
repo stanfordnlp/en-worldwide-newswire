@@ -901,6 +901,7 @@ Qaeda	I-Organization
 ’s	O
 weapon	O
 .	O
+
 But	O
 a	O
 clique	O
@@ -925,6 +926,7 @@ of	O
 Saudi	B-Location
 Arabia	I-Location
 .	O
+
 Control	O
 of	O
 the	O
@@ -939,6 +941,7 @@ of	O
 their	O
 goals	O
 .	O
+
 Another	O
 goal	O
 consists	O
@@ -960,6 +963,7 @@ poses	O
 to	O
 Israel	B-Location
 .	O
+
 Al	B-Organization
 Qaeda	I-Organization
 and	O

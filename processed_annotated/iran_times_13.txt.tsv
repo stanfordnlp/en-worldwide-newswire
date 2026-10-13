@@ -465,6 +465,7 @@ or	O
 Iran	B-Location
 ”	O
 .	O
+
 However	O
 ,	O
 his	O
@@ -481,6 +482,7 @@ from	O
 West	B-Location
 Asia	I-Location
 .	O
+
 What	O
 is	O
 your	O
@@ -512,6 +514,7 @@ for	O
 the	O
 region	O
 .	O
+
 If	O
 Biden	B-Person
 decides	O
@@ -530,6 +533,7 @@ security	O
 and	O
 stability	O
 .	O
+
 Trump	B-Person
 withdrew	O
 from	O
@@ -564,6 +568,7 @@ withdrawing	O
 its	O
 forces	O
 .	O
+
 His	O
 policy	O
 was	O
@@ -574,6 +579,7 @@ through	O
 harsh	O
 sanctions	O
 .	O
+
 President	O
 Biden	B-Person
 on	O
@@ -601,6 +607,7 @@ pressure	O
 against	O
 Iran	B-Location
 .	O
+
 As	O
 the	O
 nuclear	O
@@ -638,6 +645,7 @@ and	O
 its	O
 allies	O
 .	O
+
 Even	O
 though	O
 in	O
@@ -662,6 +670,7 @@ of	O
 military	O
 power	O
 .	O
+
 While	O
 Iran	B-Location
 and	O
@@ -683,6 +692,7 @@ peace	O
 and	O
 security	O
 .	O
+
 China	B-Location
 has	O
 also	O
@@ -751,6 +761,7 @@ number	O
 of	O
 challenges	O
 .	O
+
 The	O
 first	O
 and	O
@@ -775,6 +786,7 @@ in	O
 the	O
 region	O
 .	O
+
 The	O
 Arab	B-NORP
 states	O
@@ -788,6 +800,7 @@ ruled	O
 by	O
 monarchies	O
 .	O
+
 The	O
 people	O
 are	O
@@ -803,6 +816,7 @@ of	O
 their	O
 states	O
 .	O
+
 This	O
 has	O
 created	O
@@ -813,6 +827,7 @@ and	O
 the	O
 states	O
 .	O
+
 While	O
 some	O
 of	O
@@ -836,6 +851,7 @@ anti	O
 American	B-NORP
 sentiments	O
 .	O
+
 For	O
 decades	O
 ,	O
@@ -867,6 +883,7 @@ the	O
 Palestinian	B-NORP
 people	O
 .	O
+
 The	O
 developed	O
 mindset	O
@@ -879,6 +896,7 @@ cannot	O
 be	O
 changed	O
 .	O
+
 If	O
 the	O
 sentiments	O
@@ -930,6 +948,7 @@ with	O
 Bin	B-Person
 Salman	I-Person
 ?	O
+
 Do	O
 you	O
 think	O
@@ -976,6 +995,7 @@ journalist	O
 Jamal	B-Person
 Khashoggi	I-Person
 .	O
+
 Biden	B-Person
 in	O
 his	O
@@ -1007,6 +1027,7 @@ of	O
 Bin	B-Person
 Salman	I-Person
 .	O
+
 However	O
 ,	O
 recent	O
@@ -1029,6 +1050,7 @@ meet	O
 Bin	B-Person
 Salman	I-Person
 .	O
+
 Moreover	O
 ,	O
 it	O
@@ -1058,6 +1080,7 @@ China	B-Location
 and	O
 Russia	B-Location
 .	O
+
 However	O
 the	O
 legitimacy	O
@@ -1109,6 +1132,7 @@ Palestine	B-Location
 and	O
 Yemen	B-Location
 .	O
+
 Do	O
 you	O
 think	O
@@ -1154,6 +1178,7 @@ the	O
 Revolution	O
 itself	O
 .	O
+
 This	O
 is	O
 because	O
@@ -1181,6 +1206,7 @@ like	O
 -	O
 mindedness	O
 .	O
+
 The	O
 non	O
 -	O
@@ -1212,6 +1238,7 @@ similarities	O
 with	O
 Iran	B-Location
 .	O
+
 The	O
 Arab	B-NORP
 states	O
@@ -1248,6 +1275,7 @@ in	O
 their	O
 interests	O
 .	O
+
 Forming	O
 a	O
 NATO	B-Organization

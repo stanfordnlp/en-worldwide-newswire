@@ -132,6 +132,7 @@ largest	O
 tribal	O
 groups	O
 .	O
+
 She	O
 started	O
 out	O
@@ -270,6 +271,7 @@ in	O
 remote	O
 villages	O
 .	O
+
 Opposition	O
 parties	O
 ,	O
@@ -329,6 +331,7 @@ assumes	O
 greater	O
 power	O
 .	O
+
 She	O
 is	O
 bound	O
@@ -380,6 +383,7 @@ complex	O
 caste	O
 hierarchy	O
 .	O
+
 Kovind	B-Person
 has	O
 been	O
@@ -415,6 +419,7 @@ issues	O
 in	O
 2018	B-Date
 .	O
+
 Since	O
 then	O
 ,	O

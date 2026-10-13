@@ -24,6 +24,7 @@ pre	O
 pandemic	O
 period	O
 .	O
+
 According	O
 to	O
 a	O
@@ -55,6 +56,7 @@ in	O
 October	B-Date
 2021	I-Date
 .	O
+
 The	O
 MTPA	B-Organization
 remains	O
@@ -124,6 +126,7 @@ in	O
 May	B-Date
 )	O
 .	O
+
 For	O
 the	O
 same	O
@@ -163,6 +166,7 @@ with	O
 557,684	O
 tourists	O
 .	O
+
 For	O
 2022	B-Date
 ,	O
@@ -234,6 +238,7 @@ tourists	O
 be	O
 achieved	O
 ?	O
+
 Observers	O
 remain	O
 skeptical	O
@@ -271,6 +276,7 @@ on	O
 1	B-Date
 July	I-Date
 .	O
+
 The	O
 International	B-Organization
 Monetary	I-Organization
@@ -330,6 +336,7 @@ campaigns	O
 on	O
 security	O
 .	O
+
 It	O
 relies	O
 heavily	O
@@ -385,6 +392,7 @@ under	O
 years	O
 old	O
 .	O
+
 “	O
 It	O
 is	O
@@ -408,6 +416,7 @@ since	O
 October	I-Date
 2021	I-Date
 .	O
+
 I	O
 am	O
 confident	O
@@ -421,6 +430,7 @@ is	O
 well	O
 underway	O
 .	O
+
 The	O
 easing	O
 of	O
@@ -457,6 +467,7 @@ to	O
 grow	O
 “	O
 .	O
+
 Mauritius	B-Location
 is	O
 still	O
@@ -475,6 +486,7 @@ among	O
 other	O
 markets	O
 .	O
+
 Negotiations	O
 with	O
 previous	O

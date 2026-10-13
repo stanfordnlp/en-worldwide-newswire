@@ -178,6 +178,7 @@ bye	O
 -	O
 elections	O
 .	O
+
 He	O
 said	O
 that	O
@@ -309,6 +310,7 @@ no	O
 solo	O
 flight	O
 .	O
+
 We	O
 will	O
 not	O
@@ -317,6 +319,7 @@ our	O
 allies	O
 .	O
 ”	O
+
 To	O
 a	O
 question	O
@@ -339,6 +342,7 @@ of	O
 the	O
 game	O
 .	O
+
 Gilani	B-Person
 said	O
 that	O
@@ -390,6 +394,7 @@ manner	O
 he	O
 added	O
 .	O
+
 All	O
 PTI	B-Organization
 leaders	O
@@ -397,6 +402,7 @@ claims	O
 proved	O
 wrong	O
 .	O
+
 Gilani	B-Person
 said	O
 that	O
@@ -431,6 +437,7 @@ brings	O
 economic	O
 stability	O
 .	O
+
 He	O
 lauded	O
 PML	B-Organization
@@ -450,6 +457,7 @@ the	O
 election	O
 campaign	O
 .	O
+
 To	O
 another	O
 question	O

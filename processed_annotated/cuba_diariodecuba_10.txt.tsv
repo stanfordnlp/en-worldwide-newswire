@@ -497,6 +497,7 @@ guaranteed	O
 (	O
 ...	O
 )	O
+
 Cubans	B-NORP
 can	O
 rest	O
@@ -516,6 +517,7 @@ stores	O
 
 False	O
 .	O
+
 This	O
 would	O
 be	O
@@ -564,6 +566,7 @@ ration	O
 book	O
 quotas	O
 .	O
+
 To	O
 this	O
 must	O
@@ -589,6 +592,7 @@ employed	O
 ,	O
 etc	O
 .	O
+
 And	O
 then	O
 there	O
@@ -631,6 +635,7 @@ for	O
 the	O
 product	O
 .	O
+
 The	O
 numbers	O
 do	O
@@ -701,6 +706,7 @@ question	O
 of	O
 mathematics	O
 .	O
+
 To	O
 honor	O
 its	O
@@ -723,6 +729,7 @@ tons	O
 are	O
 required	O
 .	O
+
 So	O
 ,	O
 either	O
@@ -819,6 +826,7 @@ to	O
 do	O
 so	O
 .	O
+
 The	O
 regime	O
 will	O
@@ -860,6 +868,7 @@ consumption	O
 being	O
 affected	O
 .	O
+
 As	O
 the	O
 saying	O
@@ -905,6 +914,7 @@ the	O
 real	O
 causes	O
 .	O
+
 In	O
 passing	O
 ,	O
@@ -970,6 +980,7 @@ Republic	I-Location
 80	O
 tons	O
 .	O
+
 Even	O
 many	O
 poor	O
@@ -1060,6 +1071,7 @@ agro	O
 industrial	O
 purposes	O
 .	O
+
 Rather	O
 ,	O
 sugar	O
@@ -1221,6 +1233,7 @@ monopoly	O
 Ron	B-Organization
 Cuba	I-Organization
 .	O
+
 According	O
 to	O
 its	O
@@ -1354,6 +1367,7 @@ to	O
 fall	O
 .	O
 "	O
+
 Elementary	B-Misc
 ,	I-Misc
 dar	I-Misc
@@ -1412,6 +1426,7 @@ in	O
 41	O
 years	O
 .	O
+
 To	O
 give	O
 one	O
@@ -1427,6 +1442,7 @@ produced	O
 in	O
 2000	B-Date
 .	O
+
 And	O
 there	O
 is	O

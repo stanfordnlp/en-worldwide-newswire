@@ -195,6 +195,7 @@ Pakistan	B-Location
 and	O
 Qatar	B-Location
 .	O
+
 A	O
 law	O
 graduate	O
@@ -234,6 +235,7 @@ guests	O
 of	O
 honour	O
 .	O
+
 Maslamani	B-Person
 holds	O
 an	O
@@ -243,6 +245,7 @@ Henley	B-Organization
 Business	I-Organization
 School	I-Organization
 .	O
+
 He	O
 brings	O
 an	O
@@ -303,6 +306,7 @@ Financial	I-Organization
 Centre	I-Organization
 Authority	I-Organization
 .	O
+
 He	O
 is	O
 one	O
@@ -317,6 +321,7 @@ Finance	I-Organization
 Business	I-Organization
 Academy	I-Organization
 .	O
+
 During	O
 his	O
 tenure	O

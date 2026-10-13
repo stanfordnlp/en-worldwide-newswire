@@ -152,6 +152,7 @@ rent	O
 -	O
 seeking	O
 ?	O
+
 Those	O
 owners	O
 have	O
@@ -167,6 +168,7 @@ rent	O
 -	O
 seeking	O
 .	O
+
 If	O
 you	O
 go	O
@@ -202,6 +204,7 @@ profit	O
 taking	O
 ”	O
 .	O
+
 Money	O
 or	O
 fiat	O
@@ -218,6 +221,7 @@ means	O
 of	O
 exchange	O
 .	O
+
 Paper	O
 money	O
 has	O
@@ -225,6 +229,7 @@ no	O
 intrinsic	O
 value	O
 .	O
+
 Tomorrow	O
 if	O
 the	O
@@ -264,6 +269,7 @@ the	O
 African	B-NORP
 majority	O
 .	O
+
 It	O
 is	O
 the	O
@@ -277,6 +283,7 @@ distribution	O
 of	O
 money	O
 .	O
+
 But	O
 Africans	B-NORP
 are	O
@@ -313,6 +320,7 @@ President	O
 Thabo	B-Person
 Mbeki	I-Person
 .	O
+
 He	O
 will	O
 tell	O
@@ -401,6 +409,7 @@ of	O
 government	O
 corruption	O
 .	O
+
 Yes	O
 ,	O
 corruption	O
@@ -423,6 +432,7 @@ and	O
 excised	O
 aggressively	O
 .	O
+
 Perhaps	O
 like	O
 the	O
@@ -434,6 +444,7 @@ with	O
 in	O
 China	B-Location
 .	O
+
 And	O
 if	O
 there	O
@@ -471,6 +482,7 @@ McKinseys	B-Organization
 and	O
 Trillians	B-Organization
 .	O
+
 We	O
 also	O
 now	O
@@ -512,6 +524,7 @@ you	O
 a	O
 story	O
 .	O
+
 I	O
 was	O
 told	O
@@ -530,6 +543,7 @@ Court	I-Organization
 Westgate	B-Location
 )	O
 .	O
+
 Because	O
 the	O
 court	O
@@ -549,6 +563,7 @@ at	O
 peak	O
 hours	O
 .	O
+
 You	O
 will	O
 have	O
@@ -589,6 +604,7 @@ has	O
 a	O
 job	O
 .	O
+
 One	O
 day	O
 she	O
@@ -609,6 +625,7 @@ so	O
 much	O
 revenue	O
 .	O
+
 She	O
 responded	O
 that	O
@@ -626,6 +643,7 @@ down	O
 the	O
 line	O
 .	O
+
 That	O
 someone	O
 now	O
@@ -633,6 +651,7 @@ lives	O
 in	O
 Italy	B-Location
 .	O
+
 He	O
 left	O
 the	O
@@ -700,6 +719,7 @@ agriculture	O
 and	O
 food	O
 .	O
+
 Yes	O
 ,	O
 food	O
@@ -707,6 +727,7 @@ security	O
 is	O
 vital	O
 .	O
+
 It	O
 is	O
 a	O
@@ -781,6 +802,7 @@ standing	O
 on	O
 land	O
 .	O
+
 Even	O
 trees	O
 grow	O
@@ -789,12 +811,14 @@ land	O
 ,	O
 while	O
 .	O
+
 Humans	O
 must	O
 walk	O
 on	O
 land	O
 .	O
+
 Cars	O
 must	O
 park	O
@@ -802,6 +826,7 @@ on	O
 the	O
 land	O
 .	O
+
 And	O
 truths	O
 about	O
@@ -826,11 +851,13 @@ black	O
 middle	O
 class	O
 .	O
+
 What	O
 black	O
 middle	O
 class	O
 ?	O
+
 A	O
 vast	O
 majority	O
@@ -865,6 +892,7 @@ on	O
 the	O
 JSE	B-Organization
 .	O
+
 Over	O
 a	O
 lifetime	O
@@ -910,6 +938,7 @@ or	O
 they	O
 default	O
 .	O
+
 Their	O
 cars	O
 ,	O
@@ -922,6 +951,7 @@ disappear	O
 like	O
 magic	O
 .	O
+
 And	O
 they	O
 can	O
@@ -955,6 +985,7 @@ away	O
 from	O
 poverty	O
 .	O
+
 If	O
 you	O
 do	O
@@ -971,6 +1002,7 @@ yourself	O
 middle	O
 class	O
 .	O
+
 Somebody	O
 is	O
 busy	O
@@ -987,6 +1019,7 @@ class	O
 is	O
 ownership	O
 .	O
+
 And	O
 we	O
 must	O
@@ -1004,6 +1037,7 @@ benefit	O
 the	O
 schemers	O
 .	O
+
 You	O
 are	O
 not	O
@@ -1053,6 +1087,7 @@ you	O
 the	O
 money	O
 .	O
+
 It	O
 is	O
 until	O
@@ -1183,6 +1218,7 @@ is	O
 no	O
 secret	O
 .	O
+
 In	O
 2009	B-Date
 he	O
@@ -1196,6 +1232,7 @@ of	O
 the	O
 law	O
 .	O
+
 One	O
 suspects	O
 that	O
@@ -1219,6 +1256,7 @@ take	O
 12	O
 years	O
 ?	O
+
 I	O
 asked	O
 a	O
@@ -1233,6 +1271,7 @@ me	O
 unpack	O
 this	O
 .	O
+
 However	O
 ,	O
 he	O
@@ -1319,6 +1358,7 @@ evil	O
 of	O
 apartheid	O
 .	O
+
 As	O
 somebody	O
 noted	O
@@ -1371,6 +1411,7 @@ Bekker	I-Person
 of	O
 Naspers	B-Organization
 ?	O
+
 He	O
 refused	O
 to	O
@@ -1392,8 +1433,10 @@ when	O
 he	O
 refused	O
 ?	O
+
 Nothing	O
 .	O
+
 And	O
 now	O
 currently	O
@@ -1469,6 +1512,7 @@ from	O
 Robben	B-Location
 Island	I-Location
 .	O
+
 Remember	O
 it	O
 was	O
@@ -1558,6 +1602,7 @@ child	O
 to	O
 death	O
 ?	O
+
 I	O
 am	O
 asking	O
@@ -1604,6 +1649,7 @@ father	O
 to	O
 me	O
 .	O
+
 Now	O
 how	O
 do	O
@@ -1613,12 +1659,14 @@ with	O
 all	O
 this	O
 ?	O
+
 Just	O
 think	O
 deep	O
 about	O
 it	O
 .	O
+
 Is	O
 it	O
 a	O
@@ -1629,6 +1677,7 @@ on	O
 these	O
 things	O
 ?	O
+
 A	O
 friend	O
 of	O
@@ -1822,6 +1871,7 @@ just	O
 for	O
 bread	O
 .	O
+
 What	O
 an	O
 irony	O

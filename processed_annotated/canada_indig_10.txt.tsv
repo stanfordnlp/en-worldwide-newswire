@@ -749,6 +749,7 @@ non	O
 fluent	O
 speaker	O
 ...	O
+
 I	O
 learned	O
 so	O
@@ -793,6 +794,7 @@ Mi'kmaw	B-Misc	B-NORP
 History	I-Misc
 Month	I-Misc
 .	O
+
 The	O
 Gaelic	B-NORP
 and	O

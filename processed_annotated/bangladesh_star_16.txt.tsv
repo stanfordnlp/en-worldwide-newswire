@@ -204,6 +204,7 @@ June	B-Date
 13	I-Date
 at	O
 8:36 am.	O
+
 As	O
 he	O
 did	O
@@ -240,6 +241,7 @@ of	O
 Tk	B-Money
 2,680	I-Money
 .	O
+
 However	O
 ,	O
 since	O
@@ -298,6 +300,7 @@ Roni	I-Person
 mobile	O
 wallet	O
 .	O
+
 No	O
 money	O
 from	O
@@ -312,6 +315,7 @@ JV	O
 's	O
 account	O
 .	O
+
 According	O
 to	O
 the	O
@@ -351,6 +355,7 @@ three	O
 working	O
 days	O
 .	O
+
 This	O
 is	O
 a	O
@@ -375,6 +380,7 @@ while	O
 providing	O
 service	O
 .	O
+
 Mohiuddin	B-Person
 Roni	I-Person
 received	O
@@ -465,6 +471,7 @@ the	O
 necessary	O
 information	O
 .	O
+
 However	O
 ,	O
 he	O

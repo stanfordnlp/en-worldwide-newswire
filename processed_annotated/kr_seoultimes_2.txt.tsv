@@ -183,6 +183,7 @@ cash	O
 cow	O
 business	O
 .	O
+
 He	O
 has	O
 already	O
@@ -211,6 +212,7 @@ Cho	B-Person
 's	O
 company	O
 .	O
+
 Cho	B-Person
 said	O
 that	O
@@ -247,6 +249,7 @@ drinking	O
 water	O
 business	O
 .	O
+
 One	O
 of	O
 the	O
@@ -275,6 +278,7 @@ Korea	I-Location
 Gangwon	B-Location
 Province	I-Location
 .	O
+
 The	O
 Sanskrit	B-NORP
 word	O
@@ -303,6 +307,7 @@ Yeol	I-Person
 local	O
 researcher	O
 .	O
+
 They	O
 developed	O
 the	O
@@ -352,6 +357,7 @@ his	O
 expanding	O
 business	O
 .	O
+
 For	O
 this	O
 he	O
@@ -368,6 +374,7 @@ April	B-Date
 ,	I-Date
 2021	I-Date
 .	O
+
 Through	O
 the	O
 Cambodian	B-NORP
@@ -431,6 +438,7 @@ a	O
 global	O
 leader	O
 .	O
+
 Cho	B-Person
 wants	O
 to	O
@@ -543,6 +551,7 @@ awarded	O
 a	O
 lot	O
 .	O
+
 In	O
 September	B-Date
 of	I-Date

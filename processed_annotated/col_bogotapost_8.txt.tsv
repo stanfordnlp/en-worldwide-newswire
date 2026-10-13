@@ -502,6 +502,7 @@ see	O
 happening	O
 enough	O
 .	O
+
 It	O
 is	O
 essential	O
@@ -516,6 +517,7 @@ it	O
 ’s	O
 nuanced	O
 .	O
+
 Some	O
 people	O
 see	O
@@ -551,6 +553,7 @@ and	O
 the	O
 metaverse	O
 .	O
+
 The	O
 challenge	O
 is	O
@@ -614,6 +617,7 @@ not	O
 had	O
 fertilizer	O
 .	O
+
 On	O
 the	O
 other	O
@@ -680,6 +684,7 @@ of	O
 Colombia	B-Location
 )	O
 .	O
+
 Why	O
 did	O
 this	O
@@ -688,6 +693,7 @@ partnership	O
 have	O
 success	O
 ?	O
+
 How	O
 did	O
 you	O
@@ -794,6 +800,7 @@ in	O
 ancient	O
 rituals	O
 .	O
+
 The	O
 patience	O
 and	O
@@ -836,6 +843,7 @@ connect	O
 their	O
 identities	O
 .	O
+
 Mayumi	B-Person
 is	O
 a	O
@@ -859,6 +867,7 @@ are	O
 in	O
 everything	O
 .	O
+
 The	O
 Arhuaca	B-NORP
 may	O
@@ -907,6 +916,7 @@ needs	O
 to	O
 wants	O
 .	O
+
 He	O
 looked	O
 at	O
@@ -921,6 +931,7 @@ always	O
 a	O
 risk	O
 .	O
+
 The	O
 moment	O
 this	O
@@ -938,6 +949,7 @@ it	O
 ends	O
 .	O
 ”	O
+
 This	O
 level	O
 of	O
@@ -982,6 +994,7 @@ extensive	O
 business	O
 plans	O
 .	O
+
 This	O
 takes	O
 moral	O
@@ -1009,6 +1022,7 @@ ever	O
 more	O
 interdependent	O
 .	O
+
 Therefore	O
 ,	O
 what	O
@@ -1031,6 +1045,7 @@ JN	B-Person
 So	O
 much	O
 .	O
+
 In	O
 Colombia	B-Location
 ,	O
@@ -1127,6 +1142,7 @@ for	O
 an	O
 investment	O
 .	O
+
 That	O
 ’s	O
 a	O
@@ -1140,6 +1156,7 @@ time	O
 and	O
 money	O
 .	O
+
 Yet	O
 ,	O
 if	O
@@ -1174,6 +1191,7 @@ partnership	O
 and	O
 accompaniment	O
 .	O
+
 European	B-NORP
 impact	O
 investors	O
@@ -1224,6 +1242,7 @@ Accounts	O
 and	O
 metrics	O
 .	O
+
 Do	O
 you	O
 think	O
@@ -1270,6 +1289,7 @@ for	O
 impact	O
 measurement	O
 .	O
+
 The	O
 fundamental	O
 starting	O
@@ -1317,6 +1337,7 @@ a	O
 particular	O
 product	O
 .	O
+
 With	O
 this	O
 ,	O
@@ -1345,6 +1366,7 @@ or	O
 environmental	O
 impact	O
 .	O
+
 It	O
 is	O
 n’t	O
@@ -1405,6 +1427,7 @@ new	O
 frontier	O
 .	O
 ”	O
+
 What	O
 can	O
 be	O
@@ -1437,6 +1460,7 @@ business	O
 as	O
 usual	O
 .	O
+
 But	O
 the	O
 next	O
@@ -1461,6 +1485,7 @@ to	O
 build	O
 solutions	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -1483,6 +1508,7 @@ at	O
 Acumen	B-Organization
 Academy	I-Organization
 .	O
+
 There	O
 ’s	O
 a	O
@@ -1581,6 +1607,7 @@ unit	O
 they	O
 sell	O
 .	O
+
 That	O
 does	O
 not	O
@@ -1603,6 +1630,7 @@ need	O
 solar	O
 energy	O
 .	O
+
 Cacao	B-Organization
 Hunters	I-Organization
 also	O
@@ -1626,6 +1654,7 @@ end	O
 ice	O
 cream	O
 .	O
+
 That	O
 ’s	O
 a	O
@@ -1651,6 +1680,7 @@ income	O
 to	O
 spend	O
 .	O
+
 This	O
 is	O
 a	O
@@ -1691,6 +1721,7 @@ solve	O
 that	O
 .	O
 ”	O
+
 In	O
 LATAM	B-Organization
 ,	O
@@ -1704,6 +1735,7 @@ to	O
 at	O
 all	O
 .	O
+
 To	O
 scale	O
 the	O
@@ -1717,6 +1749,7 @@ needs	O
 more	O
 partnerships	O
 .	O
+
 Governments	O
 wo	O
 n’t	O

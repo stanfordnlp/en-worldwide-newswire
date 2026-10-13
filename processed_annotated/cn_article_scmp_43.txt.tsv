@@ -105,6 +105,7 @@ by	O
 Gallup	B-Organization
 Korea	I-Organization	B-Location
 .	O
+
 Disapproval	O
 stood	O
 at	O
@@ -776,6 +777,7 @@ the	O
 Yoon	B-Person
 couple	O
 .	O
+
 Some	O
 children	O
 of	O
@@ -1026,6 +1028,7 @@ Jun	I-Person
 -	I-Person
 seok	I-Person
 .	O
+
 The	O
 party	O
 has	O

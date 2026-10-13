@@ -140,6 +140,7 @@ started	O
 in	O
 1904	B-Date
 ..	O
+
 Further	O
 it	O
 was	O
@@ -180,6 +181,7 @@ one	O
 in	O
 Africa	B-Location
 .	O
+
 The	O
 horse	O
 race	O
@@ -242,6 +244,7 @@ Larger	I-Organization
 General	O
 Manager	O
 .	O
+
 His	O
 key	O
 words	O
@@ -254,6 +257,7 @@ were	O
 Zimbabwe	B-Location
 breed	O
 .	O
+
 He	O
 further	O
 said	O
@@ -314,6 +318,7 @@ in	O
 the	O
 country	O
 .	O
+
 This	O
 makes	O
 the	O
@@ -333,6 +338,7 @@ jockeys	O
 in	O
 Zimbabwe	B-Location
 .	O
+
 It	O
 commands	O
 interesting	O
@@ -344,6 +350,7 @@ across	O
 the	O
 region	O
 .	O
+
 In	O
 fact	O
 we	O
@@ -377,6 +384,7 @@ of	O
 the	O
 tankard	O
 .	O
+
 He	O
 said	O
 all	O
@@ -408,10 +416,12 @@ set	O
 in	O
 motion	O
 .	O
+
 We	O
 are	O
 ready	O
 .	O
+
 Competitive	O
 horses	O
 are	O

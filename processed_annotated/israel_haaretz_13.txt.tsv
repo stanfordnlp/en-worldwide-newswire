@@ -676,6 +676,7 @@ she	O
 ’s	O
 smart	O
 .	O
+
 We	O
 knew	O
 she	O
@@ -703,6 +704,7 @@ immune	O
 to	O
 error	O
 .	O
+
 Although	O
 we	O
 are	O
@@ -721,6 +723,7 @@ to	O
 be	O
 fixed	O
 .	O
+
 We	O
 do	O
 n’t	O
@@ -729,6 +732,7 @@ to	O
 assign	O
 blame	O
 .	O
+
 We	O
 are	O
 trying	O
@@ -895,6 +899,7 @@ School	I-Organization
 in	O
 2015	B-Date
 .	O
+
 It	O
 was	O
 reportedly	O
@@ -911,6 +916,7 @@ sexual	O
 abuse	O
 case	O
 .	O
+
 Jack	B-Person
 Rush	I-Person
 ,	O
@@ -1020,6 +1026,7 @@ and	O
 Merav	B-Person
 Michaeli	I-Person
 .	O
+
 They	O
 have	O
 also	O
@@ -1031,6 +1038,7 @@ Chairman	O
 Natan	B-Person
 Sharansky	I-Person
 .	O
+
 They	O
 said	O
 Shaked	B-Person
@@ -1084,6 +1092,7 @@ with	O
 in	O
 Australia	B-Location
 .	O
+
 Turnbull	B-Person
 said	O
 he	O
@@ -1106,6 +1115,7 @@ roller	O
 coaster	O
 ride	O
 .	O
+
 We	O
 have	O
 been	O
@@ -1118,6 +1128,7 @@ meeting	O
 Sapper	B-Person
 said	O
 .	O
+
 “	O
 Everyone	O
 sharing	O
@@ -1132,6 +1143,7 @@ for	O
 the	O
 case	O
 .	O
+
 We	O
 have	O
 been	O
@@ -1222,6 +1234,7 @@ leave	O
 the	O
 country	O
 .	O
+
 Leifer	B-Person
 currently	O
 lives	O
@@ -1294,6 +1307,7 @@ after	O
 the	O
 Holocaust	B-Misc
 .	O
+
 The	O
 sisters	O
 describe	O
@@ -1359,6 +1373,7 @@ to	B-Location
 Adass	I-Location
 Israel	I-Location
 .	O
+
 Erlich	B-Person
 and	O
 Sapper	B-Person
@@ -1376,6 +1391,7 @@ had	O
 ever	O
 known	O
 .	O
+
 It	O
 has	O
 been	O
@@ -1386,6 +1402,7 @@ transition	O
 they	O
 say	O
 .	O
+
 They	O
 had	O
 to	O
@@ -1449,6 +1466,7 @@ trip	O
 to	O
 Israel	B-Location
 .	O
+
 As	O
 far	O
 as	O
@@ -1513,6 +1531,7 @@ by	O
 the	O
 school	O
 .	O
+
 They	O
 were	O
 sharing	O
@@ -1524,6 +1543,7 @@ in	O
 separate	O
 beds	O
 .	O
+
 They	O
 say	O
 that	O
@@ -1545,6 +1565,7 @@ Meyer	B-Person
 ’s	O
 bed	O
 .	O
+
 Erlich	B-Person
 heard	O
 what	O
@@ -1566,6 +1587,7 @@ at	O
 each	O
 other	O
 .	O
+
 “	O
 We	O
 understood	O
@@ -1579,6 +1601,7 @@ words	O
 Erlich	B-Person
 said	O
 .	O
+
 “	O
 But	O
 we	O
@@ -1675,6 +1698,7 @@ sister	O
 about	O
 it	O
 .	O
+
 “	O
 We	O
 did	O
@@ -1724,6 +1748,7 @@ heeded	O
 their	O
 advice	O
 .	O
+
 Later	O
 ,	O
 when	O
@@ -1773,6 +1798,7 @@ at	O
 a	O
 wedding	O
 .	O
+
 I	O
 did	O
 n’t	O
@@ -1785,6 +1811,7 @@ to	O
 tell	O
 everyone	O
 .	O
+
 I	O
 knew	O
 she	O
@@ -1829,6 +1856,7 @@ are	O
 guarded	O
 fiercely	O
 .	O
+
 Any	O
 defamatory	O
 word	O
@@ -1844,6 +1872,7 @@ for	O
 the	O
 children	O
 .	O
+
 The	O
 sisters	O
 say	O
@@ -1878,6 +1907,7 @@ part	O
 of	O
 everything	O
 .	O
+
 We	O
 grew	O
 up	O
@@ -1893,11 +1923,13 @@ an	O
 abusive	O
 house	O
 .	O
+
 We	O
 had	O
 perfect	O
 facades	O
 .	O
+
 But	O
 the	O
 bruises	O

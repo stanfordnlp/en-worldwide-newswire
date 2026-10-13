@@ -489,6 +489,7 @@ re	O
 election	O
 anyway	O
 .	O
+
 During	O
 the	O
 vote	O
@@ -510,6 +511,7 @@ with	O
 centrist	O
 Mesa	B-Person
 .	O
+
 But	O
 then	O
 electoral	O
@@ -520,6 +522,7 @@ for	O
 2	O
 4 hours	O
 .	O
+
 When	O
 they	O
 restarted	O
@@ -534,6 +537,7 @@ a	O
 second	O
 round	O
 .	O
+
 Mass	O
 protests	O
 broke	O
@@ -579,6 +583,7 @@ inexplicable	O
 change	O
 ”	O
 .	O
+
 Under	O
 mounting	O
 pressure	O
@@ -628,6 +633,7 @@ in	O
 Latin	B-Location	B-NORP
 America	I-Location
 .	O
+
 A	O
 New	B-Organization	B-Location
 York	I-Organization	I-Location
@@ -664,6 +670,7 @@ protests	O
 was	O
 flawed	O
 .	O
+
 The	O
 study	O
 by	O
@@ -726,6 +733,7 @@ in	O
 the	O
 2000s	O
 .	O
+
 With	O
 a	O
 Masters	O
@@ -755,6 +763,7 @@ MAS	B-Organization
 Sabatini	B-Person
 says	O
 .	O
+
 “	O
 He	O
 ’s	O
@@ -798,6 +807,7 @@ of	O
 national	O
 unity	O
 .	O
+
 “	O
 We	O
 ’re	O
@@ -839,6 +849,7 @@ departure	O
 from	O
 office	O
 .	O
+
 From	O
 Argentina	B-Location
 ,	O
@@ -863,6 +874,7 @@ in	O
 the	O
 campaign	O
 .	O
+
 Using	O
 Twitter	B-Product
 and	O
@@ -893,6 +905,7 @@ number	O
 one	O
 .	O
 ”	O
+
 When	O
 MAS	B-Organization
 ’	O
@@ -943,6 +956,7 @@ for	O
 two	O
 reasons	O
 .	O
+
 “	O
 The	O
 first	O
@@ -963,6 +977,7 @@ inner	O
 circle	O
 .	O
 ”	O
+
 Though	O
 Arce	B-Person
 was	O
@@ -1004,6 +1019,7 @@ during	O
 the	O
 campaign	O
 .	O
+
 Arce	B-Person
 ’s	O
 chosen	O
@@ -1124,6 +1140,7 @@ to	O
 power	O
 ]	O
 .	O
+
 They	O
 acted	O
 as	O
@@ -1164,6 +1181,7 @@ Bolivia	B-Location
 modern	O
 politics	O
 .	O
+
 Añez	B-Person
 ,	O
 the	O
@@ -1190,6 +1208,7 @@ have	O
 popular	O
 support	O
 .	O
+
 Luis	B-Person
 Fernando	I-Person
 Camacho	I-Person
@@ -1220,6 +1239,7 @@ the	O
 private	O
 polls	O
 .	O
+
 A	O
 relatively	O
 poor	O
@@ -1278,6 +1298,7 @@ of	O
 the	O
 pandemic	O
 .	O
+
 Bolivia	B-Location
 has	O
 suffered	O
@@ -1317,6 +1338,7 @@ Latin	B-NORP
 American	I-NORP
 countries	O
 .	O
+
 But	O
 Bolivia	B-Location
 ’s	O
@@ -1346,6 +1368,7 @@ end	O
 of	O
 2020	B-Date
 .	O
+
 The	O
 government	O
 ’s	O
@@ -1432,6 +1455,7 @@ the	O
 business	O
 community	O
 .	O
+
 “	O
 We	O
 ’ve	O
@@ -1447,6 +1471,7 @@ care	O
 he	O
 says	O
 .	O
+
 “	O
 When	O
 you	O
@@ -1460,11 +1485,13 @@ go	O
 straight	O
 home	O
 .	O
+
 You	O
 need	O
 to	O
 recover	O
 .	O
+
 That	O
 ’s	O
 going	O

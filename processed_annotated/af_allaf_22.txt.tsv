@@ -1303,6 +1303,7 @@ what	O
 cannot	O
 lie	O
 .	O
+
 Let	O
 us	O
 focus	O
@@ -1330,6 +1331,7 @@ portable	O
 transistor	O
 radio	O
 .	O
+
 It	O
 is	O
 their	O
@@ -1337,6 +1339,7 @@ essential	O
 life	O
 tool	O
 .	O
+
 They	O
 get	O
 their	O
@@ -1349,6 +1352,7 @@ Hausa	I-Product
 Research	O
 this	O
 .	O
+
 BBC	B-Product	B-Organization
 Hausa	I-Product
 has	O
@@ -1359,6 +1363,7 @@ listeners	O
 every	O
 week	O
 .	O
+
 VOA	B-Product	B-Organization
 Hausa	I-Product
 service	O
@@ -1371,6 +1376,7 @@ of	O
 21	O
 million	O
 .	O
+
 Another	O
 10	O
 million	O
@@ -1381,6 +1387,7 @@ to	O
 DW	B-Product	B-Organization
 Hausa	I-Product
 .	O
+
 That	O
 is	O
 more	O
@@ -1395,6 +1402,7 @@ and	O
 Instagram	B-Product
 combined	O
 .	O
+
 A	O
 lot	O
 of	O
@@ -1446,6 +1454,7 @@ Waziri	B-Person
 Atiku	I-Person
 Abubakar	I-Person
 .	O
+
 You	O
 boast	O
 that	O
@@ -1459,6 +1468,7 @@ February	B-Date
 ,	I-Date
 2023	I-Date
 .	O
+
 Do	O
 you	O
 know	O
@@ -1470,9 +1480,11 @@ not	O
 on	O
 Twitter	B-Product
 ?	O
+
 190	O
 million	O
 .	O
+
 You	O
 saw	O
 those	O
@@ -1486,6 +1498,7 @@ Buhari	B-Organization
 in	O
 Kano	B-Location
 ?	O
+
 They	O
 listen	O
 to	O
@@ -1509,6 +1522,7 @@ on	O
 the	O
 Internet	O
 .	O
+
 This	O
 does	O
 not	O
@@ -1520,6 +1534,7 @@ are	O
 not	O
 educated	O
 .	O
+
 You	O
 can	O
 be	O
@@ -1537,12 +1552,14 @@ on	O
 social	O
 media	O
 .	O
+
 They	O
 are	O
 not	O
 mutually	O
 exclusive	O
 .	O
+
 Take	O
 time	O
 to	O
@@ -1573,6 +1590,7 @@ an	O
 indecent	O
 place	O
 .	O
+
 A	O
 place	O
 of	O
@@ -1589,6 +1607,7 @@ by	O
 ungodly	O
 tendencies	O
 .	O
+
 So	O
 they	O
 tend	O
@@ -1602,6 +1621,7 @@ preference	O
 for	O
 radios	O
 .	O
+
 However	O
 ,	O
 it	O
@@ -1638,6 +1658,7 @@ level	O
 of	O
 toxicity	O
 .	O
+
 But	O
 that	O
 is	O
@@ -1651,6 +1672,7 @@ use	O
 the	O
 Internet	O
 .	O
+
 They	O
 do	O
 .	O
@@ -1661,6 +1683,7 @@ big	O
 on	O
 TikTok	B-Product
 .	O
+
 They	O
 also	O
 have	O
@@ -1680,6 +1703,7 @@ its	O
 domesticated	O
 languages	O
 .	O
+
 They	O
 use	O
 the	O
@@ -1688,6 +1712,7 @@ for	O
 online	O
 banking	O
 .	O
+
 To	O
 watch	O
 tafsir	B-Misc
@@ -1703,6 +1728,7 @@ Al	B-Misc
 Quran	I-Misc
 online	O
 .	O
+
 They	O
 buy	O
 mobile	O
@@ -1712,6 +1738,7 @@ on	O
 the	O
 Internet	O
 .	O
+
 They	O
 are	O
 Internet	O
@@ -1722,6 +1749,7 @@ social	O
 media	O
 shy	O
 .	O
+
 They	O
 may	O
 not	O
@@ -1753,6 +1781,7 @@ began	O
 last	O
 week	O
 .	O
+
 Southern	B-Location
 Nigeria	I-Location
 was	O
@@ -1766,11 +1795,13 @@ point	O
 of	O
 fixation	O
 .	O
+
 But	O
 observe	O
 the	O
 North	B-Location
 .	O
+
 Big	B-Misc
 Brother	I-Misc
 is	O
@@ -1779,11 +1810,13 @@ big	O
 over	O
 there	O
 .	O
+
 We	O
 have	O
 different	O
 values	O
 .	O
+
 What	O
 Northerners	B-NORP
 come	O
@@ -1823,6 +1856,7 @@ Obidients	B-NORP
 than	O
 usual	O
 .	O
+
 Now	O
 ,	O
 do	O
@@ -1835,10 +1869,12 @@ with	O
 Big	B-Misc
 Brother	I-Misc
 ?	O
+
 It	O
 is	O
 seasonal	O
 .	O
+
 But	O
 in	O
 Northern	B-Location
@@ -1854,6 +1890,7 @@ but	O
 for	O
 radio	O
 .	O
+
 And	O
 it	O
 is	O
@@ -1889,6 +1926,7 @@ as	O
 a	O
 people	O
 .	O
+
 Many	O
 Northerners	B-NORP
 choose	O
@@ -1898,6 +1936,7 @@ out	O
 social	O
 media	O
 .	O
+
 The	O
 vast	O
 majority	O
@@ -1908,6 +1947,7 @@ to	O
 ignore	O
 BBNaija	B-Misc
 .	O
+
 They	O
 largely	O
 consider	O
@@ -1915,6 +1955,7 @@ these	O
 things	O
 haram	O
 .	O
+
 But	O
 they	O
 follow	O
@@ -1960,6 +2001,7 @@ they	O
 are	O
 online	O
 .	O
+
 A	O
 lot	O
 of	O

@@ -1090,6 +1090,7 @@ National	B-Misc
 Planning	I-Misc
 Framework	I-Misc
 .	O
+
 It	O
 will	O
 be	O
@@ -1389,6 +1390,7 @@ scale	O
 it	O
 says	O
 .	O
+
 Local	O
 government	O
 will	O
@@ -1691,6 +1693,7 @@ change	O
 risk	O
 assessment	O
 .	O
+
 All	O
 New	B-NORP
 Zealanders	I-NORP

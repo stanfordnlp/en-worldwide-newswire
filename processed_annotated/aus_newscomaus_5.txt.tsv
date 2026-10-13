@@ -140,6 +140,7 @@ a	O
 nuclear	O
 nation	O
 .	O
+
 The	O
 Australian	B-Organization	B-NORP
 Nuclear	I-Organization
@@ -161,6 +162,7 @@ over	O
 60	O
 years	O
 .	O
+
 A	O
 national	O
 conversation	O
@@ -280,6 +282,7 @@ new	O
 emissions	O
 target	O
 .	O
+
 Bit	O
 more	O
 ambitious	O
@@ -412,6 +415,7 @@ not	O
 modern	O
 anymore	O
 .	O
+
 One	O
 of	O
 the	O
@@ -547,6 +551,7 @@ go	O
 far	O
 enough	O
 .	O
+
 They	O
 are	O
 also	O

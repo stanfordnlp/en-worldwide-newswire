@@ -673,6 +673,7 @@ of	O
 his	O
 hand	O
 .	O
+
 Benjamin	B-Person
 Netanyahu	I-Person
 even	O
@@ -721,6 +722,7 @@ meetings	O
 with	O
 Putin	B-Person
 .	O
+
 The	O
 fact	O
 that	O
@@ -810,6 +812,7 @@ three	O
 months	O
 away	O
 .	O
+
 You	O
 would	O
 n’t	O
@@ -834,6 +837,7 @@ Israel	B-Location
 this	O
 year	O
 .	O
+
 There	O
 are	O
 already	O
@@ -869,6 +873,7 @@ diplomatic	O
 immunity	O
 )	O
 .	O
+
 Once	O
 they	O
 are	O
@@ -890,6 +895,7 @@ out	O
 of	O
 Russia	B-Location
 .	O
+
 This	O
 is	O
 where	O
@@ -990,6 +996,7 @@ Agency	I-Organization
 ’s	O
 role	O
 .	O
+
 But	O
 after	O
 this	O

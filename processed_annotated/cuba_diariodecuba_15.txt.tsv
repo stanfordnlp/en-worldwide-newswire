@@ -386,6 +386,7 @@ people	O
 were	O
 born	O
 .	O
+
 This	O
 fall	O
 was	O
@@ -485,6 +486,7 @@ Government	B-Organization
 of	I-Organization
 Cuba	I-Organization	B-Location
 .	O
+
 At	O
 a	O
 meeting	O

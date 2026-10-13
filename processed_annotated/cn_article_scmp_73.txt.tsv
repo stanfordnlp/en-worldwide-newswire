@@ -88,6 +88,7 @@ question	O
 speaks	O
 volumes	O
 .	O
+
 Diantao	B-Organization
 ,	O
 the	O
@@ -310,6 +311,7 @@ a	O
 clothing	O
 store	O
 .	O
+
 After	O
 jumping	O
 into	O
@@ -352,6 +354,7 @@ upon	O
 their	O
 popularity	O
 .	O
+
 Douyin	B-Organization
 ,	O
 the	O
@@ -399,6 +402,7 @@ salesman	O
 called	O
 Xinba	B-Person
 .	O
+
 Influencers	O
 became	O
 the	O
@@ -476,6 +480,7 @@ a	O
 tax	O
 investigation	O
 .	O
+
 Viya	B-Person
 ,	O
 who	O
@@ -502,6 +507,7 @@ for	O
 tax	O
 evasion	O
 .	O
+
 Literally	O
 overnight	O
 ,	O
@@ -593,6 +599,7 @@ on	O
 June	B-Date
 3	I-Date
 .	O
+
 At	O
 the	O
 time	O
@@ -632,6 +639,7 @@ shaped	O
 ice	O
 cream	O
 .	O
+
 The	O
 tank	O
 image	O
@@ -731,6 +739,7 @@ expand	O
 to	O
 China	B-Location
 .	O
+
 “	O
 Platforms	O
 are	O
@@ -784,6 +793,7 @@ according	O
 to	O
 analysts	O
 .	O
+
 “	O
 In	O
 the	O
@@ -867,6 +877,7 @@ broader	O
 economic	O
 slowdown	O
 .	O
+
 The	O
 country	O
 ’s	O
@@ -931,6 +942,7 @@ been	O
 hardest	O
 hit	O
 .	O
+
 Diantao	B-Product
 ,	O
 Taobao	B-Organization
@@ -976,6 +988,7 @@ market	O
 intelligence	O
 firm	O
 .	O
+
 No	O
 influencer	O
 from	O
@@ -1086,6 +1099,7 @@ platforms	O
 like	O
 Kuaishou	B-Product
 .	O
+
 However	O
 ,	O
 Kuaishou	B-Product
@@ -1222,6 +1236,7 @@ streaming	O
 she	O
 said	O
 .	O
+
 ByteDance	B-Organization
 is	O
 leveraging	O
@@ -1284,6 +1299,7 @@ tale	O
 for	O
 others	O
 .	O
+
 Both	O
 influencers	O
 had	O
@@ -1417,6 +1433,7 @@ in	O
 combating	O
 poverty	O
 .	O
+
 She	O
 was	O
 also	O
@@ -1478,6 +1495,7 @@ the	O
 top	O
 influencers	O
 .	O
+
 “	O
 When	O
 we	O
@@ -1502,6 +1520,7 @@ market	O
 price	O
 ]	O
 .	O
+
 That	O
 means	O
 brands	O
@@ -1589,6 +1608,7 @@ the	O
 top	O
 players	O
 .	O
+
 “	O
 The	O
 demand	O

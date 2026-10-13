@@ -369,6 +369,7 @@ Hyundai	B-Organization
 Heavy	I-Organization
 Industries	I-Organization
 .	O
+
 He	O
 also	O
 holds	O
@@ -401,6 +402,7 @@ Hyundai	B-Organization
 Global	I-Organization
 Service	I-Organization
 .	O
+
 Chung	B-Person
 is	O
 vice	O
@@ -469,12 +471,14 @@ entered	O
 Yonsei	B-Organization
 University	I-Organization
 .	O
+
 He	O
 majored	O
 economics	O
 at	O
 Yonsei	B-Organization
 .	O
+
 After	O
 graduation	O
 Chung	B-Person
@@ -506,6 +510,7 @@ Hyundai	B-Organization
 Heavy	I-Organization
 Industries	I-Organization
 .	O
+
 However	O
 he	O
 had	O
@@ -525,6 +530,7 @@ study	O
 at	O
 Stanford	B-Location
 .	O
+
 He	O
 had	O
 to	O
@@ -546,6 +552,7 @@ to	O
 executive	O
 director	O
 .	O
+
 Then	O
 he	O
 took	O
@@ -688,6 +695,7 @@ with	O
 ordinary	O
 people	O
 .	O
+
 He	O
 is	O
 also	O

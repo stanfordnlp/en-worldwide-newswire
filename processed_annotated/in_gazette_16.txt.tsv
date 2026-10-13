@@ -544,6 +544,7 @@ x	O
 7	O
 business	O
 .	O
+
 Party	O
 workers	O
 ,	O
@@ -569,6 +570,7 @@ the	O
 master	O
 bedroom	O
 .	O
+
 You	O
 cannot	O
 be	O
@@ -577,6 +579,7 @@ part	O
 time	O
 politician	O
 .	O
+
 You	O
 cannot	O
 campaign	O
@@ -606,6 +609,7 @@ Bal	I-Person
 fashion	O
 shows	O
 .	O
+
 That	O
 is	O
 not	O
@@ -641,6 +645,7 @@ some	O
 exotic	O
 locations	O
 .	O
+
 At	O
 the	O
 confederation	O
@@ -673,6 +678,7 @@ Lokmanya	B-Facility	B-Person
 Tilak	I-Facility	I-Person
 Express	I-Facility
 .	O
+
 En	O
 route	O
 he	O
@@ -721,6 +727,7 @@ given	O
 more	O
 teeth	O
 .	O
+
 That	O
 seemed	O
 to	O
@@ -731,12 +738,14 @@ of	O
 his	O
 song	O
 .	O
+
 That	O
 was	O
 eight	O
 years	O
 ago	O
 .	O
+
 If	O
 there	O
 is	O
@@ -764,6 +773,7 @@ out	O
 of	O
 power	O
 .	O
+
 And	O
 ,	O
 there	O
@@ -790,6 +800,7 @@ Trinity	B-Organization
 continues	O
 regardless	O
 .	O
+
 The	O
 party	O
 was	O
@@ -812,6 +823,7 @@ to	O
 the	O
 Gandhis	B-NORP
 ?	O
+
 This	O
 becomes	O
 the	O
@@ -820,6 +832,7 @@ after	O
 every	O
 debacle	O
 .	O
+
 Meanwhile	O
 ,	O
 leaders	O
@@ -884,6 +897,7 @@ in	O
 August	B-Date
 2020	I-Date
 .	O
+
 Please	O
 take	O
 decisions	O
@@ -894,9 +908,11 @@ party	O
 its	O
 direction	O
 .	O
+
 No	O
 response	O
 .	O
+
 Ok	O
 ,	O
 say	O
@@ -912,6 +928,7 @@ in	O
 May	B-Date
 2021	I-Date
 .	O
+
 Maybe	O
 ,	O
 the	O
@@ -921,6 +938,7 @@ recover	O
 some	O
 ground	O
 .	O
+
 A	O
 slightly	O
 reassured	O
@@ -934,11 +952,13 @@ bring	O
 about	O
 changes	O
 .	O
+
 Keep	O
 our	O
 fingers	O
 crossed	O
 .	O
+
 Come	O
 the	O
 May	B-Date
@@ -976,6 +996,7 @@ a	O
 critical	O
 time	O
 ?	O
+
 (	O
 They	O
 will	O
@@ -993,6 +1014,7 @@ in	O
 Lakhimpur	B-Location
 Kheri	I-Location
 .	O
+
 Who	O
 knows	O
 ,	O
@@ -1024,6 +1046,7 @@ the	O
 general	O
 elections	O
 .	O
+
 The	O
 delusion	O
 is	O
@@ -1094,6 +1117,7 @@ grabbed	O
 primetime	O
 attention	O
 .	O
+
 But	O
 the	O
 fact	O
@@ -1115,6 +1139,7 @@ and	O
 Narendra	B-Person
 Modi	I-Person
 .	O
+
 By	O
 themselves	O
 ,	O
@@ -1126,6 +1151,7 @@ threat	O
 to	O
 Modi	B-Person
 .	O
+
 To	O
 the	O
 contrary	O

@@ -113,6 +113,7 @@ about	O
 2 hours	O
 north	O
 .	O
+
 Apart	O
 from	O
 the	O
@@ -132,6 +133,7 @@ to	O
 bother	O
 with	O
 .	O
+
 I	O
 went	O
 to	O
@@ -164,6 +166,7 @@ delightfully	O
 above	O
 expectations	O
 .	O
+
 As	O
 well	O
 ,	O
@@ -213,6 +216,7 @@ roads	O
 in	O
 Ethiopia	B-Location
 .	O
+
 It	O
 took	O
 us	O
@@ -244,6 +248,7 @@ animals	O
 and	O
 pedestrians	O
 .	O
+
 The	O
 scenery	O
 is	O
@@ -273,6 +278,7 @@ means	O
 forty	O
 springs	O
 .	O
+
 It	O
 is	O
 really	O
@@ -291,6 +297,7 @@ on	O
 the	O
 escarpment	O
 .	O
+
 In	O
 the	O
 upper	O
@@ -304,6 +311,7 @@ and	O
 interesting	O
 spots	O
 .	O
+
 This	O
 includes	O
 the	O
@@ -341,6 +349,7 @@ the	O
 Nechisar	B-Facility
 Park	I-Facility
 .	O
+
 A	O
 nearby	O
 restaurant	O
@@ -361,6 +370,7 @@ up	O
 to	O
 expectations	O
 .	O
+
 Apart	O
 from	O
 quite	O
@@ -388,6 +398,7 @@ in	O
 old	O
 movies	O
 .	O
+
 We	O
 talked	O
 about	O
@@ -410,6 +421,7 @@ wearing	O
 any	O
 underwear	O
 .	O
+
 Regrettably	O
 ,	O
 I	O
@@ -446,6 +458,7 @@ coming	O
 into	O
 town	O
 .	O
+
 As	O
 usual	O
 there	O
@@ -482,6 +495,7 @@ desultory	O
 little	O
 compound	O
 .	O
+
 My	O
 first	O
 time	O
@@ -494,6 +508,7 @@ for	O
 two	O
 nights	O
 .	O
+
 Theoretically	O
 you	O
 would	O
@@ -528,6 +543,7 @@ this	O
 on	O
 us	O
 .	O
+
 The	O
 rates	O
 were	O
@@ -537,6 +553,7 @@ the	O
 conditions	O
 basic	O
 .	O
+
 There	O
 was	O
 a	O
@@ -559,6 +576,7 @@ space	O
 for	O
 tents	O
 .	O
+
 The	O
 water	O
 is	O
@@ -574,6 +592,7 @@ let	O
 alone	O
 drinking	O
 .	O
+
 We	O
 were	O
 well	O
@@ -597,6 +616,7 @@ sightings	O
 in	O
 Ethiopia	B-Location
 .	O
+
 I	O
 spent	O
 many	O
@@ -620,6 +640,7 @@ and	O
 the	O
 facilities	O
 .	O
+
 Having	O
 no	O
 facilities	O
@@ -642,6 +663,7 @@ fun	O
 and	O
 adventure	O
 .	O
+
 But	O
 if	O
 you	O
@@ -662,6 +684,7 @@ did	O
 not	O
 disappoint	O
 .	O
+
 We	O
 saw	O
 gazelle	O
@@ -749,6 +772,7 @@ a	O
 local	O
 market	O
 .	O
+
 Unfortunately	O
 the	O
 level	O
@@ -782,6 +806,7 @@ crocodiles	O
 swimming	O
 around	O
 .	O
+
 Lake	B-Location
 Chamo	I-Location
 is	O
@@ -816,6 +841,7 @@ the	O
 big	O
 crocs	O
 .	O
+
 They	O
 must	O
 know	O
@@ -833,6 +859,7 @@ have	O
 been	O
 bad	O
 .	O
+
 Last	O
 year	O
 there	O
@@ -859,6 +886,7 @@ for	O
 some	O
 time	O
 .	O
+
 Hopefully	O
 the	O
 construction	O
@@ -874,6 +902,7 @@ has	O
 improved	O
 access	O
 .	O
+
 I	O
 ’m	O
 sure	O
@@ -922,6 +951,7 @@ the	O
 Gods	O
 ’	O
 .	O
+
 This	O
 is	O
 where	O
@@ -937,6 +967,7 @@ hundreds	O
 of	O
 zebras	O
 .	O
+
 But	O
 be	O
 careful	O
@@ -1010,11 +1041,13 @@ them	O
 at	O
 night	O
 .	O
+
 It	O
 was	O
 very	O
 scary	O
 !	O
+
 After	O
 the	O
 first	O
@@ -1045,6 +1078,7 @@ in	O
 the	O
 morning	O
 .	O
+
 We	O
 did	O
 n’t	O
@@ -1052,6 +1086,7 @@ worry	O
 about	O
 it	O
 .	O
+
 The	O
 second	O
 night	O
@@ -1075,6 +1110,7 @@ night	O
 at	O
 intervals	O
 .	O
+
 The	O
 voice	O
 box	O
@@ -1094,6 +1130,7 @@ carries	O
 for	O
 miles	O
 .	O
+
 This	O
 one	O
 started	O
@@ -1114,6 +1151,7 @@ hour	O
 or	O
 so	O
 .	O
+
 We	O
 scrambled	O
 to	O
@@ -1132,6 +1170,7 @@ guarding	O
 the	O
 camp	O
 .	O
+
 By	O
 10 PM	O
 the	O
@@ -1154,6 +1193,7 @@ to	O
 their	O
 tents	O
 .	O
+
 We	O
 then	O
 heard	O
@@ -1174,8 +1214,10 @@ of	O
 our	O
 camp	O
 !	O
+
 Great	O
 !	O
+
 Two	O
 lions	O
 were	O
@@ -1208,6 +1250,7 @@ in	O
 the	O
 tent	O
 .	O
+
 I	O
 was	O
 woken	O
@@ -1237,6 +1280,7 @@ in	O
 the	O
 cars	O
 .	O
+
 I	O
 mumbled	O
 sleepily	O
@@ -1258,6 +1302,7 @@ back	O
 to	O
 sleep	O
 .	O
+
 I	O
 woke	O
 up	O
@@ -1271,6 +1316,7 @@ to	O
 my	O
 relief	O
 .	O
+
 The	O
 lion	O
 had	O
@@ -1304,6 +1350,7 @@ boy	O
 girl	O
 friend	O
 .	O
+
 I	O
 was	O
 glad	O
@@ -1324,6 +1371,7 @@ a	O
 great	O
 trip	O
 .	O
+
 If	O
 you	O
 survive	O
@@ -1333,6 +1381,7 @@ they	O
 ’re	O
 great	O
 .	O
+
 If	O
 you	O
 do	O

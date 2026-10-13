@@ -199,6 +199,7 @@ in	O
 Nicaraguan	B-NORP
 history	O
 .	O
+
 The	O
 general	O
 indignation	O
@@ -359,6 +360,7 @@ Murillo	I-Person
 family	O
 dictatorship	O
 .	O
+
 A	O
 totalitarian	O
 dictatorship	O
@@ -515,6 +517,7 @@ the	O
 collective	O
 memory	O
 .	O
+
 They	O
 have	O
 denigrated	O
@@ -659,6 +662,7 @@ of	O
 the	O
 paramilitaries	O
 .	O
+
 A	O
 tyrant	O
 entrenched	O
@@ -717,6 +721,7 @@ no	O
 longer	O
 govern	O
 .	O
+
 And	O
 they	O
 cannot	O
@@ -747,6 +752,7 @@ without	O
 political	O
 prisoners	O
 .	O
+
 Entrepreneurs	O
 ,	O
 producers	O
@@ -773,6 +779,7 @@ with	O
 no	O
 future	O
 .	O
+
 The	O
 Sandinistas	B-Organization
 themselves	O

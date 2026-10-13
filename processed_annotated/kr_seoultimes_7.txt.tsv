@@ -42,6 +42,7 @@ Korean	I-NORP
 markets	O
 recently	O
 .	O
+
 The	O
 Korean	B-NORP
 representative	O
@@ -79,6 +80,7 @@ The	B-Organization
 Seoul	I-Organization	B-Location
 Times	I-Organization
 .	O
+
 Here	O
 are	O
 the	O
@@ -115,6 +117,7 @@ South	B-NORP
 Korean	I-NORP
 market	O
 .	O
+
 Could	O
 you	O
 tell	O
@@ -161,6 +164,7 @@ a	O
 long	O
 distance	O
 .	O
+
 TechNovator	B-Product	B-Organization
 XE	I-Product
 is	O
@@ -206,6 +210,7 @@ humans	O
 and	O
 animals	O
 .	O
+
 During	O
 five	O
 years	O
@@ -237,6 +242,7 @@ our	O
 project	O
 worldwide	O
 .	O
+
 South	B-Location
 Korea	I-Location
 is	O
@@ -246,6 +252,7 @@ our	O
 key	O
 markets	O
 .	O
+
 South	B-Location
 Korea	I-Location
 is	O
@@ -279,6 +286,7 @@ and	O
 engineering	O
 graduates	O
 .	O
+
 Korea	B-Location
 is	O
 a	O
@@ -326,6 +334,7 @@ and	O
 precise	O
 manner	O
 .	O
+
 The	O
 manufacturing	O
 capability	O
@@ -351,6 +360,7 @@ process	O
 innovation	O
 capability	O
 .	O
+
 Here	O
 in	O
 South	B-Location
@@ -390,11 +400,13 @@ headquartered	O
 in	O
 Poland	B-Location
 .	O
+
 When	O
 was	O
 it	O
 established	O
 ?	O
+
 What	O
 are	O
 the	O
@@ -418,6 +430,7 @@ five	O
 years	O
 ago	O
 .	O
+
 It	O
 was	O
 a	O
@@ -435,6 +448,7 @@ best	O
 technical	O
 talents	O
 .	O
+
 The	O
 company	O
 is	O
@@ -458,6 +472,7 @@ and	O
 business	O
 expertise	O
 .	O
+
 The	O
 team	O
 is	O
@@ -474,6 +489,7 @@ conducts	O
 its	O
 business	O
 .	O
+
 Product	O
 development	O
 and	O
@@ -492,6 +508,7 @@ for	O
 this	O
 purpose	O
 .	O
+
 Since	O
 2014	B-Date
 ,	O
@@ -513,6 +530,7 @@ in	O
 this	O
 laboratory	O
 .	O
+
 However	O
 ,	O
 not	O
@@ -552,6 +570,7 @@ complex	O
 CNC	O
 machines	O
 .	O
+
 For	O
 this	O
 moment	O
@@ -590,6 +609,7 @@ you	O
 Seoul	B-Location
 branch	O
 ?	O
+
 When	O
 did	O
 you	O
@@ -597,6 +617,7 @@ open	O
 the	O
 branch	O
 ?	O
+
 And	O
 why	O
 did	O
@@ -621,6 +642,7 @@ here	O
 in	O
 Korea	B-Location
 .	O
+
 The	O
 main	O
 purposes	O
@@ -638,6 +660,7 @@ into	O
 different	O
 products	O
 .	O
+
 Also	O
 we	O
 are	O
@@ -675,6 +698,7 @@ improve	O
 the	O
 technology	O
 .	O
+
 Actually	O
 ,	O
 we	O
@@ -697,6 +721,7 @@ use	O
 our	O
 technology	O
 .	O
+
 As	O
 such	O
 global	O
@@ -719,6 +744,7 @@ with	O
 global	O
 companies	O
 .	O
+
 We	O
 start	O
 negotiation	O
@@ -741,6 +767,7 @@ market	O
 nearest	O
 future	O
 .	O
+
 We	O
 also	O
 have	O
@@ -769,6 +796,7 @@ wireless	O
 recharging	O
 technology	O
 .	O
+
 And	O
 your	O
 company	O
@@ -783,6 +811,7 @@ company	O
 over	O
 it	O
 .	O
+
 Can	O
 you	O
 specify	O
@@ -829,6 +858,7 @@ in	O
 Korean	B-NORP
 branch	O
 ?	O
+
 What	O
 do	O
 you	O
@@ -863,6 +893,7 @@ founder	O
 of	O
 TechNovator	B-Organization
 .	O
+
 Here	O
 in	O
 South	B-Location
@@ -875,6 +906,7 @@ role	O
 of	O
 CEO	O
 .	O
+
 Last	O
 year	O
 we	O
@@ -893,6 +925,7 @@ supported	O
 by	O
 NIPA	B-Organization
 .	O
+
 It	O
 was	O
 good	O
@@ -903,6 +936,7 @@ for	O
 the	O
 start	O
 .	O
+
 We	O
 have	O
 received	O
@@ -927,6 +961,7 @@ the	O
 Korean	B-NORP
 market	O
 .	O
+
 Especially	O
 for	O
 us	O
@@ -974,6 +1009,7 @@ to	O
 be	O
 successful	O
 .	O
+
 I	O
 was	O
 involved	O
@@ -988,6 +1024,7 @@ successful	O
 business	O
 relations	O
 .	O
+
 Now	O
 we	O
 have	O
@@ -1023,6 +1060,7 @@ is	O
 involved	O
 in	O
 ?	O
+
 Why	O
 do	O
 you	O
@@ -1058,6 +1096,7 @@ wireless	O
 charging	O
 technology	O
 .	O
+
 Many	O
 approaches	O
 and	O
@@ -1067,6 +1106,7 @@ in	O
 such	O
 scope	O
 .	O
+
 I	O
 hope	O
 the	O
@@ -1079,6 +1119,7 @@ the	O
 market	O
 soon	O
 .	O
+
 Perhaps	O
 we	O
 will	O
@@ -1097,6 +1138,7 @@ exchange	O
 our	O
 experience	O
 .	O
+
 Many	O
 successful	O
 companies	O
@@ -1107,6 +1149,7 @@ received	O
 government	O
 support	O
 .	O
+
 Mainly	O
 success	O
 depends	O
@@ -1117,6 +1160,7 @@ and	O
 good	O
 collaboration	O
 .	O
+
 I	O
 evaluate	O
 South	B-Location
@@ -1180,6 +1224,7 @@ and	O
 Korean	B-NORP
 people	O
 .	O
+
 I	O
 was	O
 really	O
@@ -1200,6 +1245,7 @@ and	O
 educated	O
 people	O
 .	O
+
 I	O
 ’m	O
 happy	O
@@ -1222,6 +1268,7 @@ family	O
 and	O
 work	O
 .	O
+
 I	O
 like	O
 Korean	B-NORP
@@ -1250,6 +1297,7 @@ more	O
 about	O
 you	O
 ?	O
+
 The	O
 educational	O
 and	O
@@ -1281,6 +1329,7 @@ Ukraine	B-Location
 in	O
 Poland	B-Location
 .	O
+
 I	O
 like	O
 that	O
@@ -1297,6 +1346,7 @@ from	O
 my	O
 childhood	O
 .	O
+
 I	O
 have	O
 two	O
@@ -1315,6 +1365,7 @@ as	O
 a	O
 Trainer	O
 .	O
+
 I	O
 have	O
 more	O
@@ -1338,6 +1389,7 @@ in	O
 Business	O
 Development	O
 .	O
+
 I	O
 try	O
 to	O
@@ -1371,6 +1423,7 @@ South	B-Location
 Korean	I-Location
 culture	O
 ?	O
+
 Are	O
 there	O
 any	O
@@ -1402,6 +1455,7 @@ in	O
 our	O
 cultures	O
 .	O
+
 Many	O
 positive	O
 and	O
@@ -1412,6 +1466,7 @@ good	O
 life	O
 values	O
 .	O
+
 Every	O
 Sunday	B-Date
 I	O
@@ -1433,6 +1488,7 @@ to	O
 each	O
 other	O
 .	O
+
 That	O
 is	O
 really	O
@@ -1448,6 +1504,7 @@ are	O
 you	O
 hobbies	O
 ?	O
+
 What	O
 do	O
 you	O
@@ -1461,6 +1518,7 @@ body	O
 in	O
 shape	O
 ?	O
+
 What	O
 are	O
 some	O
@@ -1495,6 +1553,7 @@ in	O
 my	O
 past	O
 .	O
+
 Actually	O
 ,	O
 now	O
@@ -1503,6 +1562,7 @@ mostly	O
 as	O
 hobby	O
 .	O
+
 I	O
 like	O
 walking	O
@@ -1524,6 +1584,7 @@ my	O
 working	O
 place	O
 .	O
+
 I	O
 live	O
 in	O
@@ -1536,6 +1597,7 @@ parks	O
 and	O
 rivers	O
 .	O
+
 I	O
 like	O
 sunny	O
@@ -1554,6 +1616,7 @@ from	O
 the	O
 sun	O
 .	O
+
 I	O
 like	O
 a	O
@@ -1564,6 +1627,7 @@ recharge	O
 my	O
 mind	O
 .	O
+
 My	O
 favorite	O
 Korean	B-NORP

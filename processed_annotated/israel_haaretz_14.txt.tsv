@@ -537,6 +537,7 @@ students	O
 to	O
 Australia	B-Location
 .	O
+
 Several	O
 psychiatrists	O
 have	O
@@ -596,6 +597,7 @@ Birger	B-Person
 ’s	O
 allegations	O
 .	O
+
 Litzman	B-Person
 sees	O
 himself	O
@@ -646,6 +648,7 @@ applied	O
 it	O
 continued	O
 .	O
+
 “	O
 This	O
 attempt	O
@@ -693,6 +696,7 @@ close	O
 to	O
 Litzman	B-Person
 .	O
+
 The	O
 man	O
 and	O
@@ -731,6 +735,7 @@ the	O
 legal	O
 process	O
 .	O
+
 The	O
 offender	O
 is	O
@@ -750,6 +755,7 @@ prevent	O
 repeat	O
 offenses	O
 .	O
+
 A	O
 low	O
 risk	O
@@ -787,6 +793,7 @@ risks	O
 of	O
 recidivism	O
 .	O
+
 “	O
 These	O
 are	O

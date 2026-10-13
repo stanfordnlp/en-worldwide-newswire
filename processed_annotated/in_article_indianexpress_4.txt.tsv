@@ -1548,6 +1548,7 @@ semi	O
 skilled	O
 youth	O
 .	O
+
 Being	O
 in	O
 the	O
@@ -1598,6 +1599,7 @@ as	O
 a	O
 whole	O
 .	O
+
 According	O
 to	O
 Schaefer	B-Person
@@ -1622,6 +1624,7 @@ or	O
 West	B-NORP
 Indians	I-NORP
 .	O
+
 He	O
 writes	O
 that	O
@@ -1692,6 +1695,7 @@ Indians	B-NORP
 and	O
 Chinese	B-NORP
 .	O
+
 The	O
 data	O
 ,	O
@@ -1725,6 +1729,7 @@ of	O
 per	O
 cent	O
 .	O
+
 This	O
 is	O
 the	O
@@ -1747,6 +1752,7 @@ at	O
 per	O
 cent	O
 .	O
+
 The	O
 same	O
 study	O
@@ -1778,6 +1784,7 @@ us	O
 three	O
 things	O
 .	O
+
 The	O
 first	O
 is	O
@@ -1796,6 +1803,7 @@ socio	O
 economic	O
 level	O
 .	O
+
 The	O
 second	O
 is	O
@@ -1818,6 +1826,7 @@ for	O
 future	O
 success	O
 .	O
+
 Lastly	O
 ,	O
 we	O
@@ -1865,6 +1874,7 @@ is	O
 Rishi	B-Person
 Sunak	I-Person
 .	O
+
 As	O
 a	O
 third	O
@@ -1900,6 +1910,7 @@ succeed	O
 in	O
 politics	O
 .	O
+
 But	O
 Sunak	B-Person
 ’s	O
@@ -1968,6 +1979,7 @@ any	O
 political	O
 office	O
 .	O
+
 Until	O
 last	O
 week	O
@@ -2008,6 +2020,7 @@ House	B-Organization
 of	I-Organization
 Lords	I-Organization
 .	O
+
 Back	O
 in	O
 the	O
@@ -2048,6 +2061,7 @@ from	O
 Central	B-Location
 Finsbury	I-Location
 .	O
+
 Mancherji	B-Person
 Bhownaggree	I-Person
 ,	O
@@ -2065,6 +2079,7 @@ elected	O
 to	O
 Parliament	B-Organization
 .	O
+
 While	O
 both	O
 advocated	O
@@ -2088,6 +2103,7 @@ suited	O
 for	O
 India	B-Location
 .	O
+
 Naoroji	B-Person
 was	O
 therefore	O
@@ -2160,6 +2176,7 @@ that	O
 post	O
 .	O
 ”	O
+
 The	O
 Prime	O
 Minister	O
@@ -2187,6 +2204,7 @@ an	O
 English	B-NORP
 constituency	O
 .	O
+
 Despite	O
 losing	O
 reelection	O
@@ -2234,6 +2252,7 @@ other	O
 political	O
 capacities	O
 .	O
+
 Lal	B-Person
 Mohan	I-Person
 Ghose	I-Person
@@ -2258,6 +2277,7 @@ British	B-NORP
 in	O
 India	B-Location
 .	O
+
 Additionally	O
 ,	O
 Madame	O
@@ -2355,6 +2375,7 @@ casting	O
 their	O
 votes	O
 .	O
+
 According	O
 to	O
 a	O
@@ -2389,6 +2410,7 @@ to	O
 pay	O
 attention	O
 .	O
+
 In	O
 2015	B-Date
 ,	O
@@ -2408,6 +2430,7 @@ first	O
 Sikh	B-NORP
 member	O
 .	O
+
 The	O
 Conservative	B-Organization
 party	I-Organization
@@ -2491,6 +2514,7 @@ at	O
 per	O
 cent	O
 .	O
+
 Moreover	O
 ,	O
 only	O
@@ -2578,6 +2602,7 @@ terms	O
 of	O
 religion	O
 .	O
+
 While	O
 39	O
 per	O
@@ -2614,6 +2639,7 @@ of	O
 Christians	B-NORP
 agreed	O
 .	O
+
 Hindus	B-NORP
 are	O
 inclined	O
@@ -2641,6 +2667,7 @@ Muslims	B-NORP
 in	O
 general	O
 .	O
+
 This	O
 split	O
 is	O
@@ -2670,6 +2697,7 @@ days	O
 of	O
 migration	O
 .	O
+
 However	O
 as	O
 the	O
@@ -2706,6 +2734,7 @@ days	O
 of	O
 migration	O
 .	O
+
 However	O
 as	O
 the	O
@@ -2802,6 +2831,7 @@ of	O
 the	O
 latter	O
 .	O
+
 However	O
 ,	O
 incrementally	O
@@ -2902,6 +2932,7 @@ the	O
 overall	O
 population	O
 .	O
+
 Indians	B-NORP
 have	O
 been	O
@@ -2949,6 +2980,7 @@ World	B-Misc
 War	I-Misc
 II	I-Misc
 .	O
+
 The	O
 second	O
 wave	O
@@ -2988,6 +3020,7 @@ Kenya	B-Location
 and	O
 Tanzania	B-Location
 .	O
+
 The	O
 families	O
 of	O
@@ -3439,6 +3472,7 @@ pursuing	O
 higher	O
 education	O
 .	O
+
 This	O
 trend	O
 stems	O
@@ -3606,6 +3640,7 @@ for	O
 Indian	B-NORP
 immigration	O
 .	O
+
 This	O
 changed	O
 radically	O
@@ -4940,6 +4975,7 @@ that	O
 post	O
 .	O
 ”	O
+
 The	O
 Prime	O
 Minister	O
@@ -5999,6 +6035,7 @@ so	O
 badly	O
 coveted	O
 .	O
+
 Ironically	O
 ,	O
 that	O

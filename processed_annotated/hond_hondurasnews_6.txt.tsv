@@ -32,6 +32,7 @@ boy	O
 ’s	O
 neck	O
 .	O
+
 The	O
 little	O
 lady	O
@@ -61,6 +62,7 @@ made	O
 island	O
 delicacy	O
 .	O
+
 “	O
 Deme	O
 dos	O
@@ -77,6 +79,7 @@ please	O
 I	O
 say	O
 .	O
+
 As	O
 she	O
 does	O
@@ -93,6 +96,7 @@ of	O
 my	O
 surroundings	O
 .	O
+
 The	O
 white	O
 sand	O
@@ -115,6 +119,7 @@ ocean	O
 out	O
 beyond	O
 .	O
+
 Tropical	O
 birds	O
 soar	O
@@ -131,6 +136,7 @@ countless	O
 palm	O
 branches	O
 .	O
+
 I	O
 take	O
 the	O
@@ -140,6 +146,7 @@ await	O
 their	O
 price	O
 .	O
+
 ‘	O
 Diez	O
 mi	O
@@ -153,6 +160,7 @@ kind	O
 smile	O
 glistening	O
 .	O
+
 Ten	B-Money
 Lempira	I-Money
 (	O
@@ -195,6 +203,7 @@ doubt	O
 unforgettable	O
 paradise	O
 .	O
+
 Having	O
 being	O
 selected	O
@@ -241,6 +250,7 @@ and	O
 volcanic	O
 islands	O
 .	O
+
 Populated	O
 solely	O
 by	O
@@ -264,6 +274,7 @@ and	O
 every	O
 visitor	O
 .	O
+
 The	O
 name	O
 itself	O
@@ -280,6 +291,7 @@ dirty	O
 cays	O
 ”	O
 .	O
+
 “	O
 Cochino	O
 ”	O
@@ -293,6 +305,7 @@ something	O
 dirty	O
 ’	O
 .	O
+
 In	O
 English	B-NORP
 though	O
@@ -310,6 +323,7 @@ hog	O
 islands	O
 ”	O
 .	O
+
 The	O
 history	O
 to	O
@@ -351,6 +365,7 @@ or	O
 Buccaneers	O
 ’	O
 .	O
+
 Ironic	O
 perhaps	O
 ,	O
@@ -375,6 +390,7 @@ violent	O
 avaricious	O
 rogues	O
 .	O
+
 The	O
 Pirates	O
 themselves	O
@@ -401,6 +417,7 @@ infamous	O
 Henry	B-Person
 Morgan	I-Person
 .	O
+
 Such	O
 characters	O
 being	O
@@ -434,6 +451,7 @@ New	B-Location
 World	I-Location
 ’	O
 .	O
+
 The	O
 Pirates	O
 used	O
@@ -453,6 +471,7 @@ kept	O
 for	O
 food	O
 .	O
+
 They	O
 then	O
 became	O
@@ -511,6 +530,7 @@ small	O
 coral	O
 cays	O
 .	O
+
 The	O
 zone	O
 is	O
@@ -533,6 +553,7 @@ shores	O
 of	O
 Honduras	B-Location
 .	O
+
 Despite	O
 their	O
 being	O
@@ -555,6 +576,7 @@ and	O
 Guanaja	B-Location
 )	O
 .	O
+
 The	O
 tiny	O
 population	O
@@ -566,6 +588,7 @@ a	O
 2001	B-Date
 census	O
 .	O
+
 Managed	O
 by	O
 the	O
@@ -583,6 +606,7 @@ Marine	B-Misc
 Protected	I-Misc
 Area	I-Misc
 .	O
+
 The	O
 coral	O
 reef	O
@@ -605,6 +629,7 @@ American	I-Location	I-NORP
 Barrier	I-Location
 Reef	I-Location
 .	O
+
 A	O
 scientific	O
 research	O
@@ -625,6 +650,7 @@ two	O
 main	O
 islands	O
 .	O
+
 You	O
 can	O
 learn	O
@@ -654,6 +680,7 @@ one	O
 escapes	O
 everything	O
 .	O
+
 This	O
 is	O
 without	O
@@ -676,6 +703,7 @@ leave	O
 all	O
 behind	O
 .	O
+
 There	O
 exist	O
 no	O
@@ -686,6 +714,7 @@ or	O
 even	O
 bikes	O
 .	O
+
 The	O
 exclusive	O
 Resort	O
@@ -709,6 +738,7 @@ Cochinos	I-Location
 Honduras	I-Location
 )	O
 .	O
+
 If	O
 one	O
 opts	O
@@ -736,6 +766,7 @@ all	O
 modern	O
 amenities	O
 .	O
+
 Fully	O
 stocked	O
 bars	O
@@ -763,6 +794,7 @@ and	O
 Paddle	O
 Boarding	O
 .	O
+
 Guided	O
 tours	O
 of	O
@@ -777,6 +809,7 @@ by	O
 the	O
 Resort	O
 .	O
+
 Small	O
 trails	O
 connect	O
@@ -788,6 +821,7 @@ on	O
 Cayo	B-Location
 Grande	I-Location
 .	O
+
 A	O
 lighthouse	O
 stands	O
@@ -800,6 +834,7 @@ this	O
 particular	O
 island	O
 .	O
+
 The	O
 hike	O
 takes	O
@@ -825,6 +860,7 @@ in	O
 the	O
 world	O
 .	O
+
 Moving	O
 onto	O
 the	O
@@ -849,6 +885,7 @@ East	B-Location
 End	I-Location
 ’	O
 .	O
+
 The	O
 inhabitants	O
 or	O
@@ -892,6 +929,7 @@ are	O
 Garifuna	B-NORP
 ’	O
 .	O
+
 The	O
 epic	O
 story	O
@@ -913,6 +951,7 @@ St	B-Location
 .	I-Location
 Vincent	I-Location
 .	O
+
 In	O
 1635	B-Date
 ,	O
@@ -932,6 +971,7 @@ St	B-Location
 .	I-Location
 Vincent	I-Location
 .	O
+
 The	O
 surviving	O
 slaves	O
@@ -945,6 +985,7 @@ Carib	B-NORP
 Amerindian	B-NORP
 settlements	O
 .	O
+
 Over	O
 the	O
 next	O
@@ -971,6 +1012,7 @@ Caribs	I-NORP
 or	O
 Garinagu	B-NORP
 .	O
+
 A	O
 series	O
 of	O
@@ -995,6 +1037,7 @@ June	B-Date
 ,	I-Date
 1796	I-Date
 .	O
+
 The	O
 French	B-NORP
 and	O
@@ -1029,6 +1072,7 @@ Roatan	B-Location
 ,	I-Location
 Honduras	I-Location
 .	O
+
 Shortly	O
 after	O
 ,	O
@@ -1054,6 +1098,7 @@ town	O
 of	O
 Trujillo	B-Location
 .	O
+
 However	O
 ,	O
 a	O
@@ -1085,6 +1130,7 @@ Honduras	I-Location
 now	O
 Belize	B-Location
 .	O
+
 The	O
 Garifuna	B-NORP
 of	O
@@ -1100,6 +1146,7 @@ Islands	I-Location
 in	O
 1965	B-Date
 .	O
+
 They	O
 have	O
 been	O
@@ -1117,6 +1164,7 @@ of	O
 these	O
 cays	O
 .	O
+
 Tourists	O
 can	O
 stay	O
@@ -1138,6 +1186,7 @@ Palm	O
 thatched	O
 huts	O
 .	O
+
 The	O
 food	O
 provided	O
@@ -1164,6 +1213,7 @@ dances	O
 are	O
 performed	O
 .	O
+
 Spanish	B-NORP
 is	O
 the	O
@@ -1212,6 +1262,7 @@ $	B-Money
 per	O
 person	O
 .	O
+
 The	O
 tours	O
 begin	O
@@ -1236,6 +1287,7 @@ of	O
 Sambo	B-Location
 Creek	I-Location
 .	O
+
 From	O
 this	O
 point	O
@@ -1259,6 +1311,7 @@ to	O
 the	O
 islands	O
 .	O
+
 The	O
 boat	O
 whips	O
@@ -1276,6 +1329,7 @@ Honduras	B-Location
 coastline	O
 behind	O
 .	O
+
 Turtle	B-Facility
 Bay	I-Facility
 Eco	I-Facility
@@ -1300,6 +1354,7 @@ from	O
 La	B-Location
 Ceiba	I-Location
 .	O
+
 There	O
 are	O
 in	O
@@ -1330,6 +1385,7 @@ island	O
 of	O
 Róatan	B-Location
 .	O
+
 A	O
 good	O
 website	O
@@ -1341,6 +1397,7 @@ for	O
 more	O
 information	O
 .	O
+
 Travellers	O
 landing	O
 in	O

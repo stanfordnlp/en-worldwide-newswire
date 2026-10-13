@@ -565,6 +565,7 @@ the	O
 United	B-Location
 States	I-Location
 .	O
+
 Thanks	O
 to	O
 a	O
@@ -645,6 +646,7 @@ the	O
 United	B-Location
 States	I-Location
 .	O
+
 Since	O
 late	O
 June	B-Date
@@ -683,6 +685,7 @@ journalists	O
 in	O
 Mexico	B-Location
 .	O
+
 The	O
 Specialized	B-Organization
 General	I-Organization

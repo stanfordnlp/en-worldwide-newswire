@@ -62,6 +62,7 @@ Association	I-Organization
 of	I-Organization
 Thailand	I-Organization	B-Location
 .	O
+
 The	O
 signing	O
 was	O
@@ -104,6 +105,7 @@ and	O
 Asian	B-Misc	B-NORP
 Games	I-Misc
 .	O
+
 He	O
 also	O
 expressed	O
@@ -183,6 +185,7 @@ in	O
 sports	O
 development	O
 .	O
+
 She	O
 also	O
 recalled	O

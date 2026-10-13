@@ -718,6 +718,7 @@ practices	O
 she	O
 says	O
 .	O
+
 “	O
 There	O
 ’s	O
@@ -755,6 +756,7 @@ join	O
 the	O
 board	O
 .	O
+
 Bennett	B-Person
 is	O
 hopeful	O
@@ -770,6 +772,7 @@ schools	O
 will	O
 join	O
 .	O
+
 Schools	O
 that	O
 are	O
@@ -832,6 +835,7 @@ over	O
 the	O
 schools	O
 .	O
+
 This	O
 is	O
 n’t	O
@@ -872,6 +876,7 @@ to	O
 be	O
 successful	O
 .	O
+
 It	O
 will	O
 lift	O
@@ -910,6 +915,7 @@ new	O
 educational	O
 system	O
 .	O
+
 Bennett	B-Person
 says	O
 the	O
@@ -1001,10 +1007,12 @@ There	O
 ’s	O
 anticipation	O
 .	O
+
 There	O
 ’s	O
 anxiety	O
 .	O
+
 Some	O
 are	O
 going	O
@@ -1019,16 +1027,19 @@ in	O
 our	O
 region	O
 ?	O
+
 We	O
 really	O
 want	O
 it	O
 .	O
 ’	O
+
 Others	O
 are	O
 optimistic	O
 .	O
+
 Others	O
 have	O
 said	O
@@ -1079,6 +1090,7 @@ select	O
 a	O
 CEO	O
 .	O
+
 The	O
 CEO	O
 will	O

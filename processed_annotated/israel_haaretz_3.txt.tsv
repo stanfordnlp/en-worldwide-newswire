@@ -278,6 +278,7 @@ being	O
 hanged	O
 ?	O
 ”	O
+
 Wilbushevitz	B-Person
 found	O
 a	O
@@ -371,6 +372,7 @@ fascinated	O
 she	O
 says	O
 .	O
+
 “	O
 There	O
 were	O
@@ -458,6 +460,7 @@ manner	O
 Wilbushevitz	B-Person
 wrote	O
 .	O
+
 “	O
 One	O
 of	O
@@ -489,6 +492,7 @@ surroundings	O
 he	O
 added	O
 .	O
+
 “	O
 That	O
 ’s	O
@@ -509,6 +513,7 @@ in	O
 Tel	B-Location
 Aviv	I-Location
 .	O
+
 I	O
 often	O
 heard	O
@@ -567,6 +572,7 @@ entire	O
 project	O
 ?	O
 ”	O
+
 Wilbushevitz	B-Person
 responded	O
 that	O
@@ -591,6 +597,7 @@ or	O
 unlimited	O
 authority	O
 .	O
+
 Pasha	B-Person
 agreed	O
 to	O
@@ -640,6 +647,7 @@ into	O
 the	O
 army	O
 .	O
+
 “	O
 That	O
 right	O
@@ -700,6 +708,7 @@ from	O
 war	O
 duties	O
 .	O
+
 “	O
 And	O
 in	O
@@ -726,6 +735,7 @@ authorities	O
 he	O
 said	O
 .	O
+
 Among	O
 those	O
 he	O
@@ -831,6 +841,7 @@ soon	O
 as	O
 possible	O
 .	O
+
 He	O
 asked	O
 me	O
@@ -868,6 +879,7 @@ time	O
 Wilbushevitz	B-Person
 wrote	O
 .	O
+
 “	O
 The	O
 group	O
@@ -912,6 +924,7 @@ the	O
 officials	O
 .	O
 ”	O
+
 For	O
 instance	O
 ,	O
@@ -944,6 +957,7 @@ front	O
 of	O
 everyone	O
 .	O
+
 Under	O
 such	O
 conditions	O
@@ -991,6 +1005,7 @@ carpenters	O
 and	O
 blacksmiths	O
 .	O
+
 “	O
 With	O
 these	O
@@ -1008,6 +1023,7 @@ lacked	O
 he	O
 wrote	O
 .	O
+
 Among	O
 other	O
 things	O
@@ -1028,6 +1044,7 @@ stones	O
 and	O
 more	O
 .	O
+
 When	O
 he	O
 needed	O
@@ -1098,6 +1115,7 @@ Turkey	B-Location
 and	O
 Germany	B-Location
 .	O
+
 “	O
 It	O
 was	O
@@ -1118,6 +1136,7 @@ residents	O
 of	O
 Damascus	B-Location
 .	O
+
 But	O
 it	O
 was	O
@@ -1133,6 +1152,7 @@ I	O
 encountered	O
 Germans	B-NORP
 .	O
+
 Antisemitism	B-Person
 typified	O
 the	O
@@ -1191,6 +1211,7 @@ sites	O
 he	O
 managed	O
 .	O
+
 “	O
 I	O
 shouted	O
@@ -1204,6 +1225,7 @@ him	O
 Wilbushevitz	B-Person
 wrote	O
 .	O
+
 Several	O
 days	O
 later	O
@@ -1238,6 +1260,7 @@ Friedrich	B-Person
 von	I-Person
 Wrangel	I-Person
 .	O
+
 The	O
 complaint	O
 went	O
@@ -1277,6 +1300,7 @@ the	O
 Germans	B-NORP
 complained	O
 .	O
+
 The	O
 punishment	O
 they	O
@@ -1295,6 +1319,7 @@ expulsion	O
 from	O
 Damascus	B-Location
 .	O
+
 The	O
 case	O
 was	O
@@ -1340,6 +1365,7 @@ the	O
 Haifa	B-Location
 coast	O
 .	O
+
 Other	O
 projects	O
 included	O
@@ -1387,6 +1413,7 @@ among	O
 other	O
 places	O
 .	O
+
 He	O
 died	O
 in	O
@@ -1419,6 +1446,7 @@ Pasha	B-Person
 negative	O
 image	O
 .	O
+
 Wilbushevitz	B-Person
 said	O
 the	O
@@ -1446,6 +1474,7 @@ be	O
 criminals	O
 .	O
 ”	O
+
 However	O
 ,	O
 after	O

@@ -253,6 +253,7 @@ neighboring	O
 countries	O
 !	O
 !	O
+
 This	O
 resulted	O
 in	O
@@ -273,6 +274,7 @@ the	O
 past	O
 year	O
 .	O
+
 These	O
 crimes	O
 include	O
@@ -300,6 +302,7 @@ to	O
 years	O
 old	O
 .	O
+
 It	O
 was	O
 found	O
@@ -361,6 +364,7 @@ of	O
 alcoholic	O
 drinks	O
 .	O
+
 This	O
 is	O
 implemented	O
@@ -368,6 +372,7 @@ only	O
 in	O
 Kuwait	B-Location
 .	O
+
 God	O
 Almighty	O
 has	O
@@ -453,6 +458,7 @@ sisterly	O
 Gulf	B-Location
 countries	I-Location
 .	O
+
 We	O
 have	O
 visited	O

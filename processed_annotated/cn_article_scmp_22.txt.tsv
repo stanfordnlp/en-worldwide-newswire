@@ -28,6 +28,7 @@ Lost	I-Misc
 in	I-Misc
 America	I-Misc	B-Location
 !	I-Misc
+
 The	O
 film	O
 tells	O
@@ -60,6 +61,7 @@ their	O
 global	O
 debut	O
 .	O
+
 It	O
 is	O
 also	O
@@ -102,6 +104,7 @@ and	O
 on	O
 screen	O
 .	O
+
 So	O
 what	O
 else	O
@@ -124,6 +127,7 @@ become	O
 an	O
 idol	O
 .	O
+
 But	O
 everything	O
 changed	O
@@ -163,6 +167,7 @@ my	O
 school	O
 festival	O
 .	O
+
 Someone	O
 followed	O
 me	O
@@ -178,6 +183,7 @@ programme	O
 Immortal	B-Misc
 Songs	I-Misc
 .	O
+
 “	O
 Back	O
 then	O
@@ -191,6 +197,7 @@ become	O
 a	O
 singer	O
 .	O
+
 I	O
 had	O
 many	O
@@ -238,6 +245,7 @@ and	O
 visual	O
 ”	O
 .	O
+
 However	O
 ,	O
 he	O
@@ -270,6 +278,7 @@ My	B-Misc
 Brilliant	I-Misc
 Life	I-Misc
 .	O
+
 After	O
 appearing	O
 in	O
@@ -305,6 +314,7 @@ home	O
 and	O
 abroad	O
 .	O
+
 By	O
 2020	B-Date
 ,	O
@@ -353,6 +363,7 @@ but	O
 wealthier	O
 too	O
 .	O
+
 He	O
 is	O
 reported	O
@@ -431,6 +442,7 @@ classic	O
 good	O
 looks	O
 .	O
+
 As	O
 a	O
 result	O
@@ -485,6 +497,7 @@ Center	I-Location
 last	O
 year	O
 .	O
+
 He	O
 also	O
 just	O
@@ -515,6 +528,7 @@ brains	O
 to	O
 match	O
 .	O
+
 With	O
 an	O
 IQ	O
@@ -572,6 +586,7 @@ sports	O
 and	O
 music	O
 .	O
+
 Cha	B-Person
 was	O
 the	O
@@ -626,6 +641,7 @@ he	O
 clearly	O
 not	O
 .	O
+
 When	O
 he	O
 was	O
@@ -667,6 +683,7 @@ own	O
 unique	O
 individuality	O
 .	O
+
 When	O
 I	O
 was	O
@@ -696,6 +713,7 @@ be	O
 vain	O
 .	O
 ’	O
+
 I	O
 think	O
 that	O
@@ -823,6 +841,7 @@ as	O
 he	O
 can	O
 .	O
+
 Opening	O
 up	O
 on	O
@@ -847,6 +866,7 @@ to	O
 get	O
 married	O
 …	O
+
 I	O
 should	O
 be	O
@@ -871,6 +891,7 @@ conversation	O
 with	O
 her	O
 .	O
+
 I	O
 know	O
 it	O
@@ -910,6 +931,7 @@ he	O
 meets	O
 her	O
 ?	O
+
 Much	O
 to	O
 fans	O
@@ -953,6 +975,7 @@ and	O
 great	O
 ambience	O
 .	O
+
 I	O
 ’d	O
 like	O

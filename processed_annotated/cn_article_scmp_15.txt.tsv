@@ -50,6 +50,7 @@ sing	O
 on	O
 camera	O
 .	O
+
 Another	O
 time	O
 ,	O
@@ -234,6 +235,7 @@ be	O
 more	O
 different	O
 .	O
+
 As	O
 China	B-Location
 battles	O
@@ -314,6 +316,7 @@ park	O
 this	O
 week	O
 .	O
+
 But	O
 he	O
 has	O
@@ -409,6 +412,7 @@ for	O
 a	O
 month	O
 .	O
+
 To	O
 make	O
 ends	O
@@ -426,6 +430,7 @@ local	O
 mask	O
 factory	O
 .	O
+
 When	O
 he	O
 saw	O
@@ -489,6 +494,7 @@ schedule	O
 he	O
 said	O
 .	O
+
 “	O
 But	O
 while	O
@@ -537,6 +543,7 @@ spot	O
 by	O
 dawn	O
 .	O
+
 Sometimes	O
 ,	O
 he	O
@@ -603,6 +610,7 @@ have	O
 little	O
 choice	O
 .	O
+
 Xiaoxian	B-Person
 is	O
 a	O
@@ -619,6 +627,7 @@ China	I-Location
 Jiangxi	I-Location
 province	I-Location
 .	O
+
 The	O
 attraction	O
 has	O
@@ -693,6 +702,7 @@ in	O
 nearby	O
 cities	O
 .	O
+
 Currently	O
 ,	O
 all	O
@@ -724,6 +734,7 @@ least	O
 three	O
 days	O
 .	O
+
 Few	O
 visitors	O
 are	O
@@ -759,6 +770,7 @@ pandemic	O
 prevention	O
 measures	O
 .	O
+
 In	O
 2021	B-Date
 ,	O
@@ -780,6 +792,7 @@ nearly	O
 per	O
 cent	O
 .	O
+
 This	O
 year	O
 ,	O
@@ -828,6 +841,7 @@ and	O
 provided	O
 support	O
 .	O
+
 The	O
 Huangshan	B-Location
 city	O
@@ -867,6 +881,7 @@ cloud	O
 tourism	O
 ”	O
 .	O
+
 In	O
 March	B-Date
 ,	O
@@ -947,6 +962,7 @@ streaming	O
 various	O
 activities	O
 .	O
+
 One	O
 tourist	O
 even	O
@@ -981,6 +997,7 @@ guides	O
 feel	O
 otherwise	O
 .	O
+
 Most	O
 people	O
 still	O
@@ -1049,6 +1066,7 @@ life	O
 guide	O
 duties	O
 .	O
+
 It	O
 ’s	O
 a	O

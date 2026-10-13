@@ -93,6 +93,7 @@ boy	O
 band	O
 brand	O
 .	O
+
 Although	O
 that	O
 is	O
@@ -199,6 +200,7 @@ performers	O
 and	O
 subgroups	O
 .	O
+
 Currently	O
 ,	O
 the	O
@@ -434,6 +436,7 @@ the	O
 largest	O
 ones	O
 .	O
+
 With	O
 human	O
 existence	O
@@ -606,6 +609,7 @@ to	O
 the	O
 group	O
 .	O
+
 K	B-Misc
 -	I-Misc
 pop	I-Misc
@@ -682,6 +686,7 @@ their	O
 mind	O
 to	O
 .	O
+
 At	O
 what	O
 point	O
@@ -726,6 +731,7 @@ and	O
 loyalty	O
 wavers	O
 .	O
+
 While	O
 flexible	O
 musical	O
@@ -833,6 +839,7 @@ NCT	B-Organization
 so	O
 modular	O
 .	O
+
 NCT	B-Organization
 Dream	I-Organization
 ’s	O
@@ -926,6 +933,7 @@ line	O
 -	O
 up	O
 .	O
+
 Exo	B-Organization
 debuted	O
 in	O
@@ -992,6 +1000,7 @@ is	O
 indeed	O
 impressive	O
 .	O
+
 But	O
 considering	O
 the	O
@@ -1129,6 +1138,7 @@ structure	O
 and	O
 rules	O
 .	O
+
 It	O
 would	O
 be	O

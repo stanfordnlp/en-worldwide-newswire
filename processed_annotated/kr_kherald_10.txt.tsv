@@ -50,6 +50,7 @@ reports	O
 said	O
 Sunday	B-Date
 .	O
+
 They	O
 cited	O
 a	O
@@ -186,6 +187,7 @@ animals	O
 as	O
 objects	O
 .	O
+
 Euthanasia	O
 of	O
 a	O
@@ -305,6 +307,7 @@ scare	O
 it	O
 away	O
 .	O
+
 The	O
 victim	O
 has	O
@@ -351,6 +354,7 @@ charges	O
 of	O
 negligence	O
 .	O
+
 The	O
 dog	O
 was	O

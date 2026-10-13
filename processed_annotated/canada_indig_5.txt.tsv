@@ -347,6 +347,7 @@ a	O
 reasonable	O
 doubt	O
 .	O
+
 This	O
 is	O
 an	O
@@ -370,6 +371,7 @@ Hay	I-Person
 wrote	O
 .	O
 "	O
+
 Ms.	O
 Walker	B-Person
 is	O
@@ -664,6 +666,7 @@ out	O
 of	O
 character	O
 .	O
+
 She	O
 had	O
 been	O
@@ -706,6 +709,7 @@ South	B-Location
 Saskatchewan	I-Location
 River	I-Location
 .	O
+
 Police	O
 learned	O
 someone	O
@@ -812,6 +816,7 @@ Walker	B-Person
 allegedly	O
 stole	O
 .	O
+
 Investigators	O
 were	O
 then	O
@@ -870,6 +875,7 @@ allegedly	O
 stolen	O
 identity	O
 .	O
+
 Investigators	O
 then	O
 contacted	O
@@ -906,6 +912,7 @@ leave	O
 the	O
 building	O
 .	O
+
 The	O
 agent	O
 approached	O

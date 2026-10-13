@@ -16,6 +16,7 @@ earlier	O
 this	O
 month	O
 .	O
+
 Photo	O
 :	O
 Bloomberg	B-Organization
@@ -32,6 +33,7 @@ earlier	O
 this	O
 month	O
 .	O
+
 Photo	O
 :	O
 Bloomberg	B-Organization
@@ -107,6 +109,7 @@ parliament	O
 on	O
 Tuesday	B-Date
 .	O
+
 “	O
 If	O
 we	O
@@ -659,6 +662,7 @@ edible	O
 oil	O
 shortages	O
 .	O
+
 It	O
 traded	O
 at	O

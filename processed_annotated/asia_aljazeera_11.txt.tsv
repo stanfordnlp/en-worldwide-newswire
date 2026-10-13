@@ -270,6 +270,7 @@ in	O
 Central	B-Location
 Asia	I-Location
 .	O
+
 Yet	O
 ,	O
 since	O
@@ -489,6 +490,7 @@ $	B-Money
 500	I-Money
 m	I-Money
 .	O
+
 As	O
 a	O
 landlocked	O
@@ -582,6 +584,7 @@ told	O
 Al	B-Organization
 Jazeera	I-Organization
 .	O
+
 “	O
 Iran	B-Location
 also	O
@@ -599,6 +602,7 @@ its	O
 strategic	O
 interests	O
 .	O
+
 The	O
 northeast	O
 is	O
@@ -642,6 +646,7 @@ Afghanistan	B-Location
 and	O
 Kyrgyzstan	B-Location
 .	O
+
 Shared	O
 fears	O
 about	O
@@ -734,6 +739,7 @@ Afghanistan	B-Location
 explained	O
 Rahimi	B-Person
 .	O
+
 “	O
 Naturally	O
 ,	O
@@ -753,6 +759,7 @@ Russia	B-Location
 and	O
 China	B-Location
 .	O
+
 At	O
 the	O
 same	O
@@ -873,6 +880,7 @@ higher	O
 than	O
 that	O
 .	O
+
 Iran	B-Location
 sees	O
 them	O
@@ -1011,6 +1019,7 @@ for	O
 his	O
 power	O
 .	O
+
 This	O
 is	O
 driven	O
@@ -1028,6 +1037,7 @@ investments	O
 explained	O
 Mamedov	B-Person
 .	O
+
 “	O
 Currently	O
 ,	O
@@ -1133,6 +1143,7 @@ projects	O
 in	O
 Tajikistan	B-Location
 .	O
+
 This	O
 was	O
 pure	O
@@ -1300,6 +1311,7 @@ acquiring	O
 Turkish	B-Product	B-NORP
 drones	I-Product
 .	O
+
 However	O
 ,	O
 Rahmon	B-Person
@@ -1330,6 +1342,7 @@ advantage	O
 explained	O
 Mamedov	B-Person
 .	O
+
 “	O
 That	O
 may	O

@@ -195,6 +195,7 @@ on	O
 their	O
 farms	O
 .	O
+
 So	O
 ,	O
 we	O
@@ -207,6 +208,7 @@ rearing	O
 the	O
 larvae	O
 .	O
+
 We	O
 also	O
 give	O
@@ -218,6 +220,7 @@ day	O
 old	O
 larvae	O
 .	O
+
 The	O
 larvae	O
 eat	O
@@ -227,6 +230,7 @@ collected	O
 from	O
 homes	O
 .	O
+
 After	O
 eight	O
 days	O
@@ -242,12 +246,14 @@ feed	O
 their	O
 livestock	O
 .	O
+
 There	O
 is	O
 also	O
 that	O
 option	O
 .	O
+
 Then	O
 they	O
 retain	O
@@ -288,6 +294,7 @@ on	O
 their	O
 farms	O
 .	O
+
 They	O
 can	O
 produce	O
@@ -296,6 +303,7 @@ quantities	O
 they	O
 want	O
 .	O
+
 It	O
 is	O
 quick	O
@@ -333,6 +341,7 @@ the	O
 larvae	O
 rearing	O
 .	O
+
 A	O
 pungent	O
 smell	O
@@ -367,10 +376,12 @@ larvae	O
 are	O
 eating	O
 .	O
+
 They	O
 are	O
 defecating	O
 .	O
+
 The	O
 ammonia	O
 that	O
@@ -404,6 +415,7 @@ Uganda	B-Location
 capital	O
 Kampala	B-Location
 .	O
+
 She	O
 is	O
 one	O
@@ -468,6 +480,7 @@ like	O
 loam	O
 soil	O
 .	O
+
 The	O
 larvae	O
 are	O
@@ -481,6 +494,7 @@ hub	O
 for	O
 sale	O
 .	O
+
 The	O
 frass	O
 and	O
@@ -530,6 +544,7 @@ burn	O
 the	O
 plants	O
 .	O
+
 So	O
 unlike	O
 manure	O
@@ -611,6 +626,7 @@ on	O
 a	O
 standstill	O
 .	O
+
 We	O
 now	O
 depend	O
@@ -641,6 +657,7 @@ since	O
 late	O
 2020	B-Date
 .	O
+
 The	O
 war	O
 in	O
@@ -670,6 +687,7 @@ Uganda	B-Location
 and	O
 Tanzania	B-Location
 .	O
+
 The	O
 three	O
 countries	O
@@ -746,6 +764,7 @@ fertilise	O
 the	O
 soil	O
 .	O
+
 Lubega	B-Person
 scoops	O
 frass	O
@@ -758,6 +777,7 @@ with	O
 his	O
 hands	O
 .	O
+
 Tiny	O
 maggots	O
 are	O
@@ -785,6 +805,7 @@ you	O
 can	O
 see	O
 .	O
+
 It	O
 is	O
 very	O
@@ -794,6 +815,7 @@ fine	O
 said	O
 Lubega	B-Person
 .	O
+
 “	O
 Manure	O
 from	O
@@ -810,6 +832,7 @@ manure	O
 is	O
 better	O
 .	O
+
 That	O
 from	O
 chicken	O
@@ -821,6 +844,7 @@ of	O
 a	O
 goat	O
 .	O
+
 So	O
 how	O
 about	O
@@ -831,6 +855,7 @@ are	O
 the	O
 smallest	O
 .	O
+
 So	O
 ,	O
 we	O
@@ -890,11 +915,13 @@ the	O
 soil	O
 health	O
 .	O
+
 They	O
 reduce	O
 that	O
 dependency	O
 .	O
+
 If	O
 I	O
 buy	O
@@ -917,6 +944,7 @@ the	O
 next	O
 season	O
 .	O
+
 You	O
 will	O
 need	O
@@ -988,6 +1016,7 @@ all	O
 the	O
 time	O
 ?	O
+
 It	O
 not	O
 different	O
@@ -1123,6 +1152,7 @@ and	O
 soil	O
 health	O
 .	O
+
 We	O
 see	O
 many	O
@@ -1356,6 +1386,7 @@ on	O
 our	O
 farms	O
 .	O
+
 It	O
 ’s	O
 also	O
@@ -1366,6 +1397,7 @@ for	O
 our	O
 environment	O
 .	O
+
 We	O
 have	O
 a	O
@@ -1377,6 +1409,7 @@ cattle	O
 and	O
 livestock	O
 .	O
+
 They	O
 are	O
 producing	O
@@ -1386,6 +1419,7 @@ of	O
 greenhouse	O
 gases	O
 .	O
+
 The	O
 Black	B-Misc
 Soldier	I-Misc
@@ -1429,6 +1463,7 @@ school	O
 can	O
 apply	O
 .	O
+
 And	O
 it	O
 ’s	O

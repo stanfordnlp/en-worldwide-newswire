@@ -119,6 +119,7 @@ in	O
 a	O
 statement	O
 .	O
+
 Separately	O
 ,	O
 New	B-Organization
@@ -192,6 +193,7 @@ three	O
 years	O
 ago	O
 .	O
+
 The	O
 crackdown	O
 of	O
@@ -261,6 +263,7 @@ Kong	I-Organization	I-Location
 Securities	I-Organization
 Association	I-Organization
 .	O
+
 “	O
 It	O
 shows	O
@@ -283,6 +286,7 @@ policyholders	O
 and	O
 investors	O
 .	O
+
 Some	O
 of	O
 the	O
@@ -356,6 +360,7 @@ by	O
 financial	O
 regulators	O
 .	O
+
 Xiao	B-Person
 ,	O
 who	O
@@ -432,6 +437,7 @@ in	O
 errant	O
 lending	O
 .	O
+
 The	O
 Tomorrow	B-Organization
 Group	I-Organization
@@ -483,6 +489,7 @@ according	O
 to	O
 Bloomberg	B-Organization
 .	O
+
 An	O
 unsigned	O
 statement	O
@@ -513,6 +520,7 @@ down	O
 hours	O
 later	O
 .	O
+
 The	O
 authenticity	O
 of	O
@@ -549,6 +557,7 @@ unaffected	O
 CBIRC	B-Organization
 said	O
 .	O
+
 Their	O
 boards	O
 of	O
@@ -618,6 +627,7 @@ Communications	I-Organization
 International	I-Organization
 Trust	I-Organization
 .	O
+
 Each	O
 custodian	O
 will	O
@@ -691,6 +701,7 @@ China	B-Location
 life	O
 insurers	O
 .	O
+
 Several	O
 companies	O
 including	O
@@ -723,6 +734,7 @@ of	O
 Huaxia	B-Organization
 Life	I-Organization
 .	O
+
 No	O
 deal	O
 was	O
@@ -744,6 +756,7 @@ with	O
 the	O
 matter	O
 .	O
+
 Ping	B-Organization
 An	I-Organization
 officials	O
@@ -784,6 +797,7 @@ in	O
 May	B-Date
 2019	I-Date
 .	O
+
 Established	O
 in	O
 1987	B-Date
@@ -836,6 +850,7 @@ six	O
 seized	O
 firms	O
 .	O
+
 It	O
 was	O
 established	O
@@ -968,6 +983,7 @@ end	O
 of	O
 May	B-Date
 .	O
+
 Guosheng	B-Organization
 Securities	I-Organization
 had	O
@@ -1016,6 +1032,7 @@ to	O
 new	O
 shareholders	O
 .	O
+
 The	O
 more	O
 than	O
@@ -1136,6 +1153,7 @@ for	O
 two	O
 years	O
 .	O
+
 The	O
 government	O
 is	O

@@ -320,6 +320,7 @@ be	O
 your	O
 messiah	O
 ?	O
+
 He	O
 has	O
 established	O
@@ -345,6 +346,7 @@ for	O
 big	O
 sport	O
 .	O
+
 He	O
 has	O
 now	O
@@ -362,6 +364,7 @@ two	O
 Parliament	B-Organization
 elections	O
 .	O
+
 The	O
 uncle	O
 he	O
@@ -383,6 +386,7 @@ record	O
 90,000	O
 votes	O
 .	O
+
 Little	O
 wonder	O
 Mualyam	B-Person
@@ -432,6 +436,7 @@ Akhilesh	B-Person
 have	O
 understood	O
 .	O
+
 Akhilesh	B-Person
 was	O
 advised	O
@@ -448,6 +453,7 @@ Azad	B-Organization
 Samaj	I-Organization
 Party	I-Organization
 .	O
+
 He	O
 happens	O
 to	O
@@ -486,6 +492,7 @@ to	O
 the	O
 proposal	O
 .	O
+
 Look	O
 how	O
 Mayawati	B-Person
@@ -508,10 +515,12 @@ BJP	B-Organization
 social	O
 engineering	O
 .	O
+
 And	O
 how	O
 clever	O
 .	O
+
 Field	O
 a	O
 hundreds	O
@@ -545,6 +554,7 @@ represents	O
 the	O
 BJP	B-Organization
 .	O
+
 What	O
 a	O
 cleverly	O
@@ -598,6 +608,7 @@ the	O
 BJP	B-Organization
 numbers	O
 .	O
+
 Compared	O
 to	O
 2017	B-Date
@@ -630,6 +641,7 @@ House	O
 36	O
 seats	O
 .	O
+
 This	O
 inflates	O
 the	O
@@ -668,6 +680,7 @@ SP	B-Organization
 ’s	O
 protection	O
 .	O
+
 Just	O
 as	O
 the	O
@@ -706,6 +719,7 @@ and	O
 so	O
 on	O
 .	O
+
 But	O
 in	O
 due	O
@@ -728,6 +742,7 @@ by	O
 lumpenizing	O
 Hinduism	B-NORP
 .	O
+
 What	O
 gave	O
 it	O
@@ -748,6 +763,7 @@ money	O
 for	O
 housing	O
 .	O
+
 Is	O
 this	O
 not	O
@@ -778,6 +794,7 @@ craggy	O
 rough	O
 edges	O
 ?	O
+
 Or	O
 am	O
 I	O
@@ -839,6 +856,7 @@ names	O
 insult	O
 them	O
 ?	O
+
 They	O
 stay	O
 on	O
@@ -848,6 +866,7 @@ defeat	O
 upon	O
 defeat	O
 .	O
+
 How	O
 thick	O
 can	O
@@ -876,6 +895,7 @@ Gandhis	B-Person
 in	O
 play	O
 .	O
+
 Will	O
 the	O
 love	O
@@ -897,6 +917,7 @@ for	O
 the	O
 BJP	B-Organization
 .	O
+
 The	O
 Congress	B-Organization
 had	O
@@ -906,6 +927,7 @@ pliant	O
 B	O
 team	O
 .	O
+
 Now	O
 it	O
 cannot	O
@@ -917,6 +939,7 @@ as	O
 a	O
 scarecrow	O
 .	O
+
 At	O
 this	O
 precise	O
@@ -938,6 +961,7 @@ head	O
 in	O
 Punjab	B-Location
 .	O
+
 BJP	B-Organization
 ,	O
 Left	O
@@ -960,6 +984,7 @@ for	O
 different	O
 reasons	O
 .	O
+
 Congress	B-Organization
 and	O
 the	O
@@ -975,6 +1000,7 @@ know	O
 not	O
 where	O
 .	O
+
 The	O
 BJP	B-Organization
 sees	O
@@ -1013,6 +1039,7 @@ of	O
 in	O
 2015	B-Date
 ?	O
+
 How	O
 successive	O
 Lt	O
@@ -1029,6 +1056,7 @@ with	O
 the	O
 show	O
 .	O
+
 The	O
 media	O
 was	O
@@ -1036,6 +1064,7 @@ arrayed	O
 against	O
 him	O
 .	O
+
 He	O
 was	O
 soft	O
@@ -1049,6 +1078,7 @@ a	O
 professional	O
 agitator	O
 .	O
+
 What	O
 the	O
 media	O
@@ -1093,6 +1123,7 @@ have	O
 been	O
 doers	O
 .	O
+
 The	O
 effort	O
 was	O
@@ -1123,6 +1154,7 @@ in	O
 his	O
 way	O
 .	O
+
 To	O
 begin	O
 with	O
@@ -1140,8 +1172,10 @@ rhyme	O
 or	O
 reason	O
 .	O
+
 Why	O
 ?	O
+
 Because	O
 Kejriwal	B-Person
 may	O

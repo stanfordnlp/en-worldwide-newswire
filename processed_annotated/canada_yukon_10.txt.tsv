@@ -535,6 +535,7 @@ and	O
 fentanyl	O
 testing	O
 .	O
+
 C	B-Organization
 /	I-Organization
 TFN	I-Organization
@@ -590,6 +591,7 @@ to	O
 the	O
 issue	O
 .	O
+
 She	O
 adds	O
 addictions	O
@@ -626,6 +628,7 @@ the	O
 same	O
 way	O
 .	O
+
 There	O
 ’s	O
 a	O
@@ -713,6 +716,7 @@ for	O
 our	O
 people	O
 .	O
+
 We	O
 need	O
 more	O
@@ -824,6 +828,7 @@ help	O
 she	O
 says	O
 .	O
+
 “	O
 They	O
 need	O
@@ -839,6 +844,7 @@ up	O
 for	O
 us	O
 .	O
+
 They	O
 need	O
 to	O
@@ -994,6 +1000,7 @@ population	O
 of	O
 100,000	O
 .	O
+
 As	O
 of	O
 November	B-Date

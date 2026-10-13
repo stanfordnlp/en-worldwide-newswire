@@ -644,6 +644,7 @@ at	O
 Pantsir	B-Location
 Dabon	I-Location
 .	O
+
 The	O
 Adonten	B-Organization	B-Location
 Division	I-Organization
@@ -710,6 +711,7 @@ Division	I-Organization
 famous	O
 Herbalist	O
 .	O
+
 Bondam	B-Person
 -	O
 settled	O
@@ -868,6 +870,7 @@ was	O
 335	O
 years	O
 .	O
+
 They	O
 ruled	O
 Gomoa	B-Location
@@ -1368,6 +1371,7 @@ he	O
 passed	O
 on	O
 .	O
+
 Due	O
 to	O
 protracted	O
@@ -1827,6 +1831,7 @@ of	O
 this	O
 Memorandum	O
 .	O
+
 This	O
 Memorandum	O
 will	O
@@ -1919,6 +1924,7 @@ in	O
 good	O
 faith	O
 .	O
+
 If	O
 the	O
 dispute	O
@@ -1943,6 +1949,7 @@ dispute	O
 resolution	O
 procedure	O
 .	O
+
 If	O
 the	O
 matter	O

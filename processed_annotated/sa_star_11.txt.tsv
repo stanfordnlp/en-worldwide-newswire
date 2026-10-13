@@ -412,6 +412,7 @@ Cheaper	B-Misc
 Energy	I-Misc
 Bill	I-Misc
 .	O
+
 This	O
 will	O
 drive	O
@@ -465,10 +466,12 @@ electricity	O
 generation	O
 business	O
 .	O
+
 Privatise	O
 electricity	O
 generation	O
 .	O
+
 This	O
 includes	O
 allowing	O
@@ -484,6 +487,7 @@ the	O
 lights	O
 on	O
 .	O
+
 Change	O
 the	O
 law	O
@@ -533,6 +537,7 @@ off	O
 the	O
 grid	O
 .	O
+
 Zero	O
 -	O
 rate	O
@@ -546,6 +551,7 @@ energy	O
 efficient	O
 appliances	O
 .	O
+
 Ease	O
 the	O
 regulatory	O
@@ -637,6 +643,7 @@ than	O
 ever	O
 before	O
 .	O
+
 It	O
 is	O
 apparent	O
@@ -653,6 +660,7 @@ politically	O
 and	O
 administratively	O
 .	O
+
 The	O
 Minister	O
 ,	O
@@ -681,6 +689,7 @@ are	O
 demanding	O
 consequences	O
 .	O
+
 The	O
 Department	B-Organization
 of	I-Organization
@@ -702,6 +711,7 @@ line	O
 function	O
 departments	O
 .	O
+
 Regarding	O
 Eskom	B-Organization
 :	O
@@ -719,6 +729,7 @@ must	O
 be	O
 broken	O
 .	O
+
 Public	O
 -	O
 private	O
@@ -739,6 +750,7 @@ distribution	O
 of	O
 electricity	O
 .	O
+
 Red	O
 -	O
 tape	O

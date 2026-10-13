@@ -1125,6 +1125,7 @@ from	O
 Operation	B-Organization
 Dignity	I-Organization
 !	O
+
 I	O
 answered	O
 with	O
@@ -1249,10 +1250,12 @@ to	O
 the	O
 streets	O
 !	O
+
 This	O
 is	O
 historic	O
 !	O
+
 This	O
 is	O
 historic	O
@@ -1973,6 +1976,7 @@ beat	O
 people	O
 up	O
 ?	O
+
 Yes	O
 ,	O
 and	O

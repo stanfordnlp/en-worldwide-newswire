@@ -364,6 +364,7 @@ off	O
 relief	O
 measures	O
 .	O
+
 The	O
 government	O
 will	O
@@ -413,6 +414,7 @@ by	O
 per	O
 cent	O
 .	O
+
 On	O
 the	O
 other	O
@@ -821,6 +823,7 @@ off	O
 relief	O
 measures	O
 .	O
+
 The	O
 government	O
 will	O
@@ -870,6 +873,7 @@ by	O
 per	O
 cent	O
 .	O
+
 On	O
 the	O
 other	O
@@ -1117,6 +1121,7 @@ mild	O
 and	O
 slow	O
 .	O
+
 I	O
 do	O
 n’t	O
@@ -1128,6 +1133,7 @@ all	O
 she	O
 said	O
 .	O
+
 “	O
 We	O
 still	O
@@ -1207,6 +1213,7 @@ price	O
 of	O
 food	O
 .	O
+
 After	O
 all	O
 ,	O
@@ -1285,6 +1292,7 @@ inflation	O
 she	O
 said	O
 .	O
+
 “	O
 But	O
 low	O
@@ -1324,6 +1332,7 @@ reflection	O
 of	O
 prices	O
 .	O
+
 Ng	B-Person
 suggested	O
 adding	O
@@ -1346,6 +1355,7 @@ prices	O
 and	O
 rents	O
 .	O
+
 Pang	B-Person
 advised	O
 the	O
@@ -1454,6 +1464,7 @@ at	O
 lower	O
 prices	O
 .	O
+
 That	O
 ’s	O
 when	O
@@ -1524,6 +1535,7 @@ visible	O
 to	O
 him	O
 .	O
+
 “	O
 I	O
 used	O
@@ -1564,6 +1576,7 @@ such	O
 restaurants	O
 now	O
 .	O
+
 They	O
 set	O
 most	O
@@ -1603,6 +1616,7 @@ buy	O
 daily	O
 necessities	O
 .	O
+
 “	O
 The	O
 price	O
@@ -1616,6 +1630,7 @@ food	O
 and	O
 stuff	O
 .	O
+
 It	O
 ’s	O
 tough	O
@@ -1644,6 +1659,7 @@ consumer	O
 voucher	O
 scheme	O
 .	O
+
 “	O
 The	O
 voucher	O
@@ -1665,6 +1681,7 @@ policy	O
 to	O
 continue	O
 .	O
+
 Hopefully	O
 ,	O
 the	O

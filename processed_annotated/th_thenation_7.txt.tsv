@@ -115,6 +115,7 @@ said	O
 on	O
 Friday	B-Date
 .	O
+
 The	O
 businessman	O
 was	O
@@ -153,6 +154,7 @@ rai	B-Misc
 hectares	O
 )	O
 .	O
+
 It	O
 is	O
 involved	O
@@ -197,6 +199,7 @@ of	O
 drug	O
 dealing	O
 .	O
+
 He	O
 fled	O
 Songkhla	B-Location
@@ -219,6 +222,7 @@ with	O
 financial	O
 crimes	O
 .	O
+
 His	O
 assets	O
 were	O
@@ -231,6 +235,7 @@ a	O
 pyramid	O
 scheme	O
 .	O
+
 He	O
 fled	O
 from	O
@@ -299,6 +304,7 @@ MBI	B-Organization
 Group	I-Organization
 International	I-Organization
 .	O
+
 Teow	B-Person
 was	O
 also	O

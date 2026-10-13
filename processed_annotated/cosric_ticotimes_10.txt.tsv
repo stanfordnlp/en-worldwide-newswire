@@ -175,6 +175,7 @@ at	O
 8 am	O
 &	O
 4 pm.	O
+
 It	O
 takes	O
 around	O
@@ -182,6 +183,7 @@ around	O
 to	O
 reach	O
 .	O
+
 The	O
 bus	O
 drops	O
@@ -235,6 +237,7 @@ offer	O
 to	O
 everyone	O
 .	O
+
 Though	O
 my	O
 husband	O
@@ -283,6 +286,7 @@ place	O
 for	O
 you	O
 .	O
+
 It	O
 is	O
 close	O
@@ -308,6 +312,7 @@ rich	O
 marine	O
 life	O
 .	O
+
 There	O
 are	O
 many	O
@@ -319,6 +324,7 @@ scuba	O
 diving	O
 tours	O
 .	O
+
 Deep	B-Misc
 Blue	I-Misc
 Diving	I-Misc
@@ -352,6 +358,7 @@ fishing	O
 among	O
 tourists	O
 .	O
+
 You	O
 can	O
 indulge	O
@@ -389,6 +396,7 @@ its	O
 beautiful	O
 sunsets	O
 .	O
+
 With	O
 a	O
 winding	O
@@ -464,6 +472,7 @@ a	O
 boat	O
 tour	O
 .	O
+
 There	O
 are	O
 many	O
@@ -477,6 +486,7 @@ open	O
 sailing	O
 tours	O
 .	O
+
 These	O
 tours	O
 include	O
@@ -522,6 +532,7 @@ near	O
 the	O
 shore	O
 .	O
+
 You	O
 can	O
 walk	O
@@ -556,6 +567,7 @@ Saturday	I-Date
 nights	O
 )	O
 .	O
+
 Do	O
 n’t	O
 be	O
@@ -588,6 +600,7 @@ around	O
 10 pm	O
 )	O
 .	O
+
 Some	O
 of	O
 the	O
@@ -652,6 +665,7 @@ plethora	O
 of	O
 trinkets	O
 .	O
+
 You	O
 also	O
 find	O
@@ -702,6 +716,7 @@ scooters	O
 and	O
 bicycles	O
 .	O
+
 This	O
 is	O
 a	O
@@ -720,6 +735,7 @@ Coco	I-Location
 by	O
 land	O
 .	O
+
 Do	O
 n’t	O
 forget	O
@@ -762,6 +778,7 @@ properties	O
 in	O
 Coco	B-Location
 .	O
+
 Though	O
 most	O
 of	O
@@ -813,6 +830,7 @@ from	O
 the	O
 town	O
 .	O
+
 The	O
 hotel	O
 has	O
@@ -826,6 +844,7 @@ swim	O
 up	O
 bar	O
 .	O
+
 Each	O
 room	O
 comes	O
@@ -839,6 +858,7 @@ fully	O
 equipped	O
 kitchenette	O
 .	O
+
 I	O
 loved	O
 the	O
@@ -867,6 +887,7 @@ restaurants	O
 in	O
 Coco	B-Location
 .	O
+
 Here	O
 are	O
 a	O
@@ -966,6 +987,7 @@ Tico	I-Organization
 ’s	I-Organization
 Bakery	I-Organization
 .	O
+
 The	O
 bus	O
 leaves	O
@@ -1016,6 +1038,7 @@ the	O
 birthday	O
 surprise	O
 .	O
+
 Relaxing	O
 in	O
 peace	O

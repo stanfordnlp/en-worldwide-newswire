@@ -214,6 +214,7 @@ and	O
 prosperous	O
 region	O
 .	O
+
 Special	O
 Envoy	O
 Hammer	B-Person
@@ -266,6 +267,7 @@ Ethiopia	B-Location
 and	O
 Sudan	B-Location
 .	O
+
 At	O
 Parliament	O
 ,	O
@@ -350,6 +352,7 @@ in	O
 north	B-Location
 Sinai	I-Location
 .	O
+
 Special	O
 Envoy	O
 Hammer	B-Person
@@ -412,6 +415,7 @@ December	B-Date
 ,	I-Date
 2022	I-Date
 .	O
+
 Egypt	B-Location
 ’s	O
 participation	O

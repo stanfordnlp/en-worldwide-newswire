@@ -161,6 +161,7 @@ from	O
 her	O
 home	O
 .	O
+
 She	O
 was	O
 sentenced	O
@@ -187,6 +188,7 @@ a	O
 conditional	O
 sentence	O
 .	O
+
 The	O
 judge	O
 based	O
@@ -243,6 +245,7 @@ rejected	O
 the	O
 law	O
 .	O
+
 The	O
 Crown	B-Organization
 then	O
@@ -432,6 +435,7 @@ of	O
 the	O
 option	O
 .	O
+
 That	O
 (	O
 federal	O
@@ -536,11 +540,13 @@ are	O
 real	O
 people	O
 .	O
+
 These	O
 are	O
 real	O
 lives	O
 .	O
+
 Often	O
 they	O
 are	O
@@ -649,6 +655,7 @@ periods	O
 of	O
 time	O
 .	O
+
 “	O
 Limits	O
 to	O
@@ -684,6 +691,7 @@ custody	O
 each	O
 year	O
 .	O
+
 That	O
 number	O
 has	O

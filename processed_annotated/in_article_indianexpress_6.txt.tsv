@@ -221,6 +221,7 @@ Delhi	B-Location
 and	O
 Doordarshan	B-Organization
 .	O
+
 It	O
 was	O
 at	O
@@ -249,6 +250,7 @@ of	O
 film	O
 music	O
 .	O
+
 He	O
 gave	O
 Singh	B-Person
@@ -269,6 +271,7 @@ in	O
 Haqeeqat	B-Misc
 ’	O
 .	O
+
 The	O
 song	O
 was	O

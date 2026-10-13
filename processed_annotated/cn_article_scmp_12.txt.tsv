@@ -20,6 +20,7 @@ but	O
 romantic	O
 comedies	O
 .	O
+
 The	O
 Korean	B-NORP
 entertainment	O
@@ -31,6 +32,7 @@ more	O
 diverse	O
 fare	O
 .	O
+
 In	O
 particular	O
 ,	O
@@ -77,6 +79,7 @@ of	O
 their	O
 seats	O
 .	O
+
 Coming	O
 out	O
 on	O
@@ -136,6 +139,7 @@ Ji	I-Person
 -	I-Person
 yeon	I-Person
 .	O
+
 Joining	O
 them	O
 is	O
@@ -233,6 +237,7 @@ Chanel	B-Organization
 and	O
 DKNY	B-Organization
 .	O
+
 She	O
 debuted	O
 under	O
@@ -372,6 +377,7 @@ show	O
 Happy	B-Misc
 Together	I-Misc
 .	O
+
 Host	O
 Yoo	B-Person
 Jae	I-Person
@@ -398,6 +404,7 @@ a	O
 book	O
 editor	O
 .	O
+
 Jung	B-Person
 then	O
 revealed	O
@@ -461,6 +468,7 @@ a	O
 weather	O
 presenter	O
 .	O
+
 So	O
 ,	O
 she	O
@@ -504,6 +512,7 @@ her	O
 previous	O
 roles	O
 .	O
+
 Describing	O
 her	O
 character	O
@@ -522,6 +531,7 @@ the	O
 top	O
 class	O
 .	O
+
 She	O
 ’s	O
 a	O
@@ -598,6 +608,7 @@ homebody	O
 at	O
 heart	O
 .	O
+
 The	O
 actress	O
 explained	O
@@ -641,6 +652,7 @@ I	O
 was	O
 young	O
 .	O
+
 My	O
 house	O
 was	O

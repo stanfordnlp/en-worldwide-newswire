@@ -495,6 +495,7 @@ early	O
 '	B-Date
 80s	I-Date
 .	O
+
 The	O
 joke	O
 of	O
@@ -555,6 +556,7 @@ of	O
 Arab	B-NORP
 normalization	O
 .	O
+
 In	O
 reality	O
 ,	O
@@ -584,6 +586,7 @@ the	O
 1967	B-Date
 borders	O
 .	O
+
 The	O
 only	O
 way	O
@@ -644,6 +647,7 @@ through	O
 armed	O
 struggle	O
 .	O
+
 The	O
 PA	B-Organization
 is	O
@@ -668,6 +672,7 @@ even	O
 symbolically	O
 anymore	O
 .	O
+
 The	O
 PA	B-Organization
 also	O
@@ -770,6 +775,7 @@ Arabia	I-Location
 toward	O
 Palestine	B-Location
 ?	O
+
 There	O
 are	O
 reports	O
@@ -824,6 +830,7 @@ strategic	O
 in	O
 nature	O
 .	O
+
 Like	O
 Abu	B-Location
 Dhabi	I-Location
@@ -876,6 +883,7 @@ normalization	O
 with	O
 Israel	B-Location
 .	O
+
 In	O
 my	O
 opinion	O
@@ -936,6 +944,7 @@ that	O
 is	O
 left	O
 .	O
+
 Saudi	B-Location
 Arabia	I-Location
 has	O
@@ -978,6 +987,7 @@ best	O
 for	O
 them	O
 .	O
+
 Now	O
 ,	O
 however	O
@@ -1091,6 +1101,7 @@ its	O
 rhetoric	O
 suggests	O
 .	O
+
 Prior	O
 to	O
 Biden	B-Person
@@ -1132,6 +1143,7 @@ to	O
 official	O
 accounts	O
 .	O
+
 The	O
 Arab	B-Misc	B-NORP
 Summit	I-Misc
@@ -1182,6 +1194,7 @@ could	O
 be	O
 achieved	O
 .	O
+
 From	O
 the	O
 get	O
@@ -1242,6 +1255,7 @@ a	O
 horrible	O
 idea	O
 .	O
+
 The	O
 GCC	B-Organization
 nations	O
@@ -1342,6 +1356,7 @@ deterrence	O
 capacity	O
 "	O
 .	O
+
 No	O
 such	O
 thing	O
@@ -1422,6 +1437,7 @@ taken	O
 note	O
 of	O
 .	O
+
 When	O
 Ansarallah	B-Organization
 struck	O
@@ -1459,6 +1475,7 @@ no	O
 military	O
 solution	O
 .	O
+
 This	O
 is	O
 a	O
@@ -1578,6 +1595,7 @@ prioritize	O
 the	O
 issue	O
 .	O
+
 During	O
 Barack	B-Person
 Obama	I-Person
@@ -1624,6 +1642,7 @@ deal	O
 of	O
 2015	B-Date
 .	O
+
 During	O
 the	O
 Trump	B-Date
@@ -1676,6 +1695,7 @@ to	O
 destroy	O
 it	O
 .	O
+
 The	O
 Biden	B-Person
 administration	O
@@ -1745,6 +1765,7 @@ the	O
 Trump	B-Person
 administration	O
 .	O
+
 Whilst	O
 it	O
 was	O

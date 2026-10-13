@@ -304,6 +304,7 @@ is	O
 considered	O
 taboo	O
 .	O
+
 He	O
 drives	O
 to	O
@@ -354,6 +355,7 @@ and	O
 Daphne	B-Person
 Njie	I-Person
 .	O
+
 The	B-Misc
 Fisherman	I-Misc
 ’s	I-Misc

@@ -132,6 +132,7 @@ Marcelo	I-Person
 ,	O
 39	O
 .	O
+
 They	O
 were	O
 allowed	O
@@ -178,6 +179,7 @@ wai	I-Person
 ,	O
 25	O
 .	O
+
 They	O
 have	O
 pleaded	O
@@ -253,6 +255,7 @@ the	O
 false	O
 records	O
 .	O
+
 She	O
 had	O
 been	O
@@ -263,6 +266,7 @@ her	O
 demanding	O
 line	O
 .	O
+
 And	O
 she	O
 had	O
@@ -299,6 +303,7 @@ anti	O
 Covid	B-Misc
 effort	O
 .	O
+
 The	O
 court	O
 also	O
@@ -373,6 +378,7 @@ Ho	B-Person
 's	O
 booth	O
 .	O
+
 Ho	B-Person
 issued	O
 vaccination	O

@@ -121,10 +121,12 @@ father	O
 ’s	O
 shivah	O
 .	O
+
 Something	O
 snapped	O
 inside	O
 .	O
+
 Y	B-Person
 .	O
 ,	O
@@ -142,6 +144,7 @@ approaching	O
 the	O
 rabbi	O
 .	O
+
 “	O
 If	O
 I	O
@@ -181,6 +184,7 @@ moved	O
 to	O
 Israel	B-Location
 .	O
+
 Activists	O
 say	O
 the	O
@@ -251,6 +255,7 @@ the	O
 Jewish	B-NORP
 people	O
 .	O
+
 Israeli	B-NORP
 law	O
 ,	O
@@ -333,6 +338,7 @@ of	O
 Malka	B-Person
 Leifer	I-Person
 .	O
+
 The	O
 headmistress	O
 of	O
@@ -363,6 +369,7 @@ her	O
 female	O
 students	O
 .	O
+
 Leifer	B-Person
 is	O
 facing	O
@@ -632,6 +639,7 @@ fled	O
 to	O
 Israel	B-Location
 .	O
+
 They	O
 were	O
 either	O
@@ -654,6 +662,7 @@ on	O
 tourist	O
 visas	O
 .	O
+
 Though	O
 they	O
 say	O
@@ -705,6 +714,7 @@ their	O
 home	O
 countries	O
 .	O
+
 The	O
 other	O
 half	O
@@ -752,6 +762,7 @@ on	O
 applicants	O
 .	O
 ”	O
+
 Every	O
 year	O
 ,	O
@@ -881,6 +892,7 @@ country	O
 of	O
 residence	O
 .	O
+
 Others	O
 ,	O
 as	O
@@ -906,6 +918,7 @@ sex	O
 offenders	O
 list	O
 .	O
+
 However	O
 ,	O
 according	O
@@ -956,6 +969,7 @@ experience	O
 she	O
 says	O
 .	O
+
 “	O
 And	O
 the	O
@@ -1014,6 +1028,7 @@ the	O
 Jewish	B-NORP
 state	O
 .	O
+
 “	O
 If	O
 the	O
@@ -1040,6 +1055,7 @@ Librati	I-Person
 tells	O
 Haaretz	B-Organization
 .	O
+
 “	O
 It	O
 ’s	O
@@ -1084,6 +1100,7 @@ Yosef	I-Person
 )	I-Person
 Karow	I-Person
 .	O
+
 According	O
 to	O
 Interpol	B-Organization
@@ -1110,6 +1127,7 @@ the	O
 United	B-Location
 States	I-Location
 .	O
+
 According	O
 to	O
 JCW	B-Organization
@@ -1151,6 +1169,7 @@ the	O
 West	B-Location
 Bank	I-Location
 .	O
+
 He	O
 was	O
 arrested	O
@@ -1206,6 +1225,7 @@ Leifer	B-Person
 have	O
 emerged	O
 .	O
+
 In	O
 February	B-Date
 ,	O
@@ -1246,6 +1266,7 @@ abusing	O
 his	O
 daughter	O
 .	O
+
 And	O
 Israel	B-Location
 ’s	O
@@ -1412,6 +1433,7 @@ her	O
 extradition	O
 )	O
 .	O
+
 Litzman	B-Person
 has	O
 denied	O
@@ -1547,6 +1569,7 @@ Director	O
 Meyer	B-Person
 Seewald	I-Person
 .	O
+
 “	O
 We	O
 are	O
@@ -1604,6 +1627,7 @@ and	O
 Nicole	B-Person
 Meyer	I-Person
 .	O
+
 They	O
 issued	O
 a	O
@@ -1641,6 +1665,7 @@ a	O
 better	O
 place	O
 .	O
+
 The	O
 more	O
 courage	O
@@ -1858,6 +1883,7 @@ were	O
 she	O
 explains	O
 .	O
+
 “	O
 It	O
 ’s	O
@@ -1880,6 +1906,7 @@ secrecy	O
 and	O
 darkness	O
 .	O
+
 The	O
 victims	O
 themselves	O
@@ -1971,6 +1998,7 @@ foreign	O
 and	O
 hostile	O
 .	O
+
 And	O
 in	O
 some	O
@@ -2016,6 +2044,7 @@ be	O
 treated	O
 fairly	O
 .	O
+
 However	O
 ,	O
 that	O
@@ -2121,6 +2150,7 @@ to	O
 other	O
 parishes	O
 .	O
+
 In	O
 both	O
 settings	O
@@ -2153,6 +2183,7 @@ in	O
 the	O
 community	O
 .	O
+
 Furthermore	O
 ,	O
 he	O
@@ -2201,6 +2232,7 @@ Blau	B-Person
 tells	O
 Haaretz	B-Organization
 .	O
+
 “	O
 Victims	O
 and	O
@@ -2209,6 +2241,7 @@ families	O
 are	O
 shunned	O
 .	O
+
 There	O
 is	O
 denial	O
@@ -2253,6 +2286,7 @@ about	O
 the	O
 matter	O
 .	O
+
 “	O
 People	O
 are	O
@@ -2323,6 +2357,7 @@ in	O
 the	O
 community	O
 .	O
+
 These	O
 efforts	O
 include	O
@@ -2371,6 +2406,7 @@ welcomes	O
 these	O
 efforts	O
 .	O
+
 But	O
 he	O
 cautions	O
@@ -2443,6 +2479,7 @@ have	O
 done	O
 repentance	O
 .	O
+
 The	O
 community	O
 will	O
@@ -2464,6 +2501,7 @@ but	O
 not	O
 rape	O
 .	O
+
 They	O
 work	O
 to	O
@@ -2474,6 +2512,7 @@ it	O
 he	O
 says	O
 .	O
+
 Waks	B-Person
 adds	O
 that	O
@@ -2520,6 +2559,7 @@ a	O
 fresh	O
 start	O
 .	O
+
 “	O
 But	O
 of	O
@@ -2553,6 +2593,7 @@ victim	O
 or	O
 victims	O
 .	O
+
 So	O
 the	O
 idea	O

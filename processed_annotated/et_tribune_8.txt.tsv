@@ -518,6 +518,7 @@ Gragn	B-Person
 ’s	O
 death	O
 .	O
+
 The	O
 text	O
 stops	O
@@ -537,6 +538,7 @@ was	O
 ever	O
 written	O
 .	O
+
 It	O
 is	O
 ,	O
@@ -614,6 +616,7 @@ places	O
 called	O
 Lalibela	B-Location
 .	O
+
 The	O
 first	O
 ,	O
@@ -706,6 +709,7 @@ the	O
 Amhara	B-NORP
 area	O
 .	O
+
 This	O
 area	O
 it	O
@@ -733,6 +737,7 @@ and	O
 barley	O
 ”	O
 .	O
+
 In	O
 it	O
 ,	O
@@ -753,6 +758,7 @@ and	O
 monks	O
 ”	O
 .	O
+
 It	O
 was	O
 moreover	O
@@ -832,6 +838,7 @@ from	O
 the	O
 cold	O
 .	O
+
 When	O
 somebody	O
 wanted	O
@@ -905,6 +912,7 @@ to	O
 attack	O
 ”	O
 .	O
+
 They	O
 marched	O
 ,	O
@@ -956,6 +964,7 @@ for	O
 its	O
 sake	O
 .	O
+
 The	O
 Imam	O
 ”	O
@@ -972,6 +981,7 @@ at	O
 the	O
 church	O
 .	O
+
 He	O
 had	O
 never	O
@@ -979,6 +989,7 @@ seen	O
 its	O
 like	O
 .	O
+
 It	O
 was	O
 carved	O
@@ -987,6 +998,7 @@ of	O
 the	O
 mountain	O
 .	O
+
 Its	O
 pillars	O
 were	O
@@ -996,6 +1008,7 @@ from	O
 the	O
 mountain	O
 …	O
+
 It	O
 had	O
 a	O
@@ -1039,6 +1052,7 @@ example	O
 at	O
 Lalibela	B-Location
 .	O
+
 But	O
 what	O
 is	O
@@ -1100,6 +1114,7 @@ actually	O
 reach	O
 Lalibela	B-Location
 ?	O
+
 Did	O
 he	O
 see	O
@@ -1115,6 +1130,7 @@ other	O
 adjacent	O
 ones	O
 ?	O
+
 Was	O
 he	O
 deceived	O
@@ -1131,6 +1147,7 @@ one	O
 described	O
 above	O
 ?	O
+
 Was	O
 the	O
 supposed	O
@@ -1147,6 +1164,7 @@ entirely	O
 different	O
 building	O
 ?	O
+
 Or	O
 did	O
 his	O

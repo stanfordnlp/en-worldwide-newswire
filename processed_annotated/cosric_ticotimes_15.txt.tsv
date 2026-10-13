@@ -131,6 +131,7 @@ MEP	B-Organization
 technology	O
 team	O
 .	O
+
 There	O
 are	O
 no	O
@@ -232,6 +233,7 @@ actions	O
 were	O
 implemented	O
 .	O
+
 MEP	B-Organization
 authorities	O
 analyzed	O
@@ -265,6 +267,7 @@ cyber	O
 -	O
 attacks	O
 .	O
+
 At	O
 least	O
 27	O
@@ -302,6 +305,7 @@ Seguro	I-Organization
 Social	I-Organization
 )	O
 .	O
+
 Today	O
 ,	O
 the	O
@@ -330,6 +334,7 @@ investigating	O
 the	O
 incident	O
 .	O
+
 It	O
 is	O
 expected	O
@@ -364,6 +369,7 @@ implementing	O
 cybersecurity	O
 strategies	O
 .	O
+
 He	O
 also	O
 explained	O

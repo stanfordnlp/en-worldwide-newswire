@@ -71,12 +71,14 @@ competitor	O
 Hanyu	B-Person
 said	O
 .	O
+
 “	O
 I	O
 have	O
 no	O
 sadness	O
 .	O
+
 I	O
 want	O
 to	O
@@ -199,6 +201,7 @@ he	O
 finished	O
 fourth	O
 .	O
+
 He	O
 later	O
 revealed	O
@@ -329,6 +332,7 @@ retire	O
 he	O
 said	O
 .	O
+
 “	O
 Ice	O
 shows	O
@@ -351,6 +355,7 @@ of	O
 an	O
 athlete	O
 …	O
+
 I	O
 want	O
 people	O
@@ -549,6 +554,7 @@ wanted	O
 to	O
 take	O
 .	O
+
 I	O
 think	O
 I	O
@@ -680,6 +686,7 @@ Japan	B-Location
 ’s	O
 northeast	O
 .	O
+
 When	O
 the	O
 massive	O

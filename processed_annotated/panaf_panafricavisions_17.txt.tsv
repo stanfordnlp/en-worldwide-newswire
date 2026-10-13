@@ -70,6 +70,7 @@ to	O
 cross	O
 ’	O
 .	O
+
 A	O
 bridge	O
 between	O
@@ -80,6 +81,7 @@ their	O
 international	O
 counterparts	O
 .	O
+
 A	O
 bridge	O
 whose	O
@@ -99,6 +101,7 @@ country	O
 societal	O
 construct	O
 .	O
+
 A	O
 construct	O
 often	O
@@ -157,6 +160,7 @@ were	O
 taking	O
 place	O
 .	O
+
 Articles	O
 such	O
 as	O
@@ -175,6 +179,7 @@ of	O
 all	O
 Gambians	B-NORP
 .	O
+
 To	O
 move	O
 away	O
@@ -188,6 +193,7 @@ knew	O
 and	O
 survived	O
 .	O
+
 Some	O
 are	O
 conscious	O
@@ -196,6 +202,7 @@ in	O
 this	O
 struggle	O
 .	O
+
 Others	O
 subconsciously	O
 resonate	O
@@ -223,6 +230,7 @@ to	O
 this	O
 fight	O
 .	O
+
 As	O
 I	O
 write	O
@@ -259,6 +267,7 @@ rights	O
 enthusiasts	O
 everywhere	O
 .	O
+
 On	O
 the	O
 search	O
@@ -279,6 +288,7 @@ like	O
 these	O
 migrants	O
 .	O
+
 Hoping	O
 our	O
 ideas	O
@@ -309,6 +319,7 @@ and	O
 Majula	B-Person
 Joof	I-Person
 .	O
+
 Two	O
 models	O
 and	O
@@ -323,6 +334,7 @@ country	O
 the	O
 Gambia	B-Location
 .	O
+
 Their	O
 story	O
 resonates	O
@@ -359,6 +371,7 @@ their	O
 safe	O
 heaven	O
 .	O
+
 They	O
 have	O
 refused	O
@@ -376,6 +389,7 @@ a	O
 dignified	O
 manner	O
 .	O
+
 Instead	O
 of	O
 riding	O
@@ -414,6 +428,7 @@ ride	O
 this	O
 wave	O
 .	O
+
 It	O
 is	O
 only	O
@@ -462,6 +477,7 @@ modeling	O
 years	O
 ago	O
 .	O
+
 Won	O
 a	O
 home	O
@@ -481,6 +497,7 @@ in	O
 the	O
 Gambia	B-Location
 .	O
+
 Sought	O
 out	O
 by	O
@@ -523,6 +540,7 @@ to	O
 work	O
 with	O
 .	O
+
 Bintou	B-Person
 Ndure	I-Person
 also	O
@@ -534,6 +552,7 @@ career	O
 years	O
 ago	O
 .	O
+
 A	O
 brand	O
 ambassador	O
@@ -544,6 +563,7 @@ and	O
 runway	O
 model	O
 .	O
+
 She	O
 now	O
 owns	O
@@ -584,6 +604,7 @@ works	O
 and	O
 ideas	O
 .	O
+
 All	O
 hoping	O
 their	O
@@ -604,6 +625,7 @@ will	O
 catch	O
 wind	O
 .	O
+
 Majula	B-Person
 Joof	I-Person
 on	O
@@ -622,11 +644,13 @@ to	O
 Eastern	B-Location
 Europe	I-Location
 .	O
+
 Kossovo	B-Location
 to	O
 be	O
 precise	O
 .	O
+
 Where	O
 she	O
 participated	O
@@ -644,6 +668,7 @@ The	I-Misc
 World	I-Misc
 ’	O
 .	O
+
 A	O
 competition	O
 with	O
@@ -672,6 +697,7 @@ of	O
 the	O
 world	O
 .	O
+
 She	O
 performed	O
 extremely	O
@@ -692,6 +718,7 @@ Africa	I-Misc	B-Misc
 2022	I-Misc	B-Date
 ”	O
 .	O
+
 She	O
 returned	O
 home	O
@@ -727,6 +754,7 @@ visa	O
 to	O
 Europe	B-Misc
 .	O
+
 Her	O
 brand	O
 has	O
@@ -759,6 +787,7 @@ of	O
 her	O
 journey	O
 .	O
+
 The	O
 welcome	O
 she	O
@@ -768,6 +797,7 @@ already	O
 short	O
 lived	O
 .	O
+
 She	O
 is	O
 aware	O
@@ -794,6 +824,7 @@ chasing	O
 another	O
 high	O
 .	O
+
 In	O
 a	O
 country	O
@@ -810,14 +841,17 @@ on	O
 the	O
 streets	O
 .	O
+
 Some	O
 have	O
 stopped	O
 fighting	O
 .	O
+
 Often	O
 suicidal	O
 .	O
+
 Wondering	O
 if	O
 they	O
@@ -886,6 +920,7 @@ for	O
 global	O
 relevance	O
 .	O
+
 I	O
 took	O
 it	O
@@ -901,6 +936,7 @@ them	O
 some	O
 direction	O
 .	O
+
 A	O
 wind	O
 I	O
@@ -911,6 +947,7 @@ very	O
 much	O
 deserve	O
 .	O
+
 I	O
 hope	O
 I	O
@@ -931,6 +968,7 @@ the	O
 right	O
 direction	O
 .	O
+
 A	O
 momentum	O
 nobody	O
@@ -942,6 +980,7 @@ was	O
 coming	O
 up	O
 .	O
+
 In	O
 a	O
 world	O
@@ -972,12 +1011,14 @@ exceptional	O
 global	O
 relevance	O
 .	O
+
 From	O
 African	B-NORP
 fashion	O
 to	O
 afrobeats	O
 .	O
+
 Many	O
 without	O
 the	O
@@ -990,6 +1031,7 @@ encouraging	O
 illegal	O
 migration	O
 .	O
+
 Many	O
 without	O
 the	O
@@ -998,12 +1040,14 @@ of	O
 third	O
 parties	O
 .	O
+
 Just	O
 sheer	O
 creativity	O
 and	O
 relevance	O
 .	O
+
 If	O
 you	O
 are	O
@@ -1026,6 +1070,7 @@ quest	O
 for	O
 relevance	O
 .	O
+
 As	O
 the	O
 great	O

@@ -129,6 +129,7 @@ it	O
 finally	O
 happening	O
 ...	O
+
 It	O
 's	O
 a	O
@@ -200,6 +201,7 @@ Kitigon	B-Person
 said	O
 .	O
 "	O
+
 But	O
 it	O
 is	O
@@ -277,6 +279,7 @@ that	O
 sounds	O
 funny	O
 .	O
+
 But	O
 the	O
 more	O
@@ -359,6 +362,7 @@ in	O
 my	O
 phone	O
 .	O
+
 And	O
 then	O
 once	O
@@ -442,6 +446,7 @@ and	O
 timing	O
 .	O
 "	O
+
 By	O
 the	O
 time	O
@@ -474,6 +479,7 @@ Ohokannoak	B-Person
 said	O
 .	O
 "	O
+
 After	O
 that	O
 ,	O
@@ -690,6 +696,7 @@ he	O
 said	O
 .	O
 "	O
+
 It	O
 's	O
 such	O
@@ -733,6 +740,7 @@ entertain	O
 Burnstick	B-Person
 .	O
 "	O
+
 I	O
 really	O
 hope	O
@@ -762,6 +770,7 @@ own	O
 act	O
 .	O
 "	O
+
 It	O
 's	O
 an	O

@@ -659,6 +659,7 @@ people	O
 ’s	O
 lives	O
 .	O
+
 Who	O
 said	O
 this	O
@@ -729,6 +730,7 @@ a	O
 residential	O
 area	O
 .	O
+
 Why	O
 are	O
 they	O
@@ -770,6 +772,7 @@ and	O
 a	O
 narrative	O
 .	O
+
 Do	O
 you	O
 know	O
@@ -802,6 +805,7 @@ Covid	B-Misc
 19	I-Misc
 pandemic	O
 .	O
+
 I	O
 have	O
 invested	O
@@ -909,6 +913,7 @@ on	O
 the	O
 site	O
 .	O
+
 Such	O
 an	O
 application	O
@@ -957,6 +962,7 @@ the	O
 amendment	O
 schemes	O
 .	O
+
 The	O
 rights	O
 restrict	O

@@ -340,6 +340,7 @@ with	O
 large	O
 followings	O
 .	O
+
 In	O
 2019	B-Date
 ,	O
@@ -401,6 +402,7 @@ in	O
 the	O
 UK	B-Location
 .	O
+
 Later	O
 ,	O
 he	O
@@ -434,6 +436,7 @@ the	O
 following	O
 year	O
 .	O
+
 In	O
 a	O
 2015	B-Date
@@ -464,6 +467,7 @@ Communist	B-Organization	B-NORP
 Party	I-Organization
 line	O
 .	O
+
 “	O
 The	O
 state	O
@@ -486,6 +490,7 @@ in	O
 fluent	O
 English	B-NORP
 .	O
+
 “	O
 If	O
 your	O
@@ -518,6 +523,7 @@ Covid	B-Misc
 19	I-Misc
 lockdown	O
 .	O
+
 Wang	B-Person
 has	O
 been	O
@@ -582,6 +588,7 @@ people	O
 submissiveness	O
 ”	O
 .	O
+
 A	O
 screenshot	O
 of	O
@@ -645,6 +652,7 @@ Covid	B-Misc
 -	I-Misc
 19	I-Misc
 .	O
+
 In	O
 a	O
 separate	O

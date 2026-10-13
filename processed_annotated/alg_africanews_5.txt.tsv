@@ -340,6 +340,7 @@ wo	O
 n’t	O
 happen	O
 .	O
+
 Algeria	B-Location
 supplies	O
 23	O
@@ -428,6 +429,7 @@ Morocco	B-Location
 in	O
 1975	B-Date
 .	O
+
 Since	O
 then	O
 ,	O

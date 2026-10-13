@@ -60,6 +60,7 @@ multi	O
 sector	O
 expansion	O
 .	O
+
 Under	O
 a	O
 mandate	O
@@ -128,6 +129,7 @@ trade	O
 finance	O
 sector	O
 .	O
+
 From	O
 funding	O
 key	O
@@ -155,6 +157,7 @@ growth	O
 in	O
 Africa	B-Location
 .	O
+
 On	O
 the	O
 energy	O
@@ -280,6 +283,7 @@ and	O
 agriculture	O
 projects	O
 .	O
+
 With	O
 the	O
 partnership	O
@@ -360,6 +364,7 @@ finance	O
 and	O
 collaboration	O
 .	O
+
 With	O
 the	O
 implementation	O
@@ -402,6 +407,7 @@ cooperation	O
 and	O
 commerce	O
 .	O
+
 Just	O
 last	O
 month	O
@@ -434,6 +440,7 @@ trade	O
 in	O
 Africa	B-Location
 .	O
+
 As	O
 countries	O
 ,	O
@@ -511,6 +518,7 @@ acquisition	O
 and	O
 expansion	O
 .	O
+
 By	O
 providing	O
 funding	O
@@ -607,6 +615,7 @@ between	O
 and	O
 2020	B-Date
 .	O
+
 With	O
 this	O
 number	O
@@ -654,6 +663,7 @@ at	O
 this	O
 time	O
 .	O
+
 With	O
 significant	O
 ,	O
@@ -697,6 +707,7 @@ its	O
 own	O
 development	O
 .	O
+
 This	O
 is	O
 what	O
@@ -772,6 +783,7 @@ conference	O
 that	O
 follows	O
 .	O
+
 We	O
 have	O
 already	O
@@ -792,6 +804,7 @@ agreements	O
 a	O
 reality	O
 .	O
+
 The	O
 Afreximbank	B-Organization
 ,	O

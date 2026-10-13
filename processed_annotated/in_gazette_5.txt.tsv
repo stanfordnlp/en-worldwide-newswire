@@ -520,6 +520,7 @@ area	O
 of	O
 Vasco	B-Location
 .	O
+
 Here	O
 Hindu	B-NORP
 youths	O
@@ -541,6 +542,7 @@ against	O
 the	O
 Muslims	B-NORP
 .	O
+
 This	O
 resulted	O
 in	O
@@ -657,6 +659,7 @@ Ram	B-Misc
 Navami	I-Misc
 festival	O
 .	O
+
 In	O
 the	O
 ensuing	O
@@ -782,6 +785,7 @@ Navami	I-Misc
 communal	O
 clashes	O
 .	O
+
 The	O
 law	O
 enforcing	O
@@ -804,6 +808,7 @@ attacking	O
 the	O
 Muslims	B-NORP
 .	O
+
 Had	O
 the	O
 police	O
@@ -820,6 +825,7 @@ in	O
 the	O
 bud	O
 .	O
+
 The	O
 hoodlums	O
 should	O
@@ -867,6 +873,7 @@ is	O
 already	O
 done	O
 .	O
+
 Questions	O
 are	O
 asked	O
@@ -918,6 +925,7 @@ from	O
 both	O
 communities	O
 .	O
+
 None	O
 of	O
 the	O
@@ -943,6 +951,7 @@ a	O
 peaceful	O
 manner	O
 .	O
+
 The	O
 religious	O
 leaders	O
@@ -986,6 +995,7 @@ growing	O
 each	O
 year	O
 .	O
+
 The	O
 lumpenism	O
 could	O
@@ -1020,6 +1030,7 @@ Ram	B-Misc
 Navami	I-Misc
 festivities	O
 .	O
+
 However	O
 ,	O
 the	O
@@ -1110,17 +1121,20 @@ with	O
 Genocidal	O
 tenor	O
 .	O
+
 Nothing	O
 /	O
 Nobody	O
 shall	O
 survive	O
 !	O
+
 Only	O
 order	O
 shall	O
 vary	O
 .	O
+
 Scare	O
 should	O
 unite	O
@@ -1151,6 +1165,7 @@ of	O
 this	O
 country	O
 .	O
+
 The	O
 spectacle	O
 during	O
@@ -1176,6 +1191,7 @@ of	O
 old	O
 India	B-Location
 .	O
+
 It	O
 has	O
 shed	O
@@ -1218,6 +1234,7 @@ the	O
 old	O
 India	B-Location
 .	O
+
 Every	O
 Indian	B-NORP
 has	O

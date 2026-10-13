@@ -103,6 +103,7 @@ Guzmán	B-Person
 ’s	O
 resignation	O
 .	O
+
 “	O
 The	O
 moderate	O
@@ -199,6 +200,7 @@ vice	O
 -	O
 president	O
 .	O
+
 It	O
 was	O
 something	O
@@ -275,6 +277,7 @@ one	O
 for	O
 Argentina	B-Location
 .	O
+
 He	O
 concluded	O
 his	O
@@ -314,6 +317,7 @@ sovereign	O
 fatherland	O
 .	O
 ”	O
+
 Guzmán	B-Person
 thus	O
 serves	O
@@ -437,6 +441,7 @@ scant	O
 persuasive	O
 power	O
 .	O
+
 I	O
 persuaded	O
 people	O
@@ -446,6 +451,7 @@ and	O
 examples	O
 .	O
 ”	O
+
 The	O
 vice	O
 -	O
@@ -503,6 +509,7 @@ with	O
 the	O
 economy	O
 ?	O
+
 That	O
 is	O
 what	O
@@ -552,6 +559,7 @@ speech	O
 last	O
 weekend	O
 ?	O
+
 Martín	B-Person
 Guzmán	I-Person
 would	O
@@ -621,6 +629,7 @@ those	O
 increasing	O
 spending	O
 .	O
+
 Nor	O
 was	O
 it	O
@@ -656,6 +665,7 @@ the	O
 way	O
 )	O
 .	O
+
 On	O
 the	O
 contrary	O
@@ -717,6 +727,7 @@ ex	O
 -	O
 minister	O
 .	O
+
 Whoever	O
 heads	O
 the	O
@@ -809,6 +820,7 @@ has	O
 political	O
 vocation	O
 .	O
+
 At	O
 the	O
 age	O
@@ -833,6 +845,7 @@ politics	O
 ”	O
 )	O
 .	O
+
 As	O
 he	O
 also	O

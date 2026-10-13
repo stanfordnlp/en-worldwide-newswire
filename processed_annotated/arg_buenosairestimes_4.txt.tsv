@@ -419,6 +419,7 @@ multi	O
 decade	O
 highs	O
 .	O
+
 This	O
 sets	O
 the	O
@@ -577,6 +578,7 @@ Latin	B-Location
 America	I-Location
 )	O
 .	O
+
 According	O
 to	O
 figures	O
@@ -621,6 +623,7 @@ the	O
 peak	O
 )	O
 .	O
+
 Tett	B-Person
 suggests	O
 plenty	O
@@ -649,6 +652,7 @@ and	O
 emerging	O
 economies	O
 .	O
+
 An	O
 over	O
 -	O
@@ -756,6 +760,7 @@ default	O
 asks	O
 Tett	B-Person
 .	O
+
 “	O
 After	O
 all	O
@@ -770,6 +775,7 @@ exit	O
 -	O
 route	O
 .	O
+
 And	O
 while	O
 inflation	O
@@ -809,6 +815,7 @@ interest	O
 rates	O
 .	O
 ’	O
+
 Therein	O
 lies	O
 the	O
@@ -879,6 +886,7 @@ to	O
 resist	O
 it	O
 .	O
+
 After	O
 a	O
 scorched	O
@@ -1079,6 +1087,7 @@ pans	O
 out	O
 )	O
 .	O
+
 Indeed	O
 ,	O
 whether	O
@@ -1122,6 +1131,7 @@ across	O
 the	O
 board	O
 .	O
+
 Argentina	B-Location
 may	O
 very	O
@@ -1182,6 +1192,7 @@ over	O
 the	O
 edge	O
 .	O
+
 Cristina	B-Person
 ,	O
 who	O
@@ -1215,6 +1226,7 @@ plan	O
 any	O
 longer	O
 .	O
+
 She	O
 also	O
 has	O
@@ -1240,6 +1252,7 @@ Executive	O
 as	O
 well	O
 .	O
+
 Awash	O
 with	O
 natural	O
@@ -1262,6 +1275,7 @@ against	O
 our	O
 will	O
 .	O
+
 We	O
 ’ll	O
 see	O

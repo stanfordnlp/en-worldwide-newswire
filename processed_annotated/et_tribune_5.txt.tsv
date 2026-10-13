@@ -45,6 +45,7 @@ from	O
 to	O
 1557-8	B-Date
 .	O
+
 Also	O
 called	O
 Khayrat	B-Person
@@ -89,6 +90,7 @@ ad	I-Person
 -	I-Person
 Dabir	I-Person
 .	O
+
 Muhammad	B-Person
 Ulugh	O
 Khan	O
@@ -149,6 +151,7 @@ the	O
 time	O
 ”	O
 .	O
+
 He	O
 sided	O
 sometimes	O
@@ -221,6 +224,7 @@ commanders	O
 of	O
 Gujarat	B-Location
 .	O
+
 The	O
 first	O
 was	O
@@ -247,6 +251,7 @@ Khandesh	I-Person
 1537-1566	B-Date
 )	O
 .	O
+
 He	O
 was	O
 subsequently	O
@@ -269,6 +274,7 @@ buried	O
 at	O
 Sarkhej	B-Location
 .	O
+
 His	O
 son	O
 ,	O
@@ -316,6 +322,7 @@ Bahmanul	B-Location
 and	O
 Munda	B-Location
 .	O
+
 The	O
 adopted	O
 brother	O
@@ -438,6 +445,7 @@ al	I-Person
 Habshi	B-NORP
 Sultani	O
 .	O
+
 Originally	O
 a	O
 slave	O
@@ -455,6 +463,7 @@ Sultan	O
 Mahmud	B-Person
 III	I-Person
 .	O
+
 On	O
 the	O
 latter	O
@@ -496,6 +505,7 @@ as	O
 a	O
 brother	O
 .	O
+
 Shaik	B-Person
 Said	I-Person
 managed	O
@@ -508,6 +518,7 @@ acquired	O
 great	O
 wealth	O
 .	O
+
 He	O
 collected	O
 a	O
@@ -535,6 +546,7 @@ horses	O
 and	O
 camels	O
 .	O
+
 Until	O
 Emperor	O
 Akbar	B-Person
@@ -572,6 +584,7 @@ thousand	O
 destitute	O
 persons	O
 .	O
+
 He	O
 died	O
 in	O
@@ -638,6 +651,7 @@ crushed	O
 to	O
 death	O
 .	O
+
 His	O
 son	O
 Walil	B-Person
@@ -657,6 +671,7 @@ Akbar	B-Person
 Gujarat	B-Location
 army	O
 .	O
+
 Another	O
 Habshi	B-NORP
 ,	O
@@ -688,6 +703,7 @@ kings	O
 of	O
 Khandesh	B-Location
 .	O
+
 He	O
 subsequently	O
 transferred	O
@@ -705,6 +721,7 @@ possession	O
 of	O
 Songir	B-Location
 .	O
+
 He	O
 later	O
 became	O

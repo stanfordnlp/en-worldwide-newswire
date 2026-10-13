@@ -74,6 +74,7 @@ their	O
 net	O
 worth	O
 .	O
+
 The	O
 complete	O
 list	O
@@ -118,6 +119,7 @@ Asian	B-NORP
 financial	O
 crisis	O
 .	O
+
 Stock	O
 market	O
 gains	O
@@ -174,6 +176,7 @@ $	B-Money
 35.4	I-Money
 billion	I-Money
 .	O
+
 While	O
 the	O
 share	O
@@ -238,6 +241,7 @@ $	B-Money
 30.5	I-Money
 billion	I-Money
 .	O
+
 Henry	B-Person
 Cheng	I-Person
 and	O
@@ -303,6 +307,7 @@ company	O
 Biel	B-Organization
 Crystal	I-Organization
 .	O
+
 The	O
 duo	O
 more	O
@@ -353,6 +358,7 @@ in	O
 percentage	O
 terms	O
 .	O
+
 His	O
 net	O
 wealth	O
@@ -420,6 +426,7 @@ of	O
 Forbes	B-Organization
 Asia	B-Location
 .	O
+
 Shares	O
 in	O
 his	O
@@ -467,6 +474,7 @@ by	O
 the	O
 pandemic	O
 .	O
+
 Peter	B-Person
 Woo	I-Person
 (	O
@@ -493,6 +501,7 @@ bucked	O
 that	O
 trend	O
 .	O
+
 His	O
 wealth	O
 was	O
@@ -611,6 +620,7 @@ Nan	B-Organization
 Fung	I-Organization
 Group	I-Organization
 .	O
+
 Lau	B-Person
 ’s	O
 brother	O
@@ -830,6 +840,7 @@ and	O
 other	O
 sources	O
 .	O
+
 Net	O
 worths	O
 were	O
@@ -865,6 +876,7 @@ reflect	O
 different	O
 valuations	O
 .	O
+
 Private	O
 companies	O
 were	O
@@ -884,6 +896,7 @@ are	O
 publicly	O
 traded	O
 .	O
+
 The	O
 estimates	O
 include	O
@@ -953,6 +966,7 @@ to	O
 make	O
 it	O
 .	O
+
 Forbes	B-Organization
 convenes	O
 and	O
@@ -980,6 +994,7 @@ on	O
 the	O
 world	O
 .	O
+
 The	O
 Forbes	B-Organization
 brand	O
@@ -1017,6 +1032,7 @@ in	O
 71	O
 countries	O
 .	O
+
 Forbes	B-Organization
 Media	I-Organization
 ’s	O
@@ -1033,6 +1049,7 @@ services	O
 license	O
 agreements	O
 .	O
+
 For	O
 more	O
 information	O

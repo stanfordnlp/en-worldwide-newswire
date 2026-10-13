@@ -100,9 +100,11 @@ at	O
 and	O
 arriving	O
 at	O
+
 1	O
 .	O
 15pm.	O
+
 The	O
 return	O
 flight	O
@@ -113,6 +115,7 @@ UO	O
 will	O
 depart	O
 at	O
+
 2	O
 .	O
 15pm	O
@@ -150,9 +153,11 @@ arriving	O
 in	O
 Osaka	B-Location
 at	O
+
 2	O
 .	O
 20pm.	O
+
 The	O
 returning	O
 UO	O
@@ -160,6 +165,7 @@ UO	O
 will	O
 depart	O
 at	O
+
 3	O
 .	O
 20pm	O
@@ -228,6 +234,7 @@ booking	O
 trips	O
 .	O
 "	O
+
 We	O
 respect	O
 the	O

@@ -765,6 +765,7 @@ ca	O
 n’t	O
 use	O
 .	O
+
 However	O
 ,	O
 that	O
@@ -843,6 +844,7 @@ against	O
 the	O
 coalition	O
 .	O
+
 Also	O
 ,	O
 incursions	O
@@ -915,6 +917,7 @@ possibly	O
 former	O
 Baathists	B-NORP
 .	O
+
 The	O
 immediate	O
 objectives	O
@@ -941,6 +944,7 @@ project	O
 its	O
 authority	O
 .	O
+
 The	O
 long	O
 -	O
@@ -983,6 +987,7 @@ an	O
 endless	O
 jihad	O
 .	O
+
 This	O
 puts	O
 them	O
@@ -1025,6 +1030,7 @@ Baath	B-Organization
 Party	I-Organization
 )	O
 .	O
+
 However	O
 ,	O
 to	O
@@ -1096,6 +1102,7 @@ former	O
 Republican	B-Organization
 Guards	I-Organization
 .	O
+
 Moreover	O
 ,	O
 the	O
@@ -1121,6 +1128,7 @@ to	O
 pacify	O
 them	O
 .	O
+
 Republican	B-Organization
 Guard	I-Organization
 officers	O
@@ -1262,6 +1270,7 @@ do	O
 the	O
 job	O
 .	O
+
 More	O
 likely	O
 ,	O
@@ -1303,6 +1312,7 @@ in	O
 their	O
 interest	O
 .	O
+
 An	O
 Iraqi	B-NORP
 government	O
@@ -1371,6 +1381,7 @@ predominantly	O
 Shia	B-NORP
 south	O
 .	O
+
 In	O
 the	O
 town	O
@@ -1480,6 +1491,7 @@ coalition	O
 spy	O
 .	O
 ”	O
+
 Sadr	B-Person
 declared	O
 a	O
@@ -1526,6 +1538,7 @@ in	O
 the	O
 area	O
 .	O
+
 Sadr	B-Person
 has	O
 established	O
@@ -1567,6 +1580,7 @@ an	O
 electoral	O
 front	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -1626,6 +1640,7 @@ other	O
 integrated	O
 alliances	O
 .	O
+
 One	O
 theory	O
 of	O
@@ -1678,6 +1693,7 @@ Iraq	B-Location
 interim	O
 constitution	O
 .	O
+
 Allawi	B-Person
 did	O
 manage	O
@@ -1712,6 +1728,7 @@ PUK	B-Organization
 )	O
 peshmerga	O
 .	O
+
 However	O
 ,	O
 it	O
@@ -1767,6 +1784,7 @@ the	O
 Kurdish	B-NORP
 zone	O
 .	O
+
 Ever	O
 since	O
 the	O
@@ -1856,6 +1874,7 @@ were	O
 not	O
 forthcoming	O
 .	O
+
 The	O
 letter	O
 ,	O
@@ -1888,6 +1907,7 @@ for	O
 their	O
 rights	O
 .	O
+
 In	O
 what	O
 can	O
@@ -1927,6 +1947,7 @@ of	O
 Kurdish	B-NORP
 independence	O
 .	O
+
 Kurds	B-NORP
 are	O
 also	O
@@ -1965,6 +1986,7 @@ with	O
 Arab	B-NORP
 settlers	O
 .	O
+
 Given	O
 ongoing	O
 ethnic	O
@@ -2042,6 +2064,7 @@ self	O
 -	O
 government	O
 .	O
+
 This	O
 might	O
 not	O
@@ -2073,6 +2096,7 @@ have	O
 much	O
 legitimacy	O
 .	O
+
 It	O
 may	O
 be	O
@@ -2106,6 +2130,7 @@ on	O
 the	O
 provinces	O
 .	O
+
 Although	O
 such	O
 a	O
@@ -2146,6 +2171,7 @@ Baathist	B-NORP
 style	O
 tyranny	O
 .	O
+
 Furthermore	O
 ,	O
 in	O
@@ -2221,6 +2247,7 @@ the	O
 federal	O
 pie	O
 .	O
+
 It	O
 could	O
 be	O
@@ -2246,6 +2273,7 @@ stay	O
 in	O
 office	O
 .	O
+
 But	O
 ,	O
 given	O
@@ -2267,6 +2295,7 @@ scenario	O
 is	O
 unlikely	O
 .	O
+
 A	O
 more	O
 likely	O
@@ -2347,6 +2376,7 @@ country	O
 security	O
 woes	O
 .	O
+
 If	O
 that	O
 is	O

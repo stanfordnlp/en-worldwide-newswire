@@ -26,6 +26,7 @@ non	B-NORP
 -	I-NORP
 Latino	I-NORP
 .	O
+
 The	O
 holiday	O
 is	O
@@ -71,6 +72,7 @@ May	B-Date
 ,	I-Date
 1862	I-Date
 .	O
+
 The	O
 improbable	O
 outcome	O
@@ -112,6 +114,7 @@ period	O
 for	O
 Mexico	B-Location
 .	O
+
 Saddled	O
 with	O
 crushing	O
@@ -146,6 +149,7 @@ from	O
 to	I-Date
 48	I-Date
 .	O
+
 The	O
 legendary	O
 Santa	B-Person
@@ -195,6 +199,7 @@ owed	O
 to	O
 them	O
 .	O
+
 France	B-Location
 ,	O
 however	O
@@ -218,6 +223,7 @@ a	O
 global	O
 empire	O
 .	O
+
 Britain	B-Location
 and	O
 Spain	B-Location
@@ -266,6 +272,7 @@ and	O
 financial	O
 resources	O
 .	O
+
 As	O
 some	O
 6,000	O
@@ -314,6 +321,7 @@ other	O
 inferior	O
 arms	O
 .	O
+
 Still	O
 ,	O
 the	O
@@ -334,6 +342,7 @@ as	O
 extra	O
 protection	O
 .	O
+
 A	O
 short	O
 artillery	O
@@ -379,6 +388,7 @@ over	O
 500	O
 men	O
 .	O
+
 Four	O
 days	O
 later	O
@@ -424,6 +434,7 @@ nation	O
 for	O
 Napoleon	B-Person
 .	O
+
 The	O
 French	B-NORP
 leader	O
@@ -457,6 +468,7 @@ the	O
 Civil	B-Misc
 War	I-Misc
 .	O
+
 Among	O
 them	O
 was	O
@@ -488,6 +500,7 @@ Maximilian	B-Person
 spirited	O
 wife	O
 .	O
+
 The	O
 United	B-Location
 States	I-Location
@@ -527,6 +540,7 @@ stiff	O
 Liberal	B-NORP
 opposition	O
 .	O
+
 Though	O
 he	O
 embraced	O
@@ -556,6 +570,7 @@ quickly	O
 lost	O
 popularity	O
 .	O
+
 The	O
 United	B-Location
 States	I-Location
@@ -599,6 +614,7 @@ badly	O
 outnumbered	O
 forces	O
 .	O
+
 The	O
 emperor	O
 was	O
@@ -615,6 +631,7 @@ June	B-Date
 ,	I-Date
 1867	I-Date
 .	O
+
 Carlota	B-Person
 ,	O
 having	O
@@ -658,6 +675,7 @@ celebrations	O
 are	O
 held	O
 .	O
+
 Neighboring	O
 Mexican	B-NORP
 states	O

@@ -194,6 +194,7 @@ United	B-Location
 States	I-Location
 government	O
 .	O
+
 Because	O
 for	O
 [	O
@@ -264,6 +265,7 @@ respond	O
 to	O
 demand	O
 .	O
+
 It	O
 ’s	O
 a	O
@@ -284,6 +286,7 @@ Tapachula	B-Location
 ca	O
 n’t	O
 .	O
+
 It	O
 ’s	O
 not	O
@@ -322,6 +325,7 @@ types	O
 of	O
 xenophobia	O
 …	O
+
 The	O
 system	O
 has	O
@@ -443,6 +447,7 @@ confronting	O
 enemy	O
 forces	O
 .	O
+
 It	O
 is	O
 not	O
@@ -498,6 +503,7 @@ COMAR	B-Organization
 ’s	O
 budget	O
 .	O
+
 It	O
 argues	O
 that	O

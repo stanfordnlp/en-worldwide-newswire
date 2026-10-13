@@ -426,6 +426,7 @@ illegal	O
 entry	O
 ”	O
 .	O
+
 The	O
 highest	O
 number	O
@@ -512,6 +513,7 @@ together	O
 in	O
 detention	O
 .	O
+
 “	O
 But	O
 they	O
@@ -546,6 +548,7 @@ back	O
 to	O
 Myanmar	B-Location
 .	O
+
 The	O
 fear	O
 has	O
@@ -653,6 +656,7 @@ shanties	O
 are	O
 emptied	O
 .	O
+
 People	O
 do	O
 not	O
@@ -668,6 +672,7 @@ many	O
 have	O
 already	O
 .	O
+
 Separation	O
 is	O
 the	O
@@ -704,6 +709,7 @@ brother	O
 and	O
 cousins	O
 .	O
+
 On	O
 April	B-Date
 1	I-Date
@@ -742,6 +748,7 @@ above	O
 and	O
 ailing	O
 .	O
+
 When	O
 I	O
 met	O
@@ -765,6 +772,7 @@ detain	O
 us	O
 anytime	O
 .	O
+
 This	O
 pain	O
 of	O
@@ -792,6 +800,7 @@ not	O
 safe	O
 anywhere	O
 .	O
+
 When	O
 we	O
 leave	O
@@ -801,6 +810,7 @@ be	O
 detained	O
 anywhere	O
 .	O
+
 For	O
 us	O
 ,	O
@@ -852,6 +862,7 @@ from	O
 security	O
 agencies	O
 .	O
+
 They	O
 say	O
 they	O
@@ -1009,6 +1020,7 @@ to	O
 settle	O
 here	O
 .	O
+
 This	O
 is	O
 a	O
@@ -1044,6 +1056,7 @@ send	O
 them	O
 back	O
 .	O
+
 The	O
 process	O
 to	O
@@ -1052,6 +1065,7 @@ them	O
 will	O
 continue	O
 .	O
+
 Our	O
 party	O
 ’s	O
@@ -1110,6 +1124,7 @@ persecution	O
 in	O
 Myanmar	B-Location
 .	O
+
 His	O
 father	O
 ,	O
@@ -1125,6 +1140,7 @@ a	O
 long	O
 illness	O
 .	O
+
 After	O
 passing	O
 his	O
@@ -1169,6 +1185,7 @@ mother	O
 Sajida	B-Person
 Begum	I-Person
 .	O
+
 And	O
 to	O
 do	O
@@ -1187,6 +1204,7 @@ not	O
 fear	O
 death	O
 .	O
+
 I	O
 only	O
 fear	O
@@ -1227,6 +1245,7 @@ is	O
 equally	O
 worried	O
 .	O
+
 “	O
 He	O
 is	O
@@ -1237,6 +1256,7 @@ in	O
 this	O
 world	O
 .	O
+
 I	O
 ca	O
 n’t	O
@@ -1251,6 +1271,7 @@ told	O
 Al	B-Organization
 Jazeera	I-Organization
 .	O
+
 “	O
 I	O
 am	O
@@ -1264,6 +1285,7 @@ to	O
 this	O
 worry	O
 .	O
+
 I	O
 am	O
 not	O
@@ -1310,6 +1332,7 @@ agency	O
 the	O
 UNHCR	B-Organization
 .	O
+
 As	O
 a	O
 result	O
@@ -1354,6 +1377,7 @@ by	O
 Indian	B-NORP
 agencies	O
 .	O
+
 Many	O
 of	O
 them	O
@@ -1402,6 +1426,7 @@ contact	O
 with	O
 them	O
 .	O
+
 We	O
 do	O
 n’t	O
@@ -1480,6 +1505,7 @@ justice	O
 for	O
 them	O
 .	O
+
 We	O
 are	O
 afraid	O

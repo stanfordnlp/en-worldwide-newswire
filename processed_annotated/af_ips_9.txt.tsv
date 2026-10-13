@@ -147,6 +147,7 @@ family	O
 ’s	O
 needs	O
 .	O
+
 No	O
 need	O
 to	O
@@ -258,6 +259,7 @@ sub	O
 -	O
 county	O
 .	O
+
 Because	O
 of	O
 the	O
@@ -386,6 +388,7 @@ my	O
 household	O
 needs	O
 .	O
+
 All	O
 I	O
 need	O
@@ -413,6 +416,7 @@ at	O
 the	O
 market	O
 .	O
+
 This	O
 helps	O
 me	O
@@ -462,6 +466,7 @@ hagar	O
 and	O
 frankincense	O
 .	O
+
 Kenya	B-Location
 has	O
 resources	O
@@ -479,6 +484,7 @@ country	O
 ’s	O
 drylands	O
 .	O
+
 Gum	O
 arabic	B-NORP
 comes	O
@@ -577,6 +583,7 @@ to	O
 environmental	O
 conservation	O
 .	O
+
 The	O
 idea	O
 is	O
@@ -620,6 +627,7 @@ their	O
 traditional	O
 medicine	O
 .	O
+
 Having	O
 a	O
 nearly	O
@@ -662,6 +670,7 @@ base	O
 in	O
 Kenya	B-Location
 .	O
+
 Before	O
 ,	O
 we	O
@@ -720,6 +729,7 @@ been	O
 in	O
 existence	O
 .	O
+
 Still	O
 ,	O
 the	O
@@ -759,6 +769,7 @@ with	O
 the	O
 locals	O
 .	O
+
 The	O
 people	O
 who	O
@@ -773,6 +784,7 @@ the	O
 herders	O
 themselves	O
 .	O
+
 They	O
 have	O
 attached	O
@@ -851,6 +863,7 @@ of	O
 the	O
 product	O
 .	O
+
 They	O
 are	O
 trained	O
@@ -1073,6 +1086,7 @@ markets	O
 are	O
 underexploited	O
 .	O
+
 Gender	O
 inequities	O
 and	O

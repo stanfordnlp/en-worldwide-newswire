@@ -70,6 +70,7 @@ ride	O
 hailing	O
 market	O
 .	O
+
 The	O
 first	O
 batch	O
@@ -184,6 +185,7 @@ production	O
 and	O
 sales	O
 .	O
+
 In	O
 2019	B-Date
 ,	O
@@ -286,6 +288,7 @@ put	O
 into	O
 operation	O
 .	O
+
 The	O
 company	O
 strives	O
@@ -578,6 +581,7 @@ years	O
 since	O
 2015	B-Date
 .	O
+
 The	O
 country	O
 's	O

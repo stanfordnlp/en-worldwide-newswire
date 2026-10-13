@@ -210,6 +210,7 @@ country	O
 Elam	B-Person
 said	O
 .	O
+
 “	O
 What	O
 is	O
@@ -300,6 +301,7 @@ sexual	O
 abuse	O
 .	O
 "	O
+
 I	O
 certainly	O
 hope	O
@@ -432,6 +434,7 @@ would	O
 be	O
 conducted	O
 .	O
+
 His	O
 wife	O
 has	O
@@ -444,6 +447,7 @@ and	O
 citizenship	O
 status	O
 .	O
+
 At	O
 the	O
 time	O
@@ -535,6 +539,7 @@ deny	O
 him	O
 citizenship	O
 .	O
+
 Lanner	B-Person
 served	O
 three	O
@@ -607,6 +612,7 @@ the	O
 letter	O
 .	O
 "	O
+
 These	O
 cases	O
 continue	O
@@ -700,6 +706,7 @@ the	O
 letter	O
 continued	O
 .	O
+
 “	O
 We	O
 are	O
@@ -735,6 +742,7 @@ and	O
 safety	O
 .	O
 ”	O
+
 It	O
 concludes	O
 ,	O
@@ -796,6 +804,7 @@ in	O
 his	O
 charge	O
 .	O
+
 In	O
 2002	B-Date
 ,	O
@@ -850,6 +859,7 @@ Week	I-Misc
 in	I-Misc
 2000	B-Date
 .	O
+
 An	O
 appeals	O
 court	O
@@ -929,6 +939,7 @@ abuse	O
 took	O
 place	O
 .	O
+
 The	O
 lawsuit	O
 alleges	O

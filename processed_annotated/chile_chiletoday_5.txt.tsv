@@ -49,6 +49,7 @@ Commission	I-Organization
 ’s	O
 decision	O
 .	O
+
 Chile	B-Location
 asks	O
 that	O
@@ -111,6 +112,7 @@ David	I-Person
 Castillo	I-Person
 Segura	I-Person
 .	O
+
 The	O
 federation	O
 said	O
@@ -184,6 +186,7 @@ his	O
 official	O
 paperwork	O
 .	O
+
 According	O
 to	O
 FIFA	B-Organization
@@ -220,6 +223,7 @@ statements	O
 about	O
 it	O
 .	O
+
 If	O
 FIFA	B-Organization
 approves	O
@@ -251,6 +255,7 @@ American	I-NORP
 qualifying	O
 group	O
 .	O
+
 Currently	O
 ,	O
 the	O
@@ -265,6 +270,7 @@ points	O
 behind	O
 Ecuador	B-Location
 .	O
+
 “	O
 The	O
 practice	O
@@ -383,6 +389,7 @@ from	O
 other	O
 nations	O
 .	O
+
 In	O
 2018	B-Date
 qualifications	O
@@ -417,6 +424,7 @@ in	O
 its	O
 roster	O
 .	O
+
 As	O
 similar	O
 circumstances	O

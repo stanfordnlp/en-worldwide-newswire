@@ -56,6 +56,7 @@ architectural	O
 assistant	O
 said	O
 .	O
+
 “	O
 In	O
 a	O
@@ -162,6 +163,7 @@ year	O
 old	O
 said	O
 .	O
+
 “	O
 It	O
 could	O
@@ -248,6 +250,7 @@ identify	O
 as	O
 LGBT	B-NORP
 .	O
+
 Homosexuality	O
 was	O
 decriminalised	O
@@ -456,6 +459,7 @@ China	B-Location
 LGBT	B-NORP
 community	O
 .	O
+
 It	O
 is	O
 also	O
@@ -624,6 +628,7 @@ environment	O
 he	O
 said	O
 .	O
+
 “	O
 Even	O
 as	O
@@ -673,6 +678,7 @@ also	O
 the	O
 organisers	O
 .	O
+
 They	O
 later	O
 began	O
@@ -895,6 +901,7 @@ West	B-Organization
 Wang	B-Person
 said	O
 .	O
+
 “	O
 LGBT	B-NORP
 culture	O
@@ -984,6 +991,7 @@ has	O
 he	O
 said	O
 .	O
+
 “	O
 Rather	O
 than	O
@@ -1097,6 +1105,7 @@ in	O
 late	O
 2019	B-Date
 .	O
+
 “	O
 In	O
 the	O
@@ -1222,6 +1231,7 @@ identity	O
 and	O
 belonging	O
 .	O
+
 In	O
 fact	O
 ,	O
@@ -1303,6 +1313,7 @@ chose	O
 to	O
 live	O
 .	O
+
 Crucially	O
 ,	O
 he	O
@@ -1520,6 +1531,7 @@ acceptance	O
 Chan	B-Person
 said	O
 .	O
+
 “	O
 I	O
 ’m	O
@@ -1649,6 +1661,7 @@ picture	O
 Wu	B-Person
 said	O
 .	O
+
 “	O
 Most	O
 of	O
@@ -1861,6 +1874,7 @@ concept	O
 Yeo	B-Person
 said	O
 .	O
+
 “	O
 Even	O
 in	O
@@ -1904,6 +1918,7 @@ things	O
 will	O
 change	O
 .	O
+
 “	O
 As	O
 Generation	B-Misc

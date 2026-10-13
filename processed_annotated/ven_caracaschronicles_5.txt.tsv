@@ -378,6 +378,7 @@ we	O
 ’ve	O
 known	O
 .	O
+
 In	O
 my	O
 case	O
@@ -399,6 +400,7 @@ mom	O
 in	O
 tears	O
 .	O
+
 Others	O
 do	O
 n’t	O
@@ -471,6 +473,7 @@ another	O
 are	O
 unavoidable	O
 .	O
+
 As	O
 humans	O
 ,	O
@@ -524,6 +527,7 @@ a	O
 different	O
 accent	O
 .	O
+
 And	O
 my	O
 French	B-NORP
@@ -531,6 +535,7 @@ could	O
 be	O
 better	O
 .	O
+
 I	O
 ’m	O
 not	O
@@ -564,6 +569,7 @@ is	O
 pleurer	O
 ”	O
 .	O
+
 Sometimes	O
 I	O
 say	O
@@ -580,6 +586,7 @@ a	O
 llover	O
 “	O
 .	O
+
 Still	O
 there	O
 are	O
@@ -626,6 +633,7 @@ be	O
 described	O
 ”	O
 .	O
+
 But	O
 the	O
 most	O
@@ -705,6 +713,7 @@ how	O
 to	O
 behave	O
 .	O
+
 And	O
 that	O
 ’s	O
@@ -737,6 +746,7 @@ of	O
 the	O
 world	O
 .	O
+
 If	O
 you	O
 did	O
@@ -758,6 +768,7 @@ rules	O
 have	O
 changed	O
 .	O
+
 Being	O
 friendly	O
 and	O
@@ -784,6 +795,7 @@ else	O
 than	O
 Venezuela	B-Location
 .	O
+
 It	O
 felt	O
 strange	O
@@ -915,6 +927,7 @@ in	O
 a	O
 camionetica	O
 .	O
+
 In	O
 France	B-Location
 ’s	O
@@ -952,6 +965,7 @@ me	O
 the	O
 most	O
 .	O
+
 In	O
 Venezuela	B-Location
 ,	O
@@ -983,6 +997,7 @@ fried	O
 plantain	O
 chip	O
 .	O
+
 On	O
 New	B-Misc
 Year	I-Misc
@@ -1050,6 +1065,7 @@ our	O
 native	O
 land	O
 .	O
+
 We	O
 ’ll	O
 always	O
@@ -1072,6 +1088,7 @@ it	O
 was	O
 said	O
 .	O
+
 And	O
 secretly	O
 ,	O
@@ -1111,6 +1128,7 @@ from	O
 my	O
 childhood	O
 .	O
+
 I	O
 was	O
 at	O
@@ -1143,6 +1161,7 @@ the	O
 Venezuelan	B-NORP
 mainland	O
 .	O
+
 It	O
 was	O
 very	O
@@ -1162,6 +1181,7 @@ waiting	O
 with	O
 us	O
 .	O
+
 I	O
 asked	O
 my	O
@@ -1182,6 +1202,7 @@ at	O
 the	O
 sea	O
 .	O
+
 The	O
 smell	O
 of	O
@@ -1221,6 +1242,7 @@ just	O
 by	O
 sniffing	O
 .	O
+
 A	O
 distant	O
 and	O
@@ -1233,6 +1255,7 @@ being	O
 played	O
 somewhere	O
 .	O
+
 The	O
 waves	O
 were	O
@@ -1245,6 +1268,7 @@ of	O
 the	O
 breakwater	O
 .	O
+
 It	O
 was	O
 just	O
@@ -1255,10 +1279,12 @@ in	O
 Nueva	B-Location
 Esparta	I-Location
 .	O
+
 It	O
 was	O
 home	O
 .	O
+
 People	O
 echando	O
 cuentos	O
@@ -1329,6 +1355,7 @@ we	O
 left	O
 behind	O
 .	O
+
 For	O
 us	O
 ,	O
@@ -1427,6 +1454,7 @@ Mercado	B-Organization
 del	I-Organization
 Cementerio	I-Organization
 .	O
+
 We	O
 do	O
 n’t	O
@@ -1520,6 +1548,7 @@ while	O
 surviving	O
 it	O
 .	O
+
 Attachment	O
 does	O
 n’t	O
@@ -1590,6 +1619,7 @@ of	I-Misc
 Maria	I-Misc	B-Person
 Edgeworth	I-Misc	I-Person
 .	O
+
 Homesickness	O
 can	O
 be	O
@@ -1685,6 +1715,7 @@ moderate	O
 or	O
 severe	O
 .	O
+
 Venezuelans	B-NORP
 moving	O
 to	O
@@ -1778,6 +1809,7 @@ to	O
 most	O
 circumstances	O
 .	O
+
 Being	O
 Venezuelan	B-NORP
 also	O
@@ -1847,6 +1879,7 @@ changing	O
 without	O
 warning	O
 .	O
+
 We	O
 managed	O
 to	O
@@ -1946,6 +1979,7 @@ in	O
 our	O
 history	O
 .	O
+
 The	O
 crisis	O
 has	O

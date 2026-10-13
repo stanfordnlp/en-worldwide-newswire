@@ -1713,6 +1713,7 @@ year	O
 old	O
 says	O
 .	O
+
 “	O
 I	O
 knew	O
@@ -1763,6 +1764,7 @@ came	O
 up	O
 empty	O
 .	O
+
 Instead	O
 ,	O
 she	O
@@ -1841,6 +1843,7 @@ consultant	O
 at	O
 Roots	B-Organization
 .	O
+
 “	O
 I	O
 then	O
@@ -1918,6 +1921,7 @@ and	O
 extensive	O
 manpower	O
 .	O
+
 Sasaki	B-Person
 advised	O
 Hama	B-Person
@@ -1931,6 +1935,7 @@ finance	O
 the	O
 endeavor	O
 .	O
+
 Perhaps	O
 the	O
 teenager	O
@@ -1984,6 +1989,7 @@ for	O
 the	O
 cause	O
 .	O
+
 Marine	O
 research	O
 company	O
@@ -2155,6 +2161,7 @@ could	O
 be	O
 located	O
 .	O
+
 The	O
 underwater	O
 investigation	O
@@ -2212,6 +2219,7 @@ tsunamis	O
 Hama	B-Person
 says	O
 .	O
+
 “	O
 That	O
 raises	O
@@ -2222,6 +2230,7 @@ us	O
 finding	O
 something	O
 .	O
+
 I	O
 ’m	O
 very	O
@@ -2392,6 +2401,7 @@ expeditions	O
 under	O
 water	O
 .	O
+
 Divers	O
 at	O
 the	O
@@ -2420,6 +2430,7 @@ battle	O
 in	O
 1545	B-Date
 .	O
+
 The	O
 ship	O
 was	O
@@ -2467,6 +2478,7 @@ its	O
 maiden	O
 voyage	O
 .	O
+
 Salvaged	O
 in	O
 1961	B-Date
@@ -2578,6 +2590,7 @@ for	O
 prospective	O
 students	O
 .	O
+
 Kimura	B-Person
 himself	O
 went	O
@@ -2604,6 +2617,7 @@ changing	O
 he	O
 says	O
 .	O
+
 “	O
 The	O
 Agency	B-Organization
@@ -2633,6 +2647,7 @@ investigation	O
 in	O
 Kyotango	B-Location
 .	O
+
 I	O
 think	O
 these	O
@@ -2699,6 +2714,7 @@ currently	O
 taking	O
 place	O
 .	O
+
 He	O
 also	O
 plans	O
@@ -2740,6 +2756,7 @@ discovered	O
 he	O
 says	O
 .	O
+
 “	O
 This	O
 ca	O
@@ -2849,6 +2866,7 @@ Kublai	B-Location
 lost	O
 fleet	O
 .	O
+
 The	O
 fisherman	O
 showed	O

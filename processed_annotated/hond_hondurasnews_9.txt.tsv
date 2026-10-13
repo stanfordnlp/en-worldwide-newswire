@@ -75,6 +75,7 @@ Honduran	B-NORP
 national	O
 team	O
 .	O
+
 Mr.	O
 Callejas	B-Person
 paid	O
@@ -173,6 +174,7 @@ Court	I-Facility
 on	O
 Monday	B-Date
 .	O
+
 “	O
 I	O
 knew	O
@@ -225,6 +227,7 @@ in	O
 the	O
 1990s	B-Date
 .	O
+
 At	O
 the	O
 time	O
@@ -253,6 +256,7 @@ soccer	O
 governing	O
 body	O
 .	O
+
 FIFA	B-Organization
 ’s	O
 leadership	O
@@ -377,6 +381,7 @@ World	B-Misc
 Cup	I-Misc
 tournaments	O
 .	O
+
 From	O
 March	B-Date
 2011	I-Date
@@ -445,6 +450,7 @@ within	O
 a	O
 week	O
 .	O
+
 The	O
 balance	O
 will	O
@@ -454,6 +460,7 @@ within	O
 12	O
 months	O
 .	O
+
 He	O
 is	O
 scheduled	O
@@ -513,6 +520,7 @@ unsealed	O
 in	O
 December	B-Date
 .	O
+
 Of	O
 the	O
 16	O
@@ -585,6 +593,7 @@ more	O
 lenient	O
 sentence	O
 .	O
+
 He	O
 and	O
 his	O
@@ -666,6 +675,7 @@ the	O
 judge	O
 asked	O
 .	O
+
 “	O
 I	O
 like	O

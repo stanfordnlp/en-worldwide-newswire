@@ -227,6 +227,7 @@ Paul	B-Person
 P.	I-Person
 Kennedy	I-Person
 .	O
+
 Her	O
 husband	O
 died	O
@@ -276,6 +277,7 @@ York	I-Organization	I-Location
 Times	I-Organization
 said	O
 .	O
+
 The	O
 cause	O
 of	O
@@ -324,6 +326,7 @@ like	O
 no	O
 one	O
 !	O
+
 Her	O
 books	O
 open	O
@@ -335,6 +338,7 @@ soul	O
 of	O
 Mexico	B-Location
 !	O
+
 She	O
 gave	O
 voice	O
@@ -347,6 +351,7 @@ cooks	O
 especially	O
 women	O
 .	O
+
 She	O
 was	O
 my	O
@@ -356,6 +361,7 @@ already	O
 miss	O
 her	O
 .	O
+
 Will	O
 cook	O
 together	O

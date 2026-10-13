@@ -45,6 +45,7 @@ Tobago	I-Location
 made	O
 202-8	O
 .	O
+
 Veeran	B-Person
 Batchu	I-Person
 top	O
@@ -77,6 +78,7 @@ Fareez	B-Person
 Ali	I-Person
 25	O
 .	O
+
 Promising	O
 left	O
 arm	O
@@ -124,6 +126,7 @@ off	O
 127	O
 balls	O
 .	O
+
 Mavindra	B-Person
 Dindyal	I-Person
 struck	O
@@ -163,6 +166,7 @@ the	O
 said	O
 venue	O
 .	O
+
 Barbados	B-Location
 took	O
 first	O
@@ -178,6 +182,7 @@ of	O
 20	O
 overs	O
 .	O
+
 Joshua	B-Person
 Dorne	I-Person
 made	O
@@ -204,6 +209,7 @@ in	O
 19.3	O
 overs	O
 .	O
+
 Ramnauth	B-Person
 struck	O
 an	O
@@ -217,6 +223,7 @@ scored	O
 not	O
 out	O
 .	O
+
 Jatario	B-Person
 Prescod	I-Person
 took	O
@@ -231,6 +238,7 @@ by	O
 186	O
 runs	O
 .	O
+
 Jamaica	B-Location
 batted	O
 first	O
@@ -243,6 +251,7 @@ in	O
 48.1	O
 overs	O
 .	O
+
 Windward	B-Location
 Islands	I-Location
 replied	O
@@ -263,6 +272,7 @@ by	O
 115	O
 runs	O
 .	O
+
 Barbados	B-Location
 made	O
 278	O

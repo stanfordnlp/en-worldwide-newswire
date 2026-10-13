@@ -152,6 +152,7 @@ Jakarta	B-Location
 ,	I-Location
 Indonesia	I-Location
 .	O
+
 The	O
 company	O
 will	O
@@ -169,6 +170,7 @@ Southeast	B-NORP
 Asian	I-NORP
 city	O
 .	O
+
 The	O
 one	O
 -	O
@@ -251,6 +253,7 @@ and	O
 market	O
 presence	O
 .	O
+
 The	O
 new	O
 port	O
@@ -353,6 +356,7 @@ top	O
 in	O
 Europe	B-Location
 .	O
+
 It	O
 owns	O
 and	O
@@ -377,6 +381,7 @@ regular	O
 liner	O
 schedule	O
 .	O
+
 Bringing	O
 over	O
 forty	O

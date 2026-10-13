@@ -450,6 +450,7 @@ computer	O
 ’s	O
 resources	O
 .	O
+
 The	O
 term	O
 can	O
@@ -516,6 +517,7 @@ based	O
 computing	O
 environment	O
 .	O
+
 The	O
 server	O
 will	O
@@ -527,6 +529,7 @@ applications	O
 and	O
 memory	O
 .	O
+
 Thin	B-Product
 Clients	I-Product
 are	O

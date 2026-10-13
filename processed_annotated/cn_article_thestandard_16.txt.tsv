@@ -98,6 +98,7 @@ COVID	B-Misc
 19	I-Misc
 outbreak	O
 .	O
+
 It	O
 was	O
 also	O
@@ -198,6 +199,7 @@ Award	I-Misc
 on	O
 Sunday	B-Date
 .	O
+
 “	O
 Raging	B-Misc
 Fire	I-Misc
@@ -301,6 +303,7 @@ box	O
 office	O
 sales	O
 .	O
+
 It	O
 topped	O
 the	O
@@ -395,6 +398,7 @@ Anita	B-Person
 said	O
 Wong	B-Person
 .	O
+
 “	O
 I	O
 ’m	O
@@ -424,6 +428,7 @@ role	O
 she	O
 said	O
 .	O
+
 “	O
 I	O
 ’m	O
@@ -485,6 +490,7 @@ author	O
 Lei	B-Person
 Mi	I-Person
 .	O
+
 The	O
 film	O
 follows	O
@@ -586,6 +592,7 @@ role	O
 and	O
 act	O
 .	O
+
 Today	O
 is	O
 the	O
@@ -642,6 +649,7 @@ neglected	O
 elderly	O
 population	O
 .	O
+
 He	O
 was	O
 given	O

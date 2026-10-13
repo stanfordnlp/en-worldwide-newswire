@@ -672,6 +672,7 @@ for	O
 2	O
 4 hours	O
 .	O
+
 When	O
 it	O
 began	O
@@ -701,6 +702,7 @@ a	O
 run	O
 off	O
 .	O
+
 The	O
 opposition	O
 cried	O
@@ -753,6 +755,7 @@ and	O
 the	O
 police	O
 .	O
+
 At	O
 least	O
 three	O
@@ -768,6 +771,7 @@ hundred	O
 were	O
 injured	O
 .	O
+
 Local	O
 media	O
 also	O
@@ -799,6 +803,7 @@ in	O
 central	O
 Bolivia	B-Location
 .	O
+
 Luis	B-Person
 Fernando	I-Person
 Camacho	I-Person
@@ -851,6 +856,7 @@ protesters	O
 ’	O
 demands	O
 .	O
+
 “	O
 Given	O
 the	O
@@ -931,6 +937,7 @@ capital	O
 La	B-Location
 Paz	I-Location
 .	O
+
 Mesa	B-Person
 ,	O
 his	O
@@ -980,6 +987,7 @@ vandalized	O
 his	O
 home	O
 .	O
+
 A	O
 video	O
 circulating	O
@@ -1006,6 +1014,7 @@ survey	O
 the	O
 damage	O
 .	O
+
 Morales	B-Person
 ’	O
 supporters	O
@@ -1029,6 +1038,7 @@ vacuum	O
 in	O
 Bolivia	B-Location
 .	O
+
 The	O
 vice	O
 -	O
@@ -1072,6 +1082,7 @@ it	O
 is	O
 empty	O
 .	O
+
 Though	O
 opposition	O
 senator	O
@@ -1106,6 +1117,7 @@ controls	O
 both	O
 houses	O
 .	O
+
 Per	O
 Bolivia	B-Location
 ’s	O

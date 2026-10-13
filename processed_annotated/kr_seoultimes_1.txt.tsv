@@ -120,6 +120,7 @@ Juyi	I-Person
 772-846	O
 )	O
 .	O
+
 One	O
 side	O
 of	O
@@ -168,6 +169,7 @@ focus	O
 on	O
 China	B-Location
 .	O
+
 Recently	O
 he	O
 has	O
@@ -212,6 +214,7 @@ for	O
 self	O
 promotion	O
 .	O
+
 The	O
 platform	O
 is	O
@@ -228,6 +231,7 @@ around	O
 the	O
 world	O
 .	O
+
 He	O
 has	O
 signed	O
@@ -259,6 +263,7 @@ South	B-Location
 America	I-Location
 .	O
 "	O
+
 Blue	B-Product
 Ocean	I-Product
 Andes	I-Product
@@ -270,6 +275,7 @@ electrolytes	O
 and	O
 minerals	O
 .	O
+
 The	O
 top	O
 -	O
@@ -338,6 +344,7 @@ and	O
 minerals	O
 .	O
 "	O
+
 My	O
 salts	O
 have	O
@@ -354,6 +361,7 @@ recent	O
 interview	O
 .	O
 "	O
+
 They	O
 are	O
 natural	O
@@ -405,6 +413,7 @@ nation	O
 's	O
 Christianity	B-NORP
 .	O
+
 For	O
 this	O
 he	O
@@ -442,6 +451,7 @@ around	O
 the	O
 world	O
 .	O
+
 Another	O
 is	O
 engraving	O
@@ -455,6 +465,7 @@ into	O
 marble	O
 stones	O
 .	O
+
 He	O
 wants	O
 to	O
@@ -464,6 +475,7 @@ huge	O
 botanical	O
 garden	O
 .	O
+
 Chairman	O
 Cho	B-Person
 says	O

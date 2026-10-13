@@ -579,6 +579,7 @@ BJP	B-Organization
 ’s	O
 favour	O
 .	O
+
 The	O
 surge	O
 for	O
@@ -593,6 +594,7 @@ against	O
 the	O
 BJP	B-Organization
 .	O
+
 “	O
 Hubbe	O
 Ali	B-Person
@@ -623,6 +625,7 @@ implacable	O
 enemy	O
 .	O
 ”	O
+
 For	O
 a	O
 precise	O
@@ -643,6 +646,7 @@ its	O
 constituent	O
 parts	O
 .	O
+
 The	O
 surge	O
 in	O
@@ -652,6 +656,7 @@ against	O
 the	O
 Yogi	B-Person
 .	O
+
 Modi	B-Person
 is	O
 losing	O
@@ -687,6 +692,7 @@ guy	O
 either	O
 way	O
 .	O
+
 Victory	O
 in	O
 UP	B-Location
@@ -699,6 +705,7 @@ Modi	B-Person
 tireless	O
 campaigning	O
 .	O
+
 Defeat	O
 will	O
 be	O
@@ -733,6 +740,7 @@ drawing	O
 room	O
 punditry	O
 .	O
+
 Those	O
 who	O
 claim	O
@@ -752,6 +760,7 @@ the	O
 high	O
 command	O
 .	O
+
 Yogi	B-Person
 is	O
 demanding	O
@@ -763,6 +772,7 @@ Hindu	B-Organization
 Yuva	I-Organization
 Vahini	I-Organization
 .	O
+
 He	O
 imagines	O
 this	O
@@ -805,6 +815,7 @@ the	O
 General	B-Misc
 Elections	I-Misc
 .	O
+
 Towards	O
 that	O
 goal	O
@@ -815,6 +826,7 @@ irreplaceable	O
 staging	O
 post	O
 .	O
+
 Win	O
 or	O
 lose	O
@@ -875,6 +887,7 @@ war	B-Misc
 on	I-Misc
 terror	I-Misc
 .	O
+
 A	O
 miraculous	O
 coincidence	O
@@ -887,6 +900,7 @@ the	O
 global	O
 media	O
 .	O
+
 Modi	B-Person
 was	O
 sent	O
@@ -897,6 +911,7 @@ replace	O
 Keshubhai	B-Person
 Patel	I-Person
 .	O
+
 He	O
 took	O
 charge	O
@@ -907,6 +922,7 @@ as	O
 Chief	O
 Minister	O
 .	O
+
 October	B-Date
 7	I-Date
 turned	O
@@ -945,6 +961,7 @@ fireworks	O
 on	O
 Afghanistan	B-Location
 .	O
+
 Geraldo	B-Person
 Rivera	I-Person
 of	O
@@ -957,6 +974,7 @@ gun	O
 on	O
 camera	O
 .	O
+
 “	O
 I	O
 shall	O
@@ -968,6 +986,7 @@ see	O
 him	O
 .	O
 ”	O
+
 Hysterical	B-Misc
 Islamophobia	I-Misc
 was	O
@@ -975,6 +994,7 @@ enveloping	O
 the	O
 world	O
 .	O
+
 It	O
 was	O
 in	O
@@ -991,6 +1011,7 @@ was	O
 given	O
 shape	O
 .	O
+
 Hindutva	B-Misc
 had	O
 tailwinds	O
@@ -1019,6 +1040,7 @@ blood	O
 curdling	O
 Hindutva	B-Misc
 .	O
+
 Not	O
 only	O
 is	O
@@ -1050,6 +1072,7 @@ mutated	O
 into	O
 Taleban	B-Organization
 .	O
+
 Today	O
 Taleban	B-Organization
 are	O
@@ -1058,6 +1081,7 @@ rulers	O
 in	O
 Kabul	B-Location
 .	O
+
 Sooner	O
 or	O
 later	O
@@ -1082,6 +1106,7 @@ conference	O
 on	O
 Afghanistan	B-Location
 .	O
+
 Global	O
 and	O
 regional	O
@@ -1094,6 +1119,7 @@ a	O
 hard	O
 line	O
 .	O
+
 Hindutva	B-Misc
 by	O
 itself	O
@@ -1102,6 +1128,7 @@ politically	O
 useless	O
 now	O
 .	O
+
 You	O
 do	O
 n’t	O
@@ -1113,6 +1140,7 @@ and	O
 love	O
 Jehad	B-Misc
 .	O
+
 Communalism	O
 has	O
 to	O
@@ -1125,6 +1153,7 @@ yield	O
 political	O
 results	O
 .	O
+
 In	O
 other	O
 words	O
@@ -1139,6 +1168,7 @@ up	O
 the	O
 cauldron	O
 .	O
+
 That	O
 string	O
 to	O

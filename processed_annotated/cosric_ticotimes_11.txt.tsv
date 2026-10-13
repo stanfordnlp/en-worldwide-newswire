@@ -210,6 +210,7 @@ at	O
 Harvard	B-Organization	B-Person
 University	I-Organization
 .	O
+
 The	O
 former	O
 first	O
@@ -281,6 +282,7 @@ The	B-Organization
 Fletcher	I-Organization	B-Person
 School	I-Organization
 .	O
+
 He	O
 has	O
 been	O
@@ -356,6 +358,7 @@ not	O
 or	O
 cannot	O
 .	O
+
 President	O
 Alvarado	B-Person
 ’s	O
@@ -380,6 +383,7 @@ of	O
 international	O
 diplomacy	O
 .	O
+
 It	O
 is	O
 an	O

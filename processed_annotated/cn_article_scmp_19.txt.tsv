@@ -111,6 +111,7 @@ Washington	B-Location
 on	O
 Tuesday	B-Date
 .	O
+
 “	O
 Without	O
 modern	O
@@ -314,6 +315,7 @@ out	O
 other	O
 services	O
 .	O
+
 The	O
 PLA	B-Organization
 performed	O
@@ -592,6 +594,7 @@ about	O
 two	O
 weeks	O
 .	O
+
 They	O
 have	O
 never	O
@@ -620,6 +623,7 @@ exercises	O
 Henley	B-Person
 said	O
 .	O
+
 “	O
 I	O
 just	O

@@ -42,6 +42,7 @@ mid	O
 -	O
 1990s	B-Date
 .	O
+
 On	O
 occasion	O
 ,	O
@@ -64,6 +65,7 @@ covered	O
 in	O
 eggs	O
 .	O
+
 I	O
 was	O
 prevented	O
@@ -98,6 +100,7 @@ the	O
 financial	O
 crisis	O
 .	O
+
 For	O
 a	O
 while	O
@@ -139,6 +142,7 @@ forward	O
 to	O
 2017	B-Date
 .	O
+
 The	O
 days	O
 of	O
@@ -153,6 +157,7 @@ are	O
 long	O
 gone	O
 .	O
+
 I	O
 still	O
 go	O
@@ -240,6 +245,7 @@ to	O
 both	O
 economies	O
 .	O
+
 The	O
 agreement	O
 has	O
@@ -278,6 +284,7 @@ Asia	B-Location
 -	I-Location
 Pacific	I-Location
 .	O
+
 It	O
 ’s	O
 also	O
@@ -372,6 +379,7 @@ these	O
 areas	O
 .	O
 ”	O
+
 Here	O
 at	O
 the	O
@@ -456,6 +464,7 @@ from	O
 the	O
 world	O
 .	O
+
 Since	O
 2011	B-Date
 ,	O
@@ -477,6 +486,7 @@ $	B-Money
 406.01	I-Money
 billion	I-Money
 .	O
+
 However	O
 ,	O
 over	O
@@ -503,6 +513,7 @@ $	B-Money
 63.9	I-Money
 billion	I-Money
 .	O
+
 This	O
 macroeconomic	O
 dynamic	O
@@ -562,6 +573,7 @@ in	O
 services	O
 trade	O
 .	O
+
 This	O
 is	O
 significant	O
@@ -578,6 +590,7 @@ and	O
 Korean	B-NORP
 economies	O
 .	O
+
 According	O
 to	O
 the	O
@@ -619,6 +632,7 @@ comparison	O
 %	O
 )	O
 .	O
+
 The	O
 changes	O
 brought	O
@@ -671,6 +685,7 @@ exports	O
 to	O
 Korea	B-Location
 .	O
+
 According	O
 to	O
 a	O
@@ -723,6 +738,7 @@ of	O
 2015	B-Date
 )	O
 .	O
+
 That	O
 increase	O
 was	O
@@ -770,6 +786,7 @@ the	O
 two	O
 countries	O
 .	O
+
 By	O
 any	O
 measure	O
@@ -783,6 +800,7 @@ net	O
 beneficiary	O
 here	O
 .	O
+
 Korea	B-Location
 is	O
 the	O
@@ -828,6 +846,7 @@ between	O
 and	O
 2015	B-Date
 .	O
+
 This	O
 growth	O
 is	O
@@ -842,6 +861,7 @@ in	O
 recent	O
 years	O
 .	O
+
 Such	O
 investment	O
 now	O
@@ -855,6 +875,7 @@ well	O
 paying	O
 jobs	O
 .	O
+
 According	O
 to	O
 Select	B-Organization
@@ -876,6 +897,7 @@ is	O
 $	B-Money
 91,000	I-Money
 .	O
+
 Further	O
 ,	O
 Korea	B-Location
@@ -936,6 +958,7 @@ value	O
 gains	O
 here	O
 .	O
+
 In	O
 addition	O
 to	O
@@ -998,6 +1021,7 @@ worked	O
 as	O
 planned	O
 .	O
+
 In	O
 all	O
 our	O
@@ -1038,6 +1062,7 @@ and	O
 regulatory	O
 overreach	O
 .	O
+
 Yet	O
 ,	O
 as	O
@@ -1082,6 +1107,7 @@ them	O
 too	O
 narrowly	O
 .	O
+
 But	O
 we	O
 believe	O

@@ -184,6 +184,7 @@ change	O
 she	O
 said	O
 .	O
+
 “	O
 If	O
 the	O
@@ -347,6 +348,7 @@ the	O
 party	O
 charter	O
 .	O
+
 Park	B-Person
 joined	O
 the	O
@@ -425,6 +427,7 @@ cannot	O
 be	O
 reversed	O
 .	O
+
 Rep.	O
 Kim	B-Person
 Nam	I-Person
@@ -530,6 +533,7 @@ during	O
 the	O
 election	O
 .	O
+
 And	O
 they	O
 also	O
@@ -665,6 +669,7 @@ with	O
 8.8	O
 percent	O
 .	O
+
 Rep.	O
 Lee	B-Person
 Jae	I-Person

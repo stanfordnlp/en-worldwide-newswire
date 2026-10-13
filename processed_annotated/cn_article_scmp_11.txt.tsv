@@ -21,6 +21,7 @@ region	O
 and	O
 country	O
 .	O
+
 Political	O
 unrest	O
 and	O
@@ -28,6 +29,7 @@ violence	O
 are	O
 rampant	O
 .	O
+
 Leaders	O
 are	O
 resigning	O
@@ -35,6 +37,7 @@ or	O
 being	O
 assassinated	O
 .	O
+
 The	O
 Covid	B-Misc
 -	I-Misc

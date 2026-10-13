@@ -133,6 +133,7 @@ two	O
 systems	O
 "	O
 .	O
+
 Therefore	O
 ,	O
 all	O
@@ -191,6 +192,7 @@ not	O
 change	O
 .	O
 "	O
+
 If	O
 the	O
 principle	O
@@ -293,6 +295,7 @@ of	O
 Hong	B-Location
 Kong	I-Location
 .	O
+
 Every	O
 Hong	B-Location
 Kong	I-Location
@@ -347,6 +350,7 @@ against	O
 them	O
 all	O
 .	O
+
 Xia	B-Person
 said	O
 ,	O
@@ -408,6 +412,7 @@ Hong	B-Location
 Kong	I-Location
 .	O
 "	O
+
 The	O
 implementation	O
 of	O
@@ -472,6 +477,7 @@ in	O
 the	O
 future	O
 .	O
+
 And	O
 Xia	B-Person
 hoped	O
@@ -545,6 +551,7 @@ Lee	B-Person
 said	O
 .	O
 "	O
+
 President	O
 Xi	B-Person
 also	O

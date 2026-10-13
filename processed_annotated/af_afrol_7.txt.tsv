@@ -575,6 +575,7 @@ pre	O
 position	O
 stocks	O
 .	O
+
 We	O
 really	O
 do	O
@@ -701,6 +702,7 @@ Ms	O
 Haque	B-Person
 underlined	O
 .	O
+
 The	O
 conflict	O
 had	O
@@ -814,6 +816,7 @@ according	O
 to	O
 UNHCR	B-Organization
 .	O
+
 With	O
 continuing	O
 insecurity	O
@@ -883,6 +886,7 @@ Ethiopia	B-Location
 and	O
 Uganda	B-Location
 .	O
+
 Many	O
 of	O
 the	O
@@ -922,6 +926,7 @@ and	O
 older	O
 people	O
 .	O
+
 With	O
 some	O
 700,000	O

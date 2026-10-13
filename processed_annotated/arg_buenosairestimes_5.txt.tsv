@@ -123,6 +123,7 @@ mid	O
 -	O
 June	B-Date
 .	O
+
 Milei	B-Person
 was	O
 not	O
@@ -174,6 +175,7 @@ of	I-Organization
 Deputies	I-Organization
 database	O
 .	O
+
 It	O
 is	O
 worth	O
@@ -226,6 +228,7 @@ was	O
 in	O
 Congress	B-Organization
 .	O
+
 Not	O
 all	O
 the	O
@@ -334,6 +337,7 @@ the	O
 House	B-Organization
 committees	O
 .	O
+
 His	O
 entourage	O
 argues	O
@@ -456,6 +460,7 @@ without	O
 being	O
 members	O
 .	O
+
 Nevertheless	O
 ,	O
 it	O
@@ -515,6 +520,7 @@ laws	O
 and	O
 statements	O
 .	O
+
 A	O
 deputy	O
 may	O

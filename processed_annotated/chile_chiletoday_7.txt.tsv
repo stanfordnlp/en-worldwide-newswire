@@ -361,8 +361,10 @@ exiled	O
 to	O
 Peru	B-Location
 .	O
+
 Meanwhile	O
 .	O
+
 General	O
 Freire	B-Person
 was	O
@@ -392,6 +394,7 @@ stronghold	O
 in	O
 Chiloé	B-Location
 .	O
+
 Freire	B-Person
 therefore	O
 handed	O
@@ -405,6 +408,7 @@ constitution	O
 to	O
 Congress	B-Organization
 .	O
+
 The	O
 resulting	O
 document	O
@@ -449,6 +453,7 @@ President	O
 of	O
 Chile	B-Location
 .	O
+
 His	O
 main	O
 focus	O
@@ -479,6 +484,7 @@ so	O
 he	O
 resigned	O
 .	O
+
 Nevertheless	O
 ,	O
 the	O
@@ -535,6 +541,7 @@ a	O
 progressive	O
 constitution	O
 .	O
+
 In	O
 response	O
 ,	O
@@ -584,6 +591,7 @@ elections	O
 of	O
 1829	B-Date
 .	O
+
 According	O
 to	O
 the	O
@@ -649,6 +657,7 @@ that	O
 Pinto	B-Person
 resign	O
 .	O
+
 Meanwhile	O
 ,	O
 General	O
@@ -704,6 +713,7 @@ was	O
 too	O
 late	O
 .	O
+
 The	O
 conservative	O
 forces	O
@@ -719,6 +729,7 @@ without	O
 a	O
 leader	O
 .	O
+
 The	O
 ensuing	O
 struggle	O
@@ -729,6 +740,7 @@ winner	O
 or	O
 loser	O
 .	O
+
 Liberal	B-NORP
 leaders	O
 fled	O
@@ -781,6 +793,7 @@ the	O
 River	B-Location
 Maule	I-Location
 .	O
+
 From	O
 there	O
 ,	O
@@ -839,6 +852,7 @@ a	O
 possible	O
 attack	O
 .	O
+
 Then	O
 ,	O
 when	O
@@ -927,6 +941,7 @@ they	O
 saw	O
 fit	O
 .	O
+
 General	O
 Prieto	B-Person
 was	O
@@ -972,6 +987,7 @@ of	O
 federal	O
 rule	O
 .	O
+
 It	O
 also	O
 reinforced	O
@@ -996,6 +1012,7 @@ holding	O
 significant	O
 power	O
 .	O
+
 It	O
 was	O
 also	O
@@ -1024,6 +1041,7 @@ strict	O
 voting	O
 laws	O
 .	O
+
 Single	O
 citizens	O
 gained	O
@@ -1048,6 +1066,7 @@ they	O
 turned	O
 21	O
 .	O
+
 The	O
 right	O
 to	O
@@ -1113,6 +1132,7 @@ more	O
 radical	O
 approaches	O
 .	O
+
 Ultimately	O
 ,	O
 however	O
@@ -1128,6 +1148,7 @@ away	O
 into	O
 obscurity	O
 .	O
+
 Meanwhile	O
 ,	O
 the	O

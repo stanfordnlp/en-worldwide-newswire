@@ -1043,6 +1043,7 @@ ultra	O
 Orthodox	B-NORP
 community	O
 .	O
+
 Ultimately	O
 ,	O
 she	O
@@ -1127,6 +1128,7 @@ to	O
 varying	O
 degrees	O
 .	O
+
 Apart	O
 from	O
 Lenk	B-Person
@@ -1178,6 +1180,7 @@ followed	O
 his	O
 case	O
 .	O
+
 Some	O
 were	O
 sources	O
@@ -1188,6 +1191,7 @@ Jewish	B-Organization
 Week	I-Organization
 article	O
 .	O
+
 Before	O
 he	O
 was	O
@@ -1257,6 +1261,7 @@ in	O
 their	O
 lives	O
 .	O
+
 Yet	O
 the	O
 revelation	O
@@ -1315,6 +1320,7 @@ the	O
 public	O
 .	O
 "	O
+
 The	O
 problem	O
 is	O
@@ -1325,6 +1331,7 @@ solved	O
 she	O
 warned	O
 .	O
+
 “	O
 Over	O
 the	O
@@ -1348,6 +1355,7 @@ self	O
 -	O
 preservation	O
 .	O
+
 I	O
 ’m	O
 certain	O
@@ -1393,6 +1401,7 @@ aliyah	O
 policies	O
 remains	O
 .	O
+
 This	O
 lacuna	O
 has	O
@@ -1423,6 +1432,7 @@ for	O
 sexual	O
 offenders	O
 .	O
+
 We	O
 desperately	O
 need	O
@@ -1440,6 +1450,7 @@ Megan	B-Person
 ’s	O
 law	O
 .	O
+
 It	O
 is	O
 untenable	O
@@ -1576,6 +1587,7 @@ too	O
 easily	O
 happen	O
 .	O
+
 It	O
 is	O
 unsettling	O
@@ -1638,6 +1650,7 @@ very	O
 basic	O
 right	O
 .	O
+
 If	O
 you	O
 ’re	O
@@ -1660,6 +1673,7 @@ a	O
 good	O
 reason	O
 .	O
+
 The	O
 Israeli	B-NORP
 government	O
@@ -1690,6 +1704,7 @@ the	O
 Israeli	B-NORP
 public	O
 .	O
+
 Clearly	O
 ,	O
 they	O
@@ -1704,6 +1719,7 @@ is	O
 a	O
 danger	O
 .	O
+
 So	O
 if	O
 he	O
@@ -1722,6 +1738,7 @@ a	O
 residency	O
 visa	O
 ?	O
+
 If	O
 he	O
 ’s	O
@@ -1747,6 +1764,7 @@ in	O
 your	O
 country	O
 .	O
+
 If	O
 he	O
 ’s	O
@@ -1766,6 +1784,7 @@ him	O
 make	O
 aliyah	O
 .	O
+
 You	O
 ca	O
 n’t	O

@@ -73,6 +73,7 @@ It	O
 ’s	O
 beautiful	O
 .	O
+
 It	O
 ’s	O
 their	O
@@ -96,6 +97,7 @@ Diyet	B-Person
 van	I-Person
 Lieshout	I-Person
 .	O
+
 “	O
 It	O
 ’s	O
@@ -187,6 +189,7 @@ Yukon	B-Facility	B-Location
 Arts	I-Facility
 Centre	I-Facility
 .	O
+
 The	O
 premiere	O
 happened	O
@@ -225,6 +228,7 @@ its	O
 their	O
 creation	O
 .	O
+
 It	O
 ’s	O
 traditional	O
@@ -241,6 +245,7 @@ it	O
 ’s	O
 visionary	O
 .	O
+
 It	O
 really	O
 speaks	O
@@ -276,6 +281,7 @@ youth	O
 to	O
 elders	O
 .	O
+
 Dreaming	B-Misc
 Roots	I-Misc
 ’	O
@@ -509,6 +515,7 @@ to	O
 be	O
 inspired	O
 .	O
+
 I	O
 would	O
 love	O

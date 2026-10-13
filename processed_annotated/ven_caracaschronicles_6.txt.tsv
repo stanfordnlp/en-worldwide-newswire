@@ -335,6 +335,7 @@ non	O
 -	O
 compliance	O
 .	O
+
 Past	O
 quotas	O
 mandated	O
@@ -393,6 +394,7 @@ with	O
 the	O
 quota	O
 .	O
+
 That	O
 process	O
 has	O
@@ -427,6 +429,7 @@ in	O
 local	O
 legislatures	O
 .	O
+
 Chile	B-Location
 ’s	O
 new	O
@@ -472,6 +475,7 @@ women	O
 ’s	O
 representation	O
 .	O
+
 To	O
 implement	O
 a	O
@@ -525,6 +529,7 @@ develop	O
 the	O
 law	O
 .	O
+
 When	O
 Mexican	B-NORP
 parties	O
@@ -598,6 +603,7 @@ an	O
 enforcement	O
 mechanism	O
 .	O
+
 A	O
 similar	O
 group	O
@@ -638,6 +644,7 @@ experience	O
 on	O
 this	O
 .	O
+
 Tibisay	B-Person
 Lucena	I-Person
 summoned	O
@@ -704,6 +711,7 @@ their	O
 male	O
 counterparts	O
 .	O
+
 In	O
 Venezuela	B-Location
 ,	O
@@ -719,6 +727,7 @@ a	O
 grassroots	O
 level	O
 .	O
+
 We	O
 must	O
 leverage	O
@@ -780,6 +789,7 @@ women	O
 into	O
 office	O
 .	O
+
 This	O
 coalition	O
 also	O
@@ -822,6 +832,7 @@ the	O
 legislative	O
 quota	O
 .	O
+
 The	O
 result	O
 :	O
@@ -845,6 +856,7 @@ in	O
 everything	O
 .	O
 ”	O
+
 Similarly	O
 ,	O
 the	O
@@ -901,6 +913,7 @@ parties	O
 ,	O
 too	O
 .	O
+
 Some	O
 organizations	O
 like	O
@@ -917,6 +930,7 @@ already	O
 doing	O
 this	O
 .	O
+
 These	O
 initiatives	O
 desperately	O
@@ -950,6 +964,7 @@ with	O
 little	O
 progress	O
 .	O
+
 At	O
 Voluntad	B-Organization
 Popular	I-Organization
@@ -998,6 +1013,7 @@ the	O
 political	O
 organizations	O
 .	O
+
 The	O
 excuse	O
 :	O
@@ -1041,6 +1057,7 @@ forward	O
 for	O
 adoption	O
 .	O
+
 El	B-Location
 Salvador	I-Location
 ’s	O
@@ -1075,6 +1092,7 @@ women	O
 political	O
 priorities	O
 .	O
+
 A	O
 precedent	O
 already	O
@@ -1104,6 +1122,7 @@ a	O
 gender	O
 focus	O
 .	O
+
 This	O
 process	O
 must	O
@@ -1145,6 +1164,7 @@ Peace	I-Misc
 and	I-Misc
 Security	I-Misc
 .	O
+
 Around	O
 100	O
 other	O
@@ -1220,6 +1240,7 @@ the	O
 political	O
 stage	O
 .	O
+
 This	O
 includes	O
 access	O
@@ -1235,6 +1256,7 @@ training	O
 and	O
 mentorship	O
 .	O
+
 In	O
 Mexico	B-Location
 ,	O
@@ -1260,6 +1282,7 @@ women	O
 political	O
 leadership	O
 .	O
+
 Similar	O
 funding	O
 in	O
@@ -1309,6 +1332,7 @@ the	O
 political	O
 landscape	O
 .	O
+
 But	O
 together	O
 ,	O
@@ -1323,6 +1347,7 @@ the	O
 playing	O
 field	O
 .	O
+
 And	O
 in	O
 so	O

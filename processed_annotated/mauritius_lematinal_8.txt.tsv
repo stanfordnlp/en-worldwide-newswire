@@ -29,6 +29,7 @@ l	O
 ’	O
 express	O
 .	O
+
 “	O
 Why	O
 did	O
@@ -42,11 +43,13 @@ on	O
 its	O
 airwaves	O
 .	O
+
 Why	O
 on	O
 social	O
 networks	O
 ?	O
+
 You	O
 do	O
 n’t	O
@@ -66,6 +69,7 @@ Bobby	B-Person
 Hurreeram	I-Person
 said	O
 .	O
+
 Deepak	B-Person
 Balgobin	I-Person
 ,	O
@@ -96,6 +100,7 @@ a	O
 technical	O
 report	O
 .	O
+
 “	O
 There	O
 is	O
@@ -110,6 +115,7 @@ case	O
 he	O
 said	O
 .	O
+
 And	O
 Deepak	B-Person
 Balgobin	I-Person
@@ -132,6 +138,7 @@ press	O
 this	O
 morning	O
 .	O
+
 The	O
 interventions	O
 of	O
@@ -153,6 +160,7 @@ Infrastructure	O
 was	O
 awaited	O
 .	O
+
 The	O
 latter	O
 denounced	O
@@ -177,6 +185,7 @@ the	O
 country	O
 ”	O
 .	O
+
 He	O
 said	O
 that	O
@@ -203,6 +212,7 @@ of	O
 the	O
 country	O
 .	O
+
 “	O
 I	O
 must	O
@@ -210,6 +220,7 @@ denounce	O
 this	O
 plot	O
 .	O
+
 The	O
 personal	O
 responsibility	O
@@ -219,11 +230,13 @@ Noorbux	I-Person
 is	O
 engaged	O
 .	O
+
 I	O
 take	O
 my	O
 responsibilities	O
 .	O
+
 No	O
 one	O
 will	O
@@ -250,6 +263,7 @@ a	O
 threshold	O
 yesterday	O
 .	O
+
 “	O
 It	O
 seems	O
@@ -273,6 +287,7 @@ called	O
 Nawaz	B-Person
 Noorbux	I-Person
 .	O
+
 He	O
 is	O
 judging	O
@@ -287,6 +302,7 @@ time	O
 he	O
 said	O
 .	O
+
 Bobby	B-Person
 Hurreeram	I-Person
 even	O

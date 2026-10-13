@@ -209,6 +209,7 @@ influence	O
 to	O
 everyone	O
 .	O
+
 However	O
 ,	O
 this	O
@@ -402,6 +403,7 @@ have	O
 any	O
 questions	O
 .	O
+
 But	O
 they	O
 should	O
@@ -471,6 +473,7 @@ the	O
 recruitment	O
 process	O
 .	O
+
 Luo	B-Person
 has	O
 yet	O
@@ -690,6 +693,7 @@ boy	O
 band	O
 TFBoys	B-Organization
 .	O
+
 He	O
 has	O
 also	O
@@ -791,6 +795,7 @@ the	O
 National	B-Organization
 Theatre	I-Organization
 .	O
+
 In	O
 2020	B-Date
 ,	O

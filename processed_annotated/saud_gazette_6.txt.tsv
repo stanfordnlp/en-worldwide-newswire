@@ -48,6 +48,7 @@ there	O
 any	O
 optimism	O
 ?	O
+
 Or	O
 is	O
 it	O
@@ -64,6 +65,7 @@ in	O
 bilateral	O
 relations	O
 ?	O
+
 It	O
 is	O
 true	O
@@ -88,6 +90,7 @@ regard	O
 in	O
 2016	B-Date
 .	O
+
 Even	O
 before	O
 that	O
@@ -156,6 +159,7 @@ safety	O
 of	O
 pilgrims	O
 .	O
+
 This	O
 was	O
 something	O
@@ -259,6 +263,7 @@ Baghdad	B-Location
 and	O
 Damascus	B-Location
 .	O
+
 And	O
 here	O
 it	O
@@ -307,6 +312,7 @@ Sana	B-Location
 ’	I-Location
 a	I-Location
 .	O
+
 This	O
 cunning	O
 strategy	O
@@ -366,6 +372,7 @@ in	O
 everyone	O
 ”	O
 .	O
+
 This	O
 indicates	O
 that	O
@@ -410,6 +417,7 @@ its	O
 Houthi	B-Organization
 tail	O
 .	O
+
 It	O
 also	O
 stands	O
@@ -429,6 +437,7 @@ there	O
 in	O
 Kuwait	B-Location
 .	O
+
 It	O
 is	O
 killing	O
@@ -483,6 +492,7 @@ other	O
 suspicious	O
 activities	O
 .	O
+
 This	O
 is	O
 why	O
@@ -514,6 +524,7 @@ required	O
 of	O
 respect	O
 .	O
+
 It	O
 shall	O
 never	O
@@ -568,6 +579,7 @@ in	O
 his	O
 hand	O
 !	O
+
 Over	O
 the	O
 centuries	O
@@ -593,6 +605,7 @@ in	O
 their	O
 souls	O
 .	O
+
 It	O
 is	O
 a	O
@@ -721,6 +734,7 @@ of	O
 peaceful	O
 coexistence	O
 .	O
+
 There	O
 is	O
 an	O
@@ -742,6 +756,7 @@ a	O
 recent	O
 interview	O
 .	O
+
 It	O
 is	O
 a	O
@@ -755,6 +770,7 @@ and	O
 good	O
 treatment	O
 .	O
+
 However	O
 ,	O
 it	O
@@ -839,6 +855,7 @@ more	O
 than	O
 once	O
 .	O
+
 As	O
 the	O
 proverb	O
@@ -888,6 +905,7 @@ destruction	O
 and	O
 terrorism	O
 .	O
+
 But	O
 it	O
 will	O

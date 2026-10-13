@@ -588,6 +588,7 @@ pre	O
 independence	O
 period	O
 .	O
+
 The	O
 school	O
 was	O
@@ -615,6 +616,7 @@ all	O
 Mauritians	B-NORP
 educated	O
 .	O
+
 The	O
 school	O
 started	O
@@ -654,6 +656,7 @@ education	O
 to	O
 students	O
 .	O
+
 For	O
 the	O
 academic	O

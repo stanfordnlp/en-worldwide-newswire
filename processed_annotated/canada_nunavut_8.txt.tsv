@@ -114,6 +114,7 @@ territory	O
 ’s	O
 capital	O
 .	O
+
 She	O
 says	O
 it	O
@@ -316,6 +317,7 @@ other	O
 Nunavut	B-Location
 communities	O
 .	O
+
 Those	O
 service	O
 centres	O
@@ -426,6 +428,7 @@ alternative	O
 in	O
 Nunavut	B-Location
 .	O
+
 The	O
 North	B-Organization
 West	I-Organization
@@ -442,6 +445,7 @@ of	O
 $	B-Money
 4.95	I-Money
 .	O
+
 There	O
 are	O
 also	O
@@ -454,6 +458,7 @@ and	O
 withdrawing	O
 funds	O
 .	O
+
 Arctic	B-Organization	B-Location
 Co	I-Organization
 -	I-Organization
@@ -474,6 +479,7 @@ rely	O
 on	O
 cash	O
 ?	O
+
 Aqiatusuk	B-Person
 says	O
 cash	O
@@ -486,6 +492,7 @@ in	O
 Resolute	B-Location
 Bay	I-Location
 .	O
+
 Many	O
 people	O
 come	O
@@ -567,6 +574,7 @@ me	O
 she	O
 says	O
 .	O
+
 “	O
 People	O
 who	O
@@ -587,6 +595,7 @@ problem	O
 is	O
 addresses	O
 .	O
+
 Some	O
 banks	O
 do	O
@@ -602,6 +611,7 @@ have	O
 street	O
 names	O
 .	O
+
 Some	O
 people	O
 ,	O
@@ -670,6 +680,7 @@ their	O
 addresses	O
 virtually	O
 .	O
+
 However	O
 ,	O
 it	O
@@ -685,6 +696,7 @@ cards	O
 by	O
 mail	O
 .	O
+
 CIBC	B-Organization
 and	O
 Royal	B-Organization
@@ -743,6 +755,7 @@ Pangnirtung	B-Location
 and	O
 Kinngait	B-Location
 .	O
+
 She	O
 says	O
 the	O
@@ -797,6 +810,7 @@ of	O
 internet	O
 service	O
 .	O
+
 Its	O
 lack	O
 is	O
@@ -807,6 +821,7 @@ in	O
 the	O
 North	O
 .	O
+
 And	O
 the	O
 opening	O
@@ -829,6 +844,7 @@ in	O
 January	B-Date
 2021	I-Date
 .	O
+
 Anderson	B-Person
 says	O
 Nunavut	B-Location
@@ -841,12 +857,14 @@ products	O
 in	O
 general	O
 .	O
+
 “	O
 I	O
 say	O
 postal	O
 banking	O
 .	O
+
 I	O
 say	O
 expand	O
@@ -871,6 +889,7 @@ communities	O
 he	O
 suggests	O
 .	O
+
 “	O
 Their	O
 goal	O
@@ -883,6 +902,7 @@ amounts	O
 of	O
 money	O
 .	O
+
 The	O
 whole	O
 idea	O
@@ -910,6 +930,7 @@ people	O
 ’s	O
 savings	O
 .	O
+
 Anderson	B-Person
 points	O
 to	O
@@ -928,6 +949,7 @@ functioning	O
 postal	O
 banks	O
 .	O
+
 “	O
 How	O
 much	O
@@ -946,6 +968,7 @@ stuff	O
 he	O
 asks	O
 .	O
+
 “	O
 Very	O
 little	O

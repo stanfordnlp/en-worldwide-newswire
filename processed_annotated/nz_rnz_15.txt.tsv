@@ -83,6 +83,7 @@ M	B-NORP
 ā	I-NORP
 ori	I-NORP
 .	O
+
 Its	O
 first	O
 two	O
@@ -175,6 +176,7 @@ swoop	O
 with	O
 ease	O
 .	O
+
 Claimants	O
 ,	O
 however	O
@@ -316,6 +318,7 @@ she	O
 said	O
 .	O
 "	O
+
 And	O
 a	O
 structure	O
@@ -545,6 +548,7 @@ of	O
 legal	O
 aid	O
 .	O
+
 Claimants	O
 can	O
 only	O
@@ -565,6 +569,7 @@ on	O
 voluntary	O
 time	O
 .	O
+
 In	O
 some	O
 cases	O
@@ -618,6 +623,7 @@ for	O
 a	O
 koha	O
 .	O
+
 If	O
 you're	O
 very	O
@@ -641,6 +647,7 @@ already	O
 covered	O
 it	O
 .	O
+
 But	O
 if	O
 those	O
@@ -719,6 +726,7 @@ they	O
 really	O
 do	O
 .	O
+
 It	O
 's	O
 as	O
@@ -739,6 +747,7 @@ are	O
 there	O
 for	O
 .	O
+
 And	O
 it	O
 's	O

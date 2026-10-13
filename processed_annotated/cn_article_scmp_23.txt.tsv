@@ -40,6 +40,7 @@ of	O
 all	O
 time	O
 .	O
+
 It	O
 captured	O
 the	O
@@ -80,6 +81,7 @@ hit	O
 is	O
 undeniable	O
 .	O
+
 But	O
 since	O
 then	O
@@ -126,6 +128,7 @@ around	O
 the	O
 world	O
 .	O
+
 K	B-Misc
 -	I-Misc
 pop	I-Misc
@@ -229,6 +232,7 @@ half	O
 of	O
 2022	B-Date
 .	O
+
 That	O
 ’s	O
 up	O
@@ -278,6 +282,7 @@ as	O
 Nielsen	B-Organization
 Music	I-Organization
 .	O
+
 Of	O
 the	O
 top	O
@@ -436,6 +441,7 @@ K	B-Misc
 pop	I-Misc
 acts	O
 .	O
+
 Sunday	B-Date
 saw	O
 the	O
@@ -517,6 +523,7 @@ made	O
 almost	O
 monthly	O
 .	O
+
 But	O
 if	O
 what	O
@@ -533,6 +540,7 @@ record	O
 truly	O
 historic	O
 ?	O
+
 And	O
 when	O
 many	O
@@ -594,6 +602,7 @@ rarer	O
 and	O
 rarer	O
 .	O
+
 There	O
 ’s	O
 Luis	B-Person
@@ -619,6 +628,7 @@ Ddu	I-Misc
 ,	O
 respectively	O
 .	O
+
 But	O
 it	O
 seems	O
@@ -671,6 +681,7 @@ a	O
 lesser	O
 success	O
 .	O
+
 I	O
 think	O
 it	O
@@ -702,6 +713,7 @@ has	O
 been	O
 lost	O
 .	O
+
 When	O
 a	O
 song	O
@@ -761,11 +773,13 @@ of	O
 musical	O
 disunity	O
 ?	O
+
 I	O
 ’m	O
 not	O
 sure	O
 .	O
+
 Just	O
 because	O
 many	O
@@ -834,6 +848,7 @@ in	O
 enjoying	O
 it	O
 .	O
+
 I	O
 hope	O
 we	O
