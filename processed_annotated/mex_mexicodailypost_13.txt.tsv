@@ -15,9 +15,7 @@ Association	I-Organization
 ,	O
 Rogelio	B-Person
 Lozano	I-Person
-CalderÃ	I-Person
-³	O
-n	O
+Calderón	I-Person
 ,	O
 commented	O
 that	O
@@ -152,10 +150,8 @@ workers	O
 themselves	O
 .	O
 
-Everyoneâ	O
-€	O
-™	O
-s	O
+Everyone	O
+’s	O
 participation	O
 is	O
 required	O

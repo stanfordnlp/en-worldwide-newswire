@@ -231,9 +231,7 @@ Anamely	B-Person
 Ramos	I-Person
 ,	O
 Karla	B-Person
-PÃ	I-Person
-©	I-Person
-rez	I-Person
+Pérez	I-Person
 and	O
 other	O
 Cubans	B-NORP
@@ -534,9 +532,7 @@ Anamely	B-Person
 Ramos	I-Person
 and	O
 Karla	B-Person
-PÃ	I-Person
-©	I-Person
-rez	I-Person
+Pérez	I-Person
 when	O
 it	O
 subjects	O

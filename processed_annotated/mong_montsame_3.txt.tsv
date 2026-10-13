@@ -17,10 +17,8 @@ MNT	B-Money
 billion	I-Money
 from	O
 the	O
-governmentâ	O
-€	O
-™	O
-s	O
+government	O
+’s	O
 reserve	O
 fund	O
 to	O
@@ -40,10 +38,8 @@ was	O
 during	O
 the	O
 last	O
-springâ	O
-€	O
-™	O
-s	O
+spring	O
+’s	O
 sowing	O
 .	O
 
@@ -114,10 +110,8 @@ level	O
 as	O
 the	O
 last	O
-springâ	O
-€	O
-™	O
-s	O
+spring	O
+’s	O
 sowing	O
 .	O
 

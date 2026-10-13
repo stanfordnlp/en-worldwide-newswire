@@ -515,9 +515,7 @@ For	O
 economist	O
 Luis	B-Person
 Alberto	I-Person
-MorÃ	I-Person
-¡	O
-n	O
+Morán	I-Person
 ,	O
 this	O
 situation	O
@@ -597,14 +595,10 @@ the	O
 pandemic	O
 .	O
 
-MorÃ	B-Person
-¡	O
-n	O
+Morán	B-Person
 said	O
 that	O
-â	O
-€	O
-œ	O
+“	O
 with	O
 the	O
 global	O

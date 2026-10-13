@@ -10,9 +10,7 @@ E	O
 jci	O
 
 AMMAN	B-Location
-â	O
-€	O
-”	O
+—	O
 The	O
 industry	O
 sector	O
@@ -227,10 +225,8 @@ jobs	O
 created	O
 through	O
 the	O
-Kingdomâ	B-Organization
-€	O
-™	O
-s	O
+Kingdom	B-Organization
+’s	O
 investments	O
 ,	O
 highlighting	O
@@ -265,9 +261,8 @@ project	O
 ,	O
 while	O
 other	O
-sectorsâ	O
-€	O
-™	O
+sectors	O
+’	O
 projects	O
 generated	O
 some	O

@@ -296,10 +296,8 @@ be	O
 held	O
 at	O
 Souq	B-Location
-Waqifâ	I-Location
-€	O
-™	O
-s	O
+Waqif	I-Location
+’s	O
 Al	B-Location
 Ahmad	I-Location
 Square	I-Location
@@ -350,10 +348,8 @@ dates	O
 .	O
 
 The	O
-festivalâ	O
-€	O
-™	O
-s	O
+festival	O
+’s	O
 organising	O
 committee	O
 has	O
