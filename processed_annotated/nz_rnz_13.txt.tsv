@@ -1,9 +1,7 @@
 https://www.rnz.co.nz/news/te-manu-korihi/472089/rangatahi-maori-and-samoan-people-treated-unfairly-in-justice-system-study-finds	O
 
 Young	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 and	O
 Samoan	B-NORP
 people	O
@@ -59,9 +57,7 @@ are	O
 studying	O
 how	O
 rangatahi	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 and	O
 Samoan	B-NORP
 people	O
@@ -77,9 +73,7 @@ experiences	O
 faced	O
 by	O
 their	O
-wh	B-NORP
-ā	I-NORP
-nau	I-NORP
+whānau	B-NORP
 and	O
 communities	O
 .	O
@@ -97,9 +91,7 @@ a	O
 series	O
 of	O
 cultural	O
-k	O
-ō	O
-rero	O
+kōrero	O
 and	O
 talanoa	O
 sessions	O
@@ -107,17 +99,13 @@ with	O
 both	O
 individuals	O
 and	O
-wh	B-NORP
-ā	I-NORP
-nau	I-NORP
+whānau	B-NORP
 in	O
 Auckland	B-Location
 ,	O
 Taranaki	B-Location
 ,	O
-Tair	B-Location
-ā	I-Location
-whiti	I-Location
+Tairāwhiti	B-Location
 ,	O
 Brisbane	B-Location
 ,	O
@@ -191,9 +179,7 @@ n't	O
 just	O
 come	O
 from	O
-wh	O
-ā	O
-nau	O
+whānau	O
 ,	O
 but	O
 it	O
@@ -454,9 +440,7 @@ a	O
 range	O
 of	O
 kaupapa	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 and	O
 Samoan	B-NORP
 conversation	O
@@ -517,9 +501,7 @@ system	O
 
 From	O
 the	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 data	O
 ,	O
 preliminary	O
@@ -562,9 +544,7 @@ for	O
 rangatahi	O
 and	O
 their	O
-wh	O
-ā	O
-nau	O
+whānau	O
 ;	O
 they	O
 also	O
@@ -642,9 +622,7 @@ scholar	O
 groundbreaking	O
 work	O
 on	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 in	O
 the	O
 criminal	O
@@ -681,9 +659,7 @@ option	O
 of	O
 te	O
 reo	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 terms	O
 in	O
 place	O
@@ -714,9 +690,7 @@ government	O
 organisations	O
 that	O
 adopt	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 sayings	O
 or	O
 words	O

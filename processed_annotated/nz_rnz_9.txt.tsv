@@ -272,9 +272,7 @@ pledges	O
 to	O
 work	O
 with	O
-M	B-NORP
-ā	I-NORP
-aori	I-NORP
+Māaori	B-NORP
 on	O
 climate	O
 actions	O
@@ -824,14 +822,11 @@ and	O
 central	O
 government	O
 ,	O
-hap	B-NORP
-ū	I-NORP
+hapū	B-NORP
 ,	O
 iwi	B-Misc
 and	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 ,	O
 and	O
 communities	O
@@ -1319,9 +1314,7 @@ Establishing	O
 a	O
 platform	O
 for	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 climate	O
 action	O
 

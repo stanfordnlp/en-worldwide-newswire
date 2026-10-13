@@ -1,8 +1,6 @@
 https://www.rnz.co.nz/news/political/472178/new-law-gives-ngai-tahu-right-to-appoint-two-environment-canterbury-councillors	O
 
-Ng	B-NORP
-ā	I-NORP
-i	I-NORP
+Ngāi	B-NORP
 Tahu	I-NORP
 will	O
 get	O
@@ -66,17 +64,12 @@ Some	O
 40	O
 representatives	O
 of	O
-Ng	B-NORP
-ā	I-NORP
-i	I-NORP
+Ngāi	B-NORP
 Tahu	I-NORP
 ,	O
 including	O
-kaum	O
-ā	O
-tua	O
-T	O
-ā	O
+kaumātua	O
+Tā	O
 Tipene	B-Person
 O'Regan	I-Person
 ,	O
@@ -92,9 +85,7 @@ Canterbury	B-Organization	B-Location
 Regional	I-Organization
 Council	I-Organization
 (	O
-Ng	B-NORP
-ā	I-NORP
-i	I-NORP
+Ngāi	B-NORP
 Tahu	I-NORP
 Representation	O
 )	O
@@ -206,9 +197,7 @@ on	O
 the	O
 recommendation	O
 of	O
-Ng	B-NORP
-ā	I-NORP
-i	I-NORP
+Ngāi	B-NORP
 Tahu	I-NORP
 .	O
 
@@ -234,9 +223,7 @@ at	O
 the	O
 request	O
 of	O
-Ng	B-NORP
-ā	I-NORP
-i	I-NORP
+Ngāi	B-NORP
 Tahu	I-NORP
 and	O
 the	O
@@ -573,9 +560,7 @@ election	O
 ,	O
 the	O
 two	O
-Ng	B-NORP
-ā	I-NORP
-i	I-NORP
+Ngāi	B-NORP
 Tahu	I-NORP
 representatives	O
 are	O
@@ -769,9 +754,7 @@ robust	O
 and	O
 with	O
 74,000	O
-Ng	B-NORP
-ā	I-NORP
-i	I-NORP
+Ngāi	B-NORP
 Tahu	I-NORP
 members	O
 to	O
@@ -800,9 +783,7 @@ of	O
 iwi	B-NORP
 and	O
 of	O
-wh	B-NORP
-ā	I-NORP
-nau	I-NORP
+whānau	B-NORP
 ,	O
 every	O
 single	O
@@ -812,9 +793,7 @@ you	O
 have	O
 with	O
 a	O
-wh	B-NORP
-ā	I-NORP
-nau	I-NORP
+whānau	B-NORP
 member	O
 ,	O
 you're	O
@@ -858,26 +837,20 @@ Canterbury	B-Location
 
 Labour	B-Organization
 MP	O
-T	B-Person
-ā	I-Person
-mati	I-Person
+Tāmati	B-Person
 Coffey	I-Person
 has	O
 put	O
 out	O
 a	O
-p	O
-ā	O
-nui	O
+pānui	O
 to	O
 other	O
 iwi	B-NORP
 .	O
 
 "	O
-Ng	B-NORP
-ā	I-NORP
-i	I-NORP
+Ngāi	B-NORP
 Tahu	I-NORP
 have	O
 opened	O

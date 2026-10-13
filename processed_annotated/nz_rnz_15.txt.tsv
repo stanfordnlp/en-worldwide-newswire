@@ -79,9 +79,7 @@ the	O
 justice	O
 system	O
 affects	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 .	O
 
 Its	O
@@ -98,17 +96,14 @@ Tribunal	B-Organization
 itself	O
 .	O
 
-Ng	B-Location
-ā	I-Location
-ti	I-Location
+Ngāti	B-Location
 Hine	I-Location
 leader	O
 Pita	B-Person
 Tipene	I-Person
 used	O
 a	O
-whakatauk	O
-ī	O
+whakataukī	O
 to	O
 describe	O
 how	O
@@ -130,9 +125,7 @@ rangi	O
 he	O
 tirohanga	O
 mutu	O
-ng	O
-ā	O
-kore	O
+ngākore	O
 ,	O
 he	O
 huruhuru	O
@@ -679,9 +672,7 @@ said	O
 .	O
 
 Many	O
-wh	O
-ā	O
-nau	O
+whānau	O
 often	O
 had	O
 difficulty	O
@@ -814,9 +805,7 @@ suggest	O
 that	O
 when	O
 a	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 claimant	O
 comes	O
 against	O

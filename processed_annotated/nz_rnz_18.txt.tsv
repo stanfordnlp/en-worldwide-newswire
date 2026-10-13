@@ -32,9 +32,7 @@ the	O
 funds	O
 could	O
 help	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 writers	O
 .	O
 
@@ -101,9 +99,7 @@ give	O
 out	O
 grants	O
 to	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 authors	O
 .	O
 
@@ -216,9 +212,7 @@ the	O
 Pegasus	B-Misc
 prize	O
 for	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 literature	O
 .	O
 
@@ -506,9 +500,7 @@ special	O
 to	O
 us	O
 as	O
-wh	B-NORP
-ā	I-NORP
-nau	I-NORP
+whānau	B-NORP
 .	O
 
 Obviously	O

@@ -76,9 +76,7 @@ Zealanders	I-NORP
 ,	O
 especially	O
 for	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 ,	O
 Pacific	B-Location
 and	O
@@ -119,9 +117,7 @@ bridge	O
 the	O
 gap	O
 between	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 and	O
 Pasifika	B-NORP
 communities	O

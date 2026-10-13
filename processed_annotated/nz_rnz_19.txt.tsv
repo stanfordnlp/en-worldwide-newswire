@@ -91,23 +91,15 @@ women	O
 teams	O
 from	O
 Te	B-Location
-Aup	I-Location
-ō	I-Location
-uri	I-Location
+Aupōuri	I-Location
 Kuaka	I-Location
 ,	O
-T	B-Location
-ū	I-Location
-horonuku	I-Location
+Tūhoronuku	B-Location
 Mid	I-Location
 North	I-Location
 and	O
-Whang	B-Location
-ā	I-Location
-rei	I-Location
-Hau	I-Location
-ā	I-Location
-whiowhio	I-Location
+Whangārei	B-Location
+Hauāwhiowhio	I-Location
 ,	O
 playing	O
 over	O
@@ -115,9 +107,7 @@ three	O
 consecutive	O
 weekends	O
 in	O
-Whang	B-Location
-ā	I-Location
-rei	I-Location
+Whangārei	B-Location
 ,	O
 Te	B-Location
 Kao	I-Location
@@ -301,9 +291,7 @@ also	O
 a	O
 chance	O
 for	O
-w	O
-ā	O
-hine	O
+wāhine	O
 to	O
 be	O
 selected	O
@@ -349,9 +337,7 @@ old	O
 Athanasious	B-Person
 Kohu	I-Person
 from	O
-Ng	B-NORP
-ā	I-NORP
-puhi	I-NORP
+Ngāpuhi	B-NORP
 .	O
 
 Both	O
@@ -392,9 +378,7 @@ in	O
 different	O
 grades	O
 for	O
-Hau	B-Misc
-ā	I-Misc
-whiowhio	I-Misc
+Hauāwhiowhio	B-Misc
 .	O
 
 Athanasious	O
@@ -483,9 +467,7 @@ from	O
 Fiona	B-Person
 said	O
 wahine	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 were	O
 paving	O
 the	O
@@ -593,9 +575,7 @@ be	O
 popular	O
 with	O
 more	O
-w	O
-ā	O
-hine	O
+wāhine	O
 lacing	O
 up	O
 their	O
@@ -638,9 +618,7 @@ grounded	O
 in	O
 Te	B-NORP
 Ao	I-NORP
-M	I-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	I-NORP
 ,	O
 it	O
 's	O

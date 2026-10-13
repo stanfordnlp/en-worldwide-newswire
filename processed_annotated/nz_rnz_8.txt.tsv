@@ -8,9 +8,7 @@ the	O
 main	O
 access	O
 to	O
-M	B-Location
-ā	I-Location
-hia	I-Location
+Māhia	B-Location
 Peninsula	I-Location
 is	O
 slowly	O
@@ -54,9 +52,7 @@ Gisborne	B-Location
 north	O
 )	O
 with	O
-M	B-Location
-ā	I-Location
-hia	I-Location
+Māhia	B-Location
 -	O
 a	O
 peninsula	O
@@ -280,9 +276,7 @@ Loop	I-Location
 an	O
 area	O
 between	O
-M	B-Location
-ā	I-Location
-hia	I-Location
+Māhia	B-Location
 and	O
 Gisborne	B-Location
 -	O
@@ -542,9 +536,7 @@ said	O
 Coastal	O
 erosion	O
 and	O
-M	B-Location
-ā	I-Location
-hia	I-Location
+Māhia	B-Location
 connectivity	O
 had	O
 been	O

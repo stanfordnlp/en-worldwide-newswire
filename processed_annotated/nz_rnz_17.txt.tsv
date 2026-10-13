@@ -1,9 +1,7 @@
 https://www.rnz.co.nz/news/te-manu-korihi/471206/it-s-ridiculous-anger-over-maori-children-being-zoned-out-of-iwi-or-hapu-land	O
 
 Some	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 educators	O
 want	O
 an	O
@@ -32,9 +30,7 @@ on	O
 
 They	O
 say	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 children	O
 should	O
 have	O
@@ -51,8 +47,7 @@ of	O
 their	O
 iwi	B-NORP
 or	O
-hap	B-NORP
-ū	I-NORP
+hapū	B-NORP
 and	O
 the	O
 Education	B-Organization
@@ -159,9 +154,7 @@ schools	O
 
 Te	B-Organization
 Akatea	I-Organization
-M	I-Organization	B-NORP
-ā	I-Organization	I-NORP
-ori	I-Organization	I-NORP
+Māori	I-Organization	B-NORP
 Principals	I-Organization
 Association	I-Organization
 president	O
@@ -187,9 +180,7 @@ on	O
 He	O
 said	O
 considering	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 children	O
 out	O
 -	O
@@ -226,9 +217,7 @@ has	O
 been	O
 gifted	O
 by	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 in	O
 some	O
 circumstances	O
@@ -336,9 +325,7 @@ legislation	O
 and	O
 includes	O
 the	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 community	O
 associated	O
 with	O
@@ -385,8 +372,7 @@ talking	O
 to	O
 iwi	B-NORP
 and	O
-hap	B-NORP
-ū	I-NORP
+hapū	B-NORP
 leaders	O
 .	O
 
@@ -406,11 +392,7 @@ in	O
 Mount	B-Location
 Maunganui	I-Location
 and	O
-P	B-Location
-ā	I-Location
-p	I-Location
-ā	I-Location
-moa	I-Location
+Pāpāmoa	B-Location
 last	O
 year	O
 ,	O
@@ -501,9 +483,7 @@ fits	O
 -	O
 all	O
 but	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 are	O
 n't	O
 in	O
@@ -522,18 +502,11 @@ the	O
 Tauranga	B-Location
 iwi	B-NORP
 ,	O
-Ng	B-Location
-ā	I-Location
-P	I-Location
-ō	I-Location
-tiki	I-Location
+Ngā	B-Location
+Pōtiki	I-Location
 ,	O
-Ng	B-Misc
-ā	I-Misc
-kohu	I-Misc
-P	B-Location
-ā	I-Location
-puni	I-Location
+Ngākohu	B-Misc
+Pāpuni	B-Location
 said	O
 the	O
 ministry	O
@@ -543,8 +516,7 @@ to	O
 local	O
 iwi	B-NORP
 and	O
-hap	B-NORP
-ū	I-NORP
+hapū	B-NORP
 because	O
 zones	O
 could	O
@@ -555,9 +527,7 @@ for	O
 schools	O
 and	O
 local	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 .	O
 
 "	O
@@ -572,8 +542,7 @@ out	O
 to	O
 iwi	B-NORP
 ,	O
-hap	B-NORP
-ū	I-NORP
+hapū	B-NORP
 ,	O
 mana	O
 whenua	O
@@ -642,18 +611,13 @@ another	O
 neighbouring	O
 iwi	B-NORP
 and	O
-hap	B-NORP
-ū	I-NORP
+hapū	B-NORP
 .	O
 "	O
 
-P	B-Location
-ā	I-Location
-puni	I-Location
+Pāpuni	B-Location
 said	O
-M	B-NORP
-ā	I-NORP
-ori	I-NORP
+Māori	B-NORP
 children	O
 should	O
 not	O
@@ -670,8 +634,7 @@ within	O
 their	O
 iwi	B-NORP
 or	O
-hap	B-NORP
-ū	I-NORP
+hapū	B-NORP
 area	O
 .	O
 
