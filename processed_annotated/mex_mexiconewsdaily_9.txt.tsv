@@ -3,7 +3,7 @@ https://mexiconewsdaily.com/mexicolife/san-miguel-de-allende-known-for-hiking/	O
 Travel	B-Organization
 +	I-Organization
 Leisure	I-Organization
-magazine	I-Misc
+magazine	O
 calls	O
 San	B-Location
 Miguel	I-Location

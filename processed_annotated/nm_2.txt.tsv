@@ -93,9 +93,9 @@ and	O
 Swakopmund	B-Organization	B-Location
 Fistball	I-Organization
 Club	I-Organization
-(	O
-SFC	B-Organization
-)	O
+(	I-Organization
+SFC	I-Organization	B-Organization
+)	I-Organization
 1	I-Organization
 will	O
 join	O

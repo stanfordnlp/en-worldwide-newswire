@@ -43,7 +43,7 @@ citing	O
 the	O
 Taliban	B-Organization	B-NORP
 's	O
-Ministry	I-Organization
+Ministry	B-Organization
 of	I-Organization
 Finance	I-Organization
 .	O
